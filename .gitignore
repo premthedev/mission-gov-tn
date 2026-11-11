@@ -1,0 +1,15 @@
+node_modules/
+dist/
+# Android project is generated in CI by `npx cap add android`
+android/
+# Signing material and secrets: never commit
+*.p12
+*.jks
+*.keystore
+*.secrets.txt
+.env
+.env.*
+# Pipeline working files (rendered pages, raw extraction output)
+tools/work/
+*.log
+.DS_Store

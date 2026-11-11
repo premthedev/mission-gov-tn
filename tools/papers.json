@@ -1,0 +1,19 @@
+{
+  "base": "https://www.tnpsc.gov.in/",
+  "note": "Official TNPSC Group 4-level papers (tentative-key booklets have the answers ticked). Final keys override ticks where readable.",
+  "papers": [
+    { "exam": "G4-2025", "year": 2025, "title": "Group IV 2025 (12 Jul 2025, Code 496)", "era": "CURRENT", "booklet": "Tentative/Document/07_2025_GENEAL_TAMIL_GS.pdf", "finalKey": "Document/Answerkeyfinalresult/07_2025_CCSE_IV_FINAL_ANSWER_KEY.pdf", "finalKeyReadable": false },
+    { "exam": "G4-2024", "year": 2024, "title": "Group IV 2024 (9 Jun 2024, Code 003)", "era": "OVERLAP", "booklet": "Tentative/Document/01_2024_GR_IV_GENERAL_TAMIL.pdf", "finalKey": "Document/Answerkeyfinalresult/01_2024_Final _Answer_Key_GT_GE.pdf", "finalKeyReadable": true },
+    { "exam": "G4-2022", "year": 2022, "title": "Group IV 2022 (24 Jul 2022)", "era": "OVERLAP", "booklet": "Tentative/Document/CCS4T_2022_OPT.pdf", "finalKey": "Document/Answerkeyfinalresult/07_22_GR_IV_FINAL_KEY.pdf", "finalKeyReadable": true },
+    { "exam": "G4-2019-GS", "year": 2019, "title": "Group IV 2019 GS (1 Sep 2019)", "era": "OVERLAP", "booklet": "Tentative/Document/10_09_2019_GS.pdf", "finalKey": "Document/Answerkeyfinalresult/2019_19_GR_IV_FINANS_KEY.pdf" },
+    { "exam": "G4-2019-GT", "year": 2019, "title": "Group IV 2019 General Tamil", "era": "OVERLAP", "booklet": "Tentative/Document/10_09_2019_GT.pdf", "finalKey": "Document/Answerkeyfinalresult/2019_19_GR_IV_FINANS_KEY.pdf" },
+    { "exam": "G4-2018-GS", "year": 2018, "title": "Group IV 2018 GS (11 Feb 2018)", "era": "OVERLAP", "booklet": "Tentative/Document/14_02_2018_CCSE_IV_GS.pdf", "finalKey": "Document/Answerkeyfinalresult/GROUP_IV_FIN_ANS_KEY_23_2017.pdf" },
+    { "exam": "G4-2018-GT", "year": 2018, "title": "Group IV 2018 General Tamil", "era": "OVERLAP", "booklet": "Tentative/Document/23_2017_GR_IV_SERVICES_GT.pdf", "finalKey": "Document/Answerkeyfinalresult/GROUP_IV_FIN_ANS_KEY_23_2017.pdf" },
+    { "exam": "G4-2016-GS", "year": 2016, "title": "Group IV 2016 GS (6 Nov 2016)", "era": "OVERLAP", "booklet": "Tentative/Document/06_11_2016_g4_gs.pdf", "finalKey": "Document/Answerkeyfinalresult/06_11_2016_GROUP_IV_FIN_ANS_KEYS.pdf" },
+    { "exam": "G4-2016-GT", "year": 2016, "title": "Group IV 2016 General Tamil", "era": "OVERLAP", "booklet": "Tentative/Document/06_11_2016_g4_gt.pdf", "finalKey": "Document/Answerkeyfinalresult/06_11_2016_GROUP_IV_FIN_ANS_KEYS.pdf" },
+    { "exam": "VAO-2016-GS", "year": 2016, "title": "VAO 2016 GS (28 Feb 2016)", "era": "OVERLAP", "booklet": "Tentative/Document/28_02_2016_vao2k14_gs.pdf" },
+    { "exam": "VAO-2016-GT", "year": 2016, "title": "VAO 2016 General Tamil", "era": "OVERLAP", "booklet": "Tentative/Document/28_02_2016_vao2k14_gt.pdf" },
+    { "exam": "G4-2012-GS", "year": 2012, "title": "Group IV 2012 GS (7 Jul 2012)", "era": "OVERLAP", "booklet": "Tentative/Document/GK_07_07_2012_NEW.pdf" },
+    { "exam": "G4-2012-GT", "year": 2012, "title": "Group IV 2012 General Tamil", "era": "OVERLAP", "booklet": "Tentative/Document/GT_07_07_2012_NEW.pdf" }
+  ]
+}

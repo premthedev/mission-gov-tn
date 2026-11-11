@@ -1,0 +1,86 @@
+[
+  {
+    "id": "w1-oli-veruppadu",
+    "unit": "A1",
+    "topic": "oli-veruppadu",
+    "week": 1,
+    "seq": 1,
+    "minutes": 20,
+    "title": { "ta": "ஒலி வேறுபாடு: குறில்-நெடில், ல-ள-ழ, ன-ண, ர-ற", "en": "Sound differences that change meaning" },
+    "oneLine": { "ta": "ஒரே மாதிரி ஒலிக்கும் எழுத்து மாறினால் சொல்லின் பொருளே மாறும்.", "en": "Change one look-alike letter and the word means something else." },
+    "sections": [
+      {
+        "heading": { "ta": "ஏன் இது முக்கியம்?", "en": "Why it matters" },
+        "body": { "ta": "TNPSC இரண்டு வகையாகக் கேட்கும்: (1) \"ஒலி வேறுபாடு அறிந்து சரியான பொருளைத் தேர்ந்தெடு\", (2) \"பிழையான சொல்லைக் கண்டறி\". பாடத்திட்டத்தில் குறில்-நெடில், லகர-ளகர-ழகர, னகர-ணகர, ரகர-றகர வேறுபாடுகள் தனித்தனியாகக் குறிப்பிடப்பட்டுள்ளன.", "en": "TNPSC asks you to pick the right meaning of a look-alike word, or to spot the misspelled one. The syllabus lists each of these pairs by name." }
+      },
+      {
+        "heading": { "ta": "குறில் - நெடில்", "en": "Short vs long vowel" },
+        "body": { "ta": "குறில் = ஒரு மாத்திரை (அ, இ, உ, எ, ஒ). நெடில் = இரண்டு மாத்திரை (ஆ, ஈ, ஊ, ஏ, ஐ, ஓ, ஔ). கல் (கல்லு) - கால் (உடல் உறுப்பு); விடு (விட்டுவிடு) - வீடு (இல்லம்); கொடு (தா) - கோடு (வரி); மலை (குன்று) - மாலை (பொழுது / பூமாலை); பல் - பால்.", "en": "Short vowels take one beat, long vowels two. kal (stone) / kaal (leg), vidu (leave) / veedu (house), kodu (give) / kodu (line), malai (hill) / maalai (evening, garland)." }
+      },
+      {
+        "heading": { "ta": "ல - ள - ழ, ன - ண, ர - ற", "en": "The three l-sounds, two n-sounds, two r-sounds" },
+        "body": { "ta": "வால் (விலங்கின் வால்) - வாள் (கத்தி) - வாழ் (வாழ்தல்)\nவலி (நோவு) - வளி (காற்று) - வழி (பாதை)\nகலை (கலைகள்) - களை (பயிருடன் வளரும் புல்; சோர்வு) - கழை (மூங்கில்)\nகனி (பழம்) - கணி (கணக்கிடு); பனி (குளிர்ச் சொட்டு) - பணி (வேலை); மனம் (உள்ளம்) - மணம் (வாசனை; திருமணம்); ஊன் (தசை) - ஊண் (உணவு)\nஅரம் (இரும்பை அராவும் கருவி) - அறம் (நல்லொழுக்கம்); கரை (ஆற்றங்கரை) - கறை (அழுக்கு); இரை (விலங்கின் உணவு) - இறை (கடவுள்); மரம் - மறம் (வீரம்).", "en": "vaal (tail) / vaaL (sword) / vaazh (live); vali (pain) / vaLi (wind) / vazhi (way); kani (fruit) / kaNi (calculate); pani (dew) / paNi (work); araM (file, the tool) / aRam (virtue); karai (shore) / kaRai (stain); irai (prey) / iRai (God)." }
+      }
+    ],
+    "examples": [
+      { "q": { "ta": "\"வளி\" என்பதன் பொருள்?" }, "a": { "ta": "காற்று. (வலி = நோவு, வழி = பாதை)" } },
+      { "q": { "ta": "\"ஊண்\", \"ஊன்\" வேறுபாடு?" }, "a": { "ta": "ஊண் = உணவு; ஊன் = தசை (இறைச்சி)." } },
+      { "q": { "ta": "ஆற்றின் ___ யில் மரங்கள் உள்ளன. (கரை / கறை)" }, "a": { "ta": "கரை. கறை என்றால் அழுக்கு." } },
+      { "q": { "ta": "\"கழை\" என்பதன் பொருள்?" }, "a": { "ta": "மூங்கில். (கலை = கலைகள், களை = புல் / சோர்வு)" } }
+    ],
+    "traps": [
+      { "ta": "விடைகள் நான்கும் ஒன்றுபோல் தோன்றும். ஒவ்வொரு சொல்லையும் ஒரு வாக்கியத்தில் பொருத்திப் பாருங்கள்.", "en": "All four options look alike. Try each one in a sentence." },
+      { "ta": "\"பிழையான சொல் எது?\" என்று கேட்டால், சரியானதை அல்ல, பிழையானதைத் தேர்ந்தெடுக்க வேண்டும்.", "en": "When the question asks for the wrong word, don't pick the correct one." }
+    ],
+    "check": [
+      { "stem": "\"வளி\" என்பதன் பொருள் யாது?", "options": ["வழி", "காற்று", "வலிமை", "நோவு"], "answer": "B", "explain": { "ta": "வளி = காற்று. வழி = பாதை, வலி = நோவு / வலிமை.", "en": "vaLi means wind/air." } },
+      { "stem": "\"ஊண்\" என்பதன் பொருள்?", "options": ["உணவு", "தசை", "உடல்", "உறக்கம்"], "answer": "A", "explain": { "ta": "ஊண் = உணவு. ஊன் = தசை.", "en": "ooN = food; oon = flesh." } },
+      { "stem": "\"இறை\" என்பதன் பொருள்?", "options": ["விலங்கின் உணவு", "கடவுள்", "மழை", "இரவு"], "answer": "B", "explain": { "ta": "இறை = கடவுள். இரை = விலங்கின் உணவு.", "en": "iRai = God; irai = prey." } },
+      { "stem": "ஆற்றின் ______ யில் மரங்கள் உள்ளன.", "options": ["கறை", "கரை", "கரைய", "கறைய"], "answer": "B", "explain": { "ta": "கரை = ஆற்றின் ஓரம். கறை = அழுக்கு.", "en": "karai = river bank." } },
+      { "stem": "\"அறம்\" என்பதன் பொருள்?", "options": ["இரும்பை அராவும் கருவி", "நல்லொழுக்கம்", "மரம்", "வீரம்"], "answer": "B", "explain": { "ta": "அறம் = நல்லொழுக்கம் / நீதி. அரம் = அராவும் கருவி; மறம் = வீரம்.", "en": "aRam = virtue." } }
+    ],
+    "sourceRef": "TNPSC syllabus Code 496, Unit I; Samacheer Tamil 6th–9th grammar"
+  },
+  {
+    "id": "w1-inam-suttu-vina",
+    "unit": "A1",
+    "topic": "inam-suttu-vina",
+    "week": 1,
+    "seq": 3,
+    "minutes": 20,
+    "title": { "ta": "இனவெழுத்துகள், சுட்டு எழுத்துகள், வினா எழுத்துகள்", "en": "Paired letters, pointing letters, question letters" },
+    "oneLine": { "ta": "மெல்லின மெய்க்குப் பின் அதன் இன வல்லினமே வரும்; சுட்டு அ, இ, உ; வினா எ, யா, ஆ, ஓ, ஏ.", "en": "A nasal is followed by its own paired hard letter; pointing letters a, i, u; question letters e, yaa, aa, o, ee." }
+  ,
+    "sections": [
+      {
+        "heading": { "ta": "இனவெழுத்துகள்", "en": "Paired letters" },
+        "body": { "ta": "வல்லினமும் மெல்லினமும் இணைகள்: க-ங, ச-ஞ, ட-ண, த-ந, ப-ம, ற-ன. சொல்லில் மெல்லின மெய்யை அடுத்து அதன் இன வல்லினமே வரும்: தங்கம் (ங்க), மஞ்சள் (ஞ்ச), வண்டு (ண்ட), பந்து (ந்த), கம்பு (ம்ப), கன்று (ன்ற).\nஎனவே \"பன்டம்\" தவறு, \"பண்டம்\" சரி; \"நன்ரி\" தவறு, \"நன்றி\" சரி.", "en": "Hard–soft pairs: k-ng, ch-ny, T-N, th-n, p-m, R-n. Inside a word a nasal is followed only by its own partner: thangam, manjaL, vaNdu, pandhu, kambu, kanRu." }
+      },
+      {
+        "heading": { "ta": "சுட்டு எழுத்துகள்: அ, இ, உ", "en": "Pointing letters" },
+        "body": { "ta": "அ = சேய்மைச் சுட்டு (தொலைவு: அவன், அது), இ = அண்மைச் சுட்டு (அருகில்: இவன், இது), உ = இடையில் உள்ளதைக் குறிக்கும் பழைய வழக்கு.\nஅகச்சுட்டு: சுட்டு எழுத்து சொல்லின் உள்ளேயே இருந்து பிரிக்க முடியாது (அவன், இவள், அது).\nபுறச்சுட்டு: சுட்டு எழுத்து வெளியே நின்று பிரிக்கலாம் (அவ்வீடு = அ + வீடு, இந்நாய் = இ + நாய்).", "en": "a = far, i = near. Internal pointer cannot be separated (avan); external pointer can (av-veedu = a + veedu)." }
+      },
+      {
+        "heading": { "ta": "வினா எழுத்துகள்: எ, யா, ஆ, ஓ, ஏ", "en": "Question letters" },
+        "body": { "ta": "சொல்லின் முதலில் வருபவை: எ (எது, எங்கே), யா (யார், யாவை).\nசொல்லின் இறுதியில் வருபவை: ஆ (அவனா?), ஓ (அவனோ?).\nமுதலிலும் இறுதியிலும் வருவது: ஏ (ஏன்? / நீதானே?).\nஅகவினா: பிரிக்க முடியாதது (எது, யார், ஏன்). புறவினா: பிரிக்கக்கூடியது (எவ்வீடு, அவனா).", "en": "e and yaa start a word; aa and o end it; ee does both. Internal vs external works like the pointing letters." }
+      }
+    ],
+    "examples": [
+      { "q": { "ta": "\"ட\" வல்லினத்தின் இன மெல்லினம்?" }, "a": { "ta": "ண (வண்டு, கண்டு)." } },
+      { "q": { "ta": "\"அவ்வீடு\" எந்தச் சுட்டு?" }, "a": { "ta": "புறச்சுட்டு (அ + வீடு)." } },
+      { "q": { "ta": "சொல்லின் இறுதியில் மட்டும் வரும் வினா எழுத்துகள்?" }, "a": { "ta": "ஆ, ஓ." } }
+    ],
+    "traps": [
+      { "ta": "\"ஏ\" முதலிலும் இறுதியிலும் வரும். \"இறுதியில் மட்டும்\" என்று கேட்டால் ஆ, ஓ தான்.", "en": "ee appears at both ends; 'only at the end' means aa and o." },
+      { "ta": "\"அவன்\" அகச்சுட்டு (பிரிக்க முடியாது); \"அப்பையன்\" புறச்சுட்டு.", "en": "avan is internal; ap-paiyan is external." }
+    ],
+    "check": [
+      { "stem": "\"அவ்வீடு\" என்பதில் உள்ள சுட்டு?", "options": ["அகச்சுட்டு", "புறச்சுட்டு", "அகவினா", "புறவினா"], "answer": "B", "explain": { "ta": "அ + வீடு எனப் பிரிக்கலாம்; எனவே புறச்சுட்டு.", "en": "It splits as a + veedu, so external." } },
+      { "stem": "சொல்லின் இறுதியில் மட்டும் வரும் வினா எழுத்துகள்?", "options": ["எ, யா", "ஆ, ஓ", "ஏ", "அ, இ"], "answer": "B", "explain": { "ta": "ஆ, ஓ இறுதியில் மட்டும்; எ, யா முதலில் மட்டும்; ஏ இரண்டிலும்.", "en": "aa and o end a word." } },
+      { "stem": "சரியாக எழுதப்பட்ட சொல்லைத் தேர்ந்தெடு.", "options": ["கன்டு", "கண்டு", "கந்டு", "கஞ்டு"], "answer": "B", "explain": { "ta": "ட-வுக்கு இனம் ண. எனவே கண்டு.", "en": "T pairs with N: kaNdu." } },
+      { "stem": "\"ட\" என்ற வல்லினத்தின் இன மெல்லினம்?", "options": ["ந", "ண", "ன", "ம"], "answer": "B", "explain": { "ta": "இணைகள்: க-ங, ச-ஞ, ட-ண, த-ந, ப-ம, ற-ன.", "en": "T–N is a pair." } },
+      { "stem": "\"யார்\" என்பது?", "options": ["அகவினா", "புறவினா", "அகச்சுட்டு", "புறச்சுட்டு"], "answer": "A", "explain": { "ta": "யா சொல்லின் உள்ளேயே உள்ளது; பிரிக்க முடியாது. அகவினா.", "en": "yaa cannot be separated: internal question." } }
+    ],
+    "sourceRef": "TNPSC syllabus Code 496, Unit I; Samacheer Tamil 6th grammar (சுட்டு, வினா எழுத்துகள்)"
+  }
+]

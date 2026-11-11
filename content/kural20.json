@@ -1,0 +1,1787 @@
+{
+ "source": "tk120404/thirukkural (Apache-2.0); English verse: G.U. Pope (public domain)",
+ "chapters": [
+  {
+   "order": 1,
+   "ch": 14,
+   "name": "ஒழுக்கம் உடைமை",
+   "en": "The Possession of Decorum",
+   "paal": "அறத்துப்பால்",
+   "start": 131,
+   "end": 140
+  },
+  {
+   "order": 2,
+   "ch": 16,
+   "name": "பொறையுடைமை",
+   "en": "The Possession of Patience, Forbearance",
+   "paal": "அறத்துப்பால்",
+   "start": 151,
+   "end": 160
+  },
+  {
+   "order": 3,
+   "ch": 60,
+   "name": "ஊக்கம் உடைமை",
+   "en": "Energy",
+   "paal": "பொருட்பால்",
+   "start": 591,
+   "end": 600
+  },
+  {
+   "order": 4,
+   "ch": 9,
+   "name": "விருந்தோம்பல்",
+   "en": "Hospitality",
+   "paal": "அறத்துப்பால்",
+   "start": 81,
+   "end": 90
+  },
+  {
+   "order": 5,
+   "ch": 4,
+   "name": "அறன் வலியுறுத்தல்",
+   "en": "Assertion of the Strength of Virtue",
+   "paal": "அறத்துப்பால்",
+   "start": 31,
+   "end": 40
+  },
+  {
+   "order": 6,
+   "ch": 23,
+   "name": "ஈகை",
+   "en": "Giving",
+   "paal": "அறத்துப்பால்",
+   "start": 221,
+   "end": 230
+  },
+  {
+   "order": 7,
+   "ch": 45,
+   "name": "பெரியாரைத் துணைக்கோடல்",
+   "en": "Seeking the Aid of Great Men",
+   "paal": "பொருட்பால்",
+   "start": 441,
+   "end": 450
+  },
+  {
+   "order": 8,
+   "ch": 68,
+   "name": "வினை செயல்வகை",
+   "en": "Modes of Action",
+   "paal": "பொருட்பால்",
+   "start": 671,
+   "end": 680
+  },
+  {
+   "order": 9,
+   "ch": 73,
+   "name": "அவை அஞ்சாமை",
+   "en": "Not to dread the Council",
+   "paal": "பொருட்பால்",
+   "start": 721,
+   "end": 730
+  },
+  {
+   "order": 10,
+   "ch": 58,
+   "name": "கண்ணோட்டம்",
+   "en": "Benignity",
+   "paal": "பொருட்பால்",
+   "start": 571,
+   "end": 580
+  },
+  {
+   "order": 11,
+   "ch": 8,
+   "name": "அன்புடைமை",
+   "en": "The Possession of Love",
+   "paal": "அறத்துப்பால்",
+   "start": 71,
+   "end": 80
+  },
+  {
+   "order": 12,
+   "ch": 40,
+   "name": "கல்வி",
+   "en": "Learning",
+   "paal": "பொருட்பால்",
+   "start": 391,
+   "end": 400
+  },
+  {
+   "order": 13,
+   "ch": 12,
+   "name": "நடுவு நிலைமை",
+   "en": "Impartiality",
+   "paal": "அறத்துப்பால்",
+   "start": 111,
+   "end": 120
+  },
+  {
+   "order": 14,
+   "ch": 28,
+   "name": "கூடா ஒழுக்கம்",
+   "en": "Imposture",
+   "paal": "அறத்துப்பால்",
+   "start": 271,
+   "end": 280
+  },
+  {
+   "order": 15,
+   "ch": 41,
+   "name": "கல்லாமை",
+   "en": "Ignorance",
+   "paal": "பொருட்பால்",
+   "start": 401,
+   "end": 410
+  },
+  {
+   "order": 16,
+   "ch": 55,
+   "name": "செங்கோன்மை",
+   "en": "The Right Sceptre",
+   "paal": "பொருட்பால்",
+   "start": 541,
+   "end": 550
+  },
+  {
+   "order": 17,
+   "ch": 100,
+   "name": "பண்புடைமை",
+   "en": "Courtesy",
+   "paal": "பொருட்பால்",
+   "start": 991,
+   "end": 1000
+  },
+  {
+   "order": 18,
+   "ch": 80,
+   "name": "நட்பாராய்தல்",
+   "en": "Investigation in forming Friendships",
+   "paal": "பொருட்பால்",
+   "start": 791,
+   "end": 800
+  },
+  {
+   "order": 19,
+   "ch": 19,
+   "name": "புறங்கூறாமை",
+   "en": "Not Backbiting",
+   "paal": "அறத்துப்பால்",
+   "start": 181,
+   "end": 190
+  },
+  {
+   "order": 20,
+   "ch": 25,
+   "name": "அருளுடைமை",
+   "en": "Compassion",
+   "paal": "அறத்துப்பால்",
+   "start": 241,
+   "end": 250
+  }
+ ],
+ "kurals": [
+  {
+   "n": 131,
+   "ch": 14,
+   "order": 1,
+   "l1": "ஒழுக்கம் விழுப்பந் தரலான் ஒழுக்கம்",
+   "l2": "உயிரினும் ஓம்பப் படும்.",
+   "pope": "'Decorum' gives especial excellence; with greater care'Decorum' should men guard than life, which all men share"
+  },
+  {
+   "n": 132,
+   "ch": 14,
+   "order": 1,
+   "l1": "பரிந்தோம்பிக் காக்க ஒழுக்கம் தெரிந்தோம்பித்",
+   "l2": "தேரினும் அஃதே துணை.",
+   "pope": "Searching, duly watching, learning, 'decorum' still we find; Man's only aid; toiling, guard thou this with watchful mind"
+  },
+  {
+   "n": 133,
+   "ch": 14,
+   "order": 1,
+   "l1": "ஒழுக்கம் உடைமை குடிமை இழுக்கம்",
+   "l2": "இழிந்த பிறப்பாய் விடும்.",
+   "pope": "'Decorum's' true nobility on earth;'Indecorum's' issue is ignoble birth"
+  },
+  {
+   "n": 134,
+   "ch": 14,
+   "order": 1,
+   "l1": "மறப்பினும் ஓத்துக் கொளலாகும் பார்ப்பான்",
+   "l2": "பிறப்பொழுக்கங் குன்றக் கெடும்.",
+   "pope": "Though he forget, the Brahman may regain his Vedic lore; Failing in 'decorum due,' birthright's gone for evermore"
+  },
+  {
+   "n": 135,
+   "ch": 14,
+   "order": 1,
+   "l1": "அழுக்கா றுடையான்கண் ஆக்கம்போன்று இல்லை",
+   "l2": "ஒழுக்க மிலான்கண் உயர்வு.",
+   "pope": "The envious soul in life no rich increase of blessing gains, So man of 'due decorum' void no dignity obtains"
+  },
+  {
+   "n": 136,
+   "ch": 14,
+   "order": 1,
+   "l1": "ஒழுக்கத்தின் ஒல்கார் உரவோர் இழுக்கத்தின்",
+   "l2": "ஏதம் படுபாக் கறிந்து.",
+   "pope": "The strong of soul no jot abate of 'strict decorum's' laws, Knowing that 'due decorum's' breach foulest disgrace will cause"
+  },
+  {
+   "n": 137,
+   "ch": 14,
+   "order": 1,
+   "l1": "ஒழுக்கத்தின் எய்துவர் மேன்மை இழுக்கத்தின்",
+   "l2": "எய்துவர் எய்தாப் பழி.",
+   "pope": "'Tis source of dignity when 'true decorum' is preserved; Who break 'decorum's' rules endure e'en censures undeserved"
+  },
+  {
+   "n": 138,
+   "ch": 14,
+   "order": 1,
+   "l1": "நன்றிக்கு வித்தாகும் நல்லொழுக்கம் தீயொழுக்கம்",
+   "l2": "என்றும் இடும்பை தரும்.",
+   "pope": "'Decorum true' observed a seed of good will be;'Decorum's breach' will sorrow yield eternally"
+  },
+  {
+   "n": 139,
+   "ch": 14,
+   "order": 1,
+   "l1": "ஒழுக்க முடையவர்க்கு ஒல்லாவே தீய",
+   "l2": "வழுக்கியும் வாயாற் சொலல்.",
+   "pope": "It cannot be that they who 'strict decorum's' law fulfil, E'en in forgetful mood, should utter words of ill"
+  },
+  {
+   "n": 140,
+   "ch": 14,
+   "order": 1,
+   "l1": "உலகத்தோடு ஒட்ட ஒழுகல் பலகற்றும்",
+   "l2": "கல்லார் அறிவிலா தார்",
+   "pope": "Who know not with the world in harmony to dwell, May many things have learned, but nothing well"
+  },
+  {
+   "n": 151,
+   "ch": 16,
+   "order": 2,
+   "l1": "அகழ்வாரைத் தாங்கும் நிலம்போலத் தம்மை",
+   "l2": "இகழ்வார்ப் பொறுத்தல் தலை.",
+   "pope": "As earth bears up the men who delve into her breast, To bear with scornful men of virtues is the best"
+  },
+  {
+   "n": 152,
+   "ch": 16,
+   "order": 2,
+   "l1": "பொறுத்தல் இறப்பினை என்றும் அதனை",
+   "l2": "மறத்தல் அதனினும் நன்று.",
+   "pope": "Forgiving trespasses is good always; Forgetting them hath even higher praise;"
+  },
+  {
+   "n": 153,
+   "ch": 16,
+   "order": 2,
+   "l1": "இன்மையுள் இன்மை விருந்தொரால் வன்மையுள்",
+   "l2": "வன்மை மடவார்ப் பொறை.",
+   "pope": "The sorest poverty is bidding guest unfed depart; The mightiest might to bear with men of foolish heart"
+  },
+  {
+   "n": 154,
+   "ch": 16,
+   "order": 2,
+   "l1": "நிறையுடைமை நீங்காமை வேண்டின் பொற்யுடைமை",
+   "l2": "போற்றி யொழுகப் படும்.",
+   "pope": "Seek'st thou honour never tarnished to retain; So must thou patience, guarding evermore, maintain"
+  },
+  {
+   "n": 155,
+   "ch": 16,
+   "order": 2,
+   "l1": "ஒறுத்தாரை ஒன்றாக வையாரே வைப்பர்",
+   "l2": "பொறுத்தாரைப் பொன்போற் பொதிந்து.",
+   "pope": "Who wreak their wrath as worthless are despised; Who patiently forbear as gold are prized"
+  },
+  {
+   "n": 156,
+   "ch": 16,
+   "order": 2,
+   "l1": "ஒறுத்தார்க்கு ஒருநாளை இன்பம் பொறுத்தார்க்குப்",
+   "l2": "பொன்றுந் துணையும் புகழ்.",
+   "pope": "Who wreak their wrath have pleasure for a day; Who bear have praise till earth shall pass away"
+  },
+  {
+   "n": 157,
+   "ch": 16,
+   "order": 2,
+   "l1": "திறனல்ல தற்பிறர் செய்யினும் நோநொந்து",
+   "l2": "அறனல்ல செய்யாமை நன்று.",
+   "pope": "Though others work thee ill, thus shalt thou blessing reap; Grieve for their sin, thyself from vicious action keep"
+  },
+  {
+   "n": 158,
+   "ch": 16,
+   "order": 2,
+   "l1": "மிகுதியான் மிக்கவை செய்தாரைத் தாந்தம்",
+   "l2": "தகுதியான் வென்று விடல்.",
+   "pope": "With overweening pride when men with injuries assail, By thine own righteous dealing shalt thou mightily prevail"
+  },
+  {
+   "n": 159,
+   "ch": 16,
+   "order": 2,
+   "l1": "துறந்தாரின் தூய்மை உடையர் இறந்தார்வாய்",
+   "l2": "இன்னாச்சொல் நோற்கிற் பவர்.",
+   "pope": "They who transgressors' evil words endureWith patience, are as stern ascetics pure"
+  },
+  {
+   "n": 160,
+   "ch": 16,
+   "order": 2,
+   "l1": "உண்ணாது நோற்பார் பெரியர் பிறர்சொல்லும்",
+   "l2": "இன்னாச்சொல் நோற்பாரின் பின்.",
+   "pope": "Though 'great' we deem the men that fast and suffer pain, Who others' bitter words endure, the foremost place obtain"
+  },
+  {
+   "n": 591,
+   "ch": 60,
+   "order": 3,
+   "l1": "உடையர் எனப்படுவது ஊக்கம் அஃதில்லார்",
+   "l2": "உடையது உடையரோ மற்று.",
+   "pope": "'Tis energy gives men o'er that they own a true control; They nothing own who own not energy of soul"
+  },
+  {
+   "n": 592,
+   "ch": 60,
+   "order": 3,
+   "l1": "உள்ளம் உடைமை உடைமை பொருளுடைமை",
+   "l2": "நில்லாது நீங்கி விடும்.",
+   "pope": "The wealth of mind man owns a real worth imparts, Material wealth man owns endures not, utterly departs"
+  },
+  {
+   "n": 593,
+   "ch": 60,
+   "order": 3,
+   "l1": "ஆக்கம் இழந்தேமென்று அல்லாவார் ஊக்கம்",
+   "l2": "ஒருவந்தம் கைத்துடை யார்.",
+   "pope": "'Lost is our wealth,' they utter not this cry distressed, The men of firm concentred energy of soul possessed"
+  },
+  {
+   "n": 594,
+   "ch": 60,
+   "order": 3,
+   "l1": "ஆக்கம் அதர்வினாய்ச் செல்லும் அசைவிலா",
+   "l2": "ஊக்க முடையா னுழை.",
+   "pope": "The man of energy of soul inflexible, Good fortune seeks him out and comes a friend to dwell"
+  },
+  {
+   "n": 595,
+   "ch": 60,
+   "order": 3,
+   "l1": "வெள்ளத் தனைய மலர்நீட்டம் மாந்தர்தம்",
+   "l2": "உள்ளத் தனையது உயர்வு.",
+   "pope": "With rising flood the rising lotus flower its stem unwinds; The dignity of men is measured by their minds"
+  },
+  {
+   "n": 596,
+   "ch": 60,
+   "order": 3,
+   "l1": "உள்ளுவ தெல்லாம் உயர்வுள்ளல் மற்றது",
+   "l2": "தள்ளினுந் தள்ளாமை நீர்த்து.",
+   "pope": "Whate'er you ponder, let your aim be loftly still, Fate cannot hinder always, thwart you as it will"
+  },
+  {
+   "n": 597,
+   "ch": 60,
+   "order": 3,
+   "l1": "சிதைவிடத்து ஒல்கார் உரவோர் புதையம்பிற்",
+   "l2": "பட்டுப்பா டூன்றுங் களிறு.",
+   "pope": "The men of lofty mind quail not in ruin's fateful hour, The elephant retains his dignity mind arrows' deadly shower"
+  },
+  {
+   "n": 598,
+   "ch": 60,
+   "order": 3,
+   "l1": "உள்ளம் இலாதவர் எய்தார் உலகத்து",
+   "l2": "வள்ளியம் என்னுஞ் செருக்கு.",
+   "pope": "The soulless man can never gainTh' ennobling sense of power with men"
+  },
+  {
+   "n": 599,
+   "ch": 60,
+   "order": 3,
+   "l1": "பரியது கூர்ங்கோட்டது ஆயினும் யானை",
+   "l2": "஦வ்ருஉம் புலிதாக் குறின்.",
+   "pope": "Huge bulk of elephant with pointed tusk all armed, When tiger threatens shrinks away alarmed"
+  },
+  {
+   "n": 600,
+   "ch": 60,
+   "order": 3,
+   "l1": "உரமொருவற்கு உள்ள வெறுக்கைஅஃ தில்லார்",
+   "l2": "மரம்மக்க ளாதலே வேறு.",
+   "pope": "Firmness of soul in man is real excellance; Others are trees, their human form a mere pretence"
+  },
+  {
+   "n": 81,
+   "ch": 9,
+   "order": 4,
+   "l1": "இருந்தோம்பி இல்வாழ்வ தெல்லாம் விருந்தோம்பி",
+   "l2": "வேளாண்மை செய்தற் பொருட்டு.",
+   "pope": "All household cares and course of daily life have this in viewGuests to receive with courtesy, and kindly acts to do"
+  },
+  {
+   "n": 82,
+   "ch": 9,
+   "order": 4,
+   "l1": "விருந்து புறத்ததாத் தானுண்டல் சாவா",
+   "l2": "மருந்தெனினும் வேண் டற்பாற் றன்று.",
+   "pope": "Though food of immortality should crown the board, Feasting alone, the guests without unfed, is thing abhorred"
+  },
+  {
+   "n": 83,
+   "ch": 9,
+   "order": 4,
+   "l1": "வருவிருந்து வைகலும் ஓம்புவான் வாழ்க்கை",
+   "l2": "பருவந்து பாழ்படுதல் இன்று.",
+   "pope": "Each day he tends the coming guest with kindly care; Painless, unfailing plenty shall his household share"
+  },
+  {
+   "n": 84,
+   "ch": 9,
+   "order": 4,
+   "l1": "அகனமர்ந்து செய்யாள் உறையும் முகனமர்ந்து",
+   "l2": "நல்விருந்து ஓம்புவான் இல்.",
+   "pope": "With smiling face he entertains each virtuous guest,'Fortune' with gladsome mind shall in his dwelling rest"
+  },
+  {
+   "n": 85,
+   "ch": 9,
+   "order": 4,
+   "l1": "வித்தும் இடல்வேண்டும் கொல்லோ விருந்தோம்பி",
+   "l2": "மிச்சில் மிசைவான் புலம்.",
+   "pope": "Who first regales his guest, and then himself supplies, O'er all his fields, unsown, shall plenteous harvests rise"
+  },
+  {
+   "n": 86,
+   "ch": 9,
+   "order": 4,
+   "l1": "செல்விருந்து ஓம்பி வருவிருந்து பார்த்திருப்பான்",
+   "l2": "நல்வருந்து வானத் தவர்க்கு.",
+   "pope": "The guest arrived he tends, the coming guest expects to see; To those in heavenly homes that dwell a welcome guest is he"
+  },
+  {
+   "n": 87,
+   "ch": 9,
+   "order": 4,
+   "l1": "இனைத்துணைத் தென்பதொன் றில்லை விருந்தின்",
+   "l2": "துணைத்துணை வேள்விப் பயன்.",
+   "pope": "To reckon up the fruit of kindly deeds were all in vain; Their worth is as the worth of guests you entertain"
+  },
+  {
+   "n": 88,
+   "ch": 9,
+   "order": 4,
+   "l1": "பரிந்தோம்பிப் பற்றற்றேம் என்பர் விருந்தோம்பி",
+   "l2": "வேள்வி தலைப்படா தார்.",
+   "pope": "With pain they guard their stores, yet 'All forlorn are we,' they'll cry, Who cherish not their guests, nor kindly help supply"
+  },
+  {
+   "n": 89,
+   "ch": 9,
+   "order": 4,
+   "l1": "உடைமையுள் இன்மை விருந்தோம்பல் ஓம்பா",
+   "l2": "மடமை மடவார்கண் உண்டு.",
+   "pope": "To turn from guests is penury, though worldly goods abound;'Tis senseless folly, only with the senseless found"
+  },
+  {
+   "n": 90,
+   "ch": 9,
+   "order": 4,
+   "l1": "மோப்பக் குழையும் அனிச்சம் முகந்திரிந்து",
+   "l2": "நோக்கக் குநழ்யும் விருந்து.",
+   "pope": "The flower of 'Anicha' withers away, If you do but its fragrance inhale; If the face of the host cold welcome convey, The guest's heart within him will fail"
+  },
+  {
+   "n": 31,
+   "ch": 4,
+   "order": 5,
+   "l1": "சிறப்புஈனும் செல்வமும் ஈனும் அறத்தினூஉங்கு",
+   "l2": "ஆக்கம் எவனோ உயிர்க்கு.",
+   "pope": "It yields distinction, yields prosperity; what gainGreater than virtue can a living man obtain"
+  },
+  {
+   "n": 32,
+   "ch": 4,
+   "order": 5,
+   "l1": "அறத்தினூஉங்கு ஆக்கமும் இல்லை அதனை",
+   "l2": "மறத்தலின் ஊங்கில்லை கேடு.",
+   "pope": "No greater gain than virtue aught can cause; No greater loss than life oblivious of her laws"
+  },
+  {
+   "n": 33,
+   "ch": 4,
+   "order": 5,
+   "l1": "ஒல்லும் வகையான் அறவினை ஓவாதே",
+   "l2": "செல்லும்வாய் எல்லாஞ் செயல்.",
+   "pope": "To finish virtue's work with ceaseless effort strive, What way thou may'st, where'er thou see'st the work may thrive"
+  },
+  {
+   "n": 34,
+   "ch": 4,
+   "order": 5,
+   "l1": "மனத்துக்கண் மாசிலன் ஆதல் அனைத்தறன்",
+   "l2": "ஆகுல நீர பிற.",
+   "pope": "Spotless be thou in mind! This only merits virtue's name; All else, mere pomp of idle sound, no real worth can claim"
+  },
+  {
+   "n": 35,
+   "ch": 4,
+   "order": 5,
+   "l1": "அழுக்காறு அவாவெகுளி இன்னாச்சொல் நான்கும்",
+   "l2": "இழுக்கா இயன்றது அறம்.",
+   "pope": "'Tis virtue when, his footsteps sliding not through envy, wrath, Lust, evil speech-these four, man onwards moves in ordered path"
+  },
+  {
+   "n": 36,
+   "ch": 4,
+   "order": 5,
+   "l1": "அன்றறிவாம் என்னாது அறஞ்செய்க மற்றது",
+   "l2": "பொன்றுங்கால் பொன்றாத் துணை.",
+   "pope": "Do deeds of virtue now Say not, 'To-morrow we'll be wise'; Thus, when thou diest, shalt thou find a help that never dies"
+  },
+  {
+   "n": 37,
+   "ch": 4,
+   "order": 5,
+   "l1": "அறத்தாறு இதுவென வேண்டா சிவிகை",
+   "l2": "பொறுத்தானோடு ஊர்ந்தான் இடை.",
+   "pope": "Needs not in words to dwell on virtue's fruits: compareThe man in litter borne with them that toiling bear"
+  },
+  {
+   "n": 38,
+   "ch": 4,
+   "order": 5,
+   "l1": "வீழ்நாள் படாஅமை நன்றாற்றின் அஃதொருவன்",
+   "l2": "வாழ்நாள் வழியடைக்கும் கல்.",
+   "pope": "If no day passing idly, good to do each day you toil, A stone it will be to block the way of future days of moil"
+  },
+  {
+   "n": 39,
+   "ch": 4,
+   "order": 5,
+   "l1": "அறத்தான் வருவதே இன்பம் மற்றெல்லாம்",
+   "l2": "புறத்த புகழும் இல.",
+   "pope": "What from virtue floweth, yieldeth dear delight; All else extern, is void of glory's light"
+  },
+  {
+   "n": 40,
+   "ch": 4,
+   "order": 5,
+   "l1": "செயற்பால தோரும் அறனே ஒருவற்கு",
+   "l2": "உயற்பால தோரும் பழி.",
+   "pope": "'Virtue' sums the things that should be done;'Vice' sums the things that man should shun"
+  },
+  {
+   "n": 221,
+   "ch": 23,
+   "order": 6,
+   "l1": "வறியார்க்கொன்று ஈவதே ஈகைமற் றெல்லாம்",
+   "l2": "குறியெதிர்ப்பை நீர துடைத்து.",
+   "pope": "Call that a gift to needy men thou dost dispense, All else is void of good, seeking for recompense"
+  },
+  {
+   "n": 222,
+   "ch": 23,
+   "order": 6,
+   "l1": "நல்லாறு எனினும் கொளல்தீது மேலுலகம்",
+   "l2": "இல்லெனினும் ஈதலே நன்று.",
+   "pope": "Though men declare it heavenward path, yet to receive is ill; Though upper heaven were not, to give is virtue still"
+  },
+  {
+   "n": 223,
+   "ch": 23,
+   "order": 6,
+   "l1": "இலனென்னும் எவ்வம் உரையாமை ஈதல்",
+   "l2": "குலனுடையான் கண்ணே யுள.",
+   "pope": "'I've nought' is ne'er the high-born man's reply; He gives to those who raise themselves that cry"
+  },
+  {
+   "n": 224,
+   "ch": 23,
+   "order": 6,
+   "l1": "இன்னாது இரக்கப் படுதல் இரந்தவர்",
+   "l2": "இன்முகங் காணும் அளவு.",
+   "pope": "The suppliants' cry for aid yields scant delight, Until you see his face with grateful gladness bright"
+  },
+  {
+   "n": 225,
+   "ch": 23,
+   "order": 6,
+   "l1": "ஆற்றுவார் ஆற்றல் பசிஆற்றல் அப்பசியை",
+   "l2": "மாற்றுவார் ஆற்றலின் பின்.",
+   "pope": "'Mid devotees they're great who hunger's pangs sustain, Who hunger's pangs relieve a higher merit gain"
+  },
+  {
+   "n": 226,
+   "ch": 23,
+   "order": 6,
+   "l1": "அற்றார் அழிபசி தீர்த்தல் அஃதொருவன்",
+   "l2": "பெற்றான் பொருள்வைப் புழி.",
+   "pope": "Let man relieve the wasting hunger men endure; For treasure gained thus finds he treasure-house secure"
+  },
+  {
+   "n": 227,
+   "ch": 23,
+   "order": 6,
+   "l1": "பாத்தூண் மரீஇ யவனைப் பசியென்னும்",
+   "l2": "தீப்பிணி தீண்டல் அரிது.",
+   "pope": "Whose soul delights with hungry men to share his meal, The hand of hunger's sickness sore shall never feel"
+  },
+  {
+   "n": 228,
+   "ch": 23,
+   "order": 6,
+   "l1": "ஈத்துவக்கும் இன்பம் அறியார்கொல் தாமுடைமை",
+   "l2": "வைத்திழக்கும் வன்க ணவர்.",
+   "pope": "Delight of glad'ning human hearts with gifts do they not know.Men of unpitying eye, who hoard their wealth and lose it so"
+  },
+  {
+   "n": 229,
+   "ch": 23,
+   "order": 6,
+   "l1": "இரத்தலின் இன்னாது மன்ற நிரப்பிய",
+   "l2": "தாமே தமியர் உணல்.",
+   "pope": "They keep their garners full, for self alone the board they spread;-'Tis greater pain, be sure, than begging daily bread"
+  },
+  {
+   "n": 230,
+   "ch": 23,
+   "order": 6,
+   "l1": "சாதலின் இன்னாத தில்லை இனிததூஉம்",
+   "l2": "ஈதல் இயையாக் கடை.",
+   "pope": "'Tis bitter pain to die, 'Tis worse to live.For him who nothing finds to give"
+  },
+  {
+   "n": 441,
+   "ch": 45,
+   "order": 7,
+   "l1": "அறனறிந்து மூத்த அறிவுடையார் கேண்மை",
+   "l2": "திறனறிந்து தேர்ந்து கொளல்.",
+   "pope": "As friends the men who virtue know, and riper wisdom share, Their worth weighed well, the king should choose with care"
+  },
+  {
+   "n": 442,
+   "ch": 45,
+   "order": 7,
+   "l1": "உற்றநோய் நீக்கி உறாஅமை முற்காக்கும்",
+   "l2": "பெற்றியார்ப் பேணிக் கொளல்.",
+   "pope": "Cherish the all-accomplished men as friends, Whose skill the present ill removes, from coming ill defends"
+  },
+  {
+   "n": 443,
+   "ch": 45,
+   "order": 7,
+   "l1": "அரியவற்று ளெல்லாம் அரிதே பெரியாரைப்",
+   "l2": "பேணித் தமராக் கொளல்.",
+   "pope": "To cherish men of mighty soul, and make them all their own, Of kingly treasures rare, as rarest gift is known"
+  },
+  {
+   "n": 444,
+   "ch": 45,
+   "order": 7,
+   "l1": "தம்மிற் பெரியார் தமரா ஒழுகுதல்",
+   "l2": "வன்மையு ளெல்லாந் தலை.",
+   "pope": "To live with men of greatness that their own excels, As cherished friends, is greatest power that with a monarch dwells"
+  },
+  {
+   "n": 445,
+   "ch": 45,
+   "order": 7,
+   "l1": "சூழ்வார்கண் ணாக ஒழுகலான் மன்னவன்",
+   "l2": "சூழ்வாரைக் சூழ்ந்து கொளல்.",
+   "pope": "The king, since counsellors are monarch's eyes, Should counsellors select with counsel wise"
+  },
+  {
+   "n": 446,
+   "ch": 45,
+   "order": 7,
+   "l1": "தக்கா ரினத்தனாய்த் தானொழுக வல்லானைச்",
+   "l2": "செற்றார் செயக்கிடந்த தில்.",
+   "pope": "The king, who knows to live with worthy men allied, Has nought to fear from any foeman's pride"
+  },
+  {
+   "n": 447,
+   "ch": 45,
+   "order": 7,
+   "l1": "இடிக்குந் துணையாரை யாள்வரை யாரே",
+   "l2": "கெடுக்குந் தகைமை யவர்.",
+   "pope": "What power can work his fall, who faithful ministersEmploys, that thunder out reproaches when he errs"
+  },
+  {
+   "n": 448,
+   "ch": 45,
+   "order": 7,
+   "l1": "இடிப்பாரை இல்லாத ஏமரா மன்னன்",
+   "l2": "கெடுப்பா ரிலானுங் கெடும்.",
+   "pope": "The king with none to censure him, bereft of safeguards all, Though none his ruin work, shall surely ruined fall"
+  },
+  {
+   "n": 449,
+   "ch": 45,
+   "order": 7,
+   "l1": "முதலிலார்க ஊதிய மில்லை மதலையாஞ்",
+   "l2": "சார்பிலார்க் கில்லை நிலை.",
+   "pope": "Who owns no principal, can have no gain of usury; Who lacks support of friends, knows no stability"
+  },
+  {
+   "n": 450,
+   "ch": 45,
+   "order": 7,
+   "l1": "பல்லார் பகைகொளலிற் பத்தடுத்த தீமைத்தே",
+   "l2": "நல்லார் தொடர்கை விடல்.",
+   "pope": "Than hate of many foes incurred, works greater woeTen-fold, of worthy men the friendship to forego"
+  },
+  {
+   "n": 671,
+   "ch": 68,
+   "order": 8,
+   "l1": "சூழ்ச்சி முடிவு துணிவெய்தல் அத்துணிவு",
+   "l2": "தாழ்ச்சியுள் தங்குதல் தீது.",
+   "pope": "The Resolve is counsel's end, If resolutions halt In weak delays, still unfulfilled, 'tis grievous fault"
+  },
+  {
+   "n": 672,
+   "ch": 68,
+   "order": 8,
+   "l1": "தூங்குக தூங்கிச் செயற்பால தூங்கற்க",
+   "l2": "தூங்காது செய்யும் வினை.",
+   "pope": "Slumber when sleepy work's in hand beware Thou slumber not when action calls for sleepless care"
+  },
+  {
+   "n": 673,
+   "ch": 68,
+   "order": 8,
+   "l1": "ஒல்லும்வா யெல்லாம் வினைநன்றே ஒல்லாக்கால்",
+   "l2": "செல்லும்வாய் நோக்கிச் செயல்.",
+   "pope": "When way is clear, prompt let your action be; When not, watch till some open path you see"
+  },
+  {
+   "n": 674,
+   "ch": 68,
+   "order": 8,
+   "l1": "வினைபகை என்றிரண்டின் எச்சம் நினையுங்கால்",
+   "l2": "தீயெச்சம் போலத் தெறும்.",
+   "pope": "With work or foe, when you neglect some little thing, If you reflect, like smouldering fire, 'twill ruin bring"
+  },
+  {
+   "n": 675,
+   "ch": 68,
+   "order": 8,
+   "l1": "பொருள்கருவி காலம் வினையிடனொடு ஐந்தும்",
+   "l2": "இருள்தீர எண்ணிச் செயல்.",
+   "pope": "Treasure and instrument and time and deed and place of act These five, till every doubt remove, think o'er with care exact"
+  },
+  {
+   "n": 676,
+   "ch": 68,
+   "order": 8,
+   "l1": "முடிவும் இடையூறும் முற்றியாங்கு எய்தும்",
+   "l2": "படுபயனும் பார்த்துச் செயல்.",
+   "pope": "Accomplishment, the hindrances, large profits won By effort these compare,- then let the work be done"
+  },
+  {
+   "n": 677,
+   "ch": 68,
+   "order": 8,
+   "l1": "செய்வினை செய்வான் செயன்முறை அவ்வினை",
+   "l2": "உள்ளறிவான் உள்ளம் கொளல்.",
+   "pope": "Who would succeed must thus begin first let him ask The thoughts of them who thoroughly know the task"
+  },
+  {
+   "n": 678,
+   "ch": 68,
+   "order": 8,
+   "l1": "வினையான் வினையாக்கிக் கோடல் நனைகவுள்",
+   "l2": "யானையால் யானையாத் தற்று.",
+   "pope": "By one thing done you reach a second work's accomplishment; So furious elephant to snare its fellow brute is sent"
+  },
+  {
+   "n": 679,
+   "ch": 68,
+   "order": 8,
+   "l1": "நட்டார்க்கு நல்ல செயலின் விரைந்ததே",
+   "l2": "ஒட்டாரை ஒட்டிக் கொளல்.",
+   "pope": "Than kindly acts to friends more urgent thing to do, Is making foes to cling as friends attached to you"
+  },
+  {
+   "n": 680,
+   "ch": 68,
+   "order": 8,
+   "l1": "உறைசிறியார் உள்நடுங்கல் அஞ்சிக் குறைபெறின்",
+   "l2": "கொள்வர் பெரியார்ப் பணிந்து.",
+   "pope": "The men of lesser realm, fearing the people's inward dread, Accepting granted terms, to mightier ruler bow the head"
+  },
+  {
+   "n": 721,
+   "ch": 73,
+   "order": 9,
+   "l1": "வகையறிந்து வல்லவை வாய்சோரார் சொல்லின்",
+   "l2": "தொகையறிந்த தூய்மை யவர்.",
+   "pope": "Men, pure in heart, who know of words the varied force, The mighty council's moods discern, nor fail in their discourse"
+  },
+  {
+   "n": 722,
+   "ch": 73,
+   "order": 9,
+   "l1": "கற்றாருள் கற்றார் எனப்படுவர் கற்றார்முன்",
+   "l2": "கற்ற செலச்சொல்லு வார்.",
+   "pope": "Who what they've learned, in penetrating words heve learned to say, Before the learn'd among the learn'd most learn'd are they"
+  },
+  {
+   "n": 723,
+   "ch": 73,
+   "order": 9,
+   "l1": "பகையகத்துச் சாவார் எளியர் அரியர்",
+   "l2": "அவையகத்து அஞ்சா தவர்.",
+   "pope": "Many encountering death in face of foe will hold their ground; Who speak undaunted in the council hall are rarely found"
+  },
+  {
+   "n": 724,
+   "ch": 73,
+   "order": 9,
+   "l1": "கற்றார்முன் கற்ற செலச்சொல்லித் தாம்கற்ற",
+   "l2": "மிக்காருள் மிக்க கொளல்.",
+   "pope": "What you have learned, in penetrating words speak out beforeThe learn'd; but learn what men more learn'd can teach you more"
+  },
+  {
+   "n": 725,
+   "ch": 73,
+   "order": 9,
+   "l1": "ஆற்றின் அளவறிந்து கற்க அவையஞ்சா",
+   "l2": "மாற்றங் கொடுத்தற் பொருட்டு.",
+   "pope": "By rule, to dialectic art your mind apply, That in the council fearless you may make an apt reply"
+  },
+  {
+   "n": 726,
+   "ch": 73,
+   "order": 9,
+   "l1": "வாளொடென் வன்கண்ணர் அல்லார்க்கு நூலொடென்",
+   "l2": "நுண்ணவை அஞ்சு பவர்க்கு.",
+   "pope": "To those who lack the hero's eye what can the sword availOr science what, to those before the council keen who quail"
+  },
+  {
+   "n": 727,
+   "ch": 73,
+   "order": 9,
+   "l1": "பகையகத்துப் பேடிகை ஒள்வாள் அவையகத்து",
+   "l2": "அஞ்சு மவன்கற்ற நூல்.",
+   "pope": "As shining sword before the foe which 'sexless being' bears, Is science learned by him the council's face who fears"
+  },
+  {
+   "n": 728,
+   "ch": 73,
+   "order": 9,
+   "l1": "பல்லவை கற்றும் பயமிலரே நல்லவையுள்",
+   "l2": "நன்கு செலச்சொல்லா தார்.",
+   "pope": "Though many things they've learned, yet useless are they all, To man who cannot well and strongly speak in council hall"
+  },
+  {
+   "n": 729,
+   "ch": 73,
+   "order": 9,
+   "l1": "கல்லா தவரின் கடையென்ப கற்றறிந்தும்",
+   "l2": "நல்லா ரவையஞ்சு வார்.",
+   "pope": "Who, though they've learned, before the council of the good men quake, Than men unlearn'd a lower place must take"
+  },
+  {
+   "n": 730,
+   "ch": 73,
+   "order": 9,
+   "l1": "உளரெனினும் இல்லாரொடு ஒப்பர் களன்அஞ்சிக்",
+   "l2": "கற்ற செலச்சொல்லா தார்.",
+   "pope": "Who what they've learned, in penetrating words know not to say, The council fearing, though they live, as dead are they"
+  },
+  {
+   "n": 571,
+   "ch": 58,
+   "order": 10,
+   "l1": "கண்ணோட்டம் என்னும் கழிபெருங் காரிகை",
+   "l2": "உண்மையான் உண்டிவ் வுலகு.",
+   "pope": "Since true benignity, that grace exceeding great, residesIn kingly souls, world in happy state abides"
+  },
+  {
+   "n": 572,
+   "ch": 58,
+   "order": 10,
+   "l1": "கண்ணோட்டத் துள்ளது உலகியல் அஃதிலார்",
+   "l2": "உண்மை நிலக்குப் பொறை.",
+   "pope": "The world goes on its wonted way, since grace benign is there; All other men are burthen for the earth to bear"
+  },
+  {
+   "n": 573,
+   "ch": 58,
+   "order": 10,
+   "l1": "பண்என்னாம் பாடற்கு இயைபின்றேல் கண்என்னாம்",
+   "l2": "கண்ணோட்டம் இல்லாத கண்.",
+   "pope": "Where not accordant with the song, what use of sounding chordsWhat gain of eye that no benignant light affords"
+  },
+  {
+   "n": 574,
+   "ch": 58,
+   "order": 10,
+   "l1": "உளபோல் முகத்தெவன் செய்யும் அளவினால்",
+   "l2": "கண்ணோட்டம் இல்லாத கண்.",
+   "pope": "The seeming eye of face gives no expressive light, When not with duly meted kindness bright"
+  },
+  {
+   "n": 575,
+   "ch": 58,
+   "order": 10,
+   "l1": "கண்ணிற்கு அணிகலம் கண்ணோட்டம் அஃதின்றேல்",
+   "l2": "புண்ணென்று உணரப் படும்",
+   "pope": "Benignity is eyes' adorning grace; Without it eyes are wounds disfiguring face"
+  },
+  {
+   "n": 576,
+   "ch": 58,
+   "order": 10,
+   "l1": "மண்ணோ டியைந்த மரத்தனையர் கண்ணோ",
+   "l2": "டியைந்துகண் ணோடா தவர்.",
+   "pope": "Whose eyes 'neath brow infixed diffuse no rayOf grace; like tree in earth infixed are they"
+  },
+  {
+   "n": 577,
+   "ch": 58,
+   "order": 10,
+   "l1": "கண்ணோட்டம் இல்லவர் கண்ணிலர் கண்ணுடையார்",
+   "l2": "கண்ணோட்டம் இன்மையும் இல்.",
+   "pope": "Eyeless are they whose eyes with no benignant lustre shine; Who've eyes can never lack the light of grace benign"
+  },
+  {
+   "n": 578,
+   "ch": 58,
+   "order": 10,
+   "l1": "கருமம் சிதையாமல் கண்ணோட வல்லார்க்கு",
+   "l2": "உரிமை உடைத்திவ் வுலகு.",
+   "pope": "Who can benignant smile, yet leave no work undone; By them as very own may all the earth be won"
+  },
+  {
+   "n": 579,
+   "ch": 58,
+   "order": 10,
+   "l1": "ஒறுத்தாற்றும் பண்பினார் கண்ணும்கண் ணோடிப்",
+   "l2": "பொறுத்தாற்றும் பண்பே தலை.",
+   "pope": "To smile on those that vex, with kindly face, Enduring long, is most excelling grace"
+  },
+  {
+   "n": 580,
+   "ch": 58,
+   "order": 10,
+   "l1": "பெயக்கண்டும் நஞ்சுண் டமைவர் நயத்தக்க",
+   "l2": "நாகரிகம் வேண்டு பவர்.",
+   "pope": "They drink with smiling grace, though poison interfused they see, Who seek the praise of all-esteemed courtesy"
+  },
+  {
+   "n": 71,
+   "ch": 8,
+   "order": 11,
+   "l1": "அன்பிற்கும் உண்டோ அடைக்குந்தாழ் ஆர்வலர்",
+   "l2": "புன்கணீர் பூசல் தரும்.",
+   "pope": "And is there bar that can even love restrain?The tiny tear shall make the lover's secret plain"
+  },
+  {
+   "n": 72,
+   "ch": 8,
+   "order": 11,
+   "l1": "அன்பிலார் எல்லாம் தமக்குரியர் அன்புடையார்",
+   "l2": "என்பும் உரியர் பிறர்க்கு.",
+   "pope": "The loveless to themselves belong alone; The loving men are others' to the very bone"
+  },
+  {
+   "n": 73,
+   "ch": 8,
+   "order": 11,
+   "l1": "அன்போடு இயைந்த வழக்கென்ப ஆருயிர்க்கு",
+   "l2": "என்போடு இயைந்த தொடர்பு.",
+   "pope": "Of precious soul with body's flesh and bone, The union yields one fruit, the life of love alone"
+  },
+  {
+   "n": 74,
+   "ch": 8,
+   "order": 11,
+   "l1": "அன்புஈனும் ஆர்வம் உடைமை அதுஈனும்",
+   "l2": "நண்பு என்னும் நாடாச் சிறப்பு.",
+   "pope": "From love fond yearning springs for union sweet of minds; And that the bond of rare excelling friendship binds"
+  },
+  {
+   "n": 75,
+   "ch": 8,
+   "order": 11,
+   "l1": "அன்புற்று அமர்ந்த வழக்கென்ப வையகத்து",
+   "l2": "இன்புற்றார் எய்தும் சிறப்பு.",
+   "pope": "Sweetness on earth and rarest bliss above, These are the fruits of tranquil life of love"
+  },
+  {
+   "n": 76,
+   "ch": 8,
+   "order": 11,
+   "l1": "அறத்திற்கே அன்புசார் பென்ப அறியார்",
+   "l2": "மறத்திற்கும் அஃதே துணை.",
+   "pope": "The unwise deem love virtue only can sustain, It also helps the man who evil would restrain"
+  },
+  {
+   "n": 77,
+   "ch": 8,
+   "order": 11,
+   "l1": "என்பி லதனை வெயில்போலக் காயுமே",
+   "l2": "அன்பி லதனை அறம்.",
+   "pope": "As sun's fierce ray dries up the boneless things, So loveless beings virtue's power to nothing brings"
+  },
+  {
+   "n": 78,
+   "ch": 8,
+   "order": 11,
+   "l1": "அன்பகத் தில்லா உயிர்வாழ்க்கை வன்பாற்கண்",
+   "l2": "வற்றல் மரந்தளிர்த் தற்று.",
+   "pope": "The loveless soul, the very joys of life may know, When flowers, in barren soil, on sapless trees, shall blow"
+  },
+  {
+   "n": 79,
+   "ch": 8,
+   "order": 11,
+   "l1": "புறத்துறுப் பெல்லாம் எவன்செய்யும் யாக்கை",
+   "l2": "அகத்துறுப்பு அன்பி லவர்க்கு.",
+   "pope": "Though every outward part complete, the body's fitly framed; What good, when soul within, of love devoid, lies halt and maimed"
+  },
+  {
+   "n": 80,
+   "ch": 8,
+   "order": 11,
+   "l1": "அன்பின் வழியது உயிர்நிலை அஃதிலார்க்கு",
+   "l2": "என்புதோல் போர்த்த உடம்பு.",
+   "pope": "Bodies of loveless men are bony framework clad with skin; Then is the body seat of life, when love resides within"
+  },
+  {
+   "n": 391,
+   "ch": 40,
+   "order": 12,
+   "l1": "கற்க கசடறக் கற்பவை கற்றபின்",
+   "l2": "நிற்க அதற்குத் தக.",
+   "pope": "So learn that you may full and faultless learning gain, Then in obedience meet to lessons learnt remain"
+  },
+  {
+   "n": 392,
+   "ch": 40,
+   "order": 12,
+   "l1": "எண்ணென்ப ஏனை எழுத்தென்ப இவ்விரண்டும்",
+   "l2": "கண்ணென்ப வாழும் உயிர்க்கு.",
+   "pope": "The twain that lore of numbers and of letters giveAre eyes, the wise declare, to all on earth that live"
+  },
+  {
+   "n": 393,
+   "ch": 40,
+   "order": 12,
+   "l1": "கண்ணுடையர் என்பவர் கற்றோர் முகத்திரண்டு",
+   "l2": "புண்ணுடையர் கல்லா தவர்.",
+   "pope": "Men who learning gain have eyes, men say; Blockheads' faces pairs of sores display"
+  },
+  {
+   "n": 394,
+   "ch": 40,
+   "order": 12,
+   "l1": "உவப்பத் தலைக்கூடி உள்ளப் பிரிதல்",
+   "l2": "அனைத்தே புலவர் தொழில்.",
+   "pope": "You meet with joy, with pleasant thought you part; Such is the learned scholar's wonderous art"
+  },
+  {
+   "n": 395,
+   "ch": 40,
+   "order": 12,
+   "l1": "உடையார்முன் இல்லார்போல் ஏக்கற்றுங் கற்றார்",
+   "l2": "கடையரே கல்லா தவர்.",
+   "pope": "With soul submiss they stand, as paupers front a rich man's face; Yet learned men are first; th'unlearned stand in lowest place"
+  },
+  {
+   "n": 396,
+   "ch": 40,
+   "order": 12,
+   "l1": "தொட்டனைத் தூறும் மணற்கேணி மாந்தர்க்குக்",
+   "l2": "கற்றனைத் தூறும் அறிவு.",
+   "pope": "In sandy soil, when deep you delve, you reach the springs below; The more you learn, the freer streams of wisdom flow"
+  },
+  {
+   "n": 397,
+   "ch": 40,
+   "order": 12,
+   "l1": "யாதானும் நாடாமால் ஊராமால் என்னொருவன்",
+   "l2": "சாந்துணையுங் கல்லாத வாறு.",
+   "pope": "The learned make each land their own, in every city find a home; Who, till they die; learn nought, along what weary ways they roam"
+  },
+  {
+   "n": 398,
+   "ch": 40,
+   "order": 12,
+   "l1": "ஒருமைக்கண் தான்கற்ற கல்வி ஒருவற்கு",
+   "l2": "எழுமையும் ஏமாப் புடைத்து.",
+   "pope": "The man who store of learning gains, In one, through seven worlds, bliss attains"
+  },
+  {
+   "n": 399,
+   "ch": 40,
+   "order": 12,
+   "l1": "தாமின் புறுவது உலகின் புறக்கண்டு",
+   "l2": "காமுறுவர் கற்றறிந் தார்.",
+   "pope": "Their joy is joy of all the world, they see; thus moreThe learners learn to love their cherished lore"
+  },
+  {
+   "n": 400,
+   "ch": 40,
+   "order": 12,
+   "l1": "கேடில் விழுச்செல்வம் கல்வி யொருவற்கு",
+   "l2": "மாடல்ல மற்றை யவை.",
+   "pope": "Learning is excellence of wealth that none destroy; To man nought else affords reality of joy"
+  },
+  {
+   "n": 111,
+   "ch": 12,
+   "order": 13,
+   "l1": "தகுதி எனவொன்று நன்றே பகுதியால்",
+   "l2": "பாற்பட்டு ஒழுகப் பெறின்.",
+   "pope": "If justice, failing not, its quality maintain, Giving to each his due, -'tis man's one highest gain"
+  },
+  {
+   "n": 112,
+   "ch": 12,
+   "order": 13,
+   "l1": "செப்பம் உடையவன் ஆக்கஞ் சிதைவின்றி",
+   "l2": "எச்சத்திற் கேமாப்பு உடைத்து.",
+   "pope": "The just man's wealth unwasting shall endure, And to his race a lasting joy ensure"
+  },
+  {
+   "n": 113,
+   "ch": 12,
+   "order": 13,
+   "l1": "நன்றே தரினும் நடுவிகந்தாம் ஆக்கத்தை",
+   "l2": "அன்றே யொழிய விடல்.",
+   "pope": "Though only good it seem to give, yet gainBy wrong acquired, not e'en one day retain"
+  },
+  {
+   "n": 114,
+   "ch": 12,
+   "order": 13,
+   "l1": "தக்கார் தகவிலர் என்பது அவரவர்",
+   "l2": "எச்சத்தாற் காணப்ப படும்.",
+   "pope": "Who just or unjust lived shall soon appear:By each one's offspring shall the truth be clear"
+  },
+  {
+   "n": 115,
+   "ch": 12,
+   "order": 13,
+   "l1": "கேடும் பெருக்கமும் இல்லல்ல நெஞ்சத்துக்",
+   "l2": "கோடாமை சான்றோர்க் கணி.",
+   "pope": "The gain and loss in life are not mere accident; Just mind inflexible is sages' ornament"
+  },
+  {
+   "n": 116,
+   "ch": 12,
+   "order": 13,
+   "l1": "கெடுவல்யான் என்பது அறிகதன் நெஞ்சம்",
+   "l2": "நடுவொரீஇ அல்ல செயின்.",
+   "pope": "If, right deserting, heart to evil turn, Let man impending ruin's sign discern"
+  },
+  {
+   "n": 117,
+   "ch": 12,
+   "order": 13,
+   "l1": "கெடுவாக வையாது உலகம் நடுவாக",
+   "l2": "நன்றிக்கண் தங்கியான் தாழ்வு.",
+   "pope": "The man who justly lives, tenacious of the right, In low estate is never low to wise man's sight"
+  },
+  {
+   "n": 118,
+   "ch": 12,
+   "order": 13,
+   "l1": "சமன்செய்து சீர்தூக்குங் கோல்போல் அமைந்தொருபால்",
+   "l2": "கோடாமை சான்றோர்க் கணி.",
+   "pope": "To stand, like balance-rod that level hangs and rightly weighs, With calm unbiassed equity of soul, is sages' praise"
+  },
+  {
+   "n": 119,
+   "ch": 12,
+   "order": 13,
+   "l1": "சொற்கோட்டம் இல்லது செப்பம் ஒருதலையா",
+   "l2": "உட்கோட்டம் இன்மை பெறின்.",
+   "pope": "Inflexibility in word is righteousness, If men inflexibility of soul possess"
+  },
+  {
+   "n": 120,
+   "ch": 12,
+   "order": 13,
+   "l1": "வாணிகம் செய்வார்க்கு வாணிகம் பேணிப்",
+   "l2": "பிறவும் தமபோல் செயின்.",
+   "pope": "As thriving trader is the trader known, Who guards another's interests as his own"
+  },
+  {
+   "n": 271,
+   "ch": 28,
+   "order": 14,
+   "l1": "வஞ்ச மனத்தான் படிற்றொழுக்கம் பூதங்கள்",
+   "l2": "ஐந்தும் அகத்தே நகும்.",
+   "pope": "Who with deceitful mind in false way walks of covert sin, The five-fold elements his frame compose, decide within"
+  },
+  {
+   "n": 272,
+   "ch": 28,
+   "order": 14,
+   "l1": "வானுயர் தோற்றம் எவன்செய்யும் தன்னெஞ்சம்",
+   "l2": "தான்அறி குற்றப் படின்.",
+   "pope": "What gain, though virtue's semblance high as heaven his fame exalt, If heart dies down through sense of self-detected fault"
+  },
+  {
+   "n": 273,
+   "ch": 28,
+   "order": 14,
+   "l1": "வலியில் நிலைமையான் வல்லுருவம் பெற்றம்",
+   "l2": "புலியின்தோல் போர்த்துமேய்ந் தற்று.",
+   "pope": "As if a steer should graze wrapped round with tiger's skin, Is show of virtuous might when weakness lurks within"
+  },
+  {
+   "n": 274,
+   "ch": 28,
+   "order": 14,
+   "l1": "தவமறைந்து அல்லவை செய்தல் புதல்மறைந்து",
+   "l2": "வேட்டுவன் புள்சிமிழ்த் தற்று.",
+   "pope": "'Tis as a fowler, silly birds to snare, in thicket lurksWhen, clad in stern ascetic garb, one secret evil works"
+  },
+  {
+   "n": 275,
+   "ch": 28,
+   "order": 14,
+   "l1": "பற்றற்றேம் என்பார் படிற்றொழுக்கம் எற்றெற்றென்று",
+   "l2": "ஏதம் பலவுந் தரும்.",
+   "pope": "'Our souls are free,' who say, yet practise evil secretly,'What folly have we wrought!' by many shames o'er-whelmed, shall cry"
+  },
+  {
+   "n": 276,
+   "ch": 28,
+   "order": 14,
+   "l1": "நெஞ்சின் துறவார் துறந்தார்போல் வஞ்சித்து",
+   "l2": "வாழ்வாரின் வன்கணார் இல்.",
+   "pope": "In mind renouncing nought, in speech renouncing every tie, Who guileful live,- no men are found than these of 'harder eye'"
+  },
+  {
+   "n": 277,
+   "ch": 28,
+   "order": 14,
+   "l1": "புறங்குன்றி கண்டனைய ரேனும் அகங்குன்றி",
+   "l2": "முக்கிற் கரியார் உடைத்து.",
+   "pope": "Outward, they shine as 'kunri' berry's scarlet bright; Inward, like tip of 'kunri' bead, as black as night"
+  },
+  {
+   "n": 278,
+   "ch": 28,
+   "order": 14,
+   "l1": "மனத்தது மாசாக மாண்டார் நீராடி",
+   "l2": "மறைந்தொழுகு மாந்தர் பலர்.",
+   "pope": "Many wash in hollowed waters, living lives of hidden shame; Foul in heart, yet high upraised of men in virtuous fame"
+  },
+  {
+   "n": 279,
+   "ch": 28,
+   "order": 14,
+   "l1": "கணைகொடிது யாழ்கோடு செவ்விதுஆங் கன்ன",
+   "l2": "வினைபடு பாலால் கொளல்.",
+   "pope": "Cruel is the arrow straight, the crooked lute is sweet, Judge by their deeds the many forms of men you meet"
+  },
+  {
+   "n": 280,
+   "ch": 28,
+   "order": 14,
+   "l1": "மழித்தலும் நீட்டலும் வேண்டா உலகம்",
+   "l2": "பழித்தது ஒழித்து விடின்.",
+   "pope": "What's the worth of shaven head or tresses long, If you shun what all the world condemns as wrong"
+  },
+  {
+   "n": 401,
+   "ch": 41,
+   "order": 15,
+   "l1": "அரங்கின்றி வட்டாடி யற்றே நிரம்பிய",
+   "l2": "நூலின்றிக் கோட்டி கொளல்.",
+   "pope": "Like those at draughts would play without the chequered square, Men void of ample lore would counsels of the learned share"
+  },
+  {
+   "n": 402,
+   "ch": 41,
+   "order": 15,
+   "l1": "கல்லாதான் சொற்கா முறுதல் முலையிரண்டும்",
+   "l2": "இல்லாதாள் பெண்காமுற் றற்று.",
+   "pope": "Like those who doat on hoyden's undeveloped charms are they, Of learning void, who eagerly their power of words display"
+  },
+  {
+   "n": 403,
+   "ch": 41,
+   "order": 15,
+   "l1": "கல்லா தவரும் நனிநல்லர் கற்றார்முன்",
+   "l2": "சொல்லா திருக்கப் பெறின்.",
+   "pope": "The blockheads, too, may men of worth appear, If they can keep from speaking where the learned hear"
+  },
+  {
+   "n": 404,
+   "ch": 41,
+   "order": 15,
+   "l1": "கல்லாதான் ஒட்பம் கழியநன் றாயினும்",
+   "l2": "கொள்ளார் அறிவுடை யார்.",
+   "pope": "From blockheads' lips, when words of wisdom glibly flow, The wise receive them not, though good they seem to show"
+  },
+  {
+   "n": 405,
+   "ch": 41,
+   "order": 15,
+   "l1": "கல்லா ஒருவன் தகைமை தலைப்பெய்து",
+   "l2": "சொல்லாடச் சோர்வு படும்.",
+   "pope": "As worthless shows the worth of man unlearned, When council meets, by words he speaks discerned"
+  },
+  {
+   "n": 406,
+   "ch": 41,
+   "order": 15,
+   "l1": "உளரென்னும் மாத்திரையர் அல்லால் பயவாக்",
+   "l2": "களரனையர் கல்லா தவர்.",
+   "pope": "'They are': so much is true of men untaught; But, like a barren field, they yield us nought"
+  },
+  {
+   "n": 407,
+   "ch": 41,
+   "order": 15,
+   "l1": "நுண்மாண் நுழைபுலம் இல்லான் எழில்நலம்",
+   "l2": "மண்மாண் புனைபாவை யற்று.",
+   "pope": "Who lack the power of subtle, large, and penetrating sense, Like puppet, decked with ornaments of clay, their beauty's vain pretence"
+  },
+  {
+   "n": 408,
+   "ch": 41,
+   "order": 15,
+   "l1": "நல்லார்கண் பட்ட வறுமையின் இன்னாதே",
+   "l2": "கல்லார்கண் பட் ட திரு.",
+   "pope": "To men unlearned, from fortune's favour greater-evil springsThan poverty to men of goodly wisdom brings"
+  },
+  {
+   "n": 409,
+   "ch": 41,
+   "order": 15,
+   "l1": "மேற்பிறந்தா ராயினும் கல்லாதார் கீழ்ப்பிறந்தும்",
+   "l2": "கற்றார் அனைத்திலர் பாடு.",
+   "pope": "Lower are men unlearned, though noble be their race, Than low-born men adorned with learning's grace"
+  },
+  {
+   "n": 410,
+   "ch": 41,
+   "order": 15,
+   "l1": "விலங்கொடு மக்கள் அனையர் இலங்குநூல்",
+   "l2": "கற்றாரோடு ஏனை யவர்.",
+   "pope": "Learning's irradiating grace who gain, Others excel, as men the bestial train"
+  },
+  {
+   "n": 541,
+   "ch": 55,
+   "order": 16,
+   "l1": "ஓர்ந்துகண் ணோடாது இறைபுரிந்து யார்மாட்டும்",
+   "l2": "தேர்ந்துசெய் வஃதே முறை.",
+   "pope": "Search out, to no one favour show; with heart that justice lovesConsult, then act; this is the rule that right approves"
+  },
+  {
+   "n": 542,
+   "ch": 55,
+   "order": 16,
+   "l1": "வானோக்கி வாழும் உலகெல்லாம் மன்னவன்",
+   "l2": "கோல் நோக்கி வாழுங் குடி.",
+   "pope": "All earth looks up to heav'n whence raindrops fall; All subjects look to king that ruleth all"
+  },
+  {
+   "n": 543,
+   "ch": 55,
+   "order": 16,
+   "l1": "அந்தணர் நூற்கும் அறத்திற்கும் ஆதியாய்",
+   "l2": "நின்றது மன்னவன் கோல்.",
+   "pope": "Learning and virtue of the sages spring, From all-controlling sceptre of the king"
+  },
+  {
+   "n": 544,
+   "ch": 55,
+   "order": 16,
+   "l1": "குடிதழீஇக் கோலோச்சும் மாநில மன்னன்",
+   "l2": "அடிதழீஇ நிற்கும் உலகு.",
+   "pope": "Whose heart embraces subjects all, lord over mighty landWho rules, the world his feet embracing stands"
+  },
+  {
+   "n": 545,
+   "ch": 55,
+   "order": 16,
+   "l1": "இயல்புளிக் கோலோச்சும் மன்னவன் நாட்ட",
+   "l2": "பெயலும் விளையுளும் தொக்கு.",
+   "pope": "Where king, who righteous laws regards, the sceptre wields, There fall the showers, there rich abundance crowns the fields"
+  },
+  {
+   "n": 546,
+   "ch": 55,
+   "order": 16,
+   "l1": "வேலன்று வென்றி தருவது மன்னவன்",
+   "l2": "கோலதூஉங் கோடா தெனின்.",
+   "pope": "Not lance gives kings the victory, But sceptre swayed with equity"
+  },
+  {
+   "n": 547,
+   "ch": 55,
+   "order": 16,
+   "l1": "இறைகாக்கும் வையகம் எல்லாம் அவனை",
+   "l2": "முறைகாக்கும் முட்டாச் செயின்.",
+   "pope": "The king all the whole realm of earth protects; And justice guards the king who right respects"
+  },
+  {
+   "n": 548,
+   "ch": 55,
+   "order": 16,
+   "l1": "எண்பதத்தான் ஓரா முறைசெய்யா மன்னவன்",
+   "l2": "தண்பதத்தான் தானே கெடும்.",
+   "pope": "Hard of access, nought searching out, with partial handThe king who rules, shall sink and perish from the land"
+  },
+  {
+   "n": 549,
+   "ch": 55,
+   "order": 16,
+   "l1": "குடிபுறங் காத்தோம்பிக் குற்றம் கடிதல்",
+   "l2": "வடுவன்று வேந்தன் தொழில்.",
+   "pope": "Abroad to guard, at home to punish, bringsNo just reproach; 'tis work assigned to kings"
+  },
+  {
+   "n": 550,
+   "ch": 55,
+   "order": 16,
+   "l1": "கொலையிற் கொடியாரை வேந்தொறுத்தல் பைங்கூழ்",
+   "l2": "களைகட் டதனொடு நேர்.",
+   "pope": "By punishment of death the cruel to restrain, Is as when farmer frees from weeds the tender grain"
+  },
+  {
+   "n": 991,
+   "ch": 100,
+   "order": 17,
+   "l1": "எண்பதத்தால் எய்தல் எளிதென்ப யார்மாட்டும்",
+   "l2": "பண்புடைமை என்னும் வழக்கு.",
+   "pope": "Who easy access give to every man, they say, Of kindly courtesy will learn with ease the way"
+  },
+  {
+   "n": 992,
+   "ch": 100,
+   "order": 17,
+   "l1": "அன்புடைமை ஆன்ற குடிப்பிறத்தல் இவ்விரண்டும்",
+   "l2": "பண்புடைமை என்னும் வழக்கு.",
+   "pope": "Benevolence and high born dignity, These two are beaten paths of courtesy"
+  },
+  {
+   "n": 993,
+   "ch": 100,
+   "order": 17,
+   "l1": "உறுப்பொத்தல் மக்களொப்பு அன்றால் வெறுத்தக்க",
+   "l2": "பண்பொத்தல் ஒப்பதாம் ஒப்பு.",
+   "pope": "Men are not one because their members seem alike to outward view; Similitude of kindred quality makes likeness true"
+  },
+  {
+   "n": 994,
+   "ch": 100,
+   "order": 17,
+   "l1": "நயனொடு நன்றி புரிந்த பயனுடையார்",
+   "l2": "பண்புபா ராட்டும் உலகு.",
+   "pope": "Of men of fruitful life, who kindly benefits dispense, The world unites to praise the 'noble excellence.'"
+  },
+  {
+   "n": 995,
+   "ch": 100,
+   "order": 17,
+   "l1": "நகையுள்ளும் இன்னா திகழ்ச்சி பகையுள்ளும்",
+   "l2": "பண்புள பாடறிவார் மாட்டு.",
+   "pope": "Contempt is evil though in sport They who man's nature know, E'en in their wrath, a courteous mind will show"
+  },
+  {
+   "n": 996,
+   "ch": 100,
+   "order": 17,
+   "l1": "பண்புடையார்ப் பட்டுண்டு உலகம் அதுஇன்றேல்",
+   "l2": "மண்புக்கு மாய்வது மன்.",
+   "pope": "The world abides; for 'worthy' men its weight sustainWere it not so, 'twould fall to dust again"
+  },
+  {
+   "n": 997,
+   "ch": 100,
+   "order": 17,
+   "l1": "அரம்போலும் கூர்மைய ரேனும் மரம்போல்வர்",
+   "l2": "மக்கட்பண்பு இல்லா தவர்.",
+   "pope": "Though sharp their wit as file, as blocks they must remain, Whose souls are void of 'courtesy humane'"
+  },
+  {
+   "n": 998,
+   "ch": 100,
+   "order": 17,
+   "l1": "நண்பாற்றார் ஆகி நயமில செய்வார்க்கும்",
+   "l2": "பண்பாற்றார் ஆதல் கடை.",
+   "pope": "Though men with all unfriendly acts and wrongs assail,'Tis uttermost disgrace in 'courtesy' to fail"
+  },
+  {
+   "n": 999,
+   "ch": 100,
+   "order": 17,
+   "l1": "நகல்வல்லர் அல்லார்க்கு மாயிரு ஞாலம்",
+   "l2": "பகலும்பாற் பட்டன்று இருள்.",
+   "pope": "To him who knows not how to smile in kindly mirth, Darkness in daytime broods o'er all the vast and mighty earth"
+  },
+  {
+   "n": 1000,
+   "ch": 100,
+   "order": 17,
+   "l1": "பண்பிலான் பெற்ற பெருஞ்செல்வம் நன்பால்",
+   "l2": "கலந்தீமை யால்திரிந் தற்று.",
+   "pope": "Like sweet milk soured because in filthy vessel poured, Is ample wealth in churlish man's unopened coffers stored"
+  },
+  {
+   "n": 791,
+   "ch": 80,
+   "order": 18,
+   "l1": "நாடாது நட்டலிற் கேடில்லை நட்டபின்",
+   "l2": "வீடில்லை நட்பாள் பவர்க்கு.",
+   "pope": "To make an untried man your friend is ruin sure; For friendship formed unbroken must endure"
+  },
+  {
+   "n": 792,
+   "ch": 80,
+   "order": 18,
+   "l1": "ஆய்ந்தாய்ந்து கொள்ளாதான் கேண்மை கடைமுறை",
+   "l2": "தான்சாம் துயரம் தரும்.",
+   "pope": "Alliance with the man you have not proved and proved again, In length of days will give you mortal pain"
+  },
+  {
+   "n": 793,
+   "ch": 80,
+   "order": 18,
+   "l1": "குணமும் குடிமையும் குற்றமும் குன்றா",
+   "l2": "இனனும் அறிந்தியாக்க நட்பு.",
+   "pope": "Temper, descent, defects, associations freeFrom blame: know these, then let the man be friend to thee"
+  },
+  {
+   "n": 794,
+   "ch": 80,
+   "order": 18,
+   "l1": "குடிப்பிறந்து தன்கண் பழிநாணு வானைக்",
+   "l2": "கொடுத்தும் கொளல்வேண்டும் நட்பு.",
+   "pope": "Who, born of noble race, from guilt would shrink with shame, Pay any price so you as friend that man may claim"
+  },
+  {
+   "n": 795,
+   "ch": 80,
+   "order": 18,
+   "l1": "அழச்சொல்லி அல்லது இடித்து வழக்கறிய",
+   "l2": "வல்லார்நடபு ஆய்ந்து கொளல்.",
+   "pope": "Make them your chosen friend whose words repentance move, With power prescription's path to show, while evil they reprove"
+  },
+  {
+   "n": 796,
+   "ch": 80,
+   "order": 18,
+   "l1": "கேட்டினும் உண்டோர் உறுதி கிளைஞரை",
+   "l2": "நீட்டி அளப்பதோர் கோல்.",
+   "pope": "Ruin itself one blessing lends:'Tis staff that measures out one's friends"
+  },
+  {
+   "n": 797,
+   "ch": 80,
+   "order": 18,
+   "l1": "ஊதியம் என்பது ஒருவற்குப் பேதையார்",
+   "l2": "கேண்மை ஒரீஇ விடல்.",
+   "pope": "'Tis gain to any man, the sages say, Friendship of fools to put away"
+  },
+  {
+   "n": 798,
+   "ch": 80,
+   "order": 18,
+   "l1": "உள்ளற்க உள்ளம் சிறுகுவ கொள்ளற்க",
+   "l2": "அல்லற்கண் ஆற்றறுப்பார் நட்பு.",
+   "pope": "Think not the thoughts that dwarf the soul; nor takeFor friends the men who friends in time of grief forsake"
+  },
+  {
+   "n": 799,
+   "ch": 80,
+   "order": 18,
+   "l1": "கெடுங்காலைக் கைவிடுவார் கேண்மை அடுங்காலை",
+   "l2": "உள்ளினும் உள்ளஞ் சுடும்.",
+   "pope": "Of friends deserting us on ruin's brink,'Tis torture e'en in life's last hour to think"
+  },
+  {
+   "n": 800,
+   "ch": 80,
+   "order": 18,
+   "l1": "மருவுக மாசற்றார் கேண்மைஒன் றீத்தும்",
+   "l2": "ஒருவுக ஒப்பிலார் நட்பு.",
+   "pope": "Cling to the friendship of the spotless one's; whate'er you payRenounce alliance with the men of evil way"
+  },
+  {
+   "n": 181,
+   "ch": 19,
+   "order": 19,
+   "l1": "அறங்கூறான் அல்ல செயினும் ஒருவன்",
+   "l2": "புறங்கூறான் என்றல் இனிது.",
+   "pope": "Though virtuous words his lips speak not, and all his deeds are illIf neighbour he defame not, there's good within him still"
+  },
+  {
+   "n": 182,
+   "ch": 19,
+   "order": 19,
+   "l1": "அறனழீஇ அல்லவை செய்தலின் தீதே",
+   "l2": "புறனழீஇப் பொய்த்து நகை.",
+   "pope": "Than he who virtue scorns, and evil deeds performs, more vile, Is he that slanders friend, then meets him with false smile"
+  },
+  {
+   "n": 183,
+   "ch": 19,
+   "order": 19,
+   "l1": "புறங்கூறிப் பொய்த்துயிர் வாழ்தலின் சாதல்",
+   "l2": "அறங்கூற்றும் ஆக்கத் தரும்.",
+   "pope": "'Tis greater gain of virtuous good for man to die, Than live to slander absent friend, and falsely praise when nigh"
+  },
+  {
+   "n": 184,
+   "ch": 19,
+   "order": 19,
+   "l1": "கண்ணின்று கண்ணறச் சொல்லினும் சொல்லற்க",
+   "l2": "முன்னின்று பின்நோக்காச் சொல்.",
+   "pope": "In presence though unkindly words you speak, say notIn absence words whose ill result exceeds your thought"
+  },
+  {
+   "n": 185,
+   "ch": 19,
+   "order": 19,
+   "l1": "அறஞ்சொல்லும் நெஞ்சத்தான் அன்மை புறஞ்சொல்லும்",
+   "l2": "புன்மையாற் காணப் படும்.",
+   "pope": "The slanderous meanness that an absent friend defames,'This man in words owns virtue, not in heart,' proclaims"
+  },
+  {
+   "n": 186,
+   "ch": 19,
+   "order": 19,
+   "l1": "பிறன்பழி கூறுவான் தன்பழி யுள்ளும்",
+   "l2": "திறன்தெரிந்து கூறப் படும்.",
+   "pope": "Who on his neighbours' sins delights to dwell, The story of his sins, culled out with care, the world will tell"
+  },
+  {
+   "n": 187,
+   "ch": 19,
+   "order": 19,
+   "l1": "பகச்சொல்லிக் கேளிர்ப் பிரிப்பர் நகச்சொல்லி",
+   "l2": "நட்பாடல் தேற்றா தவர்.",
+   "pope": "With friendly art who know not pleasant words to say, Speak words that sever hearts, and drive choice friends away"
+  },
+  {
+   "n": 188,
+   "ch": 19,
+   "order": 19,
+   "l1": "துன்னியார் குற்றமும் தூற்றும் மரபினார்",
+   "l2": "என்னைகொல் ஏதிலார் மாட்டு.",
+   "pope": "Whose nature bids them faults of closest friends proclaimWhat mercy will they show to other men's good name"
+  },
+  {
+   "n": 189,
+   "ch": 19,
+   "order": 19,
+   "l1": "அறன்நோக்கி ஆற்றுங்கொல் வையம் புறன்நோக்கிப்",
+   "l2": "புன்சொல் உரைப்பான் பொறை.",
+   "pope": "'Tis charity, I ween, that makes the earth sustain their loadWho, neighbours' absence watching, tales or slander tell abroad"
+  },
+  {
+   "n": 190,
+   "ch": 19,
+   "order": 19,
+   "l1": "ஏதிலார் குற்றம்போல் தங்குற்றங் காண்கிற்பின்",
+   "l2": "தீதுண்டோ மன்னும் உயிர்க்கு.",
+   "pope": "If each his own, as neighbours' faults would scan, Could any evil hap to living man"
+  },
+  {
+   "n": 241,
+   "ch": 25,
+   "order": 20,
+   "l1": "அருட்செல்வம் செல்வத்துள் செல்வம் பொருட்செல்வம்",
+   "l2": "பூரியார் கண்ணும் உள.",
+   "pope": "Wealth 'mid wealth is wealth 'kindliness'; Wealth of goods the vilest too possess"
+  },
+  {
+   "n": 242,
+   "ch": 25,
+   "order": 20,
+   "l1": "நல்லாற்றாள் நாடி அருளாள்க பல்லாற்றால்",
+   "l2": "தேரினும் அஃதே துணை.",
+   "pope": "The law of 'grace' fulfil, by methods good due trial made, Though many systems you explore, this is your only aid"
+  },
+  {
+   "n": 243,
+   "ch": 25,
+   "order": 20,
+   "l1": "அருள்சேர்ந்த நெஞ்சினார்க் கில்லை இருள்சேர்ந்த",
+   "l2": "இன்னா உலகம் புகல்.",
+   "pope": "They in whose breast a 'gracious kindliness' resides, See not the gruesome world, where darkness drear abides"
+  },
+  {
+   "n": 244,
+   "ch": 25,
+   "order": 20,
+   "l1": "மன்னுயிர் ஓம்பி அருளாள்வார்க்கு இல்லென்ப",
+   "l2": "தன்னுயிர் அஞ்சும் வினை.",
+   "pope": "Who for undying souls of men provides with gracious zeal, In his own soul the dreaded guilt of sin shall never feel"
+  },
+  {
+   "n": 245,
+   "ch": 25,
+   "order": 20,
+   "l1": "அல்லல் அருளாள்வார்க்கு இல்லை வளிவழங்கும்",
+   "l2": "மல்லன்மா ஞாலங் கரி.",
+   "pope": "The teeming earth's vast realm, round which the wild winds blow, Is witness, men of 'grace' no woeful want shall know"
+  },
+  {
+   "n": 246,
+   "ch": 25,
+   "order": 20,
+   "l1": "பொருள்நீங்கிப் பொச்சாந்தார் என்பர் அருள்நீங்கி",
+   "l2": "அல்லவை செய்தொழுகு வார்.",
+   "pope": "Gain of true wealth oblivious they eschew, Who 'grace' forsake, and graceless actions do"
+  },
+  {
+   "n": 247,
+   "ch": 25,
+   "order": 20,
+   "l1": "அருளில்லார்க்கு அவ்வுலகம் இல்லை பொருளில்லார்க்கு",
+   "l2": "இவ்வுலகம் இல்லாகி யாங்கு.",
+   "pope": "As to impoverished men this present world is not; The 'graceless' in you world have neither part nor lot"
+  },
+  {
+   "n": 248,
+   "ch": 25,
+   "order": 20,
+   "l1": "பொருளற்றார் பூப்பர் ஒருகால் அருளற்றார்",
+   "l2": "அற்றார்மற் றாதல் அரிது.",
+   "pope": "Who lose the flower of wealth, when seasons change, again may bloom; Who lose 'benevolence', lose all; nothing can change their doom"
+  },
+  {
+   "n": 249,
+   "ch": 25,
+   "order": 20,
+   "l1": "தெருளாதான் மெய்ப்பொருள் கண்டற்றால் தேரின்",
+   "l2": "அருளாதான் செய்யும் அறம்.",
+   "pope": "When souls unwise true wisdom's mystic vision see, The 'graceless' man may work true works of charity"
+  },
+  {
+   "n": 250,
+   "ch": 25,
+   "order": 20,
+   "l1": "வலியார்முன் தன்னை நினைக்கதான் தன்னின்",
+   "l2": "மெலியார்மேல் செல்லு மிடத்து.",
+   "pope": "When weaker men you front with threat'ning brow, Think how you felt in presence of some stronger foe"
+  }
+ ]
+}
