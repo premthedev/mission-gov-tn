@@ -1,11 +1,21 @@
 // Minimal Gemini REST client used by the GitHub Actions content jobs (Node 22, no dependencies).
 // The key comes from the GEMINI_API_KEY secret and is never written to the repo or the app.
+import { existsSync, readFileSync } from 'node:fs';
+
 const API = 'https://generativelanguage.googleapis.com/v1beta';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// Local runs: read KEY=value lines from the git-ignored .env file in the project root.
+if (existsSync('.env')) {
+  for (const line of readFileSync('.env', 'utf8').split(/\r?\n/)) {
+    const m = line.match(/^\s*([A-Z_][A-Z0-9_]*)\s*=\s*(.*?)\s*$/);
+    if (m && !process.env[m[1]]) process.env[m[1]] = m[2].replace(/^["']|["']$/g, '');
+  }
+}
+
 export function apiKey() {
   const k = process.env.GEMINI_API_KEY;
-  if (!k) {
+  if (!k || /paste|your[-_ ]?key/i.test(k)) {
     console.log('::notice::GEMINI_API_KEY is not set; skipping. Add it under Settings → Secrets → Actions.');
     process.exit(0);
   }
