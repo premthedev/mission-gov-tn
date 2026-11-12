@@ -10,7 +10,11 @@ export function kuralQuestions(
   count: number,
   seedKey: string,
 ): Question[] {
-  const pool = kurals.filter((k) => orders.includes(k.order));
+  return kuralQuestionsFor(kurals.filter((k) => orders.includes(k.order)), kurals, chapters, count, seedKey);
+}
+
+/** Questions about a specific set of kurals (e.g. the ones learned today). */
+export function kuralQuestionsFor(pool: Kural[], kurals: Kural[], chapters: KuralChapter[], count: number, seedKey: string): Question[] {
   if (pool.length === 0) return [];
   const r = seeded(`kural-${seedKey}`);
   const picked: Kural[] = [];

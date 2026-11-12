@@ -1,0 +1,96 @@
+[
+  {
+    "id": "kalaichol-it",
+    "unit": "A4",
+    "topic": "kalaichol",
+    "week": 3,
+    "title": { "ta": "கலைச்சொல்: தகவல் தொழில்நுட்பம்", "en": "Technical terms: IT" },
+    "q": { "ta": "'{t}' என்பதற்கு நேரான தமிழ்க் கலைச்சொல்?", "en": "Tamil technical term for '{t}'?" },
+    "rq": { "ta": "'{m}' என்ற கலைச்சொல்லுக்கு நேரான ஆங்கிலச் சொல்?", "en": "English for '{m}'?" },
+    "source": "TNPSC syllabus Unit IV & VI examples; Samacheer glossaries (கலைச்சொற்கள்)",
+    "items": [
+      ["Computer", "கணினி"], ["Keyboard", "விசைப்பலகை"], ["Mouse", "சுட்டி"], ["Printer", "அச்சுப்பொறி"],
+      ["Software", "மென்பொருள்"], ["Hardware", "வன்பொருள்"], ["Internet", "இணையம்"], ["Website", "இணையதளம்"],
+      ["E-mail", "மின்னஞ்சல்"], ["Search engine", "தேடுபொறி"], ["Pen drive", "விரலி"], ["Browser", "உலாவி"],
+      ["Download", "பதிவிறக்கம்"], ["Upload", "பதிவேற்றம்"], ["Password", "கடவுச்சொல்"], ["App", "செயலி"],
+      ["Smartphone", "திறன்பேசி"], ["Laptop", "மடிக்கணினி"], ["Database", "தரவுத்தளம்"], ["File", "கோப்பு"],
+      ["Folder", "கோப்புறை"], ["Wi-Fi", "அருகலை"], ["Bluetooth", "ஊடலை"], ["Artificial intelligence", "செயற்கை நுண்ணறிவு"],
+      ["Satellite", "செயற்கைக்கோள்"], ["Scanner", "வருடி"], ["Touch screen", "தொடுதிரை"], ["Microphone", "ஒலிவாங்கி"],
+      ["Calculator", "கணிப்பான்"], ["Blog", "வலைப்பதிவு"], ["Server", "வழங்கி"], ["Network", "வலையமைப்பு"]
+    ]
+  },
+  {
+    "id": "kalaichol-science",
+    "unit": "A4",
+    "topic": "kalaichol",
+    "week": 3,
+    "title": { "ta": "கலைச்சொல்: அறிவியல், மருத்துவம்", "en": "Technical terms: science & medicine" },
+    "q": { "ta": "'{t}' என்பதற்கு நேரான தமிழ்க் கலைச்சொல்?", "en": "Tamil technical term for '{t}'?" },
+    "rq": { "ta": "'{m}' என்ற கலைச்சொல்லுக்கு நேரான ஆங்கிலச் சொல்?", "en": "English for '{m}'?" },
+    "source": "TNPSC syllabus Unit IV examples (Gene, Allergy, Migration, Nautical mile); Samacheer Science glossaries",
+    "items": [
+      ["Gene", "மரபணு"], ["Allergy", "ஒவ்வாமை"], ["Migration", "வலசை"], ["Nautical mile", "கடல் மைல்"],
+      ["Vaccine", "தடுப்பூசி"], ["Virus", "தீநுண்மி"], ["Diabetes", "நீரிழிவு"], ["Nutrition", "ஊட்டச்சத்து"],
+      ["Oxygen", "உயிர்வளி"], ["Hydrogen", "நீரகம்"], ["Carbon dioxide", "கரியமில வாயு"], ["Photosynthesis", "ஒளிச்சேர்க்கை"],
+      ["Evaporation", "ஆவியாதல்"], ["Gravity", "ஈர்ப்பு விசை"], ["Telescope", "தொலைநோக்கி"], ["Microscope", "நுண்ணோக்கி"],
+      ["Thermometer", "வெப்பநிலைமானி"], ["Planet", "கோள்"], ["Orbit", "சுற்றுப்பாதை"], ["Comet", "வால்விண்மீன்"],
+      ["Atom", "அணு"], ["Molecule", "மூலக்கூறு"], ["Element", "தனிமம்"], ["Compound", "சேர்மம்"],
+      ["Acid", "அமிலம்"], ["Base", "காரம்"], ["X-ray", "ஊடுகதிர்"], ["Fossil", "தொல்லுயிர் எச்சம்"]
+    ]
+  },
+  {
+    "id": "kalaichol-admin",
+    "unit": "A4",
+    "topic": "kalaichol",
+    "week": 3,
+    "title": { "ta": "கலைச்சொல்: நிர்வாகம், சட்டம்", "en": "Technical terms: administration & law" },
+    "q": { "ta": "'{t}' என்பதற்கு நேரான தமிழ்க் கலைச்சொல்?", "en": "Tamil technical term for '{t}'?" },
+    "rq": { "ta": "'{m}' என்ற கலைச்சொல்லுக்கு நேரான ஆங்கிலச் சொல்?", "en": "English for '{m}'?" },
+    "source": "TNPSC syllabus Unit IV & VI (office files, letters, petitions); TN government administrative glossary",
+    "items": [
+      ["Constitution", "அரசியலமைப்பு"], ["Democracy", "மக்களாட்சி"], ["Parliament", "நாடாளுமன்றம்"], ["Legislative Assembly", "சட்டமன்றம்"],
+      ["Citizen", "குடிமகன்"], ["Court", "நீதிமன்றம்"], ["Advocate", "வழக்கறிஞர்"], ["Petition", "மனு"],
+      ["Affidavit", "பிரமாணப் பத்திரம்"], ["Notification", "அறிவிக்கை"], ["Circular", "சுற்றறிக்கை"], ["Government Order", "அரசாணை"],
+      ["Secretariat", "தலைமைச் செயலகம்"], ["District Collector", "மாவட்ட ஆட்சியர்"], ["Tahsildar", "வட்டாட்சியர்"], ["Village Administrative Officer", "கிராம நிர்வாக அலுவலர்"],
+      ["Budget", "வரவு செலவுத் திட்டம்"], ["Revenue", "வருவாய்"], ["Pension", "ஓய்வூதியம்"], ["Insurance", "காப்பீடு"],
+      ["Export", "ஏற்றுமதி"], ["Import", "இறக்குமதி"], ["Inflation", "பணவீக்கம்"], ["Census", "மக்கள்தொகைக் கணக்கெடுப்பு"],
+      ["Attestation", "சான்றொப்பம்"], ["Certificate", "சான்றிதழ்"], ["Application", "விண்ணப்பம்"], ["Memorandum", "குறிப்பாணை"],
+      ["Agenda", "நிகழ்ச்சி நிரல்"], ["Probation", "தகுதிகாண் பருவம்"], ["Promotion", "பதவி உயர்வு"], ["Leave", "விடுப்பு"]
+    ]
+  },
+  {
+    "id": "kalaichol-media-edu",
+    "unit": "A4",
+    "topic": "kalaichol",
+    "week": 3,
+    "title": { "ta": "கலைச்சொல்: ஊடகம், கல்வி", "en": "Technical terms: media & education" },
+    "q": { "ta": "'{t}' என்பதற்கு நேரான தமிழ்க் கலைச்சொல்?", "en": "Tamil technical term for '{t}'?" },
+    "rq": { "ta": "'{m}' என்ற கலைச்சொல்லுக்கு நேரான ஆங்கிலச் சொல்?", "en": "English for '{m}'?" },
+    "source": "TNPSC syllabus Unit IV & V (newspaper, editorial, headlines); Samacheer glossaries",
+    "items": [
+      ["Newspaper", "செய்தித்தாள்"], ["Editorial", "தலையங்கம்"], ["Headlines", "தலைப்புச் செய்திகள்"], ["Journalist", "இதழாளர்"],
+      ["Advertisement", "விளம்பரம்"], ["Interview", "நேர்காணல்"], ["Television", "தொலைக்காட்சி"], ["Radio", "வானொலி"],
+      ["Documentary", "ஆவணப்படம்"], ["Library", "நூலகம்"], ["Laboratory", "ஆய்வகம்"], ["Syllabus", "பாடத்திட்டம்"],
+      ["Scholarship", "கல்வி உதவித்தொகை"], ["University", "பல்கலைக்கழகம்"], ["Encyclopedia", "கலைக்களஞ்சியம்"], ["Dictionary", "அகராதி"],
+      ["Biography", "வாழ்க்கை வரலாறு"], ["Autobiography", "தன்வரலாறு"], ["Manuscript", "கையெழுத்துப் படி"], ["Palm-leaf manuscript", "ஓலைச்சுவடி"],
+      ["Inscription", "கல்வெட்டு"], ["Archaeology", "தொல்லியல்"], ["Translation", "மொழிபெயர்ப்பு"], ["Proverb", "பழமொழி"]
+    ]
+  },
+  {
+    "id": "kalaichol-geo",
+    "unit": "A4",
+    "topic": "kalaichol",
+    "week": 3,
+    "title": { "ta": "கலைச்சொல்: புவியியல்", "en": "Technical terms: geography" },
+    "q": { "ta": "'{t}' என்பதற்கு நேரான தமிழ்க் கலைச்சொல்?", "en": "Tamil technical term for '{t}'?" },
+    "rq": { "ta": "'{m}' என்ற கலைச்சொல்லுக்கு நேரான ஆங்கிலச் சொல்?", "en": "English for '{m}'?" },
+    "source": "Samacheer Social Science glossaries",
+    "items": [
+      ["Equator", "நிலநடுக்கோடு"], ["Latitude", "அட்சக்கோடு"], ["Longitude", "தீர்க்கக்கோடு"], ["Peninsula", "தீபகற்பம்"],
+      ["Island", "தீவு"], ["Earthquake", "நிலநடுக்கம்"], ["Tsunami", "ஆழிப்பேரலை"], ["Cyclone", "புயல்"],
+      ["Drought", "வறட்சி"], ["Monsoon", "பருவக்காற்று"], ["Climate", "காலநிலை"], ["Desert", "பாலைவனம்"],
+      ["Plateau", "பீடபூமி"], ["Estuary", "கழிமுகம்"], ["Volcano", "எரிமலை"], ["Glacier", "பனியாறு"],
+      ["Lagoon", "காயல்"], ["Waterfall", "நீர்வீழ்ச்சி"]
+    ]
+  }
+]

@@ -11,6 +11,7 @@ export function SourceBadge({ q }: { q: Question }) {
     label = `TNPSC ${q.source.year} · Q${q.source.qNo} · ${key}`;
   } else if (q.source.kind === 'LESSON') label = 'Lesson question';
   else if (q.source.kind === 'GENERATED') label = 'App-generated · fresh';
+  else if (q.source.kind === 'DECK') label = 'நினைவு அட்டை · Memory deck';
   else if (q.source.kind === 'CURRENT_AFFAIRS') label = `Current affairs${q.source.date ? ` · ${q.source.date}` : ''}`;
   else label = 'Practice variant';
   return <span className="inline-block rounded-full bg-slate-100 px-2.5 py-1 text-xs font-medium text-slate-600 dark:bg-slate-700 dark:text-slate-300">{label}</span>;

@@ -1,5 +1,6 @@
 import type { Bi, Part, Question, Unit } from '../data/types';
-import { ALL_UNITS, CHAPTERS, KURALS, UNIT_COUNTS } from '../data/content';
+import { ALL_UNITS, CHAPTERS, KURALS, UNIT_COUNTS, decks } from '../data/content';
+import { deckQuestions, decksForUnits } from './generators/deck';
 import type { Blueprint } from './planner';
 import { generate, type GenTopic } from './generators/aptitude';
 import { kuralQuestions } from './generators/kural';
@@ -26,8 +27,14 @@ function fillUnit(unit: Unit, n: number, bank: Question[], stats: Stats, today: 
     for (let i = 0; qs.length < n; i++, filled++) qs.push(generate(gens[i % gens.length], `${seed}-${unit}-${i}`));
   }
   if (qs.length < n && unit === 'A7') {
-    const extra = kuralQuestions(KURALS, CHAPTERS, CHAPTERS.map((c) => c.order), n - qs.length, `${seed}-A7`)
+    const extra = kuralQuestions(KURALS, CHAPTERS, CHAPTERS.map((c) => c.order), Math.min(6, n - qs.length), `${seed}-A7`)
       .filter((q) => !used.has(q.id));
+    extra.forEach((q) => used.add(q.id));
+    filled += extra.length;
+    qs.push(...extra);
+  }
+  if (qs.length < n) {
+    const extra = deckQuestions(decksForUnits(decks(), [unit]), n - qs.length, `${seed}-${unit}`).filter((q) => !used.has(q.id));
     extra.forEach((q) => used.add(q.id));
     filled += extra.length;
     qs.push(...extra);
@@ -73,7 +80,7 @@ export function assembleMock(blueprint: Blueprint, bank: Question[], stats: Stat
     generated += filled;
     questions.push(...qs);
   }
-  if (generated > 0) notes.push({ ta: `${generated} வினாக்கள் ஆப் உருவாக்கியவை (திறனறிவு / திருக்குறள்).`, en: `${generated} questions are app-generated (aptitude / Thirukkural).` });
+  if (generated > 0) notes.push({ ta: `${generated} வினாக்கள் ஆப் உருவாக்கியவை (திறனறிவு, திருக்குறள், நினைவு அட்டைகள்).`, en: `${generated} questions are app-generated (aptitude, Thirukkural, memory decks).` });
   if (missing > 0) {
     notes.push({
       ta: `உண்மையான வினாக்கள் இன்னும் போதவில்லை: ${missing} இடங்கள் காலியாக உள்ளன. அதனால் இந்தத் தேர்வு ${questions.length} வினாக்களுடன் நடக்கிறது.`,

@@ -1,0 +1,51 @@
+[
+  {
+    "id": "w2-apt-ratio", "unit": "C1", "topic": "ratio", "week": 2, "seq": 2, "minutes": 20,
+    "title": { "ta": "விகிதம், விகிதாசாரம்", "en": "Ratio and proportion" },
+    "oneLine": { "ta": "விகிதம் = பங்குகள். மொத்தத்தை மொத்தப் பங்குகளால் வகுத்தால் ஒரு பங்கு கிடைக்கும்.", "en": "A ratio is parts. Total ÷ total parts = one part." },
+    "sections": [
+      { "heading": { "ta": "பங்கு முறை", "en": "Parts method" },
+        "body": { "ta": "₹1,750 ஐ 3 : 4 விகிதத்தில் பிரி: மொத்தப் பங்கு 7; ஒரு பங்கு 250; பெரிய பங்கு 4 × 250 = ₹1,000.\nஇரு விகிதங்களை இணைக்க (A : B, B : C): பொது உறுப்பு B-ஐ சமமாக்குங்கள். A : B = 2 : 3, B : C = 4 : 5 → A : B = 8 : 12, B : C = 12 : 15 → 8 : 12 : 15.", "en": "Split by parts. To chain ratios, make the shared term equal." } },
+      { "heading": { "ta": "விகிதாசாரம்", "en": "Proportion" },
+        "body": { "ta": "a : b = c : d எனில் a × d = b × c (வெளி உறுப்புகளின் பெருக்கல் = உள் உறுப்புகளின் பெருக்கல்).\n4 : x = 6 : 9 → 6x = 36 → x = 6.\nநேர் விகிதம்: ஒன்று கூடினால் மற்றதும் கூடும் (பொருள், விலை). எதிர் விகிதம்: ஆட்கள் கூடினால் நாட்கள் குறையும்.", "en": "Product of extremes = product of means. Direct vs inverse variation." } }
+    ],
+    "examples": [
+      { "q": { "en": "Two numbers are 3 : 5, sum 160. Smaller?" }, "a": { "en": "160 ÷ 8 = 20; 3 × 20 = 60" } },
+      { "q": { "en": "A : B = 2 : 3, B : C = 4 : 5 → A : B : C" }, "a": { "en": "8 : 12 : 15" } }
+    ],
+    "traps": [
+      { "ta": "\"பெரிய பங்கு\" கேட்டால் சிறிய பங்கும் விடைகளில் இருக்கும். வினாவை மீண்டும் படியுங்கள்.", "en": "The smaller share is always among the options when they ask for the larger one." }
+    ],
+    "check": [
+      { "stem": { "en": "₹2,400 is divided in the ratio 5 : 7. The larger share is?" }, "options": ["₹1,000", "₹1,400", "₹1,200", "₹1,600"], "answer": "B", "explain": { "en": "2,400 ÷ 12 = 200; 7 × 200 = 1,400." } },
+      { "stem": { "en": "4 : x = 6 : 9. x = ?" }, "options": ["5", "6", "7", "8"], "answer": "B", "explain": { "en": "6x = 36 → x = 6." } },
+      { "stem": { "en": "A : B = 3 : 4 and B : C = 2 : 5. A : B : C = ?" }, "options": ["3 : 4 : 5", "6 : 8 : 20", "3 : 4 : 10", "3 : 2 : 5"], "answer": "C", "explain": { "en": "B : C = 4 : 10, so 3 : 4 : 10." } }
+    ],
+    "sourceRef": "Samacheer Maths 7th–8th; TNPSC syllabus Part C Unit I"
+  },
+  {
+    "id": "w2-apt-si-ci", "unit": "C1", "topic": "si", "week": 2, "seq": 4, "minutes": 25,
+    "title": { "ta": "தனிவட்டி, கூட்டுவட்டி", "en": "Simple and compound interest" },
+    "oneLine": { "ta": "தனிவட்டி = PNR/100. கூட்டுவட்டித் தொகை = P(1 + R/100)ⁿ. 2 ஆண்டு வேறுபாடு = P(R/100)².", "en": "SI = PNR/100; CI amount = P(1 + R/100)ⁿ; 2-year CI − SI = P(R/100)²." },
+    "sections": [
+      { "heading": { "ta": "தனிவட்டி", "en": "Simple interest" },
+        "body": { "ta": "I = P × N × R ÷ 100. தொகை = P + I.\nR காண: R = 100I ÷ (PN). N காண: N = 100I ÷ (PR).\nஒரு தொகை N ஆண்டுகளில் இரட்டிப்பானால் R = 100 ÷ N (10 ஆண்டில் இரட்டிப்பு → 10%).", "en": "Rearrange the same formula for R or N. Doubling in N years means R = 100/N." } },
+      { "heading": { "ta": "கூட்டுவட்டி", "en": "Compound interest" },
+        "body": { "ta": "தொகை A = P(1 + R/100)ⁿ; கூட்டுவட்டி = A − P.\n10% க்கு: 2 ஆண்டு காரணி 1.21, 3 ஆண்டு 1.331. 20% க்கு: 1.44, 1.728. 5% க்கு: 1.1025.\nவேகக் குறிப்பு: 2 ஆண்டுகளுக்கு CI − SI = P(R/100)²; 3 ஆண்டுகளுக்கு P(R/100)²(3 + R/100).", "en": "Memorise the growth factors for 5%, 10%, 20%. Use the CI − SI shortcut." } }
+    ],
+    "examples": [
+      { "q": { "en": "SI on ₹8,000 at 6% for 3 years" }, "a": { "en": "8,000 × 3 × 6 / 100 = ₹1,440" } },
+      { "q": { "en": "CI on ₹10,000 at 10% for 2 years" }, "a": { "en": "10,000 × 1.21 − 10,000 = ₹2,100" } }
+    ],
+    "traps": [
+      { "ta": "\"கூட்டுவட்டி\" கேட்டால் மொத்தத் தொகையும் (₹12,100) விடைகளில் இருக்கும். வட்டி மட்டும் = தொகை − அசல்.", "en": "The amount (P + CI) is a common wrong option when they ask for CI." }
+    ],
+    "check": [
+      { "stem": { "en": "Simple interest on ₹5,000 at 8% per annum for 2 years?" }, "options": ["₹400", "₹800", "₹832", "₹5,800"], "answer": "B", "explain": { "en": "5,000 × 2 × 8 / 100 = 800." } },
+      { "stem": { "en": "Compound interest on ₹10,000 at 10% for 2 years?" }, "options": ["₹2,000", "₹2,100", "₹12,100", "₹2,210"], "answer": "B", "explain": { "en": "10,000 × 1.21 = 12,100 → CI 2,100." } },
+      { "stem": { "en": "CI − SI on ₹5,000 at 4% for 2 years?" }, "options": ["₹4", "₹8", "₹16", "₹10"], "answer": "B", "explain": { "en": "5,000 × 0.04² = 8." } },
+      { "stem": { "en": "A sum doubles in 8 years at simple interest. Rate?" }, "options": ["8%", "12.5%", "10%", "16%"], "answer": "B", "explain": { "en": "R = 100 ÷ 8 = 12.5%." } }
+    ],
+    "sourceRef": "Samacheer Maths 8th; TNPSC syllabus Part C Unit I"
+  }
+]

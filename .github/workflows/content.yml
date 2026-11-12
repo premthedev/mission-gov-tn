@@ -1,0 +1,65 @@
+name: Daily content (news questions + past papers)
+
+# Every morning (06:00 IST): today's current-affairs questions, then the next past-paper chunk.
+# Needs the GEMINI_API_KEY repository secret; without it the jobs skip quietly.
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+    inputs:
+      exam:
+        description: 'Past paper to extract (e.g. G4-2025) or "next"'
+        default: next
+      pages:
+        description: 'Max pages this run'
+        default: '140'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content
+  cancel-in-progress: false
+
+jobs:
+  content:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      EXTRACT_PREFER: ${{ vars.EXTRACT_PREFER }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Install PDF renderer
+        run: pip install --quiet pypdfium2 pillow
+
+      - name: Today's current-affairs questions
+        continue-on-error: true
+        run: node tools/daily-news.mjs
+
+      - name: Extract next past paper
+        continue-on-error: true
+        run: node tools/extract-paper.mjs "${{ github.event.inputs.exam || 'next' }}" "${{ github.event.inputs.pages || '140' }}"
+
+      - name: Update manifest and commit
+        run: |
+          node tools/build-manifest.mjs
+          git config user.name "mission-gov-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then
+            echo "No new content today."
+          else
+            git commit -m "content: $(date -u +%F) news + papers"
+            git push
+          fi

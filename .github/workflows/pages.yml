@@ -1,8 +1,7 @@
 name: Web app (GitHub Pages fallback)
 
+# Optional web fallback. Enable once under Settings → Pages → Source: GitHub Actions, then run manually.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:

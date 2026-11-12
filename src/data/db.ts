@@ -75,6 +75,8 @@ class AppDB extends Dexie {
   qcache!: Table<Question, string>;
   urai!: Table<KuralUrai & { n: number }, number>;
   kv!: Table<KV, string>;
+  remoteFiles!: Table<{ path: string; sha: string; data: unknown; at: number }, string>;
+  kuralCards!: Table<{ n: number; box: number; nextReview: string; learnedAt: string }, number>;
 
   constructor() {
     super('mission-gov');
@@ -89,6 +91,10 @@ class AppDB extends Dexie {
       qcache: 'id',
       urai: 'n',
       kv: 'key',
+    });
+    this.version(2).stores({
+      remoteFiles: 'path',
+      kuralCards: 'n, nextReview',
     });
   }
 }

@@ -1,0 +1,61 @@
+{
+ "generatedAt": "2026-11-12T18:48:26.753Z",
+ "files": [
+  {
+   "path": "curriculum.json",
+   "sha": "2f2f7907b742"
+  },
+  {
+   "path": "decks/a2-vocabulary.json",
+   "sha": "ef46da26e13d"
+  },
+  {
+   "path": "decks/a3-marabu.json",
+   "sha": "f2a141b20620"
+  },
+  {
+   "path": "decks/a4-kalaichol.json",
+   "sha": "c002e01609e9"
+  },
+  {
+   "path": "decks/a5-a7-idioms-literature.json",
+   "sha": "7bf7423763c0"
+  },
+  {
+   "path": "decks/b-gs.json",
+   "sha": "dd249ef5bf9f"
+  },
+  {
+   "path": "kural20.json",
+   "sha": "d454848487e4"
+  },
+  {
+   "path": "lessons/w1-aptitude.json",
+   "sha": "9cfd98be8fb1"
+  },
+  {
+   "path": "lessons/w1-tamil-a.json",
+   "sha": "ff6123953df8"
+  },
+  {
+   "path": "lessons/w1-tamil-b.json",
+   "sha": "aeb6ffb25bcb"
+  },
+  {
+   "path": "lessons/w1-tamil-c.json",
+   "sha": "8cf923d38d66"
+  },
+  {
+   "path": "lessons/w2-aptitude.json",
+   "sha": "1a241d42c986"
+  },
+  {
+   "path": "lessons/w2-tamil.json",
+   "sha": "0b4d03ca52a2"
+  },
+  {
+   "path": "questions/pyq-g4-2025.json",
+   "sha": "b736511bf5db"
+  }
+ ]
+}

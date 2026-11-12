@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Choice, Question } from '../data/types';
 import { db, type MockDraft } from '../data/db';
-import { BANK, cacheQuestions, getQuestions, loadStats, recordAttempt } from '../data/progress';
+import { bank, cacheQuestions, getQuestions, loadStats, recordAttempt } from '../data/progress';
 import { assembleMock, type MockPaper } from '../engine/mock';
 import type { Blueprint } from '../engine/planner';
 import { scoreOMR, type ScoreResult } from '../engine/scoring';
@@ -33,7 +33,7 @@ export function Mock({ blueprint, onDone }: { blueprint: Blueprint; onDone: () =
         setQuestions(await getQuestions(existing.questionIds));
         setDraft(existing);
       }
-      const p = assembleMock(blueprint, BANK, await loadStats(), todayISO());
+      const p = assembleMock(blueprint, bank(), await loadStats(), todayISO());
       setPaper(p);
     })();
   }, [key, blueprint]);

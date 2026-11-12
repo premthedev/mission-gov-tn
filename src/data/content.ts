@@ -1,9 +1,11 @@
 import kuralData from '../../content/kural20.json';
-import type { Bi, Era, Format, KeySource, Kural, KuralChapter, Lesson, Letter, Part, Passage, Question, Unit } from './types';
+import type {
+  Bi, CurriculumWeek, Deck, Era, Format, KeySource, Kural, KuralChapter, Lesson, Letter, Part, Passage, Question, Unit,
+} from './types';
 
 /**
- * Bundled content. Any JSON dropped into content/lessons or content/questions is picked up at build time.
- * Raw files use a compact format and are normalised here.
+ * Content store. Starts with the files bundled in the app, then merges files downloaded from GitHub
+ * (see sync.ts). Every getter returns the current merged view; subscribe() notifies React on change.
  */
 
 export const CHAPTERS: KuralChapter[] = kuralData.chapters;
@@ -11,6 +13,7 @@ export const KURALS: Kural[] = kuralData.kurals;
 
 type RawText = string | Bi;
 const bi = (v: RawText | undefined): Bi => (v === undefined ? {} : typeof v === 'string' ? { ta: v } : v);
+const letters: Letter[] = ['A', 'B', 'C', 'D'];
 
 interface RawCheck {
   stem: RawText;
@@ -49,6 +52,7 @@ interface RawPyq {
   era: Era;
   explain?: RawText;
   explainVerified?: boolean;
+  ai?: boolean;
 }
 
 interface RawPaper {
@@ -60,7 +64,22 @@ interface RawPaper {
   questions: RawPyq[];
 }
 
-const letters: Letter[] = ['A', 'B', 'C', 'D'];
+interface RawCa {
+  id: string;
+  unit: Unit;
+  topic?: string;
+  stem: RawText;
+  options: RawText[];
+  answer: Letter;
+  explain?: RawText;
+  url?: string;
+  headline?: string;
+}
+
+interface RawFeed {
+  date: string;
+  questions: RawCa[];
+}
 
 function lessonFromRaw(raw: RawLesson): Lesson {
   return {
@@ -105,30 +124,125 @@ function paperToQuestions(p: RawPaper): Question[] {
     keySource: q.keySource,
     keyChanged: q.keyChanged,
     deletedByTnpsc: q.deleted,
-    source: { kind: 'PYQ', exam: p.exam, year: p.year, qNo: q.qNo, url: p.url },
+    source: { kind: 'PYQ', exam: p.exam, year: p.year, qNo: q.qNo, url: p.url, aiExtracted: q.ai },
     syllabusEra: q.era,
     explanation: q.explain ? { ...bi(q.explain), verified: q.explainVerified ?? false } : undefined,
   }));
 }
 
-const lessonFiles = import.meta.glob('../../content/lessons/*.json', { eager: true, import: 'default' }) as Record<string, RawLesson[]>;
-const paperFiles = import.meta.glob('../../content/questions/*.json', { eager: true, import: 'default' }) as Record<string, RawPaper>;
+function feedToQuestions(f: RawFeed): Question[] {
+  return f.questions.map((c) => ({
+    id: `ca-${c.id}`,
+    part: 'B' as Part,
+    unit: c.unit,
+    topic: c.topic ?? 'current-affairs',
+    format: 'ONE_LINER' as Format,
+    stem: bi(c.stem),
+    options: Object.fromEntries(letters.map((l, j) => [l, bi(c.options[j])])) as Record<Letter, Bi>,
+    answer: c.answer,
+    keySource: 'CITED_SOURCE' as KeySource,
+    source: { kind: 'CURRENT_AFFAIRS' as const, date: f.date, url: c.url, headline: c.headline, aiExtracted: true },
+    syllabusEra: 'CURRENT' as Era,
+    explanation: c.explain ? { ...bi(c.explain), verified: false } : undefined,
+  }));
+}
 
-export const LESSONS: Lesson[] = Object.values(lessonFiles)
-  .flatMap((list) => list.map(lessonFromRaw))
-  .sort((a, b) => a.week - b.week || a.seq - b.seq);
+// ---------- bundled files ----------
 
-const papers = Object.values(paperFiles);
-export const PAPERS = papers.map((p) => ({ exam: p.exam, year: p.year, title: p.title, url: p.url, count: p.questions.length }));
-export const PASSAGES: Passage[] = papers.flatMap((p) => (p.passages ?? []).map((x) => ({ id: `${p.exam}-${x.id}`, text: bi(x.text) })));
-export const PYQ: Question[] = papers.flatMap(paperToQuestions);
-export const LESSON_QUESTIONS: Question[] = LESSONS.flatMap((l) => l.check);
+const strip = (k: string) => k.replace(/^.*\/content\//, '');
+const glob = (g: Record<string, unknown>) => Object.fromEntries(Object.entries(g).map(([k, v]) => [strip(k), v]));
+const BUNDLED: Record<string, unknown> = {
+  ...glob(import.meta.glob('../../content/lessons/*.json', { eager: true, import: 'default' })),
+  ...glob(import.meta.glob('../../content/questions/*.json', { eager: true, import: 'default' })),
+  ...glob(import.meta.glob('../../content/decks/*.json', { eager: true, import: 'default' })),
+  ...glob(import.meta.glob('../../content/feed/ca-*.json', { eager: true, import: 'default' })),
+  ...glob(import.meta.glob('../../content/curriculum.json', { eager: true, import: 'default' })),
+};
 
-const byId = new Map<string, Question>([...PYQ, ...LESSON_QUESTIONS].map((q) => [q.id, q]));
-export const contentQuestion = (id: string) => byId.get(id);
-export const lessonById = (id: string) => LESSONS.find((l) => l.id === id);
-export const passageById = (id: string) => PASSAGES.find((p) => p.id === id);
+// ---------- merged state ----------
+
+interface State {
+  lessons: Lesson[];
+  pyq: Question[];
+  ca: Question[];
+  decks: Deck[];
+  curriculum: CurriculumWeek[];
+  passages: Passage[];
+  papers: { exam: string; year: number; title: string; url: string; count: number }[];
+  byId: Map<string, Question>;
+  feedDates: string[];
+}
+
+function build(files: Record<string, unknown>): State {
+  const lessons: Lesson[] = [];
+  const pyq: Question[] = [];
+  const ca: Question[] = [];
+  const decks: Deck[] = [];
+  const passages: Passage[] = [];
+  const papers: State['papers'] = [];
+  const feedDates: string[] = [];
+  let curriculum: CurriculumWeek[] = [];
+  for (const [path, data] of Object.entries(files)) {
+    try {
+      if (path.startsWith('lessons/')) lessons.push(...(data as RawLesson[]).map(lessonFromRaw));
+      else if (path.startsWith('questions/')) {
+        const p = data as RawPaper;
+        pyq.push(...paperToQuestions(p));
+        passages.push(...(p.passages ?? []).map((x) => ({ id: `${p.exam}-${x.id}`, text: bi(x.text) })));
+        papers.push({ exam: p.exam, year: p.year, title: p.title, url: p.url, count: p.questions.length });
+      } else if (path.startsWith('decks/')) decks.push(...(data as Deck[]));
+      else if (path.startsWith('feed/ca-')) {
+        const f = data as RawFeed;
+        ca.push(...feedToQuestions(f));
+        feedDates.push(f.date);
+      } else if (path === 'curriculum.json') curriculum = data as CurriculumWeek[];
+    } catch (e) {
+      console.warn('Skipping bad content file', path, e);
+    }
+  }
+  const uniq = <T extends { id: string }>(arr: T[]) => [...new Map(arr.map((x) => [x.id, x])).values()];
+  const L = uniq(lessons).sort((a, b) => a.week - b.week || a.seq - b.seq);
+  const P = uniq(pyq);
+  const C = uniq(ca);
+  const byId = new Map<string, Question>([...P, ...C, ...L.flatMap((l) => l.check)].map((q) => [q.id, q]));
+  return {
+    lessons: L, pyq: P, ca: C, decks: uniq(decks), curriculum, passages, byId,
+    papers: papers.sort((a, b) => b.year - a.year), feedDates: feedDates.sort(),
+  };
+}
+
+let state = build(BUNDLED);
+let version = 0;
+const listeners = new Set<() => void>();
+
+/** Merge downloaded files over the bundled ones and refresh every screen. */
+export function applyRemote(files: Record<string, unknown>): void {
+  state = build({ ...BUNDLED, ...files });
+  version++;
+  listeners.forEach((l) => l());
+}
+
+export const subscribe = (fn: () => void) => {
+  listeners.add(fn);
+  return () => listeners.delete(fn);
+};
+export const contentVersion = () => version;
+
+export const lessons = () => state.lessons;
+export const pyq = () => state.pyq;
+export const caQuestions = () => state.ca;
+export const decks = () => state.decks;
+export const curriculum = () => state.curriculum;
+export const papers = () => state.papers;
+export const feedDates = () => state.feedDates;
+export const lessonQuestions = () => state.lessons.flatMap((l) => l.check);
+export const contentQuestion = (id: string) => state.byId.get(id);
+export const lessonById = (id: string) => state.lessons.find((l) => l.id === id);
+export const passageById = (id: string) => state.passages.find((p) => p.id === id);
+export const deckById = (id: string) => state.decks.find((d) => d.id === id);
 export const chapterByOrder = (order: number) => CHAPTERS.find((c) => c.order === order)!;
+/** Real (non-generated) questions used for ranking and practice. */
+export const realBank = () => [...state.pyq, ...state.ca, ...lessonQuestions()];
 
 export const UNIT_LABEL: Record<Unit, Bi> = {
   A1: { ta: 'இலக்கணம்', en: 'Tamil I · Grammar' },

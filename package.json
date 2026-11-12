@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -p tsconfig.json && vite build",
+    "build": "node tools/build-manifest.mjs && tsc -p tsconfig.json && vite build",
+    "manifest": "node tools/build-manifest.mjs",
     "typecheck": "tsc -p tsconfig.json",
     "preview": "vite preview",
     "content:kural": "python tools/build_kural_content.py",

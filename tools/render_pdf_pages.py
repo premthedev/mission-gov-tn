@@ -28,13 +28,20 @@ def paper(exam: str) -> dict:
     raise SystemExit(f"unknown exam {exam}")
 
 
-def download(p: dict) -> str:
-    path = os.path.join(WORK, "pdf", f"{p['exam']}.pdf")
+def download(p: dict, field: str = "booklet") -> str:
+    suffix = "" if field == "booklet" else "-key"
+    # A copy kept in the repo (papers/) is used first, in case tnpsc.gov.in blocks the CI servers.
+    local = os.path.join(ROOT, "papers", f"{p['exam']}{suffix}.pdf")
+    if os.path.exists(local):
+        return local
+    path = os.path.join(WORK, "pdf", f"{p['exam']}{suffix}.pdf")
     if not os.path.exists(path):
         os.makedirs(os.path.dirname(path), exist_ok=True)
-        url = p["base"] + urllib.parse.quote(p["booklet"])
+        url = p["base"] + urllib.parse.quote(p[field])
         print("downloading", url)
-        urllib.request.urlretrieve(url, path)
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=300) as r, open(path, "wb") as fh:
+            fh.write(r.read())
     return path
 
 
@@ -55,13 +62,16 @@ def upright(img: Image.Image) -> Image.Image:
 def main() -> None:
     exam = sys.argv[1]
     p = paper(exam)
-    pdf = pdfium.PdfDocument(download(p))
+    key_mode = len(sys.argv) > 2 and sys.argv[2] == "key"
+    if key_mode and not p.get("finalKey"):
+        raise SystemExit(f"{exam} has no final key")
+    pdf = pdfium.PdfDocument(download(p, "finalKey" if key_mode else "booklet"))
     n = len(pdf)
     lo, hi = 1, n
-    if len(sys.argv) > 2:
+    if len(sys.argv) > 2 and not key_mode:
         a, _, b = sys.argv[2].partition("-")
         lo, hi = int(a), int(b or a)
-    out = os.path.join(WORK, "pages", exam)
+    out = os.path.join(WORK, "pages", f"{exam}-key" if key_mode else exam)
     os.makedirs(out, exist_ok=True)
     for i in range(lo, min(hi, n) + 1):
         img = upright(pdf[i - 1].render(scale=150 / 72).to_pil())

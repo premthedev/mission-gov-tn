@@ -12,10 +12,33 @@ export type Confidence = 'SURE' | 'FIFTY_FIFTY' | 'GUESS';
 export type ErrorReason = 'CONCEPT' | 'MEMORY' | 'MISREAD_NOT' | 'CALC' | 'GUESS' | 'TIME';
 export type KeySource = 'FINAL_KEY' | 'TENTATIVE_TICK' | 'LESSON' | 'GENERATED' | 'CITED_SOURCE';
 export type Era = 'CURRENT' | 'OVERLAP' | 'OFF_SYLLABUS';
-export type Mode = 'PRACTICE' | 'DRILL' | 'KURAL' | 'LESSON' | 'REVIEW' | 'SHORT_MOCK' | 'MOCK';
+export type Mode = 'PRACTICE' | 'DRILL' | 'KURAL' | 'LESSON' | 'REVIEW' | 'WARMUP' | 'SPEED' | 'SHORT_MOCK' | 'MOCK';
+
+/** A memorisation deck. Each item is [term, meaning, note?]. Questions are generated from it in both directions. */
+export interface Deck {
+  id: string;
+  unit: Unit;
+  topic: string;
+  week: number;
+  title: Bi;
+  /** Forward stem; {t} is replaced by the term. Answer = meaning. */
+  q: Bi;
+  /** Reverse stem; {m} is replaced by the meaning. Answer = term. */
+  rq?: Bi;
+  items: [string, string, string?][];
+  source: string;
+}
+
+export interface CurriculumWeek {
+  week: number;
+  lessons: { id: string; title: Bi }[];
+}
 
 export interface QuestionSource {
-  kind: 'PYQ' | 'LESSON' | 'GENERATED' | 'VARIANT' | 'CURRENT_AFFAIRS';
+  kind: 'PYQ' | 'LESSON' | 'GENERATED' | 'DECK' | 'VARIANT' | 'CURRENT_AFFAIRS';
+  /** True when the question text was read from the scan by an AI model and not yet checked by a person. */
+  aiExtracted?: boolean;
+  headline?: string;
   exam?: string;
   year?: number;
   qNo?: number;

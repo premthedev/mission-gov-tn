@@ -1,22 +1,24 @@
 import { useLiveQuery } from 'dexie-react-hooks';
-import { db } from '../data/db';
-import { dueReviewIds, previewSteps, streak, studiedMinutes } from '../data/progress';
+import { caQuestions, feedDates } from '../data/content';
+import { dueReviewIds, kuralsLearned, previewSteps, streak, studiedMinutes, xpToday, xpTotal } from '../data/progress';
 import { BUDGET_MIN, DAY_LABEL, dayInfo, upcomingSpecial } from '../data/schedule';
-import { plannedMinutes } from '../engine/planner';
+import { STEP_ICON, plannedMinutes } from '../engine/planner';
+import { level } from '../engine/xp';
 import { diffDays, fmtDay, todayISO } from '../lib/date';
+import { Ring } from './Celebrate';
 import { Bar, Button, Card, Screen, T } from './kit';
 import { stepTitle } from './Session';
 
-const DAY_HINT: Partial<Record<string, { ta: string; en: string }>> = {
-  STUDY_WEEKDAY: { ta: 'ஒரு மணி நேரம். ஆப் சொல்லும் வரிசையில் செய்யுங்கள்.', en: 'One hour. Just follow the steps in order.' },
-  STUDY_WEEKEND: { ta: 'இரண்டு மணி நேரம்: இரண்டு பாடங்கள் + நேரக் கட்டுப்பாட்டுடன் சிறு தேர்வு.', en: 'Two hours: two lessons and a timed short mock.' },
-  DIAGNOSTIC: { ta: 'உண்மையான 2025 வினாத்தாள். உங்கள் தொடக்க நிலையை அறிய.', en: 'The real 2025 paper, to measure where you start.' },
-  SECTIONAL_BIG: { ta: '100 தமிழ் வினாக்கள், 70 நிமிடம். தகுதி வரம்பு 40 சரி.', en: '100 Tamil questions in 70 minutes. The gate is 40 correct.' },
-  PRE_MOCK_LIGHT: { ta: 'இன்று லேசாக. நாளை காலை 9:30 முழுத் தேர்வு.', en: 'Go light today. Full mock tomorrow at 9:30 AM.' },
-  FULL_MOCK: { ta: 'காலை 9:30-க்குத் தொடங்குங்கள். உண்மையான தேர்வு போல 3 மணி நேரம்.', en: 'Start at 9:30 AM. Three hours, exactly like the real exam.' },
-  MOCK_REVIEW: { ta: 'நேற்றைய தேர்வுத் தவறுகளை மீண்டும் செய்யுங்கள்.', en: "Redo yesterday's mock mistakes." },
-  FINAL_REVIEW: { ta: 'புதியதாக எதுவும் இல்லை. மீள்பார்வை + சரிபார்ப்புப் பட்டியல்.', en: 'Nothing new. Revision and the exam checklist.' },
-  EXAM_DAY: { ta: 'வாழ்த்துகள்! சரிபார்ப்புப் பட்டியலைப் பார்த்துவிட்டுச் செல்லுங்கள்.', en: 'All the best! Go through the checklist, then go.' },
+const HINT: Partial<Record<string, string>> = {
+  STUDY_WEEKDAY: 'ஒரு மணி நேரம். ஆப் சொல்வதை மட்டும் செய்யுங்கள்.',
+  STUDY_WEEKEND: 'இரண்டு மணி நேரம்: பாடங்கள் + 30 நிமிடச் சிறு தேர்வு.',
+  DIAGNOSTIC: 'உண்மையான 2025 வினாத்தாள்: உங்கள் தொடக்க நிலை.',
+  SECTIONAL_BIG: '100 தமிழ் வினாக்கள், 70 நிமிடம். தகுதி வரம்பு 40 சரி.',
+  PRE_MOCK_LIGHT: 'இன்று லேசாக. நாளை காலை 9:30 முழுத் தேர்வு.',
+  FULL_MOCK: 'காலை 9:30-க்குத் தொடங்குங்கள். 3 மணி நேரம், உண்மையான தேர்வு போல.',
+  MOCK_REVIEW: 'தேர்வுத் தவறுகளைத் திரும்பச் செய்யுங்கள்.',
+  FINAL_REVIEW: 'புதியதாக எதுவும் இல்லை. மீள்பார்வை + சரிபார்ப்புப் பட்டியல்.',
+  EXAM_DAY: 'வாழ்த்துகள்! பட்டியலைப் பார்த்துவிட்டுச் செல்லுங்கள்.',
 };
 
 export function Today({ onStart }: { onStart: () => void }) {
@@ -29,73 +31,97 @@ export function Today({ onStart }: { onStart: () => void }) {
       session: p.session,
       mins: await studiedMinutes(),
       streak: await streak(date),
-      learned: await db.kuralLearned.count(),
+      kurals: await kuralsLearned(),
       due: (await dueReviewIds(date)).length,
+      xp: await xpTotal(),
+      xpDay: await xpToday(date),
     };
   }, [date]);
-  const day = fmtDay(date);
   const next = upcomingSpecial(date, 1)[0];
+  const day = fmtDay(date);
+  const todayMin = data?.session ? Math.round(data.session.activeSec / 60) : 0;
+  const planMin = data ? plannedMinutes(data.steps) : info.minutes;
+  const lv = level(data?.xp ?? 0);
+  const newsToday = feedDates().at(-1) === date ? caQuestions().filter((q) => q.source.date === date).length : 0;
 
   return (
     <Screen className="space-y-4">
-      <div>
-        <div className="text-sm text-slate-500">{day.ta} · {day.en}</div>
-        <div className="text-2xl font-bold">
-          {info.type === 'BEFORE_START' ? 'Mission GOV' : info.type === 'AFTER_EXAM' ? 'தேர்வு முடிந்தது' : `நாள் ${info.dayNo} / 64`}
+      <div className="flex items-center justify-between">
+        <div>
+          <div className="text-sm text-slate-500">{day.ta}</div>
+          <div className="text-xl font-bold">{info.type === 'AFTER_EXAM' ? 'தேர்வு முடிந்தது' : info.type === 'BEFORE_START' ? 'Mission GOV' : `நாள் ${info.dayNo}/64 · தேர்வுக்கு ${info.daysToExam} நாள்`}</div>
         </div>
-        {info.daysToExam > 0 && <div className="text-sm text-slate-500">தேர்வுக்கு {info.daysToExam} நாட்கள் · 10 Jan 2027</div>}
+        <div className="flex gap-2 text-sm font-bold">
+          <span className="rounded-full bg-orange-100 px-3 py-1 text-orange-700 dark:bg-orange-900/40 dark:text-orange-200">🔥 {data?.streak ?? 0}</span>
+          <span className="rounded-full bg-amber-100 px-3 py-1 text-amber-700 dark:bg-amber-900/40 dark:text-amber-200">⭐ {data?.xp ?? 0}</span>
+        </div>
       </div>
 
-      <Card className="space-y-3 bg-gradient-to-br from-teal-700 to-teal-900 text-white ring-0">
-        <div className="text-sm font-semibold uppercase tracking-wide text-teal-100">இன்று · Today</div>
-        <div className="text-2xl font-bold"><T v={DAY_LABEL[info.type]} /></div>
-        {DAY_HINT[info.type] && <div className="text-teal-50"><T v={DAY_HINT[info.type]} /></div>}
+      <Card className="space-y-4 bg-gradient-to-br from-teal-600 to-teal-900 text-white ring-0">
+        <div className="flex items-center gap-4">
+          <Ring value={todayMin} max={planMin}>
+            <div className="text-2xl font-bold leading-none">{todayMin}</div>
+            <div className="text-[0.65rem] text-teal-100">/ {planMin} நிமி</div>
+          </Ring>
+          <div className="min-w-0">
+            <div className="text-xs font-semibold uppercase tracking-wide text-teal-100">இன்று</div>
+            <div className="text-xl font-bold leading-tight"><T v={DAY_LABEL[info.type]} inline /></div>
+            {HINT[info.type] && <div className="mt-1 text-sm text-teal-50">{HINT[info.type]}</div>}
+          </div>
+        </div>
         {data && data.steps.length > 0 && (
-          <Button variant="secondary" onClick={onStart} className="w-full text-lg" disabled={data.session?.completed}>
-            {data.session?.completed ? 'இன்று முடிந்தது ✓' : data.session && data.session.index > 0 ? `தொடர்க · Continue (படி ${data.session.index + 1})` : `தொடங்கு · Start · ${plannedMinutes(data.steps)} நிமிடம்`}
-          </Button>
+          <>
+            <div className="flex flex-wrap gap-1.5">
+              {data.steps.map((s) => {
+                const done = data.session?.done.includes(s.id);
+                return (
+                  <span key={s.id} title={stepTitle(s).ta} className={`rounded-full px-2.5 py-1 text-sm ${done ? 'bg-white text-teal-800' : 'bg-white/15'}`}>
+                    {STEP_ICON[s.kind]}{s.minutes ? ` ${s.minutes}′` : ''}
+                  </span>
+                );
+              })}
+            </div>
+            <Button variant="secondary" onClick={onStart} className="w-full text-lg" disabled={data.session?.completed}>
+              {data.session?.completed ? 'இன்று முடிந்தது ✓' : data.session && data.session.index > 0 ? `தொடர்க · படி ${data.session.index + 1}/${data.steps.length}` : 'தொடங்கு ▶'}
+            </Button>
+          </>
         )}
       </Card>
 
-      {data && data.steps.length > 0 && (
-        <Card className="space-y-1">
-          <div className="mb-1 text-sm font-semibold text-slate-500">இன்றைய வரிசை · Your steps</div>
-          {data.steps.map((s, i) => {
-            const done = data.session?.done.includes(s.id);
-            const skipped = data.session?.skipped.includes(s.id);
-            const current = data.session && !data.session.completed && data.session.index === i;
-            return (
-              <div key={s.id} className={`flex items-center gap-3 rounded-xl px-2 py-2 ${current ? 'bg-teal-50 dark:bg-teal-900/30' : ''}`}>
-                <span className={`grid h-7 w-7 shrink-0 place-items-center rounded-full text-xs font-bold ${done ? 'bg-teal-600 text-white' : skipped ? 'bg-slate-300 text-slate-600' : 'bg-slate-100 text-slate-600 dark:bg-slate-700 dark:text-slate-300'}`}>
-                  {done ? '✓' : skipped ? '–' : i + 1}
-                </span>
-                <span className="min-w-0 flex-1 text-sm"><T v={stepTitle(s)} inline /></span>
-                {s.minutes > 0 && <span className="shrink-0 text-xs text-slate-500">{s.minutes} நிமி</span>}
-              </div>
-            );
-          })}
-        </Card>
+      {data && (
+        <div className="grid grid-cols-3 gap-3">
+          <Card className="p-3 text-center"><div className="text-xl font-bold">{data.kurals}<span className="text-sm text-slate-400">/200</span></div><div className="text-xs text-slate-500">குறள்கள்</div></Card>
+          <Card className="p-3 text-center"><div className="text-xl font-bold">{data.due}</div><div className="text-xs text-slate-500">மீள்பார்வை</div></Card>
+          <Card className="p-3 text-center"><div className="text-xl font-bold">+{data.xpDay}</div><div className="text-xs text-slate-500">XP இன்று</div></Card>
+        </div>
       )}
 
       {data && (
-        <Card className="space-y-3">
-          <div className="flex items-baseline justify-between">
-            <span className="text-sm font-semibold">படித்த நேரம் · Studied</span>
-            <span className="text-sm text-slate-500">{(data.mins / 60).toFixed(1)} / 83 மணி</span>
+        <Card className="space-y-2">
+          <div className="flex items-baseline justify-between text-sm">
+            <span className="font-semibold">நிலை {lv.n} · {lv.title}</span>
+            <span className="text-slate-500">{lv.into}/{lv.need} XP</span>
+          </div>
+          <Bar value={lv.into} max={lv.need} />
+          <div className="flex items-baseline justify-between pt-1 text-sm">
+            <span className="font-semibold">படித்த நேரம்</span>
+            <span className="text-slate-500">{(data.mins / 60).toFixed(1)} / 83 மணி</span>
           </div>
           <Bar value={data.mins} max={BUDGET_MIN} />
-          <div className="grid grid-cols-3 gap-2 pt-1 text-center">
-            <div><div className="text-xl font-bold">{data.streak}🔥</div><div className="text-xs text-slate-500">தொடர் நாட்கள்</div></div>
-            <div><div className="text-xl font-bold">{data.learned}/20</div><div className="text-xs text-slate-500">குறள் அதிகாரம்</div></div>
-            <div><div className="text-xl font-bold">{data.due}</div><div className="text-xs text-slate-500">மீள்பார்வை</div></div>
-          </div>
+        </Card>
+      )}
+
+      {newsToday > 0 && (
+        <Card className="flex items-center gap-3 text-sm">
+          <span className="text-2xl">📰</span>
+          <span>இன்றைய நடப்பு நிகழ்வுகளிலிருந்து {newsToday} புதிய வினாக்கள் சேர்க்கப்பட்டன; சூடேற்றலில் வரும்.</span>
         </Card>
       )}
 
       {next && (
-        <Card className="flex items-center justify-between text-sm">
-          <span>அடுத்த முக்கிய நாள்: <b><T v={DAY_LABEL[next.type]} inline /></b></span>
-          <span className="shrink-0 text-slate-500">{fmtDay(next.date).en} · {diffDays(date, next.date)} நாள்</span>
+        <Card className="flex items-center justify-between gap-3 text-sm">
+          <span>அடுத்து: <b><T v={DAY_LABEL[next.type]} inline /></b></span>
+          <span className="shrink-0 rounded-full bg-slate-100 px-3 py-1 font-semibold dark:bg-slate-700">{fmtDay(next.date).en} · {diffDays(date, next.date)} நாள்</span>
         </Card>
       )}
     </Screen>
