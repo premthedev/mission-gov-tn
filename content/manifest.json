@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T18:48:26.753Z",
+ "generatedAt": "2026-11-12T19:37:16.510Z",
  "files": [
   {
    "path": "curriculum.json",
@@ -54,8 +54,20 @@
    "sha": "0b4d03ca52a2"
   },
   {
+   "path": "lessons/w3-aptitude.json",
+   "sha": "043b9d141870"
+  },
+  {
+   "path": "lessons/w3-tamil.json",
+   "sha": "ee8db0b4ea18"
+  },
+  {
+   "path": "lessons/w4-literature.json",
+   "sha": "8b416bad5c5b"
+  },
+  {
    "path": "questions/pyq-g4-2025.json",
-   "sha": "b736511bf5db"
+   "sha": "2092c45650ba"
   }
  ]
 }

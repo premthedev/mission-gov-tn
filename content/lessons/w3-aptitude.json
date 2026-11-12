@@ -1,0 +1,97 @@
+[
+  {
+    "id": "w3-apt-area-volume", "unit": "C1", "topic": "area", "week": 3, "seq": 2, "minutes": 25,
+    "title": { "ta": "பரப்பளவு, கனஅளவு", "en": "Area and volume" },
+    "oneLine": { "ta": "சூத்திரங்கள் 10 மட்டுமே. π = 22/7 என்றால் ஆரம் 7-இன் மடங்காக இருக்கும்; அதைப் பயன்படுத்தி வேகமாகக் கணக்கிடுங்கள்.", "en": "Only about 10 formulas. With π = 22/7 the radius is usually a multiple of 7." },
+    "sections": [
+      { "heading": { "ta": "பரப்பளவு", "en": "Area" },
+        "body": { "en": "Rectangle l × b · Square a² · Triangle ½ × b × h · Circle πr² · Circumference 2πr · Semicircle perimeter πr + 2r.\nPath around a rectangle (width w): outside (l + 2w)(b + 2w) − lb; inside lb − (l − 2w)(b − 2w).\nShortcut: for r = 7, πr² = 154; r = 14 → 616; r = 21 → 1386." } },
+      { "heading": { "ta": "கனஅளவு", "en": "Volume" },
+        "body": { "en": "Cuboid l × b × h · Cube a³ · Cylinder πr²h · Cone ⅓πr²h · Sphere ⁴⁄₃πr³ · Hemisphere ⅔πr³.\nCurved surface: cylinder 2πrh, cone πrl, sphere 4πr².\n1 m³ = 1,000 litres. A cone has ⅓ the volume of a cylinder with the same base and height." } }
+    ],
+    "examples": [
+      { "q": { "en": "Cylinder r = 7, h = 10" }, "a": { "en": "154 × 10 = 1,540 cm³" } },
+      { "q": { "en": "Path 2 m wide outside a 24 × 18 m garden" }, "a": { "en": "28 × 22 − 24 × 18 = 184 m²" } }
+    ],
+    "traps": [
+      { "ta": "கூம்பு வினாவில் ⅓-ஐ மறந்த விடை (உருளையின் கனஅளவு) விடைகளில் இருக்கும்.", "en": "The cylinder volume (forgetting ⅓) is always an option in cone questions." },
+      { "ta": "விட்டம் கொடுத்தால் முதலில் 2-ஆல் வகுத்து ஆரம் காணுங்கள்.", "en": "Diameter given? Halve it first." }
+    ],
+    "check": [
+      { "stem": { "en": "Area of a circle of radius 14 cm (π = 22/7)?" }, "options": ["616 cm²", "88 cm²", "308 cm²", "1,232 cm²"], "answer": "A", "explain": { "en": "22/7 × 14 × 14 = 616." } },
+      { "stem": { "en": "Volume of a cone, radius 7 cm, height 12 cm?" }, "options": ["1,848 cm³", "616 cm³", "924 cm³", "308 cm³"], "answer": "B", "explain": { "en": "⅓ × 154 × 12 = 616." } },
+      { "stem": { "en": "A cube has side 5 cm. Its volume?" }, "options": ["25 cm³", "125 cm³", "150 cm³", "75 cm³"], "answer": "B", "explain": { "en": "5³ = 125." } }
+    ],
+    "sourceRef": "Samacheer Maths 8th–10th (Mensuration); TNPSC syllabus Part C Unit I"
+  },
+  {
+    "id": "w3-apt-time-work", "unit": "C1", "topic": "time_work", "week": 3, "seq": 4, "minutes": 20,
+    "title": { "ta": "காலம், வேலை", "en": "Time and work" },
+    "oneLine": { "ta": "ஒரு நாள் வேலை = 1 / நாட்கள். சேர்ந்து செய்தால் ஒரு நாள் வேலைகளைக் கூட்டுங்கள்.", "en": "One day's work = 1/days. Working together, add the one-day works." },
+    "sections": [
+      { "heading": { "ta": "அடிப்படை", "en": "Basics" },
+        "body": { "en": "A in a days, B in b days → together ab/(a + b) days.\nA + B together in t days, A alone in a days → B alone = at/(a − t).\nPeople × days = constant (same work): 12 men × 10 days = 120 man-days → 15 men need 8 days." } },
+      { "heading": { "ta": "LCM முறை (வேகம்)", "en": "LCM method (fast)" },
+        "body": { "en": "Take total work = LCM of the days. A 12 days, B 18 days → work = 36 units; A does 3/day, B 2/day; together 5/day → 36/5 = 7.2 days. No fractions needed." } }
+    ],
+    "examples": [
+      { "q": { "en": "A 10 days, B 15 days, together?" }, "a": { "en": "150/25 = 6 days" } },
+      { "q": { "en": "8 men finish in 12 days. 6 men?" }, "a": { "en": "96 man-days ÷ 6 = 16 days" } }
+    ],
+    "traps": [
+      { "ta": "'சராசரி' (a + b)/2 என்ற தவறான விடை எப்போதும் இருக்கும். சேர்ந்து செய்தால் இருவரில் வேகமானவரை விடக் குறைவான நாட்களே ஆகும்.", "en": "Together is always faster than the faster person; the average is a trap." }
+    ],
+    "check": [
+      { "stem": { "en": "A can do a work in 12 days, B in 24 days. Together?" }, "options": ["18 days", "8 days", "36 days", "6 days"], "answer": "B", "explain": { "en": "288/36 = 8." } },
+      { "stem": { "en": "10 workers build a wall in 6 days. How many days for 15 workers?" }, "options": ["9", "4", "5", "3"], "answer": "B", "explain": { "en": "60 man-days ÷ 15 = 4." } },
+      { "stem": { "en": "A and B together take 6 days; A alone 10 days. B alone?" }, "options": ["4 days", "15 days", "16 days", "12 days"], "answer": "B", "explain": { "en": "60/(10 − 6) = 15." } }
+    ],
+    "sourceRef": "Samacheer Maths 8th; TNPSC syllabus Part C Unit I"
+  },
+  {
+    "id": "w3-reasoning-series", "unit": "C2", "topic": "series", "week": 3, "seq": 6, "minutes": 20,
+    "title": { "ta": "எண் தொடர், எழுத்துத் தொடர்", "en": "Number and letter series" },
+    "oneLine": { "ta": "முதலில் வேறுபாடுகளைப் பாருங்கள்; பிறகு பெருக்கல், வர்க்கம், கனம், மாறி மாறி வரும் இரு தொடர்.", "en": "Check differences first, then ratios, squares/cubes, alternating series." },
+    "sections": [
+      { "heading": { "ta": "5 வினாடிச் சோதனை", "en": "5-second checklist" },
+        "body": { "en": "1. Differences equal? → add the same number.\n2. Differences grow by a fixed amount? → second differences.\n3. Each term × same number? → geometric.\n4. Near squares/cubes? (1, 4, 9, 16 / 1, 8, 27) → n² ± k, n³.\n5. n(n + 1): 2, 6, 12, 20, 30.\n6. Two series alternating (odd and even positions).\nLetters: convert to numbers A = 1 … Z = 26 and apply the same checks. EJOTY = 5, 10, 15, 20, 25." } }
+    ],
+    "examples": [
+      { "q": { "en": "3, 8, 15, 24, 35, ?" }, "a": { "en": "n² − 1 → 48" } },
+      { "q": { "en": "A, C, F, J, O, ?" }, "a": { "en": "Gaps 2, 3, 4, 5, 6 → U" } }
+    ],
+    "traps": [
+      { "ta": "'அடுத்த வேறுபாடு' விடை (கடைசி எண் + கடைசி வேறுபாடு) எப்போதும் விடைகளில் இருக்கும்; வேறுபாடுகள் வளர்கின்றனவா என்று பாருங்கள்.", "en": "Last term + last difference is the usual trap when differences grow." }
+    ],
+    "check": [
+      { "stem": { "en": "2, 6, 12, 20, 30, ?" }, "options": ["40", "42", "36", "44"], "answer": "B", "explain": { "en": "n(n + 1): 6 × 7 = 42." } },
+      { "stem": { "en": "5, 10, 20, 40, ?" }, "options": ["60", "80", "50", "70"], "answer": "B", "explain": { "en": "× 2 → 80." } },
+      { "stem": { "en": "B, E, H, K, ?" }, "options": ["M", "N", "L", "O"], "answer": "B", "explain": { "en": "+3 each: K(11) + 3 = N(14)." } }
+    ],
+    "sourceRef": "TNPSC syllabus Part C Unit II"
+  },
+  {
+    "id": "w3-reasoning-dice-visual", "unit": "C2", "topic": "dice", "week": 3, "seq": 9, "minutes": 20,
+    "title": { "ta": "பகடை, காட்சிக் காரணவியல், திசைகள்", "en": "Dice, visual reasoning, directions" },
+    "oneLine": { "ta": "சாதாரணப் பகடையில் எதிர்ப் பக்கங்களின் கூடுதல் 7. திசைகளுக்கு ஒரு சிறு வரைபடம் போடுங்கள்.", "en": "On a standard die opposite faces add to 7. For directions, sketch it." },
+    "sections": [
+      { "heading": { "ta": "பகடை", "en": "Dice" },
+        "body": { "en": "Standard die: 1–6, 2–5, 3–4 are opposite.\nTwo views share a face → the faces next to it in both views tell you the hidden one.\nRule: two faces seen together in any view can never be opposite each other." } },
+      { "heading": { "ta": "திசைகள், காட்சி", "en": "Directions, visual" },
+        "body": { "en": "Draw N up. Right turn from North = East; left turn from North = West.\nStraight-line distance with two perpendicular legs: √(a² + b²) (3-4-5, 6-8-10, 5-12-13).\nMirror image: left and right swap; water image: top and bottom swap.\nCounting figures: count the smallest pieces first, then combinations, systematically." } }
+    ],
+    "examples": [
+      { "q": { "en": "Face opposite 2 on a standard die?" }, "a": { "en": "5" } },
+      { "q": { "en": "Walk 6 km north, turn right, walk 8 km. Distance from start?" }, "a": { "en": "√(36 + 64) = 10 km" } }
+    ],
+    "traps": [
+      { "ta": "வலப்புறம் திரும்புவது நீங்கள் நோக்கும் திசையைப் பொறுத்தது; வரைபடம் போடாமல் யூகிக்காதீர்கள்.", "en": "'Right' depends on which way you're facing; sketch it." }
+    ],
+    "check": [
+      { "stem": { "en": "On a standard die, the face opposite 3 is?" }, "options": ["4", "6", "1", "5"], "answer": "A", "explain": { "en": "Opposite faces add to 7." } },
+      { "stem": { "en": "Facing East, you turn left. Which way do you face now?" }, "options": ["South", "North", "West", "East"], "answer": "B", "explain": { "en": "Left of East is North." } },
+      { "stem": { "en": "Walk 5 km south, turn left, walk 12 km. Distance from start?" }, "options": ["17 km", "13 km", "7 km", "15 km"], "answer": "B", "explain": { "en": "√(25 + 144) = 13." } }
+    ],
+    "sourceRef": "TNPSC syllabus Part C Unit II"
+  }
+]
