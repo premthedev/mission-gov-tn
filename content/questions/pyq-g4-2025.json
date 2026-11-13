@@ -1,34 +1,7627 @@
 {
-  "exam": "G4-2025",
-  "year": 2025,
-  "title": "TNPSC Group IV 2025",
-  "url": "https://www.tnpsc.gov.in/Tentative/Document/07_2025_GENEAL_TAMIL_GS.pdf",
-  "extraction": "Read from the official tentative-key booklet (answers ticked) by Kiro, 7 Nov 2026. Q1–25 done. Final key scan is unreadable; keys are the tentative ticks.",
-  "questions": [
-    { "qNo": 1, "part": "A", "unit": "A1", "topic": "oli-veruppadu", "stem": "பிழையான தொடரைக் கண்டறிக.", "options": { "A": "காளைகளைப் பூட்டி வயலை உழுதனர்", "B": "மலைமீது ஏறிக் கல்வெட்டுகளைக் கண்டறிந்தனர்", "C": "காளையில் பூத்த மல்லிகை மனம் வீசியது", "D": "நெற்பயிர்கள் மழைநீரில் மூழ்கின" }, "answer": "C", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "இரண்டு ஒலிப் பிழைகள்: \"காளையில்\" (காளை மாடு) அல்ல, \"காலையில்\" (பொழுது); \"மனம்\" (உள்ளம்) அல்ல, \"மணம்\" (வாசனை). சரியான தொடர்: காலையில் பூத்த மல்லிகை மணம் வீசியது.", "en": "Two sound errors: kaaLai (bull) should be kaalai (morning), manam (mind) should be maNam (fragrance)." } },
-    { "qNo": 2, "part": "A", "unit": "A1", "topic": "vinaimuttru", "format": "MATCH", "stem": "வினைமுற்றுகளின் வகைகளோடு பொருத்துக:", "matchTable": { "left": ["அழிந்தது தீமை", "அற்றது பிறப்பு", "நல்லது கை", "குளிர்ந்தது நிலம்"], "right": ["சினைப்பெயர் கொண்டது", "இடப்பெயர் கொண்டது", "குணப்பெயர் கொண்டது", "தொழிற்பெயர் கொண்டது"] }, "options": { "A": "3 1 4 2", "B": "3 4 1 2", "C": "4 3 2 1", "D": "4 1 2 3" }, "answer": "B", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "எழுவாய்ப் பெயரின் வகையைப் பாருங்கள்: தீமை = குணம் (3), பிறப்பு = தொழில் (4), கை = உறுப்பு, அதாவது சினை (1), நிலம் = இடம் (2). விடை 3 4 1 2.", "en": "Look at the noun: theemai = quality, pirappu = action, kai = body part, nilam = place." } },
-    { "qNo": 3, "part": "A", "unit": "A1", "topic": "ethirsol", "stem": "'செற்றம்' என்ற சொல்லின் எதிர்ச்சொல்லைக் கண்டறிக.", "options": { "A": "பகை", "B": "வண்மை", "C": "வன்மை", "D": "கேண்மை" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "செற்றம் = பகை, சினம். அதன் எதிர் கேண்மை = நட்பு. \"பகை\" பொருள் ஒன்றே தவிர எதிர்ச்சொல் அல்ல.", "en": "setRam = enmity; opposite keNmai = friendship. 'pagai' is a synonym, the trap option." } },
-    { "qNo": 4, "part": "A", "unit": "A1", "topic": "verchol", "stem": "'பாடும் பாடல்' என்ற சொற்கள் எந்த பெயரெச்ச வகையென்று கண்டறிக.", "options": { "A": "நிகழ்காலப் பெயரெச்சம்", "B": "இறந்தகாலப் பெயரெச்சம்", "C": "எதிர்காலப் பெயரெச்சம்", "D": "குறிப்புப் பெயரெச்சம்" }, "answer": "C", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "\"பாடும்\" (-உம் ஈறு, செய்யும் வாய்பாடு) பெயரெச்சம். TNPSC இதை எதிர்காலப் பெயரெச்சம் என விடையாகக் கொண்டது. ஒப்பிட: பாடிய பாடல் = இறந்தகாலம், பாடுகின்ற பாடல் = நிகழ்காலம்.", "en": "'paadum' (-um form) was keyed as future tense. Compare paadiya (past), paadugindra (present)." } },
-    { "qNo": 5, "part": "A", "unit": "A1", "topic": "verchol", "stem": "'நட' என்னும் வேர்ச்சொல்லின் வழி உயர்திணை வினையாலணையும் பெயரைக் கண்டறிக.", "options": { "A": "நடந்தது", "B": "நடப்பது", "C": "நடப்பவை", "D": "நடந்தவன்" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "வினையாலணையும் பெயர் = வினை பெயராக நின்று ஆளைக் குறிப்பது. நடந்தவன் (அவன்) உயர்திணை. நடந்தது, நடப்பது, நடப்பவை அஃறிணை.", "en": "nadandhavan refers to a person (human class); the others are non-human." } },
-    { "qNo": 6, "part": "A", "unit": "A1", "topic": "verchol", "stem": "\"வை\" என்னும் வேர்ச்சொல்லின் ஏவல் வினைமுற்றினைக் கண்டறிக.", "options": { "A": "வைத்த", "B": "வைத்து", "C": "வைத்தது", "D": "வைத்தாள்" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "TNPSC தற்காலிக விடை: வைத்தாள். கவனிக்க: உண்மையான ஏவல் வடிவம் \"வை\" (அல்லது வையுங்கள்) விடைகளில் இல்லை. வைத்த = பெயரெச்சம், வைத்து = வினையெச்சம், வைத்தது = வினையாலணையும் பெயர் / வினைமுற்று; வைத்தாள் மட்டுமே தெளிவான வினைமுற்று. இறுதிக் குறிப்பில் இது மாற்றப்பட்டிருக்கலாம்.", "en": "Keyed 'vaiththaaL'. None of the options is a true imperative (that would be 'vai'); it is the only clear finite verb. The final key may have changed this." } },
-    { "qNo": 7, "part": "A", "unit": "A1", "topic": "inam-suttu-vina", "format": "ASSERTION_REASON", "stem": "கூற்று, காரணம்: சரியானதைத் தேர்க.", "statements": ["கூற்று: ஒன்றைச் சுட்டிக் காட்ட வரும் எழுத்துகளுக்குச் சுட்டு எழுத்துகள் என்று பெயர்.", "காரணம்: எ, யா, ஆ, ஓ, ஏ என்பன சுட்டெழுத்துகளாக வந்து பிறவற்றைச் சுட்டுகிறது."], "options": { "A": "கூற்று – சரி; காரணம் – தவறு", "B": "கூற்று – தவறு; காரணம் – சரி", "C": "கூற்று – சரி; காரணம் – சரி", "D": "கூற்று – தவறு; காரணம் – தவறு" }, "answer": "A", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "கூற்று சரி. ஆனால் எ, யா, ஆ, ஓ, ஏ ஆகியவை வினா எழுத்துகள்; சுட்டு எழுத்துகள் அ, இ, உ. எனவே காரணம் தவறு.", "en": "e, yaa, aa, o, ee are question letters; the pointing letters are a, i, u." } },
-    { "qNo": 8, "part": "A", "unit": "A1", "topic": "inam-suttu-vina", "format": "ASSERTION_REASON", "stem": "கூற்று, காரணம்: சரியானதைத் தேர்க.", "statements": ["கூற்று: அப்பக்கம், இப்பக்கம், உப்பக்கம் என்பன சுட்டுச் சொற்களாகும்.", "காரணம்: இடப்பொருளைச் சுட்டுவதற்காக அ, இ, உ வந்துள்ளது."], "options": { "A": "கூற்று – சரி; காரணம் – தவறு", "B": "கூற்று – தவறு; காரணம் – சரி", "C": "கூற்று – சரி; காரணம் – சரி", "D": "கூற்று, காரணம் இரண்டும் தவறு" }, "answer": "C", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "அ + பக்கம், இ + பக்கம், உ + பக்கம்: சுட்டு எழுத்து வெளியே நின்று இடத்தைச் சுட்டுகிறது (புறச்சுட்டு). இரண்டும் சரி.", "en": "Both true: a/i/u point to a place (external pointers)." } },
-    { "qNo": 9, "part": "A", "unit": "A1", "topic": "inam-suttu-vina", "stem": "பொருந்தாத இணையைக் கண்டறிக.", "options": { "A": "ஏ – எ", "B": "த – ந", "C": "ஐ – அ", "D": "ற – ன" }, "answer": "C", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "இன எழுத்துகள்: ஏ-எ (நெடில்-குறில்), த-ந, ற-ன (வல்லினம்-மெல்லினம்). ஐ-க்கு இனம் இ; அ அல்ல. எனவே ஐ – அ பொருந்தாது.", "en": "ai pairs with i, not a." } },
-    { "qNo": 10, "part": "A", "unit": "A1", "topic": "oli-veruppadu", "stem": "குறில், நெடில் சொற்களுக்குச் சரியான பொருளைக் கண்டறிக: கணம் – காணம்", "options": { "A": "கூட்டம், பொன்", "B": "பொன், கூட்டம்", "C": "கூட்டம், காடு", "D": "காடு, தோட்டம்" }, "answer": "A", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "கணம் (குறில்) = கூட்டம்; காணம் (நெடில்) = பொன். வரிசை முக்கியம்: \"பொன், கூட்டம்\" என்ற விடை அதே சொற்களைத் தலைகீழாகக் கொடுக்கிறது.", "en": "kaNam = group; kaaNam = gold. 'gold, group' is the same pair reversed." } },
-    { "qNo": 11, "part": "A", "unit": "A1", "topic": "sandhippizhai", "format": "ASSERTION_REASON", "stem": "சரியான விடைக் குறிப்பைத் தேர்க:", "statements": ["கூற்று: 'தந்தப் பலகை' என்பதன் பொருள் 'கொடுத்த பலகை' என்பதாகும்.", "காரணம்: இரண்டு சொற்களுக்கு இடையில் 'ப்' என்ற ஒற்றெழுத்து மிகுந்து வந்ததால் கொடுத்த பலகை என்னும் பொருளைக் குறித்தது."], "options": { "A": "கூற்று – சரி; காரணம் – தவறு", "B": "கூற்று – தவறு; காரணம் – சரி", "C": "கூற்று – சரி; காரணம் – சரி", "D": "கூற்று – தவறு; காரணம் – தவறு" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "ஒற்று பொருளை மாற்றும்: \"தந்த பலகை\" (ஒற்று இல்லை, பெயரெச்சம்) = கொடுத்த பலகை. \"தந்தப் பலகை\" = யானைத் தந்தத்தால் ஆன பலகை. கூற்றும் காரணமும் தவறு.", "en": "One consonant changes meaning: 'thandha palagai' = the board (someone) gave; 'thandhap palagai' = ivory board." } },
-    { "qNo": 12, "part": "A", "unit": "A1", "topic": "sandhippizhai", "stem": "பின்வருவனவற்றுள் சந்திப் பிழையற்ற சொற்றொடரைத் தேர்க.", "options": { "A": "அங்குக்கேட்டேன்", "B": "அங்கு கேட்டேன்", "C": "இங்கு பேசாதே", "D": "எங்கு சென்றாய்" }, "answer": "A", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "அங்கு, இங்கு, எங்கு பின் வல்லினம் மிகும்: அங்குக் கேட்டேன், இங்குப் பேசாதே, எங்குச் சென்றாய். ஒற்று உள்ள A மட்டுமே சரி.", "en": "k/ch/p double after angu/ingu/engu; only A has it." } },
-    { "qNo": 13, "part": "A", "unit": "A2", "topic": "akaravarisai", "stem": "காப்பு, செங்கீரை, தால், சப்பாணி, முத்தம், வருகை, அம்புலி – இவற்றை அகரவரிசைப்படி சொற்களைச் சீர் செய்க.", "options": { "A": "அம்புலி, காப்பு, சப்பாணி, தால், செங்கீரை, முத்தம், வருகை", "B": "அம்புலி, காப்பு, சப்பாணி, செங்கீரை, முத்தம், தால், வருகை", "C": "அம்புலி, காப்பு, சப்பாணி, செங்கீரை, தால், முத்தம், வருகை", "D": "அம்புலி, காப்பு, செங்கீரை, சப்பாணி, தால், முத்தம், வருகை" }, "answer": "C", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "வரிசை: அ → க → ச → த → ம → வ. ஒரே எழுத்தில் தொடங்கினால் அடுத்த உயிரைப் பாருங்கள்: சப் (ச + அ) முதலில், செ (ச + எ) பிறகு. (இவை பிள்ளைத்தமிழ்ப் பருவங்கள்.)", "en": "Order by letter, then by vowel: cha (a) before che (e)." } },
-    { "qNo": 14, "part": "A", "unit": "A2", "topic": "orumai-panmai", "format": "ASSERTION_REASON", "stem": "பிழை திருத்துக:", "statements": ["கூற்று: ஒரு அணில் மரத்தில் ஏறியது.", "காரணம்: உயிர் எழுத்துகளில் தொடங்கும் சொற்களுக்கு முன்னர் \"ஓர்\" பயன்படுத்த வேண்டும்."], "options": { "A": "கூற்று – சரி; காரணம் – தவறு", "B": "கூற்று – தவறு; காரணம் – சரி", "C": "காரணம், கூற்று – இரண்டும் சரி", "D": "கூற்று, காரணம் – இரண்டும் தவறு" }, "answer": "B", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "அணில் \"அ\" என்ற உயிரில் தொடங்குகிறது; எனவே \"ஓர் அணில்\". கூற்று தவறு, காரணம் சரி.", "en": "aNil starts with a vowel, so 'or aNil'." } },
-    { "qNo": 15, "part": "A", "unit": "A2", "topic": "maruu", "format": "MATCH", "stem": "ஊர்ப் பெயர்களோடு மரூஉ சொற்களைப் பொருத்துக:", "matchTable": { "left": ["தேவகோட்டை", "கோவன்புத்தூர்", "பூந்தமல்லி", "சோழநாடு"], "right": ["கோவை", "சோணாடு", "தேவோட்டை", "பூனமல்லி"] }, "options": { "A": "1 2 3 4", "B": "3 1 4 2", "C": "2 1 4 3", "D": "4 3 2 1" }, "answer": "B", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "தேவகோட்டை → தேவோட்டை, கோவன்புத்தூர் → கோவை, பூந்தமல்லி → பூனமல்லி, சோழநாடு → சோணாடு.", "en": "Devakottai→Devottai, Kovanputhur→Kovai, Poonthamalli→Poonamalli, Chozhanadu→Sonaadu." } },
-    { "qNo": 16, "part": "A", "unit": "A2", "topic": "palporul", "stem": "இரு பொருள் தருக: 'தாரணி'", "options": { "A": "சூரியன், உலகம்", "B": "கதிரவன், மதி", "C": "கடல், பூமி", "D": "பூமி, உலகம்" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "தாரணி = பூமி, உலகம். மற்ற விடைகளில் ஒவ்வொன்றிலும் ஒரு பொருந்தாத சொல் உள்ளது.", "en": "thaaraNi = earth, world." } },
-    { "qNo": 17, "part": "A", "unit": "A2", "topic": "oruporul-panmozhi", "stem": "ஒரு பொருட் பன்மொழியில் \"மீமிசை ஞாயிறு\" என்னும் சொற்கள் உணர்த்தும் பொருளைக் கண்டறிக.", "options": { "A": "பக்கப்பகுதி", "B": "கீழ்ப்பகுதி", "C": "நடுப்பகுதி", "D": "மேல்பகுதி" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "மீ, மிசை இரண்டும் \"மேல்\" என்ற ஒரே பொருள் தரும் சொற்கள். ஒரே பொருளுக்குப் பல சொற்கள் சேர்ந்து வருவது ஒருபொருட் பன்மொழி.", "en": "mee and misai both mean 'above'." } },
-    { "qNo": 18, "part": "A", "unit": "A2", "topic": "porunthaa", "stem": "பொருந்தா சொல்லைக் கண்டறிதல்: முரல், வகுலி, வாளை, வியாளம்", "options": { "A": "முரல்", "B": "வகுலி", "C": "வாளை", "D": "வியாளம்" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "முரல், வகுலி, வாளை: மீன் வகைகள். வியாளம் = பாம்பு. எனவே வியாளம் பொருந்தாது.", "en": "The first three are fish; viyaaLam means snake." } },
-    { "qNo": 19, "part": "A", "unit": "A2", "topic": "orezhuthu", "stem": "நன்னூல் குறிப்பிடும் ஓரெழுத்து ஒரு மொழிகள் 42 ஆகும். கழகத் தமிழ் அகராதி (1964), பவானந்தர் தமிழ்ச் சொல்லகராதி (1925), வெற்றித் தமிழ் அகராதி (1992) ஆகிய இம்மூன்று அகராதிகளைக் கொண்டு தொகுக்கப்பட்ட ஓரெழுத்து ஒரு மொழிகள் எத்தனை?", "options": { "A": "42", "B": "40", "C": "82", "D": "70" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "நன்னூல்: 42. மூன்று அகராதிகளைக் கொண்டு தொகுத்தவை: 70. வினாவிலேயே 42 கொடுக்கப்பட்டுள்ளது; அது பொறி விடை.", "en": "Nannool lists 42; the three dictionaries give 70. 42 in the stem is the trap." } },
-    { "qNo": 20, "part": "A", "unit": "A2", "topic": "ethirsol", "stem": "\"………. ………. உரவோர் ஆயின் / உரவோர் உரவோர் ஆக! / மடவம் ஆக, மடந்தை நாமே!\" இப்பாடல் வரியில் உள்ள எதிர்ச்சொல்லை எடுத்தெழுதுக.", "options": { "A": "மடவம் × மடந்தை", "B": "உரவோர் ஆயின் × உரவோர் ஆக", "C": "உரவோர் × மடந்தை", "D": "உரவோர் × மடவம்" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "உரவோர் = அறிவும் வலிமையும் உடையோர்; மடவம் = அறிவு குறைந்தோர் (மடமை). இவை எதிர்ச்சொற்கள். மடந்தை = பெண்.", "en": "uravor (the wise/strong) is the opposite of madavam (the ignorant)." } },
-    { "qNo": 21, "part": "A", "unit": "A3", "topic": "punctuation", "stem": "ஒருவர் அல்லது நூல் கூறும் கூற்றை விளக்குமிடத்து பயன்படுத்த வேண்டிய நிறுத்தற்குறியைக் கண்டறிக.", "options": { "A": "காற்புள்ளி", "B": "அரைப்புள்ளி", "C": "முக்காற்புள்ளி", "D": "முற்றுப்புள்ளி" }, "answer": "C", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "ஒருவர் கூறியதை எடுத்துக்காட்டும் முன், விளக்கம் அல்லது பட்டியல் தொடங்கும் முன் முக்காற்புள்ளி ( : ) இடப்படும்.", "en": "A colon introduces a quotation, explanation or list." } },
-    { "qNo": 22, "part": "A", "unit": "A3", "topic": "marabu", "format": "MATCH", "stem": "பொருத்துக (வினை மரபு):", "matchTable": { "left": ["சாந்து", "குருவி", "சுனை", "அருவி"], "right": ["இழிதல்", "குடை", "ஓப்பு", "அரை"] }, "options": { "A": "4 3 2 1", "B": "4 1 3 2", "C": "2 4 1 3", "D": "4 2 1 3" }, "answer": "A", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "சாந்து அரை, குருவி ஓப்பு (விரட்டு), சுனை குடை (மூழ்கிக் குளி), அருவி இழி (வீழ்). விடை 4 3 2 1.", "en": "Traditional verb pairings: grind paste, shoo birds, bathe in a spring, waterfall descends." } },
-    { "qNo": 23, "part": "A", "unit": "A3", "topic": "marabu", "stem": "ஒலி மரபைக் கண்டறிக: புள்", "options": { "A": "நரலும்", "B": "கருவும்", "C": "சிமிழ்க்கும்", "D": "சீறும்" }, "answer": "C", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "TNPSC விடை: புள் (பறவை) சிமிழ்க்கும். சீறும் என்பது பாம்புக்கான ஒலி மரபு.", "en": "Keyed: birds 'simizhkkum'. 'seerum' (hiss) belongs to snakes." } },
-    { "qNo": 24, "part": "A", "unit": "A3", "topic": "marabu", "stem": "பிழையற்ற நிகழ்காலத் தொடரைக் கண்டறிக.", "options": { "A": "கண்ணன் நேற்று வருவான்", "B": "அன்பு நாளை வந்தான்", "C": "கவின்மொழி வருவாள்", "D": "பூமி சுழல்கிறது" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "சுழல்கிறது: \"-கிறு\" நிகழ்கால இடைநிலை. A, B-இல் காலச் சொல்லும் வினையும் முரண்; C எதிர்காலம்.", "en": "-kiRu marks the present. A and B mix time words with the wrong tense; C is future." } },
-    { "qNo": 25, "part": "A", "unit": "A3", "topic": "orumai-panmai", "format": "ASSERTION_REASON", "stem": "கூற்று, காரணம்: சரியானதைத் தேர்க.", "statements": ["கூற்று: யானைகள் விரைந்து ஓடியது.", "காரணம்: யானைகள் என்ற பலவின்பால் பெயருக்கு 'அது' என்ற ஒன்றன்பால் விகுதியே இடம்பெற வேண்டும்."], "options": { "A": "கூற்று – சரி; காரணம் – சரி", "B": "கூற்று – தவறு; காரணம் – சரி", "C": "கூற்று – சரி; காரணம் – தவறு", "D": "கூற்று – தவறு; காரணம் – தவறு" }, "answer": "D", "keySource": "TENTATIVE_TICK", "era": "CURRENT", "explain": { "ta": "யானைகள் பலவின்பால்; வினை \"ஓடின\" என்று பலவின்பால் விகுதியோடு வர வேண்டும். கூற்றும் காரணமும் தவறு.", "en": "Plural non-human takes -ana: 'odina'. Both statements are wrong." } }
-  ]
+ "exam": "G4-2025",
+ "year": 2025,
+ "title": "TNPSC Group IV 2025",
+ "url": "https://www.tnpsc.gov.in/Tentative/Document/07_2025_GENEAL_TAMIL_GS.pdf",
+ "extraction": "152 questions AI-extracted with gemini-3.5-flash-lite on 2026-11-13; others checked by hand.",
+ "questions": [
+  {
+   "qNo": 1,
+   "part": "A",
+   "unit": "A1",
+   "topic": "oli-veruppadu",
+   "stem": "பிழையான தொடரைக் கண்டறிக.",
+   "options": {
+    "A": "காளைகளைப் பூட்டி வயலை உழுதனர்",
+    "B": "மலைமீது ஏறிக் கல்வெட்டுகளைக் கண்டறிந்தனர்",
+    "C": "காளையில் பூத்த மல்லிகை மனம் வீசியது",
+    "D": "நெற்பயிர்கள் மழைநீரில் மூழ்கின"
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "இரண்டு ஒலிப் பிழைகள்: \"காளையில்\" (காளை மாடு) அல்ல, \"காலையில்\" (பொழுது); \"மனம்\" (உள்ளம்) அல்ல, \"மணம்\" (வாசனை). சரியான தொடர்: காலையில் பூத்த மல்லிகை மணம் வீசியது.",
+    "en": "Two sound errors: kaaLai (bull) should be kaalai (morning), manam (mind) should be maNam (fragrance)."
+   }
+  },
+  {
+   "qNo": 2,
+   "part": "A",
+   "unit": "A1",
+   "topic": "vinaimuttru",
+   "format": "MATCH",
+   "stem": "வினைமுற்றுகளின் வகைகளோடு பொருத்துக:",
+   "matchTable": {
+    "left": [
+     "அழிந்தது தீமை",
+     "அற்றது பிறப்பு",
+     "நல்லது கை",
+     "குளிர்ந்தது நிலம்"
+    ],
+    "right": [
+     "சினைப்பெயர் கொண்டது",
+     "இடப்பெயர் கொண்டது",
+     "குணப்பெயர் கொண்டது",
+     "தொழிற்பெயர் கொண்டது"
+    ]
+   },
+   "options": {
+    "A": "3 1 4 2",
+    "B": "3 4 1 2",
+    "C": "4 3 2 1",
+    "D": "4 1 2 3"
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "எழுவாய்ப் பெயரின் வகையைப் பாருங்கள்: தீமை = குணம் (3), பிறப்பு = தொழில் (4), கை = உறுப்பு, அதாவது சினை (1), நிலம் = இடம் (2). விடை 3 4 1 2.",
+    "en": "Look at the noun: theemai = quality, pirappu = action, kai = body part, nilam = place."
+   }
+  },
+  {
+   "qNo": 3,
+   "part": "A",
+   "unit": "A1",
+   "topic": "ethirsol",
+   "stem": "'செற்றம்' என்ற சொல்லின் எதிர்ச்சொல்லைக் கண்டறிக.",
+   "options": {
+    "A": "பகை",
+    "B": "வண்மை",
+    "C": "வன்மை",
+    "D": "கேண்மை"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "செற்றம் = பகை, சினம். அதன் எதிர் கேண்மை = நட்பு. \"பகை\" பொருள் ஒன்றே தவிர எதிர்ச்சொல் அல்ல.",
+    "en": "setRam = enmity; opposite keNmai = friendship. 'pagai' is a synonym, the trap option."
+   }
+  },
+  {
+   "qNo": 4,
+   "part": "A",
+   "unit": "A1",
+   "topic": "verchol",
+   "stem": "'பாடும் பாடல்' என்ற சொற்கள் எந்த பெயரெச்ச வகையென்று கண்டறிக.",
+   "options": {
+    "A": "நிகழ்காலப் பெயரெச்சம்",
+    "B": "இறந்தகாலப் பெயரெச்சம்",
+    "C": "எதிர்காலப் பெயரெச்சம்",
+    "D": "குறிப்புப் பெயரெச்சம்"
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "\"பாடும்\" (-உம் ஈறு, செய்யும் வாய்பாடு) பெயரெச்சம். TNPSC இதை எதிர்காலப் பெயரெச்சம் என விடையாகக் கொண்டது. ஒப்பிட: பாடிய பாடல் = இறந்தகாலம், பாடுகின்ற பாடல் = நிகழ்காலம்.",
+    "en": "'paadum' (-um form) was keyed as future tense. Compare paadiya (past), paadugindra (present)."
+   }
+  },
+  {
+   "qNo": 5,
+   "part": "A",
+   "unit": "A1",
+   "topic": "verchol",
+   "stem": "'நட' என்னும் வேர்ச்சொல்லின் வழி உயர்திணை வினையாலணையும் பெயரைக் கண்டறிக.",
+   "options": {
+    "A": "நடந்தது",
+    "B": "நடப்பது",
+    "C": "நடப்பவை",
+    "D": "நடந்தவன்"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "வினையாலணையும் பெயர் = வினை பெயராக நின்று ஆளைக் குறிப்பது. நடந்தவன் (அவன்) உயர்திணை. நடந்தது, நடப்பது, நடப்பவை அஃறிணை.",
+    "en": "nadandhavan refers to a person (human class); the others are non-human."
+   }
+  },
+  {
+   "qNo": 6,
+   "part": "A",
+   "unit": "A1",
+   "topic": "verchol",
+   "stem": "\"வை\" என்னும் வேர்ச்சொல்லின் ஏவல் வினைமுற்றினைக் கண்டறிக.",
+   "options": {
+    "A": "வைத்த",
+    "B": "வைத்து",
+    "C": "வைத்தது",
+    "D": "வைத்தாள்"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "TNPSC தற்காலிக விடை: வைத்தாள். கவனிக்க: உண்மையான ஏவல் வடிவம் \"வை\" (அல்லது வையுங்கள்) விடைகளில் இல்லை. வைத்த = பெயரெச்சம், வைத்து = வினையெச்சம், வைத்தது = வினையாலணையும் பெயர் / வினைமுற்று; வைத்தாள் மட்டுமே தெளிவான வினைமுற்று. இறுதிக் குறிப்பில் இது மாற்றப்பட்டிருக்கலாம்.",
+    "en": "Keyed 'vaiththaaL'. None of the options is a true imperative (that would be 'vai'); it is the only clear finite verb. The final key may have changed this."
+   }
+  },
+  {
+   "qNo": 7,
+   "part": "A",
+   "unit": "A1",
+   "topic": "inam-suttu-vina",
+   "format": "ASSERTION_REASON",
+   "stem": "கூற்று, காரணம்: சரியானதைத் தேர்க.",
+   "statements": [
+    "கூற்று: ஒன்றைச் சுட்டிக் காட்ட வரும் எழுத்துகளுக்குச் சுட்டு எழுத்துகள் என்று பெயர்.",
+    "காரணம்: எ, யா, ஆ, ஓ, ஏ என்பன சுட்டெழுத்துகளாக வந்து பிறவற்றைச் சுட்டுகிறது."
+   ],
+   "options": {
+    "A": "கூற்று – சரி; காரணம் – தவறு",
+    "B": "கூற்று – தவறு; காரணம் – சரி",
+    "C": "கூற்று – சரி; காரணம் – சரி",
+    "D": "கூற்று – தவறு; காரணம் – தவறு"
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "கூற்று சரி. ஆனால் எ, யா, ஆ, ஓ, ஏ ஆகியவை வினா எழுத்துகள்; சுட்டு எழுத்துகள் அ, இ, உ. எனவே காரணம் தவறு.",
+    "en": "e, yaa, aa, o, ee are question letters; the pointing letters are a, i, u."
+   }
+  },
+  {
+   "qNo": 8,
+   "part": "A",
+   "unit": "A1",
+   "topic": "inam-suttu-vina",
+   "format": "ASSERTION_REASON",
+   "stem": "கூற்று, காரணம்: சரியானதைத் தேர்க.",
+   "statements": [
+    "கூற்று: அப்பக்கம், இப்பக்கம், உப்பக்கம் என்பன சுட்டுச் சொற்களாகும்.",
+    "காரணம்: இடப்பொருளைச் சுட்டுவதற்காக அ, இ, உ வந்துள்ளது."
+   ],
+   "options": {
+    "A": "கூற்று – சரி; காரணம் – தவறு",
+    "B": "கூற்று – தவறு; காரணம் – சரி",
+    "C": "கூற்று – சரி; காரணம் – சரி",
+    "D": "கூற்று, காரணம் இரண்டும் தவறு"
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "அ + பக்கம், இ + பக்கம், உ + பக்கம்: சுட்டு எழுத்து வெளியே நின்று இடத்தைச் சுட்டுகிறது (புறச்சுட்டு). இரண்டும் சரி.",
+    "en": "Both true: a/i/u point to a place (external pointers)."
+   }
+  },
+  {
+   "qNo": 9,
+   "part": "A",
+   "unit": "A1",
+   "topic": "inam-suttu-vina",
+   "stem": "பொருந்தாத இணையைக் கண்டறிக.",
+   "options": {
+    "A": "ஏ – எ",
+    "B": "த – ந",
+    "C": "ஐ – அ",
+    "D": "ற – ன"
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "இன எழுத்துகள்: ஏ-எ (நெடில்-குறில்), த-ந, ற-ன (வல்லினம்-மெல்லினம்). ஐ-க்கு இனம் இ; அ அல்ல. எனவே ஐ – அ பொருந்தாது.",
+    "en": "ai pairs with i, not a."
+   }
+  },
+  {
+   "qNo": 10,
+   "part": "A",
+   "unit": "A1",
+   "topic": "oli-veruppadu",
+   "stem": "குறில், நெடில் சொற்களுக்குச் சரியான பொருளைக் கண்டறிக: கணம் – காணம்",
+   "options": {
+    "A": "கூட்டம், பொன்",
+    "B": "பொன், கூட்டம்",
+    "C": "கூட்டம், காடு",
+    "D": "காடு, தோட்டம்"
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "கணம் (குறில்) = கூட்டம்; காணம் (நெடில்) = பொன். வரிசை முக்கியம்: \"பொன், கூட்டம்\" என்ற விடை அதே சொற்களைத் தலைகீழாகக் கொடுக்கிறது.",
+    "en": "kaNam = group; kaaNam = gold. 'gold, group' is the same pair reversed."
+   }
+  },
+  {
+   "qNo": 11,
+   "part": "A",
+   "unit": "A1",
+   "topic": "sandhippizhai",
+   "format": "ASSERTION_REASON",
+   "stem": "சரியான விடைக் குறிப்பைத் தேர்க:",
+   "statements": [
+    "கூற்று: 'தந்தப் பலகை' என்பதன் பொருள் 'கொடுத்த பலகை' என்பதாகும்.",
+    "காரணம்: இரண்டு சொற்களுக்கு இடையில் 'ப்' என்ற ஒற்றெழுத்து மிகுந்து வந்ததால் கொடுத்த பலகை என்னும் பொருளைக் குறித்தது."
+   ],
+   "options": {
+    "A": "கூற்று – சரி; காரணம் – தவறு",
+    "B": "கூற்று – தவறு; காரணம் – சரி",
+    "C": "கூற்று – சரி; காரணம் – சரி",
+    "D": "கூற்று – தவறு; காரணம் – தவறு"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "ஒற்று பொருளை மாற்றும்: \"தந்த பலகை\" (ஒற்று இல்லை, பெயரெச்சம்) = கொடுத்த பலகை. \"தந்தப் பலகை\" = யானைத் தந்தத்தால் ஆன பலகை. கூற்றும் காரணமும் தவறு.",
+    "en": "One consonant changes meaning: 'thandha palagai' = the board (someone) gave; 'thandhap palagai' = ivory board."
+   }
+  },
+  {
+   "qNo": 12,
+   "part": "A",
+   "unit": "A1",
+   "topic": "sandhippizhai",
+   "stem": "பின்வருவனவற்றுள் சந்திப் பிழையற்ற சொற்றொடரைத் தேர்க.",
+   "options": {
+    "A": "அங்குக்கேட்டேன்",
+    "B": "அங்கு கேட்டேன்",
+    "C": "இங்கு பேசாதே",
+    "D": "எங்கு சென்றாய்"
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "அங்கு, இங்கு, எங்கு பின் வல்லினம் மிகும்: அங்குக் கேட்டேன், இங்குப் பேசாதே, எங்குச் சென்றாய். ஒற்று உள்ள A மட்டுமே சரி.",
+    "en": "k/ch/p double after angu/ingu/engu; only A has it."
+   }
+  },
+  {
+   "qNo": 13,
+   "part": "A",
+   "unit": "A2",
+   "topic": "akaravarisai",
+   "stem": "காப்பு, செங்கீரை, தால், சப்பாணி, முத்தம், வருகை, அம்புலி – இவற்றை அகரவரிசைப்படி சொற்களைச் சீர் செய்க.",
+   "options": {
+    "A": "அம்புலி, காப்பு, சப்பாணி, தால், செங்கீரை, முத்தம், வருகை",
+    "B": "அம்புலி, காப்பு, சப்பாணி, செங்கீரை, முத்தம், தால், வருகை",
+    "C": "அம்புலி, காப்பு, சப்பாணி, செங்கீரை, தால், முத்தம், வருகை",
+    "D": "அம்புலி, காப்பு, செங்கீரை, சப்பாணி, தால், முத்தம், வருகை"
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "வரிசை: அ → க → ச → த → ம → வ. ஒரே எழுத்தில் தொடங்கினால் அடுத்த உயிரைப் பாருங்கள்: சப் (ச + அ) முதலில், செ (ச + எ) பிறகு. (இவை பிள்ளைத்தமிழ்ப் பருவங்கள்.)",
+    "en": "Order by letter, then by vowel: cha (a) before che (e)."
+   }
+  },
+  {
+   "qNo": 14,
+   "part": "A",
+   "unit": "A2",
+   "topic": "orumai-panmai",
+   "format": "ASSERTION_REASON",
+   "stem": "பிழை திருத்துக:",
+   "statements": [
+    "கூற்று: ஒரு அணில் மரத்தில் ஏறியது.",
+    "காரணம்: உயிர் எழுத்துகளில் தொடங்கும் சொற்களுக்கு முன்னர் \"ஓர்\" பயன்படுத்த வேண்டும்."
+   ],
+   "options": {
+    "A": "கூற்று – சரி; காரணம் – தவறு",
+    "B": "கூற்று – தவறு; காரணம் – சரி",
+    "C": "காரணம், கூற்று – இரண்டும் சரி",
+    "D": "கூற்று, காரணம் – இரண்டும் தவறு"
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "அணில் \"அ\" என்ற உயிரில் தொடங்குகிறது; எனவே \"ஓர் அணில்\". கூற்று தவறு, காரணம் சரி.",
+    "en": "aNil starts with a vowel, so 'or aNil'."
+   }
+  },
+  {
+   "qNo": 15,
+   "part": "A",
+   "unit": "A2",
+   "topic": "maruu",
+   "format": "MATCH",
+   "stem": "ஊர்ப் பெயர்களோடு மரூஉ சொற்களைப் பொருத்துக:",
+   "matchTable": {
+    "left": [
+     "தேவகோட்டை",
+     "கோவன்புத்தூர்",
+     "பூந்தமல்லி",
+     "சோழநாடு"
+    ],
+    "right": [
+     "கோவை",
+     "சோணாடு",
+     "தேவோட்டை",
+     "பூனமல்லி"
+    ]
+   },
+   "options": {
+    "A": "1 2 3 4",
+    "B": "3 1 4 2",
+    "C": "2 1 4 3",
+    "D": "4 3 2 1"
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "தேவகோட்டை → தேவோட்டை, கோவன்புத்தூர் → கோவை, பூந்தமல்லி → பூனமல்லி, சோழநாடு → சோணாடு.",
+    "en": "Devakottai→Devottai, Kovanputhur→Kovai, Poonthamalli→Poonamalli, Chozhanadu→Sonaadu."
+   }
+  },
+  {
+   "qNo": 16,
+   "part": "A",
+   "unit": "A2",
+   "topic": "palporul",
+   "stem": "இரு பொருள் தருக: 'தாரணி'",
+   "options": {
+    "A": "சூரியன், உலகம்",
+    "B": "கதிரவன், மதி",
+    "C": "கடல், பூமி",
+    "D": "பூமி, உலகம்"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "தாரணி = பூமி, உலகம். மற்ற விடைகளில் ஒவ்வொன்றிலும் ஒரு பொருந்தாத சொல் உள்ளது.",
+    "en": "thaaraNi = earth, world."
+   }
+  },
+  {
+   "qNo": 17,
+   "part": "A",
+   "unit": "A2",
+   "topic": "oruporul-panmozhi",
+   "stem": "ஒரு பொருட் பன்மொழியில் \"மீமிசை ஞாயிறு\" என்னும் சொற்கள் உணர்த்தும் பொருளைக் கண்டறிக.",
+   "options": {
+    "A": "பக்கப்பகுதி",
+    "B": "கீழ்ப்பகுதி",
+    "C": "நடுப்பகுதி",
+    "D": "மேல்பகுதி"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "மீ, மிசை இரண்டும் \"மேல்\" என்ற ஒரே பொருள் தரும் சொற்கள். ஒரே பொருளுக்குப் பல சொற்கள் சேர்ந்து வருவது ஒருபொருட் பன்மொழி.",
+    "en": "mee and misai both mean 'above'."
+   }
+  },
+  {
+   "qNo": 18,
+   "part": "A",
+   "unit": "A2",
+   "topic": "porunthaa",
+   "stem": "பொருந்தா சொல்லைக் கண்டறிதல்: முரல், வகுலி, வாளை, வியாளம்",
+   "options": {
+    "A": "முரல்",
+    "B": "வகுலி",
+    "C": "வாளை",
+    "D": "வியாளம்"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "முரல், வகுலி, வாளை: மீன் வகைகள். வியாளம் = பாம்பு. எனவே வியாளம் பொருந்தாது.",
+    "en": "The first three are fish; viyaaLam means snake."
+   }
+  },
+  {
+   "qNo": 19,
+   "part": "A",
+   "unit": "A2",
+   "topic": "orezhuthu",
+   "stem": "நன்னூல் குறிப்பிடும் ஓரெழுத்து ஒரு மொழிகள் 42 ஆகும். கழகத் தமிழ் அகராதி (1964), பவானந்தர் தமிழ்ச் சொல்லகராதி (1925), வெற்றித் தமிழ் அகராதி (1992) ஆகிய இம்மூன்று அகராதிகளைக் கொண்டு தொகுக்கப்பட்ட ஓரெழுத்து ஒரு மொழிகள் எத்தனை?",
+   "options": {
+    "A": "42",
+    "B": "40",
+    "C": "82",
+    "D": "70"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "நன்னூல்: 42. மூன்று அகராதிகளைக் கொண்டு தொகுத்தவை: 70. வினாவிலேயே 42 கொடுக்கப்பட்டுள்ளது; அது பொறி விடை.",
+    "en": "Nannool lists 42; the three dictionaries give 70. 42 in the stem is the trap."
+   }
+  },
+  {
+   "qNo": 20,
+   "part": "A",
+   "unit": "A2",
+   "topic": "ethirsol",
+   "stem": "\"………. ………. உரவோர் ஆயின் / உரவோர் உரவோர் ஆக! / மடவம் ஆக, மடந்தை நாமே!\" இப்பாடல் வரியில் உள்ள எதிர்ச்சொல்லை எடுத்தெழுதுக.",
+   "options": {
+    "A": "மடவம் × மடந்தை",
+    "B": "உரவோர் ஆயின் × உரவோர் ஆக",
+    "C": "உரவோர் × மடந்தை",
+    "D": "உரவோர் × மடவம்"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "உரவோர் = அறிவும் வலிமையும் உடையோர்; மடவம் = அறிவு குறைந்தோர் (மடமை). இவை எதிர்ச்சொற்கள். மடந்தை = பெண்.",
+    "en": "uravor (the wise/strong) is the opposite of madavam (the ignorant)."
+   }
+  },
+  {
+   "qNo": 21,
+   "part": "A",
+   "unit": "A3",
+   "topic": "punctuation",
+   "stem": "ஒருவர் அல்லது நூல் கூறும் கூற்றை விளக்குமிடத்து பயன்படுத்த வேண்டிய நிறுத்தற்குறியைக் கண்டறிக.",
+   "options": {
+    "A": "காற்புள்ளி",
+    "B": "அரைப்புள்ளி",
+    "C": "முக்காற்புள்ளி",
+    "D": "முற்றுப்புள்ளி"
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "ஒருவர் கூறியதை எடுத்துக்காட்டும் முன், விளக்கம் அல்லது பட்டியல் தொடங்கும் முன் முக்காற்புள்ளி ( : ) இடப்படும்.",
+    "en": "A colon introduces a quotation, explanation or list."
+   }
+  },
+  {
+   "qNo": 22,
+   "part": "A",
+   "unit": "A3",
+   "topic": "marabu",
+   "format": "MATCH",
+   "stem": "பொருத்துக (வினை மரபு):",
+   "matchTable": {
+    "left": [
+     "சாந்து",
+     "குருவி",
+     "சுனை",
+     "அருவி"
+    ],
+    "right": [
+     "இழிதல்",
+     "குடை",
+     "ஓப்பு",
+     "அரை"
+    ]
+   },
+   "options": {
+    "A": "4 3 2 1",
+    "B": "4 1 3 2",
+    "C": "2 4 1 3",
+    "D": "4 2 1 3"
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "சாந்து அரை, குருவி ஓப்பு (விரட்டு), சுனை குடை (மூழ்கிக் குளி), அருவி இழி (வீழ்). விடை 4 3 2 1.",
+    "en": "Traditional verb pairings: grind paste, shoo birds, bathe in a spring, waterfall descends."
+   }
+  },
+  {
+   "qNo": 23,
+   "part": "A",
+   "unit": "A3",
+   "topic": "marabu",
+   "stem": "ஒலி மரபைக் கண்டறிக: புள்",
+   "options": {
+    "A": "நரலும்",
+    "B": "கருவும்",
+    "C": "சிமிழ்க்கும்",
+    "D": "சீறும்"
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "TNPSC விடை: புள் (பறவை) சிமிழ்க்கும். சீறும் என்பது பாம்புக்கான ஒலி மரபு.",
+    "en": "Keyed: birds 'simizhkkum'. 'seerum' (hiss) belongs to snakes."
+   }
+  },
+  {
+   "qNo": 24,
+   "part": "A",
+   "unit": "A3",
+   "topic": "marabu",
+   "stem": "பிழையற்ற நிகழ்காலத் தொடரைக் கண்டறிக.",
+   "options": {
+    "A": "கண்ணன் நேற்று வருவான்",
+    "B": "அன்பு நாளை வந்தான்",
+    "C": "கவின்மொழி வருவாள்",
+    "D": "பூமி சுழல்கிறது"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "சுழல்கிறது: \"-கிறு\" நிகழ்கால இடைநிலை. A, B-இல் காலச் சொல்லும் வினையும் முரண்; C எதிர்காலம்.",
+    "en": "-kiRu marks the present. A and B mix time words with the wrong tense; C is future."
+   }
+  },
+  {
+   "qNo": 25,
+   "part": "A",
+   "unit": "A3",
+   "topic": "orumai-panmai",
+   "format": "ASSERTION_REASON",
+   "stem": "கூற்று, காரணம்: சரியானதைத் தேர்க.",
+   "statements": [
+    "கூற்று: யானைகள் விரைந்து ஓடியது.",
+    "காரணம்: யானைகள் என்ற பலவின்பால் பெயருக்கு 'அது' என்ற ஒன்றன்பால் விகுதியே இடம்பெற வேண்டும்."
+   ],
+   "options": {
+    "A": "கூற்று – சரி; காரணம் – சரி",
+    "B": "கூற்று – தவறு; காரணம் – சரி",
+    "C": "கூற்று – சரி; காரணம் – தவறு",
+    "D": "கூற்று – தவறு; காரணம் – தவறு"
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "explain": {
+    "ta": "யானைகள் பலவின்பால்; வினை \"ஓடின\" என்று பலவின்பால் விகுதியோடு வர வேண்டும். கூற்றும் காரணமும் தவறு.",
+    "en": "Plural non-human takes -ana: 'odina'. Both statements are wrong."
+   }
+  },
+  {
+   "qNo": 26,
+   "part": "A",
+   "unit": "A1",
+   "topic": "grammar",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பிறவினைத் தொடரைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "அன்பு பாடல் பாடினான்.",
+     "en": ""
+    },
+    "B": {
+     "ta": "கவின்மொழி திருக்குறள் கற்றாள்.",
+     "en": ""
+    },
+    "C": {
+     "ta": "அடிகள் மறை ஓதினார்.",
+     "en": ""
+    },
+    "D": {
+     "ta": "அரசன் மாலை அணிவித்தான்.",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "அணிவித்தான் என்பது பிறவினையைக் குறிக்கும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 27,
+   "part": "A",
+   "unit": "A1",
+   "topic": "grammar",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எவ்வகை வினை என்பதைக் கண்டறிக.\nஇரண்டாம் வேற்றுமையில் இருப்பது முதல் வேற்றுமையாகவும், முதல் வேற்றுமையில் இருப்பது மூன்றாம் வேற்றுமையாகவும் மாறும் வினை எப்போது நிகழும்?",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "செய்வினை செயப்பாட்டு வினையாக மாறும்போது",
+     "en": ""
+    },
+    "B": {
+     "ta": "செயப்பாட்டு வினை செய்வினையாக மாறும்போது",
+     "en": ""
+    },
+    "C": {
+     "ta": "தன்மை பிறவினையாக மாறும்போது",
+     "en": ""
+    },
+    "D": {
+     "ta": "பிறவினை தன்வினையாக மாறும்போது",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "செய்வினை செயப்பாட்டு வினையாக மாறும்போது வேற்றுமை உருபுகள் மாறும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 28,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "வரலாற்றில் 'Whitehall' - என்னும் சொல்லிற்கு இணை கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "வெள்ளை மாளிகை - அமெரிக்கா",
+     "en": ""
+    },
+    "B": {
+     "ta": "ரஷ்யா - மாளிகை",
+     "en": ""
+    },
+    "C": {
+     "ta": "வாடிகன் - மாளிகை",
+     "en": ""
+    },
+    "D": {
+     "ta": "பிரிட்டானிய அரசு அலுவலகம்",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Whitehall என்பது பிரிட்டானிய அரசு அலுவலகத்தைக் குறிக்கும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 29,
+   "part": "A",
+   "unit": "A4",
+   "topic": "translation-match",
+   "format": "MATCH",
+   "stem": {
+    "ta": "இணையான தமிழ்ச் சொற்களைப் பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "4 2 3 1",
+     "en": ""
+    },
+    "B": {
+     "ta": "4 1 3 2",
+     "en": ""
+    },
+    "C": {
+     "ta": "1 3 4 2",
+     "en": ""
+    },
+    "D": {
+     "ta": "2 4 1 3",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) Dark Fiber",
+      "en": ""
+     },
+     {
+      "ta": "(b) Demon",
+      "en": ""
+     },
+     {
+      "ta": "(c) Darkest",
+      "en": ""
+     },
+     {
+      "ta": "(d) Density",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. பின்னாணி நிரல்",
+      "en": ""
+     },
+     {
+      "ta": "2. அடர்த்தி",
+      "en": ""
+     },
+     {
+      "ta": "3. மிகு இருண்மை",
+      "en": ""
+     },
+     {
+      "ta": "4. இருட்டு இழை",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "Dark Fiber - இருட்டு இழை, Demon - பின்னாணி நிரல் (பின்களம்/தீய சக்தி), Darkest - மிகு இருண்மை, Density - அடர்த்தி.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 30,
+   "part": "A",
+   "unit": "A4",
+   "topic": "geographical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "புவியியலில் \"Advance\" - என்னும் சொல்லிற்கு இணையான கலைச்சொல்லைத் தருக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "ஃபெல்ஸ்பார் கனிமவகை",
+     "en": ""
+    },
+    "B": {
+     "ta": "கடற்கரையியக்கம்",
+     "en": ""
+    },
+    "C": {
+     "ta": "பெரும் நில அதிர்விற்குப் பிறகான சிறு அதிர்வுகள்",
+     "en": ""
+    },
+    "D": {
+     "ta": "வியாழனின் துணைக்கோள்",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "புவியியல் துறையில் Advance என்பதன் கலைச்சொல் கடற்கரையியக்கம் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 31,
+   "part": "A",
+   "unit": "A4",
+   "topic": "matching-technical-terms",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "2 1 4 3",
+     "en": ""
+    },
+    "B": {
+     "ta": "1 2 3 4",
+     "en": ""
+    },
+    "C": {
+     "ta": "4 3 2 1",
+     "en": ""
+    },
+    "D": {
+     "ta": "1 4 3 2",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "Pre-censorship",
+      "en": ""
+     },
+     {
+      "ta": "Possession",
+      "en": ""
+     },
+     {
+      "ta": "Prescription",
+      "en": ""
+     },
+     {
+      "ta": "Premium",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "உடைமை",
+      "en": ""
+     },
+     {
+      "ta": "முன் தணிக்கை",
+      "en": ""
+     },
+     {
+      "ta": "முனைமம்",
+      "en": ""
+     },
+     {
+      "ta": "நீdனுபோகம்",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "Pre-censorship - முன் தணிக்கை, Possession - உடைமை, Prescription - நீdனுபோகம், Premium - முனைமம்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 32,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கலைச்சொல்லுக்கு நேரான தமிழ்ச் சொல் தருக - Veteran",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "சோம்பல் உடையவர்",
+     "en": ""
+    },
+    "B": {
+     "ta": "திறனாளர்",
+     "en": ""
+    },
+    "C": {
+     "ta": "காலம் கடத்துபவர்",
+     "en": ""
+    },
+    "D": {
+     "ta": "முன்கோபி",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Veteran என்பதன் தமிழ்ச் சொல் திறனாளர் (அல்லது அனுபவசாலி) ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 33,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கலைச்சொல்லுக்கு இணையான தமிழ்ச் சொல்லைக் கண்டறிக.\nGlacier",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "வெப்ப ஆறு",
+     "en": ""
+    },
+    "B": {
+     "ta": "செவுள் இழை",
+     "en": ""
+    },
+    "C": {
+     "ta": "செவுள் வலை",
+     "en": ""
+    },
+    "D": {
+     "ta": "பனியாறு",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Glacier என்பதன் கலைச்சொல் பனியாறு ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 34,
+   "part": "A",
+   "unit": "A5",
+   "topic": "proverbs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'தனிமரம் காடாதல் இல்' என்ற பழமொழி உணர்த்தும் பொருள்",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "ஆசையும் அழிவும்",
+     "en": ""
+    },
+    "B": {
+     "ta": "தீயவரைத் தண்டித்தல்",
+     "en": ""
+    },
+    "C": {
+     "ta": "பகையை நீக்குதல்",
+     "en": ""
+    },
+    "D": {
+     "ta": "நட்பைப் பெருக்குதல்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "தனிமரம் காடாதல் இல் என்பது பகைமையின் இயல்பை அல்லது பகையை நீக்குதலைக் குறிக்கும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 35,
+   "part": "A",
+   "unit": "A7",
+   "topic": "thirukkural",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "அழக்கொண்ட எல்லாம் அழப்போம் இழப்பினும்\nற்பயக்கும் நற்பா லவை: - இக்குறள் உணர்த்தும் பழமொழியாகக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "எறும்பு ஊரக் கல்லும் தேயும்",
+     "en": ""
+    },
+    "B": {
+     "ta": "ஊரார் உடைமைக்குப் பேயாய்ப் பறவாதே",
+     "en": ""
+    },
+    "C": {
+     "ta": "கிட்ட நெருங்க முட்டப்பகை",
+     "en": ""
+    },
+    "D": {
+     "ta": "குந்தித் தின்றால் குன்றும் மாளும்",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "அறநெறி தவறிப் பெறும் செல்வம் பற்றிக் கூறும் இக்குறள் 'ஊரார் உடைமைக்குப் பேயாய்ப் பறவாதே' என்னும் பழமொழியோடு பொருந்தும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 36,
+   "part": "A",
+   "unit": "A3",
+   "topic": "idioms-match",
+   "format": "MATCH",
+   "stem": {
+    "ta": "மரபுத் தொடர்களுக்கு ஏற்ற பொருளைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "4 1 2 3",
+     "en": ""
+    },
+    "B": {
+     "ta": "4 3 2 1",
+     "en": ""
+    },
+    "C": {
+     "ta": "3 4 2 1",
+     "en": ""
+    },
+    "D": {
+     "ta": "3 2 4 1",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) அடரடி படரடி",
+      "en": ""
+     },
+     {
+      "ta": "(b) அகட விகடம்",
+      "en": ""
+     },
+     {
+      "ta": "(c) ஈராொட்டு",
+      "en": ""
+     },
+     {
+      "ta": "(d) கை கூடுதல்",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. சித்தி அடைதல்",
+      "en": ""
+     },
+     {
+      "ta": "2. உறுதிையின்மை",
+      "en": ""
+     },
+     {
+      "ta": "3. தந்திரம்",
+      "en": ""
+     },
+     {
+      "ta": "4. பெருங்குழப்பம்",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "அடரடி படரடி - பெருங்குழப்பம், அகட விகடம் - தந்திரம், ஈரோட்டு - உறுதிையின்மை, கை கூடுதல் - சித்தி அடைதல்",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 37,
+   "part": "A",
+   "unit": "A3",
+   "topic": "marabu",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மரபுத் தொடரைத் தேர்ந்தெடு\nகாட்டில் சிங்கம் _________, யானை _________",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "அலறும், கத்தும்",
+     "en": ""
+    },
+    "B": {
+     "ta": "உறுமும், பிளிறும்",
+     "en": ""
+    },
+    "C": {
+     "ta": "முழங்கும், பிளிறும்",
+     "en": ""
+    },
+    "D": {
+     "ta": "உறுமும், கத்தும்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "சிங்கம் முழங்கும், யானை பிளிறும் என்பது மரபுச் சொற்களாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 38,
+   "part": "A",
+   "unit": "A5",
+   "topic": "simile-match",
+   "format": "MATCH",
+   "stem": {
+    "ta": "உவமையால் விளக்கப்பெறும் பொருத்தமான பொருளைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "3 4 2 1",
+     "en": ""
+    },
+    "B": {
+     "ta": "3 1 4 2",
+     "en": ""
+    },
+    "C": {
+     "ta": "4 3 2 1",
+     "en": ""
+    },
+    "D": {
+     "ta": "4 1 3 2",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) அலை ஓய்ந்த கடல் போல்",
+      "en": ""
+     },
+     {
+      "ta": "(b) அடியற்ற மரம் போல்",
+      "en": ""
+     },
+     {
+      "ta": "(c) மத்தில் அகப்பட்ட தயிர்போல்",
+      "en": ""
+     },
+     {
+      "ta": "(d) புயலில் சிக்கிய பூங்கொடிபோல்",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. நடுங்குதல்",
+      "en": ""
+     },
+     {
+      "ta": "2. மனம் உடைதல்",
+      "en": ""
+     },
+     {
+      "ta": "3. அமைதி",
+      "en": ""
+     },
+     {
+      "ta": "4. வீழ்தல்",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "அலை ஓய்ந்த கடல் போல் - அமைதி, அடியற்ற மரம் போல் - வீழ்தல், மத்தில் அகப்பட்ட தயிர்போல் - மனம் உடைதல், புயலில் சிக்கிய பூங்கொடிபோல் - நடுங்குதல்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 39,
+   "part": "A",
+   "unit": "A2",
+   "topic": "meaning",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "உகிர்ச் சுற்றின் மேல் உலக்கை விழுந்தாற் போல - இத்தொடரில் உகிர் சுற்று என்பது என்ன?",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கால்சுற்று",
+     "en": ""
+    },
+    "B": {
+     "ta": "கைச்சுற்று",
+     "en": ""
+    },
+    "C": {
+     "ta": "நகச்சுற்று",
+     "en": ""
+    },
+    "D": {
+     "ta": "திருமஞ்சுற்று",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "உகிர் சுற்று என்பது நகச்சுற்று (பரிகாரம்) நோயைக் குறிப்பதாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 40,
+   "part": "A",
+   "unit": "A4",
+   "topic": "legal-terms",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "1 3 4 2",
+     "en": ""
+    },
+    "B": {
+     "ta": "2 3 1 4",
+     "en": ""
+    },
+    "C": {
+     "ta": "3 2 4 1",
+     "en": ""
+    },
+    "D": {
+     "ta": "4 1 2 3",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "Call book",
+      "en": ""
+     },
+     {
+      "ta": "Record issue register",
+      "en": ""
+     },
+     {
+      "ta": "Pauper suit register",
+      "en": ""
+     },
+     {
+      "ta": "Fair copy register",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "பதிவேடு வழங்கு குறிப்பேடு",
+      "en": ""
+     },
+     {
+      "ta": "வறியர் வழக்குப் பதிவேடு",
+      "en": ""
+     },
+     {
+      "ta": "செம்மைப்படி பதிவேடு",
+      "en": ""
+     },
+     {
+      "ta": "மறுகவனிப்புப் பதிவேடு",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "Call book - மறுகவனிப்புப் பதிவேடு, Record issue register - பதிவேடு வழங்கு குறிப்பேடு, Pauper suit register - வறியர் வழக்குப் பதிவேடு, Fair copy register - செம்மைப்படி பதிவேடு.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 41,
+   "part": "A",
+   "unit": "A4",
+   "topic": "english-to-tamil",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"Adoring\" என்னும் ஆங்கிலச் சொல்லிற்குத் தமிழ்ச்சொல் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "முன்னேறுதல்",
+     "en": ""
+    },
+    "B": {
+     "ta": "ஒப்புக்கொடுத்தல்",
+     "en": ""
+    },
+    "C": {
+     "ta": "போற்றுதல்",
+     "en": ""
+    },
+    "D": {
+     "ta": "துணை நிற்றல்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Adoring என்பதன் தமிழ்ச்சொல் போற்றுதல் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 42,
+   "part": "A",
+   "unit": "A7",
+   "topic": "foreign-words",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தோழன் என்று பொருள் தரும் காம்ரேட் என்ற சொல் எம்மொழியில் இருந்து பெறப்பட்டது?",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "ஜப்பான் மொழி",
+     "en": ""
+    },
+    "B": {
+     "ta": "சீன மொழி",
+     "en": ""
+    },
+    "C": {
+     "ta": "போர்த்துக்கீசிய மொழி",
+     "en": ""
+    },
+    "D": {
+     "ta": "பிரெஞ்சு மொழி",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "காம்ரேட் (Comrade) என்பது பிரெஞ்சு மொழியிலிருந்து பெறப்பட்ட சொல்லாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 43,
+   "part": "A",
+   "unit": "A7",
+   "topic": "authors-and-works",
+   "format": "CHRONOLOGY",
+   "stem": {
+    "ta": "சரியான இணையைக் கண்டறிக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "(2) - சரி",
+     "en": ""
+    },
+    "B": {
+     "ta": "(1) - சரி",
+     "en": ""
+    },
+    "C": {
+     "ta": "(4) - சரி",
+     "en": ""
+    },
+    "D": {
+     "ta": "(3) - சரி",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) தாராபாரதி - ஆசியஜோதி",
+     "en": ""
+    },
+    {
+     "ta": "(2) முடியரசன் - வீரகாவியம்",
+     "en": ""
+    },
+    {
+     "ta": "(3) கவிமணி - இதய ஒலி",
+     "en": ""
+    },
+    {
+     "ta": "(4) இரசிகமணி - விரல் நுனி வெளிச்சங்கள்",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "முடியரசன் எழுதிய நூல் வீரகாவியம் ஆகும். எனவே (2) சரியானது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 44,
+   "part": "A",
+   "unit": "A2",
+   "topic": "meaning",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'பூட்கை' என்ற சொல்லின் பொருளைத் தெரிவு செய்க.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "படுக்கை",
+     "en": ""
+    },
+    "B": {
+     "ta": "உடல்",
+     "en": ""
+    },
+    "C": {
+     "ta": "குறிக்கோள்",
+     "en": ""
+    },
+    "D": {
+     "ta": "மலை",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "பூட்கை என்பதன் பொருள் குறிக்கோள் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 45,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-scholars",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "உலகத் தமிழ்க் கழகத்தை நிறுவித் தலைவராக இருந்தவர் ____________.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "இரா. இளங்குமரனார்",
+     "en": ""
+    },
+    "B": {
+     "ta": "க. அப்பாதுரையார்",
+     "en": ""
+    },
+    "C": {
+     "ta": "தேவநேயப் பாவாணர்",
+     "en": ""
+    },
+    "D": {
+     "ta": "சி. இலக்குவனார்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "உலகத் தமிழ்க் கழகத்தை நிறுவி அதன் தலைவராக இருந்தவர் தேவநேயப் பாவாணர் ஆவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 46,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-history",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கடைச்சங்க காலத்தில் தமிழகத்தில் எழுதப்பட்ட எழுத்துகள் அழைக்கப்பட்ட விதத்தைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கோலாமி",
+     "en": ""
+    },
+    "B": {
+     "ta": "பர்ஜி",
+     "en": ""
+    },
+    "C": {
+     "ta": "கொொண்டா",
+     "en": ""
+    },
+    "D": {
+     "ta": "கண்ணெழுத்துகள்",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "கடைச்சங்க காலத்தில் தமிழகத்தில் எழுதப்பட்ட எழுத்துகள் 'கண்ணெழுத்துகள்' என அழைக்கப்பட்டன.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 47,
+   "part": "A",
+   "unit": "A7",
+   "topic": "literature",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "ஏலாதியில் இடம் பெறாத மருந்துப் பொருள்\n(1) சுக்கு\n(2) திப்பிளி\n(3) கண்டங்கத்திரி\n(4) சிறுநாவற்பூ",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மட்டும்",
+     "en": ""
+    },
+    "B": {
+     "ta": "(2) மட்டும்",
+     "en": ""
+    },
+    "C": {
+     "ta": "(3) மட்டும்",
+     "en": ""
+    },
+    "D": {
+     "ta": "(4) மட்டும்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "ஏலாதி நூலில் கூறப்பட்டுள்ள மருந்துப் பொருட்களில் கண்டங்கத்திரி இடம் பெறவில்லை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 48,
+   "part": "A",
+   "unit": "A7",
+   "topic": "literature",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பாடலின் அடி இடம்பெற்றுள்ள நூலின் பெயதைத் தெரிவு செய்க.\n\"தூற்றின் கண் தூவிய வித்து\"",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "பழமொழி நானூறு",
+     "en": ""
+    },
+    "B": {
+     "ta": "மூதுரை",
+     "en": ""
+    },
+    "C": {
+     "ta": "நாலடியார்",
+     "en": ""
+    },
+    "D": {
+     "ta": "திரிகடுகம்",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "\"தூற்றின் கண் தூவிய வித்து\" என்னும் அடி இடம்பெற்றுள்ள நூல் திரிகடுகம் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 50,
+   "part": "A",
+   "unit": "A7",
+   "topic": "thirukkural",
+   "format": "FILL_BLANK",
+   "stem": {
+    "ta": "சரியான சொற்றொடரைத் தேர்வு செய்து கீழ்க்காணும் தொடரை நிறைவு செய்க.\nதாம் கற்றவற்றைக் கற்றவர் முன் தெளிவாகச்\nசொல்ல வல்லவர் _________",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கற்றவருள் மிகவும் கற்றவராக மதிக்கப்படுவார்",
+     "en": ""
+    },
+    "B": {
+     "ta": "பிறர் மனத்தில் நன்கு பதியும்படி சொல்லுவார்",
+     "en": ""
+    },
+    "C": {
+     "ta": "முன்வினையையும் தோற்கடித்து வெற்றியடைவார்",
+     "en": ""
+    },
+    "D": {
+     "ta": "அரிய செயல்களை விரைந்து செய்து முடிப்பார்",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "திருக்குறள் கூற்றுப்படி கற்றவர் முன் தெளிவாகச் சொல்ல வல்லவர் கற்றவருள் மிகவும் கற்றவராக மதிக்கப்படுவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 51,
+   "part": "A",
+   "unit": "A2",
+   "topic": "word-meanings",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "அடிக்கோடிட்ட சொல்லின் பொருளைத் தெரிவு செய்க.\n\"தகுதியான் வென்று விடல்\"",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "பெருமை",
+     "en": ""
+    },
+    "B": {
+     "ta": "பொறுமை",
+     "en": ""
+    },
+    "C": {
+     "ta": "கல்வி",
+     "en": ""
+    },
+    "D": {
+     "ta": "பண்பு",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "இக்குறளில் 'தகுதியான்' என்பதன் பொருள் பொறுமை என்பதாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 52,
+   "part": "A",
+   "unit": "A3",
+   "topic": "grammar",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தொடரமைக்க :\nவிரிந்தது - விரித்தது",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "மாலை நேரத்தில் அல்லி இதழ் விரித்தன; மயில் தோகை விரிந்தது",
+     "en": ""
+    },
+    "B": {
+     "ta": "மாலை நேரத்தில் அல்லி இதழ்கள் விரித்தன; மயில் தோகை விரித்தன",
+     "en": ""
+    },
+    "C": {
+     "ta": "மாலை நேரத்தில் அல்லியின் இதழ்கள் விரிந்தன; மயில் தோகை விரித்தது",
+     "en": ""
+    },
+    "D": {
+     "ta": "மாலை நேரத்தில் அல்லியின் இதழ்கள் விரிந்தன; மயில் தோகையை விரித்தது",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "விரிந்தது (தானாக மலர்வது/அஃறிணை வினை), விரித்தது (செயபடு பொருள் கொண்டு மயில் தோகையை விரித்தது).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 54,
+   "part": "A",
+   "unit": "A2",
+   "topic": "tamil-words",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தமிழ்ச்சொல்லைக் கண்டறிக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "காதி",
+     "en": ""
+    },
+    "B": {
+     "ta": "சாவடி",
+     "en": ""
+    },
+    "C": {
+     "ta": "சாம்பார்",
+     "en": ""
+    },
+    "D": {
+     "ta": "உடுக்கை",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "உடுக்கை என்பது தமிழ்ச் சொல்லாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 55,
+   "part": "A",
+   "unit": "A7",
+   "topic": "match-following",
+   "format": "MATCH",
+   "stem": {
+    "ta": "திவான்பகதூர் பவானந்தம் பிள்ளை - தமது தமிழராதியின் பின் இணைப்பில், தமிழ் மொழியில் கலந்துள்ள பிறமொழிச் சொற்களை கூறியுள்ளவாறு பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "4 1 2 3",
+     "en": ""
+    },
+    "B": {
+     "ta": "4 3 2 1",
+     "en": ""
+    },
+    "C": {
+     "ta": "3 1 4 2",
+     "en": ""
+    },
+    "D": {
+     "ta": "3 4 1 2",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) போர்ச்சுக்கீசிய மொழி",
+      "en": ""
+     },
+     {
+      "ta": "(b) தெலுங்கு மொழி",
+      "en": ""
+     },
+     {
+      "ta": "(c) அரபு, பாரசீக, இந்துஸ்தானி",
+      "en": ""
+     },
+     {
+      "ta": "(d) ஆங்கில மொழி",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. 34",
+      "en": ""
+     },
+     {
+      "ta": "2. 486",
+      "en": ""
+     },
+     {
+      "ta": "3. 06",
+      "en": ""
+     },
+     {
+      "ta": "4. 411",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சரியான பொருத்தம்: (a)-3, (b)-1, (c)-4, (d)-2.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 56,
+   "part": "A",
+   "unit": "A1",
+   "topic": "match-following",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பெயரச்சங்களின் வகை அறிந்து பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "3 2 4 1",
+     "en": ""
+    },
+    "B": {
+     "ta": "4 1 2 3",
+     "en": ""
+    },
+    "C": {
+     "ta": "1 2 4 3",
+     "en": ""
+    },
+    "D": {
+     "ta": "4 2 1 3",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) நிகழ்காலப் பெயரச்சம்",
+      "en": ""
+     },
+     {
+      "ta": "(b) உடன்பாட்டுப் பெயரச்சம்",
+      "en": ""
+     },
+     {
+      "ta": "(c) குறிப்புப் பெயரச்சம்",
+      "en": ""
+     },
+     {
+      "ta": "(d) ஈறுகெட்ட பெயரச்சம்",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. இல்லாத பொருள்",
+      "en": ""
+     },
+     {
+      "ta": "2. அறிந்த பையன்",
+      "en": ""
+     },
+     {
+      "ta": "3. ஓடுகிற குதிரை",
+      "en": ""
+     },
+     {
+      "ta": "4. அறியாத குழந்தை",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சரியான பொருத்தம்: (a)-3, (b)-2, (c)-4, (d)-1.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 57,
+   "part": "A",
+   "unit": "A1",
+   "topic": "root-word",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"ஓலக்கம்\" என்னும் சொல்லின் வேர் சொல்லைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "ஓல்",
+     "en": ""
+    },
+    "B": {
+     "ta": "ஓலம்",
+     "en": ""
+    },
+    "C": {
+     "ta": "ஓலகம்",
+     "en": ""
+    },
+    "D": {
+     "ta": "ஓட்டோலக்கம்",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "ஓலக்கம் என்பதன் வேர்ச்சொல் 'ஓல்' ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 58,
+   "part": "A",
+   "unit": "A2",
+   "topic": "meanings",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "4 3 2 1",
+     "en": ""
+    },
+    "B": {
+     "ta": "4 2 3 1",
+     "en": ""
+    },
+    "C": {
+     "ta": "4 1 2 3",
+     "en": ""
+    },
+    "D": {
+     "ta": "3 2 4 1",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "அணிகம்",
+      "en": ""
+     },
+     {
+      "ta": "அநிகம்",
+      "en": ""
+     },
+     {
+      "ta": "அனிகம்",
+      "en": ""
+     },
+     {
+      "ta": "அநங்கு",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "காமன்",
+      "en": ""
+     },
+     {
+      "ta": "சிவிகை",
+      "en": ""
+     },
+     {
+      "ta": "படையில் ஓர் அளவு",
+      "en": ""
+     },
+     {
+      "ta": "ஊர்தி",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "அணிகம் - ஊர்தி (4), அநிகம் - படையில் ஓர் அளவு (3), அனிகம் - சிவிகை (2), அநங்கு - காமன் (1).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 59,
+   "part": "A",
+   "unit": "A1",
+   "topic": "assertion-reason",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "கூற்று : வினவப்பயன்படும் எழுத்துகள் வினா எழுத்துகள் எனப்படும்.\nஎ, ஏ, யா, ஆ, ஓ என்னும் எழுத்துகள் வினா எழுத்துகள் ஆகும்.\nகாரணம் : இவ்வினாவெழுத்துகளை இடவினா எழுத்துகள் எனக் குறிக்கலாம்.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கூற்று - சரி, காரணம் - தவறு",
+     "en": ""
+    },
+    "B": {
+     "ta": "கூற்று - தவறு, காரணம் - சரி",
+     "en": ""
+    },
+    "C": {
+     "ta": "கூற்று - தவறு, காரணம் - தவறு",
+     "en": ""
+    },
+    "D": {
+     "ta": "கூற்று - சரி, காரணம் - சரி",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "வினவப்பயன்படும் எழுத்துகள் வினா எழுத்துகள் எனப்படும். எ, ஏ, யா, ஆ, ஓ என்னும் எழுத்துகள் வினா எழுத்துகள் ஆகும்.",
+     "en": ""
+    },
+    {
+     "ta": "இவ்வினாவெழுத்துகளை இடவினா எழுத்துகள் எனக் குறிக்கலாம்.",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "வினா எழுத்துகள் பற்றிய கூற்றும் காரணமும் சரி.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 61,
+   "part": "A",
+   "unit": "A2",
+   "topic": "meanings",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "1 4 3 2",
+     "en": ""
+    },
+    "B": {
+     "ta": "1 2 4 3",
+     "en": ""
+    },
+    "C": {
+     "ta": "4 2 1 3",
+     "en": ""
+    },
+    "D": {
+     "ta": "2 1 4 3",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) மருப்பு",
+      "en": ""
+     },
+     {
+      "ta": "(b) விரகு",
+      "en": ""
+     },
+     {
+      "ta": "(c) மருகன்",
+      "en": ""
+     },
+     {
+      "ta": "(d) சீரடி",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. வழிவந்தோன்",
+      "en": ""
+     },
+     {
+      "ta": "2. தந்திரம்",
+      "en": ""
+     },
+     {
+      "ta": "3. சிறிய அடி",
+      "en": ""
+     },
+     {
+      "ta": "4. யானைத் தந்தம்",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "மருப்பு - யானைத் தந்தம் (4), விரகு - தந்திரம் (2), மருகன் - வழிவந்தோன் (1), சீரடி - சிறிய அடி (3).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 62,
+   "part": "A",
+   "unit": "A2",
+   "topic": "meanings",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "1 2 3 4",
+     "en": ""
+    },
+    "B": {
+     "ta": "2 4 3 1",
+     "en": ""
+    },
+    "C": {
+     "ta": "4 3 2 1",
+     "en": ""
+    },
+    "D": {
+     "ta": "3 1 4 2",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) மாணி",
+      "en": ""
+     },
+     {
+      "ta": "(b) மானி",
+      "en": ""
+     },
+     {
+      "ta": "(c) கனகம்",
+      "en": ""
+     },
+     {
+      "ta": "(d) கநகம்",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. பொன்",
+      "en": ""
+     },
+     {
+      "ta": "2. குள்ளன்",
+      "en": ""
+     },
+     {
+      "ta": "3. படை",
+      "en": ""
+     },
+     {
+      "ta": "4. மாமன்",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "மாணி - குள்ளன் (2), மானி - மாமன் (4), கனகம் - படை (3), கநகம் - பொன் (1).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 63,
+   "part": "A",
+   "unit": "A1",
+   "topic": "sandhi",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சேர்த்து எழுதுக.\nபலா + அருமை",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "பலாஅருமை",
+     "en": ""
+    },
+    "B": {
+     "ta": "பலஅருமை",
+     "en": ""
+    },
+    "C": {
+     "ta": "பலாவருமை",
+     "en": ""
+    },
+    "D": {
+     "ta": "பலாப்பழம் அருமை",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "உயிர்வருவழி உடம்படுமெய் பெற்றது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 64,
+   "part": "A",
+   "unit": "A1",
+   "topic": "sandhi",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பிரித்து எழுதுக.\n\"கங்கௌகம்\" - என்னும் சொல்லைப் பிரித்து எழுதுக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கங் + கௌகம்",
+     "en": ""
+    },
+    "B": {
+     "ta": "கங்கு + ஒகம்",
+     "en": ""
+    },
+    "C": {
+     "ta": "கங்க + ஒகம்",
+     "en": ""
+    },
+    "D": {
+     "ta": "கங்கா + ஒகம்",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "கங்கா + ஒகம் = கங்கௌகம் (அகர இவாரம் ஐகாரமாகும், அகர உகாரம் ஒளகாரமாகும் - இஃது ஒரு வடமொழிப் புணர்ச்சி).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 65,
+   "part": "A",
+   "unit": "A2",
+   "topic": "meanings",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"கோறல், கொல்லுதல்\" - போன்ற பொருள்களைத் தரக்கூடிய ஒரு சொல்லைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "ஆடல்",
+     "en": ""
+    },
+    "B": {
+     "ta": "அறவு",
+     "en": ""
+    },
+    "C": {
+     "ta": "ஆடு",
+     "en": ""
+    },
+    "D": {
+     "ta": "அடுதல்",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "அடுதல் என்றால் கொல்லுதல், கோறல் என்று பொருள்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 66,
+   "part": "A",
+   "unit": "A2",
+   "topic": "one-letter-words",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பறவை, பூ, நீக்கம், அழிவு ஆகிய பொருள்களைத் தரும் ஓர் எழுத்து",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கா",
+     "en": ""
+    },
+    "B": {
+     "ta": "வீ",
+     "en": ""
+    },
+    "C": {
+     "ta": "பூ",
+     "en": ""
+    },
+    "D": {
+     "ta": "மா",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "வீ என்னும் ஓரெழுத்து ஒருமொழி பறவை, மலர், நீக்கம், அழிவு போன்ற பொருள்களைத் தரும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 67,
+   "part": "A",
+   "unit": "A2",
+   "topic": "vocabulary",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "நா்ட்டில் பின்னால் நிகழப்போவதை முன்னரே அறிந்து கொள்பவரின் பெயர் _________________ என்ற பெயரால் அழைப்பர்.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "மறவி",
+     "en": ""
+    },
+    "B": {
+     "ta": "நீிறவர்",
+     "en": ""
+    },
+    "C": {
+     "ta": "மறதி",
+     "en": ""
+    },
+    "D": {
+     "ta": "நீரவர்",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "நாட்டின் பின்னால் நிகழ்வதை முன்னரே அறிந்து கொள்பவரை 'நீரவர்' என்று அழைப்பர்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 68,
+   "part": "A",
+   "unit": "A2",
+   "topic": "synonyms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "குதித்தல் - இணையான வேறு சொல்லறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "படிதல்",
+     "en": ""
+    },
+    "B": {
+     "ta": "குடியமர்தல்",
+     "en": ""
+    },
+    "C": {
+     "ta": "ஒழுங்காதல்",
+     "en": ""
+    },
+    "D": {
+     "ta": "சீராதல்",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "குதித்தல் என்பதற்கு இணையான சொல் படிதல் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 69,
+   "part": "A",
+   "unit": "A3",
+   "topic": "ezhuthu-pizhai",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எழுத்துப் பிழையற்ற சொற்றொடரைத் தேர்க.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "எலும்பியிருக்க வேண்டுவன எழும்பி இனிதாகத் தோன்றும் அழகு",
+     "en": ""
+    },
+    "B": {
+     "ta": "எலும்பியிருக்க வேண்டுவன எலும்பி இனிதாகத் தோன்றும் அழகு",
+     "en": ""
+    },
+    "C": {
+     "ta": "எளும்பியிருக்க வேண்டுவன எளும்பி இனிதாகத் தோன்றும் அழகு",
+     "en": ""
+    },
+    "D": {
+     "ta": "இவை எதும் இல்லை",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "இத்தொடரில் எழுத்துப் பிழைகள் ஏதுமின்றி சரியான சொற்கள் பயன்படுத்தப்பட்டுள்ளன.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 70,
+   "part": "A",
+   "unit": "A2",
+   "topic": "synonyms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பொருத்தமானதைத் தேர்வு செய்க :\nமலை",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "வெற்பு, சிலம்பு, பொருப்பு",
+     "en": ""
+    },
+    "B": {
+     "ta": "பொழிவு, எழில், வனப்பு",
+     "en": ""
+    },
+    "C": {
+     "ta": "அருள், பரிவு, கருணை",
+     "en": ""
+    },
+    "D": {
+     "ta": "ஆதவன், பகலவன், ஞாயிறு",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "மலை என்பதன் இணையான சொற்கள் வெற்பு, சிலம்பு, பொருப்பு ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 71,
+   "part": "A",
+   "unit": "A2",
+   "topic": "homonyms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒலி வேறுபாடறிந்து சரியான பொருளைத் தேர்க :\nகலி, கഴി",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "போர், மிகுதி",
+     "en": ""
+    },
+    "B": {
+     "ta": "கலித்தல், கழித்தல்",
+     "en": ""
+    },
+    "C": {
+     "ta": "மகிழ்ச்சி, களித்தல்",
+     "en": ""
+    },
+    "D": {
+     "ta": "கலித்தொகை, மாவு களி",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "கலி - போர், கழி - மிகுதி.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 72,
+   "part": "A",
+   "unit": "A3",
+   "topic": "punctuation",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "அரைப்புள்ளி அமையும் இடங்கள் :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கூற்று சரி; காரணம் சரியன்று",
+     "en": ""
+    },
+    "B": {
+     "ta": "கூற்று சரியன்று; காரணம் சரி",
+     "en": ""
+    },
+    "C": {
+     "ta": "கூற்று, காரணம் இரண்டும் சரியன்று",
+     "en": ""
+    },
+    "D": {
+     "ta": "கூற்று, காரணம் இரண்டும் சரி",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "கூற்று : கபிலர் பாரியைக் கண்டார்; புகழ்ந்து பாடினார்; பரிசு பெற்றார்.",
+     "en": ""
+    },
+    {
+     "ta": "காரணம் : கபிலர் என்ற ஓர் எழுவாய் பல பயனநிலைகளைக் கொண்டு முடிந்துள்ளன.",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "ஒரே எழுவாய் பல பயனநிலைகளைக் கொண்டு முடியும் தொடர்களில் அரைப்புள்ளி வரும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 73,
+   "part": "A",
+   "unit": "A3",
+   "topic": "punctuation",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஆசிரியர் புகழினியளிடம் வந்து கேள்வி கேட்டுப் பதில் கூறுமாறு செய்தார் -\nஇவ்வாக்கியத்தில் சரியான இடத்தில் காற்புள்ளி இடுக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "ஆசிரியர் புகழினியளிடம் வந்து, கேள்வி கேட்டுப் பதில் கூறுமாறு செய்தார்.",
+     "en": ""
+    },
+    "B": {
+     "ta": "ஆசிரியர், புகழினியளிடம் வந்து, கேள்வி கேட்டுப் பதில் கூறுமாறு செய்தார்.",
+     "en": ""
+    },
+    "C": {
+     "ta": "ஆசிரியர் புகழினியளிடம் வந்து, கேள்வி கேட்டுப் பதில் கூறுமாறு, செய்தார்.",
+     "en": ""
+    },
+    "D": {
+     "ta": "ஆசிரியர் புகழினியளிடம், வந்து கேள்வி கேட்டுப் பதில் கூறுமாறு செய்தார்.",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "வினை எச்சத் தொடருக்குப் பின் காற்புள்ளி இட வேண்டும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 74,
+   "part": "A",
+   "unit": "A2",
+   "topic": "young-ones",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "4 3 2 1",
+     "en": ""
+    },
+    "B": {
+     "ta": "4 1 2 3",
+     "en": ""
+    },
+    "C": {
+     "ta": "4 2 1 3",
+     "en": ""
+    },
+    "D": {
+     "ta": "1 4 3 2",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) நவ்வி",
+      "en": ""
+     },
+     {
+      "ta": "(b) முதலை",
+      "en": ""
+     },
+     {
+      "ta": "(c) உடும்பு",
+      "en": ""
+     },
+     {
+      "ta": "(d) மீன், கெண்டை",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. சினை",
+      "en": ""
+     },
+     {
+      "ta": "2. ஓந்தி",
+      "en": ""
+     },
+     {
+      "ta": "3. பார்ப்பு",
+      "en": ""
+     },
+     {
+      "ta": "4. மறி",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "நவ்வி - மறி, முதலை - பார்ப்பு, உடும்பு - ஓந்தி, மீன், கெண்டை - சினை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 75,
+   "part": "A",
+   "unit": "A2",
+   "topic": "plant-parts",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "புல்லின் உறுப்பைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "தளிர்",
+     "en": ""
+    },
+    "B": {
+     "ta": "முறி",
+     "en": ""
+    },
+    "C": {
+     "ta": "குழை",
+     "en": ""
+    },
+    "D": {
+     "ta": "ஓலை",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "புல், கோரை ஆகியவற்றின் தமகம் 'ஓலை' எனப்படும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 76,
+   "part": "A",
+   "unit": "A1",
+   "topic": "grammar",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "அஃறிணைத் தொடரைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "மலர்கள் மலர்ந்தன",
+     "en": ""
+    },
+    "B": {
+     "ta": "மக்கள் கூடினர்",
+     "en": ""
+    },
+    "C": {
+     "ta": "மாணவர்கள் விளையாடினர்",
+     "en": ""
+    },
+    "D": {
+     "ta": "ஆசிரியர்கள் மகிழ்ந்தனர்",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "மலர்கள் மலர்ந்தன என்பது அஃறிணைத் தொடர் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 77,
+   "part": "A",
+   "unit": "A3",
+   "topic": "grammar",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒருமைப் பன்மை பிழையறிந்து சரியான தொடரறிதல்.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "அவர் கோவிலுக்குச் சென்றனர்.",
+     "en": ""
+    },
+    "B": {
+     "ta": "மரம் முறிந்து விழுந்தன.",
+     "en": ""
+    },
+    "C": {
+     "ta": "சீவகனிடம் விடாமுயற்சி இருந்தது.",
+     "en": ""
+    },
+    "D": {
+     "ta": "சிறுவர் தெருவில் ஓடி விளையாடினர்.",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "சீவகனிடம் விடாமுயற்சி இருந்தது என்பது பிழையற்ற சரியான தொடர்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 78,
+   "part": "A",
+   "unit": "A1",
+   "topic": "grammar-idaichol-thodar",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கீழ்க்காண்பவற்றுள் இடைச்சொல் தொடரைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கடி மணம்",
+     "en": ""
+    },
+    "B": {
+     "ta": "அழைத்தனர் உற்றார்",
+     "en": ""
+    },
+    "C": {
+     "ta": "நிலவோ காய்ந்தது",
+     "en": ""
+    },
+    "D": {
+     "ta": "அம்ம வாழி",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "அம்ம வாழி என்பதில் 'அம்ம' என்பது இடைச்சொல் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 79,
+   "part": "A",
+   "unit": "A3",
+   "topic": "sentence-arrangement",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சொற்களை ஒழுங்குபடுத்திச் சொற்றொடர் அமைத்தல் :\nபாடறிந்து ஒழுகுதல் பண்பு எனப்படுவது.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "பண்பு என்பது ஒழுகுதல் பாடறிந்து",
+     "en": ""
+    },
+    "B": {
+     "ta": "பண்பு என்பது பாடறிந்து ஒழுகுதல்",
+     "en": ""
+    },
+    "C": {
+     "ta": "பாடறிந்து பண்பு எனப்படுவது ஒழுகுதல்",
+     "en": ""
+    },
+    "D": {
+     "ta": "ஒழுகுதல் என்பது பண்பு பாடறிந்து",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "பண்பு என்பது பாடறிந்து ஒழுகுதல் என்பது திருக்குறள் கருத்திற்கேற்ப சரியான வரிசையாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 80,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஆங்கிலச் சொல்லுக்கு இணையான தமிழ்ச் சொல்லைக் கண்டறிக.\nVisual Scanner",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "காட்சிப் பக்கம்",
+     "en": ""
+    },
+    "B": {
+     "ta": "படப்பிடிப்பு",
+     "en": ""
+    },
+    "C": {
+     "ta": "கட்புலமேவி",
+     "en": ""
+    },
+    "D": {
+     "ta": "காட்சி உணர்தல்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Visual Scanner என்பதன் தமிழ்ச் சொல் கட்புலமேவி ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 81,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பொறியியலில் \"Anchorage\" - என்னும் ஆங்கிலச் சொல்லிற்குக் கலைச்சொல் தருக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "நேர்கோட்டு வைப்பு",
+     "en": ""
+    },
+    "B": {
+     "ta": "ஊன்றுதளை",
+     "en": ""
+    },
+    "C": {
+     "ta": "வெட்டுமுகம்",
+     "en": ""
+    },
+    "D": {
+     "ta": "நீர்க்குழல்",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Anchorage என்பதன் கலைச்சொல் ஊன்றுதளை ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 82,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"Monopoly Control\" என்ற கலைச்சொல்லிற்கான தமிழ்ச் சொல்லைத் தருக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "தனி ஆதிக்க விலை",
+     "en": ""
+    },
+    "B": {
+     "ta": "தனி வல்லாண்மைக் கட்டுப்பாடு",
+     "en": ""
+    },
+    "C": {
+     "ta": "தனி வல்லாளர்",
+     "en": ""
+    },
+    "D": {
+     "ta": "தனி வரைவு கட்டுப்பாடு",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Monopoly Control என்பதன் தமிழ்ச் சொல் தனி வல்லாண்மைக் கட்டுப்பாடு ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 83,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "3 4 2 1",
+     "en": ""
+    },
+    "B": {
+     "ta": "3 4 1 2",
+     "en": ""
+    },
+    "C": {
+     "ta": "2 4 1 3",
+     "en": ""
+    },
+    "D": {
+     "ta": "2 3 4 1",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) Abulia",
+      "en": ""
+     },
+     {
+      "ta": "(b) Acomia",
+      "en": ""
+     },
+     {
+      "ta": "(c) Abscess",
+      "en": ""
+     },
+     {
+      "ta": "(d) Alopecia Universalis",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. சீழ்கட்டி",
+      "en": ""
+     },
+     {
+      "ta": "2. உடல் வழுக்கை",
+      "en": ""
+     },
+     {
+      "ta": "3. மன உறுதிக் குறைபாடு",
+      "en": ""
+     },
+     {
+      "ta": "4. தலை வழுக்கை",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "Abulia - மன உறுதிக் குறைபாடு, Acomia - தலை வழுக்கை, Abscess - சீழ்கட்டி, Alopecia Universalis - உடல் வழுக்கை. எனவே (B) சரியான விடை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 84,
+   "part": "B",
+   "unit": "B6",
+   "topic": "tn-geography",
+   "format": "PASSAGE",
+   "stem": {
+    "ta": "'தென்னிந்தியாவின் ஸ்பா' என்றழைக்கப்படும் அருவியைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "ஆகாயங்கை அருவி",
+     "en": ""
+    },
+    "B": {
+     "ta": "கேத்ரின் அருவி",
+     "en": ""
+    },
+    "C": {
+     "ta": "சுருளி அருவி",
+     "en": ""
+    },
+    "D": {
+     "ta": "குற்றால அருவி",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "'தென்னிந்தியாவின் ஸ்பா' என்று அழைக்கப்படும் குற்றாலம் நவீன வசதிகளுடன் ரூ. 15.00 கோடி மதிப்பீட்டில் மேம்படுத்தப்படும். பெயரைச் சொல்லும்போதே உற்சாகம் பிறக்கும். மேற்குத் தொடர்ச்சி மலையின் அருவிகள் நிறைந்த பகுதி குற்றாலம். தென்காசி மாவட்டத்தில் அமைந்துள்ள 'தென்னிந்தியாவின் ஸ்பா' என்று அழைக்கப்படும் மருத்துவ குணம் வாய்ந்த குற்றால அருவிகளில் குளிப்பதற்கு ஏராளமான சுற்றுலாப் பயணிகள் வருகை புரிகின்றனர். சுற்றுலா தல மேம்பாட்டுத் திட்டத்தின் கீழ் குற்றாலத்திற்கு வருகை புரியும் சுற்றுலாப் பயணிகளுக்கு பல்வேறு வசதிகள் ஏற்படுத்த ரூ. 15.00 கோடி மதிப்பீட்டில் திட்டப்பணிகள் மேற்கொள்ளப்படும்.",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "படிக்கப்பட்ட பத்தியின்படி, 'தென்னிந்தியாவின் ஸ்பா' என அழைக்கப்படுவது குற்றாலம் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 85,
+   "part": "B",
+   "unit": "B5",
+   "topic": "tn-administration",
+   "format": "PASSAGE",
+   "stem": {
+    "ta": "'கனவு இல்லத் திட்டத்தின்' சார்பாக ஒவ்வொரு நிதியாண்டிலும் எத்தனை விருட்டாள்பர்களுக்கு இல்லம் வழங்கப்படுகிறது என்பதைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "9",
+     "en": ""
+    },
+    "B": {
+     "ta": "17",
+     "en": ""
+    },
+    "C": {
+     "ta": "8",
+     "en": ""
+    },
+    "D": {
+     "ta": "10",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "தமிழ் வளர்ச்சித் துறை - கொள்கை விளக்கக் குறிப்பு 2024-2025 \n1.6 - கனவு இல்லம் :\nமுத்தமிழறிஞர் கலைஞர் அவர்களின் 97-வது பிறந்த நாளை முன்னிட்டு \"கனவு இல்லம் திட்டம்\" தமிழ்நாடு அரசால் அறிவிக்கப்பட்டு, சாகித்திய அகாதெமி, ஞானபீட விருது, தொல்காப்பியர் விருது, கலைஞர் மு. கருணாநிதி செம்மொழித் தமிழ் விருது (தமிழ்நாட்டைச் சேர்ந்தவருக்கு மட்டும்) மற்றும் நோபல் பரிசு இலக்கியம் (தமிழ்மொழி மற்றும் தமிழ் இலக்கியப் பணிகளுக்கு பெற்றிருப்பின்) ஆகிய விருதுகளைப் பெற்ற விருட்டாள்களுக்கு 2021-2022-ஆம் நிதியாண்டு முதல் செயல்படுத்தப்பட்டு வருகிறது. இத்திட்டத்தின்படி ஒவ்வொரு நிதியாண்டிலும் அதிகபட்சமாக 10 விருட்டாள்களுக்கு வீடு வழங்கப்படுகிறது.",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "கொள்கை விளக்கக் குறிப்பின்படி, ஒவ்வொரு நிதியாண்டிலும் அதிகபட்சமாக 10 விருட்டாள்களுக்கு வீடு வழங்கப்படுகிறது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 86,
+   "part": "A",
+   "unit": "A5",
+   "topic": "proverbs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"கடுகு சிறுத்தாலும் காரம் போகுமோ?\" எனும் பழமொழியின் பொருள் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "பெருமை",
+     "en": ""
+    },
+    "B": {
+     "ta": "கர்வம",
+     "en": ""
+    },
+    "C": {
+     "ta": "குறைத்து மதிப்பிடாதே",
+     "en": ""
+    },
+    "D": {
+     "ta": "புகழ்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "இப்பழமொழி அளவில் சிறியதாக இருந்தாலும் திறனில் பெரியது என்பதைக் குறிப்பதால் 'குறைத்து மதிப்பிடாதே' என்பது சரியாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 87,
+   "part": "A",
+   "unit": "A3",
+   "topic": "idioms-match",
+   "format": "MATCH",
+   "stem": {
+    "ta": "மரபு தொடருக்கு ஏற்ற பொருளைப் பொருத்துக :",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "4 3 2 1",
+     "en": ""
+    },
+    "B": {
+     "ta": "4 1 2 3",
+     "en": ""
+    },
+    "C": {
+     "ta": "4 2 3 1",
+     "en": ""
+    },
+    "D": {
+     "ta": "3 4 2 1",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) கடன் கழித்தல்",
+      "en": ""
+     },
+     {
+      "ta": "(b) கடை விரித்தல்",
+      "en": ""
+     },
+     {
+      "ta": "(c) கட்சைக் கட்டுதல்",
+      "en": ""
+     },
+     {
+      "ta": "(d) கக்கல் கரிசல்",
+      "en": ""
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. கலங்கல் நீர்",
+      "en": ""
+     },
+     {
+      "ta": "2. முரண்படுதல்",
+      "en": ""
+     },
+     {
+      "ta": "3. தன் ஆற்றலைச் சொல்லுதல்",
+      "en": ""
+     },
+     {
+      "ta": "4. மனமின்றிச் செய்தல்",
+      "en": ""
+     }
+    ]
+   },
+   "explain": {
+    "ta": "கடன் கழித்தல் - மனமின்றிச் செய்தல் (4), கடை விரித்தல் - தன் ஆற்றலைச் சொல்லுதல் (3), கட்சைக் கட்டுதல் - முரண்படுதல் (2), கக்கல் கரிசல் - கலங்கல் நீர் (1).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 88,
+   "part": "A",
+   "unit": "A5",
+   "topic": "idiom-meaning",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"வேளைப் பிசகு\" - எனும் மரபுத் தொடரின் பொருள் தேர்க.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "நல்ல காலம்",
+     "en": ""
+    },
+    "B": {
+     "ta": "தீய காலம்",
+     "en": ""
+    },
+    "C": {
+     "ta": "கடந்த காலம்",
+     "en": ""
+    },
+    "D": {
+     "ta": "வரும் காலம்",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "வேளைப் பிசகு என்பது ஆபத்தான அல்லது தீய காலத்தைக் குறிக்கும் மரபுத் தொடர் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 89,
+   "part": "A",
+   "unit": "A5",
+   "topic": "simile-meaning",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'ஆப்பசைத்துக் குரங்கதனைப் போல' என்ற உவமைத்தொடர் உணர்த்தும் சரியான பொருளைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "இன்பம்",
+     "en": ""
+    },
+    "B": {
+     "ta": "ஏக்கம்",
+     "en": ""
+    },
+    "C": {
+     "ta": "வேகம்",
+     "en": ""
+    },
+    "D": {
+     "ta": "வேதனை",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "ஆப்பசைத்துக் குரங்கதனைப் போல என்பது தமக்குத் தாமэ துன்பமும் வேதனையும் தேடிக் கொள்வதைக் குறிக்கும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 90,
+   "part": "A",
+   "unit": "A5",
+   "topic": "reading-comprehension",
+   "format": "PASSAGE",
+   "stem": {
+    "ta": "சுதேசி நாவாய்ச் சங்கத்தை நிறுவியவர் யார்?",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "வ.உ. சிதம்பரம்னார்",
+     "en": ""
+    },
+    "B": {
+     "ta": "பாரதியார்",
+     "en": ""
+    },
+    "C": {
+     "ta": "சுபாஷ் சந்திரபோஸ்",
+     "en": ""
+    },
+    "D": {
+     "ta": "பாரதிதாசன்",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "பத்தியின்படி சுதேசி நாவாய்ச் சங்கத்தை நிறுவியவர் வ.உ. சிதம்பரம்னார் ஆவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 91,
+   "part": "A",
+   "unit": "A5",
+   "topic": "reading-comprehension",
+   "format": "PASSAGE",
+   "stem": {
+    "ta": "வ.உ.சி. சென்னைக்குச் செல்லும்போது யாரைச் சந்திப்பதை வழக்கமாகக் கொண்டிருந்தார்?",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "நேதாஜி",
+     "en": ""
+    },
+    "B": {
+     "ta": "பாரதியார்",
+     "en": ""
+    },
+    "C": {
+     "ta": "பாரதிதாசன்",
+     "en": ""
+    },
+    "D": {
+     "ta": "திரு.வி.க.",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "பத்தியின்படி வ.உ.சி. சென்னைக்குச் செல்லும் போது பாரதியாரைச் சந்திப்பதை வழக்கமாகக் கொண்டிருந்தார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 92,
+   "part": "A",
+   "unit": "A5",
+   "topic": "reading-comprehension",
+   "format": "PASSAGE",
+   "stem": {
+    "ta": "வ.உ.சி. அவர்கள் புலமை பெற்றிருந்த மொழிகள் யாவை?",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "சமஸ்கிருதம், தமிழ்",
+     "en": ""
+    },
+    "B": {
+     "ta": "ஆங்கிலம், கன்னடம்",
+     "en": ""
+    },
+    "C": {
+     "ta": "தமிழ், ஆங்கிலம்",
+     "en": ""
+    },
+    "D": {
+     "ta": "மலையாளம், தமிழ்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "பத்தியின்படி வ.உ.சி. அவர்கள் தமிழிலும் ஆங்கிலத்திலும் புலமை பெற்றிருந்தார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 93,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "Proposal எனும் சொல்லிற்கான இணையான சொல்லைத் தருக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "உண்மை உரு",
+     "en": ""
+    },
+    "B": {
+     "ta": "பொய் உரு",
+     "en": ""
+    },
+    "C": {
+     "ta": "கருத்துரு",
+     "en": ""
+    },
+    "D": {
+     "ta": "எண்ண உரு",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Proposal என்பதன் சரியான கலைச்சொல் கருத்துரு ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 94,
+   "part": "A",
+   "unit": "A4",
+   "topic": "technical-terms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"Irrigation Technology\" - என்னும் ஆங்கிலச் சொல்லுக்கு இணையான தமிழ்ச் சொல்லறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "தகவல் தொழில்நுட்பம்",
+     "en": ""
+    },
+    "B": {
+     "ta": "குழலியல் தொழில்நுட்பம்",
+     "en": ""
+    },
+    "C": {
+     "ta": "நீர்ப்பாசனத் தொழில்நுட்பம்",
+     "en": ""
+    },
+    "D": {
+     "ta": "வெப்ப மண்டலத் தொழில்நுட்பம்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Irrigation Technology என்பதன் தமிழ்ச் சொல் நீர்ப்பாசனத் தொழில்நுட்பம் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 95,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-scholars",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"தமிழக அரசியல் வானில் கவ்வியிருந்த காரிருளை அகற்ற வந்த ஒளிக்கதிராகக் காயிதே மில்லத் முகமது இஸ்மாயில் திகழ்கிறார்\" - என்று புகழ்ந்துரைத்தவரைக் கண்டறிக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "தந்தை பெரியார்",
+     "en": ""
+    },
+    "B": {
+     "ta": "அறிஞர் அண்ணா",
+     "en": ""
+    },
+    "C": {
+     "ta": "ம.பொ. சிவஞானம்",
+     "en": ""
+    },
+    "D": {
+     "ta": "ப. ஜீவானந்தம்",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "காயிதே மில்லத் அவர்களை இவ்வாறு புகழ்ந்தவர் அறிஞர் அண்ணா ஆவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 96,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-scholars",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "தி.கே. சிதம்பரநாதனுடன் தொடர்பில்லாதது எது?",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மட்டும்",
+     "en": ""
+    },
+    "B": {
+     "ta": "(2) மட்டும்",
+     "en": ""
+    },
+    "C": {
+     "ta": "(3) மட்டும்",
+     "en": ""
+    },
+    "D": {
+     "ta": "(4) மட்டும்",
+     "en": ""
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "தமிழ் எழுத்தாளர்",
+     "en": ""
+    },
+    {
+     "ta": "திறனாய்வாளர்",
+     "en": ""
+    },
+    {
+     "ta": "வழக்கறிஞர்",
+     "en": ""
+    },
+    {
+     "ta": "பேராசிரியர்",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "தி.கே.சி (தி.கே. சிதம்பரநாதனார்) வழக்கறிஞராகவும், எழுத்தாளராகவும், திறனாய்வாளராகவும் விளங்கினார்; பேராசிரியர் அல்ல.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 98,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-literature",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "கீழ்க்கண்டவற்றுள் தவறான ஒன்றைத் தேர்வு செய்யவும்.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மட்டும்",
+     "en": ""
+    },
+    "B": {
+     "ta": "(2) மட்டும்",
+     "en": ""
+    },
+    "C": {
+     "ta": "(3) மட்டும்",
+     "en": ""
+    },
+    "D": {
+     "ta": "(4) மட்டும்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "இந்தியாவில் பேசப்படும் மொழிகளின் எண்ணிக்கை 1300க்கும் மேற்பட்டது.",
+     "en": ""
+    },
+    {
+     "ta": "பல கிளை மொழிகளும் இந்தியாவில் பேசப்படுவதால் இந்தியநாடு மொழிகளின் காட்சிசாலையாகத் திகழ்கிறது.",
+     "en": ""
+    },
+    {
+     "ta": "திராவிடம் என்னும் சொல்லை முதலில் குறிப்பிட்டவர் ஹீராஸ் பாதிரியார்.",
+     "en": ""
+    },
+    {
+     "ta": "திராவிட மொழிக் குடும்பம், மொழிகள் பரவிய நில அடிப்படையில் மூன்றாக வகைப்படுத்தப்பட்டுள்ளது.",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "'திராவிடம்' என்னும் சொல்லை முதன்முதலில் குறிப்பிட்டவர் குமரில பட்டர் ஆவார். எனவே கூற்று (3) தவறு.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 99,
+   "part": "A",
+   "unit": "A7",
+   "topic": "literature",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'நான்மணிக்கடிகை' என்ற நூலை இயற்றிய ஆசிரியரின் இயற்பெயைச் சுட்டுக.",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "நயனார்",
+     "en": ""
+    },
+    "B": {
+     "ta": "நல்லந்துவனார்",
+     "en": ""
+    },
+    "C": {
+     "ta": "நாகனார்",
+     "en": ""
+    },
+    "D": {
+     "ta": "சேந்தனார்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "நான்மணிக்கடிகையை இயற்றிய விளம்பி நாகனாரின் இயற்பெயர் நாகனார் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 100,
+   "part": "A",
+   "unit": "A7",
+   "topic": "thirukkural",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'மண்ணோடியைந்த மரத்தனையர்' என வள்ளுவர் யாரைச் சுட்டுகிறார்?",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "மனமார விருந்தினரை உபசரியாதவர்",
+     "en": ""
+    },
+    "B": {
+     "ta": "பண்புடன் பழகாதவர்",
+     "en": ""
+    },
+    "C": {
+     "ta": "இரக்கம் இல்லாதவர்",
+     "en": ""
+    },
+    "D": {
+     "ta": "மேடைக்கு அஞ்சிச் சொல்ல மாட்டாதவர்",
+     "en": ""
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "இரக்கம் இல்லாதவரை 'மண்ணோடியைந்த மரத்தனையர்' என்று வள்ளுவர் குறிப்பிடுகிறார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 101,
+   "part": "B",
+   "unit": "B5",
+   "topic": "social-welfare-schemes",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்காண்பவற்றை சரியாக பொருத்துக.",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "2 3 1 4",
+     "en": "2 3 1 4"
+    },
+    "B": {
+     "ta": "4 2 3 1",
+     "en": "4 2 3 1"
+    },
+    "C": {
+     "ta": "3 4 2 1",
+     "en": "3 4 2 1"
+    },
+    "D": {
+     "ta": "2 4 1 3",
+     "en": "2 4 1 3"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "சார்ந்திருக்கும் குழந்தைகளுக்கு நிதிஉதவி",
+      "en": "Financial Assistance to Dependent children"
+     },
+     {
+      "ta": "ஆதரவற்ற மற்றும் அநாதை சிறுமிகளை பராமரித்தல்",
+      "en": "Maintenance of Orphan and Destitute Girls"
+     },
+     {
+      "ta": "வளர்ப்பு மற்றும் பராமரிப்பு சேவைகள் திட்டம்",
+      "en": "Foster Care Services Scheme"
+     },
+     {
+      "ta": "சிறுவர்களுக்கான பராமரிப்பு இல்லம்",
+      "en": "State After-Care Home for Boys"
+     }
+    ],
+    "right": [
+     {
+      "ta": "18 மற்றும் 21 வயதுக்கு இடைப்பட்டவர்கள்",
+      "en": "Between the age group of 18 and 21 years"
+     },
+     {
+      "ta": "ஆதரவற்ற, கைவிடப்பட்ட மற்றும் தனியான சிறுவர்களுக்கு வழங்குதல்",
+      "en": "Providing destitute, orphan and unattached children"
+     },
+     {
+      "ta": "16 வயதுக்கு உட்பட்ட சிறுவர்கள்",
+      "en": "Children below the age of 16 years"
+     },
+     {
+      "ta": "6 மற்றும் 16 வயதுக்கு உட்பட்ட சிறுவர்கள்",
+      "en": "Children between the age of 6 and 16 years"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சமூக நல திட்டங்களின் பயனாளிகளின் வயது வரம்புகள் மற்றும் சேவைகளின் அடிப்படையில் சரியான பொருத்தம் 3 4 2 1 ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 102,
+   "part": "B",
+   "unit": "B5",
+   "topic": "tamilnadu-economy",
+   "format": "CHRONOLOGY",
+   "stem": {
+    "ta": "2024-2025 ஆம் ஆண்டைய தமிழ்நாடு பொருளாதார ஆய்வறிக்கையின் படி, அதன் உற்பத்தித்திறனை பொறுத்து பின்வருவனவற்றை ஏறுவரிசையில் வரிசைப்படுத்துங்கள்.",
+    "en": "As per the Tamilnadu Economic Survey of 2024-2025. Arrange the following in the ascending order based on the productivity."
+   },
+   "options": {
+    "A": {
+     "ta": "(1) (2) (3)",
+     "en": "(1) (2) (3)"
+    },
+    "B": {
+     "ta": "(3) (2) (1)",
+     "en": "(3) (2) (1)"
+    },
+    "C": {
+     "ta": "(2) (1) (3)",
+     "en": "(2) (1) (3)"
+    },
+    "D": {
+     "ta": "(3) (1) (2)",
+     "en": "(3) (1) (2)"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) நெல் உற்பத்தித்திறன்",
+     "en": "(1) Paddy productivity"
+    },
+    {
+     "ta": "(2) மக்காச்சோளம் உற்பத்தித்திறன்",
+     "en": "(2) Maize productivity"
+    },
+    {
+     "ta": "(3) எண்ணெய் வித்துக்கள், நிலக்கடலை மற்றும் கரும்பு உற்பத்தித்திறன்",
+     "en": "(3) Oil seeds, Groundnut and Sugarcane productivity"
+    }
+   ],
+   "explain": {
+    "ta": "பொருளாதார ஆய்வறிக்கையின்படி ஏறுவரிசை (1), (2), (3) ஆகும்.",
+    "en": "According to the economic survey, the ascending order is (1), (2), (3)."
+   }
+  },
+  {
+   "qNo": 103,
+   "part": "B",
+   "unit": "B5",
+   "topic": "tnhsrp-statements",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "தமிழ்நாடு சுகாதார அமைப்பு சீர்திருத்தத் திட்டம் (TNHSRP) பற்றிய தவறான கூற்றினை கண்டறிக.",
+    "en": "Find out the Incorrect statement(s) about the Tamilnadu Health System Reform Program (TNHSRP)"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "B": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    },
+    "C": {
+     "ta": "(ii) மற்றும் (iv) மட்டும்",
+     "en": "(ii) and (iv) only"
+    },
+    "D": {
+     "ta": "(iii) மட்டும்",
+     "en": "(iii) only"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "இத்திட்டத்திற்கு உலக வங்கி ஆதரவு அளிக்கின்றது.",
+     "en": "This program was supported by World Bank."
+    },
+    {
+     "ta": "இந்த திட்டம் மத்திய மாநில அரசாங்கத்தால் 60 : 40 என்ற விகிதத்தில் பயன்பாட்டு நிதிஉதவி வழங்கப்படுகிறது.",
+     "en": "This program is sponsored by the Central and State Government in the ratio of 60 : 40."
+    },
+    {
+     "ta": "இந்த முடிவு அடிப்படையில் அமைந்த திட்டத்தினை தமிழ்நாட்டின் சுகாதாரம் மற்றும் குடும்ப நலத்துறையால் செயல்படுத்தப்படுகிறது.",
+     "en": "It is implemented by the Department of Health and Family Welfare of Tamilnadu on Program for Results basis."
+    },
+    {
+     "ta": "இந்த திட்டம் SDG 9 ஐ இலக்காக அடைவதை நோக்கமாக கொண்டுள்ளது.",
+     "en": "This program aims to achieve the goal of SDG 9."
+    }
+   ],
+   "explain": {
+    "ta": "TNHSRP திட்டத்தில் (ii) மற்றும் (iv) கூற்றுகள் தவறானவை ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 105,
+   "part": "B",
+   "unit": "B4",
+   "topic": "polity-matches",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பின்வருவனவற்றில் தவறாக பொருத்தப்பட்டுள்ளவற்றை கண்டறிக.",
+    "en": "Identify the incorrectly paired matches :"
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மற்றும் (3)",
+     "en": "(1) and (3)"
+    },
+    "B": {
+     "ta": "(2) மற்றும் (4)",
+     "en": "(2) and (4)"
+    },
+    "C": {
+     "ta": "(3) மற்றும் (4)",
+     "en": "(3) and (4)"
+    },
+    "D": {
+     "ta": "(4) மற்றும் (1)",
+     "en": "(4) and (1)"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) லோக்பால் மற்றும் லோக் ஆயுக்தா சட்டம் - நடைமுறைக்கு வந்த காலம் - ஜனவரி 16, 2014",
+     "en": "(1) Lokpal and Lokayuktas Act came into force - January 16th, 2014"
+    },
+    {
+     "ta": "(2) தமிழ் செம்மொழியாக அறிவிக்கப்பட்டது - அக்டோபர் 10, 2004",
+     "en": "(2) Tamil declared as Classical Language - Oct 10, 2004"
+    },
+    {
+     "ta": "(3) இந்தியத் தேர்தல் ஆணையம் - சட்டப்பிறிவு 324",
+     "en": "(3) Election Commission of India - Article 324"
+    },
+    {
+     "ta": "(4) இந்திய தேசிய ஒருங்கிணைப்பு ஆணையம் - 1960",
+     "en": "(4) National Integration Council in India - 1960"
+    }
+   ]
+  },
+  {
+   "qNo": 106,
+   "part": "B",
+   "unit": "B5",
+   "topic": "surya-ghar-yojana",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "“சூரிய கார் முஃப்ப்ட் பிஜிலி யோஜனா” என்ற திட்டத்தின் நோக்கமானது",
+    "en": "The purpose of “Surya Ghar Muft Bijli Yojana” is"
+   },
+   "options": {
+    "A": {
+     "ta": "வீட்டுக்கூரைகளில் சூரிய ஒளி மின்சாரம் நிறுவுவது",
+     "en": "Installing roof top solar"
+    },
+    "B": {
+     "ta": "ஏழைகளுக்கான வீடுகள் வழங்குவது",
+     "en": "Providing Houses to the poor"
+    },
+    "C": {
+     "ta": "வயது வந்தோருக்கான காப்பீடு வழங்குவது",
+     "en": "Insurance to old age people"
+    },
+    "D": {
+     "ta": "சிறிய தொழற்சாலைகளுக்கு நிதி வழங்குவது",
+     "en": "Financing to small industries"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true
+  },
+  {
+   "qNo": 109,
+   "part": "B",
+   "unit": "B5",
+   "topic": "finance-ministers-chronology",
+   "format": "CHRONOLOGY",
+   "stem": {
+    "ta": "கீழ்க்கண்ட தமிழ்நாடு நிதி அமைச்சர்களை அவர்களின் பட்ஜெட் ஆண்டை அடிப்படையாகக் கொண்டு காலவரிசைப்படி வரிசைப்படுத்துக.",
+    "en": "Arrange the following Finance Ministers of Tamil Nadu according to the Budget Year (Chronological Order)"
+   },
+   "options": {
+    "A": {
+     "ta": "1 2 3 4",
+     "en": "1 2 3 4"
+    },
+    "B": {
+     "ta": "4 3 2 1",
+     "en": "4 3 2 1"
+    },
+    "C": {
+     "ta": "2 1 3 4",
+     "en": "2 1 3 4"
+    },
+    "D": {
+     "ta": "1 4 2 3",
+     "en": "1 4 2 3"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "1. திரு. பன்னீர் செல்வம்\n2. டாக்டர். நெடுஞ்செழியன்\n3. திரு. பழனிவேல் தியாகராஜன்\n4. திரு. தங்கம் தென்னரசு",
+     "en": "1. Mr. Paneerselvam\n2. Dr. Nedunchezhiyan\n3. Mr. Palanivel Thiagarajan\n4. Mr. Thangam Thennarasu"
+    }
+   ],
+   "explain": {
+    "ta": "டாக்டர் நெடுஞ்செழியன், திரு. பன்னீர் செல்வம், திரு. பழனிவேல் தியாகராஜன், திரு. தங்கம் தென்னரசு என்ற காலவரிசைப்படி அவர்கள் நிதி அமைச்சராகப் பணியாற்றியுள்ளனர்.",
+    "en": "Dr. Nedunchezhiyan served earlier followed by Mr. O. Paneerselvam, Mr. Palanivel Thiagarajan, and Mr. Thangam Thennarasu chronologically."
+   }
+  },
+  {
+   "qNo": 112,
+   "part": "A",
+   "unit": "A7",
+   "topic": "thirukkural",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "திருக்குறளில் அமைந்துள்ள துறவறவியல் அதிகாரத்தின் எண்ணைக் குறிப்பிடுக.",
+    "en": "Give the chapter No. _________ in Thirukkural that talks about Ascetic Virtues."
+   },
+   "options": {
+    "A": {
+     "ta": "18",
+     "en": "18"
+    },
+    "B": {
+     "ta": "13",
+     "en": "13"
+    },
+    "C": {
+     "ta": "12",
+     "en": "12"
+    },
+    "D": {
+     "ta": "16",
+     "en": "16"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "துறவறவியல் என்பது திருக்குறளில் பாயிரவியலுக்குப் பின் உள்ள இரண்டாவது இயலாகும், இது 13 அதிகாரங்களைக் கொண்டுள்ளது.",
+    "en": "Ascetic Virtues (Thuravaram) in Thirukkural contains 13 chapters."
+   }
+  },
+  {
+   "qNo": 113,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-scholars",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "“வள்ளுவரும் குறளும்” என்ற நூலின் ஆசிரியர்",
+    "en": "Who is the author of \"Valluvarum Kuralum\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "தமிழண்ணல்",
+     "en": "Tamilannal"
+    },
+    "B": {
+     "ta": "கி.ஆ.பெ. விசுவநாதம்",
+     "en": "Ki.Aa.Pe. Vishwanatham"
+    },
+    "C": {
+     "ta": "ரா.பி. சேதுப்பிள்ளை",
+     "en": "Ra.Pi. Sethupillai"
+    },
+    "D": {
+     "ta": "திரு.வி. கலியாண சுந்தரனார்",
+     "en": "Thiru.Vi. Kalyanasundaram"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "வள்ளுவரும் குறளும் நூலை எழுதியவர் கி.ஆ.பெ. விசுவநாதம் ஆவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 114,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-scholars",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "திருவள்ளுவர் உருவத்தினை முதன் முதலில் ஓவியமாக வரைந்தவர்",
+    "en": "Who was the first to draw the portrait of Thiruvalluvar?"
+   },
+   "options": {
+    "A": {
+     "ta": "வேங்கட கிருஷ்ணபண்டிதர்",
+     "en": "Venkata Krishna Pandithar"
+    },
+    "B": {
+     "ta": "வேணுகோபால சர்மா",
+     "en": "Venugopala Sharma"
+    },
+    "C": {
+     "ta": "சாமிநாத சர்மா",
+     "en": "Saminatha Sharma"
+    },
+    "D": {
+     "ta": "வண்ணச்சரப தீட்சிதர்",
+     "en": "Vannacharaba Dheetchithar"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "திருவள்ளுவரின் தற்காலப் புகழ்பெற்ற ஓவியத்தை வரைந்தவர் கே. வேணுகோபால சர்மா ஆவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 115,
+   "part": "B",
+   "unit": "B6",
+   "topic": "newspapers-and-editors",
+   "format": "MATCH",
+   "stem": {
+    "ta": "சரியான இணையை கண்டறிக.",
+    "en": "Choose the right matches."
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மற்றும் (2) சரி",
+     "en": "(1) and (2) are correct"
+    },
+    "B": {
+     "ta": "(2) மற்றும் (3) சரி",
+     "en": "(2) and (3) are correct"
+    },
+    "C": {
+     "ta": "(3) மற்றும் (4) சரி",
+     "en": "(3) and (4) are correct"
+    },
+    "D": {
+     "ta": "(1) மற்றும் (4) சரி",
+     "en": "(1) and (4) are correct"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) நியூ இந்தியா - பாரதியார்\n(2) தேசபக்தன் - வ.வே. சுப்பிரமணியன்\n(3) நவசக்தி - திரு.வி. கலியாணசுந்தரம்\n(4) தி இந்து - G. சுப்பிரமணியம்",
+     "en": "(1) New India - Bharathi\n(2) Thesapakthan - V.V. Subramanian\n(3) Nava Sakthi - Thiru. V. Kalyanasundaram\n(4) The Hindu - G. Subramaniam"
+    }
+   ],
+   "explain": {
+    "ta": "தேசபக்தன் இதழை வ.வே.சுப்பிரமணியம் அவர்களும், நவசக்தி இதழை திரு.வி.க அவர்களும் நடத்தினர்; எனவே (2) மற்றும் (3) சரியான இணைகள் ஆகும்.",
+    "en": "Thesapakthan was edited by V.V. Subramanian and Nava Sakthi by Thiru. V. Kalyanasundaram, making (2) and (3) correct matches."
+   }
+  },
+  {
+   "qNo": 116,
+   "part": "B",
+   "unit": "B6",
+   "topic": "theosophical-movement",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "பிரம்மஞான சபை பற்றிய சரியான வாக்கியங்களை தேர்வு செய்க.",
+    "en": "Which of the following statements are true about the Theosophical Movement?"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மற்றும் (ii)",
+     "en": "(i) and (ii)"
+    },
+    "B": {
+     "ta": "(ii) மற்றும் (iii)",
+     "en": "(ii) and (iii)"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (iii)",
+     "en": "(i) and (iii)"
+    },
+    "D": {
+     "ta": "(iii) மட்டும்",
+     "en": "(iii) only"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(i) மேடம் பிளாவட்ஸ்கி மற்றும் கர்னல் H.S. ஆல்காட் ஆகியோரால் பிரம்மஞான சபை நியூயார்க்கில் தோற்றுவிக்கப்பட்டது.\n(ii) 1888-ல் இந்தியாவில் அன்னிபெசண்ட் அம்மையார் இதில் இணைந்தார்.\n(iii) இதன் தலைமையகம் சென்னை அடையாற்றில் உள்ளது.",
+     "en": "(i) The Theosophical society was founded by Madam Blavatsky and Col. H.S. Olcott in New York.\n(ii) In 1888 Mrs. Annie Besant joined the society in India.\n(iii) The headquarters of the society in Adyar."
+    }
+   ],
+   "explain": {
+    "ta": "பிரம்மஞான சபை நியூயார்க்கில் தோற்றுவிக்கப்பட்டது மற்றும் இதன் தலைமையகம் அடையாற்றில் உள்ளது என்பவை சரியான கூற்றுகள்.",
+    "en": "Statements (i) and (iii) are correct regarding the Theosophical Society."
+   }
+  },
+  {
+   "qNo": 118,
+   "part": "B",
+   "unit": "B6",
+   "topic": "veerapandiya-kattabomman",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "கீழ்கண்ட கூற்றுகளை கருத்தில் கொண்டு தவறಾದ விடையை கண்டறி.",
+    "en": "Consider the following statements and Identify the wrong answers"
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மட்டும் தவறு",
+     "en": "(1) is wrong"
+    },
+    "B": {
+     "ta": "(2) மட்டும் தவறு",
+     "en": "(2) is wrong"
+    },
+    "C": {
+     "ta": "(1) மற்றும் (3) மட்டும் தவறு",
+     "en": "(1) and (3) are wrong"
+    },
+    "D": {
+     "ta": "(2) மற்றும் (4) மட்டும் தவறு",
+     "en": "(2) and (4) are wrong"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "1798 செப்டம்பர், 1 அன்று மேஜர் பானர்மேன் தன்னைக் கட்டபொம்மன் பாளையங்கோட்டையில் சந்திக்கும்படி இறுதி எச்சரிக்கை விடுவித்தார்.",
+     "en": "On 1st September 1798 Major Bannerman served an ultimatum directing Kattabomman to see him at Palayamkottai."
+    },
+    {
+     "ta": "கட்டபொம்மனின் கோட்டை 500 அடி நீளத்திலும் 300 அடி அகலத்திலும் முழுவதும் மண்ணினால் கட்டப்பட்டது.",
+     "en": "Kattabomman's Fort 500 feet long and 300 broad, was constructed entirely of Mud."
+    },
+    {
+     "ta": "1799 செப்டம்பர் 16 அன்று பானர்மேன் கட்டபொம்மனை கயத்தாறு என்னுமிடத்தில் பாளையக்காரர்கள் கூடியிருந்த அவையில் விசாரணை செய்தார்.",
+     "en": "On September 16, 1799 Veera Pandiya Kattabomman was tried before an assembly of Palayakarrars at Kayatar."
+    },
+    {
+     "ta": "1799 ஜூன் 1 அன்று கட்டபொம்மன் 500 ஆட்களுடன் சிவகங்கை சென்றார்.",
+     "en": "On 1st June, 1799 Kattabomman, attended by 500 men, proceeded to Sivagangai."
+    }
+   ],
+   "explain": {
+    "ta": "கட்டபொம்மனைச் சந்திக்கக் கூறியவர் காலின் ஜாக்சன் ஆவார் (பானர்மேன் அல்ல). மேலும் கயத்தாறு அவையில் விசாரணை செப்டம்பர் 16 அன்று நடைபெறவில்லை; எனவே (1) மற்றும் (3) தவறானவை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 119,
+   "part": "B",
+   "unit": "B6",
+   "topic": "justice-party",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "சரியான வாக்கியங்களைத் தெரிவு செய்க.",
+    "en": "Which of the following statements are true?"
+   },
+   "options": {
+    "A": {
+     "ta": "(1), (4) சரியானது",
+     "en": "(1), (4) are correct"
+    },
+    "B": {
+     "ta": "(1), (2) சரியானது",
+     "en": "(1), (2) are correct"
+    },
+    "C": {
+     "ta": "(1), (3) சரியானது",
+     "en": "(1), (3) are correct"
+    },
+    "D": {
+     "ta": "(1), (2), (3) சரியானது",
+     "en": "(1), (2), (3) are correct"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "காங்கிரஸ் கட்சி, 1923ல் சென்னையில் நடந்த தேர்தலை புறக்கணித்தது.",
+     "en": "Congress boycotted the election which was held in 1923 in Chennai."
+    },
+    {
+     "ta": "சுயராஜ்ய கட்சி 11 இடங்களில் வெற்றி பெற்றது.",
+     "en": "Swaraj Party won 11 seats."
+    },
+    {
+     "ta": "சென்னையில் நீதிக்கட்சி அமைச்சரவையை அமைத்தது.",
+     "en": "Justice Party formed Ministry in Chennai."
+    },
+    {
+     "ta": "காமராஜர் சென்னையில் ஒத்துழையாமை இயக்கத்தினை வழிநடத்தினார்.",
+     "en": "Kamaraj led the Non-Co-operation movement in Chennai."
+    }
+   ],
+   "explain": {
+    "ta": "1923 தேர்தலில் காங்கிரஸ் கட்சி தேர்தலில் போட்டியிடாமல் புறக்கணித்தது. சுயராஜ்ய கட்சி 11 இடங்களைப் பெற்றது மற்றும் நீதிக்கட்சி அமைச்சரவை அமைத்தது என்பவை சரியான கூற்றுகள் ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 120,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-literature-authors",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்க்கண்டவற்றைப் பொருத்துக :",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "2 3 1 4",
+     "en": "2 3 1 4"
+    },
+    "B": {
+     "ta": "3 1 2 4",
+     "en": "3 1 2 4"
+    },
+    "C": {
+     "ta": "4 3 2 1",
+     "en": "4 3 2 1"
+    },
+    "D": {
+     "ta": "1 2 3 4",
+     "en": "1 2 3 4"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "காரைக்கால் அம்மையார்",
+      "en": "Karaikkal Ammaiyar"
+     },
+     {
+      "ta": "ஆண்டாள்",
+      "en": "Andal"
+     },
+     {
+      "ta": "அரங்கநாத முதலியார்",
+      "en": "Aranganadha Mudaliyar"
+     },
+     {
+      "ta": "சேரமான் பெருமாள் நாயனார்",
+      "en": "Seraman Perumal Nayanar"
+     }
+    ],
+    "right": [
+     {
+      "ta": "திருவந்தாதி",
+      "en": "Thiruvantadi"
+     },
+     {
+      "ta": "கச்சிக்கலம்பகம்",
+      "en": "Kachhikalambagam"
+     },
+     {
+      "ta": "பாவைப்பாட்டு",
+      "en": "Pavaippattu"
+     },
+     {
+      "ta": "மூத்ததிருப்பதிகங்கள்",
+      "en": "Moothathiruppathigangal"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "காரைக்கால் அம்மையார் - மூத்ததிருப்பதிகங்கள் (4), ஆண்டாள் - பாவைப்பாட்டு (3), அரங்கநாத முதலியார் - கச்சிக்கலம்பகம் (2), சேரமான் பெருமாள் நாயனார் - திருவந்தாதி (1).",
+    "en": "Correct matching is a-4, b-3, c-2, d-1."
+   }
+  },
+  {
+   "qNo": 121,
+   "part": "B",
+   "unit": "B6",
+   "topic": "sivakalai-excavation",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "Which of the following statements are true about Sivakalai excavation?",
+    "en": "Which of the following statements are true about Sivakalai excavation?"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மட்டும் சரி",
+     "en": "(i) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) சரி",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (ii) சரி",
+     "en": "(i) and (ii) only"
+    },
+    "D": {
+     "ta": "(iii) மட்டும் சரி",
+     "en": "(iii) only"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(i) சிவகளை அகாய்வு தாமிரபரணி ஆற்றின் வடக்குக் கரையில் அமைந்துள்ளது.",
+     "en": "(i) Sivakalai excavation located in North shore of river Thamiraparani."
+    },
+    {
+     "ta": "(ii) சிவகளைப் பகுதியில் வாழ்ந்த தமிழ்ச் சமூகம் மிகப்பழமையானதாக கருதப்படுகிறது.",
+     "en": "(ii) Tamil society lived in Sivakalai considered very ancient."
+    },
+    {
+     "ta": "(iii) செம்பு மற்றும் தங்கத்திலான பொருள்கள் இங்கு கிடைக்கப்பெற்றது.",
+     "en": "(iii) Copper and gold goods are found."
+    }
+   ],
+   "explain": {
+    "ta": "சிவகளை அகழாய்வு குறித்த (i) மற்றும் (ii) கூற்றுகள் சரியானவை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 122,
+   "part": "B",
+   "unit": "B1",
+   "topic": "noncoding-rna",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "What is the crucial role played by noncoding RNA's?",
+    "en": "What is the crucial role played by noncoding RNA's?"
+   },
+   "options": {
+    "A": {
+     "ta": "புரதத்திற்கான குறியாக்கம்",
+     "en": "encode for proteins"
+    },
+    "B": {
+     "ta": "பிரதி",
+     "en": "replications"
+    },
+    "C": {
+     "ta": "மரபணு கட்டுப்பாடு",
+     "en": "gene regulation"
+    },
+    "D": {
+     "ta": "கார்போஹைட்ரேட் தொகுப்பு",
+     "en": "carbohydrate synthesis"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "குறியிடாத RNA-வின் முக்கிய பங்கு மரபணு கட்டுப்பாடு ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 123,
+   "part": "B",
+   "unit": "B1",
+   "topic": "kingdom-systems",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "சரியான இணையைக் கண்டறிக:",
+    "en": "Choose the right matches among the following:"
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மட்டும் சரி",
+     "en": "(1) only correct"
+    },
+    "B": {
+     "ta": "(1), (2) மற்றும் (4) சரியானவை",
+     "en": "(1), (2) and (4) are correct"
+    },
+    "C": {
+     "ta": "(1) மற்றும் (2) சரியானவை",
+     "en": "(1) and (2) are correct"
+    },
+    "D": {
+     "ta": "(1), (2) மற்றும் (3) சரியானவை",
+     "en": "(1), (2) and (3) are correct"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) ஐந்துலக வகைப்பாடு - R.H. விட்டாக்கெட்",
+     "en": "(1) Five Kingdom System - R.H. Whittaker"
+    },
+    {
+     "ta": "(2) ஆறுலக வகைப்பாடு - கார்ல் வெயிசி, ம.ப.",
+     "en": "(2) Six Kingdom System - Carl Woese, et al"
+    },
+    {
+     "ta": "(3) நான்குலக வகைப்பாடு - கார்ல் லின்னேயஸ்",
+     "en": "(3) Four Kingdom System - Carl Linnaeus"
+    },
+    {
+     "ta": "(4) மூன்றுலக வகைப்பாடு - எர்னெஸ்ட் ஹெッケல்",
+     "en": "(4) Three Kingdom System - Ernst Haeckel"
+    }
+   ],
+   "explain": {
+    "ta": "ஐந்துலக வகைப்பாடு (விட்டாக்கெட்), ஆறுலக வகைப்பாடு (கார்ல் வூஸ்) மற்றும் மூன்றுலக வகைப்பாடு (ஹெக்கேல்) ஆகியவை சரியானவை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 124,
+   "part": "B",
+   "unit": "B1",
+   "topic": "dissociation-constant-of-weak-acid",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "0.10 M செறிவுடைய வலிமை குறைந்த அமில கரைசல் 25°C-ல் 1.20% பிரிிகை அடைகிறது எனில், பிரிிகை மாறிலியின் மதிப்பு",
+    "en": "0.10 M of weak acid is found to be dissociated to the extent of 1.20% at 25°C. Its dissociation constant is"
+   },
+   "options": {
+    "A": {
+     "ta": "1.44 x 10^5",
+     "en": "1.44 x 10^5"
+    },
+    "B": {
+     "ta": "1.44 x 10^-4",
+     "en": "1.44 x 10^-4"
+    },
+    "C": {
+     "ta": "1.44 x 10^-5",
+     "en": "1.44 x 10^-5"
+    },
+    "D": {
+     "ta": "1.44 x 10^4",
+     "en": "1.44 x 10^4"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "அமில பிரிிகை மாறிலி Ka = c * alpha^2 என்ற வாய்ப்பாட்டின்படி கணக்கிடப்படுகிறது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 125,
+   "part": "B",
+   "unit": "B1",
+   "topic": "isro-launch",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ISRO-வால் GSLV-F15 ராக்கெட் ஏவப்பட்ட தினம் ________.",
+    "en": "The GSLV-F15 is launched on ________ by ISRO."
+   },
+   "options": {
+    "A": {
+     "ta": "ஜனவரி 29, 2025",
+     "en": "January 29, 2025"
+    },
+    "B": {
+     "ta": "மார்ச் 08, 2025",
+     "en": "March 08, 2025"
+    },
+    "C": {
+     "ta": "ஜனவரி 29, 2024",
+     "en": "January 29, 2024"
+    },
+    "D": {
+     "ta": "மார்ச் 08, 2024",
+     "en": "March 08, 2024"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "GSLV-F15 ராக்கெட் ஜனவரி 29, 2025 அன்று ISRO-வால் ஏவப்பட்டது.",
+    "en": "GSLV-F15 was successfully launched by ISRO on January 29, 2025."
+   }
+  },
+  {
+   "qNo": 126,
+   "part": "B",
+   "unit": "B2",
+   "topic": "geography-transport",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்க்கண்டவற்றுள் எது தவறாக பொருந்தி உள்ளது?",
+    "en": "Which of the following is incorrectly matched?"
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மட்டும்",
+     "en": "(1) only"
+    },
+    "B": {
+     "ta": "(2) மட்டும்",
+     "en": "(2) only"
+    },
+    "C": {
+     "ta": "(3) மட்டும்",
+     "en": "(3) only"
+    },
+    "D": {
+     "ta": "(4) மட்டும்",
+     "en": "(4) only"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) டிரான்ஸ் சைபீரியன் இருப்புப்பாதை - இது பால்டிக் கடலையும், பசிபிக் பெருங்கடலையும் இணைக்கிறது\n(2) டிரான்ஸ் காஸ்பியன் இருப்புப்பாதை - இது மத்திய ஆசியாவையும் ஜப்பானையும் இணைக்கிறது\n(3) கனேடியன் பசிபிக் இருப்புப்பாதை - இது அட்லாண்டிக் பெருங்கடலையும், இந்திய பெருங்கடலையும் இணைக்கிறது\n(4) டிரான்ஸ் காண்டினென்டல் இருப்புப்பாதை - இது பியூனஸ் அயர்ஸ் நகரத்தையும் வால்பரைசோ நகரத்தையும் இணைக்கிறது",
+     "en": "(1) Trans Siberian Railway line - It connects Baltic Sea and Pacific Ocean\n(2) Trans Caspian Railway line - It connects Central Asia and Japan\n(3) Canadian Pacific Railway line - It connects Atlantic Ocean and Indian Ocean\n(4) Trans-Continental Railway line - It connects Buenos Aires with Valparaiso"
+    }
+   ],
+   "explain": {
+    "ta": "கனேடியன் பசிபிக் இருப்புப்பாதை அட்லாண்டிக் பெருங்கடலையும் பசிபிக் பெருங்கடலையும் இணைக்கிறது, எனவே (3) தவறாகப் பொருந்தியுள்ளது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 127,
+   "part": "B",
+   "unit": "B4",
+   "topic": "42nd-amendment-pm",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்திய அரசியலப்பின் 42-ஆவது திருத்தச் சட்டம் கொண்டு வரப்பட்டபோது இந்தியாவின் பிரதமராக இருந்தவர் யார்?",
+    "en": "Who among the following was the Indian Prime Minister when the 42nd Amendment Act was passed?"
+   },
+   "options": {
+    "A": {
+     "ta": "ஜவஹர்லால் நேரு",
+     "en": "Jawaharlal Nehru"
+    },
+    "B": {
+     "ta": "வி.பி. சிங்",
+     "en": "V.P. Singh"
+    },
+    "C": {
+     "ta": "இந்திராகாந்தி",
+     "en": "Indira Gandhi"
+    },
+    "D": {
+     "ta": "மொரார்ஜி தேசாய்",
+     "en": "Morarji Desai"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "42-வது அரசியலமைப்புத் திருத்தம் 1976 ஆம் ஆண்டு இந்திரா காந்தி பிரதமராக இருந்த காலத்தில் கொண்டுவரப்பட்டது.",
+    "en": "The 42nd Constitutional Amendment was enacted in 1976 when Indira Gandhi was Prime Minister."
+   }
+  },
+  {
+   "qNo": 129,
+   "part": "B",
+   "unit": "B6",
+   "topic": "dravidian-languages",
+   "format": "CHRONOLOGY",
+   "stem": {
+    "ta": "தவறான இணையைக் கண்டுபிடி.",
+    "en": "Choose the wrong pair :"
+   },
+   "options": {
+    "A": {
+     "ta": "(1)",
+     "en": "(1)"
+    },
+    "B": {
+     "ta": "(2)",
+     "en": "(2)"
+    },
+    "C": {
+     "ta": "(3)",
+     "en": "(3)"
+    },
+    "D": {
+     "ta": "(4)",
+     "en": "(4)"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) தென்திராவிட மொழி - மலையாளம்\n(2) கிழக்கு திராவிட மொழி - முண்டா\n(3) நடுத்திராவிட மொழி - தெலுங்கு\n(4) வடதிராவிட மொழி - குறுக்",
+     "en": "(1) South Dravidian Language - Malayalam\n(2) East Dravidian Language - Munda\n(3) Central Dravidian Language - Telugu\n(4) North Dravidian Language - Kuruk"
+    }
+   ],
+   "explain": {
+    "ta": "முண்டா என்பது முண்டா மொழிக்குடும்பத்தைச் சார்ந்தது, திராவிட மொழி அல்ல; எனவே இணை (2) தவறு.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 132,
+   "part": "B",
+   "unit": "B3",
+   "topic": "indus-civilisation",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "சிந்து நாகரிகம் குறித்து பின்வரும் கூற்றுகளில் எவை உண்மையானவை?",
+    "en": "Which of the following statements are true about the Indus Civilisation?"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iv) மட்டும்",
+     "en": "(ii) and (iv) only"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "1920களில் மார்திமர் வீலர் ஹரப்பா பகுதியில் அகழ்ாய்வுகள் நடத்தினார்.",
+     "en": "In the 1920s Martimer Wheeler excavated the Harappan sites."
+    },
+    {
+     "ta": "மிக நீளமானதாகக் கருதப்படும் எழுத்துத்தொடர் 26 குறியீடுகளைக் கொண்டுள்ளது.",
+     "en": "The longest text has about twenty six signs."
+    },
+    {
+     "ta": "பிராகிருத கல்வெட்டுகளில் “மெலுகா” என்ற சொல் சிந்து பகுதியைக் குறிக்கிறது.",
+     "en": "The term “Meluhha” in the Prakrit inscriptions refers to the Indus region."
+    },
+    {
+     "ta": "ஸ்ட்டைட் கல்லில் அமைந்த “மதகுரு அரசன்” மொகொஞ்சதாரோவில் கண்டெடுக்கப்பட்டது.",
+     "en": "The “Priest King” of steatite was discovered in Mohenjo-Daro."
+    }
+   ],
+   "explain": {
+    "ta": "சிந்துவெளி நாகரிகம் குறித்த கூற்றுகளில் (ii) மற்றும் (iv) என்பவை சரியானவை.",
+    "en": "Statements (ii) and (iv) regarding the Indus Civilisation are correct."
+   }
+  },
+  {
+   "qNo": 133,
+   "part": "B",
+   "unit": "B4",
+   "topic": "election-commissioner",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "புதிதாக பதவியேற்றுள்ள இந்திய தலைமைத் தேர்தல் ஆணையரைப் பற்றிய சரியான கூற்றுகளானது:",
+    "en": "The correct statements on the New Chief Election Commissioner of India are:"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "ஞானேஷ் குமார் பிப்ரவரி 19, 2025 அன்று இந்தியாவின் 26வது தலைமைத் தேர்தல் ஆணையராகப் பொறுப்பேற்றார்.",
+     "en": "Gyanesh Kumar took charge as the 26th Chief Election Commissioner of India on February 19th, 2025."
+    },
+    {
+     "ta": "அவர் 1989 ஆம் ஆண்டு இந்திய ஆட்சிப் பணியின் கேரள பிரிவு அதிகாரி ஆனார்.",
+     "en": "He is a Kerala cadre of the Indian Administrative Service in the 1989 batch."
+    },
+    {
+     "ta": "கேரள அரசின் செயலாளராக பல்வேறு துறைகளைக் கையாளும் பொறுப்பை அவர் வகித்துள்ளார்.",
+     "en": "He has been responsible for handling various departments as the secretary to the government of Kerala."
+    }
+   ],
+   "explain": {
+    "ta": "ஞானேஷ் குமார் தேர்தல் ஆணையராகப் பொறுப்பேற்றது மற்றும் கேரள அரசின் செயலாளராகப் பணியாற்றியது தொடர்பான கூற்றுகள் சரியானவை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 134,
+   "part": "B",
+   "unit": "B5",
+   "topic": "acts-and-years",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்கண்டவற்றைப் பொருத்துக.",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "2 3 4 1",
+     "en": "2 3 4 1"
+    },
+    "B": {
+     "ta": "3 1 2 4",
+     "en": "3 1 2 4"
+    },
+    "C": {
+     "ta": "1 3 4 2",
+     "en": "1 3 4 2"
+    },
+    "D": {
+     "ta": "4 1 2 3",
+     "en": "4 1 2 3"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) நுகர்வோர் பாதுகாப்பு விதிகள்",
+      "en": "(a) Consumer Protection Rules"
+     },
+     {
+      "ta": "(b) மருந்து கட்டுப்பாடு சட்டம்",
+      "en": "(b) Drug Control Act"
+     },
+     {
+      "ta": "(c) ஏகபோக மற்றும் கட்டுப்பாட்டு வர்த்தக நடைமுறைகள் சட்டம்",
+      "en": "(c) The monopolies and Restrictive Trade Practice Act"
+     },
+     {
+      "ta": "(d) பொருட்கள் விற்பனைச் சட்டம்",
+      "en": "(d) Goods and Services Sales Act"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. 1930",
+      "en": "1. 1930"
+     },
+     {
+      "ta": "2. 1987",
+      "en": "2. 1987"
+     },
+     {
+      "ta": "3. 1950",
+      "en": "3. 1950"
+     },
+     {
+      "ta": "4. 1969",
+      "en": "4. 1969"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சரியான பொருத்தம்: (a)-(2), (b)-(3), (c)-(4), (d)-(1).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 135,
+   "part": "B",
+   "unit": "B4",
+   "topic": "assertion-reason-supreme-court",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "கூற்று [A] மற்றும் காரணம் [R] வினாவை கருதுக.",
+    "en": "Consider the Assertion [A] and Reason [R]"
+   },
+   "options": {
+    "A": {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி மற்றும் [R] என்பது [A] க்கான சரியான விளக்கம்",
+     "en": "Both [A] and [R] are true and [R] is the correct explanation of [A]"
+    },
+    "B": {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி ஆனால் [R] என்பது [A] யின் சரியான விளக்கம் இல்லை",
+     "en": "Both [A] and [R] are true but [R] is not a correct explanation of [A]"
+    },
+    "C": {
+     "ta": "[A] சரி ஆனால் [R] தவறு",
+     "en": "[A] is true but [R] is false"
+    },
+    "D": {
+     "ta": "[A] தவறு ஆனால் [R] சரி",
+     "en": "[A] is false but [R] is true"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "கூற்று [A] : குடியரசுத் தலைவர் உச்சநீதிமன்ற நீதிபதிகளை நியமனம் செய்கிறார்.",
+     "en": "Assertion [A] : Supreme court judges are to be appointed by the President."
+    },
+    {
+     "ta": "காரணம் [R] : நீதிபதிகளை நியமனம் செய்யும் பொழுது சட்ட அமைச்சரையும் கலந்தாலோசிக்க வேண்டும்.",
+     "en": "Reason [R] : In the case of appointment of the Judges the Law Minister of India shall always be consulted."
+    }
+   ],
+   "explain": {
+    "ta": "குடியரசுத் தலைவர் உச்சநீதிமன்ற நீதிபதிகளை நியமிக்கிறார் என்பது சரி. ஆனால் நீதிபதிகள் நியமனத்தில் தலைமை நீதிபதி மற்றும் கொலீஜியத்துடன் கலந்தாலோசிக்கப்படுகிறது, சட்ட அமைச்சர் அல்ல.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 136,
+   "part": "B",
+   "unit": "B4",
+   "topic": "inter-state-council-committees-chronolog",
+   "format": "CHRONOLOGY",
+   "stem": {
+    "ta": "மாநிலங்களுக்கிடையேயான குழுக்களை காலவரிசைப்படி ஒழுங்குபடுத்தவும்.",
+    "en": "Arrange in chronological order on Inter-State council"
+   },
+   "options": {
+    "A": {
+     "ta": "(3), (4), (2), (1)",
+     "en": "(3), (4), (2), (1)"
+    },
+    "B": {
+     "ta": "(2), (1), (4), (3)",
+     "en": "(2), (1), (4), (3)"
+    },
+    "C": {
+     "ta": "(2), (4), (3), (1)",
+     "en": "(2), (4), (3), (1)"
+    },
+    "D": {
+     "ta": "(2), (3), (4), (1)",
+     "en": "(2), (3), (4), (1)"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "புன்ச்சி குழு",
+     "en": "Punchhi Commission"
+    },
+    {
+     "ta": "இராஜமன்னார் குழு",
+     "en": "Rajamannar Commission"
+    },
+    {
+     "ta": "சர்க்காரியா குழு",
+     "en": "Sarkaria Commission"
+    },
+    {
+     "ta": "வெங்கட செல்லையா குழு",
+     "en": "Venkatachaliah Commission"
+    }
+   ],
+   "explain": {
+    "ta": "இராஜமன்னார் குழு (1969), சர்க்காரியா குழு (1983), வெங்கட செல்லையா குழு (2000), புன்ச்சி குழு (2007).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 137,
+   "part": "B",
+   "unit": "B4",
+   "topic": "constitutional-age-limits-and-retirement",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "சரியான இணையைத் தெரிவு செய்க",
+    "en": "Choose the right match :"
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மற்றும் (3) சரியானவை",
+     "en": "(1) and (3) are correct"
+    },
+    "B": {
+     "ta": "(1) மற்றும் (2) சரியானவை",
+     "en": "(1) and (2) are correct"
+    },
+    "C": {
+     "ta": "(2) மற்றும் (3) சரியானவை",
+     "en": "(2) and (3) are correct"
+    },
+    "D": {
+     "ta": "(3) மற்றும் (4) சரியானவை",
+     "en": "(3) and (4) are correct"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) உச்ச நீதிமன்ற நீதிபதி ஓய்வு வயது - 60",
+     "en": "(1) Retirement age of the Supreme Court Judge - 60 years"
+    },
+    {
+     "ta": "(2) இந்திய குடியரசு தலைவர் தேர்தலில் நிற்பதற்கான குறைந்தபட்ச வயது - 35",
+     "en": "(2) Minimum age for contesting for the President of India - 35 years"
+    },
+    {
+     "ta": "(3) மேலவை உறுப்பினராக குறைந்தபட்ச வயது - 30",
+     "en": "(3) Minimum age for becoming Rajya Sabha member - 30 years"
+    },
+    {
+     "ta": "(4) கீழவை உறுப்பினராக குறைந்தபட்ச வயது - 21",
+     "en": "(4) Minimum age for becoming Lok Sabha member - 21 years"
+    }
+   ],
+   "explain": {
+    "ta": "குடியரசுத் தலைவர் வேட்பாளருக்கு 35 வயதும், மாநிலங்களவை (மேலவை) உறுப்பினருக்கு 30 வயதும் குறைந்தபட்ச வயது ஆகும். உச்ச நீதிமன்ற நீதிபதி ஓய்வு வயது 65 மற்றும் மக்களவை உறுப்பினருக்கு 25 வயது ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 138,
+   "part": "B",
+   "unit": "B6",
+   "topic": "awards-chronology",
+   "format": "CHRONOLOGY",
+   "stem": {
+    "ta": "பின்வரும் விருதுகளை காலவரிசைப்படி வரிசைப்படுத்துக.",
+    "en": "Arrange the following in chronological order :"
+   },
+   "options": {
+    "A": {
+     "ta": "2, 3, 1, 4",
+     "en": "2, 3, 1, 4"
+    },
+    "B": {
+     "ta": "1, 2, 4, 3",
+     "en": "1, 2, 4, 3"
+    },
+    "C": {
+     "ta": "4, 3, 2, 1",
+     "en": "4, 3, 2, 1"
+    },
+    "D": {
+     "ta": "3, 1, 4, 2",
+     "en": "3, 1, 4, 2"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "1. பாரத ரத்னா",
+     "en": "1. Bharat Ratna"
+    },
+    {
+     "ta": "2. பத்ம விபூஷன்",
+     "en": "2. Padma Vibhushan"
+    },
+    {
+     "ta": "3. பத்மஸ்ரீ",
+     "en": "3. Padma Sri"
+    },
+    {
+     "ta": "4. பத்ம பூஷன்",
+     "en": "4. Padma Bhushan"
+    }
+   ],
+   "explain": {
+    "ta": "இவ்விருதுகள் நிறுவப்பட்ட ஆண்டுகளின் அடிப்படையில் பாரத ரத்னா (1954), பத்ம விபூஷன் (1954), பத்ம பூஷன் (1954), பத்மஸ்ரீ (1954) என வகைப்படுத்தப்பட்டுள்ளது (பாரத ரத்னா மற்றும் பத்ம விருதுகள் அமைப்பு முறைப்படி வரிசைப்படுத்தப்பட்டுள்ளன).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 139,
+   "part": "B",
+   "unit": "B2",
+   "topic": "states-and-parts",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :\nமாநிலங்கள் பெயர்\n(a) இமாச்சலப் பிரதேசம்\n(b) இராஜஸ்தான்\n(c) மேற்கு வங்காளம்\n(d) அந்தமான் மற்றும் நிகோபார் தீவுகள்\nமாநிலங்கள் இருக்கும் பகுதி\n1. A\n2. D\n3. B\n4. C",
+    "en": "Match the following :\nName of the States\n(a) Himachal Pradesh\n(b) Rajasthan\n(c) West Bengal\n(d) The Andaman and Nicobar Islands\nStates in Part\n1. A\n2. D\n3. B\n4. C"
+   },
+   "options": {
+    "A": {
+     "ta": "4 3 1 2",
+     "en": "4 3 1 2"
+    },
+    "B": {
+     "ta": "2 4 1 3",
+     "en": "2 4 1 3"
+    },
+    "C": {
+     "ta": "3 1 2 4",
+     "en": "3 1 2 4"
+    },
+    "D": {
+     "ta": "1 2 4 3",
+     "en": "1 2 4 3"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) இமாச்சலப் பிரதேசம்",
+      "en": "(a) Himachal Pradesh"
+     },
+     {
+      "ta": "(b) இராஜஸ்தான்",
+      "en": "(b) Rajasthan"
+     },
+     {
+      "ta": "(c) மேற்கு வங்காளம்",
+      "en": "(c) West Bengal"
+     },
+     {
+      "ta": "(d) அந்தமான் மற்றும் நிகோபார் தீவுகள்",
+      "en": "(d) The Andaman and Nicobar Islands"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. A",
+      "en": "1. A"
+     },
+     {
+      "ta": "2. D",
+      "en": "2. D"
+     },
+     {
+      "ta": "3. B",
+      "en": "3. B"
+     },
+     {
+      "ta": "4. C",
+      "en": "4. C"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சரியான பொருத்தம்: இமாச்சலப் பிரதேசம் - C (4), இராஜஸ்தான் - B (3), மேற்கு வங்காளம் - A (1), அந்தமான் மற்றும் நிகோபார் தீவுகள் - D (2). எனவே (a)-4, (b)-3, (c)-1, (d)-2.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 140,
+   "part": "C",
+   "unit": "C1",
+   "topic": "time-and-work",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "P மற்றும் Q ஆகியோர் ஒரு வேலையை முறையே 20 மற்றும் 40 நாட்களில் முடிப்பர். அவர்கள் இருவரும் ஒன்றாக சேர்ந்து வேலையை தொடங்கினர். சில நாட்கள் வேலை செய்த பிறகு Q என்பவர் சென்றுவிடுகிறார். மீதமுள்ள வேலையை P என்பவர் 8 நாட்களில் முடிக்கிறார் எனில் தொடங்கியதிலிருந்து எத்தனை நாட்களுக்குப் பிறகு Q வேலையை விட்டுச் சென்றார்?",
+    "en": "P and Q can do a piece of work in 20 days and 40 days respectively. They started the work together and Q left after some days of work and P finished the remaining work in 8 days. After how many days from the start did Q leave?"
+   },
+   "options": {
+    "A": {
+     "ta": "9 நாட்கள்",
+     "en": "9 days"
+    },
+    "B": {
+     "ta": "10 நாட்கள்",
+     "en": "10 days"
+    },
+    "C": {
+     "ta": "8 நாட்கள்",
+     "en": "8 days"
+    },
+    "D": {
+     "ta": "11 நாட்கள்",
+     "en": "11 days"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "Q தொடங்கியதிலிருந்து 8 நாட்களுக்குப் பிறகு வேலையை விட்டுச் சென்றார்.",
+    "en": "Q left after 8 days from the start."
+   }
+  },
+  {
+   "qNo": 143,
+   "part": "C",
+   "unit": "C1",
+   "topic": "ratio",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "a:b=3:7 மற்றும் b:c=7:6 எனில் c மற்றும் a இவற்றின் விகிதம் காண்க.",
+    "en": "If a : b = 3 : 7 and b : c = 7 : 6, then Find the ratio between c and a"
+   },
+   "options": {
+    "A": {
+     "ta": "1:2",
+     "en": "1:2"
+    },
+    "B": {
+     "ta": "3:6",
+     "en": "3:6"
+    },
+    "C": {
+     "ta": "6:7",
+     "en": "6:7"
+    },
+    "D": {
+     "ta": "2:1",
+     "en": "2:1"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "a:b = 3:7, b:c = 7:6 எனில் a:b:c = 3:7:6 ஆகும். எனவே c:a = 6:3 = 2:1.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 144,
+   "part": "C",
+   "unit": "C1",
+   "topic": "hcf-lcm",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இரண்டு எண்களின் விகிதம் 3:4 மேலும் அதன் மீ.பொ.வ மதிப்பு 4 எனில் அவைகளின் மீ.சி.ம.",
+    "en": "The ratio of two numbers is 3 : 4 and H.C.F is 4. Their L.C.M. is"
+   },
+   "options": {
+    "A": {
+     "ta": "48",
+     "en": "48"
+    },
+    "B": {
+     "ta": "38",
+     "en": "38"
+    },
+    "C": {
+     "ta": "58",
+     "en": "58"
+    },
+    "D": {
+     "ta": "68",
+     "en": "68"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "எண்கள் 3x, 4x என்க. மீ.பொ.வ = x = 4. எண்கள் 12, 16. மீ.சி.ம = 3 × 4 × 4 = 48.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 145,
+   "part": "C",
+   "unit": "C1",
+   "topic": "hcf-lcm",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு எண் x ஆனது 13 ஆல் வகுபடும். இந்த எண் 16, 24 மற்றும் 32 ஆல் வகுக்கும் போது ஒவ்வொரு முறையும் மீதி 6 கிடைக்கிறது எனில் x இன் மிகச்சிறிய மதிப்பு",
+    "en": "A number x is divisible by 13. When this number is divided by 16, 24, 32 it leaves a remainder 6 in each case. The least value of x is"
+   },
+   "options": {
+    "A": {
+     "ta": "390",
+     "en": "390"
+    },
+    "B": {
+     "ta": "391",
+     "en": "391"
+    },
+    "C": {
+     "ta": "389",
+     "en": "389"
+    },
+    "D": {
+     "ta": "392",
+     "en": "392"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "16, 24, 32 இன் மீ.சி.ம = 96. எண் = 96k + 6. k = 4 எனில் x = 390, இது 13 ஆல் வகுபடும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 146,
+   "part": "C",
+   "unit": "C1",
+   "topic": "percentage",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு வகுப்பில் 80 மாணவர்கள் உள்ளனர். ஒரு குறிப்பிட்ட நாளில் 25% பேர் வருகைபுரியவில்லை எனில் வருகை புரிந்த மாணவர்களின் எண்ணிக்கையைக் கண்டறியவும்.",
+    "en": "There are 80 students in a class. If 25% are absent on a particular day. Find the number of students present in the class."
+   },
+   "options": {
+    "A": {
+     "ta": "10",
+     "en": "10"
+    },
+    "B": {
+     "ta": "60",
+     "en": "60"
+    },
+    "C": {
+     "ta": "30",
+     "en": "30"
+    },
+    "D": {
+     "ta": "25",
+     "en": "25"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "வருகை புரிந்தவர்கள் = 100% - 25% = 75%. 80 இல் 75% = 60.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 147,
+   "part": "C",
+   "unit": "C1",
+   "topic": "percentage",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு வகுப்பில் உள்ள மாணவர்கள் மற்றும் மாணவிகளின் விகிதம் 5:3 ஆகும். ஒரு தேர்வில் 16% மாணவர்களும், 8% மாணவிகளும் தேர்ச்சி பெறவில்லை எனில் தேர்ச்சி பெற்ற மாணவ - மாணவிகளின் சதவீதத்தைக் காண்க.",
+    "en": "The ratio of boys and girls in a class is 5 : 3. If 16% of boys and 8% of girls failed in an examination, then find the percentage of passed students."
+   },
+   "options": {
+    "A": {
+     "ta": "87%",
+     "en": "87%"
+    },
+    "B": {
+     "ta": "13%",
+     "en": "13%"
+    },
+    "C": {
+     "ta": "84%",
+     "en": "84%"
+    },
+    "D": {
+     "ta": "92%",
+     "en": "92%"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "மாணவர்கள் 500, மாணவிகள் 300 என்க. தேர்ச்சி பெற்றவர்கள் = (500 × 84%) + (300 × 92%) = 420 + 276 = 696. சதவீதம் = (696/800) × 100 = 87%.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 148,
+   "part": "C",
+   "unit": "C1",
+   "topic": "series",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தொடரின் கூடுதல் காண்க.\n1 + 3 + 5 + ⋯ + 55",
+    "en": "Find the sum of\n1 + 3 + 5 + ⋯ + 55"
+   },
+   "options": {
+    "A": {
+     "ta": "700",
+     "en": "700"
+    },
+    "B": {
+     "ta": "784",
+     "en": "784"
+    },
+    "C": {
+     "ta": "555",
+     "en": "555"
+    },
+    "D": {
+     "ta": "550",
+     "en": "550"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "முதல் n ஒற்றை எண்களின் கூடுதல் = $n^2$. இங்கு n = (55 + 1)/2 = 28. கூடுதல் = $28^2$ = 784.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 149,
+   "part": "C",
+   "unit": "C2",
+   "topic": "number-series",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கீழே கொடுக்கப்பட்டுள்ள தொடர் வரிசையில் வரும் அடுத்த உறுப்பு\n0, 2, 24, 252, 3120, ________.",
+    "en": "The next term in the given sequence is\n0, 2, 24, 252, 3120, ________."
+   },
+   "options": {
+    "A": {
+     "ta": "42450",
+     "en": "42450"
+    },
+    "B": {
+     "ta": "46650",
+     "en": "46650"
+    },
+    "C": {
+     "ta": "38450",
+     "en": "38450"
+    },
+    "D": {
+     "ta": "44650",
+     "en": "44650"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "தொடர் வடிவம்: $n^n - n$ அல்லது $1^1-1=0, 2^2-2=2, 3^3-3=24, 4^4-4=252, 5^5-5=3120$, அடுத்தது $6^6-6 = 46656 - 6 = 46650$.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 150,
+   "part": "C",
+   "unit": "C2",
+   "topic": "reasoning",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்த தொடர்ச்சி எண்களில்\n6 4 1 2 2 8 7 4 2 1 5 3 8\nஇரண்டு வித்தியாசத்தை உடைய எண்களில் எத்தனை இணைகள் உள்ளன?",
+    "en": "In the series\n6 4 1 2 2 8 7 4 2 1 5 3 8\nhow many pairs of successive numbers have a difference of 2 each?"
+   },
+   "options": {
+    "A": {
+     "ta": "ஒன்று",
+     "en": "One"
+    },
+    "B": {
+     "ta": "இரண்டு",
+     "en": "Two"
+    },
+    "C": {
+     "ta": "மூன்று",
+     "en": "Three"
+    },
+    "D": {
+     "ta": "நான்கு",
+     "en": "Four"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "அடுத்தடுத்த எண்களுக்கு இடையே உள்ள வித்தியாசம் 2 உள்ள இணைகள்: (6,4), (4,2), (3,5 அல்லது 5,3). மொத்தம் 3 இணைகள் உள்ளன.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 151,
+   "part": "C",
+   "unit": "C2",
+   "topic": "dice",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு பகடை 4 முறை உருட்டப்படும் போது அதன் 4 வேறுபட்ட நிலைகள் கீழே கொடுக்கப்பட்டுள்ளன.\n2-ன் எதிர் பக்கமாக இருக்கும் எண்ணைக் காண்க.",
+    "en": "A dice is thrown four times and its four different positions are given below\nFind the number on the face opposite the face showing 2."
+   },
+   "options": {
+    "A": {
+     "ta": "4",
+     "en": "4"
+    },
+    "B": {
+     "ta": "5",
+     "en": "5"
+    },
+    "C": {
+     "ta": "6",
+     "en": "6"
+    },
+    "D": {
+     "ta": "3",
+     "en": "3"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "பகடை விதிகளின்படி 2-க்கு எதிர் பக்கத்தில் 4 இருக்கும்.",
+    "en": "From standard dice rules and positions, opposite of 2 is 4."
+   }
+  },
+  {
+   "qNo": 152,
+   "part": "C",
+   "unit": "C1",
+   "topic": "number-series",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தொடர் வரிசையில் உள்ள விடுபட்ட எண்ணைக் காண்க.\n$7, 12, 19, 24, 43, \\underline{\\quad\\quad}, 91$",
+    "en": "Find the missing term of the sequence :\n$7, 12, 19, 24, 43, \\underline{\\quad\\quad}, 91$"
+   },
+   "options": {
+    "A": {
+     "ta": "50",
+     "en": "50"
+    },
+    "B": {
+     "ta": "45",
+     "en": "45"
+    },
+    "C": {
+     "ta": "48",
+     "en": "48"
+    },
+    "D": {
+     "ta": "63",
+     "en": "63"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "தொடர் முறையின்படி விடுபட்ட எண் 48 ஆகும்.",
+    "en": "Alternating additions (+5, +7, +5, +19...) or similar patterns yield 48."
+   }
+  },
+  {
+   "qNo": 153,
+   "part": "B",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "சரியான விடையைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Identify the correct answer."
+   },
+   "options": {
+    "A": {
+     "ta": "[A] மற்றும் [R] சரியே, மேலும் [R] என்பது [A] விற்கான சரியான விளக்கமாகும்",
+     "en": "Both [A] and [R] are correct and [R] is the correct explanation for [A]"
+    },
+    "B": {
+     "ta": "[A] மற்றும் [R] சரி, ஆனால் [R] என்பது [A] விற்கான சரியான விளக்கம் அல்ல",
+     "en": "Both [A] and [R] are correct, but [R] is not the correct explanation for [A]"
+    },
+    "C": {
+     "ta": "[A] சரியே, ஆனால் [R] தவறு",
+     "en": "[A] is correct but [R] is wrong"
+    },
+    "D": {
+     "ta": "[A] தவறு ஆனால் [R] சரி",
+     "en": "[A] is wrong but [R] is correct"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "கூற்று [A] : ஸ்பேஷ் MAITRI என்பது இந்தியா மற்றும் ஆஸ்திரேலியாவிற்கு இடையிலான கூட்டு விண்வெளி திட்டம்.\nகாரணம் [R] : இத்திட்டத்தின் மூலம் விண்வெளிக்கான அணுகல் செலவினை இந்தியா குறைக்க எண்ணுகிறது.",
+     "en": "Assertion [A] : Space MAITRI is a collaborative space mission between India and Australia.\nReason [R] : India aims to lower the cost of access to space through this mission."
+    }
+   ],
+   "explain": {
+    "ta": "ஸ்பேஷ் MAITRI என்பது இந்தியா மற்றும் யிகே (UK) இடையேயான கூட்டு விண்வெளி திட்டமாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 154,
+   "part": "B",
+   "unit": "B5",
+   "topic": "agricultural-cultivation",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "பின்வருவனவற்றில் 2021-2022-ம் ஆண்டில் தமிழ்நாட்டின் வேளாண்மை சாகுபதியோடு தொடர்புடைய உண்மையான கூற்று(கள்) எவை/யாாவை?",
+    "en": "Which of the following statement(s) is/are true about the agricultural cultivation of 2021-2022 in Tamilnadu?"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(i) மயிலாடுதுறையில் தமிழ்நாட்டிலே அதிகமான பரப்பில் நெல் சாகுபடி செய்யப்பட்டது.",
+     "en": "(i) Mayiladuthurai District involved more Paddy cultivation in Tamilnadu."
+    },
+    {
+     "ta": "(ii) பெரம்பலூரில் தமிழ்நாட்டிலே அதிகமாக மக்காச்சோளம் சாகுபடி செய்யப்பட்டது.",
+     "en": "(ii) Perambalur District involved more Maize cultivation in Tamilnadu."
+    },
+    {
+     "ta": "(iii) கள்ளக்குறிச்சியில் தமிழ்நாட்டிலே அதிகமான கரும்பு சாகுபடி செய்யப்பட்டது.",
+     "en": "(iii) Kallakurichi involved more Sugarcane cultivation in Tamilnadu."
+    }
+   ],
+   "explain": {
+    "ta": "கூற்று (ii) மற்றும் (iii) சரியானவை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 155,
+   "part": "B",
+   "unit": "B5",
+   "topic": "economic-survey",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "கூற்று மற்றும் காரணத்தை நன்றாக புரிந்து கொண்ட பின் சரியான விடையைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Identify the correct answer after understanding the Assertion and the Reason."
+   },
+   "options": {
+    "A": {
+     "ta": "[A] சரி [R] தவறு",
+     "en": "[A] is true [R] is false"
+    },
+    "B": {
+     "ta": "[A] மற்றும் [R] சரி மற்றும் [R] ஆனது [A] யினுடைய சரியான விளக்கம் ஆகும்",
+     "en": "Both [A] and [R] are true and [R] is the correct explanation of [A]"
+    },
+    "C": {
+     "ta": "[A] தவறு [R] சரி",
+     "en": "[A] is false [R] is true"
+    },
+    "D": {
+     "ta": "[A] மற்றும் [R] சரி ஆனால் [R] ஆனது [A] யினுடைய சரியான விளக்கம் அல்ல",
+     "en": "Both [A] and [R] are true but [R] is not the correct explanation of [A]"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "கூற்று [A] : தமிழ்நாட்டின் 2024-2025 பொருளாதார ஆய்வறிக்கையின் படி தமிழ்நாட்டின் நகர்ப்புற பணவீக்கம் 2019-2020 ஆம் ஆண்டில் 6% லிருந்து 2024-2025 ஆம் ஆண்டில் 4.5% ஆகக் குறைந்து காணப்படுகிறது. அதே நேரத்தில் கிராமப்புற பணவீக்கம் 5.4% என்ற விகிதத்தில் நிலையாக உள்ளது.",
+     "en": "Assertion [A] : As per the Economic Survey of Tamilnadu 2024-2025 the Urban inflation in Tamilnadu is coming down from 6% in 2019-2020 to 4.5% in 2024-2025. While rural inflation is static at 5.4%."
+    },
+    {
+     "ta": "காரணம் [R] : இது முக்கியமாக அரசாங்கத்தினால் அமல்படுத்தப் பெறும் தமிழ்நாடு பொது விநியோகத் திட்டம் மற்றும் கலைஞர் மகளிர் உரிமைத் திட்டம் மற்றும் நூறு நாள் வேலைவாய்ப்பு உத்திரவாத திட்டம் போன்ற பிற வருமான ஆதரவுத் திட்டங்களால் ஏற்படுகிறது.",
+     "en": "Reason [R] : It is mainly due to the Governments' policy on the Tamilnadu Public Distribution System and other income support schemes like, Kalignar Mahalir Urimai Thittam and hundred days employment guarantee schemes."
+    }
+   ],
+   "explain": {
+    "ta": "கூற்று மற்றும் காரணம் இரண்டும் சரி, மேலும் காரணம் கூற்றுக்கான சரியான விளக்கமாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 157,
+   "part": "B",
+   "unit": "B4",
+   "topic": "mandal-commission-report",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "பின்வருவனவற்றுள் மண்டல் கமிஷன் அறிக்கையோடு தொடர்புடைய சரியான கூற்று(கள்) எது/யாவை?",
+    "en": "Which of the following statement(s) is/are true about \"The Mandal Commission Report\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "இந்த ஆணையமானது சமூகம், கல்வி மற்றும் பொருளாதாரம் என்ற மூன்று குறிகாட்டிகளை பயன்படுத்தியுள்ளது.",
+     "en": "The commission used Three indicators i.e. Social, Educational and Economic."
+    },
+    {
+     "ta": "சூக குறிகாட்டியில் ஐந்து அளவுகோல்களும் மற்றும் கல்வி குறிகாட்டியில் இரண்டு அளவுகோல்களும் பயன்படுத்தப் பெற்றன.",
+     "en": "In social indicator there were five criteria and educational indicators there were two criteria."
+    },
+    {
+     "ta": "பொருளாதார குறிகாட்டியில் நான்கு அளவுகோல்கள் பயன்படுத்தப்பட்டன. ஆக மொத்தம் 11 அளவுகோல்கள் மண்டல் கமிஷன் அறிக்கையில் பயன்படுத்தப்பட்டுள்ளன.",
+     "en": "In economic indicator there were four criteria. Thus there were 11 criteria used in the Mandal Commission Report."
+    }
+   ],
+   "explain": {
+    "ta": "மண்டல் கமிஷன் சமூகம், கல்வி, பொருளாதாரம் என்ற 3 குறிகாட்டிகளையும், மொத்தம் 11 அளவுகோல்களையும் பயன்படுத்தியுள்ளது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 158,
+   "part": "B",
+   "unit": "B5",
+   "topic": "inflation",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்தியாவின் பணவீக்கம் அதிகமாக இருப்பதற்கான காரணம்",
+    "en": "What was the cause for high inflation in India?"
+   },
+   "options": {
+    "A": {
+     "ta": "அதிக தேவை",
+     "en": "High demand"
+    },
+    "B": {
+     "ta": "டாலருக்கு எதிரான ரூபாய் மதிப்பு குறைவு",
+     "en": "Weaken rupee against the dollar"
+    },
+    "C": {
+     "ta": "குறைவான உற்பத்தி",
+     "en": "Low production"
+    },
+    "D": {
+     "ta": "குறைவான பண அளிப்பு",
+     "en": "Low money supply"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "டாலருக்கு எதிரான இந்திய ரூபாயின் மதிப்பு வீழ்ச்சியடைவது இந்தியாவில் பணவீக்கம் அதிகரிக்க ஒரு முக்கியக் காரணமாக அமைகிறது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 159,
+   "part": "B",
+   "unit": "B5",
+   "topic": "poverty-eradication-schemes",
+   "format": "CHRONOLOGY",
+   "stem": {
+    "ta": "வறுமை ஒழிப்பு திட்டங்களை கால வரிசைப்படுத்தி எழுதுக.",
+    "en": "Arrange poverty eradication schemes in chronological order."
+   },
+   "options": {
+    "A": {
+     "ta": "1 2 4 3",
+     "en": "1 2 4 3"
+    },
+    "B": {
+     "ta": "3 1 4 2",
+     "en": "3 1 4 2"
+    },
+    "C": {
+     "ta": "3 2 1 4",
+     "en": "3 2 1 4"
+    },
+    "D": {
+     "ta": "2 3 4 1",
+     "en": "2 3 4 1"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "தேசிய ஊரக வாழ்வாதார திட்டம்",
+     "en": "National Rural Livelihood Mission"
+    },
+    {
+     "ta": "ராஜீவ் ஆவாஸ் யோஜனா",
+     "en": "Rajiv Awas Yojana"
+    },
+    {
+     "ta": "பாரத் நிர்மான் யோஜனா",
+     "en": "Bharat Nirman Yojana"
+    },
+    {
+     "ta": "தேசிய உணவு பாதுகாப்புத் திட்டம்",
+     "en": "National Food Security Scheme"
+    }
+   ],
+   "explain": {
+    "ta": "பாரத் நிர்மான் யோஜனா (2005), ராஜீவ் ஆவாஸ் யோஜனா (2011), தேசிய ஊரக வாழ்வாதார திட்டம் (2011), தேசிய உணவு பாதுகாப்புத் திட்டம் (2013) என்ற சரியான காலவரிசைப்படி 옵ஷன் (C) பொருத்தமானது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 160,
+   "part": "B",
+   "unit": "B5",
+   "topic": "development-programmes",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பொருந்தாத ஒன்றை தேர்ந்தெடுத்து எழுதுக.\n(1) MFAL - இறுதிநிலை விவசாயி மற்றும் விவசாயக் கூலி தொழிலாளி முன்னேற்றத் திட்டம்\n(2) DPAP - வறட்சியால் பாதிக்கப்பட்ட பகுதிக்கான திட்டம்\n(3) DDP - மாவட்ட வளர்ச்சித் திட்டம்\n(4) HDA - மலைப் பகுதிக்கான முன்னேற்றத் திட்டம்",
+    "en": "Which of the following is incorrectly paired?\n(1) MFAL - Marginal Farmers and Agricultural Labourer Development Agency\n(2) DPAP - Drought Prone Area Programme\n(3) DDP - District Development Programme\n(4) HDA - Hill Development Agencies"
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மற்றும் (2)",
+     "en": "(1) and (2)"
+    },
+    "B": {
+     "ta": "(1) மற்றும் (3)",
+     "en": "(1) and (3)"
+    },
+    "C": {
+     "ta": "(3) மற்றும் (4)",
+     "en": "(3) and (4)"
+    },
+    "D": {
+     "ta": "(2) மற்றும் (3)",
+     "en": "(2) and (3)"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "DDP என்பது Desert Development Programme (מד பாலைவன வளர்ச்சித் திட்டம்) ஆகும். எனவே 3 மற்றும் 4 தவறாகப் பொருத்தப்பட்டுள்ளன.",
+    "en": "DDP stands for Desert Development Programme, making pairs (3) and (4) incorrect."
+   }
+  },
+  {
+   "qNo": 161,
+   "part": "B",
+   "unit": "B5",
+   "topic": "incorrect-acronym",
+   "format": "CHRONOLOGY",
+   "stem": {
+    "ta": "பின்வருவனவற்றுள் தவறான இணைப்பு எது?\n(1) TSC - முழு உடல் நலம் காக்கும் நடவடிக்கை\n(2) NIC - தேசிய தகவல் மையம்\n(3) MIS - மேலாண்மைத் தகவல் முறை\n(4) IMIS - ஒருங்கிணைந்த மேலாண்மை உள்கட்டமைப்பு முறை",
+    "en": "Identify the incorrect Acronym :\n(1) TSC - Total Sanitation Campaign\n(2) NIC - National Information Centre\n(3) MIS - Management Information System\n(4) IMIS - Integrated Management Infrastructure System"
+   },
+   "options": {
+    "A": {
+     "ta": "(1), (2), (3) மற்றும் (4)",
+     "en": "(1), (2), (3) and (4)"
+    },
+    "B": {
+     "ta": "(1), (2) மற்றும் (3)",
+     "en": "(1), (2) and (3)"
+    },
+    "C": {
+     "ta": "(1), (2) மற்றும் (4)",
+     "en": "(1), (2) and (4)"
+    },
+    "D": {
+     "ta": "(4) மட்டும்",
+     "en": "(4) only"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "IMIS என்பதன் விரிவாக்கம் Integrated Management Information System ஆகும், எனவே (4) தவறானது.",
+    "en": "IMIS stands for Integrated Management Information System, making (4) incorrect."
+   }
+  },
+  {
+   "qNo": 162,
+   "part": "B",
+   "unit": "B5",
+   "topic": "economic-plans",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சரியான இணையைத் தேர்ந்தெடு :\n1. பாம்பே திட்டம் - 1940\n2. காந்தியத் திட்டம் - 1945\n3. மக்கள் திட்டம் - 1944\n4. சர்வோதயத் திட்டம் - 1950",
+    "en": "Choose the correct pair :\n1. Bombay plan - 1940\n2. Gandhian plan - 1945\n3. People's plan - 1944\n4. Sarvodaya plan - 1950"
+   },
+   "options": {
+    "A": {
+     "ta": "2 மற்றும் 3 சரி",
+     "en": "2 and 3 are correct"
+    },
+    "B": {
+     "ta": "1 மற்றும் 2 சரி",
+     "en": "1 and 2 are correct"
+    },
+    "C": {
+     "ta": "1 மற்றும் 4 சரி",
+     "en": "1 and 4 are correct"
+    },
+    "D": {
+     "ta": "2 மற்றும் 4 சரி",
+     "en": "2 and 4 are correct"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "பாம்பே திட்டம் 1944 இல் வெளியிடப்பட்டது (எனவே 1 தவறு, பாம்பே திட்டம் 1944). காந்தியத் திட்டம் 1944, மக்கள் திட்டம் 1945. சர்வோதயத் திட்டம் 1950.",
+    "en": "Bombay Plan was in 1944, Gandhian Plan in 1944, People's Plan in 1945, Sarvodaya Plan in 1950."
+   }
+  },
+  {
+   "qNo": 163,
+   "part": "A",
+   "unit": "A7",
+   "topic": "thirukkural",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "கொக்கொக்க கூம்பும் பருவத்து மற்றதன் குத்தொக்க சீர்த்த இடத்து\nஇக்குறட்பாவின் கருத்து",
+    "en": "Kokkokka Koompum Paruvaththu Matradhan Kuththokka Seerththa Itaththu\nAs Heron with folded wing, so wait in waiting hour; As Heron snaps its prey, when fortune smiles, put forth your power - Denotes."
+   },
+   "options": {
+    "A": {
+     "ta": "(1) - சரி (2) - தவறு (3) - தவறு (4) - தவறு",
+     "en": "(1) - Right (2) - Wrong (3) - Wrong (4) - Wrong"
+    },
+    "B": {
+     "ta": "(1) - தவறு (2) - சரி (3) - சரி (4) - தவறு",
+     "en": "(1) - Wrong (2) - Right (3) - Right (4) - Wrong"
+    },
+    "C": {
+     "ta": "(1) - தவறு (2) - சரி (3) - தவறு (4) - சரி",
+     "en": "(1) - Wrong (2) - Right (3) - Wrong (4) - Right"
+    },
+    "D": {
+     "ta": "(1) - சரி (2) - தவறு (3) - சரி (4) - சரி",
+     "en": "(1) - Right (2) - Wrong (3) - Right (4) - Right"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(1) கொக்கைப் போன்று செயல்படுவது தவறு.\n(2) காலம் கைகூடுவதற்குக் காத்திருக்க வேண்டும்.\n(3) இக்குறள் தெரிந்துதெளிதல் என்னும் அதிகாரத்தில் இடம் பெற்றுள்ளது.\n(4) 'வாடியிருக்குமாம் கொக்கு' என்ற சொல் இக்குறட்பாவிற்குப் பொருத்தமான விளக்கம் தரும்.",
+     "en": "(1) To act like a Heron is incorrect.\n(2) You must wait till the Time Ripens.\n(3) This Kural appears in the Chapter titled \"Therinthu Thelithal\".\n(4) \"Vaadiyirukkumaam Kokku\" is the phrase best suited to this Thirukkural."
+    }
+   ],
+   "explain": {
+    "ta": "இக்குறள் காலம் அறிதல் அதிகாரத்தில் இடம்பெற்றுள்ளது. 2 மற்றும் 4 சரியான கூற்றுகள் ஆகும்.",
+    "en": "This Kural appears under Kaalam Aridhal chapter."
+   }
+  },
+  {
+   "qNo": 164,
+   "part": "A",
+   "unit": "A7",
+   "topic": "thirukkural",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "“மனத்தொடு வாய்மை மொழியின் தவத்தொடு தானஞ்செய் வாரின் தலை”.",
+    "en": "“Manaththodu vaiymai mozhiyin thavaththodu Thaananj Seyvaarin Thalai”."
+   },
+   "options": {
+    "A": {
+     "ta": "கூற்று 1 - சரி",
+     "en": "Statement 1 - Correct"
+    },
+    "B": {
+     "ta": "கூற்று 2 - சரி",
+     "en": "Statement 2 - Correct"
+    },
+    "C": {
+     "ta": "கூற்று 1, 2 - சரி",
+     "en": "Statement 1 and 2 - Correct"
+    },
+    "D": {
+     "ta": "கூற்று 1, 2 - தவறு",
+     "en": "Statement 1 and 2 - Incorrect"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "வாய்மை பேசுபவர்கள் தானம், தவம் செய்பவர்களை விட சிறந்தவர்கள்.",
+     "en": "Those who speak the TRUTH are always more superior than those who practice charity or penance."
+    },
+    {
+     "ta": "வாய்மையையே பேசினாலும் தானம், தவம் செய்பவரே சிறந்தவர்.",
+     "en": "Those who practice charity and penance are far better than who speak the TRUTH."
+    }
+   ],
+   "explain": {
+    "ta": "மனத்தோடு பொருந்த வாய்மை பேசுபவர், தவம் மற்றும் தானம் செய்பவர்களை விட உயர்ந்தவர் ஆவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 165,
+   "part": "B",
+   "unit": "B6",
+   "topic": "social-reformers",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக.",
+    "en": "Match the following type :"
+   },
+   "options": {
+    "A": {
+     "ta": "1 2 3 4",
+     "en": "1 2 3 4"
+    },
+    "B": {
+     "ta": "4 3 2 1",
+     "en": "4 3 2 1"
+    },
+    "C": {
+     "ta": "4 3 1 2",
+     "en": "4 3 1 2"
+    },
+    "D": {
+     "ta": "1 2 4 3",
+     "en": "1 2 4 3"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "அயோத்திதாசப் பண்டிதர்",
+      "en": "Iyotheethass Pandithar"
+     },
+     {
+      "ta": "இராமலிங்க அடிகள்",
+      "en": "Ramalinga Adigal"
+     },
+     {
+      "ta": "ஜோதிபா பூலே",
+      "en": "Jotiba Phule"
+     },
+     {
+      "ta": "சையது அகமது கான்",
+      "en": "Syed Ahmed Khan"
+     }
+    ],
+    "right": [
+     {
+      "ta": "தத்கிப்-ஓல்-அக்லுக்",
+      "en": "Tahdhip-ul-Akhluq"
+     },
+     {
+      "ta": "குலாம்கிரி",
+      "en": "Gulamgiri"
+     },
+     {
+      "ta": "திருவருட்பா",
+      "en": "Thiruvarutpa"
+     },
+     {
+      "ta": "ஒரு பைசாத் தமிழன்",
+      "en": "Oru Paisa Tamilan"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "அயோத்திதாசப் பண்டிதர் - ஒரு பைசாத் தமிழன் (4), இராமலிங்க அடிகள் - திருவருட்பா (3), ஜோதிபா பூலே - குலாம்கிரி (2), சையது அகமது கான் - தத்கிப்-ஓல்-அக்லுக் (1).",
+    "en": "Correct matching is a-4, b-3, c-2, d-1."
+   }
+  },
+  {
+   "qNo": 167,
+   "part": "B",
+   "unit": "B6",
+   "topic": "ramalinga-adigal",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "இராமலிங்க அடிகளாரைப் பற்றிய எந்தக் கருத்து சரியானது?",
+    "en": "Which of the following statements are true about Ramalinga Adigal?"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "இசைக் கருவிகள் தவிர்த்து மனம் ஒன்றிடல் வேண்டும் என்றார்.",
+     "en": "He said that apart from musical Instruments the mind should unite."
+    },
+    {
+     "ta": "விவசாயிகளுக்காக இரவு நேரப் பள்ளியைத் தொடங்கினார்.",
+     "en": "He started night schools for farmers."
+    },
+    {
+     "ta": "மனிதத் தொண்டாற்றல் மூலம் வாழ்வில் முழுப் பயனைப் பெற்று இறையோடு ஒன்ற வேண்டும் என்றார்.",
+     "en": "He said that through human charity one should get full benefit in life and be one with God."
+    }
+   ],
+   "explain": {
+    "ta": "(i) மற்றும் (iii) ஆகியவை இராமலிங்க அடிகளார் பற்றிய சரியான கூற்றுகள் ஆகும்.",
+    "en": "Statements (i) and (iii) are correct about Ramalinga Adigal."
+   }
+  },
+  {
+   "qNo": 170,
+   "part": "A",
+   "unit": "A7",
+   "topic": "tamil-literature",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்கண்ட நூல்களை ஆசிரியர்களுடன் பொருத்தவும்.",
+    "en": "Match the Works/Books with the author's :"
+   },
+   "options": {
+    "A": {
+     "ta": "1 3 4 2",
+     "en": "1 3 4 2"
+    },
+    "B": {
+     "ta": "1 4 2 3",
+     "en": "1 4 2 3"
+    },
+    "C": {
+     "ta": "3 4 2 1",
+     "en": "3 4 2 1"
+    },
+    "D": {
+     "ta": "3 4 1 2",
+     "en": "3 4 1 2"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) வெற்றிவேற்கை",
+      "en": "(a) Vetriverkai"
+     },
+     {
+      "ta": "(b) நன்னெறி",
+      "en": "(b) Nanneri"
+     },
+     {
+      "ta": "(c) நீதிநெறி விளக்கம்",
+      "en": "(c) Neethinerivilakam"
+     },
+     {
+      "ta": "(d) நல்வழி",
+      "en": "(d) Nalvazhi"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. ஒளவையார்",
+      "en": "1. Avaiyar"
+     },
+     {
+      "ta": "2. குமரகுருபரர்",
+      "en": "2. Kumara Kurubarar"
+     },
+     {
+      "ta": "3. அதிவீரராம பாண்டியர்",
+      "en": "3. Athiveerarama Pandiyar"
+     },
+     {
+      "ta": "4. துறைமங்கலம் சிவப்பிரகாசர்",
+      "en": "4. Duraimangalam Sivaprakasar"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "வெற்றிவேற்கை - அதிவீரராம பாண்டியர், நன்னெறி - துறைமங்கலம் சிவப்பிரகாசர், நீதிநெறி விளக்கம் - குமரகுருபரர், நல்வழி - ஒளவையார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 171,
+   "part": "B",
+   "unit": "B6",
+   "topic": "excavated-places-districts",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பின்வருவனவற்றுள் அகழ்வாராய்ச்சி நடைபெற்ற ஊர்களை அவ்பூர் அமைந்துள்ள மாவட்டத்துடன் பொருத்திக் காட்டுக.",
+    "en": "Match correctly the Excavated places with their corresponding Districts."
+   },
+   "options": {
+    "A": {
+     "ta": "1 4 3 2",
+     "en": "1 4 3 2"
+    },
+    "B": {
+     "ta": "4 2 3 1",
+     "en": "4 2 3 1"
+    },
+    "C": {
+     "ta": "3 1 2 4",
+     "en": "3 1 2 4"
+    },
+    "D": {
+     "ta": "4 3 2 1",
+     "en": "4 3 2 1"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) அழகன்குளம்",
+      "en": "(a) Azhagankulam"
+     },
+     {
+      "ta": "(b) வசவசமுத்திரம்",
+      "en": "(b) Vasavasamudram"
+     },
+     {
+      "ta": "(c) கொடுமணல்",
+      "en": "(c) Kodumanal"
+     },
+     {
+      "ta": "(d) கீழடி",
+      "en": "(d) Keezhadi"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. சிவங்கை",
+      "en": "1. Sivagangai"
+     },
+     {
+      "ta": "2. ஈரோடு",
+      "en": "2. Erode"
+     },
+     {
+      "ta": "3. காஞ்சிபுரம்",
+      "en": "3. Kanchipuram"
+     },
+     {
+      "ta": "4. இராமநாதபுரம்",
+      "en": "4. Ramanathapuram"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "அழகன்குளம் - இராமநாதபுரம், வசவசமுத்திரம் - காஞ்சிபுரம், கொடுமணல் - ஈரோடு, கீழடி - சிவங்கை.",
+    "en": "Azhagankulam - Ramanathapuram, Vasavasamudram - Kanchipuram, Kodumanal - Erode, Keezhadi - Sivagangai."
+   }
+  },
+  {
+   "qNo": 172,
+   "part": "B",
+   "unit": "B1",
+   "topic": "human-diseases",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்க்காணும் நோய்களும் (Column I) அதனால் ஏற்படும் பாதிப்புகளையும் (Column II) பொருத்துக :",
+    "en": "Match the diseases in Column I with the site of infectious in Column II :"
+   },
+   "options": {
+    "A": {
+     "ta": "2 1 4 3",
+     "en": "2 1 4 3"
+    },
+    "B": {
+     "ta": "2 1 3 4",
+     "en": "2 1 3 4"
+    },
+    "C": {
+     "ta": "2 4 3 1",
+     "en": "2 4 3 1"
+    },
+    "D": {
+     "ta": "1 3 2 4",
+     "en": "1 3 2 4"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) டெங்கு",
+      "en": "(a) Dengue"
+     },
+     {
+      "ta": "(b) இளம்பிள்ளை வாதம்",
+      "en": "(b) Polio myelitis"
+     },
+     {
+      "ta": "(c) தட்டம்மை",
+      "en": "(c) Measles"
+     },
+     {
+      "ta": "(d) சின்னம்மை",
+      "en": "(d) Chicken Pox"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. குடல், மூளை",
+      "en": "1. Intestine, Brain"
+     },
+     {
+      "ta": "2. தோல், இரத்தம்",
+      "en": "2. Skin and Blood"
+     },
+     {
+      "ta": "3. சுவாசப்பாதை, நரம்பு மண்டலம்",
+      "en": "3. Respiratory tract and Nervous system"
+     },
+     {
+      "ta": "4. தோல், சுவாசப்பாதை",
+      "en": "4. Skin and Respiratory tract"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "டெங்கு - தோல், இரத்தம் (2), இளம்பிள்ளை வாதம் - குடல், மூளை (1), தட்டம்மை - தோல், சுவாசப்பாதை (4), சின்னம்மை - சுவாசப்பாதை, நரம்பு மண்டலம் (3). எனவே சரியான விடை (A) ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 174,
+   "part": "B",
+   "unit": "B5",
+   "topic": "vidiyal-payanam-scheme",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தமிழ்நாட்டில், விடியல் பயணம் திட்டம் எப்போது அறிமுகப்படுத்தப்பட்டது?",
+    "en": "In Tamil Nadu, Vidiyal Payanam Scheme introduced in the month of"
+   },
+   "options": {
+    "A": {
+     "ta": "மே, 2021",
+     "en": "May, 2021"
+    },
+    "B": {
+     "ta": "டிசம்பர், 2021",
+     "en": "December, 2021"
+    },
+    "C": {
+     "ta": "மார்ச், 2022",
+     "en": "March, 2022"
+    },
+    "D": {
+     "ta": "அக்டோபர், 2021",
+     "en": "October, 2021"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "மகளிருக்கு இலவச பேருந்து பயணம் வழங்கும் விடியல் பயணம் திட்டம் மே 2021 இல் தொடங்கப்பட்டது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 176,
+   "part": "B",
+   "unit": "B2",
+   "topic": "agriculture",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்கண்டவற்றை பொருத்துக :",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "1 4 3 2",
+     "en": "1 4 3 2"
+    },
+    "B": {
+     "ta": "3 4 1 2",
+     "en": "3 4 1 2"
+    },
+    "C": {
+     "ta": "4 2 3 1",
+     "en": "4 2 3 1"
+    },
+    "D": {
+     "ta": "2 3 4 1",
+     "en": "2 3 4 1"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "லடாங்",
+      "en": "Ladang"
+     },
+     {
+      "ta": "மில்பா",
+      "en": "Milpa"
+     },
+     {
+      "ta": "ரோக்கா",
+      "en": "Roca"
+     },
+     {
+      "ta": "ரே",
+      "en": "Ray"
+     }
+    ],
+    "right": [
+     {
+      "ta": "மலேசியா",
+      "en": "Malaysia"
+     },
+     {
+      "ta": "வியட்நாம்",
+      "en": "Vietnam"
+     },
+     {
+      "ta": "பிரேசில்",
+      "en": "Brazil"
+     },
+     {
+      "ta": "மெக்சிகோ",
+      "en": "Mexico"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "லடாங் - மலேசியா (1), மில்பா - மெக்சிகோ (4), ரோக்கா - பிரேசில் (3), ரே - வியட்நாம் (2). எனவே சரியான விடை (A).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 177,
+   "part": "B",
+   "unit": "B6",
+   "topic": "ancient-indian-authors",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்கண்டவற்றைப் பொருத்துக.\nஆசிரியர்\n(a) அமோகவர்ஷர்\n(b) ஜீனசேனர்\n(c) குணபத்ரர்\n(d) பாணர்\nநூல்\n1. மகாபுராணம்\n2. கவிராஜமார்க்கம்\n3. காதம்பரி\n4. ஆதிபுராணம்",
+    "en": "Match the following :\nAuthor\n(a) Amoghavarsha\n(b) Jinasena\n(c) Gunabhadra\n(d) Bana\nWork\n1. Mahapurana\n2. Kavirajamarga\n3. Kadambari\n4. Adipurana"
+   },
+   "options": {
+    "A": {
+     "ta": "2 4 3 1",
+     "en": "2 4 3 1"
+    },
+    "B": {
+     "ta": "2 4 1 3",
+     "en": "2 4 1 3"
+    },
+    "C": {
+     "ta": "2 3 4 1",
+     "en": "2 3 4 1"
+    },
+    "D": {
+     "ta": "2 3 1 4",
+     "en": "2 3 1 4"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) அமோகவர்ஷர்",
+      "en": "(a) Amoghavarsha"
+     },
+     {
+      "ta": "(b) ஜீனசேனர்",
+      "en": "(b) Jinasena"
+     },
+     {
+      "ta": "(c) குணபத்ரர்",
+      "en": "(c) Gunabhadra"
+     },
+     {
+      "ta": "(d) பாணர்",
+      "en": "(d) Bana"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. மகாபுராணம்",
+      "en": "1. Mahapurana"
+     },
+     {
+      "ta": "2. கவிராஜமார்க்கம்",
+      "en": "2. Kavirajamarga"
+     },
+     {
+      "ta": "3. காதம்பரி",
+      "en": "3. Kadambari"
+     },
+     {
+      "ta": "4. ஆதிபுராணம்",
+      "en": "4. Adipurana"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "அமோகவர்ஷர் - கவிராஜமார்க்கம், ஜீனசேனர் - ஆதிபுராணம், குணபத்ரர் - மகாபுராணம், பாணர் - காதம்பரி.",
+    "en": "Amoghavarsha wrote Kavirajamarga, Jinasena wrote Adipurana, Gunabhadra wrote Mahapurana, and Bana wrote Kadambari."
+   }
+  },
+  {
+   "qNo": 178,
+   "part": "B",
+   "unit": "B6",
+   "topic": "velu-nachiyar-statements",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "கீழ்க்கண்ட கூற்றுகளில் வேலுநாச்சியார் பற்றி எது/எவை சரியானவை?",
+    "en": "Which of the following statements are true about Velu Nachiyar?"
+   },
+   "options": {
+    "A": {
+     "ta": "(ii) மட்டும்",
+     "en": "(ii) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii)",
+     "en": "(i) and (iii)"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (ii)",
+     "en": "(i) and (ii)"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iii)",
+     "en": "(ii) and (iii)"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "(i) வேலுநாச்சியார் சிவகங்கை அரசனான செல்லமுத்து சேதுபதியின் மகள் ஆவார்.",
+     "en": "Velu Nachiyar was the daughter of Chellamuthu Sethupathi, King of Sivagangai."
+    },
+    {
+     "ta": "(ii) வேலுநாச்சியாரின் கணவர் நவாபின் படைகளால் கொல்லப்பட்டதால் ஆங்கிலேயரைத் தாக்கும் நோக்கத்துடன் கோபால் நாயக்கர், ஹைதர் அலி ஆகியோருடன் கூட்டணி அமைத்தார்.",
+     "en": "Velu Nachiyar's husband was assassinated by the Nawab Army and to attack the Nawab and British. She joined with Gopal Naicker and Hyder Ali."
+    },
+    {
+     "ta": "(iii) வேலுநாச்சியார் நோயுற்று 1790 -இல் இறந்தார்.",
+     "en": "In 1790, she died due to illness."
+    }
+   ],
+   "explain": {
+    "ta": "வேலுநாச்சியார் சிவகங்கை மன்னர் செல்லமுத்து விஜயரகுநாத சேதுபதியின் மகள் ஆவார். அவர் 1796-இல் காலமானார்.",
+    "en": "Velu Nachiyar was the daughter of Chellamuthu Vijayaragunatha Sethupathi and she passed away in 1796."
+   }
+  },
+  {
+   "qNo": 179,
+   "part": "B",
+   "unit": "B3",
+   "topic": "gandhi-irwin-pact",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "கீழ்க்கண்டவற்றில் காந்தி-இர்வின் ஒப்பந்தத்தில் ஏற்றுக்கொள்ளப்பட்ட அம்சங்கள் எவை?",
+    "en": "Which of the following points were accepted in Gandhi-Irwin Pact?"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iv) மட்டும்",
+     "en": "(ii) and (iv) only"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "உப்பை சுய பயன்பாட்டுக்கு உற்பத்தி செய்ய அனுமதிப்பது.",
+     "en": "People allowed to make salt for their consumption."
+    },
+    {
+     "ta": "வன்முறையில் ஈடுபடாத அரசியல் கைதிகளை தொடர்ந்து சிறையில் வைப்பது.",
+     "en": "Not releasing the political prisoners who had not indulged in violence."
+    },
+    {
+     "ta": "அந்நியத் துணிகளை விற்கும் கடைகளின் முன் ஆர்ப்பாட்டங்களை நடத்த அனுமதிப்பது.",
+     "en": "Permitted picketing of foreign cloth shops."
+    },
+    {
+     "ta": "பகத்சிங் மற்றும் அவரது தோழர்களுக்கு விதிக்கப்பட்ட மரண தண்டனையைக் குறைப்பது.",
+     "en": "Reduced the death sentence of Bhagat Singh and his Comrades."
+    }
+   ],
+   "explain": {
+    "ta": "காந்தி-இர்வின் ஒப்பந்தத்தின்படி உப்பை சுய பயன்பாட்டிற்கு உற்பத்தி செய்யவும், அந்நியத் துணிக் கடைகள் முன் மறியல் செய்யவும் அனுமதி வழங்கப்பட்டது.",
+    "en": "Gandhi-Irwin pact included the right to make salt for consumption and permission for peaceful picketing of liquor and foreign cloth shops."
+   }
+  },
+  {
+   "qNo": 180,
+   "part": "B",
+   "unit": "B6",
+   "topic": "madurai-harvi-mill-strike",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "பின்வருவனவற்றுள் எவை சரியானவை?",
+    "en": "Consider the following statements and identify the correct answer :"
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மட்டும்",
+     "en": "(1) only"
+    },
+    "B": {
+     "ta": "(2) மட்டும்",
+     "en": "(2) only"
+    },
+    "C": {
+     "ta": "(1), (3) மற்றும் (4) மட்டும்",
+     "en": "(1), (3) and (4) only"
+    },
+    "D": {
+     "ta": "(1), (2) மற்றும் (3) மட்டும்",
+     "en": "(1), (2) and (3) only"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "மதுரையில் ஹார்வி மில் தொழிலாளர்கள் 1918-இல் வேலை நிறுத்தத்தில் ஈடுபட்டனர்.",
+     "en": "In 1918, Madurai Harvi Mill labours strike happened."
+    },
+    {
+     "ta": "மதுரை ஹார்வி மில் தொழிற்சங்கத் தலைவராக பி.பி. வாடியா இருந்தார்.",
+     "en": "B.B. Wadhiya was the labour union leader of Madurai Harvi Mill."
+    },
+    {
+     "ta": "டாக்டர். பி. வரதராஜலு அவர்களின் தொழிலாளர் ஆதரவு பேச்சு அரசாங்கத்தின் கண்களைத் திறக்கக் காரணமாயிற்று.",
+     "en": "Dr. P. Varadharajulu's speech was an eye opener to the government."
+    },
+    {
+     "ta": "டாக்டர். பி. வரதராஜலு “பிரபஞ்ச மித்திரன்” என்ற பத்திரிகையை நடத்தினார்.",
+     "en": "Dr. P. Varadharajulu was the Author of \"Prabanja Mitran\" Magazine."
+    }
+   ],
+   "explain": {
+    "ta": "மதுரை ஹார்வி மில் வேலைநிறுத்தம் 1918-ல் நடைபெற்றது. டாக்டர் பி. வரதராஜலு தொழிலாளர்களை ஆதரித்துப் பேசினார் மற்றும் 'பிரபஞ்ச மித்திரன்' பத்திரிகையை நடத்தினார்.",
+    "en": "Madurai Harvey mill strike took place in 1918. Dr. P. Varadharajulu supported the labourers and edited 'Prabanja Mitran'."
+   }
+  },
+  {
+   "qNo": 181,
+   "part": "B",
+   "unit": "B3",
+   "topic": "subhas-chandra-bose",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "சுபாஷ் சந்திர போஸைப் பற்றி பின்வரும் கூற்றுகளில் தவறானது :",
+    "en": "False statements about Subhas Chandra Bose are:"
+   },
+   "options": {
+    "A": {
+     "ta": "(iii) மட்டும்",
+     "en": "(iii) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "C": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    },
+    "D": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "சுபாஷ் சந்திர போஸ் ஜனவரி 23, 1897 அன்று மேற்கு வங்காளத்தின் கல்கத்தாவில் பிறந்தார்.",
+     "en": "Subhas Chandra Bose was born on 23rd January 1897, in Calcutta, West Bengal."
+    },
+    {
+     "ta": "இந்திய அரசு அவரது பிறந்த நாளான ஜனவரி 23 ஆம் தேதியை \"தைரிய நாள்\" என்று அறிவித்துள்ளது.",
+     "en": "The Government of India has declared his birthday, 23rd January as \"Parakram Diwas\"."
+    },
+    {
+     "ta": "சுபாஷ் சந்திர போஸின் பாரம்பரியத்தைப் போற்றும் வகையில் ஜனவரி 23 ஆம் தேதி தேசிய விடுமுறை நாளாகும்.",
+     "en": "To honour of Subhas Chandra Bose's legacy, 23rd January is a National holiday."
+    }
+   ],
+   "explain": {
+    "ta": "சுபாஷ் சந்திர போஸ் பிறந்த நாள் பராக்ரம் திவாஸ் என அறிவிக்கப்பட்டாலும், அது தேசிய விடுமுறை நாள் அல்ல.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 182,
+   "part": "B",
+   "unit": "B4",
+   "topic": "indian-polity",
+   "format": "MATCH",
+   "stem": {
+    "ta": "குடியரசு தின விழாவிற்கு தலைமை வகித்தக் குடியரசுத் தலைவரையும் அவளுடன் சிறப்பு விருந்தினராக கலந்து கொண்ட விருந்தினரையும் பொருத்திக் காட்டுக.",
+    "en": "Match the Presidents listed below with the distinguished guests who attended the Republic Day celebrations held under their leadership."
+   },
+   "options": {
+    "A": {
+     "ta": "1 4 3 2",
+     "en": "1 4 3 2"
+    },
+    "B": {
+     "ta": "2 3 4 1",
+     "en": "2 3 4 1"
+    },
+    "C": {
+     "ta": "3 4 1 2",
+     "en": "3 4 1 2"
+    },
+    "D": {
+     "ta": "4 2 3 1",
+     "en": "4 2 3 1"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "திரௌபதி முர்மு",
+      "en": "Droupadi Murmu"
+     },
+     {
+      "ta": "ஏ.பி.ஜே. அப்துல்கலாம்",
+      "en": "A.P.J. Abdul Kalam"
+     },
+     {
+      "ta": "பிரணாப் முகர்ஜி",
+      "en": "Pranab Mukherjee"
+     },
+     {
+      "ta": "ராம் நாத் கோவிந்த்",
+      "en": "Ram Nath Kovind"
+     }
+    ],
+    "right": [
+     {
+      "ta": "सिरில் ராமபோசா (சிரில் ராமபோசா)",
+      "en": "Cyril Ramaphosa"
+     },
+     {
+      "ta": "பிரபோவா சுபியாண்டோ",
+      "en": "Prabowo Subianto"
+     },
+     {
+      "ta": "விலாடிமிர் புடின்",
+      "en": "Vladimir Putin"
+     },
+     {
+      "ta": "பராக் ஒபாமா",
+      "en": "Barack Obama"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "பொருத்தமான வரிசை B (2 3 4 1) ஆகும்.",
+    "en": "The correct matching is B (2 3 4 1)."
+   }
+  },
+  {
+   "qNo": 183,
+   "part": "B",
+   "unit": "B5",
+   "topic": "dvac-toll-free-number",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தமிழ்நாடு ஊழல் தடுப்பு மற்றும் கண்காணிப்புத் துறை இயக்குநரகத்தின் இலவச அழைப்பு எண்",
+    "en": "Directorate of Vigilance and Anti-corruption Tamil Nadu Toll free No. is :"
+   },
+   "options": {
+    "A": {
+     "ta": "(4)",
+     "en": "(4)"
+    },
+    "B": {
+     "ta": "(2)",
+     "en": "(2)"
+    },
+    "C": {
+     "ta": "(1)",
+     "en": "(1)"
+    },
+    "D": {
+     "ta": "(3)",
+     "en": "(3)"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "தமிழ்நாடு ஊழல் தடுப்பு மற்றும் கண்காணிப்புத் துறையின் இலவச அழைப்பு எண்கள் 1064 மற்றும் 1965 ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 184,
+   "part": "B",
+   "unit": "B4",
+   "topic": "election-statements",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "தேர்தல் பற்றிய சரியான கூற்றுகளைக் கண்டறிக.",
+    "en": "Find out the correct statements on election"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "2003ல் எல்லா மாநில தேர்தலில் வாக்குப் பதிவு இயந்திரம் பயன்படுத்தப்பட்டது.",
+     "en": "In all the states elections EVMS were used in 2003."
+    },
+    {
+     "ta": "மக்களவைத் தேர்தல் 2004ல் வாக்குப் பதிவு இயந்திரம் மட்டும் பயன்படுத்தப்படும் என்றும் வரலாற்று முடிவை எடுத்துள்ளது ஆணையம்.",
+     "en": "The commission took a historic decision to use only EVMS for the Lok Sabha election in 2004."
+    },
+    {
+     "ta": "இரண்டு மில்லியன் வாக்குப் பதிவு இயந்திரம் இந்தத் தேர்தலில் பயன்படுத்தப்பட்டது.",
+     "en": "Two million EVMS were used in this elections."
+    }
+   ],
+   "explain": {
+    "ta": "தேர்தல் ஆணையத்தின் கூற்றுப்படி (i) மற்றும் (ii) சரியானவை.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 185,
+   "part": "B",
+   "unit": "B5",
+   "topic": "panchayat-raj-committees",
+   "format": "MATCH",
+   "stem": {
+    "ta": "சரியானவற்றோடு பொருத்துக :",
+    "en": "Choose the right matches :"
+   },
+   "options": {
+    "A": {
+     "ta": "(1) மற்றும் (3) மட்டும் சரி",
+     "en": "(1) and (3) are correct"
+    },
+    "B": {
+     "ta": "(1) மற்றும் (4) மட்டும் சரி",
+     "en": "(1) and (4) are correct"
+    },
+    "C": {
+     "ta": "(2) மற்றும் (3) மட்டும் சரி",
+     "en": "(2) and (3) are correct"
+    },
+    "D": {
+     "ta": "(3) மற்றும் (4) மட்டும் சரி",
+     "en": "(3) and (4) are correct"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "பஞ்சாயத்து ராஜ் தேர்தல் குழு",
+      "en": "Committee on Panchayat Raj Election"
+     },
+     {
+      "ta": "பஞ்சாயத்து ராஜ் பகுப்பாய்வு மற்றும் புள்ளியல் குழு",
+      "en": "Committee on Rationalisation of Panchayat statistics"
+     },
+     {
+      "ta": "பஞ்சாயத்து ராஜ் பயிற்சி குழு",
+      "en": "Committee on Panchayat Raj Training centres"
+     },
+     {
+      "ta": "பஞ்சாயத்து ராஜ் நிர்வாகக் குழு",
+      "en": "Study team on Panchayat Raj Administration"
+     }
+    ],
+    "right": [
+     {
+      "ta": "K. சந்தானம்",
+      "en": "K. Shanthanam"
+     },
+     {
+      "ta": "G. ராமச்சந்திரன்",
+      "en": "G. Ramachandran"
+     },
+     {
+      "ta": "V.K. ராவ்",
+      "en": "V.K. Rao"
+     },
+     {
+      "ta": "V. ஈஸ்வரன்",
+      "en": "V. Iswaran"
+     }
+    ]
+   }
+  },
+  {
+   "qNo": 186,
+   "part": "B",
+   "unit": "B4",
+   "topic": "directive-principles-of-state-policy",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "அரசு வழிகாட்டும் நெறிமுறைகள் மீதான சரியான கூற்றானது.",
+    "en": "The correct statements on the Directive principles of state policy are"
+   },
+   "options": {
+    "A": {
+     "ta": "(i) மட்டும்",
+     "en": "(i) only"
+    },
+    "B": {
+     "ta": "(i) மற்றும் (iii) மட்டும்",
+     "en": "(i) and (iii) only"
+    },
+    "C": {
+     "ta": "(i) மற்றும் (ii) மட்டும்",
+     "en": "(i) and (ii) only"
+    },
+    "D": {
+     "ta": "(ii) மற்றும் (iii) மட்டும்",
+     "en": "(ii) and (iii) only"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "அரசு வழிகாட்டும் நெறிமுறைகள் உறுப்பு 36 முதல் 51 வரை அரசமைப்பில் கொடுக்கப்பட்டுள்ளது.",
+     "en": "The Directive principles of the state policy are provided in Article 36 to 51 of the constitution."
+    },
+    {
+     "ta": "அரசமைப்பை உருவாக்கியவர்கள் இந்த சிந்தனையை ஸ்பானிஷ் அரசமைப்பிடம் பெற்றனர்.",
+     "en": "The framers of the constitution borrowed this idea from the Spanish constitution."
+    },
+    {
+     "ta": "அரசு வழிகாட்டும் நெறிமுறைகள் என்பது அரசமைப்பின் ஆன்மாவாகும்.",
+     "en": "The Directive principles form the soul of the constitution."
+    }
+   ],
+   "explain": {
+    "ta": "அரசு வழிகாட்டும் நெறிமுறைகள் உறுப்பு 36-51 வரை கூறப்பட்டுள்ளன மற்றும் அயர்லாந்து அரசியலமைப்பிலிருந்து பெறப்பட்டவை (ஸ்பெயின் மூலம் அயர்லாந்து பெற்றது).",
+    "en": "Directive Principles are covered in Articles 36-51 and were borrowed from the Irish Constitution."
+   }
+  },
+  {
+   "qNo": 189,
+   "part": "C",
+   "unit": "C1",
+   "topic": "field-book-area",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "நில அளவை புத்தகத்தில் நிலமானது பின்வருமாறு மதிப்புகள் குறிக்கப்பட்டுள்ளன\n\nநிலத்தின் பரப்பளவு என்பது",
+    "en": "The reading in a field book are as given below\n\nThe area of the field is"
+   },
+   "options": {
+    "A": {
+     "ta": "6550 மீ²",
+     "en": "6550 m²"
+    },
+    "B": {
+     "ta": "7550 மீ²",
+     "en": "7550 m²"
+    },
+    "C": {
+     "ta": "5750 மீ²",
+     "en": "5750 m²"
+    },
+    "D": {
+     "ta": "5650 மீ²",
+     "en": "5650 m²"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "களப் புத்தகக் கணக்கீடுகளின்படி நிலத்தின் பரப்பளவு 6550 மீ² ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 190,
+   "part": "C",
+   "unit": "C1",
+   "topic": "ratio-proportion",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒருவர் தன்னud உடைய நான்கு நண்பர்கள் A, B, C மற்றும் D ஆகியவர்க்கு தனது பேனாக்களை $\\frac{1}{3} : \\frac{1}{4} : \\frac{1}{5} : \\frac{1}{6}$ ஆகிய விகிதங்களில் விநியோகிக்கிறார் எனில் அவர் வைத்திருக்க வேண்டிய பேனாக்களின் குறைந்தபட்ச எண்ணிக்கை ____________.",
+    "en": "A person distributes his pens among four friends A, B, C and D in the ratio $\\frac{1}{3} : \\frac{1}{4} : \\frac{1}{5} : \\frac{1}{6}$ then the minimum number of pens that the person should have is ____________."
+   },
+   "options": {
+    "A": {
+     "ta": "23",
+     "en": "23"
+    },
+    "B": {
+     "ta": "55",
+     "en": "55"
+    },
+    "C": {
+     "ta": "57",
+     "en": "57"
+    },
+    "D": {
+     "ta": "65",
+     "en": "65"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட விகிதங்களின் மீச்சிறு பொது மடங்கு (LCM) மூலம் குறைந்தபட்ச எண்ணிக்கை 57 என கண்டறியப்படுகிறது.",
+    "en": "The minimum number is found to be 57 using the LCM of the denominators."
+   }
+  },
+  {
+   "qNo": 191,
+   "part": "C",
+   "unit": "C1",
+   "topic": "ratio-proportion",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$2, 5, x, 20$ ஆகிய எண்களை அதே வரிசையில் பயன்படுத்தி அமையும் விகிதங்கள் விகித சமமாக இருப்பின், '$x$-ன் மதிப்பு",
+    "en": "If the ratios formed using the numbers $2, 5, x, 20$ are in the same order of proportion, then the value of $x$ is"
+   },
+   "options": {
+    "A": {
+     "ta": "50",
+     "en": "50"
+    },
+    "B": {
+     "ta": "10",
+     "en": "10"
+    },
+    "C": {
+     "ta": "8",
+     "en": "8"
+    },
+    "D": {
+     "ta": "4",
+     "en": "4"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "விகித சம விதியின்படி $2 : 5 :: x : 20 \\implies 5x = 40 \\implies x = 8$.",
+    "en": "By the rule of proportion, $2 : 5 :: x : 20 \\implies 5x = 40 \\implies x = 8$."
+   }
+  },
+  {
+   "qNo": 192,
+   "part": "C",
+   "unit": "C1",
+   "topic": "hcf",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$108$ மற்றும் $234$ ஆகியவற்றின் மீப்பெரு பொது வகுத்தியை $23x - 51$, என்ற வடிவில் எழுதினால் $x$-ன் மதிப்பு யாது?",
+    "en": "If the HCF of $108$ and $234$ is expressible of the form $23x - 51$ then what is the value of $x$?"
+   },
+   "options": {
+    "A": {
+     "ta": "3",
+     "en": "3"
+    },
+    "B": {
+     "ta": "2",
+     "en": "2"
+    },
+    "C": {
+     "ta": "4",
+     "en": "4"
+    },
+    "D": {
+     "ta": "5",
+     "en": "5"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true
+  },
+  {
+   "qNo": 193,
+   "part": "C",
+   "unit": "C1",
+   "topic": "hcf-polynomials",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$x^3 + x^2 - x + 2$ மற்றும் $2x^3 - 5x^2 + 5x - 3$ ஆகிய பல்லுறுப்புக் கோவைகளின் மீ.பொ.கா. காண்க.",
+    "en": "Find the HCF of the polynomials $x^3 + x^2 - x + 2$ and $2x^3 - 5x^2 + 5x - 3$."
+   },
+   "options": {
+    "A": {
+     "ta": "$x^2 - x + 1$",
+     "en": "$x^2 - x + 1$"
+    },
+    "B": {
+     "ta": "$x^2 + x - 1$",
+     "en": "$x^2 + x - 1$"
+    },
+    "C": {
+     "ta": "$-7x^2 + 7x - 7$",
+     "en": "$-7x^2 + 7x - 7$"
+    },
+    "D": {
+     "ta": "$7x^2 - 7x + 7$",
+     "en": "$7x^2 - 7x + 7$"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true
+  },
+  {
+   "qNo": 194,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simplification",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சுருக்குக: $(4^{-1} + 4^{-2} + 4^{-3})^0 \\times (4^{-1} + 4^{-2} + 4^{-3})^1$.",
+    "en": "Simplify : $(4^{-1} + 4^{-2} + 4^{-3})^0 \\times (4^{-1} + 4^{-2} + 4^{-3})^1$."
+   },
+   "options": {
+    "A": {
+     "ta": "$\\frac{63}{19}$",
+     "en": "$\\frac{63}{19}$"
+    },
+    "B": {
+     "ta": "$\\frac{19}{63}$",
+     "en": "$\\frac{19}{63}$"
+    },
+    "C": {
+     "ta": "$\\frac{21}{64}$",
+     "en": "$\\frac{21}{64}$"
+    },
+    "D": {
+     "ta": "$\\frac{64}{21}$",
+     "en": "$\\frac{64}{21}$"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true
+  },
+  {
+   "qNo": 195,
+   "part": "C",
+   "unit": "C1",
+   "topic": "average",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "25 மாணவர்களின் சராசரி மதிப்பெண் 78.4. இங்கு 96 என்ற மதிப்பானது 69 எனத் தவறாக எடுக்கப்பட்டது கண்டறியப்பட்டது எனில், மதிப்பெண்களுக்கான சரியான சராரியைக் காண்க.",
+    "en": "The average mark of 25 students was found to be 78.4. Later on, it was found that score of 96 was misread as 69. Find the correct mean of the marks."
+   },
+   "options": {
+    "A": {
+     "ta": "77.32",
+     "en": "77.32"
+    },
+    "B": {
+     "ta": "79.48",
+     "en": "79.48"
+    },
+    "C": {
+     "ta": "78.42",
+     "en": "78.42"
+    },
+    "D": {
+     "ta": "78.24",
+     "en": "78.24"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true
+  },
+  {
+   "qNo": 196,
+   "part": "C",
+   "unit": "C2",
+   "topic": "seating-arrangement",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "D, F, G, H, I மற்றும் M ஆகியோர் வரிசையாக அமர்ந்துள்ளனர். I மற்றும் M ஆகியோர் மையத்திலும், F மற்றும் D ஆகியோர் முதலும், இறுதியாகவும் அமர்ந்துள்ளனர். G என்பவர் D-யின் இடதுபுறத்தில் அமர்ந்துள்ளார். அப்படியானால் F-ன் வலதுபுறத்தில் அமர்ந்திருப்பது யார்?",
+    "en": "D, F, G, H, I and M are sitting in a row. I and M are in the centre, and F and D are at the beginning and at the end. G is sitting on the left of D. Then who is sitting on the right of F?"
+   },
+   "options": {
+    "A": {
+     "ta": "H",
+     "en": "H"
+    },
+    "B": {
+     "ta": "I",
+     "en": "I"
+    },
+    "C": {
+     "ta": "M",
+     "en": "M"
+    },
+    "D": {
+     "ta": "G",
+     "en": "G"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true
+  },
+  {
+   "qNo": 197,
+   "part": "C",
+   "unit": "C2",
+   "topic": "coding-decoding",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "A = 26, $\\text{SUN} = 27$, எனில் $\\text{CAT} = $?",
+    "en": "If $\\text{A} = 26$, $\\text{SUN} = 27$, then $\\text{CAT} = $?"
+   },
+   "options": {
+    "A": {
+     "ta": "24",
+     "en": "24"
+    },
+    "B": {
+     "ta": "27",
+     "en": "27"
+    },
+    "C": {
+     "ta": "57",
+     "en": "57"
+    },
+    "D": {
+     "ta": "58",
+     "en": "58"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true
+  },
+  {
+   "qNo": 198,
+   "part": "C",
+   "unit": "C2",
+   "topic": "logical-reasoning",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$a \\neq b \\neq c$ எனக் கொடுக்கப்பட்டிருந்தால் பின்வருவனவற்றுள் எது சரி?",
+    "en": "If $a \\neq b \\neq c$ is given, which one of the following is correct?"
+   },
+   "options": {
+    "A": {
+     "ta": "$b \\neq a \\neq c$",
+     "en": "$b \\neq a \\neq c$"
+    },
+    "B": {
+     "ta": "$a, b, c$ ஆகியவை வெவ்வேறுஆனவை",
+     "en": "$a, b, c$ are distinct"
+    },
+    "C": {
+     "ta": "$a = b = c$",
+     "en": "$a = b = c$"
+    },
+    "D": {
+     "ta": "$a \\neq c$ அல்லது $a = c$",
+     "en": "$a \\neq c \\text{ or } a = c$"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true
+  },
+  {
+   "qNo": 199,
+   "part": "C",
+   "unit": "C2",
+   "topic": "alpha-numeric-series",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கீழே கொடுக்கப்பட்டுள்ள எண் எழுத்து தொடரின் விடுபட்ட உறுப்பு\n2 X 2, 7 T 4, 14 P 12, 23 L 48, _______",
+    "en": "The missing term in the given alpha-numeric series is\n2 X 2, 7 T 4, 14 P 12, 23 L 48, _______"
+   },
+   "options": {
+    "A": {
+     "ta": "34 H 240",
+     "en": "34 H 240"
+    },
+    "B": {
+     "ta": "34 H 144",
+     "en": "34 H 144"
+    },
+    "C": {
+     "ta": "30 H 100",
+     "en": "30 H 100"
+    },
+    "D": {
+     "ta": "30 H 120",
+     "en": "30 H 120"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "தொடர் முறைகளின்படி அடுத்த உறுப்பு 34 H 240 ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 200,
+   "part": "C",
+   "unit": "C1",
+   "topic": "probability",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இரண்டு முறையான பகடைகள் உருட்டப்படும் பொழுது முகமதிப்புகளின் பெருக்கல் பலன் 4 அல்லது முக மதிப்புகளின் வித்தியாசம் 5 ஆக இருக்க நிகழ்தகவு?",
+    "en": "Two unbiased dice are rolled once. Find the probability of getting the product of face value is 4 or the difference of the face value is 5."
+   },
+   "options": {
+    "A": {
+     "ta": "$\\frac{1}{12}$",
+     "en": "$\\frac{1}{12}$"
+    },
+    "B": {
+     "ta": "$\\frac{5}{36}$",
+     "en": "$\\frac{5}{36}$"
+    },
+    "C": {
+     "ta": "$\\frac{1}{9}$",
+     "en": "$\\frac{1}{9}$"
+    },
+    "D": {
+     "ta": "$\\frac{7}{36}$",
+     "en": "$\\frac{7}{36}$"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "நிகழ்தகவு சூத்திரத்தைப் பயன்படுத்தி கணக்கிடப்படும்போது விடை 5/36 ஆகும்.",
+    "en": ""
+   }
+  }
+ ]
 }
