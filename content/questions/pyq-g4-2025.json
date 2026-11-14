@@ -3,7 +3,7 @@
  "year": 2025,
  "title": "TNPSC Group IV 2025",
  "url": "https://www.tnpsc.gov.in/Tentative/Document/07_2025_GENEAL_TAMIL_GS.pdf",
- "extraction": "152 questions AI-extracted with gemini-3.5-flash-lite on 2026-11-13; others checked by hand.",
+ "extraction": "158 questions AI-extracted with gemini-3.5-flash-lite on 2026-11-14; others checked by hand.",
  "questions": [
   {
    "qNo": 1,
@@ -1742,6 +1742,53 @@
    "ai": true,
    "explain": {
     "ta": "விரிந்தது (தானாக மலர்வது/அஃறிணை வினை), விரித்தது (செயபடு பொருள் கொண்டு மயில் தோகையை விரித்தது).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 53,
+   "part": "A",
+   "unit": "A1",
+   "topic": "assertion-reason",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "கூற்று மற்றும் காரணம் பற்றி ஆராய்க:",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "கூற்று - சரி; காரணம் - சரி",
+     "en": ""
+    },
+    "B": {
+     "ta": "கூற்று - சரி; காரணம் - தவறு",
+     "en": ""
+    },
+    "C": {
+     "ta": "கூற்று - தவறு; காரணம் - சரி",
+     "en": ""
+    },
+    "D": {
+     "ta": "கூற்று - தவறு; காரணம் - தவறு",
+     "en": ""
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "கூற்று : 'கலைக் கழகம்' என்பது கலையைக் கற்பிக்கும் கழகம் ஆகும்.",
+     "en": ""
+    },
+    {
+     "ta": "காரணம் : இரண்டு சொற்களுக்கு இடையே 'க்' என்ற ஒற்று மிகுவதால் கலையைக் கற்பிக்கும் கழகம் என்று பொருள் கொள்ள வேண்டும்.",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "கூற்றும் காரணமும் சரியாகப் பொருந்தியுள்ளது.",
     "en": ""
    }
   },
@@ -3654,6 +3701,53 @@
    }
   },
   {
+   "qNo": 97,
+   "part": "A",
+   "unit": "A7",
+   "topic": "u-ve-swaminathaiyar",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "உ.வே. சாமிநாதர் மற்றும் உ.வே.சா பற்றிய கூற்று மற்றும் காரணம்",
+    "en": ""
+   },
+   "options": {
+    "A": {
+     "ta": "[A] சரி ஆனால் [R] தவறு, [R] என்பது [A]ஐ விளக்கவில்லை",
+     "en": ""
+    },
+    "B": {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி, [R] என்பது [A]ஐ விளக்கியுள்ளது",
+     "en": ""
+    },
+    "C": {
+     "ta": "[A] மற்றும் [R] இரண்டும் தவறு",
+     "en": ""
+    },
+    "D": {
+     "ta": "[A] தவறு ஆனால் [R] சரி",
+     "en": ""
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "கூற்று [A] : உ.வே. சாமிநாதர் அனைவராலும் அன்போடும் உரிமையோடும் தமிழ்த்தாத்தா உ.வே.சா என்று அழைக்கப்படுகிறார்.",
+     "en": ""
+    },
+    {
+     "ta": "காரணம் [R] : அழிவு நிலையில் இருந்த வெவ்வேறு சுவடிகளைப் பலமுறை ஒப்பிட்டுப் பார்த்து வாசித்து, நமக்காகத் தாளில் எழுதி அச்சிட்டுப் புத்தகமாக இலக்கியங்களை வழங்கினார். தம் வாழ்நாள் முழுவதும் ஓய்வில்லாமல் பதிப்புப் பணியினை மேற்கொண்டார்.",
+     "en": ""
+    }
+   ],
+   "explain": {
+    "ta": "உ.வே.சாமிநாதர் தமிழ்த்தாத்தா என அழைக்கப்படுவதற்கான காரணமும் அவர் செய்த பதிப்புப் பணியும் சரியாக விளக்கப்பட்டுள்ளது.",
+    "en": ""
+   }
+  },
+  {
    "qNo": 98,
    "part": "A",
    "unit": "A7",
@@ -4770,6 +4864,53 @@
    }
   },
   {
+   "qNo": 128,
+   "part": "B",
+   "unit": "B6",
+   "topic": "pallava-architecture",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "கீழ்க்காணும் கூற்று மற்றும் காரணத்தை ஆராய்க:",
+    "en": "Consider the following Assertion and Reason:"
+   },
+   "options": {
+    "A": {
+     "ta": "[A] சரி ஆனால் [R] தவறு",
+     "en": "[A] true, but [R] false"
+    },
+    "B": {
+     "ta": "[A] தவறு ஆனால் [R] சரி",
+     "en": "[A] false but [R] true"
+    },
+    "C": {
+     "ta": "[A] மற்றும் [R] இரண்டும் சரி",
+     "en": "Both [A] and [R] are true"
+    },
+    "D": {
+     "ta": "[A] மற்றும் [R] இரண்டும் தவறு",
+     "en": "Both [A] and [R] are false"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "பல்லவர்கள், மரம், சுதை, உலோகம், செங்கல் போன்ற கட்டுமானப் பொருட்கள் இன்றிக் குடைவரைக் கோயில்களை உருவாக்கினர்.",
+     "en": "The Pallavas constructed the Cave temples without brick, wood, metal and sudhai."
+    },
+    {
+     "ta": "கருங்கற்களை ஒன்றின்மேல் ஒன்றாக அடுக்கிச் சுண்ணம் சேர்க்காமல் கட்டப்படும் கட்டடங்களுக்குக் \"கற்றளிகள்\" என்று பெயர்.",
+     "en": "The stones kept one upon another and not bound with plaster is known as \"Katraligal\"."
+    }
+   ],
+   "explain": {
+    "ta": "பல்லவர் கால கட்டடக் கலை தொடர்பான கூற்று மற்றும் காரணம் இரண்டும் சரியான விளக்கமாகும்.",
+    "en": ""
+   }
+  },
+  {
    "qNo": 129,
    "part": "B",
    "unit": "B6",
@@ -4809,6 +4950,53 @@
    ],
    "explain": {
     "ta": "முண்டா என்பது முண்டா மொழிக்குடும்பத்தைச் சார்ந்தது, திராவிட மொழி அல்ல; எனவே இணை (2) தவறு.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 131,
+   "part": "B",
+   "unit": "B3",
+   "topic": "indian-national-congress",
+   "format": "ASSERTION_REASON",
+   "stem": {
+    "ta": "கூற்று [A] மற்றும் காரணம் [R]",
+    "en": "Assertion [A] and Reason [R]"
+   },
+   "options": {
+    "A": {
+     "ta": "கூற்று [A] சரி ஆனால் காரணம் [R] தவறு",
+     "en": "[A] is true but [R] is false"
+    },
+    "B": {
+     "ta": "கூற்று [A] மற்றும் காரணம் [R] இரண்டும் சரி மற்றும் கூற்று [A] விற்கு காரணம் [R] சரியான விளக்கமாகும்",
+     "en": "Both [A] and [R] are true and [R] is the correct explanation of [A]"
+    },
+    "C": {
+     "ta": "கூற்று [A] தவறு காரணம் [R] சரி",
+     "en": "[A] is false [R] is true"
+    },
+    "D": {
+     "ta": "கூற்று [A] மற்றும் காரணம் [R] சரி ஆனால் காரணம் [R] கூற்று [A] விற்கு சரியான விளக்கமல்ல என்பது சரி",
+     "en": "Both [A] and [R] are true but [R] is not the correct explanation of [A] is correct"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "இந்திய தேசிய காங்கிரசின் முதல் மாநாடு 1885 டிசம்பர் 28 ஆம் தேதி பம்பாயில் கூடியது.",
+     "en": "The Indian National Congress First Conference convened on 28th December 1885 in Bombay."
+    },
+    {
+     "ta": "தமிழ்நாட்டு பகுதியிலிருந்து 21 பேர் கலந்து கொண்டனர்.",
+     "en": "Tamil Nadu region represented and attend 21 members."
+    }
+   ],
+   "explain": {
+    "ta": "இந்திய தேசிய காங்கிரசின் முதல் மாநாடு பம்பாயில் கூடியதும், தமிழகத்திலிருந்து 21 பேர் பங்கேற்றதும் வரலாற்று உண்மைகள் என்றாலும், காரணம் கூற்றுக்கான நேரlயான விளக்கம் அல்ல.",
     "en": ""
    }
   },
@@ -5315,6 +5503,80 @@
    "explain": {
     "ta": "Q தொடங்கியதிலிருந்து 8 நாட்களுக்குப் பிறகு வேலையை விட்டுச் சென்றார்.",
     "en": "Q left after 8 days from the start."
+   }
+  },
+  {
+   "qNo": 141,
+   "part": "C",
+   "unit": "C1",
+   "topic": "compound-interest",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஆண்டுக்கு 4% கூட்டுவட்டியில் 6 வருடக்கங்களில் A க்கு கிடைக்கும் தொகையானது 8 வருடங்களில் B ன் தொகைக்குச் சமமாக இருக்கும் எனில் ரூ. 2,602ல் A மற்றும் Bன் பங்குகள்",
+    "en": "Divide Rs. 2,602 between A and B, so that the amount of A at the end of 6 years is equal to the amount of B at the end of 8 years, compound interest being at 4% per annum."
+   },
+   "options": {
+    "A": {
+     "ta": "ரூ. 1,300, ரூ. 1,252",
+     "en": "Rs. 1,300, Rs. 1,252"
+    },
+    "B": {
+     "ta": "ரூ. 1,452, ரூ. 1,150",
+     "en": "Rs. 1,452, Rs. 1,150"
+    },
+    "C": {
+     "ta": "ரூ. 1,302, ரூ. 1,300",
+     "en": "Rs. 1,302, Rs. 1,300"
+    },
+    "D": {
+     "ta": "ரூ. 1,352, ரூ. 1,250",
+     "en": "Rs. 1,352, Rs. 1,250"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "கூட்டு வட்டி சமன்பாட்டைப் பயன்படுத்தி தீர்க்கும்போது சரியான விடை ரூ. 1,352, ரூ. 1,250 ஆகும்.",
+    "en": "Solving using the compound interest formula gives Rs. 1,352, Rs. 1,250."
+   }
+  },
+  {
+   "qNo": 142,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simple-interest",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ரூ. 68,000க்கு 9 மாதங்களுக்கு $16\frac{2}{3}\\%$ வருட வட்டி விகிதத்தில் தனி வட்டி காண்க.",
+    "en": "Find the simple interest on Rs. 68,000 at $16\frac{2}{3}\\%$ per annum for 9 months."
+   },
+   "options": {
+    "A": {
+     "ta": "ரூ. 8,500",
+     "en": "Rs. 8,500"
+    },
+    "B": {
+     "ta": "ரூ. 8,000",
+     "en": "Rs. 8,000"
+    },
+    "C": {
+     "ta": "ரூ. 9,400",
+     "en": "Rs. 9,400"
+    },
+    "D": {
+     "ta": "ரூ. 9,100",
+     "en": "Rs. 9,100"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "CURRENT",
+   "ai": true,
+   "explain": {
+    "ta": "SI = PNR/100 সূত্রப்படி, 68000 * (9/12) * (50/3) / 100 = ரூ. 8,500.",
+    "en": "Using SI = PNR/100, 68000 * (9/12) * (50/3) / 100 = Rs. 8,500."
    }
   },
   {
