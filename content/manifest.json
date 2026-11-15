@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T07:16:05.823Z",
+ "generatedAt": "2026-11-15T07:13:34.641Z",
  "files": [
   {
    "path": "curriculum.json",
@@ -64,6 +64,10 @@
   {
    "path": "lessons/w4-literature.json",
    "sha": "8b416bad5c5b"
+  },
+  {
+   "path": "questions/pyq-g4-2024.json",
+   "sha": "487f157ed68c"
   },
   {
    "path": "questions/pyq-g4-2025.json",
