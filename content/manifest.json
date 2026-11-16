@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T07:13:34.641Z",
+ "generatedAt": "2026-11-16T07:22:00.882Z",
  "files": [
   {
    "path": "curriculum.json",
@@ -24,6 +24,10 @@
   {
    "path": "decks/b-gs.json",
    "sha": "dd249ef5bf9f"
+  },
+  {
+   "path": "feed/ca-2026-11-16.json",
+   "sha": "309283d8cb8e"
   },
   {
    "path": "kural20.json",
@@ -64,6 +68,10 @@
   {
    "path": "lessons/w4-literature.json",
    "sha": "8b416bad5c5b"
+  },
+  {
+   "path": "questions/pyq-g4-2022.json",
+   "sha": "4e04397b3215"
   },
   {
    "path": "questions/pyq-g4-2024.json",

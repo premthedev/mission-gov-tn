@@ -1,0 +1,210 @@
+{
+ "date": "2026-11-16",
+ "model": "gemini-3.5-flash-lite",
+ "questions": [
+  {
+   "id": "2026-11-16-1",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாட்டில் எந்தப் பிரிவினருக்கு எதிரான 600 வழக்குகளை அரசு திரும்பப் பெற்றது?",
+    "en": "The Tamil Nadu government withdrew cases against which groups?"
+   },
+   "options": [
+    {
+     "ta": "விவசாயிகள் மற்றும் ஆசிரியர்கள்",
+     "en": "Farmers and teachers"
+    },
+    {
+     "ta": "மருத்துவர்கள் மற்றும் வழக்கறிஞர்கள்",
+     "en": "Doctors and lawyers"
+    },
+    {
+     "ta": "மாணவர்கள் மற்றும் தொழிலாளர்கள்",
+     "en": "Students and laborers"
+    },
+    {
+     "ta": "அரசு ஊழியர்கள் மற்றும் வியாபாரிகள்",
+     "en": "Government employees and traders"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "தமிழ்நாடு அரசு விவசாயிகள் மற்றும் ஆசிரியர்களுக்கு எதிரான 600 வழக்குகளை திரும்பப் பெற்றது.",
+    "en": "The Tamil Nadu government withdrew 600 cases against farmers and teachers."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-withdraws-600-cases-against-farmers-and-teachers/article71707010.ece",
+   "headline": "Tamil Nadu government withdraws 600 cases against farmers and teachers"
+  },
+  {
+   "id": "2026-11-16-2",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "செவித்திறன் மற்றும் பேச்சு குறைபாடுள்ளவர்களுக்கான ஐ.ஏ.எஸ் (IAS) அகாதமியைத் தொடங்கிய அமைப்பு எது?",
+    "en": "Which organization launched an IAS Academy for persons with hearing and speech disabilities?"
+   },
+   "options": [
+    {
+     "ta": "YMCA Madras",
+     "en": "YMCA Madras"
+    },
+    {
+     "ta": "IIT Madras",
+     "en": "IIT Madras"
+    },
+    {
+     "ta": "Anna University",
+     "en": "Anna University"
+    },
+    {
+     "ta": "Red Cross Society",
+     "en": "Red Cross Society"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "செவித்திறன் மற்றும் பேச்சு குறைபாடுள்ளவர்களுக்காக YMCA Madras ஐ.ஏ.எஸ் அகாதமியைத் தொடங்கியது.",
+    "en": "YMCA Madras launched an IAS Academy for persons with hearing and speech disabilities."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/ymca-madras-launches-ias-academy-for-persons-with-hearing-and-speech-disabilities/article71701890.ece",
+   "headline": "YMCA Madras launches IAS Academy for persons with hearing and speech disabilities"
+  },
+  {
+   "id": "2026-11-16-3",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "சென்னையில் 6,157 குடியிருப்புகளைக் கொண்ட புதிய வீட்டுவசதி திட்டத்திற்கு தமிழக முதல்வர் ஒப்புதல் அளித்துள்ள தொகை எவ்வளவு?",
+    "en": "What is the amount approved by the Tamil Nadu CM for a housing project to build 6,157 tenements in Chennai?"
+   },
+   "options": [
+    {
+     "ta": "ரூ. 1,401.75 கோடி",
+     "en": "Rs 1,401.75 crore"
+    },
+    {
+     "ta": "ரூ. 510.00 கோடி",
+     "en": "Rs 510.00 crore"
+    },
+    {
+     "ta": "ரூ. 2,500.50 கோடி",
+     "en": "Rs 2,500.50 crore"
+    },
+    {
+     "ta": "ரூ. 850.25 கோடி",
+     "en": "Rs 850.25 crore"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "தமிழ்நாடு முதல்வர் ரூ. 1,401.75 கோடி மதிப்பிலான வீட்டுவசதி திட்டத்திற்கு ஒப்புதல் அளித்துள்ளார்.",
+    "en": "Tamil Nadu CM approved a housing project worth Rs 1,401.75 crore."
+   },
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOakdaeWNGeDdhTGlkSWxIcFh5NFpQSWo3cnlsYnZHSWpiTF9ZRjl5TUxjWTZCcUtaUWswNlBlSDQ5SDVrdkRYVFJYR1BzLUsxZE5EMlJqME11MEdfSVlMRXlNb2lMT1lmS0hpbHk0Q0V4Nzk2MlhBWWZSTmVlMEEtTUdrZjdaTnJYVnp5MDNRcXZhOXRsa1pHclNydUFhSXpTN19EM0lwakttRFp0Wjd1NlBiV24yaDJjSEM2ZmFLUXhGSEpBWEJVYUcxUkhTOXgxUHhEQWtkYUwyaGhhTVE?oc=5",
+   "headline": "Tamil Nadu CM approves INR 1,401.75 crore housing project to build 6,157 tenements in Chennai - Prop News Time"
+  },
+  {
+   "id": "2026-11-16-4",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியாவின் முதல் எல்.இ.டி (LED) கோபுர கோளரங்கம் (Planetarium) எங்கு திறக்கப்பட்டது?",
+    "en": "Where was India's first LED Dome Planetarium inaugurated?"
+   },
+   "options": [
+    {
+     "ta": "மைசூரு",
+     "en": "Mysuru"
+    },
+    {
+     "ta": "சென்னை",
+     "en": "Chennai"
+    },
+    {
+     "ta": "பெங்களூரு",
+     "en": "Bengaluru"
+    },
+    {
+     "ta": "புனே",
+     "en": "Pune"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "இந்தியாவின் முதல் எல்.இ.டி கோபுர கோளரங்கம் மைசூருவில் திறக்கப்பட்டது.",
+    "en": "India’s first LED Dome Planetarium was inaugurated in Mysuru."
+   },
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSVlzUVRFZWNIZ1BCSmRYMnVWaGV3UmNEZURDcXNsc2ZRX2dJQy1iQzVNSDZxU29zekk4RUFzdG8xenVOdWxVZFgzSVJZcjgtTTZndElqaW14NXEzNUI2dG5kaWNWSkxUNzlxalUzVHZuMDc0V3A1M2lLMVBWTnRRVGwtb0laQXR2Q0lnSEQ2aFlmSzg?oc=5",
+   "headline": "PM Modi Inaugurates India’s First LED Dome Planetarium in Mysuru - DD News"
+  },
+  {
+   "id": "2026-11-16-5",
+   "unit": "B3",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இளம் இசைத் திறமைகளுக்கு தேசிய தளம் வழங்குவதற்காக ஆકાશவாணி தொடங்கிய புதிய நிகழ்ச்சி எது?",
+    "en": "What is the name of the program launched by Akashvani to provide a national platform to young musical talents?"
+   },
+   "options": [
+    {
+     "ta": "‘ஏஐஆர் उभरते सितारे’ (AIR Ubharte Sitare)",
+     "en": "‘AIR Ubharte Sitare’"
+    },
+    {
+     "ta": "‘இசை விருந்து’",
+     "en": "‘Isai Virunthu’"
+    },
+    {
+     "ta": "‘யுவ சங்கீத்’",
+     "en": "‘Yuva Sangeet’"
+    },
+    {
+     "ta": "‘ராக தாரா’",
+     "en": "‘Raga Tara’"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "ஆકાશவாணி ‘ஏஐஆர் उभरते सितारे’ நிகழ்ச்சியைத் தொடங்கியது.",
+    "en": "Akashvani launched the ‘AIR Ubharte Sitare’ program."
+   },
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2336700",
+   "headline": "आकाशवाणी ने युवा संगीत प्रतिभाओं को राष्ट्रीय मंच देने के लिए ‘एआईआर उभरते सितारे’ कार्यक्रम का शुभारंभ किया"
+  },
+  {
+   "id": "2026-11-16-6",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "எய்ம்ஸ் (AIIMS) மருத்துவமனை எங்கு இந்தியாவின் முதல் கருமுதுகெலும்பு அறுவை சிகிச்சையை (Fetal Spine Surgery) வெற்றிகரமாக நடத்தியது?",
+    "en": "Where did AIIMS perform India's first fetal spine surgery?"
+   },
+   "options": [
+    {
+     "ta": "புது தில்லி",
+     "en": "New Delhi"
+    },
+    {
+     "ta": "மும்பை",
+     "en": "Mumbai"
+    },
+    {
+     "ta": "சென்னை",
+     "en": "Chennai"
+    },
+    {
+     "ta": "பெங்களூரு",
+     "en": "Bengaluru"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "எய்ம்ஸ் நிறுவனம் இந்தியாவின் முதல் கருமுதுகெலும்பு அறுவை சிகிச்சையை நிகழ்த்தியுள்ளது.",
+    "en": "AIIMS performed India's first fetal spine surgery."
+   },
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU3dsRlVvTlQ1WGNMLS1SeXVmX3JrVVEyQkk5dnp2aHIzWTNYem9Ka09PLWk3SnJWY05tNkJUXzBXSlR3UDRWV1NQLTdDZU1sQTN4NDNnejZPbEE5WHJ4QWhhZG1PSXBQaGx4N2Rxd0xvRVJSVklYWDI2NzF5WE5wby1yYVk4WWZBMFFCMlhMQXY1YjdfellLWXp4dy1Ua0oycTVLWVpQdjNBNjdpWDl0ZThTbjRxZ3RyOGR3amZ3M2x6SjJ6MWNsUjMtMGV0SGYxdzlIR01ITUlidw?oc=5",
+   "headline": "AIIMS Performs India's First Fetal Spine Surgery: What The Milestone Means For Fetal Medicine - NDTV"
+  }
+ ]
+}
