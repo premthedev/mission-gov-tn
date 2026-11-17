@@ -1,0 +1,3846 @@
+{
+ "exam": "G4-2019-GS",
+ "year": 2019,
+ "title": "Group IV 2019 GS (1 Sep 2019)",
+ "url": "https://www.tnpsc.gov.in/Tentative/Document/10_09_2019_GS.pdf",
+ "questions": [
+  {
+   "qNo": 101,
+   "part": "B",
+   "unit": "B1",
+   "topic": "planets-satellites",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பட்டியல் I ஐ பட்டியல் II உடன் பொருத்துக:",
+    "en": "Match List I and List II :"
+   },
+   "options": {
+    "A": {
+     "ta": "1 2 3 4",
+     "en": "1 2 3 4"
+    },
+    "B": {
+     "ta": "4 3 1 2",
+     "en": "4 3 1 2"
+    },
+    "C": {
+     "ta": "1 4 2 3",
+     "en": "1 4 2 3"
+    },
+    "D": {
+     "ta": "4 1 3 2",
+     "en": "4 1 3 2"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) செவ்வாய்",
+      "en": "(a) Mars"
+     },
+     {
+      "ta": "(b) வியாழன்",
+      "en": "(b) Jupiter"
+     },
+     {
+      "ta": "(c) சனி",
+      "en": "(c) Saturn"
+     },
+     {
+      "ta": "(d) யுரேனஸ்",
+      "en": "(d) Uranus"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. 60 துணைக்கோள்கள்",
+      "en": "1. 60 satellites"
+     },
+     {
+      "ta": "2. 27 துணைக்கோள்கள்",
+      "en": "2. 27 satellites"
+     },
+     {
+      "ta": "3. 63 துணைக்கோள்கள்",
+      "en": "3. 63 satellites"
+     },
+     {
+      "ta": "4. 2 துணைக்கோள்கள்",
+      "en": "4. 2 satellites"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "செவ்வாய் - 2, வியாழன் - 63, சனி - 60, யுரேனஸ் - 27 துணைக்கோள்கள்.",
+    "en": ""
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 102,
+   "part": "B",
+   "unit": "B1",
+   "topic": "breath-analysis-test-compound",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மது அருந்தி வாகனம் ஓட்டுவதை கண்டுபிடிக்கும் சுவாசப் பகுப்பாய்வு சோதனையில் பயன்படும் சேர்மம்",
+    "en": "The compound used in breath analysis test for drunken driving is"
+   },
+   "options": {
+    "A": {
+     "ta": "K_2Cr_2O_7",
+     "en": "K_2Cr_2O_7"
+    },
+    "B": {
+     "ta": "KI",
+     "en": "KI"
+    },
+    "C": {
+     "ta": "KMnO_4",
+     "en": "KMnO_4"
+    },
+    "D": {
+     "ta": "CuSO_4",
+     "en": "CuSO_4"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மது அருந்துதலைக் கண்டறிய பொட்டாசியம் டைக்ரோமேட் ($K_2Cr_2O_7$) பயன்படுத்தப்படுகிறது.",
+    "en": "Potassium dichromate is used in breathalyzers to detect alcohol."
+   }
+  },
+  {
+   "qNo": 103,
+   "part": "B",
+   "unit": "B5",
+   "topic": "solar-powered-metro",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "100% சூரிய ஆற்றலை பயன்படுத்தி, உலகின் முதல் மெட்ரோவாக உருவாக முயற்சி செய்யும் இரயில் நிறுவனம் எது?",
+    "en": "Which Metro Rail Corporation has started the initiative to become the World's first 100% solar-powered metro?"
+   },
+   "options": {
+    "A": {
+     "ta": "ஜெய்ப்பூர் மெட்ரோ இரயில் நிறுவனம்",
+     "en": "Jaipur Metro Rail Corporation Ltd."
+    },
+    "B": {
+     "ta": "குஜராத் மெட்ரோ இரயில் நிறுவனம்",
+     "en": "Gujarat Metro Rail Corporation Ltd."
+    },
+    "C": {
+     "ta": "டெல்லி மெட்ரோ இரயில் நிறுவனம்",
+     "en": "Delhi Metro Rail Corporation Ltd."
+    },
+    "D": {
+     "ta": "சென்னை மெட்ரோ இரயில் நிறுவனம்",
+     "en": "Chennai Metro Rail Corporation Ltd."
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "டெல்லி மெட்ரோ இரயில் நிறுவனம் தனது தேவைகளுக்கு சூரிய ஆற்றலைப் பயன்படுத்தி வருகிறது.",
+    "en": "Delhi Metro Rail Corporation initiated steps to be 100% solar powered."
+   }
+  },
+  {
+   "qNo": 104,
+   "part": "B",
+   "unit": "B5",
+   "topic": "indian-economy",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "G-20 கண்காணிப்பு குறிப்பின்படி 2020 ஆம் ஆண்டு இந்தியாவின் பொருளாதார வளர்ச்சி ____________ ஆக இருக்கும்.",
+    "en": "As per G-20 surveillance note, India's economy is to grow at ____________ in the year 2020."
+   },
+   "options": {
+    "A": {
+     "ta": "6.5%",
+     "en": "6.5%"
+    },
+    "B": {
+     "ta": "5.5%",
+     "en": "5.5%"
+    },
+    "C": {
+     "ta": "7.5%",
+     "en": "7.5%"
+    },
+    "D": {
+     "ta": "8.5%",
+     "en": "8.5%"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "G-20 அறிக்கையின்படி இந்தியாவின் வளர்ச்சி விகிதம் 7.5% ஆகும்.",
+    "en": "According to the G-20 surveillance note, India's projected growth rate was 7.5%."
+   }
+  },
+  {
+   "qNo": 105,
+   "part": "B",
+   "unit": "B5",
+   "topic": "population-demography",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "1951 ஆம் ஆண்டு மக்கள் தொகை பெருக்க வீதம் இவ்வாறு அழைக்கப்படுகிறது",
+    "en": "In the year 1951, Population growth rate is called"
+   },
+   "options": {
+    "A": {
+     "ta": "பெரும் பிரிவினை ஆண்டு",
+     "en": "Year of Great Divide"
+    },
+    "B": {
+     "ta": "மக்கள் தொகை வெடிப்பு ஆண்டு",
+     "en": "Year of Population Explosion"
+    },
+    "C": {
+     "ta": "மக்கள் தொகை ஆண்டு",
+     "en": "Year of Population"
+    },
+    "D": {
+     "ta": "சிறு பிளவு ஆண்டு",
+     "en": "Year of Small Divide"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "1951 ஆம் ஆண்டு சிறு பிளவு ஆண்டு என அழைக்கப்படுகிறது.",
+    "en": "1951 is known as the Year of Small Divide in Indian demographic history (1921 is Year of Great Divide)."
+   }
+  },
+  {
+   "qNo": 106,
+   "part": "B",
+   "unit": "B2",
+   "topic": "geography",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "நூர் காம்ப்ளக்ஸ் எந்த பாலைவனத்தில் அமைந்துள்ளது?",
+    "en": "In which desert is Noor Complex located?"
+   },
+   "options": {
+    "A": {
+     "ta": "சஹாரா பாலைவனம்",
+     "en": "Sahara Desert"
+    },
+    "B": {
+     "ta": "தார் பாலைவனம்",
+     "en": "Thar Desert"
+    },
+    "C": {
+     "ta": "கல்ஹாரி பாலைவனம்",
+     "en": "Kalhari Desert"
+    },
+    "D": {
+     "ta": "கோபி பாலைவனம்",
+     "en": "Gopi Desert"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நூர் சூரிய மின் நிலையம் சஹாரா பாலைவனத்தில் அமைந்துள்ளது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 107,
+   "part": "B",
+   "unit": "B2",
+   "topic": "environment",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "பின்வரும் கூற்றுகளில் எவை சரியானது?",
+    "en": "Which of the following statement(s) is/are correct?"
+   },
+   "options": {
+    "A": {
+     "ta": "1, 2 ஆகியவை சரி",
+     "en": "1 and 2 are true"
+    },
+    "B": {
+     "ta": "1 சரி, 2 தவறு",
+     "en": "1 is true, 2 is false"
+    },
+    "C": {
+     "ta": "1, 2 ஆகியவை தவறு",
+     "en": "1 and 2 are false"
+    },
+    "D": {
+     "ta": "2 சரி, 1 தவறு",
+     "en": "2 is true, 1 is false"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "2019 ஆம் ஆண்டின் உலக சுற்றுச்சூழல் தின கொண்டாட்டம் சீனாவில் நடைபெற்றது",
+     "en": "In 2019, World Environment Day was Celebrated in China."
+    },
+    {
+     "ta": "அதன் மையக் கருத்து : காற்று மாசு",
+     "en": "The Theme for the World Environment Day is Air Pollution."
+    }
+   ],
+   "explain": {
+    "ta": "2019 ஆம் ஆண்டு உலக சுற்றுச்சூழல் தினம் சீனாவில் கொண்டாடப்பட்டது மற்றும் அதன் மையக்கருத்து காற்று மாசு ஆகும்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 108,
+   "part": "B",
+   "unit": "B5",
+   "topic": "government-schemes",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஜன்தன் திட்டத்தின் குறிக்கோள்",
+    "en": "The objective of Jandhan Yojana is"
+   },
+   "options": {
+    "A": {
+     "ta": "அனைவரையும் உள்ளடக்கிய பொருளாதார முன்னேற்றம்",
+     "en": "Financial inclusion"
+    },
+    "B": {
+     "ta": "பிராந்திய ஏற்றத் தாழ்வுகளை குறைப்பது",
+     "en": "Reducing regional disparities"
+    },
+    "C": {
+     "ta": "சமூக விலக்கல்",
+     "en": "Social exclusion"
+    },
+    "D": {
+     "ta": "மக்கள்தொகை கட்டுப்பாடு",
+     "en": "Population control"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பிரதான் மந்திரி தன்-தான் யோஜனா திட்டத்தின் முக்கிய நோக்கம் நிதி உள்ளடக்கம் (Financial inclusion) ஆகும்.",
+    "en": "The primary objective of Jan Dhan Yojana is financial inclusion."
+   }
+  },
+  {
+   "qNo": 109,
+   "part": "B",
+   "unit": "B4",
+   "topic": "political-parties",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பிரான்சில் உள்ள கட்சி முறை",
+    "en": "France has ___________________ party system."
+   },
+   "options": {
+    "A": {
+     "ta": "ஒற்றைக்கட்சி முறை",
+     "en": "Single party"
+    },
+    "B": {
+     "ta": "பல கட்சி முறை",
+     "en": "Multi party"
+    },
+    "C": {
+     "ta": "இரட்டை கட்சி முறை",
+     "en": "Biparty"
+    },
+    "D": {
+     "ta": "எதுவும் இல்லை",
+     "en": "None"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பிரான்ஸ் பல கட்சி முறை (Multi-party system) கொண்ட நாடாகும்.",
+    "en": "France operates under a multi-party system."
+   }
+  },
+  {
+   "qNo": 110,
+   "part": "B",
+   "unit": "B5",
+   "topic": "water-conservation",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மத்திய அரசால் தொடங்கப்பட்டுள்ள நீர் பாதுகாப்புப் பரப்புரை எது?",
+    "en": "Which water conservation campaign has been recently launched by the Central Government?"
+   },
+   "options": {
+    "A": {
+     "ta": "ஜல் பச்சாவ் அபியான்",
+     "en": "Jal Bachav Abhiyan"
+    },
+    "B": {
+     "ta": "ஜல் தரங் அபியான்",
+     "en": "Jal Tarang Abhiyan"
+    },
+    "C": {
+     "ta": "ஜல் சுரக்ஷா அபியான்",
+     "en": "Jal Suraksha Abhiyan"
+    },
+    "D": {
+     "ta": "ஜல் சக்தி அபியான்",
+     "en": "Jal Shakthi Abhiyan"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மத்திய அரசு நீர் பாதுகாப்பிற்காக 'ஜல் சக்தி அபியான்' என்ற இயக்கத்தைத் தொடங்கியது.",
+    "en": "The Central Government launched the 'Jal Shakti Abhiyan' campaign for water conservation."
+   }
+  },
+  {
+   "qNo": 111,
+   "part": "B",
+   "unit": "B2",
+   "topic": "ports",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மேற்கு கடற்கரையில் அமைந்துள்ள பெரிய துறைமுகம்",
+    "en": "The major port along the West Coast"
+   },
+   "options": {
+    "A": {
+     "ta": "கண்ட்லா",
+     "en": "Kandla"
+    },
+    "B": {
+     "ta": "சென்னை",
+     "en": "Chennai"
+    },
+    "C": {
+     "ta": "பாரதீப்",
+     "en": "Paradip"
+    },
+    "D": {
+     "ta": "கொல்கத்தா",
+     "en": "Kolkata"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கண்ட்லா துறைமுகம் இந்தியாவின் மேற்கு கடற்கரையில் குஜராத்தில் அமைந்துள்ளது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 112,
+   "part": "B",
+   "unit": "B1",
+   "topic": "biology-reproduction",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கீழ்நிலை உயிரிகளில் சில சமயங்களில் முதிர்ந்த உயிரிகள் இனச்செல்களை உருவாக்காமல் அவ்வுயிரிகளே இனச் செல்கள் போன்று செயல்பட்டு ஒன்றிணைந்து புதிய உயிரிகளைத் தோற்றுவிக்கும் செயல்",
+    "en": "In lower organisms sometimes the entire mature organisms do not form gametes but they themselves behave as gametes and the fusion of such mature individuals is known as"
+   },
+   "options": {
+    "A": {
+     "ta": "வேறுபட்ட செல் சேர்க்கை",
+     "en": "Anisogamy"
+    },
+    "B": {
+     "ta": "மாறுபட்ட செல் சேர்க்கை",
+     "en": "Merogamy"
+    },
+    "C": {
+     "ta": "இளம் செல் சேர்க்கை",
+     "en": "Paedogamy"
+    },
+    "D": {
+     "ta": "முழு சேர்க்கை",
+     "en": "Hologamy"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "முதிர்ந்த உயிரிகள் நேரடியாக இனச்செல்களாக செயல்பட்டு இணைவது முழு சேர்க்கை (Hologamy) எனப்படும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 113,
+   "part": "B",
+   "unit": "B3",
+   "topic": "revolt-of-1857-leaders",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக:",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "2 1 3 4",
+     "en": "2 1 3 4"
+    },
+    "B": {
+     "ta": "4 3 1 2",
+     "en": "4 3 1 2"
+    },
+    "C": {
+     "ta": "1 3 4 2",
+     "en": "1 3 4 2"
+    },
+    "D": {
+     "ta": "4 2 1 3",
+     "en": "4 2 1 3"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "டெெல்லி",
+      "en": "Delhi"
+     },
+     {
+      "ta": "மத்திய இந்தியா",
+      "en": "Central India"
+     },
+     {
+      "ta": "லக்னோ",
+      "en": "Lucknow"
+     },
+     {
+      "ta": "காண்பூர்",
+      "en": "Kanpur"
+     }
+    ],
+    "right": [
+     {
+      "ta": "பேகம் ஹஸ்ரத் மெஹல்",
+      "en": "Begum Hazarat Mahal"
+     },
+     {
+      "ta": "தாந்தியா தோப்பே",
+      "en": "Tantia Tope"
+     },
+     {
+      "ta": "இராணி இலட்சுமி பாய்",
+      "en": "Rani Laxmi Bai"
+     },
+     {
+      "ta": "பகதுர்ஷா - II",
+      "en": "Bhadur Shah - II"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "டெல்லி - பகதுர்ஷா II (4), மத்திய இந்தியா - இராணி இலட்சுமி பாய் (3), லக்னோ - பேகம் ஹஸ்ரத் மெஹல் (1), கான்பூர் - தாந்தியா தோப்பே (2). எனவே சரியான விடை 4 3 1 2.",
+    "en": "Delhi - Bahadur Shah II (4), Central India - Rani Laxmi Bai (3), Lucknow - Begum Hazarat Mahal (1), Kanpur - Tantia Tope (2). Hence 4 3 1 2."
+   }
+  },
+  {
+   "qNo": 114,
+   "part": "B",
+   "unit": "B4",
+   "topic": "central-vigilance-commission",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "முதலாவதாக தேர்ந்தெடுக்கப்பட்ட நடுவண் விழிப்புணர்வு ஆணையத்தின் ஆணையர் யார்?",
+    "en": "Who was selected as the first Chief Vigilance Commissioner of India?"
+   },
+   "options": {
+    "A": {
+     "ta": "சரத் குமார்",
+     "en": "Sharad Kumar"
+    },
+    "B": {
+     "ta": "B.K. ஆச்சார்யா",
+     "en": "B.K. Acharya"
+    },
+    "C": {
+     "ta": "நீட்டூர் சீனிவாச ராவ்",
+     "en": "Nittoor Srinivasa Rau"
+    },
+    "D": {
+     "ta": "R.P. கண்ணா",
+     "en": "R.P. Khanna"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்தியாவின் முதல் நடுவண் விழிப்புணர்வு ஆணையர் நீட்டூர் சீனிவாச ராவ் ஆவார்.",
+    "en": "Nittoor Srinivasa Rau was the first Chief Vigilance Commissioner of India."
+   }
+  },
+  {
+   "qNo": 115,
+   "part": "B",
+   "unit": "B5",
+   "topic": "consumer-protection-act",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "நுகர்வோர் பாதுகாப்பு சட்டம் — என அழைக்கப்படுகிறது.",
+    "en": "Consumer Protection Act is called as"
+   },
+   "options": {
+    "A": {
+     "ta": "தமிழ்நாடு நுகர்வோர் பாதுகாப்பு கவசம்",
+     "en": "Tamil Nadu Nugarvor Kavasam"
+    },
+    "B": {
+     "ta": "நுகர்வோரின் மகாசானம்",
+     "en": "Consumer's Magna Carta"
+    },
+    "C": {
+     "ta": "உலக நுகர்வோர் கவசம்",
+     "en": "World Nugarvor Kavasam"
+    },
+    "D": {
+     "ta": "மதிப்புள்ள நுகர்வோர் கவசம்",
+     "en": "Valuable Consumer Kavasam"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நுகர்வோர் பாதுகாப்பு சட்டம் நுகர்வோரின் மகாசானம் (Consumer's Magna Carta) என அழைக்கப்படுகிறது.",
+    "en": "The Consumer Protection Act is called the Consumer's Magna Carta."
+   }
+  },
+  {
+   "qNo": 116,
+   "part": "B",
+   "unit": "B4",
+   "topic": "election-system",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "குடியரசுத் தலைவர் மற்றும் துணை குடியரசுத் தலைவர், நாடாளுமன்ற மேல்கபை உறுப்பினர்கள் ————————— முறை மூலம் தேர்ந்தெடுக்கப்படுகின்றனர்.",
+    "en": "In which model of elections, the President and the Vice-President, the members of the Rajya Sabha are elected?"
+   },
+   "options": {
+    "A": {
+     "ta": "இடைத் தேர்தல்கள்",
+     "en": "By-Elections"
+    },
+    "B": {
+     "ta": "நேரடித் தேர்தல் முறை",
+     "en": "Direct Election"
+    },
+    "C": {
+     "ta": "மறைமுகத் தேர்தல் முறை",
+     "en": "Indirect Election"
+    },
+    "D": {
+     "ta": "இடைப்பருவத் தேர்தல்கள்",
+     "en": "Mid-Term polls"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "குடியரசுத் தலைவர், துணைத் தலைவர் மற்றும் மாநிலங்களவை உறுப்பினர்கள் மறைமுகத் தேர்தல் மூலம் தேர்ந்தெடுக்கப்படுகின்றனர்.",
+    "en": "The President, Vice-President and members of Rajya Sabha are elected through indirect elections."
+   }
+  },
+  {
+   "qNo": 117,
+   "part": "B",
+   "unit": "B4",
+   "topic": "governor-term",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "பின்வரும் கூற்றுகளில் எவை சரியானது?",
+    "en": "Which of the following statements is / are correct?"
+   },
+   "options": {
+    "A": {
+     "ta": "1, 2 ஆகிய இரண்டுமே சரி",
+     "en": "Both 1, 2 are correct"
+    },
+    "B": {
+     "ta": "1 மட்டும் சரி",
+     "en": "only 1 is correct"
+    },
+    "C": {
+     "ta": "2 மட்டும் சரி",
+     "en": "only 2 is correct"
+    },
+    "D": {
+     "ta": "1, 2 ஆகிய இரண்டுமே தவறு",
+     "en": "Both 1, 2 are incorrect"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "ஆளுநரின் பதவிக்காலம் ஐந்து ஆண்டுகள்.",
+     "en": "The term of office of the Governor is five years"
+    },
+    {
+     "ta": "ஆளுநரின் பதவிக் காலம் முடிவுடைந்த போதும் கூட பின்னர் வருபவர் பதவியேற்கும் வரை பதவியில் தொடர்கிறார்.",
+     "en": "He can remain in office till his successor enters upon the office of the Governor."
+    }
+   ],
+   "explain": {
+    "ta": "ஆளுநரின் பதவி காலம் 5 ஆண்டுகள் மற்றும் புதிய ஆளுநர் பதவியேற்கும் வரை அவர் பதவியில் தொடர்வார் என்ற இரண்டு கூற்றுகளும் சரியானவை.",
+    "en": "Both statements regarding the Governor's term and continuation in office until a successor takes charge are correct."
+   }
+  },
+  {
+   "qNo": 118,
+   "part": "B",
+   "unit": "B1",
+   "topic": "bases-properties",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "காரங்கள் பற்றிய கீழ்க்கண்ட கூற்றுகளில் எது/எவை சரி.",
+    "en": "Which of the following statements about bases is /are true?"
+   },
+   "options": {
+    "A": {
+     "ta": "I மற்றும் III",
+     "en": "I and III"
+    },
+    "B": {
+     "ta": "II மட்டும்",
+     "en": "II only"
+    },
+    "C": {
+     "ta": "III மற்றும் IV",
+     "en": "III and IV"
+    },
+    "D": {
+     "ta": "IV மற்றும் II",
+     "en": "IV and II"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "காரங்கள் நீரில் கரைந்து ஹைட்ராக்சைடு அயனிகளைத் தரும் சேர்மங்கள் காரங்கள் எனப்படுகின்றன",
+     "en": "Base is a substance which releases hydroxide ions when dissolved in water"
+    },
+    {
+     "ta": "இவை நீல லித்மஸ் தாளைச் சிவப்பாக மாற்றுகின்றன",
+     "en": "They change blue litmus to red"
+    },
+    {
+     "ta": "துத்தநாகம், சோடியம் ஹைட்ராக்சைடுடன் வினைபுரிந்து ஹைட்ரஜன் வாயுவை வெளியிட்டுச் சோடியம் ஜிங்கேட்டைத் தருகிறது",
+     "en": "Zinc reacts with sodium hydroxide to form Sodium Zineate with the liberation of hydrogen gas"
+    },
+    {
+     "ta": "இவை பினாப்தலினுடன் நிறமற்றதாகவும் மெத்தில் ஆரஞ்சுடன் இளஞ்சிவப்பு நிறத்தையும் தருகின்றன",
+     "en": "They are colourless with phenolphthalein and pink with methyl orange"
+    }
+   ],
+   "explain": {
+    "ta": "காரங்கள் நீரில் கரைந்து ஹைட்ராக்சைடு அயனிகளைத் தரும் மற்றும் துத்தநாகத்துடன் வினைபுரிந்து ஹைட்ரஜனைத் தரும் என்பவை சரியான கூற்றுகள்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 119,
+   "part": "B",
+   "unit": "B4",
+   "topic": "fundamental-rights",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பட்டியல் I ஐ II உடன் பொருத்துக :",
+    "en": "Match List I with List II :"
+   },
+   "options": {
+    "A": {
+     "ta": "2 3 4 1",
+     "en": "2 3 4 1"
+    },
+    "B": {
+     "ta": "1 4 3 2",
+     "en": "1 4 3 2"
+    },
+    "C": {
+     "ta": "3 2 1 4",
+     "en": "3 2 1 4"
+    },
+    "D": {
+     "ta": "4 1 2 3",
+     "en": "4 1 2 3"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "சமத்துவ உரிமை",
+      "en": "Right to equality"
+     },
+     {
+      "ta": "சுதந்திர உரிமை",
+      "en": "Right to Freedom"
+     },
+     {
+      "ta": "அரசியலமைப்பிற்குட்பட்டு தீர்வு காணும் உரிமை",
+      "en": "Right to constitutional remedies"
+     },
+     {
+      "ta": "சமய சுதந்திர உரிமை",
+      "en": "Right to freedom of religion"
+     }
+    ],
+    "right": [
+     {
+      "ta": "விதிகள் 25 முதல் 28 வரை",
+      "en": "Articles 25-28"
+     },
+     {
+      "ta": "விதிகள் 14 முதல் 18 வரை",
+      "en": "Articles 14-18"
+     },
+     {
+      "ta": "விதிகள் 19 முதல் 22 வரை",
+      "en": "Articles 19-22"
+     },
+     {
+      "ta": "விதி 32",
+      "en": "Article 32"
+     }
+    ]
+   }
+  },
+  {
+   "qNo": 120,
+   "part": "B",
+   "unit": "B3",
+   "topic": "british-india-reforms",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பிரிட்டிஷ் இந்தியாவில் பெண்களுக்கு வாக்குரிமை எந்த ஆண்டிலிருந்து வழங்கப்பட்டது?",
+    "en": "From when Women were granted the right to vote in British India?"
+   },
+   "options": {
+    "A": {
+     "ta": "1920",
+     "en": "1920"
+    },
+    "B": {
+     "ta": "1921",
+     "en": "1921"
+    },
+    "C": {
+     "ta": "1922",
+     "en": "1922"
+    },
+    "D": {
+     "ta": "1923",
+     "en": "1923"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மதராஸ் மாகாணத்தில் 1921 ஆம் ஆண்டு பெண்களுக்கு வாக்குரிமை வழங்கப்பட்டது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 121,
+   "part": "B",
+   "unit": "B6",
+   "topic": "justice-party-administration",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பனகல் அமைச்சரவையால் உருவாக்கப்பட்ட பணியாளர் தேர்வு வாரியம் தமிழ்நாட்டில் எந்த ஆண்டு தோற்றுவிக்கப்பட்டது?",
+    "en": "In which year the Staff Selection Board was established in Tamilnadu during the Panagal Ministry?"
+   },
+   "options": {
+    "A": {
+     "ta": "1916",
+     "en": "1916"
+    },
+    "B": {
+     "ta": "1920",
+     "en": "1920"
+    },
+    "C": {
+     "ta": "1924",
+     "en": "1924"
+    },
+    "D": {
+     "ta": "1927",
+     "en": "1927"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பனகல் அமைச்சரவையால் 1924 ஆம் ஆண்டு பணியாளர் தேர்வு வாரியம் (Staff Selection Board) உருவாக்கப்பட்டது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 122,
+   "part": "B",
+   "unit": "B6",
+   "topic": "match-religious-texts",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக சமயங்கள் சார்ந்த நூல்கள் :",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "4 3 1 2",
+     "en": "4 3 1 2"
+    },
+    "B": {
+     "ta": "2 1 3 4",
+     "en": "2 1 3 4"
+    },
+    "C": {
+     "ta": "1 3 4 2",
+     "en": "1 3 4 2"
+    },
+    "D": {
+     "ta": "2 4 1 3",
+     "en": "2 4 1 3"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) தேம்பாவணி",
+      "en": "(a) Thembavani"
+     },
+     {
+      "ta": "(b) சீறாப்புராணம்",
+      "en": "(b) Seerapuranam"
+     },
+     {
+      "ta": "(c) பகவற்கீதை",
+      "en": "(c) Bhagvad Gita"
+     },
+     {
+      "ta": "(d) திரிபீடகம்",
+      "en": "(d) Tripitakas"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. இந்து சமயம்",
+      "en": "1. Hindus"
+     },
+     {
+      "ta": "2. கிறிஸ்தவ சமயம்",
+      "en": "2. Christians"
+     },
+     {
+      "ta": "3. புத்த சமயம்",
+      "en": "3. Buddhists"
+     },
+     {
+      "ta": "4. இஸ்லாம் சமயம்",
+      "en": "4. Muslims"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "தேம்பாவணி - கிறிஸ்தவ சமயம் (2), சீறாப்புராணம் - இஸ்லாம் சமயம் (4), பகவற்கீதை - இந்து சமயம் (1), திரிபீடகம் - புத்த சமயம் (3). எனவே சரியான விடை 2 4 1 3 ஆகும்.",
+    "en": "Thembavani corresponds to Christians (2), Seerapuranam to Muslims (4), Bhagvad Gita to Hindus (1), and Tripitakas to Buddhists (3)."
+   }
+  },
+  {
+   "qNo": 123,
+   "part": "B",
+   "unit": "B3",
+   "topic": "indus-valley-civilization",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "R.D. பானர்ஜி என்பவரால் 1922 ல் கண்டறியப்பட்ட நகரம்",
+    "en": "_______ was discovered in 1922 under the Supervision of R.D. Bannerji."
+   },
+   "options": {
+    "A": {
+     "ta": "மொஹஞ்சதாரோ",
+     "en": "Mohenjadaro"
+    },
+    "B": {
+     "ta": "ஹரப்பா",
+     "en": "Harappa"
+    },
+    "C": {
+     "ta": "லோத்தல்",
+     "en": "Lothal"
+    },
+    "D": {
+     "ta": "கலிபங்கன்",
+     "en": "Kalibangan"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மொஹஞ்சதாரோ நகரம் 1922 ஆம் ஆண்டு ஆர்.டி. பானர்ஜி அவர்களால் கண்டறியப்பட்டது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 124,
+   "part": "B",
+   "unit": "B3",
+   "topic": "mughal-period",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "முகலாய காலத்தில் 'நவீன நாணய முறையின் தந்தை' என அழைக்கப்பட்டவர் யார்?",
+    "en": "Who was called as 'the father of Modern Currency' during the Mughal period?"
+   },
+   "options": {
+    "A": {
+     "ta": "பாபர்",
+     "en": "Babur"
+    },
+    "B": {
+     "ta": "அக்பர்",
+     "en": "Akbar"
+    },
+    "C": {
+     "ta": "ஷெர்ஷா",
+     "en": "Shershah"
+    },
+    "D": {
+     "ta": "ஷாஜகான்",
+     "en": "Shah Jahan"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஷெர்ஷா சூரி முகலாய காலத்தில் நவீன நாணய முறையின் தந்தை என அழைக்கப்படுகிறார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 125,
+   "part": "B",
+   "unit": "B5",
+   "topic": "tamil-nadu-economy",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "2017-18 ல் தமிழ்நாட்டின் தனி நபர் வருமானம் (GSDP) எவ்வளவு?",
+    "en": "In the year 2017-18 The Per Capita Income (GSDP) of Tamil Nadu was"
+   },
+   "options": {
+    "A": {
+     "ta": "$ 1670",
+     "en": "$ 1670"
+    },
+    "B": {
+     "ta": "$ 2200",
+     "en": "$ 2200"
+    },
+    "C": {
+     "ta": "$ 1443",
+     "en": "$ 1443"
+    },
+    "D": {
+     "ta": "$ 2175",
+     "en": "$ 2175"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "2017-18 ஆம் ஆண்டில் தமிழ்நாட்டின் தனிநபர் வருமானம் $2200 ஆகும்.",
+    "en": ""
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 126,
+   "part": "B",
+   "unit": "B2",
+   "topic": "indian-geography",
+   "format": "FILL_BLANK",
+   "stem": {
+    "ta": "உத்கல் சமவெளி ---------------- மாநிலத்தில் அமைந்துளது.",
+    "en": "The Utkal plain is found in ---------------- state."
+   },
+   "options": {
+    "A": {
+     "ta": "ஆந்திரபிரதேசம்",
+     "en": "Andhrapradesh"
+    },
+    "B": {
+     "ta": "மும்பை",
+     "en": "Mumbai"
+    },
+    "C": {
+     "ta": "ஒடிசா",
+     "en": "Odhisha"
+    },
+    "D": {
+     "ta": "தமிழ்நாடு",
+     "en": "Tamil Nadu"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "உத்கல் சமவெளி ஒடிசா மாநிலத்தில் அமைந்துள்ளது.",
+    "en": "The Utkal plain forms the coastal plains of Odisha."
+   }
+  },
+  {
+   "qNo": 127,
+   "part": "B",
+   "unit": "B2",
+   "topic": "world-geography",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "0° தீர்க்க ரேகையும் 0° அட்ச ரேகையும் காணப்படும்வது",
+    "en": "0° longitude and 0° latitude is located in"
+   },
+   "options": {
+    "A": {
+     "ta": "மத்திய ஆஸ்திரேலியா",
+     "en": "Central Australia"
+    },
+    "B": {
+     "ta": "பிரேசில்",
+     "en": "Brazil"
+    },
+    "C": {
+     "ta": "தென் அட்லாண்டிக் மற்றும் மேற்கு ஆப்பிரிக்கா",
+     "en": "Atlantic South and West of Africa"
+    },
+    "D": {
+     "ta": "தென் துருவங்களில்",
+     "en": "South pole"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "0° தீர்க்க ரேகையும் 0° அட்ச ரேகையும் வெட்டும் புள்ளி தென் அட்லாண்டிக் பெருங்கடல் மற்றும் மேற்கு ஆப்பிரிக்காவிற்கு அருகில் அமைந்துள்ளது.",
+    "en": "The intersection of 0° latitude and 0° longitude is located in the Atlantic Ocean, off the west coast of Africa."
+   }
+  },
+  {
+   "qNo": 128,
+   "part": "B",
+   "unit": "B1",
+   "topic": "diseases",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பன்றி காய்ச்சலை உருவாக்கும் வைரஸ்",
+    "en": "Swine Flu is caused by"
+   },
+   "options": {
+    "A": {
+     "ta": "ருபல்லா வைரஸ்",
+     "en": "Rubella virus"
+    },
+    "B": {
+     "ta": "ரைனோ வைரஸ்",
+     "en": "Rhino virus"
+    },
+    "C": {
+     "ta": "H1N1 வைரஸ்",
+     "en": "H1N1 virus"
+    },
+    "D": {
+     "ta": "ஆல்ஃபா வைரஸ்",
+     "en": "Alpha virus"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பன்றி காய்ச்சல் H1N1 இன்ஃப்ளுயன்சா வைரஸ் மூலம் ஏற்படுகிறது.",
+    "en": "Swine flu is primarily caused by the H1N1 influenza virus."
+   }
+  },
+  {
+   "qNo": 129,
+   "part": "B",
+   "unit": "B1",
+   "topic": "science-physiology",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஆன்ட்ரோஜன் இணைவு புரதத்தை உற்பத்தி செய்பவை",
+    "en": "The Androgen Binding protein is produced by"
+   },
+   "options": {
+    "A": {
+     "ta": "ஹைபோதலாமஸ்",
+     "en": "Hypothalamus"
+    },
+    "B": {
+     "ta": "லீடிக்செல்கள்",
+     "en": "Leydig cells"
+    },
+    "C": {
+     "ta": "டெஸ்டோஸ்டிரோன்",
+     "en": "Testosterone"
+    },
+    "D": {
+     "ta": "செர்டோலி செல்கள்",
+     "en": "Sertoli cells"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "செர்டோலி செல்கள் ஆன்ட்ரோஜன் இணைவு புரதத்தை உற்பத்தி செய்கின்றன.",
+    "en": "Androgen-binding protein is produced by Sertoli cells."
+   }
+  },
+  {
+   "qNo": 131,
+   "part": "B",
+   "unit": "B1",
+   "topic": "monocotyledonous-plants",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பின்வரும் ஒருவித்திலை தாவரங்கள் பற்றிய கூற்றுகளில் தவறானது எது?",
+    "en": "Which of the following fact is incorrect about monocotyledonous plants?"
+   },
+   "options": {
+    "A": {
+     "ta": "விதை ஒருவித்திலையை கொண்டது",
+     "en": "Seed has single cotyledon"
+    },
+    "B": {
+     "ta": "இலைகளில் இணைப்போக்கு நரம்பமைவு காணப்படுகிறது",
+     "en": "Leaves have parallel venation"
+    },
+    "C": {
+     "ta": "சல்லிவேர்த் தொகுப்பு காணப்படுகிறது",
+     "en": "Fibrous root system present"
+    },
+    "D": {
+     "ta": "ஐந்தங்க மலர் காணப்படுகிறது",
+     "en": "Flowers are pentamerous"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஒருவித்திலை தாவர மலர்கள் பொதுவாக முப்பதங்க மலர்களைக் (trimerous) கொண்டுள்ளன.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 132,
+   "part": "B",
+   "unit": "B1",
+   "topic": "mitosis",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மைட்டாசிஸ் பற்றிய பின்வரும் கூற்றுகளில் தவறானது எது?",
+    "en": "Which of the following fact is incorrect about mitosis?"
+   },
+   "options": {
+    "A": {
+     "ta": "உடல் செல்களில் மட்டும் நடைபெறுகிறது",
+     "en": "It occurs only in body cells"
+    },
+    "B": {
+     "ta": "மைட்டாசிஸ் இரு பகுப்புகளைக் கொண்டது",
+     "en": "Mitosis has two divisions"
+    },
+    "C": {
+     "ta": "'2n' குரோமோசோம்கள் நிலைநிறுத்தப்படுகிறது",
+     "en": "Maintenance of 2n chromosomes"
+    },
+    "D": {
+     "ta": "இரு இருமயசெல்கள் தோன்றுகின்றன",
+     "en": "Two diploid cells are produced"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மைட்டாசிஸ் என்பது ஒரே ஒரு செல் பகுப்பைக் கொண்டது (மயாசிஸ் மட்டுமே இரண்டு பகுப்புகளைக் கொண்டது).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 133,
+   "part": "B",
+   "unit": "B1",
+   "topic": "chemical-compounds-uses",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "பின்வருவனவற்றுள் தவறானவை எவை?",
+    "en": "Which of the following are wrong?"
+   },
+   "options": {
+    "A": {
+     "ta": "I மற்றும் IV",
+     "en": "I and IV"
+    },
+    "B": {
+     "ta": "II மற்றும் IV",
+     "en": "II and IV"
+    },
+    "C": {
+     "ta": "I மற்றும் III",
+     "en": "I and III"
+    },
+    "D": {
+     "ta": "III மற்றும் IV",
+     "en": "III and IV"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "Na2CO3 கடின நீரை மென்னீராக மாற்றப் பயன்படுகிறது",
+     "en": "Na2CO3 is used in softening hard water"
+    },
+    {
+     "ta": "NaHCO3 பருத்தி, லினன் துணிகளை வெளுக்கப் பயன்படுகிறது",
+     "en": "NaHCO3 is used for bleaching cotton and linen in textile industry"
+    },
+    {
+     "ta": "CaSO4 ½ H2O முறிந்த எலும்புகளை ஒட்டவைக்கப் பயன்படுகிறது",
+     "en": "CaSO4 ½ H2O is used for plastering fractured bones"
+    },
+    {
+     "ta": "CaOCl2 ரொட்டிச்சோடா தயாரிக்கப் பயன்படுகிறது",
+     "en": "CaOCl2 is used in making of baking powder"
+    }
+   ],
+   "explain": {
+    "ta": "NaHCO3 சமையல் சோடாவாகவும், CaOCl2 கிருமி நாசினியாகவும் வெளுக்கும் தூளாகவும் பயன்படுகிறது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 134,
+   "part": "B",
+   "unit": "B1",
+   "topic": "physics-light",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "40 செ.மீ வளைவு ஆரம் உடைய குவியாடி ஒன்றின் குவியத் தொலைவு",
+    "en": "Focal length of a convex mirror whose radius of curvature 40 cm is"
+   },
+   "options": {
+    "A": {
+     "ta": "20 செ.மீ",
+     "en": "20 cm"
+    },
+    "B": {
+     "ta": "40 செ.மீ",
+     "en": "40 cm"
+    },
+    "C": {
+     "ta": "80 செ.மீ",
+     "en": "80 cm"
+    },
+    "D": {
+     "ta": "முடிவிலி",
+     "en": "infinity"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "குவியத் தொலைவு f = R / 2. இங்கு R = 40 செ.மீ, எனவே f = 40 / 2 = 20 செ.மீ.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 135,
+   "part": "B",
+   "unit": "B1",
+   "topic": "physics-force",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு நபர் ஒரு கதவை அதன் முனையில் (கைப்பிடியில்) 10 N அளவு விசையை செலுத்தி திறப்பார், எனில் அதே கதவை அதன் மையப் பகுதியில் இருந்து திறக்க தேவைப்படும் விசையின் மதிப்பு என்ன?",
+    "en": "A man has to exert a force of 10 N at the edge of a door to push it open. How much force will the man have to exert if he pushes the centre of the door?"
+   },
+   "options": {
+    "A": {
+     "ta": "10 N",
+     "en": "10 N"
+    },
+    "B": {
+     "ta": "5 N",
+     "en": "5 N"
+    },
+    "C": {
+     "ta": "15 N",
+     "en": "15 N"
+    },
+    "D": {
+     "ta": "20 N",
+     "en": "20 N"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "திருப்புத் திறன் (Torque) மாறாமல் இருக்க, சுழற்சி அச்சுக்கான தொலைவு பாதியாகக் குறைந்தால், விசை இருமடங்காக (20 N) அதிகரிக்க வேண்டும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 136,
+   "part": "B",
+   "unit": "B1",
+   "topic": "physics-electricity",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "முதல் மின்கலத்தை உருவாக்கியவர்",
+    "en": "The first battery was made by"
+   },
+   "options": {
+    "A": {
+     "ta": "ஜூல்",
+     "en": "Joule"
+    },
+    "B": {
+     "ta": "ஜார்ஜ் சைமன் ஓம்",
+     "en": "George Simon ohm"
+    },
+    "C": {
+     "ta": "அலெச்சாண்ட்ரோ வோல்டா",
+     "en": "Alessandro Volta"
+    },
+    "D": {
+     "ta": "நியூட்டன்",
+     "en": "Newton"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "அலெச்சாண்ட்ரோ வோல்டா அவர்கள் முதல் மின்கலத்தை (Voltaic pile) உருவாக்கினார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 137,
+   "part": "C",
+   "unit": "C1",
+   "topic": "average",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு வகுப்பில் 12 மாணவர்களின் சராசரி உயரம் 152 செ.மீ எனக் கணக்கிடப்பட்டது. சரிபார்க்கும் போது 172 செ.மீ என்பதை 148 செ.மீ என தவறாக எடுத்துக் கொள்ளப்பட்டதாக தெரிய வந்தது எனில் சரியான சராசரி உயரம் யாது?",
+    "en": "The average height of 12 students in a class was calculated as 152 cm. On verification it was found that one reading was wrongly recorded as 148 cm instead of 172 cm. Find the correct mean height"
+   },
+   "options": {
+    "A": {
+     "ta": "150 செ.மீ",
+     "en": "150 cm"
+    },
+    "B": {
+     "ta": "156 செ.மீ",
+     "en": "156 cm"
+    },
+    "C": {
+     "ta": "158 செ.மீ",
+     "en": "158 cm"
+    },
+    "D": {
+     "ta": "154 செ.மீ",
+     "en": "154 cm"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சரியான சராசரி = 152 + (172-148)/12 = 152 + 24/12 = 154 செ.மீ.",
+    "en": "Correct mean = 152 + (172 - 148)/12 = 154 cm."
+   }
+  },
+  {
+   "qNo": 138,
+   "part": "C",
+   "unit": "C1",
+   "topic": "algebra-word-problems",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இரண்டு மிகை எண்களின் வர்க்கங்களின் வித்தியாசம் 45. சிறிய எண்ணின் வர்க்கம் ஆனது பெரிய எண்ணின் நான்கு மடங்கிற்குச் சமம் எனில் அந்த எண்களைக் காண்க",
+    "en": "The difference of the squares of two positive numbers is 45. The square of the smaller number is four times the larger number. Find the numbers"
+   },
+   "options": {
+    "A": {
+     "ta": "3 மற்றும் 15",
+     "en": "3 and 15"
+    },
+    "B": {
+     "ta": "9 மற்றும் 5",
+     "en": "9 and 5"
+    },
+    "C": {
+     "ta": "3 மற்றும் 16",
+     "en": "3 and 16"
+    },
+    "D": {
+     "ta": "9 மற்றும் 6",
+     "en": "9 and 6"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "9 மற்றும் 6-ன் வர்க்கங்களின் வித்தியாசம் 81 - 36 = 45 மற்றும் 6ன் வர்க்கம் (36) என்பது 9ன் நான்கு மடங்கு ஆகும்.",
+    "en": "9^2 - 6^2 = 81 - 36 = 45 and 6^2 = 36 which is 4 times 9."
+   }
+  },
+  {
+   "qNo": 139,
+   "part": "C",
+   "unit": "C1",
+   "topic": "mensuration",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மாட்டு வண்டிச் சக்கரத்தின் ஆரம் 35 செ.மீ. அது 154 மீ தொலைவு கடந்தால், அச்சக்கரம் எத்தனை முழுச்சுற்றுகள் சுற்றியிருக்கும்?",
+    "en": "The radius of a cart wheel is 35 cm. How many revolution does it make in travelling a distance of 154 m"
+   },
+   "options": {
+    "A": {
+     "ta": "70",
+     "en": "70"
+    },
+    "B": {
+     "ta": "189",
+     "en": "189"
+    },
+    "C": {
+     "ta": "119",
+     "en": "119"
+    },
+    "D": {
+     "ta": "86",
+     "en": "86"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சுற்றளவு = 2 * (22/7) * 35 = 220 செ.மீ = 2.2 மீ. சுற்றுக்களின் எண்ணிக்கை = 154 / 2.2 = 70.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 140,
+   "part": "C",
+   "unit": "C1",
+   "topic": "ages",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சரண் என்பவரின் வயது தன் மகன் சங்கரின் வயதைப் போல 6 மடங்கு. 4 வருடங்கள் கழித்து அவரின் வயது மகன் வயதைப் போல 4 மடங்கு எனில், அவர்களின் தற்போதைய வயது என்ன?",
+    "en": "Saran is 6 times as old as his son Sankar. After 4 years, he will be 4 times as old as his son. What are their present ages?"
+   },
+   "options": {
+    "A": {
+     "ta": "30, 5",
+     "en": "30, 5"
+    },
+    "B": {
+     "ta": "36, 6",
+     "en": "36, 6"
+    },
+    "C": {
+     "ta": "48, 8",
+     "en": "48, 8"
+    },
+    "D": {
+     "ta": "24, 4",
+     "en": "24, 4"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சங்கரின் வயது 6 எனில் சரணின் வயது 36. 4 ஆண்டுகளுக்குப் பிறகு சங்கருக்கு 10, சரணுக்கு 40 (4 மடங்கு).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 141,
+   "part": "C",
+   "unit": "C1",
+   "topic": "fractions",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "0.35 என்ற எண்ணை பின்னமாக மாற்றுக",
+    "en": "Express 0.35 into fraction"
+   },
+   "options": {
+    "A": {
+     "ta": "\\frac{35}{99}",
+     "en": "\\frac{35}{99}"
+    },
+    "B": {
+     "ta": "\\frac{35}{100}",
+     "en": "\\frac{35}{100}"
+    },
+    "C": {
+     "ta": "3\\frac{5}{10}",
+     "en": "3\\frac{5}{10}"
+    },
+    "D": {
+     "ta": "\\frac{35}{1000}",
+     "en": "\\frac{35}{1000}"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "0.35 bar = 35 / 99",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 142,
+   "part": "C",
+   "unit": "C1",
+   "topic": "lcm-hcf",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "200 க்கும் 300 க்கும் இடையே 6, 8 மற்றும் 9 ஆகிய எண்களால் வகுபடக் கூடிய எண்கள் எத்தனை உள்ளன?",
+    "en": "How many numbers are there between 200 and 300 which are exactly divisible by 6, 8 and 9?"
+   },
+   "options": {
+    "A": {
+     "ta": "ஒன்று",
+     "en": "One"
+    },
+    "B": {
+     "ta": "இரண்டு",
+     "en": "Two"
+    },
+    "C": {
+     "ta": "மூன்று",
+     "en": "Three"
+    },
+    "D": {
+     "ta": "நான்கு",
+     "en": "Four"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "6, 8, 9 இன் மீ.சி.ம = 72. 200 க்கும் 300 க்கும் இடையே 72 இன் மடங்குகள் 216 மற்றும் 288 ஆகும் (இரண்டு எண்கள்).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 143,
+   "part": "C",
+   "unit": "C1",
+   "topic": "time-and-work",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "A என்பவர் ஒரு வேலையை 20 நாட்களிலும், B என்பவர் அதே வேலையை 30 நாட்களிலும் செய்து முடிப்பார்கள். அவ்இருவரும் சேர்ந்து அவ்வேலையை செய்து முடிக்க எத்தனை நாட்கள் ஆகும்?",
+    "en": "A can do a piece of work in 20 days and B can do it in 30 days. How long will they take to do the work together?"
+   },
+   "options": {
+    "A": {
+     "ta": "10 நாட்கள்",
+     "en": "10 days"
+    },
+    "B": {
+     "ta": "12 நாட்கள்",
+     "en": "12 days"
+    },
+    "C": {
+     "ta": "11 நாட்கள்",
+     "en": "11 days"
+    },
+    "D": {
+     "ta": "20 நாட்கள்",
+     "en": "20 days"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "(20 × 30) / (20 + 30) = 600 / 50 = 12 நாட்கள்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 144,
+   "part": "C",
+   "unit": "C1",
+   "topic": "time-and-work",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "14 அச்சுக் கோர்ப்பவர்கள், 5 மணி நேரத்தில் ஒரு புத்தகத்தின் 70 பக்கங்களை முடிப்பர். 10 மணி நேரத்தில், 100 பக்கங்களை முடிக்க எத்தனை அச்சுக் கோர்ப்பவர்கள் தேவை?",
+    "en": "If 14 compositors can compose 70 pages of a book in 5 hours, how many compositors will compose 100 pages of this book in 10 hours?"
+   },
+   "options": {
+    "A": {
+     "ta": "12",
+     "en": "12"
+    },
+    "B": {
+     "ta": "10",
+     "en": "10"
+    },
+    "C": {
+     "ta": "8",
+     "en": "8"
+    },
+    "D": {
+     "ta": "7",
+     "en": "7"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சூத்திரம்: (M1 * H1) / W1 = (M2 * H2) / W2 வின்படி கணக்கிட 10 கிடைக்கும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 145,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simple-interest",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "₹ 7,500 க்கு 8% வட்டி வீதம் ஒரு வருடம் 6 மாதங்களுக்கான தனி வட்டமைக் காண்க.",
+    "en": "Find the simple interest on ₹ 7,500 at 8% per annum per 1 year 6 months."
+   },
+   "options": {
+    "A": {
+     "ta": "₹ 600",
+     "en": "₹ 600"
+    },
+    "B": {
+     "ta": "₹ 700",
+     "en": "₹ 700"
+    },
+    "C": {
+     "ta": "₹ 800",
+     "en": "₹ 800"
+    },
+    "D": {
+     "ta": "₹ 900",
+     "en": "₹ 900"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "SI = (P * N * R) / 100 = (7500 * 1.5 * 8) / 100 = 900.",
+    "en": "SI = (P * N * R) / 100 = (7500 * 1.5 * 8) / 100 = 900."
+   }
+  },
+  {
+   "qNo": 146,
+   "part": "C",
+   "unit": "C1",
+   "topic": "average",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கிரிக்கெட் வீரர் தோனியின் முதல் 30 ஆட்டங்களுக்கான சராசரி ஓட்டம் (runs) 72 எனக் கணக்கிடப்பட்டிருந்தது. 31 வது ஆட்டம் நடைபெற்ற பின் அவருடைய சராசரி ஓட்டம் 73 ஆக உயர்ந்தது எனில் 31 ஆவது ஆட்டத்தில் அவர் எடுத்திருந்த ஓட்டங்கள் (runs) எத்தனை?",
+    "en": "Cricket player Dhoni's average in first 30 matches was 72 runs. After 31st match, his average raised as 73 runs. How many runs did he make in 31st match?"
+   },
+   "options": {
+    "A": {
+     "ta": "100",
+     "en": "100"
+    },
+    "B": {
+     "ta": "103",
+     "en": "103"
+    },
+    "C": {
+     "ta": "74",
+     "en": "74"
+    },
+    "D": {
+     "ta": "108",
+     "en": "108"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "31 ஆட்டங்களின் மொத்த ஓட்டங்கள் = 31 * 73 = 2263. 30 ஆட்டங்களின் மொத்த ஓட்டங்கள் = 30 * 72 = 2160. 31வது ஆட்டத்தின் ஓட்டங்கள் = 2263 - 2160 = 103.",
+    "en": "Total runs for 31 matches = 31 * 73 = 2263. Total runs for 30 matches = 30 * 72 = 2160. Run in 31st match = 2263 - 2160 = 103."
+   }
+  },
+  {
+   "qNo": 147,
+   "part": "C",
+   "unit": "C1",
+   "topic": "number-system",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஏறு வரிசையில் எழுதுக \\frac{3}{4}, \\frac{1}{2}, \\frac{5}{8}",
+    "en": "Arrange in ascending order \\frac{3}{4}, \\frac{1}{2}, \\frac{5}{8}"
+   },
+   "options": {
+    "A": {
+     "ta": "\\frac{1}{2}, \\frac{5}{8}, \\frac{3}{4}",
+     "en": "\\frac{1}{2}, \\frac{5}{8}, \\frac{3}{4}"
+    },
+    "B": {
+     "ta": "\\frac{1}{2}, \\frac{3}{4}, \\frac{5}{8}",
+     "en": "\\frac{1}{2}, \\frac{3}{4}, \\frac{5}{8}"
+    },
+    "C": {
+     "ta": "\\frac{3}{4}, \\frac{5}{8}, \\frac{1}{2}",
+     "en": "\\frac{3}{4}, \\frac{5}{8}, \\frac{1}{2}"
+    },
+    "D": {
+     "ta": "\\frac{3}{4}, \\frac{1}{2}, \\frac{5}{8}",
+     "en": "\\frac{3}{4}, \\frac{1}{2}, \\frac{5}{8}"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "1/2 = 0.5, 5/8 = 0.625, 3/4 = 0.75. எனவே ஏறுவரிசை: 1/2, 5/8, 3/4",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 148,
+   "part": "C",
+   "unit": "C1",
+   "topic": "probability",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "T - 20 மட்டைப்பந்து போட்டியில் ராசு 50 பந்துகளை எதிர் கொண்டு 10 முறை \"ஆறு\" ஓட்டங்களை எடுத்தார். அவர் எதிர்கொண்ட பந்துகளில் ஒரு பந்தை சமவாய்ப்பு முறையில் தேர்ந்தெடுக்கும் போது அதில் அவர் \"ஆறு\" ஓட்டங்கள் எடுக்காமல் இருப்பதற்கான நிகழ்தகவு என்ன?",
+    "en": "In a T - 20 cricket match, Raju hit a \"six\" 10 times out of 50 balls he played. If a ball was selected at random. Find the probability that he would not have hit a \"six\"."
+   },
+   "options": {
+    "A": {
+     "ta": "\\frac{1}{5}",
+     "en": "\\frac{1}{5}"
+    },
+    "B": {
+     "ta": "\\frac{4}{5}",
+     "en": "\\frac{4}{5}"
+    },
+    "C": {
+     "ta": "\\frac{6}{5}",
+     "en": "\\frac{6}{5}"
+    },
+    "D": {
+     "ta": "\\frac{3}{5}",
+     "en": "\\frac{3}{5}"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஆறு அடிக்காத பந்துகள் = 50 - 10 = 40. நிகழ்தகவு = 40/50 = 4/5",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 149,
+   "part": "B",
+   "unit": "B4",
+   "topic": "indian-constitution",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'சுத்தமான குடிநீர் பெறுதல்' என்பது நமது அடிப்படை உரிமை. இது இந்திய அரசியலமைப்பில் எந்த பிரிவில் அடங்கியுள்ளது?",
+    "en": "'Right to clean water' is a fundamental right, under the Indian Constitution,"
+   },
+   "options": {
+    "A": {
+     "ta": "பிரிவு 12",
+     "en": "Article 12"
+    },
+    "B": {
+     "ta": "பிரிவு 21",
+     "en": "Article 21"
+    },
+    "C": {
+     "ta": "பிரிவு 31",
+     "en": "Article 31"
+    },
+    "D": {
+     "ta": "பிரிவு 41",
+     "en": "Article 41"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டம் பிரிவு 21-ன் கீழ் வாழ்வதற்கான உரிமையின் ஒரு பகுதியாக சுத்தமான குடிநீர் பெறுவதற்கான உரிமையும் அடங்கும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 150,
+   "part": "B",
+   "unit": "B5",
+   "topic": "economy",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'ஆசியாவின் டெট্রாய்ட்' என்றழைக்கப்படும் இடம்",
+    "en": "\"The Detroit of Asia\" is"
+   },
+   "options": {
+    "A": {
+     "ta": "ஹைதராபாத்",
+     "en": "Hyderabad"
+    },
+    "B": {
+     "ta": "சென்னை",
+     "en": "Chennai"
+    },
+    "C": {
+     "ta": "மும்பை",
+     "en": "Mumbai"
+    },
+    "D": {
+     "ta": "சூரத்",
+     "en": "Surat"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மோட்டார் வாகன உற்பத்தி தொழிற்சாலைகள் அதிகளவில் உள்ளதால் சென்னை 'ஆசியாவின் டெட்ராய்ட்' என அழைக்கப்படுகிறது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 151,
+   "part": "B",
+   "unit": "B5",
+   "topic": "education-system",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்திய கல்விமுறை, அடிப்படையில் ——— நிலைகளைக் கொண்டுள்ளது.",
+    "en": "The education system in India consists of primarily ——————— levels."
+   },
+   "options": {
+    "A": {
+     "ta": "எட்டு",
+     "en": "Eight"
+    },
+    "B": {
+     "ta": "ஆறு",
+     "en": "Six"
+    },
+    "C": {
+     "ta": "நான்கு",
+     "en": "Four"
+    },
+    "D": {
+     "ta": "இரண்டு",
+     "en": "Two"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்திய கல்விமுறை அடிப்படையில் ஆறு நிலைகளைக் கொண்டுள்ளது (தொடக்கக் கல்வி, உயர் தொடக்கக் கல்வி, இடைநிலைக் கல்வி, மேல்நிலைக் கல்வி, இளங்கலை மற்றும் முதுகலை).",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 152,
+   "part": "B",
+   "unit": "B6",
+   "topic": "kamaraj-chief-minister-tenure",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தமிழ் நாட்டின் முதலமைச்சராக காமராஜர் பதவி வகித்தது",
+    "en": "Kamaraj served as the Chief Minister of Tamil Nadu for"
+   },
+   "options": {
+    "A": {
+     "ta": "7 ஆண்டுகள்",
+     "en": "7 years"
+    },
+    "B": {
+     "ta": "8 ஆண்டுகள்",
+     "en": "8 years"
+    },
+    "C": {
+     "ta": "9 ஆண்டுகள்",
+     "en": "9 years"
+    },
+    "D": {
+     "ta": "10 ஆண்டுகள்",
+     "en": "10 years"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "காமராஜர் 1954 முதல் 1963 வரை சுமார் 9 ஆண்டுகள் தமிழ்நாட்டின் முதலமைச்சராகப் பணியாற்றினார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 153,
+   "part": "B",
+   "unit": "B5",
+   "topic": "gst-implementation-date",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "GST இந்தியாவில் நடைமுறைக்கு வந்தது",
+    "en": "GST came into effect on ------------ in India."
+   },
+   "options": {
+    "A": {
+     "ta": "29 மார்ச் 2017",
+     "en": "29th March 2017"
+    },
+    "B": {
+     "ta": "1 ஜூலை 2017",
+     "en": "1st July 2017"
+    },
+    "C": {
+     "ta": "29 மார்ச் 2016",
+     "en": "29th March 2016"
+    },
+    "D": {
+     "ta": "1 ஜூலை 2016",
+     "en": "1st July 2016"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சரக்கு மற்றும் சேவை வரி (GST) இந்தியாவில் 2017 ஆம் ஆண்டு ஜூலை 1 ஆம் நாள் நடைமுறைக்கு வந்தது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 154,
+   "part": "B",
+   "unit": "B1",
+   "topic": "mutant-variety-wheat",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சருதி மாற்ற கோதுமை வகை",
+    "en": "Mutant variety of wheat is"
+   },
+   "options": {
+    "A": {
+     "ta": "ஈனோதீரா லாமார்க்கியானா",
+     "en": "Oenothera Lamarkiana"
+    },
+    "B": {
+     "ta": "ஆமணக்கு அருணா",
+     "en": "Castor Aruna"
+    },
+    "C": {
+     "ta": "சார்பதி சொனோரா",
+     "en": "Sharbati Sonora"
+    },
+    "D": {
+     "ta": "மிராபிலிஸ் ஜலாபா",
+     "en": "Mirabilis Jalaba"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சார்பதி சொனோரா என்பது காமா கதிர்களைக் கொண்டு உருவாக்கப்பட்ட சருதி மாற்ற (Mutation) கோதுமை வகையாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 155,
+   "part": "B",
+   "unit": "B3",
+   "topic": "indus-valley-civilization",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எந்த கூற்று தவறானது?",
+    "en": "Which of the following statement is not correct?"
+   },
+   "options": {
+    "A": {
+     "ta": "சிந்து சமவெளி மக்கள் சுட்ட செங்கற்களைப் பயன்படுத்தினர்",
+     "en": "Indus Valley people used burnt bricks"
+    },
+    "B": {
+     "ta": "சுமார் 4700 ஆண்டுகளுக்கு முன்பு இந்நாகரிகம் மலர்ந்தது",
+     "en": "This civilization flourished in India about 4700 years ago"
+    },
+    "C": {
+     "ta": "ஹரப்பா என்ற சிந்திமொழிச் சொல்லுக்கு 'புதையுண்ட நகரம்' என்பது பொருள்",
+     "en": "Harappa in Sindhi means \"Buried City\""
+    },
+    "D": {
+     "ta": "சதுர வடிவிலான நூற்றுக்கணக்கான முத்திரைகள் இங்கு கண்டெடுக்கப்பட்டுள்ளது",
+     "en": "Hundreds of square seals were discovered here"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஹரப்பாவில் பெரும்பாலும் செவ்வக வடிவிலான முத்திரைகளே கண்டெடுக்கப்பட்டுள்ளன.",
+    "en": "Mostly rectangular seals were discovered in Harappa, making the statement about square seals incorrect."
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 156,
+   "part": "B",
+   "unit": "B4",
+   "topic": "indian-constitution-articles",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'மத்திய அரசால் விதிக்கப்பட்டும், வசூலிக்கப்பட்டும், மாநிலங்களுக்கு ஒதுக்கக்கூடிய வளங்கள்' பற்றி குறிப்பிடும் இந்திய அரசியலமைப்பு சட்டத்தின் சரத்து எண் யாது?",
+    "en": "Which article of the Indian Constitution talks about \"Taxes levied and collected by the Union but assigned to the States\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "சரத்து 201",
+     "en": "Art. 201"
+    },
+    "B": {
+     "ta": "சரத்து 269",
+     "en": "Art. 269"
+    },
+    "C": {
+     "ta": "சரத்து 272",
+     "en": "Art. 272"
+    },
+    "D": {
+     "ta": "சரத்து 268",
+     "en": "Art. 268"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டம் சரத்து 269 மத்திய அரசால் விதிக்கப்பட்டு, வசூலிக்கப்பட்டு மாநிலங்களுக்கு ஒதுக்கப்படும் வரிகளைப் பற்றிப் பேசுகிறது.",
+    "en": "Article 269 of the Indian Constitution deals with taxes levied and collected by the Union but assigned to the States."
+   }
+  },
+  {
+   "qNo": 158,
+   "part": "B",
+   "unit": "B5",
+   "topic": "tamilnadu-development",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்திய அளவில், சென்னை நகரம், மெட்ரோ இரயில் சேவை கொண்ட ________ நகரமாகும்.",
+    "en": "Chennai becomes the ________ Indian city with metro railway."
+   },
+   "options": {
+    "A": {
+     "ta": "முதலாவது",
+     "en": "first"
+    },
+    "B": {
+     "ta": "ஐந்தாவது",
+     "en": "fifth"
+    },
+    "C": {
+     "ta": "ஆறாவது",
+     "en": "sixth"
+    },
+    "D": {
+     "ta": "இரண்டாவது",
+     "en": "second"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சென்னை மெட்ரோ இரயில் சேவை இந்தியாவில் தொடங்கப்பட்ட ஆறாவது மெட்ரோ நகரமாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 159,
+   "part": "B",
+   "unit": "B5",
+   "topic": "swachh-bharat-abhiyan-announcement",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எப்பொழுது ஸ்வச் பாரத் அபியான் பிரதம மந்திரியால் அறிவிக்கப்பட்டது?",
+    "en": "When was Swachh Bharat Abhiyan was announced by the Prime Minister?"
+   },
+   "options": {
+    "A": {
+     "ta": "2 அக்டோபர் 2013",
+     "en": "2 Oct 2013"
+    },
+    "B": {
+     "ta": "15 ஆகஸ்ட் 2014",
+     "en": "15 August 2014"
+    },
+    "C": {
+     "ta": "2 அக்டோபர் 2015",
+     "en": "2 Oct 2015"
+    },
+    "D": {
+     "ta": "2 அக்டோபர் 2016",
+     "en": "2 Oct 2016"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஸ்வச் பாரத் அபியான் 2014 ஆகஸ்ட் 15 அன்று பிரதமர் நரேந்திர மோடியால் அறிவிக்கப்பட்டது.",
+    "en": "Swachh Bharat Abhiyan was announced on 15 August 2014."
+   }
+  },
+  {
+   "qNo": 160,
+   "part": "B",
+   "unit": "B4",
+   "topic": "first-indian-general-election-1951",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "1951-ஆம் ஆண்டு நடைபெற்ற முதல் இந்திய பொதுத்தேர்தலில் போட்டியிட்ட கட்சிகள் எத்தனை?",
+    "en": "How many political parties participated in the 1951 First Indian General Election?"
+   },
+   "options": {
+    "A": {
+     "ta": "54",
+     "en": "54"
+    },
+    "B": {
+     "ta": "64",
+     "en": "64"
+    },
+    "C": {
+     "ta": "74",
+     "en": "74"
+    },
+    "D": {
+     "ta": "84",
+     "en": "84"
+    }
+   },
+   "answer": "A",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "1951 முதல் பொதுத்தேர்தலில் 54 கட்சிகள் போட்டியிட்டன.",
+    "en": "54 political parties participated in the 1951 general election."
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 161,
+   "part": "B",
+   "unit": "B2",
+   "topic": "india-central-meridian",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்தியாவின் மத்திய தீர்க்க ரேகை ---------------- வழியாக செல்கிறது.",
+    "en": "India's central meridian passes through"
+   },
+   "options": {
+    "A": {
+     "ta": "அகமதாபாத்",
+     "en": "Ahmedabad"
+    },
+    "B": {
+     "ta": "மிர்சாபூர்",
+     "en": "Mirzapur"
+    },
+    "C": {
+     "ta": "கிரீன்விச்",
+     "en": "Greenwich"
+    },
+    "D": {
+     "ta": "குஜராத்",
+     "en": "Gujarat"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்தியாவின் மத்திய தீர்க்க ரேகை மிர்சாபூர் வழியாக செல்கிறது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 162,
+   "part": "B",
+   "unit": "B6",
+   "topic": "padmashri-transgender",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'பத்மஸ்ரீ' விருது பெற்ற முதல் இந்திய திருநங்கை யார்?",
+    "en": "Who is the first Indian transgender to be honoured with 'Padmashri'?"
+   },
+   "options": {
+    "A": {
+     "ta": "சத்யஸ்ரீ ஷர்மிளா",
+     "en": "Satyasree Sharmila"
+    },
+    "B": {
+     "ta": "பிரீத்திகா யாஷினி",
+     "en": "Prithika Yashini"
+    },
+    "C": {
+     "ta": "நர்த்தகி நடராஜ்",
+     "en": "Narthaki Natraj"
+    },
+    "D": {
+     "ta": "தமிழ்ச் செல்வி",
+     "en": "Tamilselvi"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நர்த்தகி நடராஜ் பத்மஸ்ரீ விருது பெற்ற முதல் இந்திய திருநங்கை ஆவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 163,
+   "part": "B",
+   "unit": "B3",
+   "topic": "1857-revolt-taxes",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "1857 ல் குடியானவர்கள் அதிகமாக செலுத்த வேண்டியிருந்த வரி",
+    "en": "During 1857, the peasants had to pay heavy taxes in the form of"
+   },
+   "options": {
+    "A": {
+     "ta": "நில வரி",
+     "en": "Land tax"
+    },
+    "B": {
+     "ta": "சுங்க வரி",
+     "en": "Customs duty"
+    },
+    "C": {
+     "ta": "வருமான வரி",
+     "en": "Revenue tax"
+    },
+    "D": {
+     "ta": "சேவை வரி",
+     "en": "Service tax"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "1857 இல் குடியானவர்கள் அதிகமாக செலுத்த வேண்டியிருந்தது நில வரியாகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 164,
+   "part": "B",
+   "unit": "B3",
+   "topic": "home-rule-league-bombay",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பம்பாயில் தன்னாட்சி கழகத்தை தோற்றுவித்தவர்",
+    "en": "Home rule league in Bombay was formed by"
+   },
+   "options": {
+    "A": {
+     "ta": "பாரதியார்",
+     "en": "Bharathiar"
+    },
+    "B": {
+     "ta": "திருமதி. அன்னிபெசன்ட்",
+     "en": "Mrs. Annie Besant"
+    },
+    "C": {
+     "ta": "நேரு",
+     "en": "Nehru"
+    },
+    "D": {
+     "ta": "திலகர்",
+     "en": "Tilak"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பம்பாயில் தன்னாட்சி இயக்கத்தை திலகர் தோற்றுவித்தார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 165,
+   "part": "B",
+   "unit": "B3",
+   "topic": "social-reformers",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக:",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "1 3 2 4",
+     "en": "1 3 2 4"
+    },
+    "B": {
+     "ta": "2 4 1 3",
+     "en": "2 4 1 3"
+    },
+    "C": {
+     "ta": "4 3 2 1",
+     "en": "4 3 2 1"
+    },
+    "D": {
+     "ta": "1 4 3 2",
+     "en": "1 4 3 2"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "நவீன இந்தியாவின் விடி வெள்ளி",
+      "en": "Herald of new age"
+     },
+     {
+      "ta": "இந்து சமயத்தின் மார்ட்டின் லூதர்",
+      "en": "Martin Luther of Hinduism"
+     },
+     {
+      "ta": "நியூ இந்தியா",
+      "en": "New India"
+     },
+     {
+      "ta": "சூரிய ஒளி மூலம் மின்சாரம்",
+      "en": "Photo Voltaic lighting system"
+     }
+    ],
+    "right": [
+     {
+      "ta": "அன்னி பெசன்ட்",
+      "en": "Annie Besant"
+     },
+     {
+      "ta": "இராஜா ராம்மோகன் ராய்",
+      "en": "Raja Rammohan Roy"
+     },
+     {
+      "ta": "இராமகிருஷ்ணா மடம்",
+      "en": "Ramakrishna Mission"
+     },
+     {
+      "ta": "சுவாமி தயானந்த சரஸ்வதி",
+      "en": "Swami Dyanandha Saraswathi"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சரியான பொருத்தம்: நவீன இந்தியாவின் விடிவெள்ளி - ராஜா ராம்மோகன் ராய், இந்து சமயத்தின் மார்ட்டின் லூதர் - சுவாமி தயானந்த சரஸ்வதி, நியூ இந்தியா - அன்னி பெசன்ட், சூரிய ஒளி மூலம் மின்சாரம் - ராமகிருஷ்ணா மிஷன்.",
+    "en": "Correct matching pairs are: Herald of new age - Raja Rammohan Roy, Martin Luther of Hinduism - Swami Dyanandha Saraswathi, New India - Annie Besant, Photo Voltaic lighting system - Ramakrishna Mission."
+   }
+  },
+  {
+   "qNo": 166,
+   "part": "B",
+   "unit": "B4",
+   "topic": "central-vigilance-commission",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "________ குழுவின் பரிந்துரையின் அடிப்படையில் மத்திய கண்காணிப்பு ஆணையம் அமைக்கப்பட்டது.",
+    "en": "The Central Vigilance Commission was established on the recommendation of"
+   },
+   "options": {
+    "A": {
+     "ta": "நிர்வாக சீர்திருத்த ஆணையம்",
+     "en": "Administrative Reforms Commission"
+    },
+    "B": {
+     "ta": "தேசிய வளர்ச்சிக் குழு",
+     "en": "National Development Council"
+    },
+    "C": {
+     "ta": "சந்தானம் ஊழல் தடுப்பு குழு",
+     "en": "Santhanam Committee on Prevention of Corruption"
+    },
+    "D": {
+     "ta": "சட்ட ஆணையம்",
+     "en": "Law Commission"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மத்திய கண்காணிப்பு ஆணையம் சந்தானம் குழுவின் பரிந்துரையின்படி அமைக்கப்பட்டது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 167,
+   "part": "B",
+   "unit": "B4",
+   "topic": "supreme-court-appointment",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்திய உச்ச நீதிமன்ற தலைமை நீதிபதி மற்றும் பிற நீதிபதிகளை நியமிப்பவர்",
+    "en": "The Chief Justice and other Judges of the Indian Supreme Court are appointed by"
+   },
+   "options": {
+    "A": {
+     "ta": "குடியரசுத் தலைவர்",
+     "en": "The President"
+    },
+    "B": {
+     "ta": "தலைமை வழக்குநரைர்",
+     "en": "The Attorney General"
+    },
+    "C": {
+     "ta": "ஆளுநர்",
+     "en": "The Governor"
+    },
+    "D": {
+     "ta": "பிரதம அமைச்சர்",
+     "en": "The Prime Minister"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்திய உச்ச நீதிமன்றத்தின் தலைமை நீதிபதி மற்றும் பிற நீதிபதிகள் குடியரசுத் தலைவரால் நியமிக்கப்படுகிறார்கள்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 168,
+   "part": "B",
+   "unit": "B4",
+   "topic": "constitutional-amendments",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'நகர் பாலிகா' சட்டம் சார்ந்த சட்ட திருத்தம் ________ ஆகும்.",
+    "en": "Which Amendment has made provisions related to 'Nagar Palikas' (Urban Local Governments)?"
+   },
+   "options": {
+    "A": {
+     "ta": "73வது சட்ட திருத்தம்",
+     "en": "73rd Amendment Act"
+    },
+    "B": {
+     "ta": "75வது சட்ட திருத்தம்",
+     "en": "75th Amendment Act"
+    },
+    "C": {
+     "ta": "74வது சட்ட திருத்தம்",
+     "en": "74th Amendment Act"
+    },
+    "D": {
+     "ta": "70வது சட்ட திருத்தம்",
+     "en": "70th Amendment Act"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "74-வது சட்டத் திருத்தம் நகராட்சி நிர்வாகம் பற்றி கூறுகிறது.",
+    "en": "The 74th Amendment Act deals with urban local governments."
+   }
+  },
+  {
+   "qNo": 169,
+   "part": "B",
+   "unit": "B4",
+   "topic": "union-territories",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கீழ்க்கண்டவற்றுள் எந்த யூனியன் பிரதேசம் தனக்கென்று மக்களால் தேர்ந்தெடுக்கப்பட்ட சட்டமன்றம் கொண்டது",
+    "en": "Which Union Territory has its own elected Legislative Assembly?"
+   },
+   "options": {
+    "A": {
+     "ta": "சண்டிகர்",
+     "en": "Chandigarh"
+    },
+    "B": {
+     "ta": "லட்சத்தீவுகள்",
+     "en": "Lakshadweep"
+    },
+    "C": {
+     "ta": "புதுச்சேரி",
+     "en": "Puducherry"
+    },
+    "D": {
+     "ta": "டாமன் மற்றும் டியூ",
+     "en": "Daman and Diu"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "புதுச்சேரி யூனியன் பிரதேசம் சட்டமன்றத்தைக் கொண்டுள்ளது.",
+    "en": "Puducherry is a Union Territory with its own elected legislative assembly."
+   }
+  },
+  {
+   "qNo": 170,
+   "part": "B",
+   "unit": "B4",
+   "topic": "lok-sabha",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மக்களவையில் மக்களால் நேரடியாகத் தேர்ந்தெடுக்கப்படும் உறுப்பினர்களின் எண்ணிக்கை யாது?",
+    "en": "In Lok Sabha, how many members are elected directly by the people?"
+   },
+   "options": {
+    "A": {
+     "ta": "453",
+     "en": "453"
+    },
+    "B": {
+     "ta": "354",
+     "en": "354"
+    },
+    "C": {
+     "ta": "543",
+     "en": "543"
+    },
+    "D": {
+     "ta": "545",
+     "en": "545"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மக்களவையில் நேரடியாகத் தேர்ந்தெடுக்கப்படும் உறுப்பினர்களின் எண்ணிக்கை 543 ஆகும்.",
+    "en": "543 members are directly elected to the Lok Sabha."
+   }
+  },
+  {
+   "qNo": 172,
+   "part": "B",
+   "unit": "B4",
+   "topic": "right-to-property-abolished",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "1978ல் 44வது அரசியலமைப்புச் சட்டத் திருத்தத்தின்படி அடிப்படை உரிமையிலிருந்து நீக்கப்பட்ட உரிமை எது?",
+    "en": "Which right has been abolished by the 44th Amendment Act, 1978?"
+   },
+   "options": {
+    "A": {
+     "ta": "சமயச் சுதந்திரத்திற்கான உரிமை",
+     "en": "Right to freedom of religion"
+    },
+    "B": {
+     "ta": "சுரண்டலை தடுப்பதற்கான உரிமை",
+     "en": "Right against Exploitation"
+    },
+    "C": {
+     "ta": "சொத்துரிமை",
+     "en": "Right to Property"
+    },
+    "D": {
+     "ta": "அரசமைப்பு வழி தீர்வுகளுக்கான உரிமை",
+     "en": "Right to Constitutional remedies"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சொத்துரிமை (Article 31) 44வது சட்டத் திருத்தம் 1978 மூலம் அடிப்படை உரிமையிலிருந்து நீக்கப்பட்டு, சட்ட உரிமையாக (Article 300A) மாற்றப்பட்டது.",
+    "en": "The Right to Property was removed from the list of Fundamental Rights by the 44th Amendment Act of 1978 and made a legal right."
+   }
+  },
+  {
+   "qNo": 175,
+   "part": "B",
+   "unit": "B2",
+   "topic": "railway-station-mendipathar",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"மெண்டிபதார்\" இரயில் நிலையம் எந்த மாநிலத்தில் அமைந்துளது?",
+    "en": "The Railway Station \"Mendipathar\" is located in"
+   },
+   "options": {
+    "A": {
+     "ta": "சிக்கிம்",
+     "en": "Sikkim"
+    },
+    "B": {
+     "ta": "மேகாலயா",
+     "en": "Meghalaya"
+    },
+    "C": {
+     "ta": "திரிபுரா",
+     "en": "Tripura"
+    },
+    "D": {
+     "ta": "நாகலாந்து",
+     "en": "Nagaland"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மெண்டிபதார் இரயில் நிலையம் மேகாலயா மாநிலத்தில் அமைந்துள்ளது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 176,
+   "part": "B",
+   "unit": "B4",
+   "topic": "linguistic-states",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "முதல் மொழிவாரி மாநிலம் எது?",
+    "en": "The first state to be created on Linguistic basis was"
+   },
+   "options": {
+    "A": {
+     "ta": "காஷ்மீர்",
+     "en": "Kashmir"
+    },
+    "B": {
+     "ta": "தமிழ்நாடு",
+     "en": "Tamilnadu"
+    },
+    "C": {
+     "ta": "கர்நாடகா",
+     "en": "Karnataka"
+    },
+    "D": {
+     "ta": "ஆந்திரா",
+     "en": "Andhra"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மொழிவாரி மாநிலமாக முதன்முதலில் உருவாக்கப்பட்ட மாநிலம் ஆந்திரா ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 177,
+   "part": "B",
+   "unit": "B6",
+   "topic": "chola-history",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சிதம்பரம் நடராஜர் ஆலயத்தின் கூரைக்கு பொற்கூரை வேய்ந்தவர் யார்?",
+    "en": "Who provided the Vimana of the famous Nataraja temple at Chidambaram with a golden roof?"
+   },
+   "options": {
+    "A": {
+     "ta": "முதலாம் ராஜராஜன்",
+     "en": "Raja Rajan - I"
+    },
+    "B": {
+     "ta": "முதலாம் பராந்தகன்",
+     "en": "Parantaka - I"
+    },
+    "C": {
+     "ta": "முதலாம் ராஜேந்திரன்",
+     "en": "Rajendira - I"
+    },
+    "D": {
+     "ta": "முதலாம் நரசிம்மவர்மன்",
+     "en": "Narasimhavarman - I"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "முதலாம் பராந்தகன் சிதம்பரம் நடராஜர் ஆலயத்திற்குப் பொற்கூரை வேய்ந்தான்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 178,
+   "part": "B",
+   "unit": "B6",
+   "topic": "chola-history",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"மதுரை கொண்டான்\" என்று புகழப்பட்டவர் யார்?",
+    "en": "Who was called \"Madurai Kondan\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "முதலாம் ஆதித்தியா",
+     "en": "Aditya - I"
+    },
+    "B": {
+     "ta": "முதலாம் இராஜராஜன்",
+     "en": "Rajarajan - I"
+    },
+    "C": {
+     "ta": "இரண்டாம் இராஜராஜன்",
+     "en": "Raja Raja - II"
+    },
+    "D": {
+     "ta": "முதலாம் பராந்தகன்",
+     "en": "Parantaka - I"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "முதலாம் பராந்தகன் மதுரை மற்றும் இலங்கையைக் கைப்பற்றியதால் 'மதுரை கொண்டான்' என அழைக்கப்படுகிறார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 179,
+   "part": "B",
+   "unit": "B6",
+   "topic": "pallava-history",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சிம்மவிஷ்ணுவின் மகன் யார்?",
+    "en": "Who was the son of Simhavishnu?"
+   },
+   "options": {
+    "A": {
+     "ta": "நரசிம்மவர்மன்",
+     "en": "Narasimha Varman"
+    },
+    "B": {
+     "ta": "முதலாம் மகேந்திரவர்மன்",
+     "en": "Mahendra Varman-I"
+    },
+    "C": {
+     "ta": "பரமேஸ்வரவர்மன்",
+     "en": "Parameswar Varman"
+    },
+    "D": {
+     "ta": "நந்திவர்மன்",
+     "en": "Nandivarman"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பல்லவ அரசன் சிம்மவிஷ்ணுவின் மகன் முதலாம் மகேந்திரவர்மன் ஆவார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 180,
+   "part": "B",
+   "unit": "B2",
+   "topic": "indian-railways",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மேற்கு மத்திய ரயில்வையின் தலைமையிடம்",
+    "en": "Headquarter of West Central Railway"
+   },
+   "options": {
+    "A": {
+     "ta": "மும்பை",
+     "en": "Mumbai"
+    },
+    "B": {
+     "ta": "ஹூப்ளி",
+     "en": "Hubli"
+    },
+    "C": {
+     "ta": "புது டெல்லி",
+     "en": "New Delhi"
+    },
+    "D": {
+     "ta": "ஜபல்பூர்",
+     "en": "Jabalpur"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மேற்கு மத்திய ரயில்வேயின் தலைமையிடம் ஜபல்பூர் (மத்தியப் பிரதேசம்) ஆகும்.",
+    "en": "The headquarters of West Central Railway is located at Jabalpur."
+   }
+  },
+  {
+   "qNo": 181,
+   "part": "B",
+   "unit": "B2",
+   "topic": "indian-rivers",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்க்கண்டவற்றுள் சரியாக பொருத்தப்பட்டுள்ளது எது?",
+    "en": "Which of the following is correctly matched :"
+   },
+   "options": {
+    "A": {
+     "ta": "I",
+     "en": "I"
+    },
+    "B": {
+     "ta": "II",
+     "en": "II"
+    },
+    "C": {
+     "ta": "III",
+     "en": "III"
+    },
+    "D": {
+     "ta": "IV",
+     "en": "IV"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "I. சிந்து - கங்கோத்ரி",
+     "en": "I. Indus - Gangothri"
+    },
+    {
+     "ta": "II. பிரம்மபுத்ரா - மானசரோவர் ஏரி",
+     "en": "II. Brahmaputra - Lake Manasarovar"
+    },
+    {
+     "ta": "III. கோதாவரி - பெட்டுல்",
+     "en": "III. Godavari - Bettul"
+    },
+    {
+     "ta": "IV. மகாநதி - அகத்தியர் மலை",
+     "en": "IV. Mahanadi - Agasthiyar Hills"
+    }
+   ],
+   "explain": {
+    "ta": "பிரம்மபுத்திரா நதி திபெத்தில் உள்ள மானசரோவர் ஏரிக்கு அருகில் உற்பத்தியாகிறது.",
+    "en": "Brahmaputra originates near Lake Manasarovar, making II correctly matched."
+   }
+  },
+  {
+   "qNo": 182,
+   "part": "B",
+   "unit": "B1",
+   "topic": "cell-biology",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "பின்வரும் புரோகேரியோட்டு செல்கள் பற்றிய கூற்றுகளில் சரியானவை எவை?",
+    "en": "Which of the following facts are correct about prokaryotic cells"
+   },
+   "options": {
+    "A": {
+     "ta": "I மற்றும் II சரி",
+     "en": "I and II are correct"
+    },
+    "B": {
+     "ta": "I மற்றும் IV சரி",
+     "en": "I and IV are correct"
+    },
+    "C": {
+     "ta": "II மற்றும் III சரி",
+     "en": "II and III are correct"
+    },
+    "D": {
+     "ta": "III மற்றும் IV சரி",
+     "en": "III and IV are correct"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "I. தெளிவான உட்கரு கிடையாது",
+     "en": "I. Prominent nucleus is absent"
+    },
+    {
+     "ta": "II. நியூக்ளியோலஸ் காணப்படுகிறது",
+     "en": "II. Nucleolus is present"
+    },
+    {
+     "ta": "III. மைட்டாசிஸ் மற்றும் மியாசிஸ் செல் பிரிவுதல் நடைபெறுகிறது",
+     "en": "III. Mitosis and meiosis cell divisions are takes place"
+    },
+    {
+     "ta": "IV. சவ்வினால் சூழப்பட்ட செல் நுண்ணுறுப்புகள் கிடையாது",
+     "en": "IV. Enveloped cell organelles are absent"
+    }
+   ],
+   "explain": {
+    "ta": "புரோகேரியோட்டு செல்களில் தெளிவான உட்கரு மற்றும் சவ்வினால் சூழப்பட்ட நுண்ணுறுப்புகள் இல்லை.",
+    "en": "Prokaryotic cells lack a prominent nucleus and membrane-bound organelles."
+   }
+  },
+  {
+   "qNo": 183,
+   "part": "B",
+   "unit": "B1",
+   "topic": "respiratory-quotient",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பின்வருவனவற்றில் சரியானது எது?",
+    "en": "Which of the following is correct?"
+   },
+   "options": {
+    "A": {
+     "ta": "சுவாச வீதம் = வெளியிடப்படும் CO2 அளவு / பயன்படுத்தப்படும் O2 அளவு",
+     "en": "Respiratory Quotient = Volume of CO2 liberated / Volume of O2 consumed"
+    },
+    "B": {
+     "ta": "சுவாச வீதம் = வெளியிடப்படும் O2 அளவு / பயன்படுத்தப்படும் CO2 அளவு",
+     "en": "Respiratory Quotient = Volume of O2 liberated / Volume of CO2 consumed"
+    },
+    "C": {
+     "ta": "சுவாச வீதம் = பயன்படுத்தப்படும் O2 அளவு / வெளியிடப்படும் CO2 அளவு",
+     "en": "Respiratory Quotient = Volume of O2 consumed / Volume of CO2 liberated"
+    },
+    "D": {
+     "ta": "சுவாச வீதம் = பயன்படுத்தப்படும் CO2 அளவு / வெளியிடப்படும் O2 அளவு",
+     "en": "Respiratory Quotient = Volume of CO2 consumed / Volume of O2 liberated"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சுவாச ஈவு அல்லது சுவாச வீதம் என்பது வெளியிடப்படும் கார்பன் டை ஆக்சைடின் தொகுதிக்கும் பயன்படுத்தப்படும் ஆக்ஸிஜனின் தொகுதிக்கும் உள்ள விகிதமாகும்.",
+    "en": "Respiratory quotient is the ratio of the volume of carbon dioxide evolved to the volume of oxygen consumed."
+   }
+  },
+  {
+   "qNo": 184,
+   "part": "B",
+   "unit": "B1",
+   "topic": "electrochemistry",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு மின் வேதிக் கலனில் எதிர்மின்வாயில் நிகழும் வினை",
+    "en": "The reaction which takes place at cathode of an electrochemical cell is"
+   },
+   "options": {
+    "A": {
+     "ta": "ஆக்ஸிஜனேற்றம்",
+     "en": "oxidation"
+    },
+    "B": {
+     "ta": "நடுநிலையாக்கல்",
+     "en": "neutralisation"
+    },
+    "C": {
+     "ta": "ஆக்ஸிஜன் ஒடுக்கம்",
+     "en": "reduction"
+    },
+    "D": {
+     "ta": "பதில்ீட்டு வினை",
+     "en": "substitution reaction"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "எதிர்மின்வாயில் (cathode) எலக்ட்ரான்கள் ஏற்கப்பட்டு ஒடுக்கம் (reduction) நிகழ்கிறது.",
+    "en": "Reduction takes place at the cathode of an electrochemical cell."
+   }
+  },
+  {
+   "qNo": 185,
+   "part": "B",
+   "unit": "B1",
+   "topic": "insecticides",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பொதுவாகப் பயன்படுத்தப்படும் பூச்சிக் கொல்லிக்கு எடுத்துக்காட்டு",
+    "en": "An example of commonly used Insecticide is"
+   },
+   "options": {
+    "A": {
+     "ta": "போர்டாக்ஸ் கலவை",
+     "en": "Bordeaux mixture"
+    },
+    "B": {
+     "ta": "2, 4 டை குளோரோ பீனாக்ஸி அசிட்டிக் அமிலம்",
+     "en": "2, 4-Dichloro phenoxy acetic acid"
+    },
+    "C": {
+     "ta": "டைகுளோரோ டைபீனைல் ட்ரைகுளோரோ ஈத்தேன்",
+     "en": "Dichloro diphenyl trichloro ethane"
+    },
+    "D": {
+     "ta": "ஆர்சனிக்",
+     "en": "Arsenic"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "DDT (Dichloro diphenyl trichloro ethane) என்பது பொதுவாகப் பயன்படுத்தப்படும் ஒரு பூச்சிக் கொல்லி ஆகும்.",
+    "en": "DDT is a commonly used insecticide."
+   }
+  },
+  {
+   "qNo": 186,
+   "part": "B",
+   "unit": "B1",
+   "topic": "latin-names-of-elements",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழே கொடுக்கப்பட்டுள்ள தனிமங்களை அதன் லத்தீன் பெயர்களுடன் தொடர்புபடுத்தவும்",
+    "en": "Match the following elements with its Latin name :"
+   },
+   "options": {
+    "A": {
+     "ta": "1 3 2 4",
+     "en": "1 3 2 4"
+    },
+    "B": {
+     "ta": "1 2 3 4",
+     "en": "1 2 3 4"
+    },
+    "C": {
+     "ta": "2 1 4 3",
+     "en": "2 1 4 3"
+    },
+    "D": {
+     "ta": "4 1 2 3",
+     "en": "4 1 2 3"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) லெட்",
+      "en": "(a) Lead"
+     },
+     {
+      "ta": "(b) ஆன்டிமணி",
+      "en": "(b) Antimony"
+     },
+     {
+      "ta": "(c) டின்",
+      "en": "(c) Tin"
+     },
+     {
+      "ta": "(d) பொட்டாசியம்",
+      "en": "(d) Potassium"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. ஸ்டிபியம்",
+      "en": "1. Stibium"
+     },
+     {
+      "ta": "2. பிளம்பம்",
+      "en": "2. Plumbum"
+     },
+     {
+      "ta": "3. காலியம்",
+      "en": "3. Kalium"
+     },
+     {
+      "ta": "4. ஸ்டேனம்",
+      "en": "4. Stannum"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "Lead - Plumbum (2), Antimony - Stibium (1), Tin - Stannum (4), Potassium - Kalium (3).",
+    "en": "Lead corresponds to Plumbum (2), Antimony to Stibium (1), Tin to Stannum (4), and Potassium to Kalium (3)."
+   }
+  },
+  {
+   "qNo": 187,
+   "part": "B",
+   "unit": "B1",
+   "topic": "lens-power",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "2 மீ குவியத் தொலைவு உடைய குழிலென்சின் திறன்",
+    "en": "If the focal length of a concave lens is 2 m, then the power of the lens is"
+   },
+   "options": {
+    "A": {
+     "ta": "2 டேயாப்டர்",
+     "en": "2 dioptre"
+    },
+    "B": {
+     "ta": "1 டேயாப்டர்",
+     "en": "1 dioptre"
+    },
+    "C": {
+     "ta": "0.5 டேயாப்டர்",
+     "en": "0.5 dioptre"
+    },
+    "D": {
+     "ta": "-0.5 டேயாப்டர்",
+     "en": "-0.5 dioptre"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "குழிலென்சின் குவியத் தொலைவு எதிர்க்குறி உடையது. திறன் P = 1/f = 1 / (-2) = -0.5 D.",
+    "en": "Focal length of concave lens is negative. Power P = 1/f = 1 / (-2) = -0.5 D."
+   }
+  },
+  {
+   "qNo": 188,
+   "part": "C",
+   "unit": "C1",
+   "topic": "mean-temperature",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு குறிப்பிட்ட வாரத்தில் நகரத்தின் அதிகபட்ச வெப்பநிலை 34.8°C, 38.5°C, 33.4°C, 34.7°C, 35.8°C, 32.8°C, 34.3°C ஆக இருந்தது. அந்த வாரத்தின் சராசரி வெப்பநிலையைக் காண்க.",
+    "en": "The maximum temperature in a city on 7 days of a certain week was 34.8°C, 38.5°C, 33.4°C, 34.7°C, 35.8°C, 32.8°C, 34.3°C. Find the mean temperature for the week"
+   },
+   "options": {
+    "A": {
+     "ta": "34.8°C",
+     "en": "34.8°C"
+    },
+    "B": {
+     "ta": "34.9°C",
+     "en": "34.9°C"
+    },
+    "C": {
+     "ta": "34.7°C",
+     "en": "34.7°C"
+    },
+    "D": {
+     "ta": "35.2°C",
+     "en": "35.2°C"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "அனைத்து வெப்பநிலைகளின் கூடுதல் = 244.3. சராசரி = 244.3 / 7 = 34.9°C.",
+    "en": "Sum of temperatures = 244.3. Mean = 244.3 / 7 = 34.9°C."
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 189,
+   "part": "C",
+   "unit": "C1",
+   "topic": "standard-deviation-and-coefficient-of-va",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு குழுவில் 100 பேர் உள்ளனர், அவர்களின் உயரங்களின் கூட்டுச்சசரி 163.8 செ.மீ மற்றும் மாறுபாட்டுக்கெழு 3.2 எனில், அவர்களுடைய உயரங்களின் திட்ட விலக்கத்தைக் காண்க.",
+    "en": "A group of 100 candidates have their average height 163.8 cm with coefficient of variation 3.2. What is the standard deviation of their heights?"
+   },
+   "options": {
+    "A": {
+     "ta": "3.23",
+     "en": "3.23"
+    },
+    "B": {
+     "ta": "4.91",
+     "en": "4.91"
+    },
+    "C": {
+     "ta": "5.24",
+     "en": "5.24"
+    },
+    "D": {
+     "ta": "6.38",
+     "en": "6.38"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மாறுபாட்டுக்கெழு $\\text{C.V.} = \\frac{\\sigma}{\\bar{x}} \\times 100$. எனவே $\\sigma = \\frac{\\text{C.V.} \\times \\bar{x}}{100} = \\frac{3.2 \\times 163.8}{100} = 5.2416 \\approx 5.24$.",
+    "en": "Coefficient of variation $\\text{C.V.} = \\frac{\\sigma}{\\bar{x}} \\times 100 \\implies \\sigma = \\frac{3.2 \\times 163.8}{100} = 5.24$."
+   }
+  },
+  {
+   "qNo": 190,
+   "part": "C",
+   "unit": "C1",
+   "topic": "ratio-and-age-problems",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ரீனா மற்றும் உஷாவின் தற்போதைய வயதுகள் முறையே 24 வருடங்கள் மற்றும் 36 வருடங்கள் எனில் 8 ஆண்டுகளுக்கு முன்பு உஷா மற்றும் ரீனாவின் வயதுகளின் விகிதம் என்னவாக இருந்திருக்கும்?",
+    "en": "The present ages of Reena and Usha are 24 years and 36 years respectively what was the ratio between the ages of Usha and Reena, 8 years ago?"
+   },
+   "options": {
+    "A": {
+     "ta": "7 : 4",
+     "en": "7 : 4"
+    },
+    "B": {
+     "ta": "6 : 5",
+     "en": "6 : 5"
+    },
+    "C": {
+     "ta": "2 : 3",
+     "en": "2 : 3"
+    },
+    "D": {
+     "ta": "4 : 7",
+     "en": "4 : 7"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "8 ஆண்டுகளுக்கு முன்பு ரீனாவின் வயது = $24 - 8 = 16$. உஷாவின் வயது = $36 - 8 = 28$. உஷா மற்றும் ரீனாவின் வயதுகளின் விகிதம் = $28 : 16 = 7 : 4$.",
+    "en": "Age of Usha 8 years ago = $36 - 8 = 28$. Age of Reena 8 years ago = $24 - 8 = 16$. Ratio = $28:16 = 7:4$."
+   }
+  },
+  {
+   "qNo": 191,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simplification-of-exponents",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சுருக்குக: $\\frac{(3^3)^{-2} \\times (2^2)^{-3}}{(2^4)^{-2} \\times 3^{-4} \\times 4^{-2}}$",
+    "en": "Simplify $\\frac{(3^3)^{-2} \\times (2^2)^{-3}}{(2^4)^{-2} \\times 3^{-4} \\times 4^{-2}}$"
+   },
+   "options": {
+    "A": {
+     "ta": "$7\\frac{2}{9}$",
+     "en": "$7\\frac{2}{9}$"
+    },
+    "B": {
+     "ta": "$9\\frac{2}{7}$",
+     "en": "$9\\frac{2}{7}$"
+    },
+    "C": {
+     "ta": "$7\\frac{1}{9}$",
+     "en": "$7\\frac{1}{9}$"
+    },
+    "D": {
+     "ta": "$9\\frac{1}{7}$",
+     "en": "$9\\frac{1}{7}$"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட கோவையைச் சுருக்க $7\\frac{1}{9}$ கிடைக்கும்.",
+    "en": "Simplifying the given expression yields $7\\frac{1}{9}$."
+   }
+  },
+  {
+   "qNo": 192,
+   "part": "C",
+   "unit": "C1",
+   "topic": "total-surface-area-of-cube",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு கனச் சதுரத்தின் மொத்த வளைபரப்பு 384 $m^2$ எனில் அதன் பக்கம் எவ்வளவு",
+    "en": "The total surface area of cube is 384 $m^2$. Find the side of the cube"
+   },
+   "options": {
+    "A": {
+     "ta": "3 மீ",
+     "en": "3 m"
+    },
+    "B": {
+     "ta": "8 மீ",
+     "en": "8 m"
+    },
+    "C": {
+     "ta": "4 மீ",
+     "en": "4 m"
+    },
+    "D": {
+     "ta": "6 மீ",
+     "en": "6 m"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கனச்சதுரத்தின் மொத்தப்பரப்பு $6a^2 = 384 \\implies a = 8$ மீ.",
+    "en": "Total surface area of cube = $6a^2 = 384 \\implies a^2 = 64 \\implies a = 8$ m."
+   }
+  },
+  {
+   "qNo": 193,
+   "part": "C",
+   "unit": "C1",
+   "topic": "hcf-lcm",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$3(a-1), 2(a-1)^2, (a^2-1)$-ன் மீச்சிறு பொது மடங்கு காண்க.",
+    "en": "Find the LCM of $3(a-1), 2(a-1)^2, (a^2-1)$"
+   },
+   "options": {
+    "A": {
+     "ta": "$(a+1)^2(a+1)$",
+     "en": "$(a+1)^2(a+1)$"
+    },
+    "B": {
+     "ta": "$(a-1)^2(a+1)$",
+     "en": "$(a-1)^2(a+1)$"
+    },
+    "C": {
+     "ta": "$6(a-1)(a+1)^2$",
+     "en": "$6(a-1)(a+1)^2$"
+    },
+    "D": {
+     "ta": "$6(a-1)^2(a+1)$",
+     "en": "$6(a-1)^2(a+1)$"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட கோவைகளின் மீச்சிறு பொது மடங்கு $6(a-1)^2(a+1)$ ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 194,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simplification",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$1\\frac{61}{64}$-ன் முப்படி மூலம் காண்க",
+    "en": "Find the cube root of $1\\frac{61}{64}$"
+   },
+   "options": {
+    "A": {
+     "ta": "$\\frac{5}{8}$",
+     "en": "$\\frac{5}{8}$"
+    },
+    "B": {
+     "ta": "$\\frac{3}{7}$",
+     "en": "$\\frac{3}{7}$"
+    },
+    "C": {
+     "ta": "$\\frac{5}{4}$",
+     "en": "$\\frac{5}{4}$"
+    },
+    "D": {
+     "ta": "$\\frac{8}{5}$",
+     "en": "$\\frac{8}{5}$"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "$1\\frac{61}{64} = \\frac{125}{64}$. இதன் முப்படி மூலம் $\\sqrt[3]{\\frac{125}{64}} = \\frac{5}{4}$.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 195,
+   "part": "C",
+   "unit": "C1",
+   "topic": "mensuration",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இரண்டு உருளைகளின் உயரங்கள் முறையே 1 : 2 மற்றும் அவற்றின் ஆரங்கள் முறையே 2 : 1 ஆகிய விகிதங்களிலிருந்தபின், அவற்றின் கன அளவுகளின் விகிதம்",
+    "en": "The ratios of the respective heights and the respective radii of two cylinders are 1 : 2 and 2 : 1 respectively. Then their respective volumes are in the ratio."
+   },
+   "options": {
+    "A": {
+     "ta": "4 : 1",
+     "en": "4 : 1"
+    },
+    "B": {
+     "ta": "1 : 4",
+     "en": "1 : 4"
+    },
+    "C": {
+     "ta": "2 : 1",
+     "en": "2 : 1"
+    },
+    "D": {
+     "ta": "1 : 2",
+     "en": "1 : 2"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கன அளவு விகிதம் = (r1^2 * h1) : (r2^2 * h2) = (2^2 * 1) : (1^2 * 2) = 4 : 2 = 2 : 1.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 196,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simple-interest",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு தொகையானது தனிவட்டி முறையில் 10 வருடத்தில் இரட்டிப்பாக ஆக வட்டி வீதம் என்னவாக இருக்க வேண்டும்",
+    "en": "At what rate of interest a sum of money doubles itself in 10 years in simple interest?"
+   },
+   "options": {
+    "A": {
+     "ta": "10%",
+     "en": "10%"
+    },
+    "B": {
+     "ta": "20%",
+     "en": "20%"
+    },
+    "C": {
+     "ta": "50%",
+     "en": "50%"
+    },
+    "D": {
+     "ta": "25%",
+     "en": "25%"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "R = \\frac{100(n-1)}{T} = \\frac{100(2-1)}{10} = 10%.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 197,
+   "part": "C",
+   "unit": "C1",
+   "topic": "gp-common-ratio",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு பெருக்குத் தொடர்வரிசையில் $t_2 = \\frac{3}{5}$ மற்றும் $t_3 = \\frac{1}{5}$ எனில் பொது விகிதம் காண்க.",
+    "en": "In a Geometric progression $t_2 = \\frac{3}{5}; t_3 = \\frac{1}{5}$. Then the common ratio is"
+   },
+   "options": {
+    "A": {
+     "ta": "$\\frac{1}{5}$",
+     "en": "$\\frac{1}{5}$"
+    },
+    "B": {
+     "ta": "$\\frac{1}{3}$",
+     "en": "$\\frac{1}{3}$"
+    },
+    "C": {
+     "ta": "$1$",
+     "en": "$1$"
+    },
+    "D": {
+     "ta": "$5$",
+     "en": "$5$"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "$r = \\frac{t_3}{t_2} = \\frac{1/5}{3/5} = \\frac{1}{3}$.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 198,
+   "part": "C",
+   "unit": "C1",
+   "topic": "sequence-series",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$a_1 = -1$ மற்றும் $a_n = \\frac{a_{n-1}}{n+2}, n > 1 \\forall n \\in N$ எனில் $a_2, a_3$ காண்க.",
+    "en": "If $a_1 = -1$ then find $a_2, a_3$ in $a_n = \\frac{a_{n-1}}{n+2}, n > 1 \\forall n \\in N$."
+   },
+   "options": {
+    "A": {
+     "ta": "$\\frac{1}{4}, \\frac{1}{20}$",
+     "en": "$\\frac{1}{4}, \\frac{1}{20}$"
+    },
+    "B": {
+     "ta": "$\\frac{-1}{4}, \\frac{1}{20}$",
+     "en": "$\\frac{-1}{4}, \\frac{1}{20}$"
+    },
+    "C": {
+     "ta": "$\\frac{1}{4}, \\frac{-1}{20}$",
+     "en": "$\\frac{1}{4}, \\frac{-1}{20}$"
+    },
+    "D": {
+     "ta": "$\\frac{-1}{4}, \\frac{-1}{20}$",
+     "en": "$\\frac{-1}{4}, \\frac{-1}{20}$"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "$a_2 = \\frac{a_1}{2+2} = \\frac{-1}{4}$, $a_3 = \\frac{a_2}{3+2} = \\frac{-1/4}{5} = \\frac{-1}{20}$.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 199,
+   "part": "C",
+   "unit": "C1",
+   "topic": "sum-of-series",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$1 + 2 + 3 + \\dots + n = K$ எனில் $1^3 + 2^3 + \\dots + n^3$ என்பது",
+    "en": "If $1 + 2 + \\dots + n = K$ then $1^3 + 2^3 + \\dots + n^3$ is equal to"
+   },
+   "options": {
+    "A": {
+     "ta": "$K^2$",
+     "en": "$K^2$"
+    },
+    "B": {
+     "ta": "$K^3$",
+     "en": "$K^3$"
+    },
+    "C": {
+     "ta": "$\\frac{K(K+1)}{2}$",
+     "en": "$\\frac{K(K+1)}{2}$"
+    },
+    "D": {
+     "ta": "$(K+1)^3$",
+     "en": "$(K+1)^3$"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "$1^3 + 2^3 + \\dots + n^3 = (1 + 2 + \\dots + n)^2 = K^2$",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 200,
+   "part": "C",
+   "unit": "C1",
+   "topic": "geometric-progression",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$a^{m-n}, a^m, a^{m+n}$ என்ற பெருக்குத் தொடர் வரிசையின் பொது விகிதம்",
+    "en": "The common ratio of the G.P. $a^{m-n}, a^m, a^{m+n}$ is"
+   },
+   "options": {
+    "A": {
+     "ta": "$a^m$",
+     "en": "$a^m$"
+    },
+    "B": {
+     "ta": "$a^{-m}$",
+     "en": "$a^{-m}$"
+    },
+    "C": {
+     "ta": "$a^n$",
+     "en": "$a^n$"
+    },
+    "D": {
+     "ta": "$a^{-n}$",
+     "en": "$a^{-n}$"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பொது விகிதம் $r = \\frac{a^m}{a^{m-n}} = a^{m - (m-n)} = a^n$",
+    "en": ""
+   }
+  }
+ ],
+ "extraction": "95 questions AI-extracted with gemini-3.5-flash-lite on 2026-11-17; others checked by hand."
+}

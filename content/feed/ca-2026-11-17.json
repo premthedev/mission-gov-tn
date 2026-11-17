@@ -1,0 +1,346 @@
+{
+ "date": "2026-11-17",
+ "model": "gemini-3.5-flash-lite",
+ "questions": [
+  {
+   "id": "2026-11-17-1",
+   "unit": "B2",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "நவம்பர் 20 அன்று ஆந்திரா மற்றும் யானம் கடற்கரையை நெருங்க உள்ளதாக எதிர்பார்க்கப்படும் புயலின் பெயர் என்ன?",
+    "en": "What is the name of the cyclone bracing to cross the Andhra and Yanam coast on November 20?"
+   },
+   "options": [
+    {
+     "ta": "அகவான் (Akvan)",
+     "en": "Akvan"
+    },
+    {
+     "ta": "அர்னாப் (Arnab)",
+     "en": "Arnab"
+    },
+    {
+     "ta": "நிவர் (Nivar)",
+     "en": "Nivar"
+    },
+    {
+     "ta": "மாண்டூஸ் (Mandous)",
+     "en": "Mandous"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "நவம்பர் 20 அன்று கரையை கடக்க உள்ள புயல் அகவான் ஆகும்.",
+    "en": "Cyclone Akvan is bracing to cross the coast on November 20."
+   },
+   "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclone-akvan-540-km-of-andhra-and-yanam-coast-braces-for-november-20-landfall/article71710410.ece",
+   "headline": "Cyclone Akvan: 540 km of Andhra and Yanam coast braces for November 20 landfall"
+  },
+  {
+   "id": "2026-11-17-2",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "எந்த கல்வி நிறுவனம் ஜனவரி 2 முதல் 4 வரை திறந்தவெளி காட்சியை (Open House) நடத்த உள்ளது?",
+    "en": "Which institution is set to organise an open house between January 2 and 4?"
+   },
+   "options": [
+    {
+     "ta": "ஐஐடி மெட்ராஸ் (IIT-Madras)",
+     "en": "IIT-Madras"
+    },
+    {
+     "ta": "அண்ணா பல்கலைக்கழகம்",
+     "en": "Anna University"
+    },
+    {
+     "ta": "ஐஐஎஸ்சி பெங்களூரு (IISc Bengaluru)",
+     "en": "IISc Bengaluru"
+    },
+    {
+     "ta": "ஐஐடி தில்லி (IIT Delhi)",
+     "en": "IIT Delhi"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "ஐஐடி-மெட்ராஸ் ஜனவரி 2 முதல் 4 வரை திறந்தவெளி காட்சியை ორგანიზება செய்கிறது.",
+    "en": "IIT-Madras is to organise an open house between January 2 and 4."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-to-organise-open-house-between-january-2-and-4/article71708590.ece",
+   "headline": "IIT-Madras to organise open house between January 2 and 4"
+  },
+  {
+   "id": "2026-11-17-3",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "கடலூர் மாவட்டத்தில் எத்தனை கோழிப்பண்ணைகள் ஏவியன் இன்ஃப்ளூயன்சா (H5N1) நோயால் பாதிக்கப்பட்டுள்ளதாக தெரிவிக்கப்பட்டுள்ளது?",
+    "en": "How many poultry farms in Cuddalore district have been affected by Avian Influenza (H5N1), according to the report?"
+   },
+   "options": [
+    {
+     "ta": "16",
+     "en": "16"
+    },
+    {
+     "ta": "23",
+     "en": "23"
+    },
+    {
+     "ta": "10",
+     "en": "10"
+    },
+    {
+     "ta": "25",
+     "en": "25"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "கடலூர் மாவட்டத்தில் 16 கோழிப்பண்ணைகள் ஏவியன் இன்ஃப்ளூயன்சாவால் பாதிக்கப்பட்டுள்ளன.",
+    "en": "At least 16 poultry farms in Cuddalore district were affected by Avian Influenza."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/samples-of-23-persons-tested-h5n1-negative-says-health-minister/article71708022.ece",
+   "headline": "Samples of 23 persons tested H5N1 negative, says Health Minister"
+  },
+  {
+   "id": "2026-11-17-4",
+   "unit": "B2",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "ஊட்டி ஏரியின் சுற்றளவில் திடக்கழிவு மற்றும் மாசுபடுதலால் எத்தனை இந்திய கெண்டை மீன்கள் (Indian carp) இறந்து கிடந்தன?",
+    "en": "How many Indian carp were found dead along the periphery of the Ooty Lake due to pollution concerns?"
+   },
+   "options": [
+    {
+     "ta": "தோராயமாக 250",
+     "en": "Around 250"
+    },
+    {
+     "ta": "தோராயமாக 100",
+     "en": "Around 100"
+    },
+    {
+     "ta": "தோராயமாக 500",
+     "en": "Around 500"
+    },
+    {
+     "ta": "தோராயமாக 700",
+     "en": "Around 700"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "ஊட்டி ஏரியில் சுமார் 250 இந்திய கெண்டை மீன்கள் இறந்து கிடந்தன.",
+    "en": "Around 250 Indian carp were found dead along the periphery of the Ooty Lake."
+   },
+   "url": "https://www.thehindu.com/news/cities/Coimbatore/mass-death-of-indian-carp-raises-pollution-concerns-at-ooty-lake/article71707402.ece",
+   "headline": "Mass death of Indian carp raises pollution concerns at Ooty Lake"
+  },
+  {
+   "id": "2026-11-17-5",
+   "unit": "B6",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "சங்க காலத்தில் செழித்தோங்கிய ஒரு மேம்பட்ட சமூகத்தின் இருப்பைக் காட்டும் தொல்பொருட்கள் எந்த கடலோரப் பகுதியில் நீருக்கடியில் நடத்தப்பட்ட ஆய்வுகளில் கண்டெடுக்கப்பட்டுள்ளன?",
+    "en": "Recent underwater explorations off the coast of which place have yielded artefacts indicating an advanced society from the Sangam period?"
+   },
+   "options": [
+    {
+     "ta": "பூம்புகார்",
+     "en": "Poompuhar"
+    },
+    {
+     "ta": "மகாபலிபுரம்",
+     "en": "Mahabalipuram"
+    },
+    {
+     "ta": "காவிரிப்பூம்பட்டினம்",
+     "en": "Kaveripoompattinam"
+    },
+    {
+     "ta": "தூத்துக்குடி",
+     "en": "Thoothukudi"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "பூம்புகார் கடற்கரைக்கு அப்பால் நடத்தப்பட்ட நீருக்கடியில் ஆய்வுகளில் சங்க கால தொல்பொருட்கள் கண்டெடுக்கப்பட்டுள்ளன.",
+    "en": "Underwater explorations off the coast of Poompuhar yielded artefacts from the Sangam period."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/surfacing-resurrecting-the-lost-glory-of-poompuhar/article71701744.ece",
+   "headline": "Surfacing: resurrecting the lost glory of Poompuhar"
+  },
+  {
+   "id": "2026-11-17-6",
+   "unit": "B2",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியாவின் முதல் மலை சூழலியல் மாநாடான 'புராசசூல் மவுண்டன்ஸ்' (Processual Mountains) எந்த இடத்தில் நடத்தப்பட உள்ளது?",
+    "en": "Which place is set to host 'Processual Mountains', India’s first mountain ecology congress?"
+   },
+   "options": [
+    {
+     "ta": "வயநாடு",
+     "en": "Wayanad"
+    },
+    {
+     "ta": "ஊட்டி",
+     "en": "Ooty"
+    },
+    {
+     "ta": "டார்ஜிலிங்",
+     "en": "Darjeeling"
+    },
+    {
+     "ta": "சிம்லா",
+     "en": "Shimla"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "இந்தியாவின் முதல் மலை சூழலியல் மாநாட்டை வயநாடு நடத்த உள்ளது.",
+    "en": "Wayanad is set to host India’s first mountain ecology congress."
+   },
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeFdxTVc1MDM0U0l4dndTVGNyR2hhMHVESU9WdFNxaFhLdnRrS2dBVjVHdEtLWlZiLWpNcG0ya2w3N3lkZnJTbXJBRFhQamVxNDVONVVuczRnclpoV3JucG9TNnA2blZqd3V0NTdTa2ttdDFXaWtJWFlKZXptVGE0VTZqdFYxckl5MjFiQktlbHhMdjZDNktGTWhrLU9IR01ObWRaNk9BMTNEb2FrT3pwUGY3NzdBNS11NElrMXE1QmdscnlacXJ3SHFDLTFDYjdjSUFWUUJicmFra0FpbUHSAeQBQVVfeXFMTkw4N21xQ1dnMk1xRnppRC10b0o4ajl5QkpGd2hXZ0NkS2djRERRZE1XeU12WEpXZTMwQ1ppSU1TQk1qTXFEaTFuX2xuS24wcHV4TVpnS1ZIOTdscU5lcnhVb3B6OHQ0aTdMVlRVelNBQTdRSVB4V0t3NDJxVTlaRXRVZElpN09Fb1U3MWhSTkc4NklVeXQ3UGRWeHpFOTBISG9OclFidC1EUEc0OHE1WFdtakhrYklaMS1oN1d5ay1CUWJoUDM0b2JGLVY2Y2ZWYlVsbE5iOWtFNUU0NEV2SHN6YW9C?oc=5",
+   "headline": "Wayanad set to host Processual Mountains, India’s first mountain ecology congress - The Hindu"
+  },
+  {
+   "id": "2026-11-17-7",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "ஃபீவா உலக வாகனம் பாரம்பரிய விருதை (FIVA World Vehicle Heritage Award) வென்ற இந்தியாவின் முதல் வாகனம் எது?",
+    "en": "Which vehicle became India's First FIVA World Vehicle Heritage Award Winner?"
+   },
+   "options": [
+    {
+     "ta": "மாருதி 800",
+     "en": "Maruti 800"
+    },
+    {
+     "ta": "அம்பாசிடர்",
+     "en": "Ambassador"
+    },
+    {
+     "ta": "பத்மினி",
+     "en": "Padmini"
+    },
+    {
+     "ta": "டாடா இண்டிகா",
+     "en": "Tata Indica"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "மாருதி 800 இந்தியாவின் முதல் ஃபீவா உலக வாகனம் பாரம்பரிய விருதை வென்றது.",
+    "en": "Maruti 800 became India's First FIVA World Vehicle Heritage Award Winner."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQc2xhRU9TUEJsUGVpVlJjQjBZSjlDU1YwMUdiOXFIRGFkY0V0c3BfRDVLTHE4UHJ3SFZjdHlQdmZZR1JST1lvNk9NQWYxTFdyOVRPVlQteXVETGY2a21KX21YVmVoT0hJZnlNNW9GYnRKYU5CSG1vWnhsNmY1enZ6S2ZLSk92ZzVhWGxzejg2cU40aFdsRVptRndGVEl2aXIwYk1zUERRME5KQ0HSAbMBQVVfeXFMTU5wTXpQR09TTXhyN0tKMGNIVjdSc1gyVEppYm9GOUxSZ29HY1l2V0F1VGc4R21YT3lLdXpWeGYxZmJGaGZkaXFVbmx0azc4al9VZDl0QTZ0cVRLbldERzM3RlZZVUE2VUhEYTNOc0hleTZUVHBPcS05Ui05Q2JDRE5LaGtmTTRVUlZubG9CMThzS29RenFqWWNxY3VuM1JPYkllSllYQ2pIVmZUei0wVURka1E?oc=5",
+   "headline": "Maruti 800 Becomes India's First FIVA World Vehicle Heritage Award Winner - NDTV"
+  },
+  {
+   "id": "2026-11-17-8",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "நடப்பு நிதியாண்டிற்கான இந்தியாவின் உண்மையான மொத்த உள்நாட்டு உற்பத்தி (GDP) வளர்ச்சியை ரிசர்வ் வங்கி (RBI) எத்தனை சதவீதமாக மதிப்பிட்டுள்ளது?",
+    "en": "What is India’s real GDP growth for the current fiscal projected by the RBI?"
+   },
+   "options": [
+    {
+     "ta": "6.9%",
+     "en": "6.9%"
+    },
+    {
+     "ta": "7.2%",
+     "en": "7.2%"
+    },
+    {
+     "ta": "6.5%",
+     "en": "6.5%"
+    },
+    {
+     "ta": "7.0%",
+     "en": "7.0%"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "நடப்பு நிதியாண்டிற்கான இந்தியாவின் உண்மையான ஜிடிபி வளர்ச்சியை ரிசர்வ் வங்கி 6.9% என மதிப்பிட்டுள்ளது.",
+    "en": "RBI projects India’s real GDP growth for the current fiscal at 6.9%."
+   },
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGFSNzg0VzlJdnMwYWh2TzliX3libXhnd0pFajdsbW05R3dZU3Y5V3BjRU5uV2Q0aDVOZWZNX3dDdHpvNXpGOXRTQlNnQVRScklzNU5QdjVmV2YzOWlFVWZXMXFSZWxscFJIdFY0UHhleHZreWhkRmhqNGpCeTBYTVlpZ3AxcFN5X0h6SkFqSHJzSTBhWER6N1lkQXB3cnlLRXU4TF95ZjNWdC01XzBkTm0zOGN3RmpXc1lQSkdR?oc=5",
+   "headline": "RBI keeps repo rate unchanged; Projects India’s real GDP growth for current fiscal at 6.9% | Akashvani News - News On AIR"
+  },
+  {
+   "id": "2026-11-17-9",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "நிபே லிமிடெட் (NIBE Limited) நிறுவனத்தால் வெற்றிகரமாக நடத்தப்பட்ட இந்தியாவின் முதல் உள்நாட்டில் தயாரிக்கப்பட்ட URLS அமைப்பின் பெயர் என்ன?",
+    "en": "What is the name of India's first domestically produced URLS successfully tested by NIBE Limited?"
+   },
+   "options": [
+    {
+     "ta": "சூரியாஸ்திரா (Suryastra)",
+     "en": "Suryastra"
+    },
+    {
+     "ta": "வஜ்ரா (Vajra)",
+     "en": "Vajra"
+    },
+    {
+     "ta": "ருத்ரா (Rudra)",
+     "en": "Rudra"
+    },
+    {
+     "ta": "அஸ்திரா (Astra)",
+     "en": "Astra"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "நிபே லிமிடெட் நிறுவனத்தால் சுடுகலன் சோதனைகள் நடத்தப்பட்ட இந்தியாவின் முதல் உள்நாட்டு URLS 'சூரியாஸ்திரா' ஆகும்.",
+    "en": "NIBE Limited successfully conducted firing trials of India's first domestically produced URLS ‘Suryastra’."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbFdTeVBnMWpKWGJ5NmhnQWswMllwVm4wMG01NFQ3NVU2RmVxdFhoU2VxZHF0UnlhMFlXR2VTM1FYS0JCQVRVMEptRXRzQnB4LWVkUWttUWJuS3Vvd0VYWmpqX3VESk5FR1N4eUpJV183Y3RrckxuMkM1MXM4YnhIYWlWYklHNm1jamhRcmtyTnk0NzB6MXdJaHQ4OVhuVGlWLUgyT3hSZEUxQm1rY3c4WjcxRmllSEFaYzcxM3hnelFldmNUSEczZk9R?oc=5",
+   "headline": "NIBE Limited Successfully Conducts Firing Trials of India's First Domestically Produced URLS ‘Suryastra’ - Raksha Anirveda"
+  },
+  {
+   "id": "2026-11-17-10",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "கொலின்ஸ் ஏரோஸ்பேஸின் (Collins Aerospace) இந்தியாவின் முதல் எம்.ஆர்.ஓ (MRO) வசதி எந்த நகரில் அமைக்கப்படுகிறது?",
+    "en": "India's First Collins Aerospace MRO Facility is taking shape in which city?"
+   },
+   "options": [
+    {
+     "ta": "பெங்களூரு",
+     "en": "Bengaluru"
+    },
+    {
+     "ta": "சென்னை",
+     "en": "Chennai"
+    },
+    {
+     "ta": "ஐதராபாத்",
+     "en": "Hyderabad"
+    },
+    {
+     "ta": "மும்பை",
+     "en": "Mumbai"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "கொலின்ஸ் ஏரோஸ்பேஸின் இந்தியாவின் முதல் எம்.ஆர்.ஓ வசதி பெங்களூருவில் அமைக்கப்படுகிறது.",
+    "en": "India's First Collins Aerospace MRO Facility takes shape in Bengaluru."
+   },
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV1R4TmJ0VTByVURzVU5tTVBILTEzcWlkQ2t0bUFkclZJckV5Qk40dFNDbVBkSnZnT2VtekJzdFdqaWRSaWVjaG1kaVJsazhDcEV2dnlvWXNycWdrendyNmFKc0ZTbGFMeXRSRmxBV2JYZ1RtRXFQeWVla3lURnNmWENQYTBaQlpTT2dMczZFR0N5bWwzeUs4T1hMSVFlakliNHNuNUwwalNYSTlwUHdvWjdwc0p1YThMYkYzaDE0c0RSTzZDeUZJWnBYdGxYLVnSAdQBQVVfeXFMT3NxQXVWWVdVX3UtV3p4OWRobEVYa1pVUFRXc1JVVU5RUEREeUtzUFN5V0lPbUVNeG9SZFZxOHNPbHRia1JORU9OcFpxOXpHRVBveTZNcmlIVHE3M2JTR2UtamYwN3g3NWFXRUIxQzIwSkNvZUJTQVc4cTZCWEUwU3FFR1pZMTdDY3JDWDk3MWM2M2FIR0dZcU9PdmZMdnlIOUZwUHZKWmxoaTNKWVNVZ29GVVVpQlZ2eFE3VWRLSWdBWnN6NWl1YVdHeUVfbGVkMWs1Vjk?oc=5",
+   "headline": "India's First Collins Aerospace MRO Facility Takes Shape in Bengaluru - Deccan Chronicle"
+  }
+ ]
+}
