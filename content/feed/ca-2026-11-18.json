@@ -1,0 +1,210 @@
+{
+ "date": "2026-11-18",
+ "model": "gemini-3.5-flash-lite",
+ "questions": [
+  {
+   "id": "2026-11-18-1",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாட்டில் HPV-DNA பரிசோதனை எந்த மாவட்டங்களில் முதல் கட்டமாக செயல்படுத்தப்பட உள்ளது?",
+    "en": "In which districts of Tamil Nadu is HPV-DNA testing to be implemented in the first phase?"
+   },
+   "options": [
+    {
+     "ta": "தருமபுரி, விழுப்புரம், திருவண்ணாமலை, பெரம்பலூர் மற்றும் அரியலூர்",
+     "en": "Dharmapuri, Villupuram, Tiruvannamalai, Perambalur and Ariyalur"
+    },
+    {
+     "ta": "சென்னை, மதுரை, கோயம்புத்தூர், சேலம் மற்றும் திருச்சி",
+     "en": "Chennai, Madurai, Coimbatore, Salem and Trichy"
+    },
+    {
+     "ta": "வேலூர், காஞ்சிபுரம், திருநெல்வேலி, திண்டுக்கல் மற்றும் கடலூர்",
+     "en": "Vellore, Kancheepuram, Tirunelveli, Dindigul and Cuddalore"
+    },
+    {
+     "ta": "தஞ்சாவூர், நாகப்பட்டினம், திருவாரூர், புதுக்கோட்டை மற்றும் சிவகங்கை",
+     "en": "Thanjavur, Nagapattinam, Tiruvarur, Pudukottai and Sivaganga"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "தமிழ்நாட்டில் HPV-DNA பரிசோதனை முதற்கட்டமாக ஐந்து உயர்-சுமை மாவட்டங்களில் செயல்படுத்தப்படுகிறது.",
+    "en": "HPV-DNA testing is being implemented in the first phase in five high-burden districts of Tamil Nadu."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/hpv-dna-testing-to-be-implemented-in-five-high-burden-districts-of-tn/article71712265.ece",
+   "headline": "HPV-DNA testing to be implemented in five high-burden districts of T.N."
+  },
+  {
+   "id": "2026-11-18-2",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாடு அரசின் 'அண்ணன் சீர்' திருமண உதவித் திட்டத்தின் கீழ் தகுதியான மணப்பெண்களுக்கு வழங்கப்படுவது என்ன?",
+    "en": "What is provided to eligible brides under the Tamil Nadu government's 'Annan Seer' marriage assistance scheme?"
+   },
+   "options": [
+    {
+     "ta": "எட்டு கிராம் தங்க நாணயம் மற்றும் ஒரு பட்டுச்சேலை",
+     "en": "An eight-gram gold coin and a silk saree"
+    },
+    {
+     "ta": "நான்கு கிராம் தங்க நாணயம் மற்றும் ஒரு பருத்திச் சேலை",
+     "en": "A four-gram gold coin and a cotton saree"
+    },
+    {
+     "ta": "பத்து கிராம் தங்க நாணயம் மற்றும் ரொக்கப் பணம்",
+     "en": "A ten-gram gold coin and cash"
+    },
+    {
+     "ta": "ஐந்து கிராம் தங்க நாணயம் மற்றும் தாலிச் சங்கிலி",
+     "en": "A five-gram gold coin and a Thali chain"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "அண்ணன் சீர் திட்டத்தின் கீழ் தகுதியான மணப்பெண்களுக்கு எட்டு கிராம் தங்க நாணயமும் பட்டுச்சேலையும் வழங்கப்படும்.",
+    "en": "Under the Annan Seer scheme, eligible brides are provided with an eight-gram gold coin and a silk saree."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-issues-guidelines-for-annan-seer-marriage-assistance-scheme/article71711629.ece",
+   "headline": "Tamil Nadu government issues guidelines for ‘Annan Seer’ marriage assistance scheme"
+  },
+  {
+   "id": "2026-11-18-3",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "எந்த வாகனம் FIVA உலக வாகன பாரம்பரிய விருதை (FIVA world vehicle heritage award) வென்றுள்ளது?",
+    "en": "Which vehicle has won the FIVA world vehicle heritage award?"
+   },
+   "options": [
+    {
+     "ta": "மாருதி 800",
+     "en": "Maruti 800"
+    },
+    {
+     "ta": "அம்பாஸ்டர்",
+     "en": "Ambassador"
+    },
+    {
+     "ta": "டாடா நானோ",
+     "en": "Tata Nano"
+    },
+    {
+     "ta": "மகிந்திரா ஜீப்",
+     "en": "Mahindra Jeep"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "மாருதி 800 கார் FIVA உலக வாகன பாரம்பரிய விருதை வென்றுள்ளது.",
+    "en": "Maruti 800 has won the FIVA world vehicle heritage award."
+   },
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYnFraU9Xa3FsNGs0cFRjOXpybFlyZXhhck5YUjBKUlFIV1FzRlhRck16TlFGY0M1dXJTYTJZelBtVk1YNHRsMzRzWFVKc1VsUEw5Q3NLUTRjR3pkQ0ZaSjhkb1dKUTNoNUo4b0ZBZWo2VVUwek1vLXUxUkFncGc3RTRtalJUd1NtN0pneHFmUmMwd08wTHJySkxR0gGfAUFVX3lxTE5XbXRFSXo4aVRuTGxjV1A2Q2pWanJfbVZ5bEtNelE3OVlhREpsRVlBVGF3a2JYVWdxNGVZVThjNkhUZEp3dUpISzE5c0NGdkZaS2Z6X3kyOGhKUUdXemh3aDNpdU9ZSU9EQWRWUVNiUDY0bkIwX1E1R2pNMHZWUkh0OTJKVVJUOXZ0cnhHMzItY0tpb051NzlpTmUwVkpMQQ?oc=5",
+   "headline": "Maruti 800 wins FIVA world vehicle heritage award - Autocar India"
+  },
+  {
+   "id": "2026-11-18-4",
+   "unit": "B4",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "நகர்ப்புறங்களில் மோட்டார் விபத்துகளைத் தவிர்க்க கால்நடைகளுக்கு எந்த முறையை சென்னை உயர் நீதிமன்றம் கட்டாயமாக்கியுள்ளது?",
+    "en": "What system did the Madras High Court order to be made mandatory for cattle in urban areas to prevent motor accidents?"
+   },
+   "options": [
+    {
+     "ta": "கட்டாய உரிமம் மற்றும் குறி வில்லை (tagging) இடுதல்",
+     "en": "Mandatory licensing and tagging"
+    },
+    {
+     "ta": "கால்நடைகளுக்குக் காப்பீடு செய்தல்",
+     "en": "Mandatory cattle insurance"
+    },
+    {
+     "ta": "பள்ளிகளில் தொழுவம் அமைத்தல்",
+     "en": "Building shelters in schools"
+    },
+    {
+     "ta": "பதிவு எண் கொண்ட கழுத்துப்பட்டை அணிவித்தல்",
+     "en": "Putting numbered collars"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "சாலை விபத்துகளைத் தவிர்க்க கால்நடைகளுக்குக் கட்டாய உரிமம் மற்றும் டேக்கிங் செய்ய சென்னை உயர் நீதிமன்றம் உத்தரவிட்டுள்ளது.",
+    "en": "Madras HC ordered mandatory licensing and tagging of cattle to prevent motor accidents."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-orders-mandatory-licensing-and-tagging-of-cattle-in-urban-areas-across-tamil-nadu-to-prevent-motor-accidents/article71712536.ece",
+   "headline": "Madras HC orders mandatory licensing and tagging of cattle in urban areas across Tamil Nadu to prevent motor accidents"
+  },
+  {
+   "id": "2026-11-18-5",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியா முழுவதும் உள்ள ஆசிரியர்களுக்கு செயற்கை நுண்ணறிவு (AI) கல்வியறிவில் பயிற்சி அளிக்கவுள்ள நிறுவனம் எது?",
+    "en": "Which institution is set to train teachers in AI literacy across India?"
+   },
+   "options": [
+    {
+     "ta": "ஐஐடி-சென்னைப் பல்கலைக்கழகம் (IIT-Madras)",
+     "en": "IIT-Madras"
+    },
+    {
+     "ta": "ஐஐடி-தில்லி",
+     "en": "IIT Delhi"
+    },
+    {
+     "ta": "இந்திய அறிவியல் நிறுவனம் (IISc)",
+     "en": "IISc"
+    },
+    {
+     "ta": "ஐஐடி-பம்பாய்",
+     "en": "IIT Bombay"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "ஐஐடி-மெட்ராஸ் இந்தியா முழுவதும் உள்ள ஆசிரியர்களுக்கு AI கல்வியறிவில் பயிற்சி அளிக்கிறது.",
+    "en": "IIT-Madras is set to train teachers in AI literacy across India."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-to-train-teachers-in-ai-literacy-across-india/article71712926.ece",
+   "headline": "IIT-Madras to train teachers in AI literacy across India"
+  },
+  {
+   "id": "2026-11-18-6",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "கோழிகளுக்கான இந்தியாவின் முதல் உள்நாட்டு H5N1 தடுப்பூசியை தேசத்திற்கு அர்ப்பணிக்க உள்ளவர் யார்?",
+    "en": "Who is set to dedicate India's first indigenous H5N1 chicken vaccine to the nation?"
+   },
+   "options": [
+    {
+     "ta": "சிவராஜ் சிங் சௌகான்",
+     "en": "Shivraj Singh Chouhan"
+    },
+    {
+     "ta": "நரேந்திர மோடி",
+     "en": "Narendra Modi"
+    },
+    {
+     "ta": "அமித் ஷா",
+     "en": "Amit Shah"
+    },
+    {
+     "ta": "மன்சுக் மாவியா",
+     "en": "Mansukh Mandaviya"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "ஸ்ரீ சிவராஜ் சிங் சௌகான் இந்தியாவின் முதல் உள்நாட்டு H5N1 கோழி தடுப்பூசியை தேசத்திற்கு அர்ப்பணிக்கிறார்.",
+    "en": "Shivraj Singh Chouhan will dedicate India's first indigenous H5N1 chicken vaccine to the nation."
+   },
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2337717",
+   "headline": "श्री शिवराज सिंह चौहान 20 नवम्‍बर को भारत की पहली स्वदेशी एच5एन1 (क्लेड 2.3.2.1a) चिकन वैक्सीन करेंगे राष्‍ट्र को समर्पित"
+  }
+ ]
+}
