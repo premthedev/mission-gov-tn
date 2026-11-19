@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-19",
+ "model": "gemini-3.5-flash-lite",
+ "questions": [
+  {
+   "id": "2026-11-19-1",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியாவின் UPI தளத்தை ஏற்றுக்கொண்ட முதல் கரீபியன் நாடு எது?",
+    "en": "Which is the first Caribbean nation to adopt India’s UPI platform?"
+   },
+   "options": [
+    {
+     "ta": "டிரினிடாட் மற்றும் டொபாகோ",
+     "en": "Trinidad and Tobago"
+    },
+    {
+     "ta": "ஜமைக்கா",
+     "en": "Jamaica"
+    },
+    {
+     "ta": "பார்படாஸ்",
+     "en": "Barbados"
+    },
+    {
+     "ta": "கியூபா",
+     "en": "Cuba"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "டிரினிடாட் மற்றும் டொபாகோ இந்தியாவின் UPI தளத்தை ஏற்றுக்கொண்ட முதல் கரீபியன் நாடாகும்.",
+    "en": "Trinidad and Tobago is the first Caribbean nation to adopt India’s UPI platform."
+   },
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTDQ4bVVYckdsMGZhUFEycWNyX1pxY0tQUTE1N2VpZ2tLYmpLeGttR2xxa1RYWTBuU1VSMTBlakVhdk9vTVMwd0tnY1pkbjRWYXhUYjlfTkxuVlJ4cWp3QmY2WlZRcFlISkNud1VCa3pHQ3ctRnRwT0RKRGYxamo3UzNQUndDUGVnR3g3cGZJZlFoMEtHMkJicG5YNDIwcmd3anpJR1FkNTM0TEtXLWVFRHBIU20?oc=5",
+   "headline": "Trinidad and Tobago first Caribbean nation to adopt India’s UPI platform : EAM S Jaishankar - News On AIR"
+  },
+  {
+   "id": "2026-11-19-2",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "கோழிகளுக்கான இந்தியாவின் முதல் உள்நாட்டு H5N1 பறவைக் காய்ச்சல் தடுப்பூசியை எந்த நாடு உருவாக்கியுள்ளது?",
+    "en": "Which country has developed India's first home-grown H5N1 bird flu vaccine for chickens?"
+   },
+   "options": [
+    {
+     "ta": "இந்தியா",
+     "en": "India"
+    },
+    {
+     "ta": "சீனா",
+     "en": "China"
+    },
+    {
+     "ta": "பிரேசில்",
+     "en": "Brazil"
+    },
+    {
+     "ta": "அமெரிக்கா",
+     "en": "USA"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "கோழிகளுக்கான இந்தியாவின் முதல் உள்நாட்டு H5N1 பறவைக் காய்ச்சல் தடுப்பூசியை இந்தியா உருவாக்கியுள்ளது.",
+    "en": "India has developed India's first home-grown H5N1 bird flu vaccine for chickens."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdG5pOVRwdDlWUWJtbW9PRUs1Sk9QUHdmQllkWmNISmdBZ0F0eDFYXzZERmxkOE1teGl6VENQdE41M1JZYTRJUWFSRzdHcHNkRlpleVZ4Z1hpcnFVb0FHR05jdERnQVNfOTZPaTRFeEFjRml4UHJaTXYxUHExai1GZ3dKbTUwRWVkQXpKNE9rd1JSYnlncDJFR3B3VFllRHI3eE9TeVQtVTktRDYtNjZ6RXIyWFRRUUJ40gHGAUFVX3lxTFB4NlNVSE1VRzZJZUhrcXAyNmdQQlluWUhWS3BraWttY3dIdmRBcENZMVNCZHpYanVyMmd3Y3hLMjNTY2gxeFlSczRhSC1peUpocDV1cktBSGZwelpWRWlONzhsb2x3VHZjR0ZyMXRtTnVHUThtdUNic0Z2cGRSdS1qYUtQbkRaUTVwbHJlVC01MzJNR1FnamRQVkpqZmE1UTMxUGptajJsS20zMXFBYkt3TndxQTlPMXdlemR4cVVNQjRWTEVFZw?oc=5",
+   "headline": "India develops first home-grown H5N1 bird flu vaccine for chickens - The New Indian Express"
+  },
+  {
+   "id": "2026-11-19-3",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "சமூக சாலை உள்கட்டமைப்பு மேம்பாட்டுத் திட்டம் 2026-27 இன் கீழ் 2,221 சாலைப் பணிகளுக்காக தமிழ்நாடு அரசு எவ்வளவு நிதி ஒதுக்கீடு செய்துள்ளது?",
+    "en": "What is the administrative sanction amount accorded by the Tamil Nadu government for 2,221 roadworks under the Comprehensive Road Infrastructure Development Programme 2026-27?"
+   },
+   "options": [
+    {
+     "ta": "ரூ. 6,513 கோடி",
+     "en": "₹6,513 crore"
+    },
+    {
+     "ta": "ரூ. 5,420 கோடி",
+     "en": "₹5,420 crore"
+    },
+    {
+     "ta": "ரூ. 7,120 கோடி",
+     "en": "₹7,120 crore"
+    },
+    {
+     "ta": "ரூ. 4,350 கோடி",
+     "en": "₹4,350 crore"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "தமிழ்நாடு அரசு 2,221 சாலைப் பணிகளுக்காக ரூ. 6,513 கோடியை நிர்வாக ஒப்புதலாக அளித்துள்ளது.",
+    "en": "The Tamil Nadu government accorded administrative sanction of ₹6,513 crore for 2,221 roadworks."
+   },
+   "url": "https://www.thehindu.com/news/cities/chennai/tn-government-accords-administrative-sanction-of-6513-crore-for-2221-roadworks/article71716883.ece",
+   "headline": "T.N. government accords administrative sanction of ₹6,513 crore for 2,221 roadworks"
+  },
+  {
+   "id": "2026-11-19-4",
+   "unit": "B3",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "O.N.E. இந்தியா விருதைப் பெற்ற மணிப்பூர் தொழிலதிபர் யார்?",
+    "en": "Who is the Manipur entrepreneur that received the O.N.E. India Award?"
+   },
+   "options": [
+    {
+     "ta": "தபலி சிங்",
+     "en": "Dhabali Singh"
+    },
+    {
+     "ta": "பிரவீன் சிங்",
+     "en": "Praveen Singh"
+    },
+    {
+     "ta": "நரேந்திர சிங்",
+     "en": "Narendra Singh"
+    },
+    {
+     "ta": "ரமேஷ் சிங்",
+     "en": "Ramesh Singh"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "மணிப்பூர் தொழிலதிபர் தபலி சிங் O.N.E. இந்தியா விருதைப் பெற்றுள்ளார்.",
+    "en": "Manipur entrepreneur Dhabali Singh receives O.N.E. India Award."
+   },
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWI0RGpOR1ZJeUpkelNjU01fbjc5b3A4ZW15ZHFibW53OVFYWjlDcXV2WDg0Q3ZzdUM1ODNTMmJXWHF2eEx3ZjRINktKX0ZEbkJkZE9uVmp1YmNxNTZtOXUwaDlMcTFCRFZVUGRnUjNQMXIxUHA2UFhWeDZMc0hqR0Zza25lZUYxbUVPQzl4cFBkd2Q5dWpYUEVqWVFZYjVjYlVrSw?oc=5",
+   "headline": "Manipur entrepreneur Dhabali Singh receives O.N.E. India Award - EastMojo"
+  },
+  {
+   "id": "2026-11-19-5",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "மல்க்கம் அடிசேஷா மற்றும் எலிசபெத் அடிசேஷா விருதுகளைப் பெற்றவர்கள் யார்?",
+    "en": "Who were presented the Malcolm Adiseshiah and Elizabeth Adiseshiah Awards respectively?"
+   },
+   "options": [
+    {
+     "ta": "ராகவ் கைஹா மற்றும் கனிகா மகாஜன்",
+     "en": "Raghav Gaiha and Kanika Mahajan"
+    },
+    {
+     "ta": "அமிர்தா சென் மற்றும் ரவி கபூர்",
+     "en": "Amrita Sen and Ravi Kapoor"
+    },
+    {
+     "ta": "அனில் குமார் மற்றும் சுனிதா ராவ்",
+     "en": "Anil Kumar and Sunita Rao"
+    },
+    {
+     "ta": "விக்ரம் சிங் மற்றும் நேகா சர்மா",
+     "en": "Vikram Singh and Neha Sharma"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "ராகவ் கைஹா மற்றும் கனிகா மகாஜன் முறையே மல்க்கம் அடிசேஷா மற்றும் எலிசபெத் அடிசேஷா விருதுகளைப் பெற்றனர்.",
+    "en": "Raghav Gaiha and Kanika Mahajan were presented the Malcolm Adiseshiah and Elizabeth Adiseshiah Awards, respectively."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/studies-show-trust-in-nda-government-declining-gradually-says-malcolm-adiseshiah-awardee/article71717308.ece",
+   "headline": "Studies show trust in NDA government declining gradually, says Malcolm Adiseshiah awardee"
+  }
+ ]
+}
