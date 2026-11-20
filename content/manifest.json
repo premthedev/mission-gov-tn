@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T08:00:40.167Z",
+ "generatedAt": "2026-11-20T07:44:07.281Z",
  "files": [
   {
    "path": "curriculum.json",
@@ -84,6 +84,10 @@
   {
    "path": "questions/pyq-g4-2018-gs.json",
    "sha": "13df374077cd"
+  },
+  {
+   "path": "questions/pyq-g4-2018-gt.json",
+   "sha": "1ac7149d23c6"
   },
   {
    "path": "questions/pyq-g4-2019-gs.json",
