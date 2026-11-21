@@ -1,21 +1,45 @@
 {
- "generatedAt": "2026-11-21T19:11:25.204Z",
+ "generatedAt": "2026-11-21T19:39:20.792Z",
  "files": [
   {
    "path": "cheats/a1-letters.json",
-   "sha": "eee92f627c63"
+   "sha": "2757cfac3abd"
   },
   {
    "path": "cheats/a1-words.json",
-   "sha": "fd839acb49ba"
+   "sha": "34c12e97b3a4"
   },
   {
    "path": "cheats/a2-vocabulary.json",
-   "sha": "c74f1924e62d"
+   "sha": "17299f52c0b0"
   },
   {
    "path": "cheats/a3-writing.json",
    "sha": "76541285cd9f"
+  },
+  {
+   "path": "cheats/a4-kalaichol.json",
+   "sha": "70db2db5162e"
+  },
+  {
+   "path": "cheats/a5-a6-reading-translation.json",
+   "sha": "277e712d0cd3"
+  },
+  {
+   "path": "cheats/a7-kural-aranool.json",
+   "sha": "d5d4f68ba16b"
+  },
+  {
+   "path": "cheats/a7-literature.json",
+   "sha": "178f09ba9008"
+  },
+  {
+   "path": "cheats/a7-people.json",
+   "sha": "b784bb84f84e"
+  },
+  {
+   "path": "cheats/c-aptitude.json",
+   "sha": "60a8f0a5c9a2"
   },
   {
    "path": "curriculum.json",
