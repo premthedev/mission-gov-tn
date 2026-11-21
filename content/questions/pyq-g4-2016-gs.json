@@ -1,0 +1,3938 @@
+{
+ "exam": "G4-2016-GS",
+ "year": 2016,
+ "title": "Group IV 2016 GS (6 Nov 2016)",
+ "url": "https://www.tnpsc.gov.in/Tentative/Document/06_11_2016_g4_gs.pdf",
+ "questions": [
+  {
+   "qNo": 101,
+   "part": "B",
+   "unit": "B1",
+   "topic": "physics-charge-electron",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "1 கூலும் மின்னூட்டத்தில் உள்ள எலக்ட்ரான்களின் எண்ணிக்கை எத்தனை?",
+    "en": "How many electrons are there in one coulomb charge?"
+   },
+   "options": {
+    "A": {
+     "ta": "1.6 × 10^{-19} எலக்ட்ரான்கள்",
+     "en": "1.6×10^{-19} electrons"
+    },
+    "B": {
+     "ta": "6.25 × 10^{18} எலக்ட்ரான்கள்",
+     "en": "6.25×10^{18} electrons"
+    },
+    "C": {
+     "ta": "6.25 × 10^{-18} எலக்ட்ரான்கள்",
+     "en": "6.25×10^{-18} electrons"
+    },
+    "D": {
+     "ta": "1.6 × 10^{19} எலக்ட்ரான்கள்",
+     "en": "1.6×10^{19} electrons"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "1 கூலும் மின்னூட்டத்தில் உள்ள எலக்ட்ரான்களின் எண்ணிக்கை 6.25 × 10^{18} ஆகும்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 102,
+   "part": "B",
+   "unit": "B1",
+   "topic": "physics-momentum",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "15 கிராம் நிறையுள்ள துப்பாக்கி குண்டு 100 மீவி^{-1} வேகத்தில் கிடைமட்டமாக சுடப்படுகிறது. துப்பாக்கியின் நிறை 2 கிகி எனில் சுடுவதற்கு முன் துப்பாக்கி மற்றும் குண்டு ஆகியவற்றின் மொத்த உந்தம் என்ன?",
+    "en": "A bullet of mass 15 g is horizontally fired with velocity 100 ms^{-1} from a pistol of mass 2 kg. Total momentum of the pistol and bullet before firing is equal to"
+   },
+   "options": {
+    "A": {
+     "ta": "சுழி",
+     "en": "zero"
+    },
+    "B": {
+     "ta": "201.5 கிகி மீவி^{-1}",
+     "en": "201.5 kg ms^{-1}"
+    },
+    "C": {
+     "ta": "215 கிகி மீவி^{-1}",
+     "en": "215 kg ms^{-1}"
+    },
+    "D": {
+     "ta": "200 கிகி மீவி^{-1}",
+     "en": "200 kg ms^{-1}"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சுடுவதற்கு முன்பு துப்பாக்கியும் குண்டும் ஓய்வு நிலையில் இருப்பதால், அவற்றின் தொடக்க திசைவேகம் சுழி ஆகும். எனவே மொத்த உந்தம் சுழி.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 103,
+   "part": "B",
+   "unit": "B1",
+   "topic": "chemistry-ddt",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "DDT-யின் வேதிப்பெயர் என்ன?",
+    "en": "What is the chemical name of DDT?"
+   },
+   "options": {
+    "A": {
+     "ta": "டைகுளோரோ டைபீனைல் டிரைகுளோரோ ஈத்தேன்",
+     "en": "Dichloro diphenyl trichloro ethane"
+    },
+    "B": {
+     "ta": "டைகுளோரோ டைபீனைல் டைபுரோமோ ஈத்தேன்",
+     "en": "Dichloro diphenyl tribromo ethane"
+    },
+    "C": {
+     "ta": "டைபீனைல் டைகுளோரோ டிரைகுளோரோ ஈத்தேன்",
+     "en": "Diphenyl dichloro trichloro ethane"
+    },
+    "D": {
+     "ta": "டைபீனைல் டைபுரோமோ டிரைகுளோரோ ஈத்தேன்",
+     "en": "Diphenyl dibromo trichloro ethane"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "DDT-யின் முழு வடிவம் டைகுளோரோ டைபீனைல் டிரைகுளோரோ ஈத்தேன் ஆகும்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 104,
+   "part": "B",
+   "unit": "B1",
+   "topic": "biology-microsporum",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மைக்ரோஸ்போரம், எபிடெர்மோப்பைட்டான் யாவை?",
+    "en": "What are Microsporum, Epidermophyton?"
+   },
+   "options": {
+    "A": {
+     "ta": "மனிதனில் நோய் ஏற்படுத்தும் பாக்டீரியாக்கள்",
+     "en": "Disease causing bacteria in man"
+    },
+    "B": {
+     "ta": "மனிதனில் நோய் ஏற்படுத்தும் பூஞ்சைகள்",
+     "en": "Disease causing fungi in man"
+    },
+    "C": {
+     "ta": "மனிதனில் நோய் ஏற்படுத்தும் வைரஸ்கள்",
+     "en": "Disease causing virus in man"
+    },
+    "D": {
+     "ta": "மனிதனில் நோய் ஏற்படுத்தும் புரோட்டோசோவாக்கள்",
+     "en": "Disease causing protozoans in man"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மைக்ரோஸ்போரம் மற்றும் எபிடெர்மோப்பைட்டான் ஆகியவை மனிதனில் தற்காப்புத் தோல் நோய்களை (Ringworm போன்றவற்றை) ஏற்படுத்தும் பூஞ்சைகளாகும்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 105,
+   "part": "B",
+   "unit": "B1",
+   "topic": "ovulation-hormone",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "அண்டம் விடுபடுதலைத் தூண்டும் ஹார்மோன்",
+    "en": "Ovulation is stimulated by"
+   },
+   "options": {
+    "A": {
+     "ta": "LH",
+     "en": "LH"
+    },
+    "B": {
+     "ta": "LTH",
+     "en": "LTH"
+    },
+    "C": {
+     "ta": "ரெனின்",
+     "en": "Renin"
+    },
+    "D": {
+     "ta": "அட்ரினலின்",
+     "en": "Adrenalin"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "லூட்டினைசிங் ஹார்மோன் (LH) அண்டம் விடுபடுதலைத் தூண்டுகிறது.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 106,
+   "part": "B",
+   "unit": "B1",
+   "topic": "gymnosperm-rheumatism",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "முடக்கு வாதத்தை சரி செய்யப் பயன்படும் ஜிம்னோஸ்பெர்ம் தாவரம் எது?",
+    "en": "Which gymnospermic plant cures rheumatism?"
+   },
+   "options": {
+    "A": {
+     "ta": "அரக்கேரியா",
+     "en": "Araucaria"
+    },
+    "B": {
+     "ta": "எபிட்ரா",
+     "en": "Ephedra"
+    },
+    "C": {
+     "ta": "நீட்டம்",
+     "en": "Gnetum"
+    },
+    "D": {
+     "ta": "பைனஸ்",
+     "en": "Pinus"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நீட்டம் தாவரம் முடக்கு வாதத்திற்கு மருந்தாகப் பயன்படுகிறது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 107,
+   "part": "B",
+   "unit": "B1",
+   "topic": "botany",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கஸ்க்கூட்டா, விஸ்கம் போன்ற தாவரங்களில் காணப்படும் சிறப்பான வேர்கள் இவ்வாறு அழைக்கப்படுகின்றன.",
+    "en": "A special root-like structure in cuscuta and viscum is called"
+   },
+   "options": {
+    "A": {
+     "ta": "வேரிகள்",
+     "en": "Rhizoids"
+    },
+    "B": {
+     "ta": "ஹாஸ்டோரியாக்கள்",
+     "en": "Haustoria"
+    },
+    "C": {
+     "ta": "ஹைப்பாக்கள்",
+     "en": "Hyphae"
+    },
+    "D": {
+     "ta": "ஸ்டோலன்",
+     "en": "Stolens"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஒட்டுண்ணித் தாவரங்களில் உணவை உறிஞ்ச ஹாஸ்டோரியாக்கள் காணப்படுகின்றன.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 108,
+   "part": "B",
+   "unit": "B5",
+   "topic": "important-days",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "உலக பெண் குழந்தைகள் தினம் எப்போது அனுசரிக்கப்படுகிறது?",
+    "en": "Which of the following is observed as \"National Girl Child Day\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "ஜனவரி 8",
+     "en": "8th January"
+    },
+    "B": {
+     "ta": "ஜனவரி 21",
+     "en": "21st January"
+    },
+    "C": {
+     "ta": "ஜனவரி 22",
+     "en": "22nd January"
+    },
+    "D": {
+     "ta": "ஜனவரி 24",
+     "en": "24th January"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "தேசிய பெண் குழந்தைகள் தினம் ஜனவரி 24 அன்று அனுசரிக்கப்படுகிறது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 109,
+   "part": "B",
+   "unit": "B5",
+   "topic": "ongc-discovery-indian-ocean",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எண்ணெய் மற்றும் இயற்கை வாயு நிறுவனம் கீழ்கண்டவற்றுள் எந்தக் கனிமத்தை இந்தியப் பெருங்கடலில் ஜூலை 26/2016-ல் கண்டுபிடித்தது?",
+    "en": "Which of the following was discovered by ONGC in the Indian Ocean on 26th July 2016?"
+   },
+   "options": {
+    "A": {
+     "ta": "நீரேற்றம் பெற்ற மீத்தேன்",
+     "en": "Hydrated Methane"
+    },
+    "B": {
+     "ta": "நீரேற்றம் பெற்ற பென்சீன்",
+     "en": "Hydrated Benzene"
+    },
+    "C": {
+     "ta": "நீரேற்றம் பெற்ற ஈதர்கள்",
+     "en": "Hydrated Ether"
+    },
+    "D": {
+     "ta": "நீரேற்றம் பெற்ற ஆக்டேன்",
+     "en": "Hydrated Octane"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ONGC நிறுவனம் இந்தியப் பெருங்கடலில் நீரேற்றம் பெற்ற மீத்தேன் (Hydrated Methane) கனிமத்தைக் கண்டறிந்தது.",
+    "en": "ONGC discovered hydrated methane in the Indian Ocean."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 110,
+   "part": "B",
+   "unit": "B4",
+   "topic": "gst-bill-parliament",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எந்த மசோதா இந்திய பாராளுமன்றத்தில் 2016ல் நாடு முழுவதும் ஒரே வரி விதிப்புக்காக நிறைவேற்றப்பட்டது?",
+    "en": "Which Bill was passed in the Parliament of India in 2016 to adopt Uniform Tax of States?"
+   },
+   "options": {
+    "A": {
+     "ta": "பொருட்கள் மற்றும் விற்பனை வரி",
+     "en": "Goods and Sales Tax"
+    },
+    "B": {
+     "ta": "சரக்கு மற்றும் சேவை வரி",
+     "en": "Goods and Service Tax"
+    },
+    "C": {
+     "ta": "நேர்முக வரி",
+     "en": "Direct Tax"
+    },
+    "D": {
+     "ta": "மறைமுக வரி",
+     "en": "Indirect Tax"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நாடு முழுவதும் ஒரே சீரான மறைமுக வரி விதிப்புக்காக சரக்கு மற்றும் சேவை வரி (GST) மசோதா 2016 இல் நிறைவேற்றப்பட்டது.",
+    "en": "Goods and Service Tax (GST) bill was passed in 2016 for a uniform indirect tax system."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 111,
+   "part": "B",
+   "unit": "B4",
+   "topic": "tamilnadu-governor-additional-charge-201",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எந்த மாநிலத்தின் ஆளுநர் தமிழ்நாடு மாநிலத்தின் கூடுதல் பொறுப்பு ஆளுநராக செப்டம்பர் 2016-ல் பதவி ஏற்றார்?",
+    "en": "Which State Governor was appointed as Tamilnadu Governor additional-charge in September, 2016?"
+   },
+   "options": {
+    "A": {
+     "ta": "கேரளா",
+     "en": "Kerala"
+    },
+    "B": {
+     "ta": "கர்நாடகா",
+     "en": "Karnataka"
+    },
+    "C": {
+     "ta": "மகாராஷ்டிரா",
+     "en": "Maharashtra"
+    },
+    "D": {
+     "ta": "மத்திய பிரதேசம்",
+     "en": "Madhya Pradesh"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மகாராஷ்டிர ஆளுநர் செப்டம்பர் 2016-ல் தமிழ்நாட்டின் கூடுதல் பொறுப்பு ஆளுநராக நியமிக்கப்பட்டார்.",
+    "en": "Maharashtra Governor C. Vidyasagar Rao was given additional charge as Governor of Tamil Nadu in September 2016."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 112,
+   "part": "B",
+   "unit": "B6",
+   "topic": "ms-subbulakshmi-un-2016",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஆகஸ்ட் மாதம், 2016-ல், ஐக்கிய நாடுகள் சபையில் எந்த இசைக் கலைஞர் கௌரவிக்கப்பட்டார்?",
+    "en": "Which Musician was honoured in August 2016, by United Nations Organization for her contribution to music?"
+   },
+   "options": {
+    "A": {
+     "ta": "M.S. சுப்புலட்சுமி",
+     "en": "M.S. Subbulakshmi"
+    },
+    "B": {
+     "ta": "ஆஷா போஸ்லே",
+     "en": "Asha Bhosle"
+    },
+    "C": {
+     "ta": "லதா மங்கேஷ்கர்",
+     "en": "Lata Mangeshkar"
+    },
+    "D": {
+     "ta": "M.S. இராஜலட்சுமி",
+     "en": "M.S. Rajalakshmi"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "2016 ஆகஸ்ட் மாதம் ஐக்கிய நாடுகள் சபையில் எம்.எஸ். சுப்புலட்சுமி கௌரவிக்கப்பட்டார்.",
+    "en": "M.S. Subbulakshmi was honoured by the UN in August 2016."
+   }
+  },
+  {
+   "qNo": 113,
+   "part": "B",
+   "unit": "B6",
+   "topic": "current-affairs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "2016-ஆம் ஆண்டின் 'துரோணாச்சார்யா' விருது பெற்றவர் இதில் யார்?",
+    "en": "Identify the 2016 Dhronacharya Awardee"
+   },
+   "options": {
+    "A": {
+     "ta": "பிஸ்வேஷ்வர் நந்தி",
+     "en": "Bishweshwar Nandi"
+    },
+    "B": {
+     "ta": "லலிதா பாபர்",
+     "en": "Lalitha Babar"
+    },
+    "C": {
+     "ta": "இராணி ராம்பால்",
+     "en": "Rani Rampal"
+    },
+    "D": {
+     "ta": "பி.வி. சிந்து",
+     "en": "P.V. Sindhu"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "தீபா கர்மாகரின் பயிற்சியாளரான பிஸ்வேஷ்வர் நந்திக்கு 2016-ல் துரோணாச்சார்யா விருது வழங்கப்பட்டது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 114,
+   "part": "B",
+   "unit": "B6",
+   "topic": "current-affairs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஆசிய ஜூனியர் செஸ் சாம்பியன்ஷிப் போட்டி, மே, 2016-ல் எங்கு நடைபெற்றது?",
+    "en": "The Asian Junior Chess Championships, May 2016 was held at"
+   },
+   "options": {
+    "A": {
+     "ta": "சென்னை",
+     "en": "Chennai"
+    },
+    "B": {
+     "ta": "மும்பை",
+     "en": "Mumbai"
+    },
+    "C": {
+     "ta": "கொல்கத்தா",
+     "en": "Kolkatta"
+    },
+    "D": {
+     "ta": "புது டெல்லி",
+     "en": "New Delhi"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "2016 ஆம் ஆண்டிற்கான ஆசிய ஜூனியர் செஸ் சாம்பியன்ஷிப் போட்டி புது டெல்லியில் நடைபெற்றது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 115,
+   "part": "B",
+   "unit": "B6",
+   "topic": "current-affairs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "2016 ரியோ ஒலிம்பிக் போட்டியில், அரையிறுதிப் போட்டியின் போது P.V. சிந்து எந்த நாட்டு பாட்மின்டன் வீராங்கனையைத் தோற்கடித்தார்?",
+    "en": "Which country's Badminton player was defeated by P.V. Sindhu in the semi-finals at the Rio 2016 Olympic games?"
+   },
+   "options": {
+    "A": {
+     "ta": "ஸ்பெயின்",
+     "en": "Spain"
+    },
+    "B": {
+     "ta": "அமெரிக்கா",
+     "en": "America"
+    },
+    "C": {
+     "ta": "ஆப்பிரிக்கா",
+     "en": "Africa"
+    },
+    "D": {
+     "ta": "ஜப்பான்",
+     "en": "Japan"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ரியோ ஒலிம்பிக் 2016 அரையிறுதியில் பி.வி. சிந்து ஜப்பான் நாட்டைச் சேர்ந்த நोज़ோமி ஒகுஹாராவைத் தோற்கடித்தார்.",
+    "en": "P.V. Sindhu defeated Japan's badminton player in the semi-finals."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 116,
+   "part": "B",
+   "unit": "B6",
+   "topic": "current-affairs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஜூலை 2016-ல் தெரசா மேய் என்பவர் பிரிட்டனுடைய ____________ பெண் பிரதமராக நியமிக்கப்பட்டார்.",
+    "en": "In July 2016, Theresa May was appointed as the ____________ Woman Prime Minister of UK (Britain)."
+   },
+   "options": {
+    "A": {
+     "ta": "முதல்",
+     "en": "first"
+    },
+    "B": {
+     "ta": "இரண்டாம்",
+     "en": "second"
+    },
+    "C": {
+     "ta": "பத்தாவது",
+     "en": "tenth"
+    },
+    "D": {
+     "ta": "ஆறாவது",
+     "en": "sixth"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மார்கரெட் தாக்கருக்குப் பிறகு பிரிட்டனின் இரண்டாவது பெண் பிரதமர் தெரசா மேய் ஆவார்.",
+    "en": "Theresa May was the second female Prime Minister of the UK after Margaret Thatcher."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 117,
+   "part": "B",
+   "unit": "B5",
+   "topic": "tiger-conservation-conference",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "2016-ல் புலிப் பாதுகாப்புத் திட்டம் குறித்து மூன்றாவது ஆசிய அமைச்சரவை கூட்டம் எங்கே எப்போது நடைபெற்றது?",
+    "en": "The Third Asian Ministerial Conference on Tiger Conservation 2016 was held"
+   },
+   "options": {
+    "A": {
+     "ta": "2016 ஒரிசாவில், ஏப்ரல் 9 முதல் 12 முடிய",
+     "en": "From April 9th to 12th 2016 at Orissa"
+    },
+    "B": {
+     "ta": "2016 கொல்கத்தாவில், ஏப்ரல் 14 முதல் 17 முடிய",
+     "en": "From April 14th to 17th 2016 at Calcutta"
+    },
+    "C": {
+     "ta": "2016 புதுதில்லியில், ஏப்ரல் 11 முதல் 14 முடிய",
+     "en": "From April 11th to 14th 2016 at New-Delhi"
+    },
+    "D": {
+     "ta": "2016 மும்பையில், ஏப்ரல் 6 முதல் 9 முடிய",
+     "en": "From April 6th to 9th 2016 at Mumbai"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மூன்றாவது ஆசிய அமைச்சரவைக் கூட்டம் 2016 ஏப்ரல் 11 முதல் 14 வரை புதுதில்லியில் நடைபெற்றது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 118,
+   "part": "B",
+   "unit": "B4",
+   "topic": "drafting-committee-chairman",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்திய அரசியலமைப்பு வரைவுக் குழுவின் தலைவர்",
+    "en": "Indian Constitution Drafting Committee's Chairman"
+   },
+   "options": {
+    "A": {
+     "ta": "டாக்டர். இராசேந்திர பிரசாத்",
+     "en": "Dr. Rajendra Prasad"
+    },
+    "B": {
+     "ta": "ஜவஹர்லால் நேரு",
+     "en": "Jawaharlal Nehru"
+    },
+    "C": {
+     "ta": "டாக்டர் பி.ஆர். அம்பேத்கர்",
+     "en": "Dr. B.R. Ambedkar"
+    },
+    "D": {
+     "ta": "காந்தி",
+     "en": "Gandhi"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்பு வரைவுக் குழுவின் தலைவராக டாக்டர் பி.ஆர். அம்பேத்கர் தேர்ந்தெடுக்கப்பட்டார்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 119,
+   "part": "B",
+   "unit": "B4",
+   "topic": "constitutional-amendment-voting-age",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எந்த வருடம் இந்திய அரசியல் அமைப்பு சட்டம் (61வது திருத்தச் சட்டம்) படி வாக்குரிமை வயது 21 வயதிலிருந்து 18 ஆக குறைக்கப்பட்டது?",
+    "en": "Which year the Constitution of India (61st Amendment Act) lowered the voting age from 21 years to 18 years?"
+   },
+   "options": {
+    "A": {
+     "ta": "1988",
+     "en": "1988"
+    },
+    "B": {
+     "ta": "1987",
+     "en": "1987"
+    },
+    "C": {
+     "ta": "1986",
+     "en": "1986"
+    },
+    "D": {
+     "ta": "1985",
+     "en": "1985"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "keyChanged": true
+  },
+  {
+   "qNo": 120,
+   "part": "B",
+   "unit": "B4",
+   "topic": "article-63-indian-constitution",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்திய அரசியலமைப்பின் சரத்து 63 குறிப்பிடுவது",
+    "en": "Article 63 of the Indian Constitution refers to"
+   },
+   "options": {
+    "A": {
+     "ta": "துணை குடியரசுத் தலைவர்",
+     "en": "Vice-President"
+    },
+    "B": {
+     "ta": "குடியரசு தலைவர்",
+     "en": "President"
+    },
+    "C": {
+     "ta": "பிரதம மந்திரி",
+     "en": "Prime Minister"
+    },
+    "D": {
+     "ta": "ஆளுநர்",
+     "en": "Governor"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "keyChanged": true
+  },
+  {
+   "qNo": 121,
+   "part": "B",
+   "unit": "B4",
+   "topic": "niti-aayog",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "நீத்தி அயோக்-இன் தலைவர் யார்?",
+    "en": "Who is the chairperson of Niti Aayog?"
+   },
+   "options": {
+    "A": {
+     "ta": "குடியரசு தலைவர்",
+     "en": "President"
+    },
+    "B": {
+     "ta": "பிரதம மந்திரி",
+     "en": "Prime Minister"
+    },
+    "C": {
+     "ta": "துணை குடியரசுத் தலைவர்",
+     "en": "Vice-President"
+    },
+    "D": {
+     "ta": "உச்ச நீதிமன்ற நீதிபதி",
+     "en": "Supreme Court Judge"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்தியாவின் பிரதம மந்திரி நீதி ஆயோக்கின் தலைவராக செயல்படுகிறார்.",
+    "en": "The Prime Minister of India serves as the Chairperson of Niti Aayog."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 122,
+   "part": "B",
+   "unit": "B4",
+   "topic": "writs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஆட்கொணர் நீதி பேராணை என்பது",
+    "en": "The writ of Habeas Corpus is"
+   },
+   "options": {
+    "A": {
+     "ta": "சட்டத்திற்கு புறம்பாக கைது செய்வதிலிருந்து மக்களை பாதுகாத்தல்",
+     "en": "To safeguard people from illegal arrest"
+    },
+    "B": {
+     "ta": "விண்ணப்பதாரர்களுக்கு சட்ட உதவி அளித்து பொது சொத்தை பாதுகாத்தல்",
+     "en": "The Petitioner who requires legal help to get his work done by respective Public Authorities"
+    },
+    "C": {
+     "ta": "துணை நீதி மன்றங்கள் வரம்பு மீறி செயல்படுவதை தடை செய்தல்",
+     "en": "It probability a subordinate court from acting beyond its jurisdiction"
+    },
+    "D": {
+     "ta": "பொது அலுவலகங்களை ஆக்கிரமிப்பு செய்வதை தடை செய்தல்",
+     "en": "It prevents usurpation of a public office"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஆட்கொணர் நீதி பேராணை (Habeas Corpus) என்பது சட்டத்திற்குப் புறம்பாக ஒருவரைத் தடுத்து வைப்பதில் இருந்து பாதுகாப்பதாகும்.",
+    "en": "Habeas Corpus is a writ used to bring a person who has been detained before a court, to ensure that the detention is legal."
+   }
+  },
+  {
+   "qNo": 123,
+   "part": "B",
+   "unit": "B6",
+   "topic": "social-reformers",
+   "format": "MATCH",
+   "stem": {
+    "ta": "சரியாக பொருத்துக:",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "3 1 4 2",
+     "en": "3 1 4 2"
+    },
+    "B": {
+     "ta": "2 3 1 4",
+     "en": "2 3 1 4"
+    },
+    "C": {
+     "ta": "1 4 2 3",
+     "en": "1 4 2 3"
+    },
+    "D": {
+     "ta": "4 2 3 1",
+     "en": "4 2 3 1"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "சமூக ஏற்ற தாழ்வுகளை நீக்குவதே",
+      "en": "To eradicate the inequality in the society"
+     },
+     {
+      "ta": "பெண் ஆடவரை சார்ந்தே வாழ்பவர்",
+      "en": "Women depend on male companions"
+     },
+     {
+      "ta": "குழந்தை திருமணத்தை தடுத்து நிறுத்துவது",
+      "en": "To stop the customs of child marriage"
+     },
+     {
+      "ta": "அடையாறு புற்றுநோய் மருத்துவமனை கொண்டு வந்தார்",
+      "en": "Cancer institute at Adyar"
+     }
+    ],
+    "right": [
+     {
+      "ta": "காலங்காலமாக பதிந்த எண்ணம்",
+      "en": "Beliefs passed through the generation"
+     },
+     {
+      "ta": "Dr. முத்துலட்சுமியின் புகழை பரப்புகிறது",
+      "en": "It proclaims the fame of Dr. Muthu Lakshmi"
+     },
+     {
+      "ta": "சமூக நீதி",
+      "en": "Social justice"
+     },
+     {
+      "ta": "தடை சட்டம்",
+      "en": "Prohibition"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சரியான பொருத்தம் A (3 1 4 2) ஆகும்.",
+    "en": "The correct matching is A (3 1 4 2)."
+   }
+  },
+  {
+   "qNo": 124,
+   "part": "B",
+   "unit": "B3",
+   "topic": "mughal-architecture",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"முணுமுணுக்கும் அரங்கம்\"- என்று அழைக்கப்படுவது எது?",
+    "en": "Which is known as the \"Murmering Auditorium\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "கோல்கொண்டா",
+     "en": "Golkonda"
+    },
+    "B": {
+     "ta": "கோல்கும்பாஸ்",
+     "en": "Golkumbas"
+    },
+    "C": {
+     "ta": "குல்பர்கா",
+     "en": "Gulberga"
+    },
+    "D": {
+     "ta": "ஜும்மா மசூதி",
+     "en": "Jumma Masjid"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true
+  },
+  {
+   "qNo": 125,
+   "part": "B",
+   "unit": "B3",
+   "topic": "mughal-rulers",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சீக்கிய குரு தேஜ் பகதூரை கொலை செய்த முகலாய மன்னன் யார்?",
+    "en": "Which Mughal King killed the Sikh Guru Tegh Bahadur?"
+   },
+   "options": {
+    "A": {
+     "ta": "அக்பர்",
+     "en": "Akbar"
+    },
+    "B": {
+     "ta": "ஔரங்கசீப்",
+     "en": "Aurangazeb"
+    },
+    "C": {
+     "ta": "ஷாஜகான்",
+     "en": "Shahjahan"
+    },
+    "D": {
+     "ta": "ஜஹாங்கீர்",
+     "en": "Jahangir"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "keyChanged": true
+  },
+  {
+   "qNo": 126,
+   "part": "B",
+   "unit": "B6",
+   "topic": "pallava-inscription-rudracharya",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "புகழ்பெற்ற இசைக் கலைஞர் உருத்திரசாரியார் பற்றி பல்லவர்களது ____________ கல்வெட்டு குறிப்பிடுகின்றது.",
+    "en": "The Pallava inscription at ____________ refers to a great musician Rudracharya."
+   },
+   "options": {
+    "A": {
+     "ta": "குடுமியான் மலை",
+     "en": "Kudumiyan Malai"
+    },
+    "B": {
+     "ta": "மாமண்டூர்",
+     "en": "Mamandur"
+    },
+    "C": {
+     "ta": "உத்திரமேரூர்",
+     "en": "Uthiramerur"
+    },
+    "D": {
+     "ta": "மகேந்திரவாடி",
+     "en": "Mahendravadi"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "குடுமியான்மலை இசைக்கல்வெட்டு இசைக் கலைஞர் உருத்திரசாரியார் பற்றிக் குறிப்பிடுகிறது.",
+    "en": "The Kudumiyanmalai musical inscription refers to the musician Rudracharya."
+   }
+  },
+  {
+   "qNo": 127,
+   "part": "B",
+   "unit": "B6",
+   "topic": "dravida-sangha-madurai",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "களப்பிரர் காலத்தில் மதுரையில் திராவிட சங்கத்தை ஏற்படுத்திய சமணத் துறவி",
+    "en": "During the age of Kalabhras, a Jain monk who established Dravida Sangha at Madurai was"
+   },
+   "options": {
+    "A": {
+     "ta": "வஜ்ஜிரநந்தி",
+     "en": "Vajranandhi"
+    },
+    "B": {
+     "ta": "பார்சுவ முனிவர்",
+     "en": "Parsava Munivar"
+    },
+    "C": {
+     "ta": "மகாவீரர்",
+     "en": "Mahavir"
+    },
+    "D": {
+     "ta": "மகா கசபர்",
+     "en": "Maha Kasabar"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கி.பி. 5 ஆம் நூற்றாண்டில் வஜ்ரநந்தி என்பவர் மதுரையில் திராவிட சங்கத்தை நிறுவினார்.",
+    "en": "Vajranandhi established the Dravida Sangha in Madurai in the 5th century CE."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 128,
+   "part": "B",
+   "unit": "B2",
+   "topic": "world-jute-production",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "உலகில் சணல் உற்பத்தியில் முன்னணியில் உள்ள நாடுகள்",
+    "en": "The leading producers of jute in the world is"
+   },
+   "options": {
+    "A": {
+     "ta": "இந்தியா மற்றும் வங்காளதேசம்",
+     "en": "India and Bangladesh"
+    },
+    "B": {
+     "ta": "இலங்கை மற்றும் பாகிஸ்தான்",
+     "en": "Srilanka and Pakistan"
+    },
+    "C": {
+     "ta": "சீனா மற்றும் ஜப்பான்",
+     "en": "China and Japan"
+    },
+    "D": {
+     "ta": "சிங்கப்பூர் மற்றும் மலேசியா",
+     "en": "Singapore and Malaysia"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்தியாவும் வங்காளதேசமும் உலகின் முக்கிய சணல் உற்பத்தியாளர்கள் ஆகும்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 129,
+   "part": "B",
+   "unit": "B2",
+   "topic": "asteroids-location",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "குறுங்கோள்கள் இவைகளுக்குளிடையே அமைந்துள்ளது",
+    "en": "Asteroids are found between"
+   },
+   "options": {
+    "A": {
+     "ta": "செவ்வாய்க்கும் வியாழனுக்கும்",
+     "en": "Mars and Jupiter"
+    },
+    "B": {
+     "ta": "பூமிக்கும் செவ்வாய்க்கும்",
+     "en": "Earth and Mars"
+    },
+    "C": {
+     "ta": "வியாழனுக்கும் சனிக்கும்",
+     "en": "Jupiter and Saturn"
+    },
+    "D": {
+     "ta": "புதனுக்கும் வெள்ளிக்கும்",
+     "en": "Mercury and Venus"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "செவ்வாய் மற்றும் வியாழன் கோள்களுக்கு இடையே குறுங்கோள் பட்டை அமைந்துள்ளது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 130,
+   "part": "B",
+   "unit": "B2",
+   "topic": "ports",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக:",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "3 2 4 1",
+     "en": "3 2 4 1"
+    },
+    "B": {
+     "ta": "4 1 3 2",
+     "en": "4 1 3 2"
+    },
+    "C": {
+     "ta": "2 3 1 4",
+     "en": "2 3 1 4"
+    },
+    "D": {
+     "ta": "2 1 4 3",
+     "en": "2 1 4 3"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "கண்ட்லா",
+      "en": "Kandla"
+     },
+     {
+      "ta": "ஜவஹர்லால் நேரு",
+      "en": "Jawaharlal Nehru"
+     },
+     {
+      "ta": "பாரதீப்",
+      "en": "Paradip"
+     },
+     {
+      "ta": "ஹல்தியா",
+      "en": "Haldia"
+     }
+    ],
+    "right": [
+     {
+      "ta": "மகாராஷ்டிரம்",
+      "en": "Maharashtra"
+     },
+     {
+      "ta": "குஜராத்",
+      "en": "Gujarat"
+     },
+     {
+      "ta": "மேற்கு வங்காளம்",
+      "en": "West Bengal"
+     },
+     {
+      "ta": "ஒரிசா",
+      "en": "Orissa"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "கண்ட்லா-குஜராத், ஜவஹர்லால் நேரு-மகாராஷ்டிரம், பாரதீப்-ஒரிசா, ஹல்தியா-மேற்கு வங்காளம்.",
+    "en": "Correct matching of ports with their respective states."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 131,
+   "part": "B",
+   "unit": "B6",
+   "topic": "social-reformers",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக:",
+    "en": "Match :"
+   },
+   "options": {
+    "A": {
+     "ta": "2 1 4 3",
+     "en": "2 1 4 3"
+    },
+    "B": {
+     "ta": "2 4 3 1",
+     "en": "2 4 3 1"
+    },
+    "C": {
+     "ta": "4 1 2 3",
+     "en": "4 1 2 3"
+    },
+    "D": {
+     "ta": "1 3 2 4",
+     "en": "1 3 2 4"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "சத்ய சோதக் சமாஜம்",
+      "en": "Sathya Sodhak Samaj"
+     },
+     {
+      "ta": "ஜீவ காருண்யம்",
+      "en": "Jeeva Karunyam"
+     },
+     {
+      "ta": "தர்ம பரிபாலனம்",
+      "en": "Dharma Paribalanam"
+     },
+     {
+      "ta": "ஜீவாவே சிவா",
+      "en": "Jeeva is Siva"
+     }
+    ],
+    "right": [
+     {
+      "ta": "இராமலிங்க அடிகள்",
+      "en": "Ramalinga Adigal"
+     },
+     {
+      "ta": "ஜோதிபா பூலே",
+      "en": "Jyotiba Phule"
+     },
+     {
+      "ta": "சுவாமி விவேகானந்தா",
+      "en": "Swami Vivekanandha"
+     },
+     {
+      "ta": "ஸ்ரீ நாராயண குரு",
+      "en": "Sri Narayana Guru"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சத்ய சோதக் சமாஜம் - ஜோதிபா பூலே, ஜீவ காருண்யம் - இராமலிங்க அடிகள், தர்ம பரிபாலனம் - ஸ்ரீ நாராயண குரு, ஜீவாவே சிவா - சுவாமி விவேகானந்தா",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 132,
+   "part": "B",
+   "unit": "B5",
+   "topic": "economic-reforms-1991",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்திய பொருளாதாரத்தைப் பொறுத்தவரையில் எந்த ஆண்டு பொருளாதார சீர்திருத்தத்திற்கு முக்கியத்துவம் வாய்ந்த ஒன்றாகும்?",
+    "en": "Which year has a special significance in Indian Economy as far as Economic Reforms are concerned?"
+   },
+   "options": {
+    "A": {
+     "ta": "1952",
+     "en": "1952"
+    },
+    "B": {
+     "ta": "1981",
+     "en": "1981"
+    },
+    "C": {
+     "ta": "1991",
+     "en": "1991"
+    },
+    "D": {
+     "ta": "2001",
+     "en": "2001"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "1991 ஆம் ஆண்டு இந்தியாவில் புதிய பொருளாதாரக் கொள்கை அறிமுகப்படுத்தப்பட்டது.",
+    "en": "The New Economic Policy was introduced in India in the year 1991."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 133,
+   "part": "B",
+   "unit": "B5",
+   "topic": "diamond-cutting-industry",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்தியாவில் வைரம் அறுக்கும் தொழிற்சாலை எங்கே அமைந்துள்ளது?",
+    "en": "Where is the diamond cutting industry located in India?"
+   },
+   "options": {
+    "A": {
+     "ta": "லக்னோ",
+     "en": "Lucknow"
+    },
+    "B": {
+     "ta": "சூரத்",
+     "en": "Surat"
+    },
+    "C": {
+     "ta": "லூதியானா",
+     "en": "Ludiyana"
+    },
+    "D": {
+     "ta": "சண்டிஹார்",
+     "en": "Chandigar"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்தியாவின் வைரம் அறுக்கும் மற்றும் மெருகூட்டும் தொழிலகங்கள் சூரத் நகரில் அதிகமாகக் காணப்படுகின்றன.",
+    "en": "Surat is famously known as the hub of the diamond cutting and polishing industry in India."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 134,
+   "part": "B",
+   "unit": "B5",
+   "topic": "national-income",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "நிகர நாட்டு உற்பத்தி என்பது",
+    "en": "Net National Product is"
+   },
+   "options": {
+    "A": {
+     "ta": "மொத்த உள்நாட்டு உற்பத்தி - தேய்மானம்",
+     "en": "Gross Domestic Product - Depreciation"
+    },
+    "B": {
+     "ta": "மொத்த நாட்டு உற்பத்தி - தேய்மானம்",
+     "en": "Gross National Product - Depreciation"
+    },
+    "C": {
+     "ta": "நிகர நாட்டு உற்பத்தி - தேய்மானம்",
+     "en": "Net National Product - Depreciation"
+    },
+    "D": {
+     "ta": "நிகர உள்நாட்டு உற்பத்தி - தேய்மானம்",
+     "en": "Net Domestic Product - Depreciation"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நிகர நாட்டு உற்பத்தி = மொத்த நாட்டு உற்பத்தி - தேய்மானம்.",
+    "en": "NNP = GNP - Depreciation."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 135,
+   "part": "B",
+   "unit": "B5",
+   "topic": "poverty",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "வாழ்வதற்கு வேண்டிய குறைந்தபட்ச வசதிகளுக்குக் கீழே ஒருவர் வாழும் வறுமை நிலையை இவ்வாறு கூறலாம்",
+    "en": "When a person lives below the minimum subsistence level he is said to live in"
+   },
+   "options": {
+    "A": {
+     "ta": "முழுமையான வறுமை",
+     "en": "Absolute poverty"
+    },
+    "B": {
+     "ta": "ஒப்பீட்டு வறுமை",
+     "en": "Relative poverty"
+    },
+    "C": {
+     "ta": "சுருக்க வறுமை",
+     "en": "Abstract poverty"
+    },
+    "D": {
+     "ta": "உண்மை வறுமை",
+     "en": "True poverty"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "குறைந்தபட்ச வாழ்க்கை வசதிகளுக்குக் கீழே வாழுவது முழுமையான வறுமை எனப்படும்.",
+    "en": "Living below the minimum subsistence level is called absolute poverty."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 138,
+   "part": "C",
+   "unit": "C1",
+   "topic": "number-system",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "3 – 25 என்ற எண்ணில் - குறிப்பிட்ட இடத்தில் எந்த எண் போடப்பட்டால் அது முழு வர்க்கம் ஆகும்?",
+    "en": "3 – 25 here, which of the following number is suitable in –, so that the number will be a perfect square?"
+   },
+   "options": {
+    "A": {
+     "ta": "1",
+     "en": "1"
+    },
+    "B": {
+     "ta": "0",
+     "en": "0"
+    },
+    "C": {
+     "ta": "4",
+     "en": "4"
+    },
+    "D": {
+     "ta": "6",
+     "en": "6"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "3025 இன் வர்க்கமூலம் 55 ஆகும், எனவே சரியான எண் 0.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 139,
+   "part": "C",
+   "unit": "C1",
+   "topic": "average",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "10 குழந்தைகளின் சராசரி மதிப்பெண் 80 எனில் அவர்களின் மொத்த மதிப்பெண்",
+    "en": "The average mark of 10 children is 80 then their total mark is"
+   },
+   "options": {
+    "A": {
+     "ta": "200",
+     "en": "200"
+    },
+    "B": {
+     "ta": "300",
+     "en": "300"
+    },
+    "C": {
+     "ta": "800",
+     "en": "800"
+    },
+    "D": {
+     "ta": "400",
+     "en": "400"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மொத்த மதிப்பெண் = சராசரி × குழந்தைகளின் எண்ணிக்கை = 80 × 10 = 800.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 140,
+   "part": "C",
+   "unit": "C1",
+   "topic": "time-and-work",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு ஆண் மற்றும் ஒரு பெண் இருவரும் சேர்ந்து ஒரு வேலையை செய்கிறார்கள். ஆண் ஒரு வேலையை 4 நாட்களில் செய்து முடிப்பார். ஒரு பெண் அதே வேலையை 12 நாட்களில் செய்து முடிப்பார். அவ்வேலையை இருவரும் சேர்ந்து எத்தனை நாட்களில் முடிப்பார்கள்?",
+    "en": "A man and woman are engaged in a work. A man can do a piece of work in 4 days and the woman can do in 12 days. Find how many days will they take to finish it together?"
+   },
+   "options": {
+    "A": {
+     "ta": "6 நாட்கள்",
+     "en": "6 days"
+    },
+    "B": {
+     "ta": "5 நாட்கள்",
+     "en": "5 days"
+    },
+    "C": {
+     "ta": "4 நாட்கள்",
+     "en": "4 days"
+    },
+    "D": {
+     "ta": "3 நாட்கள்",
+     "en": "3 days"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "சேர்ந்து செய்யும் காலம் = (4 × 12) / (4 + 12) = 48 / 16 = 3 நாட்கள்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 141,
+   "part": "C",
+   "unit": "C1",
+   "topic": "geometry",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கீழே கொடுக்கப்பட்ட அளவுகளில் எவை செங்கோண முக்கோணத்தை அமைக்கும்?",
+    "en": "Which of the following set of measurements will form a right angle triangle?"
+   },
+   "options": {
+    "A": {
+     "ta": "6, 9, 12",
+     "en": "6, 9, 12"
+    },
+    "B": {
+     "ta": "5, 8, 10",
+     "en": "5, 8, 10"
+    },
+    "C": {
+     "ta": "5, 5, 5\\sqrt{2}",
+     "en": "5, 5, 5\\sqrt{2}"
+    },
+    "D": {
+     "ta": "3, 4, 4\\sqrt{2}",
+     "en": "3, 4, 4\\sqrt{2}"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "5² + 5² = 25 + 25 = 50, மற்றும் (5\\sqrt{2})² = 50, எனவே இது பித்தாகரஸ் தேற்றத்தை நிறைவு செய்கிறது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 142,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simplification",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\\sqrt{609 + \\sqrt{248 + \\sqrt{60 + \\sqrt{7 + \\sqrt{81}}}}} இன் மதிப்பு",
+    "en": "The value of \\sqrt{609 + \\sqrt{248 + \\sqrt{60 + \\sqrt{7 + \\sqrt{81}}}}}"
+   },
+   "options": {
+    "A": {
+     "ta": "20",
+     "en": "20"
+    },
+    "B": {
+     "ta": "25",
+     "en": "25"
+    },
+    "C": {
+     "ta": "16",
+     "en": "16"
+    },
+    "D": {
+     "ta": "9",
+     "en": "9"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "(\\sqrt{81}=9 -> 7+9=16 -> \\sqrt{16}=4 -> 60+4=64 -> \\sqrt{64}=8 -> 248+8=256 -> \\sqrt{256}=16 -> 609+16=625 -> \\sqrt{625}=25)",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 143,
+   "part": "C",
+   "unit": "C1",
+   "topic": "percentage",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு வீட்டின் விலை 15 இலட்சம் ரூபாயிலிருந்து 12 இலட்சம் ரூபாயாக குறைந்தது எனில் குறைந்த சதவீதம்",
+    "en": "The price of a house is decreased from rupees fifteen lakhs to rupees twelve lakhs. The percentage of decrease is"
+   },
+   "options": {
+    "A": {
+     "ta": "10%",
+     "en": "10%"
+    },
+    "B": {
+     "ta": "20%",
+     "en": "20%"
+    },
+    "C": {
+     "ta": "30%",
+     "en": "30%"
+    },
+    "D": {
+     "ta": "40%",
+     "en": "40%"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "விலை குறைவு = 3 இலட்சம். குறை சதவீதக் கணக்கீடு: (3/15) * 100 = 20%.",
+    "en": "Decrease = 15 - 12 = 3 lakhs. Percentage decrease = (3 / 15) * 100 = 20%."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 144,
+   "part": "C",
+   "unit": "C1",
+   "topic": "algebra",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$3(t - 3) = 5(2t + 1)$ எனில் $t = ?$",
+    "en": "If $3(t - 3) = 5(2t + 1)$ then $t = ?$"
+   },
+   "options": {
+    "A": {
+     "ta": "-2",
+     "en": "-2"
+    },
+    "B": {
+     "ta": "2",
+     "en": "2"
+    },
+    "C": {
+     "ta": "-3",
+     "en": "-3"
+    },
+    "D": {
+     "ta": "3",
+     "en": "3"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "3t - 9 = 10t + 5 ஐத் தீர்க்க t = -2 கிடைக்கும்.",
+    "en": "3t - 9 = 10t + 5 => -14 = 7t => t = -2."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 145,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simplification",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$\\frac{1.75 \\times 1.75 + 2 \\times 1.75 \\times 0.75 + 0.75 \\times 0.75}{1.75 \\times 1.75 - 0.75 \\times 0.75}$ ன் மதிப்பு",
+    "en": "The value of $\\frac{1.75 \\times 1.75 + 2 \\times 1.75 \\times 0.75 + 0.75 \\times 0.75}{1.75 \\times 1.75 - 0.75 \\times 0.75}$"
+   },
+   "options": {
+    "A": {
+     "ta": "3.5",
+     "en": "3.5"
+    },
+    "B": {
+     "ta": "6.25",
+     "en": "6.25"
+    },
+    "C": {
+     "ta": "1",
+     "en": "1"
+    },
+    "D": {
+     "ta": "2.5",
+     "en": "2.5"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "$(a+b)^2 / (a^2 - b^2) = (a+b) / (a-b) = (1.75 + 0.75) / (1.75 - 0.75) = 2.5 / 1 = 2.5$",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 146,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simplification",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$16^3 + 7^3 - 23^3$ ன் மதிப்பு",
+    "en": "The value of $16^3 + 7^3 - 23^3$ is"
+   },
+   "options": {
+    "A": {
+     "ta": "-7728",
+     "en": "-7728"
+    },
+    "B": {
+     "ta": "7028",
+     "en": "7028"
+    },
+    "C": {
+     "ta": "7728",
+     "en": "7728"
+    },
+    "D": {
+     "ta": "-7718",
+     "en": "-7718"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "$a+b+c = 16 + 7 - 23 = 0$ எனில் $a^3 + b^3 + c^3 = 3abc = 3(16)(7)(-23) = -7728$",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 147,
+   "part": "C",
+   "unit": "C2",
+   "topic": "series",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$1, 1, 2, 8, 3, 27, 4, \\dots$ என்ற தொடரின் 4-க்கு அடுத்த உறுப்பு?",
+    "en": "Find the next term of 4 in the series is $1, 1, 2, 8, 3, 27, 4, \\dots$"
+   },
+   "options": {
+    "A": {
+     "ta": "31",
+     "en": "31"
+    },
+    "B": {
+     "ta": "29",
+     "en": "29"
+    },
+    "C": {
+     "ta": "16",
+     "en": "16"
+    },
+    "D": {
+     "ta": "64",
+     "en": "64"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இத்தொடர் $n, n^3$ என்ற முறையில் அமைந்துள்ளது ($1, 1^3, 2, 2^3, 3, 3^3, 4, 4^3$). எனவே 4-க்கு அடுத்த உறுப்பு $4^3 = 64$.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 148,
+   "part": "C",
+   "unit": "C1",
+   "topic": "geometry",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு முக்கோணத்தின் மூன்று கோணங்கள் $x - 30^{\\circ}, x - 45^{\\circ}, x + 15^{\\circ}$ எனில் $x$-ன் மதிப்பு",
+    "en": "Three angles of a triangle are $x - 30^{\\circ}, x - 45^{\\circ}, x + 15^{\\circ}$, find the value of $x$."
+   },
+   "options": {
+    "A": {
+     "ta": "$60^{\\circ}$",
+     "en": "$60^{\\circ}$"
+    },
+    "B": {
+     "ta": "$40^{\\circ}$",
+     "en": "$40^{\\circ}$"
+    },
+    "C": {
+     "ta": "$80^{\\circ}$",
+     "en": "$80^{\\circ}$"
+    },
+    "D": {
+     "ta": "$100^{\\circ}$",
+     "en": "$100^{\\circ}$"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "முக்கோணத்தின் மூன்று கோணங்களின் கூடுதல் $180^{\\circ}$. எனவே $(x-30^{\\circ}) + (x-45^{\\circ}) + (x+15^{\\circ}) = 180^{\\circ} \\implies 3x - 60^{\\circ} = 180^{\\circ} \\implies 3x = 240^{\\circ} \\implies x = 80^{\\circ}$.",
+    "en": ""
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 149,
+   "part": "C",
+   "unit": "C1",
+   "topic": "compound-interest",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ரூ. 12,000-க்கு 10% வட்டி வீதம் எனில் இரண்டு ஆண்டுகளில் கிடைக்கும் கூட்டு வட்டிக்கும் தனிவட்டிக்கும் உள்ள வித்தியாசம்",
+    "en": "The difference between simple interest and compound interest for a sum of Rs. 12,000 lent at 10% per annum in 2 years, is"
+   },
+   "options": {
+    "A": {
+     "ta": "ரூ. 80",
+     "en": "Rs. 80"
+    },
+    "B": {
+     "ta": "ரூ. 90",
+     "en": "Rs. 90"
+    },
+    "C": {
+     "ta": "ரூ. 120",
+     "en": "Rs. 120"
+    },
+    "D": {
+     "ta": "ரூ. 100",
+     "en": "Rs. 100"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இரு ஆண்டுகளுக்கு தனிவட்டிக்கும் கூட்டு வட்டிக்கும் உள்ள வித்தியாசம் $d = \\frac{P r^2}{100^2} = \\frac{12000 \\times 10 \\times 10}{100 \\times 100} = 120$.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 150,
+   "part": "B",
+   "unit": "B1",
+   "topic": "physics-light",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு செவ்வக அறையில் சமதள அடிகள் பொருத்தப்பட்ட இரண்டு அடுத்தடுத்த சுவர்களுக்கு இடையே நீ நிற்கிறாய் எனில், உனது மொத்த பிம்பங்களின் எண்ணிக்கை எத்தனை?",
+    "en": "If you stand in a rectangular room, where two adjacent walls are covered with plane mirrors, the total number of your images will be"
+   },
+   "options": {
+    "A": {
+     "ta": "முடிவிலி",
+     "en": "infinity"
+    },
+    "B": {
+     "ta": "1",
+     "en": "1"
+    },
+    "C": {
+     "ta": "3",
+     "en": "3"
+    },
+    "D": {
+     "ta": "0",
+     "en": "0"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இரு அடுத்தடுத்த சுவர்கள் $90^{\\circ}$ கோணத்தில் இருப்பதால், பிம்பங்களின் எண்ணிக்கை $360/90 - 1 = 3$ ஆகும்.",
+    "en": "For two mirrors at $90^{\\circ}$ (adjacent walls), number of images $n = \\frac{360^{\\circ}}{90^{\\circ}} - 1 = 4 - 1 = 3$."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 151,
+   "part": "B",
+   "unit": "B1",
+   "topic": "biology-sound",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "முயலின் செவியுணர் நெடுக்கம்",
+    "en": "Audible range of rabbit is"
+   },
+   "options": {
+    "A": {
+     "ta": "$100 - 32,000\\text{ Hz}$",
+     "en": "$100 - 32,000\\text{ Hz}$"
+    },
+    "B": {
+     "ta": "$1,000 - 1,50,000\\text{ Hz}$",
+     "en": "$1,000 - 1,50,000\\text{ Hz}$"
+    },
+    "C": {
+     "ta": "$1,000 - 1,00,000\\text{ Hz}$",
+     "en": "$1,000 - 1,00,000\\text{ Hz}$"
+    },
+    "D": {
+     "ta": "$900 - 2,00,000\\text{ Hz}$",
+     "en": "$900 - 2,00,000\\text{ Hz}$"
+    }
+   },
+   "answer": "C",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "முயலின் செவியுணர்வு வரம்பு $1,000\\text{ Hz}$ முதல் $1,00,000\\text{ Hz}$ வரை ஆகும்.",
+    "en": "The audible frequency range for a rabbit is $1,000\\text{ Hz}$ to $1,00,000\\text{ Hz}$."
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 152,
+   "part": "B",
+   "unit": "B1",
+   "topic": "chemistry-browning-vegetables",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "காய்கறிகள் மற்றும் பழங்களை வெட்டி வைக்கும் போது பழுப்பு நிறமாக மாறுவதேன்?",
+    "en": "Why vegetables and fruits turn brown on cutting?"
+   },
+   "options": {
+    "A": {
+     "ta": "காற்றிலுள்ள ஆக்ஸிஜன் மற்றும் பீனாலிக் சேர்மம் வினைபுரிவதால்",
+     "en": "Due to the reaction between phenolic compound and oxygen in air"
+    },
+    "B": {
+     "ta": "கனிம வேதிப்பொருட்கள் உருவாகுதால்",
+     "en": "Due to the formation of inorganic compound"
+    },
+    "C": {
+     "ta": "உப்புக்கள் உருவாகதால்",
+     "en": "Due to the formation of salts"
+    },
+    "D": {
+     "ta": "காரங்கள் உருவாகதால்",
+     "en": "Due to the formation of bases"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பழங்கள் மற்றும் காய்கறிகளில் உள்ள பீனாலிக் சேர்மங்கள் காற்றில் உள்ள ஆக்ஸிஜனுடன் வினைபுரிவதால் பழுப்பு நிறமாக மாறுகின்றன.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 153,
+   "part": "B",
+   "unit": "B1",
+   "topic": "biology-biofertilizers",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பின்வருவனவற்றിൽ எது உயிரி-உரம் அல்ல?",
+    "en": "Among the following which one is not a biofertilizer?"
+   },
+   "options": {
+    "A": {
+     "ta": "அனபீனா",
+     "en": "Anabaena"
+    },
+    "B": {
+     "ta": "நாஸ்டாக்",
+     "en": "Nostoc"
+    },
+    "C": {
+     "ta": "லின்டேன்",
+     "en": "Lindane"
+    },
+    "D": {
+     "ta": "ரைசோபியம்",
+     "en": "Rhizobium"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "லின்டேன் என்பது ஒரு பூச்சிக்கொல்லி ஆகும், இது உயிரி-உரம் அல்ல.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 154,
+   "part": "B",
+   "unit": "B1",
+   "topic": "vitamins-and-deficiency-diseases",
+   "format": "STATEMENT",
+   "stem": {
+    "ta": "கீழ்கண்ட கூற்றுகளை கவனி:",
+    "en": "Consider the statements :"
+   },
+   "options": {
+    "A": {
+     "ta": "(a) மற்றும் (b) தவறானவை",
+     "en": "Both (a) and (b) are false"
+    },
+    "B": {
+     "ta": "(a) தவறு மற்றும் (b) சரி",
+     "en": "(a) is false and (b) is true"
+    },
+    "C": {
+     "ta": "(a) சரி மற்றும் (b) தவறு",
+     "en": "(a) is true and (b) is false"
+    },
+    "D": {
+     "ta": "(a) மற்றும் (b) சரியானவை",
+     "en": "Both (a) and (b) are true"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "statements": [
+    {
+     "ta": "இனப்பெருக்கச் செயல் குறைபாடு (மலட்டுத் தன்மை) வைட்டமின் K குறைவினால் ஏற்படுகிறது.",
+     "en": "Sterility is caused by the deficiency of Vitamin K."
+    },
+    {
+     "ta": "மாலைக்கண் நோய் வைட்டமின் D குறைவினால் ஏற்படுகிறது.",
+     "en": "Night blindness is caused by the deficiency of Vitamin D."
+    }
+   ],
+   "explain": {
+    "ta": "இனப்பெருக்கச் செயல் குறைபாடு வைட்டமின் E குறைவினால் ஏற்படுகிறது, மாலைக்கண் நோய் வைட்டமின் A குறைவினால் ஏற்படுகிறது. எனவே இரண்டும் தவறு.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 155,
+   "part": "B",
+   "unit": "B1",
+   "topic": "heart-valves",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "வலது வெண்ட்ரிக்கள்ளிருந்து (இதயக் கீழறை) நுரையீரல் தமனிக்கு இரத்தம் செல்வதை ஒழுங்குபடுத்தும் வால்வின் (அடைப்பான்) பெயர்",
+    "en": "The valve which regulates the blood flow from right ventricle to the pulmonary artery"
+   },
+   "options": {
+    "A": {
+     "ta": "பிறைசந்திர வால்வு",
+     "en": "Semi-lunar valve"
+    },
+    "B": {
+     "ta": "ஆரிக்குலோ வெண்ட்ரிக்கular வால்வு",
+     "en": "Auriculo-ventricular valve"
+    },
+    "C": {
+     "ta": "ஈரிதழ் வால்வு",
+     "en": "Bi Cuspid valve"
+    },
+    "D": {
+     "ta": "மூவிதழ் வால்வு",
+     "en": "Tri Cuspid valve"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "வலது வெண்ட்ரிக்களிலிருந்து நுரையீரல் தமனிக்கு இரத்த ஓட்டத்தை ஒழுங்குபடுத்துவது பிறைசந்திர வால்வு (Semi-lunar valve) ஆகும்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 156,
+   "part": "B",
+   "unit": "B1",
+   "topic": "respiration",
+   "format": "MATCH",
+   "stem": {
+    "ta": "வரிசை I உடன் வரிசை II யை பொருத்துக:",
+    "en": "Match List I and List II :"
+   },
+   "options": {
+    "A": {
+     "ta": "3 4 2 1",
+     "en": "3 4 2 1"
+    },
+    "B": {
+     "ta": "4 3 2 1",
+     "en": "4 3 2 1"
+    },
+    "C": {
+     "ta": "1 3 4 2",
+     "en": "1 3 4 2"
+    },
+    "D": {
+     "ta": "2 4 1 3",
+     "en": "2 4 1 3"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "(a) கிளைக்காலிசிஸ்",
+      "en": "(a) Glycolysis"
+     },
+     {
+      "ta": "(b) கிரெப் சுழற்சி",
+      "en": "(b) Kreb's cycle"
+     },
+     {
+      "ta": "(c) எலக்ட்ரான் கடத்தல் சங்கிலி",
+      "en": "(c) Electron transport chain"
+     },
+     {
+      "ta": "(d) நொதித்தல்",
+      "en": "(d) Fermentation"
+     }
+    ],
+    "right": [
+     {
+      "ta": "1. ஆக்சிஜன் பயன்படுத்தப்படுவதில்லை",
+      "en": "1. $O_2$ is not utilised"
+     },
+     {
+      "ta": "2. ATP-க்கள் உருவாகிறது",
+      "en": "2. ATP are produced"
+     },
+     {
+      "ta": "3. பைருவிக் அமில ஆக்சிஜனேற்றம்",
+      "en": "3. Oxidation of pyruvic acid"
+     },
+     {
+      "ta": "4. சைட்டோபிளாசத்தில் நடைபெற்றது",
+      "en": "4. Occurs in cytoplasm"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "கிளைக்காலிசிஸ் சைட்டோபிளாசத்தில் நடக்கிறது (4); கிரெப் சுழற்சியில் பைருவிக் அமில ஆக்சிஜனேற்றம் (3); எலக்ட்ரான் கடத்தல் சங்கிலியில் ATP உருவாகிறது (2); நொதித்தலில் ஆக்சிஜன் பயன்படுத்தப்படுவதில்லை (1).",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 157,
+   "part": "B",
+   "unit": "B1",
+   "topic": "current-affairs-awards",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "அமெரிக்காவின் கவுரவமிக்க விருதான லெமல்சன்-எம்ஜி (Lemelson-MIT) 5,00,000 டாலர் பரிசு பெற்ற இந்திய வம்சவழி அமெரிக்க விஞ்ஞானி யார்?",
+    "en": "Who among the Indian-born American scientist bagged the prestigious award Lemelson-MIT prize worth 5,00,000 dollars?"
+   },
+   "options": {
+    "A": {
+     "ta": "அஜித் தோவல்",
+     "en": "Ajit Doval"
+    },
+    "B": {
+     "ta": "முகமது நஷீத்",
+     "en": "Mohamed Nasheed"
+    },
+    "C": {
+     "ta": "ரமேஷ் ராஷ்கர்",
+     "en": "Ramesh Raskar"
+    },
+    "D": {
+     "ta": "ஜக்தீஷ் டைட்லர்",
+     "en": "Jagdish Tytler"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ரமேஷ் ராஷ்கர் லெமல்சன்-எம்ஜி விருதைப் பெற்றார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 158,
+   "part": "B",
+   "unit": "B1",
+   "topic": "current-affairs-awards",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "2016 ஆம் ஆண்டிற்கான அறிவியல் ஆராய்ச்சிக்கான GD பிர்லா விருதினை பெற்றவர் யார்?",
+    "en": "Who won the GD Birla Award for Scientific Research for the year 2016?"
+   },
+   "options": {
+    "A": {
+     "ta": "சஞ்சீவ் கிளண்டி",
+     "en": "Sanjeev Galande"
+    },
+    "B": {
+     "ta": "ராகவன் வரதராஜன்",
+     "en": "Raghavan Varadarajan"
+    },
+    "C": {
+     "ta": "ஸ்ரீராம் ராமசாமி",
+     "en": "Sriram Ramasamy"
+    },
+    "D": {
+     "ta": "சஞ்சய் மிட்டல்",
+     "en": "Sanjay Mittal"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "2016 ஆம் ஆண்டிற்கான ஜி.டி. பிர்லா அறிவியல் ஆராய்ச்சி விருதை சஞ்சய் மிட்டல் பெற்றார்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 159,
+   "part": "B",
+   "unit": "B4",
+   "topic": "current-affairs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்திய தலைமை தகவல் ஆணையர் ஆக செப்டம்பர், 2016ல் இருந்தவர் யார்?",
+    "en": "Who is the Chief Information Commissioner of India in September 2016?"
+   },
+   "options": {
+    "A": {
+     "ta": "பி.கே. சின்ஹா",
+     "en": "P.K. Sinha"
+    },
+    "B": {
+     "ta": "ஆர்.கே. நாராயணன்",
+     "en": "R.K. Narayanan"
+    },
+    "C": {
+     "ta": "ஆர்.கே. மாத்தூர்",
+     "en": "R.K. Mathoor"
+    },
+    "D": {
+     "ta": "ஆர்.கே. கௌல்",
+     "en": "R.K. Koul"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஆர்.கே. மாத்தூர் செப்டம்பர் 2016-ல் இந்திய தலைமை தகவல் ஆணையராக இருந்தார்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 160,
+   "part": "B",
+   "unit": "B4",
+   "topic": "current-affairs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"ஆபரேஷன் காம் டவுன்\" என்பது எந்த மாநிலத்துடன் தொடர்பு உடையது?",
+    "en": "\"Operation calm down\" is associated with which state?"
+   },
+   "options": {
+    "A": {
+     "ta": "தமிழ் நாடு",
+     "en": "Tamilnadu"
+    },
+    "B": {
+     "ta": "ஆந்திர பிரதேசம்",
+     "en": "Andhra Pradesh"
+    },
+    "C": {
+     "ta": "ஜம்மு காஷ்மீர்",
+     "en": "Jammu Kashmir"
+    },
+    "D": {
+     "ta": "பீகார்",
+     "en": "Bihar"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஆபரேஷன் காம் டவுன் ஜம்மு காஷ்மீர் மாநிலத்துடன் தொடர்புடையது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 161,
+   "part": "B",
+   "unit": "B1",
+   "topic": "science",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எந்த மின்கலம் வெப்பம் உயரும் போது இணைப்பு துண்டிக்கப்பட்டு, குளிர்ந்த நிலையில் மீண்டும் இயங்கத் தொடங்கும்?",
+    "en": "Name the Battery that shuts down on over heating and restarts when the temperature becomes cool"
+   },
+   "options": {
+    "A": {
+     "ta": "சோடியம் அயனி",
+     "en": "Sodium ion"
+    },
+    "B": {
+     "ta": "லித்தியம் அயனி",
+     "en": "Lithium ion"
+    },
+    "C": {
+     "ta": "கார்பன் அயனி",
+     "en": "Carbon ion"
+    },
+    "D": {
+     "ta": "பொட்டாசியம் அயனி",
+     "en": "Potassium ion"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "லித்தியம் அயனி மின்கலம் வெப்பம் அதிகரிக்கும்போது தானாக நின்றுவிட்டு குளிர்ச்சியடைந்ததும் இயங்கும் திறன் கொண்டது.",
+    "en": "Lithium-ion batteries have thermal shutdown features."
+   }
+  },
+  {
+   "qNo": 162,
+   "part": "B",
+   "unit": "B4",
+   "topic": "current-affairs",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "2016 ஆம் ஆண்டில் ஐக்கிய நாடுகளின் அமைப்பில், பெண்களின் சம உரிமை மற்றும் அவர்களின் முன்னேற்றத்திற்காக, இந்தியாவின் சார்பாக நியமிக்கப்பட்ட தூதர் யார்?",
+    "en": "Name the person who was appointed as the ambassador on behalf of India to work for the cause of gender equality and progress of women in UNO for the year 2016"
+   },
+   "options": {
+    "A": {
+     "ta": "ஐஸ்வர்யா இராய்",
+     "en": "Aishwarya Rai"
+    },
+    "B": {
+     "ta": "பிரியங்கா சோப்ரா",
+     "en": "Priyanka Chopra"
+    },
+    "C": {
+     "ta": "ஐஸ்வர்யா தனுஷ்",
+     "en": "Aishwarya Dhanush"
+    },
+    "D": {
+     "ta": "சானியா மிர்ஸா",
+     "en": "Sania Mirza"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "2016 இல் ஐ.நா.வின் பெண் சம உரிமைக்கான இந்தியாவின் தூதராக ஐஸ்வர்யா தனுஷ் நியமிக்கப்பட்டார்.",
+    "en": "Aishwarya Dhanush was appointed as UN Goodwill Ambassador for gender equality in 2016."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 163,
+   "part": "B",
+   "unit": "B5",
+   "topic": "government-schemes",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "கங்கை நதியை தூய்மைப்படுத்தும் திட்டத்தின் பெயர் என்ன?",
+    "en": "What is the name of Ganga river cleaning scheme?"
+   },
+   "options": {
+    "A": {
+     "ta": "நமாமி கங்கா திட்டம்",
+     "en": "Namami Ganga scheme"
+    },
+    "B": {
+     "ta": "பூர்வா கங்கா திட்டம்",
+     "en": "Poorva Ganga scheme"
+    },
+    "C": {
+     "ta": "அபூர்வா கங்கா திட்டம்",
+     "en": "Apoorva Ganga scheme"
+    },
+    "D": {
+     "ta": "கங்கா யமுனா திட்டம்",
+     "en": "Ganga Yamuna scheme"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கங்கை நதியைத் தூய்மைப்படுத்த மத்திய அரசு 'நமாமி கங்கா' திட்டத்தை செயல்படுத்தியுள்ளது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 164,
+   "part": "B",
+   "unit": "B1",
+   "topic": "space-research",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எந்த ராக்கெட் மூலம், விண்வெளி ஆராய்ச்சிக்காக INSAT-3DR-யை, கடந்த 8, செப்டம்பர், 2016 அன்று விண்வெளிக்கு அனுப்பப்பட்டது?",
+    "en": "The INSAT-3DR was launched through rocket for Metereological Research on 8th September, 2016 by which rocket?"
+   },
+   "options": {
+    "A": {
+     "ta": "GSLV-F05",
+     "en": "GSLV-F05"
+    },
+    "B": {
+     "ta": "PSLV-4",
+     "en": "PSLV-4"
+    },
+    "C": {
+     "ta": "அரியான்",
+     "en": "Arianne"
+    },
+    "D": {
+     "ta": "GSLV-3",
+     "en": "GSLV-3"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "INSAT-3DR விண்கலம் GSLV-F05 ராக்கெட் மூலம் வெற்றிகரமாக விண்ணில் செலுத்தப்பட்டது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 165,
+   "part": "B",
+   "unit": "B5",
+   "topic": "sports",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பாட்மிண்டன் விளையாட்டுக்காக 2016 ஆம் ஆண்டின் ராஜீவ் காந்தி கேள் ரத்னா விருதை பெற்றவர்?",
+    "en": "Who won the Rajiv Gandhi Khel Rathna Award for Badminton in the year 2016?"
+   },
+   "options": {
+    "A": {
+     "ta": "சாக்க்ஷி மாலிக்",
+     "en": "Sakshi Malik"
+    },
+    "B": {
+     "ta": "மேரி கோம்",
+     "en": "Mary Kom"
+    },
+    "C": {
+     "ta": "பிரதீப் குமார்",
+     "en": "Pradeep Kumar"
+    },
+    "D": {
+     "ta": "பி.வி. சிந்து",
+     "en": "P.V. Sindhu"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "2016 ஆம் ஆண்டு பாட்மிண்டன் விளையாட்டுக்காக ராஜீவ் காந்தி கேள் ரத்னா விருதைப் பெற்றவர் பி.வி. சிந்து ஆவார்.",
+    "en": "P.V. Sindhu won the Rajiv Gandhi Khel Ratna award in 2016 for her achievements in badminton."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 166,
+   "part": "B",
+   "unit": "B5",
+   "topic": "international-days",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "எந்த வருடத்தை சர்வதேச பருப்பு வருடமாக ஐ.நா. அமைப்பு அறிவித்தது?",
+    "en": "Which year has been declared by UNO as the \"International Year of Pulses\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "2012",
+     "en": "2012"
+    },
+    "B": {
+     "ta": "2013",
+     "en": "2013"
+    },
+    "C": {
+     "ta": "2016",
+     "en": "2016"
+    },
+    "D": {
+     "ta": "2015",
+     "en": "2015"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "ஐக்கிய நாடுகள் சபை 2016 ஆம் ஆண்டை சர்வதேச பருப்பு வருடமாக அறிவித்தது.",
+    "en": "The United Nations General Assembly declared 2016 as the International Year of Pulses."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 167,
+   "part": "B",
+   "unit": "B4",
+   "topic": "indian-polity",
+   "format": "MATCH",
+   "stem": {
+    "ta": "பொருத்துக :",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "1 4 3 2",
+     "en": "1 4 3 2"
+    },
+    "B": {
+     "ta": "2 3 4 1",
+     "en": "2 3 4 1"
+    },
+    "C": {
+     "ta": "4 2 3 1",
+     "en": "4 2 3 1"
+    },
+    "D": {
+     "ta": "2 1 4 3",
+     "en": "2 1 4 3"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "ராஜ் பவன்",
+      "en": "Raj Bhavan"
+     },
+     {
+      "ta": "ராஷ்டிரபதி பவன்",
+      "en": "Rastrapathy Bhavan"
+     },
+     {
+      "ta": "இராஜதுரோக விசாரணை",
+      "en": "Impeachment"
+     },
+     {
+      "ta": "துணைநிலை ஆளுநர்",
+      "en": "Lt. Governor"
+     }
+    ],
+    "right": [
+     {
+      "ta": "ஜனாதிபதி",
+      "en": "President"
+     },
+     {
+      "ta": "ஆளுநர்",
+      "en": "Governor"
+     },
+     {
+      "ta": "யூனியன் பிரதேசங்கள்",
+      "en": "Union Territories"
+     },
+     {
+      "ta": "அரசியலமைப்பு மீறல்",
+      "en": "Violation of the Constitution"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "ராஜ் பவன் - ஆளுநர் (2), ராஷ்டிரபதி பவன் - ஜனாதிபதி (1), இராஜதுரோக விசாரணை - அரசியலமைப்பு மீறல் (4), துணைநிலை ஆளுநர் - யூனியன் பிரதேசங்கள் (3).",
+    "en": "Raj Bhavan - Governor (2), Rashtrapathy Bhavan - President (1), Impeachment - Violation of the Constitution (4), Lt. Governor - Union Territories (3)."
+   }
+  },
+  {
+   "qNo": 168,
+   "part": "B",
+   "unit": "B4",
+   "topic": "election-process",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மாநில அளவில் தேர்தல் நடைமுறையை மேற்பார்வையிடுபவர்",
+    "en": "The election process at the state level is supervised by"
+   },
+   "options": {
+    "A": {
+     "ta": "தலைமை தேர்தல் ஆணையர்",
+     "en": "Chief Election Commissioner"
+    },
+    "B": {
+     "ta": "உச்சநீதிமன்ற நீதிபதி",
+     "en": "Supreme Court Judge"
+    },
+    "C": {
+     "ta": "தலைமை தேர்தல் அதிகாரி",
+     "en": "Chief Electoral Officer"
+    },
+    "D": {
+     "ta": "உயர்நீதிமன்ற நீதிபதி",
+     "en": "High Court Judge"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மாநில அளவில் தேர்தல் நடைமுறையை தலைமை தேர்தல் அதிகாரி மேற்பார்வையிடுகிறார்.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 169,
+   "part": "B",
+   "unit": "B4",
+   "topic": "indian-constitution",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சரியான வாக்கியத்தை கண்டுபிடி.\nஇந்திய அரசியலமைப்பு ---------------- கொண்டுள்ளது.",
+    "en": "Find out the correct statement.\nThe Indian Constitution contains"
+   },
+   "options": {
+    "A": {
+     "ta": "XXII பாகங்கள், 449 சரத்துகள் மற்றும் 12 அட்டவணைகள்",
+     "en": "XXII parts, 449 Articles and 12 Schedules"
+    },
+    "B": {
+     "ta": "XXI பாகங்கள், 438 சரத்துகள் மற்றும் 8 அட்டவணைகள்",
+     "en": "XXI parts, 438 Articles and 8 Schedules"
+    },
+    "C": {
+     "ta": "XXIII பாகங்கள், 469 சரத்துகள் மற்றும் 21 அட்டவணைகள்",
+     "en": "XXIII parts, 469 Articles and 21 Schedules"
+    },
+    "D": {
+     "ta": "XX பாகங்கள், 428 சரத்துகள் மற்றும் 18 அட்டவணைகள்",
+     "en": "XX parts, 428 Articles and 18 Schedules"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்பு XXII பாகங்கள், 449 சரத்துகள் மற்றும் 12 அட்டவணைகளைக் கொண்டுள்ளது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 170,
+   "part": "B",
+   "unit": "B3",
+   "topic": "incorrect-match",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பின்வருவனவற்றுள் பொருந்தாதது எது?",
+    "en": "Which of the following is incorrectly matched?"
+   },
+   "options": {
+    "A": {
+     "ta": "காந்தியடிகள் படுகொலை - ஜனவரி 30, 1948",
+     "en": "Assassination of Gandhiji - January 30, 1948"
+    },
+    "B": {
+     "ta": "குடியரசு தினம் - ஜனவரி 26, 1950",
+     "en": "Republic Day - January 26, 1950"
+    },
+    "C": {
+     "ta": "சுதந்திர தினம் - ஆகஸ்டு 15, 1947",
+     "en": "Independence day - August 15, 1947"
+    },
+    "D": {
+     "ta": "தேசிய கீதத்தை அரசியல் நிர்ணய சபை ஏற்றுக்கொண்டதல் - ஜனவரி 23, 1950",
+     "en": "Constituent Assembly adopted National Anthem - January 23, 1950"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "தேசிய கீதம் ஜனவரி 24, 1950 அன்று ஏற்றுக்கொள்ளப்பட்டது; எனவே ஜனவரி 23, 1950 என்பது தவறாகப் பொருந்தியுள்ளது.",
+    "en": "The National Anthem was adopted on January 24, 1950, making option D incorrectly matched."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 171,
+   "part": "B",
+   "unit": "B4",
+   "topic": "correct-match",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "பின்வருவனவற்றுள் எது சரியாகப் பொருந்தியுள்ளது?",
+    "en": "Which of the following is correctly matched?"
+   },
+   "options": {
+    "A": {
+     "ta": "குடியரசுத் தலைவர் - அரசியலமைப்பின் பாதுகாவலர்",
+     "en": "The President - Guardian of our Constitution"
+    },
+    "B": {
+     "ta": "முதலமைச்சர் - ஆளுநரால் நியமிக்கப்படுகிறார்",
+     "en": "The Chief Minister - Appointed by the Governor"
+    },
+    "C": {
+     "ta": "உச்சநீதிமன்றம் - சிறப்பான அடையாளங்கள்",
+     "en": "Supreme Court - Unique Identification"
+    },
+    "D": {
+     "ta": "தேசிய கீதம் - பக்கிம் சந்திர சட்டர்ஜி",
+     "en": "National Anthem - Bankim Chandra Chatterjee"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மாநில முதலமைச்சர் ஆளுநரால் நியமிக்கப்படுகிறார் என்பது சரியான கூற்றாகும்.",
+    "en": "The Chief Minister is appointed by the Governor, which is correctly matched."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 172,
+   "part": "B",
+   "unit": "B5",
+   "topic": "consumer-rights",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "நுகர்வோர் நீதிமன்றங்கள் ——— அடுக்குகளாக அமைக்கப்பட்டுள்ளன.",
+    "en": "Consumer Courts are set up in ——— tier system."
+   },
+   "options": {
+    "A": {
+     "ta": "2",
+     "en": "Two"
+    },
+    "B": {
+     "ta": "3",
+     "en": "Three"
+    },
+    "C": {
+     "ta": "4",
+     "en": "Four"
+    },
+    "D": {
+     "ta": "5",
+     "en": "Five"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நுகர்வோர் நீதிமன்றங்கள் மூன்று அடுக்குகளாக (மாவட்ட, மாநில, தேசிய) அமைக்கப்பட்டுள்ளன.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 173,
+   "part": "B",
+   "unit": "B6",
+   "topic": "tamil-nadu-history",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "தலைக்கோட்டைப் போரில் விஜயநகர மன்னனுக்கு உதவி செய்த தஞ்சை மன்னன்",
+    "en": "The Tanjore king who helped Vijayanagar king in the battle of Thalaikottai was"
+   },
+   "options": {
+    "A": {
+     "ta": "சேவப்ப நாயக்கர்",
+     "en": "Sevappa Nayak"
+    },
+    "B": {
+     "ta": "அச்சுதப்ப நாயக்கர்",
+     "en": "Achutappa Nayak"
+    },
+    "C": {
+     "ta": "இரகுநாத நாயக்கர்",
+     "en": "Ragunatha Nayak"
+    },
+    "D": {
+     "ta": "சரபோஜி மன்னர்",
+     "en": "King Sarfoji"
+    }
+   },
+   "answer": "B",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "தலைக்கோட்டைப் போரில் விஜயநகர மன்னனுக்கு தஞ்சை மன்னர் அச்சுதப்ப நாயக்கர் உதவி செய்தார்.",
+    "en": ""
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 174,
+   "part": "B",
+   "unit": "B3",
+   "topic": "samudragupta-inscription",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சமுத்திரகுப்தர் படையெடுப்பு, வெற்றிகளைப் பற்றி எந்த கல்வெட்டு விரிவாகக் குறிப்பிடுகிறது?",
+    "en": "Which of these describes the conquest and victories of Samudra Gupta?"
+   },
+   "options": {
+    "A": {
+     "ta": "உத்திரமேரூர் கல்வெட்டு",
+     "en": "Uthiramerur inscription"
+    },
+    "B": {
+     "ta": "அலகாபாத் தூண் கல்வெட்டு",
+     "en": "Allahabad Pillar inscription"
+    },
+    "C": {
+     "ta": "ஐஹோலே கல்வெட்டு",
+     "en": "Ihola inscription"
+    },
+    "D": {
+     "ta": "அசோகரின் கல்வெட்டு",
+     "en": "Ashokas inscription"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "அலகாபாத் தூண் கல்வெட்டு ஹரிசேணரால் எழுதப்பட்டது மற்றும் இது சமுத்திரகுப்தரின் வெற்றிகளை விவரிக்கிறது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 175,
+   "part": "B",
+   "unit": "B3",
+   "topic": "delhi-sultanate",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "டெல்லி சுல்தானியத்தின் கடைசி அரசர் யார்?",
+    "en": "Who was the last Sultan of Delhi Sulthanate?"
+   },
+   "options": {
+    "A": {
+     "ta": "இப்ராஹிம் லோடி",
+     "en": "Ibrahim Lodi"
+    },
+    "B": {
+     "ta": "சிக்கந்தர் லோடி",
+     "en": "Sikkandar Lodi"
+    },
+    "C": {
+     "ta": "இப்ராஹிம் அலி",
+     "en": "Ibrahim Ali"
+    },
+    "D": {
+     "ta": "தெலலத் கான் லோடி",
+     "en": "Dowlath Khan Lodi"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "முதலாம் பானிபட் போரில் பாபரால் தோற்கடிக்கப்பட்ட இப்ராஹிம் லோடி டெல்லி சுல்தானியத்தின் கடைசி சுல்தான் ஆவார்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 176,
+   "part": "B",
+   "unit": "B3",
+   "topic": "gupta-empire",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "நாளந்தாப் பல்கலைக் கழகத்தை நிறுவியவர் யார்?",
+    "en": "Who built the Nalanda university?"
+   },
+   "options": {
+    "A": {
+     "ta": "குமார குப்தர்",
+     "en": "Kumara Gupta"
+    },
+    "B": {
+     "ta": "ஸ்ரீ குப்தர்",
+     "en": "Shri Gupta"
+    },
+    "C": {
+     "ta": "சந்திர குப்தர்",
+     "en": "Chandra Gupta"
+    },
+    "D": {
+     "ta": "சமுத்திர குப்தர்",
+     "en": "Samudra Gupta"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நாளந்தா பல்கலைக்கழகத்தை குமார குப்தர் நிறுவினார்.",
+    "en": "Kumara Gupta I founded the Nalanda University."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 177,
+   "part": "B",
+   "unit": "B2",
+   "topic": "geomorphology",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "குதிரை குளம்பு ஏரி உருவாகும் பகுதி",
+    "en": "Ox-bow lakes are formed in the"
+   },
+   "options": {
+    "A": {
+     "ta": "பள்ளத்தாக்கு பகுதி",
+     "en": "Valley region"
+    },
+    "B": {
+     "ta": "மலைப் பகுதி",
+     "en": "Mountain region"
+    },
+    "C": {
+     "ta": "சமவெளிப் பகுதி",
+     "en": "Plain region"
+    },
+    "D": {
+     "ta": "டெல்டா பகுதி",
+     "en": "Delta region"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "குதிரை குளம்பு ஏரிகள் சமவெளிப் பகுதியில் ஆறுகளின் மூலம் உருவாகின்றன.",
+    "en": "Ox-bow lakes are typically formed in plain regions by meandering rivers."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 178,
+   "part": "B",
+   "unit": "B2",
+   "topic": "national-highways",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மிக்ககுறைந்த நீளமுடைய தேசிய நெடுஞ்சாலை",
+    "en": "The shortest National Highway is"
+   },
+   "options": {
+    "A": {
+     "ta": "NH 48",
+     "en": "NH 48"
+    },
+    "B": {
+     "ta": "NH 9",
+     "en": "NH 9"
+    },
+    "C": {
+     "ta": "NH 45 A",
+     "en": "NH 45 A"
+    },
+    "D": {
+     "ta": "NH 47 A",
+     "en": "NH 47 A"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "NH 47A இந்தியாவின் மிகக் குறைந்த நீளமுடைய தேசிய நெடுஞ்சாலைகளில் ஒன்றாகும்.",
+    "en": "NH 47A is one of the shortest National Highways in India."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 179,
+   "part": "B",
+   "unit": "B5",
+   "topic": "agricultural-revolutions",
+   "format": "MATCH",
+   "stem": {
+    "ta": "கீழ்க்கண்டவற்றை பொருத்துக:",
+    "en": "Match the following :"
+   },
+   "options": {
+    "A": {
+     "ta": "2 4 1 3",
+     "en": "2 4 1 3"
+    },
+    "B": {
+     "ta": "4 2 3 1",
+     "en": "4 2 3 1"
+    },
+    "C": {
+     "ta": "3 1 4 2",
+     "en": "3 1 4 2"
+    },
+    "D": {
+     "ta": "2 1 4 3",
+     "en": "2 1 4 3"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "matchTable": {
+    "left": [
+     {
+      "ta": "சாம்பல் புரட்சி",
+      "en": "Grey revolution"
+     },
+     {
+      "ta": "பொன் புரட்சி",
+      "en": "Golden revolution"
+     },
+     {
+      "ta": "மஞ்சள் புரட்சி",
+      "en": "Yellow revolution"
+     },
+     {
+      "ta": "நீலப்புரட்சி",
+      "en": "Blue revolution"
+     }
+    ],
+    "right": [
+     {
+      "ta": "எண்ணெய் வித்துக்கள்",
+      "en": "Oil seeds"
+     },
+     {
+      "ta": "முட்டை மற்றும் கோழிப்பண்ணை",
+      "en": "Eggs and poultry"
+     },
+     {
+      "ta": "கடல் பொருட்கள்",
+      "en": "Marine products"
+     },
+     {
+      "ta": "பழங்கள் உற்பத்தி",
+      "en": "Horticulture"
+     }
+    ]
+   },
+   "explain": {
+    "ta": "சாம்பல் புரட்சி - முட்டை/கோழிப்பண்ணை, பொன் புரட்சி - பழங்கள்/தோட்டக்கலை, மஞ்சள் புரட்சி - எண்ணெய் வித்துக்கள், நீலப்புரட்சி - கடல் பொருட்கள்.",
+    "en": "Grey - Eggs/poultry, Golden - Horticulture, Yellow - Oil seeds, Blue - Marine products."
+   }
+  },
+  {
+   "qNo": 180,
+   "part": "B",
+   "unit": "B6",
+   "topic": "social-reformers",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "'சத்யமேவ ஜெயதே' என்ற அரசுக் குறிக்கோளை தமிழில் வாய்மையே வெல்லும் என்று மாற்றியவர்",
+    "en": "National motto “Satyameva Jayate” hence forth appears as “Vaimaye Vellum” in Tamil was announced by"
+   },
+   "options": {
+    "A": {
+     "ta": "அரவிந்த் கோஷ்",
+     "en": "Arabind Ghosh"
+    },
+    "B": {
+     "ta": "பெ பெரியார்",
+     "en": "Periyar"
+    },
+    "C": {
+     "ta": "காமராசர்",
+     "en": "Kamaraj"
+    },
+    "D": {
+     "ta": "அண்ணாதுரை",
+     "en": "Annadurai"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "அண்ணாதுரை அவர்கள் முதலமைச்சராக இருந்தபோது 'சத்யமேவ ஜெயதே' என்பதை 'வாய்மையே வெல்லும்' என மாற்றினார்.",
+    "en": "C.N. Annadurai changed 'Satyameva Jayate' to 'Vaimaye Vellum'."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 181,
+   "part": "B",
+   "unit": "B3",
+   "topic": "national-leaders",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "Dr. B.R. அம்பேத்கர் எந்த ஊரில் பிறந்தார்?",
+    "en": "Where was Dr. B.R. Ambedkar born?"
+   },
+   "options": {
+    "A": {
+     "ta": "மகவு",
+     "en": "Mhow"
+    },
+    "B": {
+     "ta": "மக்காவு",
+     "en": "Makkavu"
+    },
+    "C": {
+     "ta": "சரযু",
+     "en": "Sarayu"
+    },
+    "D": {
+     "ta": "லக்னோ",
+     "en": "Lucknow"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "Dr. B.R. அம்பேத்கர் மத்திய பிரதேசத்திலுள்ள மோவ் (Mhow) என்னுமிடத்தில் பிறந்தார்.",
+    "en": "Dr. B.R. Ambedkar was born in Mhow."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 182,
+   "part": "B",
+   "unit": "B3",
+   "topic": "freedom-struggle",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "வ.உ.சி. சிறைத் தண்டனை எத்தனை ஆண்டுகள் பெற்றார்?",
+    "en": "How many years V.O.C. was sentenced to imprisonment?"
+   },
+   "options": {
+    "A": {
+     "ta": "30",
+     "en": "30"
+    },
+    "B": {
+     "ta": "35",
+     "en": "35"
+    },
+    "C": {
+     "ta": "40",
+     "en": "40"
+    },
+    "D": {
+     "ta": "34",
+     "en": "34"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "வ.உ.சிதம்பரனாருக்கு இரட்டை தீவுக்காவல் தண்டனையாக 40 ஆண்டுகள் சிறை தண்டனை விதிக்கப்பட்டது.",
+    "en": "V.O.C. was sentenced to 40 years of imprisonment."
+   }
+  },
+  {
+   "qNo": 183,
+   "part": "B",
+   "unit": "B3",
+   "topic": "nehru-quote",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"நம் வாழ்வில் ஒளி மறைந்து எங்கும் இருள் சூழ்ந்து விட்டது\" எனக் கூறியவர் யார்?",
+    "en": "\"The light has gone out of our lives and there is darkness everywhere\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "வல்லபாய் படேல்",
+     "en": "Vallabai Patel"
+    },
+    "B": {
+     "ta": "Dr. ராஜேந்திர பிரசாத்",
+     "en": "Dr. Rajendra Prasad"
+    },
+    "C": {
+     "ta": "மவுண்ட் பேட்டன்",
+     "en": "Mount Batten"
+    },
+    "D": {
+     "ta": "ஜவஹர்லால் நேரு",
+     "en": "Jawaharlal Nehru"
+    }
+   },
+   "answer": "D",
+   "keySource": "TENTATIVE_TICK",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மகாத்மா காந்தியின் மறைவின்போது ஜவஹர்லால் நேரு இக்கூற்றைக் கூறினார்.",
+    "en": "Jawaharlal Nehru made this remark on the assassination of Mahatma Gandhi."
+   },
+   "deleted": true
+  },
+  {
+   "qNo": 184,
+   "part": "B",
+   "unit": "B3",
+   "topic": "inc-first-session-president",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மும்பையில் நடைபெற்ற இந்திய தேசிய காங்கிரசின் முதல் கூட்டத்திற்கு தலைமை வகித்தவர் யார்?",
+    "en": "Who chaired the first session of the Indian National Congress held at Bombay?"
+   },
+   "options": {
+    "A": {
+     "ta": "மதன் மோகன் மாளவியா",
+     "en": "Madan Mohan Malavya"
+    },
+    "B": {
+     "ta": "W.C. பானர்ஜி",
+     "en": "W.C. Banerjee"
+    },
+    "C": {
+     "ta": "பெரோஷா மேத்தா",
+     "en": "Pherozeshah Mehta"
+    },
+    "D": {
+     "ta": "சுரேந்திரநாத் பானர்ஜி",
+     "en": "Surendranath Banerjee"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "W.C. பானர்ஜி (உமேஷ் சந்திர பானர்ஜி) இந்திய தேசிய காங்கிரஸின் முதல் மாநாட்டுத் தலைவர் ஆவார்.",
+    "en": "W.C. Banerjee presided over the first session of the INC."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 185,
+   "part": "B",
+   "unit": "B5",
+   "topic": "agriculture",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "இந்தியா உணவு உற்பத்தியில் தன்னிறைவு அடைவதற்கு காரணமான நிறுவனம்",
+    "en": "In India the organisation which was responsible for self-sufficiency in food production was"
+   },
+   "options": {
+    "A": {
+     "ta": "இந்திய அறிவியல் மற்றும் தொழில்நுட்ப ஆராய்ச்சி நிறுவனம் (CSIR)",
+     "en": "CSIR"
+    },
+    "B": {
+     "ta": "இந்திய வேளாண் ஆராய்ச்சி நிறுவனம் (ICAR)",
+     "en": "ICAR"
+    },
+    "C": {
+     "ta": "இந்திய விண்வெளி ஆராய்ச்சி நிறுவனம் (ISRO)",
+     "en": "ISRO"
+    },
+    "D": {
+     "ta": "இந்திய மருத்துவ ஆராய்ச்சி நிறுவனம் (ICMR)",
+     "en": "ICMR"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "இந்திய வேளாண் ஆராய்ச்சி நிறுவனம் (ICAR) வேளாண்மை மற்றும் உணவு உற்பத்தியில் முக்கிய பங்கு வகிக்கிறது.",
+    "en": "ICAR (Indian Council of Agricultural Research) plays a vital role in agricultural research and food production."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 186,
+   "part": "B",
+   "unit": "B5",
+   "topic": "population",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "மக்கள் தொகை இவ்விகிதத்தில் அதிகரிக்கிறது என்று ராபர்ட் மால்டஸ் கூறியது",
+    "en": "As explained by Robert Malthus, Population increases in the"
+   },
+   "options": {
+    "A": {
+     "ta": "விகிதாச்சார விகிதத்தில்",
+     "en": "Proportionate ratio"
+    },
+    "B": {
+     "ta": "பெருக்கல் விகிதத்தில்",
+     "en": "Geometric ratio"
+    },
+    "C": {
+     "ta": "கூட்டு விகிதத்தில்",
+     "en": "Arithmetic ratio"
+    },
+    "D": {
+     "ta": "சிறு விகிதத்தில்",
+     "en": "Smaller ratio"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மால்டஸ் மக்கள் கொள்கையின்படி மக்கள் தொகை பெருக்கல் விகிதத்தில் அதிகரிக்கிறது.",
+    "en": "Malthusian theory states that population grows at a geometric rate while food supply grows at an arithmetic rate."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 187,
+   "part": "B",
+   "unit": "B5",
+   "topic": "five-year-plans",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "1966 – 69 ஆண்டுகளுக்கு (ஆண்டு திட்டங்கள்) பின் நடைமுறைப்படுத்தப்பட்ட ஐந்தாண்டு திட்டம் எது?",
+    "en": "Which plan was implemented after the Annual Plans of 1966 – 69?"
+   },
+   "options": {
+    "A": {
+     "ta": "இரண்டாம் ஐந்தாண்டு திட்டம்",
+     "en": "Second Five Year Plan"
+    },
+    "B": {
+     "ta": "ஐந்தாம் ஐந்தாண்டு திட்டம்",
+     "en": "Fifth Five Year Plan"
+    },
+    "C": {
+     "ta": "மூன்றாம் ஐந்தாண்டு திட்டம்",
+     "en": "Third Five Year Plan"
+    },
+    "D": {
+     "ta": "நான்காம் ஐந்தாண்டு திட்டம்",
+     "en": "Fourth Five Year Plan"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "1966-69 ஆண்டு திட்டங்களுக்குப் பிறகு நான்காம் ஐந்தாண்டு திட்டம் நடைமுறைப்படுத்தப்பட்டது.",
+    "en": "After the three Annual Plans (1966–1969), the Fourth Five Year Plan was implemented from 1969 to 1974."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 188,
+   "part": "B",
+   "unit": "B6",
+   "topic": "bachpan-bachao-andolan",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"பாச்பான் பச்சோவ் அந்தோலன்\" என்ற அமைப்பு கீழ்கண்டவற்றுள் எதற்காக செயல்படுகிறது?",
+    "en": "\"Bachpan Bachao Andolan\" is an organisation that fights against"
+   },
+   "options": {
+    "A": {
+     "ta": "குழந்தை தொழிலாளி",
+     "en": "Child labour"
+    },
+    "B": {
+     "ta": "கொத்தடிமை",
+     "en": "Bonded labour"
+    },
+    "C": {
+     "ta": "பாலிய விவாகம்",
+     "en": "Child marriage"
+    },
+    "D": {
+     "ta": "வறுமை ஒழிப்பு",
+     "en": "Poverty"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பாச்பான் பச்சோவ் அந்தோலன் என்பது குழந்தை தொழிலாளர் முறைக்கு எதிரான இயக்கமாகும்.",
+    "en": "Bachpan Bachao Andolan (Save the Childhood Movement) is a movement in India campaigning against child labour and for child rights."
+   }
+  },
+  {
+   "qNo": 189,
+   "part": "C",
+   "unit": "C1",
+   "topic": "mensuration",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு முக்கோணத்தின் அடிப்பக்கம், உயரத்தின் 4 மடங்குக்கு சமம் மற்றும் அதன் பரப்பளவு 50 மீ² எனில் அதன் அடிப்பக்க அளவு",
+    "en": "The base of a triangle is four times its height and its area is 50 m². The length of the base is"
+   },
+   "options": {
+    "A": {
+     "ta": "10 மீ",
+     "en": "10 m"
+    },
+    "B": {
+     "ta": "15 மீ",
+     "en": "15 m"
+    },
+    "C": {
+     "ta": "20 மீ",
+     "en": "20 m"
+    },
+    "D": {
+     "ta": "25 மீ",
+     "en": "25 m"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பரப்பளவு = 1/2 * b * h = 50. b = 4h எனில் 1/2 * 4h * h = 50 => 2h^2 = 50 => h = 5. எனவே அடிப்பக்கம் b = 4 * 5 = 20 மீ.",
+    "en": "Area = 1/2 * b * h = 50. Given b = 4h, so 1/2 * 4h * h = 50 => 2h^2 = 50 => h = 5. Therefore base b = 20 m."
+   },
+   "keyChanged": true,
+   "acceptedAnswers": [
+    "B",
+    "C"
+   ]
+  },
+  {
+   "qNo": 190,
+   "part": "C",
+   "unit": "C1",
+   "topic": "time-and-work",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "A ஒரு வேலையை 20 நாட்களிலும், B அதை 25 நாட்களிலும் செய்து முடிப்பர். இருவரும் சேர்ந்து அவ்வேலையைச் செய்து ரூ. 3,600-ஐ ஈட்டினால் அத்தொகையில் A-ன் பங்கு",
+    "en": "A can do a piece of work in 20 days and B can do it in 25 days. Both of them finished the work and earned Rs. 3,600. Then A's share is"
+   },
+   "options": {
+    "A": {
+     "ta": "ரூ. 1,600",
+     "en": "Rs. 1,600"
+    },
+    "B": {
+     "ta": "ரூ. 2,000",
+     "en": "Rs. 2,000"
+    },
+    "C": {
+     "ta": "ரூ. 3,000",
+     "en": "Rs. 3,000"
+    },
+    "D": {
+     "ta": "ரூ. 3,100",
+     "en": "Rs. 3,100"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "A மற்றும் B இன் ஒரு நாள் வேலை விகிதம் 1/20 : 1/25 = 5:4. A-ன் பங்கு = 3600 * (5/9) = ரூ. 2,000.",
+    "en": "Ratio of 1-day work of A and B is 5:4. A's share = 3600 * (5/9) = Rs. 2,000."
+   }
+  },
+  {
+   "qNo": 191,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simplification",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$(\\frac{7}{12})^{-4} \\times (\\frac{7}{12})^{3x} = (\\frac{7}{12})^5$ எனில் x-ன் மதிப்பு",
+    "en": "If $(\\frac{7}{12})^{-4} \\times (\\frac{7}{12})^{3x} = (\\frac{7}{12})^5$; then the value of x is"
+   },
+   "options": {
+    "A": {
+     "ta": "-1",
+     "en": "-1"
+    },
+    "B": {
+     "ta": "1",
+     "en": "1"
+    },
+    "C": {
+     "ta": "2",
+     "en": "2"
+    },
+    "D": {
+     "ta": "3",
+     "en": "3"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "அடிமானங்கள் சமம் என்பதால் அடுக்குகளை கூட்டுக: -4 + 3x = 5 => 3x = 9 => x = 3.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 192,
+   "part": "C",
+   "unit": "C1",
+   "topic": "time-and-work",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "22 ஆட்கள் 10 நாட்களில் 110 மீ நீளமுள்ள சுவரை கட்டி முடித்தால், 30 ஆட்கள் 6 நாட்களில் கட்டி முடிக்கும் சுவரின் நீளம்",
+    "en": "If 22 men can build a wall of 110 meters in 10 days. The length of a similar wall built by 30 men in 6 days is"
+   },
+   "options": {
+    "A": {
+     "ta": "100 மீ",
+     "en": "100 mts"
+    },
+    "B": {
+     "ta": "90 மீ",
+     "en": "90 mts"
+    },
+    "C": {
+     "ta": "80 மீ",
+     "en": "80 mts"
+    },
+    "D": {
+     "ta": "70 மீ",
+     "en": "70 mts"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "(M1 * D1) / W1 = (M2 * D2) / W2 => (22 * 10) / 110 = (30 * 6) / x => 220 / 110 = 180 / x => 2 = 180 / x => x = 90 மீ.",
+    "en": ""
+   }
+  },
+  {
+   "qNo": 193,
+   "part": "C",
+   "unit": "C1",
+   "topic": "ratio",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு செவ்வகத்தின் நீள அகலங்களின் விகிதம் 4 : 7 ஆகும். அகலம் 77 செ.மீ எனில் அதன் நீளத்தைக் காண்க",
+    "en": "If the ratio of length and breadth of a rectangle is 4 : 7. Find the length while its breadth is 77 cm."
+   },
+   "options": {
+    "A": {
+     "ta": "22 செ.மீ",
+     "en": "22 cm"
+    },
+    "B": {
+     "ta": "33 செ.மீ",
+     "en": "33 cm"
+    },
+    "C": {
+     "ta": "44 செ.மீ",
+     "en": "44 cm"
+    },
+    "D": {
+     "ta": "55 செ.மீ",
+     "en": "55 cm"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நீளம் : அகலம் = 4 : 7. அகலம் 77 எனில், நீளம் = (4/7) * 77 = 4 * 11 = 44 செ.மீ.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 194,
+   "part": "C",
+   "unit": "C1",
+   "topic": "area",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு அறையானது 5 மீ 40 செ.மீ நீளமும் மற்றும் 4 மீ 50 செ.மீ அகலமும் கொண்டுள்ளவை எனில் அதன் பரப்பளவு",
+    "en": "A room is 5 m 40 cm long and 4 m 50 cm broad. Its Area is"
+   },
+   "options": {
+    "A": {
+     "ta": "23.4 மீ²",
+     "en": "23.4 m²"
+    },
+    "B": {
+     "ta": "24.3 மீ²",
+     "en": "24.3 m²"
+    },
+    "C": {
+     "ta": "25 மீ²",
+     "en": "25 m²"
+    },
+    "D": {
+     "ta": "98.01 மீ²",
+     "en": "98.01 m²"
+    }
+   },
+   "answer": "A",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "நீளம் = 5.4 மீ, அகலம் = 4.5 மீ. பரப்பளவு = 5.4 * 4.5 = 24.3 சதுர மீட்டர்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 195,
+   "part": "C",
+   "unit": "C1",
+   "topic": "simplification",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "சுருக்குக\n$5\\frac{1}{4} + 4\\frac{3}{4} + 7\\frac{5}{8} + 6\\frac{7}{8} \\div 11\\frac{3}{4}$",
+    "en": "Simplify\n$5\\frac{1}{4} + 4\\frac{3}{4} + 7\\frac{5}{8} + 6\\frac{7}{8} \\div 11\\frac{3}{4}$"
+   },
+   "options": {
+    "A": {
+     "ta": "\\frac{98}{47}",
+     "en": "\\frac{98}{47}"
+    },
+    "B": {
+     "ta": "\\frac{108}{49}",
+     "en": "\\frac{108}{49}"
+    },
+    "C": {
+     "ta": "\\frac{98}{45}",
+     "en": "\\frac{98}{45}"
+    },
+    "D": {
+     "ta": "\\frac{96}{47}",
+     "en": "\\frac{96}{47}"
+    }
+   },
+   "answer": "C",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட பின்னக் கணக்கைத் தீர்க்க BODMAS விதியைப் பயன்படுத்த வேண்டும்.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 196,
+   "part": "C",
+   "unit": "C1",
+   "topic": "si-ci",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஓர் அசலானது 2 வருடத்தில் \\frac{9}{4} மடங்காகாகுமெனில், அதன் வட்டி விகிதம் எவ்வளவு?",
+    "en": "Find the rate of interest at which, a sum of money becomes \\frac{9}{4} times in 2 years."
+   },
+   "options": {
+    "A": {
+     "ta": "69\\frac{1}{2}\\%",
+     "en": "69\\frac{1}{2}\\%"
+    },
+    "B": {
+     "ta": "67\\frac{1}{2}\\%",
+     "en": "67\\frac{1}{2}\\%"
+    },
+    "C": {
+     "ta": "62\\frac{1}{2}\\%",
+     "en": "62\\frac{1}{2}\\%"
+    },
+    "D": {
+     "ta": "61\\frac{1}{2}\\%",
+     "en": "61\\frac{1}{2}\\%"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "SI = (9/4)P - P = (5/4)P. R = (100 * SI) / (P * N) = (100 * 5/4) / 2 = 125 / 2 = 62½%.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 197,
+   "part": "C",
+   "unit": "C1",
+   "topic": "mensuration",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒரு கன செவ்வகத்தின் அகலம், உயரம், கனஅளவு முறையே 10 செ.மீ., 11 செ.மீ. மற்றும் 3080 செ.மீ$^3$ எனில் அதன் நீளத்தை கண்டறிக.",
+    "en": "The breadth, height and volume of a cuboid are 10 cm, 11 cm and 3080 cm$^3$ respectively. Find the length of the cuboid."
+   },
+   "options": {
+    "A": {
+     "ta": "21 செ.மீ.",
+     "en": "21 cm"
+    },
+    "B": {
+     "ta": "28 செ.மீ.",
+     "en": "28 cm"
+    },
+    "C": {
+     "ta": "24 செ.மீ.",
+     "en": "24 cm"
+    },
+    "D": {
+     "ta": "30 செ.மீ.",
+     "en": "30 cm"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "கனஅளவு = நீளம் $\\times$ அகலம் $\\times$ உயரம். 3080 = நீளம் $\\times$ 10 $\\times$ 11. நீளம் = 28 செ.மீ.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 198,
+   "part": "B",
+   "unit": "B1",
+   "topic": "biology",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "\"மருந்துகளின் இராணி\" என அழைக்கப்படும் மருந்து பொருள் எது?",
+    "en": "Which medicine is known as \"THE QUEEN OF DRUGS\"?"
+   },
+   "options": {
+    "A": {
+     "ta": "அட்ரோபின்",
+     "en": "ATROPIN"
+    },
+    "B": {
+     "ta": "பாலிமிக்சின்",
+     "en": "POLYMIXIN"
+    },
+    "C": {
+     "ta": "ஸ்ட்ரெப்டோமைசின்",
+     "en": "STREPTOMYCIN"
+    },
+    "D": {
+     "ta": "பெனிசிலின்",
+     "en": "PENICILLIN"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பெனிசிலின் உலக த்தினுடைய முதல் எதிர் உயிரி (antibiotic) ஆகும், இது 'மருந்துகளின் இராணி' என அழைக்கப்படுகிறது.",
+    "en": ""
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 199,
+   "part": "C",
+   "unit": "C1",
+   "topic": "percentage",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "ஒருவர் ரூ. 1,500-க்கு ஒரு பழைய மிதிவண்டியை வாங்கி அதில் ரூ. 500-க்கு பழுதுகளை நீக்குகிறார். முடிவில் அவர் அந்த மிதிவண்டியை ரூ. 1,800-க்கு விற்கிறார் எனில் அவர் அடையும் நஷ்ட சதவீதத்தைக் காண்.",
+    "en": "A man bought an old bicycle for Rs. 1,500. He spends Rs. 500 on its repair and sells it for Rs. 1,800. Find the percentage of his loss."
+   },
+   "options": {
+    "A": {
+     "ta": "10%",
+     "en": "10%"
+    },
+    "B": {
+     "ta": "15%",
+     "en": "15%"
+    },
+    "C": {
+     "ta": "20%",
+     "en": "20%"
+    },
+    "D": {
+     "ta": "5%",
+     "en": "5%"
+    }
+   },
+   "answer": "D",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "மொத்த அடக்க விலை = 1500 + 500 = ரூ. 2000. நஷ்டம் = 2000 - 1800 = ரூ. 200. நஷ்ட சதவீதம் = (200 / 2000) × 100 = 10%.",
+    "en": "Total CP = 1500 + 500 = 2000. Loss = 2000 - 1800 = 200. Loss % = (200 / 2000) * 100 = 10%."
+   },
+   "keyChanged": true
+  },
+  {
+   "qNo": 200,
+   "part": "C",
+   "unit": "C1",
+   "topic": "hcf-lcm",
+   "format": "ONE_LINER",
+   "stem": {
+    "ta": "$a^3b^4$, $ab^5$, $a^2b^7$-ன் பொ.ம. காண்க.",
+    "en": "Find the LCM of $a^3b^4$, $ab^5$ and $a^2b^7$"
+   },
+   "options": {
+    "A": {
+     "ta": "$a^7b^3$",
+     "en": "$a^7b^3$"
+    },
+    "B": {
+     "ta": "$a^3b^7$",
+     "en": "$a^3b^7$"
+    },
+    "C": {
+     "ta": "$a^2b^5$",
+     "en": "$a^2b^5$"
+    },
+    "D": {
+     "ta": "$ab^5$",
+     "en": "$ab^5$"
+    }
+   },
+   "answer": "B",
+   "keySource": "FINAL_KEY",
+   "era": "OVERLAP",
+   "ai": true,
+   "explain": {
+    "ta": "பொதுவான உறுப்புகளில் அதிகப்படியான அடக்க எண்களை (powers) எடுக்க வேண்டும். a-ன் உயர்ந்த அடுக்கு 3, b-ன் உயர்ந்த அடுக்கு 7. எனவே LCM = $a^3b^7$.",
+    "en": "Take the highest power of each variable: highest power of a is 3, highest power of b is 7. LCM = $a^3b^7$."
+   }
+  }
+ ],
+ "extraction": "98 questions AI-extracted with gemini-3.5-flash-lite on 2026-11-21; others checked by hand."
+}
