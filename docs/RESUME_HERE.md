@@ -1,31 +1,28 @@
-# Resume point (updated Sat 21 Nov 2026, ~2 AM)
+# Resume point (updated Sun 22 Nov 2026)
 
 ## State
-- **GitHub:** `premthedev/mission-gov-tn`, local `main` = origin c594fb3 (bot content up to 20 Nov, incl. new 2018 GS + GT papers). Push only as premthedev.
-- Phone has APK v0.2.2. **Nothing from v0.3 is committed or pushed yet.**
+- **GitHub:** `premthedev/mission-gov-tn`, `main` = 10e79fe. Push only as premthedev.
+- **Release v0.3.0** is published (https://github.com/premthedev/mission-gov-tn/releases/tag/v0.3.0, `MissionGOV-v0.3.0.apk`). Built by pushing the `v0.3.0` tag.
+- Content after the APK (cheat sheets for Units III–VII and aptitude) arrives through in-app sync; no reinstall needed.
 
-## v0.3 work on disk (uncommitted)
-- Data fixes: part labels and LaTeX in all `content/questions/pyq-*.json` (2018 papers fixed too). Tools: `fix-papers.mjs`, `clean-math.mjs`, `audit-papers.mjs`; `extract-paper.mjs` updated.
-- `tools/enrich.mjs`: Gemini tutor notes (hint, why right, why each wrong option is wrong, rule, example, tip) → `content/explain/*.json`. **478 questions done** (Part A of 2025/2024/2022/2019-GT/2018-GT + 30 lesson checks). Stopped mid-run; re-running continues where it stopped:
-  `$env:ENRICH_PREFER='flash-lite'; node tools/enrich.mjs` (gemini-3.8-flash keeps returning 503; flash-lite works).
-- Cheat sheets: 18 topics in `content/cheats/a1-letters.json`, `a1-words.json`, `a2-vocabulary.json`.
-- Code (type-checks clean with `npx tsc -p tsconfig.json`):
-  - Tamil-first: default language `ta` (new setting key `lang3`); each question has an "English-உம் காட்டு" toggle.
-  - Thirukkural: all-Tamil questions (chapter, 1st/2nd line, Tamil meaning, fill-the-word); new kurals marked learned when shown; revision only through quiz (2/5/10/21 days); the day's set is fixed per step (`kuralPlan`). Learn-tab chapter reading counts as learned.
-  - Explanations: panel below the options (right answer text, why, why your choice was wrong, why-not under each option, rule, example, tip, cheat-sheet link). Hints ("குறிப்பு வேண்டுமா?"). First-time topic card in practice.
-  - Cheat sheets: loader, `CheatSheetView`/modal, Learn → "குறிப்புகள்", Practice → "தலைப்பு வாரியாக"; curriculum entries with `cheat` become lessons automatically.
-  - Planner: 1–2 lessons on weekdays, 2–3 on weekends, based on backlog; reads ahead when there's no backlog. Warm-up uses only learned material; drills use only finished lessons + 2 recent news questions.
-  - Guide: first-run walkthrough, coach card on Today, "what/how" card before every session step, step list on Today.
-  - SVG icons, restyled Today/Session/Learn/Practice/Lesson/Kural/nav; mock answer review list (MockResult).
+## What v0.3 has
+- Tamil-first questions (setting `lang3`, default `ta`) with a per-question "English-உம் காட்டு" toggle; Thirukkural questions fully in Tamil.
+- Explanation panel after each answer (right answer, why, why each wrong option is wrong, rule, example, tip, cheat-sheet link) and a hint button before answering.
+- Gemini tutor notes in `content/explain/*.json` (862 questions so far). The daily `content.yml` job now runs `tools/enrich.mjs --max-batches 40` (flash-lite), so the rest fill in automatically.
+- 42 cheat sheets in `content/cheats/` (Units I–VII + aptitude/reasoning); Learn → குறிப்புகள், Practice → தலைப்பு வாரியாக. Curriculum entries with `cheat` become lessons (w1-ezhuthu, w2 vetrumai/thogai/peyar-vagai/ethirsol/porunthaa, w4 reading/idioms/translation/literature/antiquity/puzzles).
+- Kural: learned on first show, revision only via quiz (2/5/10/21 days), fixed daily set.
+- Planner: weekday 1–2 lessons, weekend 2–3 by backlog; **+15/+30/+60 min extra time** any day, any number of times (next lessons first, reading ahead across weeks).
+- Guide: first-run walkthrough, coach card on Today, what/how card before each step.
+- Sync applies downloads only if newer than the APK (`gen` vs bundled `generatedAt`); stale rows deleted.
 
-## Next (in order)
-1. Finish the UI pass: StepExtras, WrapUp, SpeedRound, KuralReader still use emoji/old styles (small).
-2. `src/data/sync.ts`: apply a downloaded file only if it is newer than the bundled one; add `cheats|explain` to the SYNCABLE regex.
-3. Curriculum: add `cheat` fields to existing entries and catch-up entries for vetrumai, thogai, peyar-vagai, ethirsol (week 2).
-4. Remaining cheat sheets: A3 (thodar, vinai-vagai, marabu, punctuation), A4 kalaichol, A5 (reading, marabuthodar), A6 translation, A7 (thirukkural, aranool, tamil-antiquity, scholars, modern-poets, literature), aptitude (~10).
-5. Resume `tools/enrich.mjs` (Part C, then B); add a daily enrich step to `.github/workflows/content.yml`.
-6. Update `tools/work/check-engines.ts`, then `npm run build` + smoke test.
-7. Commit and push as premthedev (confirm no `.env`, `.p12`, `*.secrets.txt` staged), then Actions → Android APK → Run workflow.
+## Checks
+- `npx --yes tsx tools/work/check-engines.ts` (planner minutes, extensions, Kural Tamil-only, cheat schema, coverage) → ALL PASSED.
+- Smoke: `npx vite preview --port 4173 --strictPort` then `node tools/work/smoke.mjs` (full session + +30 extension) and `node tools/work/smoke2.mjs` (cheat lessons) → no JS errors.
+
+## Next
+1. GS (Part B) lessons/cheat sheets before Week 5 (Sat 5 Dec): B6 TN history & movements first, then B5, B4, B3, B1/B2.
+2. Re-extract missing 2025 questions (`START_PAGE`), remaining papers (VAO 2016, 2012) via the daily job.
+3. Optional: Tamil numerals sheet (A1 "numbers" questions), speed-distance-time sheet (C1).
 
 ## Reminders
 - Back up `android-release.p12` and `android-release.secrets.txt` (e.g. Google Drive).
