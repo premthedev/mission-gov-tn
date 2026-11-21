@@ -1,7 +1,7 @@
 {
   "name": "mission-gov",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "Personal guided study app for TNPSC Group 4 (CCSE-IV), exam 10 Jan 2027",
   "type": "module",
   "scripts": {

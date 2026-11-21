@@ -1,9 +1,25 @@
 {
- "generatedAt": "2026-11-21T07:42:55.136Z",
+ "generatedAt": "2026-11-21T19:11:25.204Z",
  "files": [
   {
+   "path": "cheats/a1-letters.json",
+   "sha": "eee92f627c63"
+  },
+  {
+   "path": "cheats/a1-words.json",
+   "sha": "fd839acb49ba"
+  },
+  {
+   "path": "cheats/a2-vocabulary.json",
+   "sha": "c74f1924e62d"
+  },
+  {
+   "path": "cheats/a3-writing.json",
+   "sha": "76541285cd9f"
+  },
+  {
    "path": "curriculum.json",
-   "sha": "2f2f7907b742"
+   "sha": "f1c5c4191eaf"
   },
   {
    "path": "decks/a2-vocabulary.json",
@@ -24,6 +40,42 @@
   {
    "path": "decks/b-gs.json",
    "sha": "dd249ef5bf9f"
+  },
+  {
+   "path": "explain/g4-2016-gs.json",
+   "sha": "6d02587e5a40"
+  },
+  {
+   "path": "explain/g4-2018-gs.json",
+   "sha": "20e6e25e6230"
+  },
+  {
+   "path": "explain/g4-2018-gt.json",
+   "sha": "60b2a313a2d5"
+  },
+  {
+   "path": "explain/g4-2019-gs.json",
+   "sha": "30eb2c4894e1"
+  },
+  {
+   "path": "explain/g4-2019-gt.json",
+   "sha": "9a9d5fa9c870"
+  },
+  {
+   "path": "explain/g4-2022.json",
+   "sha": "8af71a06e8aa"
+  },
+  {
+   "path": "explain/g4-2024.json",
+   "sha": "1f2bd29edae3"
+  },
+  {
+   "path": "explain/g4-2025.json",
+   "sha": "69d87ebd3f99"
+  },
+  {
+   "path": "explain/lessons.json",
+   "sha": "f6900e8eba0a"
   },
   {
    "path": "feed/ca-2026-11-16.json",
@@ -83,35 +135,35 @@
   },
   {
    "path": "questions/pyq-g4-2016-gs.json",
-   "sha": "1aed698614d9"
+   "sha": "2096f878443e"
   },
   {
    "path": "questions/pyq-g4-2018-gs.json",
-   "sha": "13df374077cd"
+   "sha": "a8b94ecb638c"
   },
   {
    "path": "questions/pyq-g4-2018-gt.json",
-   "sha": "1ac7149d23c6"
+   "sha": "7ce2337e9211"
   },
   {
    "path": "questions/pyq-g4-2019-gs.json",
-   "sha": "540fbd97c6d7"
+   "sha": "2ce52f0b6573"
   },
   {
    "path": "questions/pyq-g4-2019-gt.json",
-   "sha": "98a2aee283ea"
+   "sha": "045dd2d283f8"
   },
   {
    "path": "questions/pyq-g4-2022.json",
-   "sha": "4e04397b3215"
+   "sha": "931ee45ac10b"
   },
   {
    "path": "questions/pyq-g4-2024.json",
-   "sha": "487f157ed68c"
+   "sha": "ee23b63c0398"
   },
   {
    "path": "questions/pyq-g4-2025.json",
-   "sha": "47d8c10ee72a"
+   "sha": "fd76b4d6f728"
   }
  ]
 }

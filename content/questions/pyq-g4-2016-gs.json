@@ -16,20 +16,20 @@
    },
    "options": {
     "A": {
-     "ta": "1.6 × 10^{-19} எலக்ட்ரான்கள்",
-     "en": "1.6×10^{-19} electrons"
+     "ta": "1.6 × 10⁻¹⁹ எலக்ட்ரான்கள்",
+     "en": "1.6×10⁻¹⁹ electrons"
     },
     "B": {
-     "ta": "6.25 × 10^{18} எலக்ட்ரான்கள்",
-     "en": "6.25×10^{18} electrons"
+     "ta": "6.25 × 10¹⁸ எலக்ட்ரான்கள்",
+     "en": "6.25×10¹⁸ electrons"
     },
     "C": {
-     "ta": "6.25 × 10^{-18} எலக்ட்ரான்கள்",
-     "en": "6.25×10^{-18} electrons"
+     "ta": "6.25 × 10⁻¹⁸ எலக்ட்ரான்கள்",
+     "en": "6.25×10⁻¹⁸ electrons"
     },
     "D": {
-     "ta": "1.6 × 10^{19} எலக்ட்ரான்கள்",
-     "en": "1.6×10^{19} electrons"
+     "ta": "1.6 × 10¹⁹ எலக்ட்ரான்கள்",
+     "en": "1.6×10¹⁹ electrons"
     }
    },
    "answer": "D",
@@ -37,7 +37,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "1 கூலும் மின்னூட்டத்தில் உள்ள எலக்ட்ரான்களின் எண்ணிக்கை 6.25 × 10^{18} ஆகும்.",
+    "ta": "1 கூலும் மின்னூட்டத்தில் உள்ள எலக்ட்ரான்களின் எண்ணிக்கை 6.25 × 10¹⁸ ஆகும்.",
     "en": ""
    },
    "keyChanged": true
@@ -49,8 +49,8 @@
    "topic": "physics-momentum",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "15 கிராம் நிறையுள்ள துப்பாக்கி குண்டு 100 மீவி^{-1} வேகத்தில் கிடைமட்டமாக சுடப்படுகிறது. துப்பாக்கியின் நிறை 2 கிகி எனில் சுடுவதற்கு முன் துப்பாக்கி மற்றும் குண்டு ஆகியவற்றின் மொத்த உந்தம் என்ன?",
-    "en": "A bullet of mass 15 g is horizontally fired with velocity 100 ms^{-1} from a pistol of mass 2 kg. Total momentum of the pistol and bullet before firing is equal to"
+    "ta": "15 கிராம் நிறையுள்ள துப்பாக்கி குண்டு 100 மீவி⁻¹ வேகத்தில் கிடைமட்டமாக சுடப்படுகிறது. துப்பாக்கியின் நிறை 2 கிகி எனில் சுடுவதற்கு முன் துப்பாக்கி மற்றும் குண்டு ஆகியவற்றின் மொத்த உந்தம் என்ன?",
+    "en": "A bullet of mass 15 g is horizontally fired with velocity 100 ms⁻¹ from a pistol of mass 2 kg. Total momentum of the pistol and bullet before firing is equal to"
    },
    "options": {
     "A": {
@@ -58,16 +58,16 @@
      "en": "zero"
     },
     "B": {
-     "ta": "201.5 கிகி மீவி^{-1}",
-     "en": "201.5 kg ms^{-1}"
+     "ta": "201.5 கிகி மீவி⁻¹",
+     "en": "201.5 kg ms⁻¹"
     },
     "C": {
-     "ta": "215 கிகி மீவி^{-1}",
-     "en": "215 kg ms^{-1}"
+     "ta": "215 கிகி மீவி⁻¹",
+     "en": "215 kg ms⁻¹"
     },
     "D": {
-     "ta": "200 கிகி மீவி^{-1}",
-     "en": "200 kg ms^{-1}"
+     "ta": "200 கிகி மீவி⁻¹",
+     "en": "200 kg ms⁻¹"
     }
    },
    "answer": "B",
@@ -1560,12 +1560,12 @@
      "en": "5, 8, 10"
     },
     "C": {
-     "ta": "5, 5, 5\\sqrt{2}",
-     "en": "5, 5, 5\\sqrt{2}"
+     "ta": "5, 5, 5√(2)",
+     "en": "5, 5, 5√(2)"
     },
     "D": {
-     "ta": "3, 4, 4\\sqrt{2}",
-     "en": "3, 4, 4\\sqrt{2}"
+     "ta": "3, 4, 4√(2)",
+     "en": "3, 4, 4√(2)"
     }
    },
    "answer": "A",
@@ -1573,7 +1573,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "5² + 5² = 25 + 25 = 50, மற்றும் (5\\sqrt{2})² = 50, எனவே இது பித்தாகரஸ் தேற்றத்தை நிறைவு செய்கிறது.",
+    "ta": "5² + 5² = 25 + 25 = 50, மற்றும் (5√(2))² = 50, எனவே இது பித்தாகரஸ் தேற்றத்தை நிறைவு செய்கிறது.",
     "en": ""
    },
    "keyChanged": true
@@ -1585,8 +1585,8 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "\\sqrt{609 + \\sqrt{248 + \\sqrt{60 + \\sqrt{7 + \\sqrt{81}}}}} இன் மதிப்பு",
-    "en": "The value of \\sqrt{609 + \\sqrt{248 + \\sqrt{60 + \\sqrt{7 + \\sqrt{81}}}}}"
+    "ta": "sqrt{609 + sqrt{248 + √(60 + √(7 + √(81)))}} இன் மதிப்பு",
+    "en": "The value of sqrt{609 + sqrt{248 + √(60 + √(7 + √(81)))}}"
    },
    "options": {
     "A": {
@@ -1611,7 +1611,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "(\\sqrt{81}=9 -> 7+9=16 -> \\sqrt{16}=4 -> 60+4=64 -> \\sqrt{64}=8 -> 248+8=256 -> \\sqrt{256}=16 -> 609+16=625 -> \\sqrt{625}=25)",
+    "ta": "(√(81)=9 -> 7+9=16 -> √(16)=4 -> 60+4=64 -> √(64)=8 -> 248+8=256 -> √(256)=16 -> 609+16=625 -> √(625)=25)",
     "en": ""
    }
   },
@@ -1660,8 +1660,8 @@
    "topic": "algebra",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$3(t - 3) = 5(2t + 1)$ எனில் $t = ?$",
-    "en": "If $3(t - 3) = 5(2t + 1)$ then $t = ?$"
+    "ta": "3(t - 3) = 5(2t + 1) எனில் t = ?",
+    "en": "If 3(t - 3) = 5(2t + 1) then t = ?"
    },
    "options": {
     "A": {
@@ -1698,8 +1698,8 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$\\frac{1.75 \\times 1.75 + 2 \\times 1.75 \\times 0.75 + 0.75 \\times 0.75}{1.75 \\times 1.75 - 0.75 \\times 0.75}$ ன் மதிப்பு",
-    "en": "The value of $\\frac{1.75 \\times 1.75 + 2 \\times 1.75 \\times 0.75 + 0.75 \\times 0.75}{1.75 \\times 1.75 - 0.75 \\times 0.75}$"
+    "ta": "1.75 × 1.75 + 2 × 1.75 × 0.75 + 0.75 × 0.75/1.75 × 1.75 - 0.75 × 0.75 ன் மதிப்பு",
+    "en": "The value of 1.75 × 1.75 + 2 × 1.75 × 0.75 + 0.75 × 0.75/1.75 × 1.75 - 0.75 × 0.75"
    },
    "options": {
     "A": {
@@ -1724,7 +1724,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$(a+b)^2 / (a^2 - b^2) = (a+b) / (a-b) = (1.75 + 0.75) / (1.75 - 0.75) = 2.5 / 1 = 2.5$",
+    "ta": "(a+b)² / (a² - b²) = (a+b) / (a-b) = (1.75 + 0.75) / (1.75 - 0.75) = 2.5 / 1 = 2.5",
     "en": ""
    },
    "keyChanged": true
@@ -1736,8 +1736,8 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$16^3 + 7^3 - 23^3$ ன் மதிப்பு",
-    "en": "The value of $16^3 + 7^3 - 23^3$ is"
+    "ta": "16³ + 7³ - 23³ ன் மதிப்பு",
+    "en": "The value of 16³ + 7³ - 23³ is"
    },
    "options": {
     "A": {
@@ -1762,7 +1762,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$a+b+c = 16 + 7 - 23 = 0$ எனில் $a^3 + b^3 + c^3 = 3abc = 3(16)(7)(-23) = -7728$",
+    "ta": "a+b+c = 16 + 7 - 23 = 0 எனில் a³ + b³ + c³ = 3abc = 3(16)(7)(-23) = -7728",
     "en": ""
    },
    "keyChanged": true
@@ -1774,8 +1774,8 @@
    "topic": "series",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$1, 1, 2, 8, 3, 27, 4, \\dots$ என்ற தொடரின் 4-க்கு அடுத்த உறுப்பு?",
-    "en": "Find the next term of 4 in the series is $1, 1, 2, 8, 3, 27, 4, \\dots$"
+    "ta": "1, 1, 2, 8, 3, 27, 4, … என்ற தொடரின் 4-க்கு அடுத்த உறுப்பு?",
+    "en": "Find the next term of 4 in the series is 1, 1, 2, 8, 3, 27, 4, …"
    },
    "options": {
     "A": {
@@ -1800,7 +1800,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "இத்தொடர் $n, n^3$ என்ற முறையில் அமைந்துள்ளது ($1, 1^3, 2, 2^3, 3, 3^3, 4, 4^3$). எனவே 4-க்கு அடுத்த உறுப்பு $4^3 = 64$.",
+    "ta": "இத்தொடர் n, n³ என்ற முறையில் அமைந்துள்ளது (1, 1³, 2, 2³, 3, 3³, 4, 4³). எனவே 4-க்கு அடுத்த உறுப்பு 4³ = 64.",
     "en": ""
    },
    "keyChanged": true
@@ -1812,25 +1812,25 @@
    "topic": "geometry",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "ஒரு முக்கோணத்தின் மூன்று கோணங்கள் $x - 30^{\\circ}, x - 45^{\\circ}, x + 15^{\\circ}$ எனில் $x$-ன் மதிப்பு",
-    "en": "Three angles of a triangle are $x - 30^{\\circ}, x - 45^{\\circ}, x + 15^{\\circ}$, find the value of $x$."
+    "ta": "ஒரு முக்கோணத்தின் மூன்று கோணங்கள் x - 30°, x - 45°, x + 15° எனில் x-ன் மதிப்பு",
+    "en": "Three angles of a triangle are x - 30°, x - 45°, x + 15°, find the value of x."
    },
    "options": {
     "A": {
-     "ta": "$60^{\\circ}$",
-     "en": "$60^{\\circ}$"
+     "ta": "60°",
+     "en": "60°"
     },
     "B": {
-     "ta": "$40^{\\circ}$",
-     "en": "$40^{\\circ}$"
+     "ta": "40°",
+     "en": "40°"
     },
     "C": {
-     "ta": "$80^{\\circ}$",
-     "en": "$80^{\\circ}$"
+     "ta": "80°",
+     "en": "80°"
     },
     "D": {
-     "ta": "$100^{\\circ}$",
-     "en": "$100^{\\circ}$"
+     "ta": "100°",
+     "en": "100°"
     }
    },
    "answer": "C",
@@ -1838,7 +1838,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "முக்கோணத்தின் மூன்று கோணங்களின் கூடுதல் $180^{\\circ}$. எனவே $(x-30^{\\circ}) + (x-45^{\\circ}) + (x+15^{\\circ}) = 180^{\\circ} \\implies 3x - 60^{\\circ} = 180^{\\circ} \\implies 3x = 240^{\\circ} \\implies x = 80^{\\circ}$.",
+    "ta": "முக்கோணத்தின் மூன்று கோணங்களின் கூடுதல் 180°. எனவே (x-30°) + (x-45°) + (x+15°) = 180° implies 3x - 60° = 180° implies 3x = 240° implies x = 80°.",
     "en": ""
    },
    "deleted": true
@@ -1876,7 +1876,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "இரு ஆண்டுகளுக்கு தனிவட்டிக்கும் கூட்டு வட்டிக்கும் உள்ள வித்தியாசம் $d = \\frac{P r^2}{100^2} = \\frac{12000 \\times 10 \\times 10}{100 \\times 100} = 120$.",
+    "ta": "இரு ஆண்டுகளுக்கு தனிவட்டிக்கும் கூட்டு வட்டிக்கும் உள்ள வித்தியாசம் d = P r²/100² = 12000 × 10 × 10/100 × 100 = 120.",
     "en": ""
    }
   },
@@ -1913,8 +1913,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "இரு அடுத்தடுத்த சுவர்கள் $90^{\\circ}$ கோணத்தில் இருப்பதால், பிம்பங்களின் எண்ணிக்கை $360/90 - 1 = 3$ ஆகும்.",
-    "en": "For two mirrors at $90^{\\circ}$ (adjacent walls), number of images $n = \\frac{360^{\\circ}}{90^{\\circ}} - 1 = 4 - 1 = 3$."
+    "ta": "இரு அடுத்தடுத்த சுவர்கள் 90° கோணத்தில் இருப்பதால், பிம்பங்களின் எண்ணிக்கை 360/90 - 1 = 3 ஆகும்.",
+    "en": "For two mirrors at 90° (adjacent walls), number of images n = frac{360°}{90°} - 1 = 4 - 1 = 3."
    },
    "keyChanged": true
   },
@@ -1930,20 +1930,20 @@
    },
    "options": {
     "A": {
-     "ta": "$100 - 32,000\\text{ Hz}$",
-     "en": "$100 - 32,000\\text{ Hz}$"
+     "ta": "100 - 32,000 Hz",
+     "en": "100 - 32,000 Hz"
     },
     "B": {
-     "ta": "$1,000 - 1,50,000\\text{ Hz}$",
-     "en": "$1,000 - 1,50,000\\text{ Hz}$"
+     "ta": "1,000 - 1,50,000 Hz",
+     "en": "1,000 - 1,50,000 Hz"
     },
     "C": {
-     "ta": "$1,000 - 1,00,000\\text{ Hz}$",
-     "en": "$1,000 - 1,00,000\\text{ Hz}$"
+     "ta": "1,000 - 1,00,000 Hz",
+     "en": "1,000 - 1,00,000 Hz"
     },
     "D": {
-     "ta": "$900 - 2,00,000\\text{ Hz}$",
-     "en": "$900 - 2,00,000\\text{ Hz}$"
+     "ta": "900 - 2,00,000 Hz",
+     "en": "900 - 2,00,000 Hz"
     }
    },
    "answer": "C",
@@ -1951,8 +1951,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "முயலின் செவியுணர்வு வரம்பு $1,000\\text{ Hz}$ முதல் $1,00,000\\text{ Hz}$ வரை ஆகும்.",
-    "en": "The audible frequency range for a rabbit is $1,000\\text{ Hz}$ to $1,00,000\\text{ Hz}$."
+    "ta": "முயலின் செவியுணர்வு வரம்பு 1,000 Hz முதல் 1,00,000 Hz வரை ஆகும்.",
+    "en": "The audible frequency range for a rabbit is 1,000 Hz to 1,00,000 Hz."
    },
    "deleted": true
   },
@@ -2169,7 +2169,7 @@
     "right": [
      {
       "ta": "1. ஆக்சிஜன் பயன்படுத்தப்படுவதில்லை",
-      "en": "1. $O_2$ is not utilised"
+      "en": "1. O_2 is not utilised"
      },
      {
       "ta": "2. ATP-க்கள் உருவாகிறது",
@@ -3509,8 +3509,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "பரப்பளவு = 1/2 * b * h = 50. b = 4h எனில் 1/2 * 4h * h = 50 => 2h^2 = 50 => h = 5. எனவே அடிப்பக்கம் b = 4 * 5 = 20 மீ.",
-    "en": "Area = 1/2 * b * h = 50. Given b = 4h, so 1/2 * 4h * h = 50 => 2h^2 = 50 => h = 5. Therefore base b = 20 m."
+    "ta": "பரப்பளவு = 1/2 * b * h = 50. b = 4h எனில் 1/2 * 4h * h = 50 => 2h² = 50 => h = 5. எனவே அடிப்பக்கம் b = 4 * 5 = 20 மீ.",
+    "en": "Area = 1/2 * b * h = 50. Given b = 4h, so 1/2 * 4h * h = 50 => 2h² = 50 => h = 5. Therefore base b = 20 m."
    },
    "keyChanged": true,
    "acceptedAnswers": [
@@ -3562,8 +3562,8 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$(\\frac{7}{12})^{-4} \\times (\\frac{7}{12})^{3x} = (\\frac{7}{12})^5$ எனில் x-ன் மதிப்பு",
-    "en": "If $(\\frac{7}{12})^{-4} \\times (\\frac{7}{12})^{3x} = (\\frac{7}{12})^5$; then the value of x is"
+    "ta": "(7/12)⁻⁴ × (7/12)³x = (7/12)⁵ எனில் x-ன் மதிப்பு",
+    "en": "If (7/12)⁻⁴ × (7/12)³x = (7/12)⁵; then the value of x is"
    },
    "options": {
     "A": {
@@ -3713,25 +3713,25 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "சுருக்குக\n$5\\frac{1}{4} + 4\\frac{3}{4} + 7\\frac{5}{8} + 6\\frac{7}{8} \\div 11\\frac{3}{4}$",
-    "en": "Simplify\n$5\\frac{1}{4} + 4\\frac{3}{4} + 7\\frac{5}{8} + 6\\frac{7}{8} \\div 11\\frac{3}{4}$"
+    "ta": "சுருக்குக\n51/4 + 43/4 + 75/8 + 67/8 ÷ 113/4",
+    "en": "Simplify\n51/4 + 43/4 + 75/8 + 67/8 ÷ 113/4"
    },
    "options": {
     "A": {
-     "ta": "\\frac{98}{47}",
-     "en": "\\frac{98}{47}"
+     "ta": "98/47",
+     "en": "98/47"
     },
     "B": {
-     "ta": "\\frac{108}{49}",
-     "en": "\\frac{108}{49}"
+     "ta": "108/49",
+     "en": "108/49"
     },
     "C": {
-     "ta": "\\frac{98}{45}",
-     "en": "\\frac{98}{45}"
+     "ta": "98/45",
+     "en": "98/45"
     },
     "D": {
-     "ta": "\\frac{96}{47}",
-     "en": "\\frac{96}{47}"
+     "ta": "96/47",
+     "en": "96/47"
     }
    },
    "answer": "C",
@@ -3751,25 +3751,25 @@
    "topic": "si-ci",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "ஓர் அசலானது 2 வருடத்தில் \\frac{9}{4} மடங்காகாகுமெனில், அதன் வட்டி விகிதம் எவ்வளவு?",
-    "en": "Find the rate of interest at which, a sum of money becomes \\frac{9}{4} times in 2 years."
+    "ta": "ஓர் அசலானது 2 வருடத்தில் 9/4 மடங்காகாகுமெனில், அதன் வட்டி விகிதம் எவ்வளவு?",
+    "en": "Find the rate of interest at which, a sum of money becomes 9/4 times in 2 years."
    },
    "options": {
     "A": {
-     "ta": "69\\frac{1}{2}\\%",
-     "en": "69\\frac{1}{2}\\%"
+     "ta": "691/2%",
+     "en": "691/2%"
     },
     "B": {
-     "ta": "67\\frac{1}{2}\\%",
-     "en": "67\\frac{1}{2}\\%"
+     "ta": "671/2%",
+     "en": "671/2%"
     },
     "C": {
-     "ta": "62\\frac{1}{2}\\%",
-     "en": "62\\frac{1}{2}\\%"
+     "ta": "621/2%",
+     "en": "621/2%"
     },
     "D": {
-     "ta": "61\\frac{1}{2}\\%",
-     "en": "61\\frac{1}{2}\\%"
+     "ta": "611/2%",
+     "en": "611/2%"
     }
    },
    "answer": "D",
@@ -3789,8 +3789,8 @@
    "topic": "mensuration",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "ஒரு கன செவ்வகத்தின் அகலம், உயரம், கனஅளவு முறையே 10 செ.மீ., 11 செ.மீ. மற்றும் 3080 செ.மீ$^3$ எனில் அதன் நீளத்தை கண்டறிக.",
-    "en": "The breadth, height and volume of a cuboid are 10 cm, 11 cm and 3080 cm$^3$ respectively. Find the length of the cuboid."
+    "ta": "ஒரு கன செவ்வகத்தின் அகலம், உயரம், கனஅளவு முறையே 10 செ.மீ., 11 செ.மீ. மற்றும் 3080 செ.மீ³ எனில் அதன் நீளத்தை கண்டறிக.",
+    "en": "The breadth, height and volume of a cuboid are 10 cm, 11 cm and 3080 cm³ respectively. Find the length of the cuboid."
    },
    "options": {
     "A": {
@@ -3815,7 +3815,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "கனஅளவு = நீளம் $\\times$ அகலம் $\\times$ உயரம். 3080 = நீளம் $\\times$ 10 $\\times$ 11. நீளம் = 28 செ.மீ.",
+    "ta": "கனஅளவு = நீளம் × அகலம் × உயரம். 3080 = நீளம் × 10 × 11. நீளம் = 28 செ.மீ.",
     "en": ""
    },
    "keyChanged": true
@@ -3903,25 +3903,25 @@
    "topic": "hcf-lcm",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$a^3b^4$, $ab^5$, $a^2b^7$-ன் பொ.ம. காண்க.",
-    "en": "Find the LCM of $a^3b^4$, $ab^5$ and $a^2b^7$"
+    "ta": "a³b⁴, ab⁵, a²b⁷-ன் பொ.ம. காண்க.",
+    "en": "Find the LCM of a³b⁴, ab⁵ and a²b⁷"
    },
    "options": {
     "A": {
-     "ta": "$a^7b^3$",
-     "en": "$a^7b^3$"
+     "ta": "a⁷b³",
+     "en": "a⁷b³"
     },
     "B": {
-     "ta": "$a^3b^7$",
-     "en": "$a^3b^7$"
+     "ta": "a³b⁷",
+     "en": "a³b⁷"
     },
     "C": {
-     "ta": "$a^2b^5$",
-     "en": "$a^2b^5$"
+     "ta": "a²b⁵",
+     "en": "a²b⁵"
     },
     "D": {
-     "ta": "$ab^5$",
-     "en": "$ab^5$"
+     "ta": "ab⁵",
+     "en": "ab⁵"
     }
    },
    "answer": "B",
@@ -3929,8 +3929,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "பொதுவான உறுப்புகளில் அதிகப்படியான அடக்க எண்களை (powers) எடுக்க வேண்டும். a-ன் உயர்ந்த அடுக்கு 3, b-ன் உயர்ந்த அடுக்கு 7. எனவே LCM = $a^3b^7$.",
-    "en": "Take the highest power of each variable: highest power of a is 3, highest power of b is 7. LCM = $a^3b^7$."
+    "ta": "பொதுவான உறுப்புகளில் அதிகப்படியான அடக்க எண்களை (powers) எடுக்க வேண்டும். a-ன் உயர்ந்த அடுக்கு 3, b-ன் உயர்ந்த அடுக்கு 7. எனவே LCM = a³b⁷.",
+    "en": "Take the highest power of each variable: highest power of a is 3, highest power of b is 7. LCM = a³b⁷."
    }
   }
  ],

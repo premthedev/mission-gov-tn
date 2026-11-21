@@ -7,6 +7,7 @@ import { XP } from '../engine/xp';
 import { fx } from './feedback';
 import { Button, Card, T } from './kit';
 import { Confetti } from './Celebrate';
+import { Icon } from './icons';
 
 /** 90-second aptitude blitz: one tap per answer, no explanations, beat your best. */
 export function SpeedRound({ gens, seconds = 90, sessionId, onDone }: { gens?: GenTopic[]; seconds?: number; sessionId?: string; onDone: () => void }) {
@@ -41,7 +42,7 @@ export function SpeedRound({ gens, seconds = 90, sessionId, onDone }: { gens?: G
   if (phase === 'ready') {
     return (
       <Card className="space-y-4 text-center">
-        <div className="text-5xl">⏱️</div>
+        <Icon name="timer" size={48} className="mx-auto text-amber-500" />
         <div className="text-xl font-bold">{seconds} விநாடிகளில் எத்தனை?</div>
         <T v={{ ta: 'தொட்டவுடன் அடுத்த வினா. விளக்கம் இல்லை, வேகம் மட்டும். மனக்கணக்கே போதும்.', en: 'One tap per answer, no explanations. Pure speed.' }} className="text-slate-500" />
         {best > 0 && <div className="text-sm text-slate-500">உங்கள் சாதனை: <b>{best}</b></div>}
@@ -54,7 +55,7 @@ export function SpeedRound({ gens, seconds = 90, sessionId, onDone }: { gens?: G
     return (
       <Card className="pop-in space-y-4 text-center">
         {record && <Confetti count={40} />}
-        <div className="text-5xl">{record ? '🏆' : '⚡'}</div>
+        <Icon name={record ? 'trophy' : 'bolt'} size={48} className="mx-auto text-amber-500" />
         <div className="text-4xl font-bold text-teal-700 dark:text-teal-300">{score} / {n}</div>
         <div className="text-slate-500">{record ? 'புதிய சாதனை!' : `சாதனை: ${Math.max(best, score)}`}</div>
         <div className="inline-block rounded-full bg-amber-100 px-4 py-1.5 font-bold text-amber-800 dark:bg-amber-900/40 dark:text-amber-200">+{score * XP.speedCorrect} XP</div>

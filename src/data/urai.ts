@@ -8,12 +8,25 @@ import type { KuralUrai } from './types';
  */
 const URL_ = 'https://raw.githubusercontent.com/tk120404/thirukkural/master/thirukkural.json';
 
+/** In-memory copy so question generators can use the Tamil meaning synchronously. */
+const cache = new Map<number, KuralUrai>();
+
+export async function loadUraiCache(): Promise<void> {
+  (await db.urai.toArray()).forEach((u) => cache.set(u.n, u));
+}
+
+/** Tamil meaning (Mu. Va.) of a kural, if downloaded. */
+export const tamilMeaning = (n: number): string | undefined => cache.get(n)?.mv;
+
 export async function uraiReady(): Promise<boolean> {
   return (await db.urai.count()) >= KURALS.length;
 }
 
 export async function fetchUrai(): Promise<boolean> {
-  if (await uraiReady()) return true;
+  if (await uraiReady()) {
+    if (cache.size === 0) await loadUraiCache();
+    return true;
+  }
   try {
     const res = await fetch(URL_);
     if (!res.ok) return false;
@@ -21,6 +34,7 @@ export async function fetchUrai(): Promise<boolean> {
     const wanted = new Set(KURALS.map((k) => k.n));
     const rows = data.kural.filter((k) => wanted.has(k.Number)).map((k) => ({ n: k.Number, mv: k.mv, sp: k.sp, en: k.explanation }));
     await db.urai.bulkPut(rows);
+    rows.forEach((u) => cache.set(u.n, u));
     return true;
   } catch {
     return false;
@@ -28,5 +42,5 @@ export async function fetchUrai(): Promise<boolean> {
 }
 
 export async function getUrai(n: number): Promise<KuralUrai | undefined> {
-  return db.urai.get(n);
+  return cache.get(n) ?? db.urai.get(n);
 }

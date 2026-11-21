@@ -1,0 +1,512 @@
+{
+ "name": "G4-2019-GS",
+ "items": {
+  "pyq-G4-2019-GS-q137": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தவறான மதிப்பை நீக்கிவிட்டு சரியான மதிப்பைச் சேர்த்து மொத்தத் தொகையில் ஏற்படும் மாற்றத்தைக் கண்டறிந்து சராசரியைக் காண்க.",
+    "en": "When asked like this, adjust the total sum by removing the wrong value and adding the correct value to find the new average."
+   },
+   "explain": {
+    "ta": "தவறான கூட்டுத்தொகையுடன் வித்தியாசத்தைச் சேர்த்து புதிய சராசரி காணப்படுகிறது. 172 மற்றும் 148-ன் வித்தியாசம் 24 ஆகும், இதனை மாணவர்களின் எண்ணிக்கையான 12 ஆல் வகுத்தால் சராசரியில் 2 அதிகரிக்கும். எனவே 152 உடன் 2 ஐக் கூட்ட சரியான சராசரி 154 செ.மீ ஆகும்.",
+    "en": "The correct mean is found by adding the difference divided by the number of items to the original mean."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சரியான சராசரி = பழைய சராசரி + (சரியான மதிப்பு - தவறான மதிப்பு) / மொத்த எண்ணிக்கைகள்",
+    "en": "Correct average = Old average + (Correct value - Wrong value) / Total count"
+   },
+   "eg": {
+    "ta": "10 எண்களின் சராசரி 50. அதில் ஒரு எண் 40 என்பது 50 எனத் தவறாகக் கொள்ளப்பட்டது எனில் சரியான சராசரி 49 ஆகும்.",
+    "en": "If the mean of 10 numbers is 50 and one number 40 was misread as 50, the correct mean is 49."
+   },
+   "tip": {
+    "ta": "வித்தியாசம் நேர்மறையாக இருந்தால் சராசரி கூடும், எதிர்மறையாக இருந்தால் குறையும்.",
+    "en": "If the net difference is positive, add it to the average divided by n."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q138": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட தேர்வுகளில் இருந்து எண்களை எடுத்து வினாத்தாள் நிபந்தனைகளைச் சரிபார்க்கவும்.",
+    "en": "When asked like this, substitute the given options into the conditions to find the matching pair."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட எண்களின் வர்க்கங்களின் வித்தியாசம் 45 ஆகும். அதாவது 9-ன் வர்க்கம் 81 மற்றும் 6-ன் வர்க்கம் 36, இவற்றின் வித்தியாசம் 45 ஆகும். மேலும் சிறிய எண்ணின் வர்க்கமான 36 என்பது பெரிய எண்ணான 9-ன் நான்கு மடங்கிற்குச் சமம்.",
+    "en": "The numbers 9 and 6 satisfy both conditions: 9 squared minus 6 squared is 45, and 6 squared is 4 times 9."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இயற்கணித வாக்கியங்களை எளிய சமன்பாடுகளாக மாற்றித் தீர்வு காண வேண்டும்.",
+    "en": "Translate word problems into algebraic equations and verify with options."
+   },
+   "tip": {
+    "ta": "ஆப்ஷன் சரிபார்ப்பு முறை (Hit and Trial) இதற்கு மிக விரைவான வழியாகும்.",
+    "en": "Substitution from options is the fastest method for such problems."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q139": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சக்கரத்தின் சுற்றளவைக் கண்டுபிடித்து மொத்த தூரத்தை அதனால் வகுக்க வேண்டும்.",
+    "en": "When asked like this, find the circumference of the wheel and divide the total distance by it."
+   },
+   "explain": {
+    "ta": "சக்கரத்தின் ஆரம் 35 செ.மீ எனில் சுற்றளவு 2 × (22/7) × 35 = 220 செ.மீ அதாவது 2.2 மீட்டர் ஆகும். மொத்தக் கடந்த தூரமான 154 மீட்டரை 2.2 மீட்டரால் வகுத்தால் 70 முழுச்சுற்றுகள் கிடைக்கும்.",
+    "en": "Circumference is 2.2 meters. Total distance 154 meters divided by 2.2 gives 70 revolutions."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சுற்றுக்களின் எண்ணிக்கை = கடந்த மொத்த தூரம் / சக்கரத்தின் சுற்றளவு (அலகுகள் ஒரே மாதிரி இருக்க வேண்டும்)",
+    "en": "Number of revolutions = Total distance / Circumference (units must be the same)"
+   },
+   "eg": {
+    "ta": "ஆரம் 7 செ.மீ கொண்ட சக்கரம் 44 மீ சென்றால் 100 சுற்றுகள் சுற்றியிருக்கும்.",
+    "en": "A wheel of radius 7 cm makes 100 revolutions in traveling 44 m."
+   },
+   "tip": {
+    "ta": "சென்டிமீட்டரை மீட்டராக மாற்றும்போது 100ஆல் வகுக்க வேண்டும் என்பதை நினைவில் கொள்க.",
+    "en": "Remember to convert centimeters to meters by dividing by 100."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q140": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட வயது விகிதங்களை வினாத்தாள் நிபந்தனையோடு ஒப்பிட்டுப் பார்க்கவும்.",
+    "en": "When asked like this, test the given age pairs against the condition after 4 years."
+   },
+   "explain": {
+    "ta": "தற்போது சங்கரின் வயது 6 எனில் சரணின் வயது 6 மடங்கு அதாவது 36 ஆகும். 4 ஆண்டுகளுக்குப் பிறகு சங்கரின் வயது 10 ஆகவும், சரணின் வயது 40 ஆகவும் இருக்கும், இது சங்கரின் வயதைப் போல 4 மடங்கு ஆகும்.",
+    "en": "Present ages 36 and 6 satisfy both conditions: Saran is 6 times Sankar, and after 4 years, he is 4 times Sankar."
+   },
+   "why": {},
+   "rule": {
+    "ta": "வயது கணக்குகளில் ஆப்ஷன் தேர்வு முறையே நேரத்தைச் சேமிக்கும் சிறந்த வழியாகும்.",
+    "en": "Option testing is the best time-saving method for age problems."
+   },
+   "eg": {
+    "ta": "தந்தையின் வயது மகனின் வயதைப் போல 5 மடங்கு எனில், தற்போதைய வயது விகிதம் 5:1 ஆகும்.",
+    "en": "If father's age is 5 times his son, the present age ratio is 5:1."
+   },
+   "tip": {
+    "ta": "காலம் மாறும்போது இருவரின் வயதுக்கும் சமமாக ஆண்டுகள் கூடும் என்பதை நினைவில் கொள்க.",
+    "en": "Remember that years added apply equally to both persons."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q141": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மீளு தசம எண்ணை (recurring decimal) விகிதமுறு எண்ணாக மாற்றும் முறையைப் பயன்படுத்தவும்.",
+    "en": "When asked like this, use the standard method to convert recurring decimals into fractions."
+   },
+   "explain": {
+    "ta": "0.35 மீது அடிக்கோடு (bar) உள்ளதால் இது ஒரு மீளு தசம எண் ஆகும். இதனைப் பின்னமாக மாற்ற தசம புள்ளிக்குப் பின் உள்ள இலக்கங்களின் எண்ணிக்கைக்கு ஏற்ப பகுதியில் ஒன்பதுகளை எழுத வேண்டும், எனவே இது 35/99 ஆகும்.",
+    "en": "The bar over 35 indicates it is a recurring decimal, which equals 35 divided by 99."
+   },
+   "why": {},
+   "rule": {
+    "ta": "0.x bar = x / 99 (இரண்டு இலக்கங்கள் மீளு தசமமாக இருந்தால் பகுதியில் இரண்டு 9 வரும்)",
+    "en": "0.x bar = x / 99 for a two-digit recurring decimal."
+   },
+   "eg": {
+    "ta": "0.57 bar இன் பின்னம் 57/99 ஆகும்.",
+    "en": "The fraction form of 0.57 bar is 57/99."
+   },
+   "tip": {
+    "ta": "சுழல் தசம எண்களுக்கு (Recurring decimals) பகுதியில் 9 வரும், சாதாரண தசம எண்களுக்கு 10-ன் அடுக்குகள் வரும்.",
+    "en": "Recurring decimals have 9s in the denominator, terminating decimals have powers of 10."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q142": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட எண்களின் மீ.சி.ம கண்டு அதன் மடங்குகளை குறிப்பிட்ட எல்லைக்குள் கண்டறிய வேண்டும்.",
+    "en": "When asked like this, find the LCM of the given numbers and count its multiples within the given range."
+   },
+   "explain": {
+    "ta": "6, 8 மற்றும் 9 இன் மீ.சி.ம 72 ஆகும். 200 மற்றும் 300க்கு இடையே உள்ள 72 இன் மடங்குகளைக் கண்டறிய வேண்டும்; 72 இன் மடங்குகள் 72, 144, 216, 288, 360 ஆகும். இதில் 200 க்கும் 300 க்கும் இடையே 216 மற்றும் 288 ஆகிய இரண்டு எண்கள் மட்டுமே உள்ளன.",
+    "en": "LCM of 6, 8, 9 is 72. Multiples between 200 and 300 are 216 and 288, making a total of two numbers."
+   },
+   "why": {},
+   "rule": {
+    "ta": "கொடுக்கப்பட்ட எண்களால் வகுபடும் எண் என்பது அந்த எண்களின் மீ.சி.ம இன் மடங்காக இருக்க வேண்டும்.",
+    "en": "A number divisible by a set of numbers must be a multiple of their LCM."
+   },
+   "eg": {
+    "ta": "2, 3, 4 ஆல் வகுபடும் எண்களின் மீ.சி.ம 12 ஆகும்.",
+    "en": "The LCM of numbers divisible by 2, 3, and 4 is 12."
+   },
+   "tip": {
+    "ta": "மீ.சி.ம கண்டறிந்த பின், எல்லை மதிப்பை மீ.சி.ம ஆல் வகுத்து மடங்குகளை எளிதில் கண்டுபிடிக்கலாம்.",
+    "en": "Divide the range limits by the LCM to quickly count the multiples."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q189": {
+   "hint": {
+    "ta": "மாறுபாட்டுக்கெழு, சராசரி மற்றும் திட்ட விலக்கம் ஆகியவற்றுக்கு இடையேயான சூத்திரத்தைப் பயன்படுத்தித் தீர்க்கவும்.",
+    "en": "Use the formula relating coefficient of variation, mean, and standard deviation to solve."
+   },
+   "explain": {
+    "ta": "மாறுபாட்டுக்கெழுவுக்கான சூத்திரம் C.V. = (திட்ட விலக்கம் / சராசரி) × 100 ஆகும். கொடுக்கப்பட்ட மதிப்புகளைப் பிரதியிட்டால் திட்ட விலக்கம் 5.24 எனக் கிடைக்கும்.",
+    "en": "Using the coefficient of variation formula C.V. = (SD / Mean) × 100, substituting the given values yields 5.24."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான கணக்கீட்டு மதிப்பாகும்.",
+     "en": "This is an incorrect calculated value."
+    },
+    "B": {
+     "ta": "இது பெருக்கல் மற்றும் வகுத்தல் பிழையால் வரும் தவறான விடையாகும்.",
+     "en": "This is an incorrect answer resulting from multiplication and division error."
+    },
+    "D": {
+     "ta": "இது தவறான தசமப் புள்ளி மதிப்பைக் குறிக்கிறது.",
+     "en": "This indicates an incorrect decimal value."
+    }
+   },
+   "rule": {
+    "ta": "திட்ட விலக்கம் = (மாறுபாட்டுக்கெழு × சராசரி) ÷ 100",
+    "en": "Standard Deviation = (Coefficient of Variation × Mean) ÷ 100"
+   },
+   "eg": {
+    "ta": "சராசரி 50, மாறுபாட்டுக்கெழு 4 எனில் திட்ட விலக்கம் (4 × 50) ÷ 100 = 2 ஆகும்.",
+    "en": "If mean is 50 and CV is 4, SD is (4 × 50) ÷ 100 = 2."
+   },
+   "tip": {
+    "ta": "மாறுபாட்டுக்கெழு சூத்திரத்தில் இருந்து திட்ட விலக்கத்தை எளிதாக வருவிக்கலாம்.",
+    "en": "Standard deviation can be easily derived from the coefficient of variation formula."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q190": {
+   "hint": {
+    "ta": "முதலில் கொடுக்கப்பட்ட காலத்திற்கு முந்தைய வயதுகளைக் கணக்கிட்டு, பின்னர் விகிதத்தைக் கண்டறியவும்.",
+    "en": "First calculate the ages before the given period and then find the ratio."
+   },
+   "explain": {
+    "ta": "8 ஆண்டுகளுக்கு முன்பு ரீனாவின் வயது 16 மற்றும் உஷாவின் வயது 28 ஆகும். உஷா மற்றும் ரீனாவின் வயதுகளின் விகிதம் 28 : 16 அதாவது 7 : 4 ஆகும்.",
+    "en": "Eight years ago, Reena's age was 16 and Usha's age was 28. The ratio of Usha's age to Reena's age is 28:16, which simplifies to 7:4."
+   },
+   "why": {
+    "B": {
+     "ta": "இது வயதுகளைக் சரியாகக் கழிக்காமல் கணக்கிட்ட தவறான விகிதமாகும்.",
+     "en": "This is an incorrect ratio calculated without properly subtracting the ages."
+    },
+    "C": {
+     "ta": "இது தற்போதைய வயதுகளின் தலைகீழ் விகிதமாகும்.",
+     "en": "This is the inverse ratio of the present ages."
+    },
+    "D": {
+     "ta": "இது ரீனா மற்றும் உஷாவின் விகிதமே தவிர, கேட்கப்பட்ட உஷா மற்றும் ரீனாவின் விகிதம் அல்ல.",
+     "en": "This is the ratio of Reena to Usha, not Usha to Reena as asked."
+    }
+   },
+   "rule": {
+    "ta": "கேள்வியில் பெயர்களின் வரிசையைக் கவனமாகப் பார்த்து விகிதத்தை எழுத வேண்டும்.",
+    "en": "Carefully observe the order of names in the question while writing the ratio."
+   },
+   "eg": {
+    "ta": "A இன் வயது 30, B இன் வயது 40 எனில் 10 ஆண்டுகளுக்கு முன்பு B மற்றும் A இன் வயதுகளின் விகிதம் (30):(20) = 3:2 ஆகும்.",
+    "en": "If A is 30 and B is 40, the ratio of B to A 10 years ago is 30:20 = 3:2."
+   },
+   "tip": {
+    "ta": "யார் பெயர் முதலில் வருகிறதோ அவர்களின் வயதை விகிதத்தில் முதலில் எழுத வேண்டும்.",
+    "en": "Write the age of the person mentioned first in the numerator of the ratio."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q191": {
+   "hint": {
+    "ta": "அடுக்கு விதிகளைப் பயன்படுத்தி அடிமானங்களைச் சீரமைத்துச் சுருக்கவும்.",
+    "en": "Simplify by aligning the bases using the laws of exponents."
+   },
+   "explain": {
+    "ta": "அடுக்குகளின் விதிகளைப் பயன்படுத்தித் தொகுதியும் பகுதியும் சுருக்கப்படும் போது சரியான விடையாக 71/9 பெறப்படுகிறது.",
+    "en": "When the numerator and denominator are simplified using exponent rules, the correct answer 71/9 is obtained."
+   },
+   "why": {
+    "A": {
+     "ta": "இது அடுக்குகளைக் கணக்கிடும் போது ஏற்படும் பிழையால் வரும் விடை.",
+     "en": "This is the answer resulting from an error in calculating exponents."
+    },
+    "B": {
+     "ta": "இது பகுதியையும் தொகுதியையும் மாற்றிப் பிரதியிட்டால் வரும் தவறான விடை.",
+     "en": "This is an incorrect answer obtained by interchanging numerator and denominator."
+    },
+    "D": {
+     "ta": "இது எண் கணிதச் சுருக்கலில் ஏற்பட்ட மாற்றத்தால் வரும் தவறான விடை.",
+     "en": "This is an incorrect answer due to a change in arithmetic simplification."
+    }
+   },
+   "rule": {
+    "ta": "(a^m)ⁿ = a^(mn) மற்றும் a^(-m) = 1/(a^m) என்ற விதிகளைப் பயன்படுத்தவும்.",
+    "en": "Use the rules (a^m)ⁿ = a^(mn) and a^(-m) = 1/(a^m)."
+   },
+   "eg": {
+    "ta": "(2²)³ = 2⁶ = 64 ஆகும்.",
+    "en": "(2²)³ = 2⁶ = 64."
+   },
+   "tip": {
+    "ta": "அடிமானங்களை முடிந்தவரை பகா எண்களாக மாற்றிக் கணக்கிடுவது எளிது.",
+    "en": "It is easier to calculate by converting bases to prime numbers whenever possible."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q192": {
+   "hint": {
+    "ta": "கனச்சதுரத்தின் மொத்தப் பரப்பளவுக்கான சூத்திரத்தைப் பயன்படுத்தவும்.",
+    "en": "Use the formula for the total surface area of a cube."
+   },
+   "explain": {
+    "ta": "கனச்சதுரத்தின் மொத்த வளைபரப்பு சூத்திரம் 6a² ஆகும். 6a² = 384 எனில், a² = 64 மற்றும் a = 8 மீ ஆகும்.",
+    "en": "The total surface area of a cube is 6a². If 6a² = 384, then a² = 64 and a = 8 m."
+   },
+   "why": {
+    "A": {
+     "ta": "இது பரப்பளவைக் ভুলாக வகுப்பதால் வரும் தவறான பக்க அளவாகும்.",
+     "en": "This is an incorrect side length due to wrong division of area."
+    },
+    "C": {
+     "ta": "இது கனசதுரத்தின் பக்கத்திற்குக் கொடுக்கப்பட்ட தவறான மதிப்பாகும்.",
+     "en": "This is an incorrect value given for the side of the cube."
+    },
+    "D": {
+     "ta": "இது 6 ஆல் வகுக்கும் போது 36 எனத் தவறாகக் கணக்கிடுவதால் வரும் விடை.",
+     "en": "This is the answer obtained by incorrectly calculating 36 when dividing by 6."
+    }
+   },
+   "rule": {
+    "ta": "கனச்சதுரத்தின் மொத்தப் பரப்பளவு = 6a² சதுர அலகுகள்",
+    "en": "Total surface area of a cube = 6a² square units"
+   },
+   "eg": {
+    "ta": "மொத்தப் பரப்பளவு 216 எனில் 6a² = 216, a² = 36, a = 6 மீ.",
+    "en": "If total surface area is 216, 6a² = 216, a² = 36, a = 6 m."
+   },
+   "tip": {
+    "ta": "6a² மதிப்பை 6 ஆல் வகுத்து வர்க்க மூலத்தைக் கண்டறிய வேண்டும்.",
+    "en": "Divide the 6a² value by 6 and find the square root to get the side."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q193": {
+   "hint": {
+    "ta": "இயற்கணிதக் கோவைகளைப் காரணிப்படுத்தி, அனைத்துக் காரணிகளின் உயர்ந்த அடுக்குகளை எடுக்கவும்.",
+    "en": "Factorize the algebraic expressions and take the highest powers of all factors."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட கோவைகளின் எண் கெழுக்களின் மீ.பொ.ம 6 ஆகும். இயற்கணிதக் காரணிகளில் (a-1)-ன் அதிகபட்ச அடுக்கு 2 மற்றும் (a+1) ஆகும், எனவே மீ.பொ.ம 6(a-1)²(a+1) ஆகும்.",
+    "en": "The LCM of the numerical coefficients is 6. The highest power of (a-1) is 2 and for (a+1) it is 1, so the LCM is 6(a-1)²(a+1)."
+   },
+   "why": {
+    "A": {
+     "ta": "இது (a+1)-ன் அடுக்கு மாறியதால் வந்த தவறான விடை.",
+     "en": "This is an incorrect answer due to incorrect power of (a+1)."
+    },
+    "B": {
+     "ta": "இது எண் கெழுவான 6 விடுபட்ட தவறான விடையாகும்.",
+     "en": "This is an incorrect answer missing the numerical coefficient 6."
+    },
+    "C": {
+     "ta": "இது (a-1) இன் அடுக்கு மாறாக எழுதப்பட்ட தவறான விடையாகும்.",
+     "en": "This is an incorrect answer with the power of (a-1) written wrongly."
+    }
+   },
+   "rule": {
+    "ta": "மீச்சிறு பொது மடங்கு (LCM) காண அனைத்துக் காரணிகளின் உயர்ந்த அடக்குகளை எழுத வேண்டும்.",
+    "en": "To find LCM, write the highest powers of all prime factors."
+   },
+   "eg": {
+    "ta": "2(x-1), 4(x-1)² இன் மீ.பொ.ம 4(x-1)² ஆகும்.",
+    "en": "The LCM of 2(x-1) and 4(x-1)² is 4(x-1)²."
+   },
+   "tip": {
+    "ta": "a²-1 ஐ (a-1)(a+1) என விரிவுபடுத்திப் பின்னர் மீ.பொ.ம காண வேண்டும்.",
+    "en": "Expand a²-1 as (a-1)(a+1) before finding the LCM."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q194": {
+   "hint": {
+    "ta": "கலப்பு பின்னத்தைத் தகா பின்னமாக மாற்றி அதன் முப்படி மூலம் காணவும்.",
+    "en": "Convert the mixed fraction into an improper fraction and find its cube root."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட கலப்புப் பின்னம் 2 மற்றும் 33/64 என்பதைத் தகா பின்னமாக மாற்ற 161/64 அல்ல 161 என்பதுடன் கேள்வியில் உள்ளதை மாற்றுக. கன மூலமானது 125/64 இன் முப்படி மூலம் 5/4 ஆகும்.",
+    "en": "Converting the mixed fraction gives 125/64 (typographic variation in question text). Its cube root, cube root of 125/64, is 5/4."
+   },
+   "why": {
+    "A": {
+     "ta": "இது வர்க்க மூலம் அல்லது தவறான எண்ணின் மூலமாகும்.",
+     "en": "This is a square root or root of a wrong number."
+    },
+    "B": {
+     "ta": "இது கொடுக்கப்பட்ட எண்களுடன் தொடர்பில்லாத தவறான விடையாகும்.",
+     "en": "This is an incorrect answer unrelated to the given numbers."
+    },
+    "D": {
+     "ta": "இது முப்படி மூலத்தின் தலைகீழ் மதிப்பாகும்.",
+     "en": "This is the reciprocal of the cube root."
+    }
+   },
+   "rule": {
+    "ta": "தொகுதி மற்றும் பகுதி இரண்டிற்கும் தனித்தனியாக முப்படி மூலம் காண வேண்டும்.",
+    "en": "Find the cube root for both numerator and denominator separately."
+   },
+   "eg": {
+    "ta": "8/27 இன் முப்படி மூலம் 2/3 ஆகும்.",
+    "en": "The cube root of 8/27 is 2/3."
+   },
+   "tip": {
+    "ta": "முக்கியமான எண்களின் கன எண்களை (1 முதல் 10 வரை) நினைவில் வைத்துக் கொள்ளவும்.",
+    "en": "Remember the cubes of numbers from 1 to 10 for quick calculation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q195": {
+   "hint": {
+    "ta": "உருளையின் கன அளவுக்கான சூத்திரத்தில் ஆரங்களின் விகிதத்தையும் உயரங்களின் விகிதத்தையும் பிரதியிட்டுச் சுருக்கிப் பாருங்கள்.",
+    "en": "Substitute the given ratios of radii and heights into the cylinder volume formula."
+   },
+   "explain": {
+    "ta": "உருளையின் கன அளவு சூத்திரம் V = pi * r² * h ஆகும். இங்கு r1 : r2 = 2 : 1 மற்றும் h1 : h2 = 1 : 2 எனில், கன அளவுகளின் விகிதம் (2² * 1) : (1² * 2) = 4 : 2 = 2 : 1 என்று கிடைக்கிறது.",
+    "en": "The volume of a cylinder is pi * r² * h. Substituting the given values gives the ratio 2 : 1."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இரு உருளைகளின் கன அளவு விகிதம் (r1² * h1) : (r2² * h2) என்ற முறையில் காணப்பட வேண்டும்.",
+    "en": "The volume ratio of two cylinders is found using (r1² * h1) : (r2² * h2)."
+   },
+   "eg": {
+    "ta": "ஆரங்கள் 1 : 1 மற்றும் உயரங்கள் 1 : 3 எனில் கன அளவு விகிதம் 1 : 3 ஆகும்.",
+    "en": "If radii are 1 : 1 and heights 1 : 3, the volume ratio is 1 : 3."
+   },
+   "tip": {
+    "ta": "ஆரத்தை இருமுறை (வர்க்கம்) பெருக்க வேண்டும் என்பதை நினைவில் கொள்க.",
+    "en": "Remember to square the radius term while finding cylinder volume."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q196": {
+   "hint": {
+    "ta": "தனிவட்டியில் ஒரு தொகை இரட்டிப்பாகும் காலத்தைக் கொண்டு வட்டி வீதம் காணும் சூத்திரத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Use the formula for rate of interest when a sum doubles in a given time under simple interest."
+   },
+   "explain": {
+    "ta": "தனிவட்டியில் காலம் T இல் ஒரு தொகை n மடங்காக மாற வட்டி வீதம் காணும் சூத்திரம் R = 100(n-1)/T ஆகும். இங்கு n = 2 மற்றும் T = 10 எனில், R = 100(2-1)/10 = 10% ஆகும்.",
+    "en": "Using the formula R = 100(n-1)/T with n=2 and T=10 yields 10%."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தனிவட்டியில் ஒரு தொகை n மடங்காகத் தேவையான வட்டி வீதம் R = 100(n-1)/T ஆகும்.",
+    "en": "The rate of interest for a sum to become n times in simple interest is R = 100(n-1)/T."
+   },
+   "eg": {
+    "ta": "தனிவட்டியில் ஒரு தொகை 20 ஆண்டுகளில் இரட்டிப்பாக வட்டி வீதம் 5% ஆகும்.",
+    "en": "The rate of interest for a sum to double in 20 years is 5%."
+   },
+   "tip": {
+    "ta": "இரட்டிப்பு என்றால் n = 2, எனவே 100-ஐக் காலத்தால் வகுத்தால் வட்டி வீதம் கிடைக்கும்.",
+    "en": "For doubling, n=2, so divide 100 by the given years to get the rate."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q197": {
+   "hint": {
+    "ta": "பெருக்குத் தொடர்வரிசையில் அடுத்தடுத்த உறுப்புகளின் விகிதத்தைக் கொண்டு பொது விகிதம் காண்க.",
+    "en": "Find the common ratio by dividing the third term by the second term."
+   },
+   "explain": {
+    "ta": "பெருக்குத் தொடர்வரிசையின் பொது விகிதம் r = t_3 / t_2 ஆகும். இங்கு t_3 = 1/5 மற்றும் t_2 = 3/5 எனில், r = (1/5) / (3/5) = 1/3 என்று கிடைக்கும்.",
+    "en": "The common ratio r is t_3 / t_2. Substituting the given values gives 1/3."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பெருக்குத் தொடரில் பொது விகிதம் r = t_n / t_{n-1} ஆகும்.",
+    "en": "In a GP, the common ratio is r = t_n / t_{n-1}."
+   },
+   "eg": {
+    "ta": "t_2 = 4 மற்றும் t_3 = 8 எனில் பொது விகிதம் 8 / 4 = 2 ஆகும்.",
+    "en": "If t_2 = 4 and t_3 = 8, the common ratio is 2."
+   },
+   "tip": {
+    "ta": "பின்னங்களை வகுக்கும் போது வகுக்கும் எண்ணின் தலைகீழியால் பெருக்க வேண்டும்.",
+    "en": "When dividing fractions, multiply by the reciprocal of the divisor."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q198": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட தொடர்முறையில் n இன் மதிப்புகளைப் பிரதியிட்டு a_2 மற்றும் a_3 ஐக் கண்டறிக.",
+    "en": "Substitute n=2 and n=3 step by step into the given recurrence relation."
+   },
+   "explain": {
+    "ta": "a_1 = -1 எனில், n = 2 க்கு a_2 = a_1 / (2+2) = -1/4 ஆகும். பின்னர் n = 3 க்கு a_3 = a_2 / (3+2) = (-1/4) / 5 = -1/20 ஆகும்.",
+    "en": "Substituting n=2 gives a_2 = -1/4, and substituting n=3 gives a_3 = -1/20."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தொடர்முறை கணக்குகளில் முந்தைய உறுப்பின் மதிப்பைப் பிரதியிட்டு அடுத்தடுத்த உறுப்புகளைக் காண வேண்டும்.",
+    "en": "In recurrence relations, find successive terms by substituting the previous term."
+   },
+   "eg": {
+    "ta": "a_1 = 2 மற்றும் a_n = a_{n-1} / n எனில் a_2 = 1 மற்றும் a_3 = 1/3 ஆகும்.",
+    "en": "If a_1 = 2 and a_n = a_{n-1} / n, then a_2 = 1 and a_3 = 1/3."
+   },
+   "tip": {
+    "ta": "தொகுதியில் உள்ள மைனஸ் குறியை இறுதி வரை கவனமாகக் கொண்டு செல்ல வேண்டும்.",
+    "en": "Carefully carry the negative sign through each calculation step."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q199": {
+   "hint": {
+    "ta": "இயல் எண்களின் கூடுதலுக்கும் அவற்றின் கனங்களின் கூடுதலுக்கும் உள்ள தொடர்பைப் பயன்படுத்துங்கள்.",
+    "en": "Recall the algebraic relation between the sum of first n natural numbers and the sum of their cubes."
+   },
+   "explain": {
+    "ta": "முதல் n கன எண்களின் கூடுதல் சூத்திரம் (1 + 2 + … + n)² ஆகும். கொடுக்கப்பட்ட படி 1 + 2 + … + n = K என்பதால், கனங்களின் கூடுதல் K² ஆகும்.",
+    "en": "The sum of cubes of first n natural numbers is equal to the square of their sum, which is K²."
+   },
+   "why": {},
+   "rule": {
+    "ta": "முதல் n கன எண்களின் கூடுதல் என்பது அவற்றின் கூட்டுத்தொகையின் வர்க்கத்திற்குச் சமம்.",
+    "en": "The sum of cubes of first n natural numbers equals the square of their sum."
+   },
+   "eg": {
+    "ta": "1 + 2 = 3 எனில் 1³ + 2³ = 3² = 9 ஆகும்.",
+    "en": "If 1 + 2 = 3, then 1³ + 2³ = 3² = 9."
+   },
+   "tip": {
+    "ta": "கனங்களின் கூடுதல் கேட்டால் கூடுதலின் வர்க்கம் (K²) என்று எழுத வேண்டும்.",
+    "en": "For sum of cubes, always square the sum (K²)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q200": {
+   "hint": {
+    "ta": "பெருக்குத் தொடர்வரிசையின் பொது விகிதம் காண இரண்டாவது உறுப்பை முதல் உறுத்தால் வகுக்க வேண்டும்.",
+    "en": "Find the common ratio by dividing the second term by the first term in the G.P."
+   },
+   "explain": {
+    "ta": "பொது விகிதம் r = t_2 / t_1 ஆகும். இங்கு t_1 = am⁻ⁿ மற்றும் t_2 = a^m எனில், r = a^m / (am⁻ⁿ) = a^(m - m + n) = aⁿ என்று கிடைக்கும்.",
+    "en": "The common ratio r = a^m / (am⁻ⁿ) simplifies using exponent rules to aⁿ."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அடுக்குகளை வகுக்கும் போது அவற்றின் அடுக்குகளைக் கழிக்க வேண்டும் (a^m / aⁿ = a^(m-n)).",
+    "en": "When dividing exponential terms with the same base, subtract the exponents."
+   },
+   "eg": {
+    "ta": "a⁵ / a² இன் மதிப்பு a^(5-2) = a³ ஆகும்.",
+    "en": "The value of a⁵ / a² is a³."
+   },
+   "tip": {
+    "ta": "பகுதியிலுள்ள எதிர்ம அடுக்கு தொகுதிக்குச் செல்லும் போது நேர்மமாக மாறும்.",
+    "en": "A negative exponent in the denominator becomes positive when moved to the numerator."
+   },
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "updated": "2026-11-21"
+}

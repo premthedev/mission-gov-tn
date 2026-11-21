@@ -1438,8 +1438,8 @@
   },
   {
    "qNo": 39,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "awards-history",
    "format": "ONE_LINER",
    "stem": {
@@ -1815,8 +1815,8 @@
   },
   {
    "qNo": 49,
-   "part": "B",
-   "unit": "B3",
+   "part": "A",
+   "unit": "A7",
    "topic": "gandhi-history",
    "format": "ONE_LINER",
    "stem": {
@@ -1853,8 +1853,8 @@
   },
   {
    "qNo": 50,
-   "part": "B",
-   "unit": "B1",
+   "part": "A",
+   "unit": "A7",
    "topic": "science-technical-terms",
    "format": "MATCH",
    "stem": {
@@ -1959,8 +1959,8 @@
   },
   {
    "qNo": 52,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "tn-history",
    "format": "STATEMENT",
    "stem": {
@@ -2033,8 +2033,8 @@
   },
   {
    "qNo": 54,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "tn-history-architecture",
    "format": "ONE_LINER",
    "stem": {
@@ -3688,8 +3688,8 @@
   },
   {
    "qNo": 95,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "tn-history-culture",
    "format": "ONE_LINER",
    "stem": {
@@ -5002,8 +5002,8 @@
   },
   {
    "qNo": 125,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "ONE_LINER",
    "stem": {
@@ -5070,7 +5070,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "கூட்டுவட்டி சூத்திரம் A = P(1 + r/100)^n மூலம் கணக்கிடப்படுகிறது.",
+    "ta": "கூட்டுவட்டி சூத்திரம் A = P(1 + r/100)ⁿ மூலம் கணக்கிடப்படுகிறது.",
     "en": ""
    }
   },
@@ -5150,8 +5150,8 @@
   },
   {
    "qNo": 129,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural-praise",
    "format": "ONE_LINER",
    "stem": {
@@ -5187,8 +5187,8 @@
   },
   {
    "qNo": 130,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "ONE_LINER",
    "stem": {
@@ -5451,8 +5451,8 @@
    "topic": "ratio",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "x : y = 2 : 1 எனில் (x^2 - y^2) : (x^2 + y^2) என்பது",
-    "en": "If x : y = 2 : 1, then (x^2 - y^2) : (x^2 + y^2) is"
+    "ta": "x : y = 2 : 1 எனில் (x² - y²) : (x² + y²) என்பது",
+    "en": "If x : y = 2 : 1, then (x² - y²) : (x² + y²) is"
    },
    "options": {
     "A": {
@@ -5477,7 +5477,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "x = 2, y = 1 எனில் (2^2 - 1^2) : (2^2 + 1^2) = (4 - 1) : (4 + 1) = 3 : 5.",
+    "ta": "x = 2, y = 1 எனில் (2² - 1²) : (2² + 1²) = (4 - 1) : (4 + 1) = 3 : 5.",
     "en": ""
    }
   },
@@ -5525,25 +5525,25 @@
    "topic": "lcm",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$A=1, B=2, C=3, \\dots Z=26$ எனக் கொண்டால் H,C,F-ன் மீ.சி.ம எதற்குச் சமமில்லை?",
-    "en": "If $A=1, B=2, C=3, \\dots Z=26$ then L.C.M. of H,C,F is not equal to"
+    "ta": "A=1, B=2, C=3, … Z=26 எனக் கொண்டால் H,C,F-ன் மீ.சி.ம எதற்குச் சமமில்லை?",
+    "en": "If A=1, B=2, C=3, … Z=26 then L.C.M. of H,C,F is not equal to"
    },
    "options": {
     "A": {
-     "ta": "$X$",
-     "en": "$X$"
+     "ta": "X",
+     "en": "X"
     },
     "B": {
-     "ta": "$E+S$",
-     "en": "$E+S$"
+     "ta": "E+S",
+     "en": "E+S"
     },
     "C": {
-     "ta": "$A+C+H$",
-     "en": "$A+C+H$"
+     "ta": "A+C+H",
+     "en": "A+C+H"
     },
     "D": {
-     "ta": "$A \\times C \\times H$",
-     "en": "$A \\times C \\times H$"
+     "ta": "A × C × H",
+     "en": "A × C × H"
     }
    },
    "answer": "C",
@@ -5562,25 +5562,25 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "மதிப்பு காண்க $\\sqrt{5 \\sqrt{5 \\sqrt{5 \\dots}}}$.",
-    "en": "Find the value of $\\sqrt{5 \\sqrt{5 \\sqrt{5 \\dots}}}$."
+    "ta": "மதிப்பு காண்க √(5 √(5 √(5 …))).",
+    "en": "Find the value of √(5 √(5 √(5 …)))."
    },
    "options": {
     "A": {
-     "ta": "$5^3$",
-     "en": "$5^3$"
+     "ta": "5³",
+     "en": "5³"
     },
     "B": {
-     "ta": "$5^0$",
-     "en": "$5^0$"
+     "ta": "5⁰",
+     "en": "5⁰"
     },
     "C": {
-     "ta": "$5^2$",
-     "en": "$5^2$"
+     "ta": "5²",
+     "en": "5²"
     },
     "D": {
-     "ta": "$5^1$",
-     "en": "$5^1$"
+     "ta": "5¹",
+     "en": "5¹"
     }
    },
    "answer": "D",
@@ -5588,8 +5588,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "முடிவிலா வர்க்க மூலத் தொடரின் மதிப்பு அந்த எண்ணே ஆகும். எனவே விடை 5 ($5^1$).",
-    "en": "An infinite nested square root of a number equals the number itself. Thus, the value is 5, which is $5^1$."
+    "ta": "முடிவிலா வர்க்க மூலத் தொடரின் மதிப்பு அந்த எண்ணே ஆகும். எனவே விடை 5 (5¹).",
+    "en": "An infinite nested square root of a number equals the number itself. Thus, the value is 5, which is 5¹."
    }
   },
   {
@@ -5637,24 +5637,24 @@
    "format": "ONE_LINER",
    "stem": {
     "ta": "உயரம் 4 மீ மற்றும் அடிப்பரப்பு 500 ச.மீ கொண்ட ஓர் உருளையின் கனஅளவைக் காண்க.",
-    "en": "Find the volume of a cylinder whose height is 4 m and whose base area is 500 m^2."
+    "en": "Find the volume of a cylinder whose height is 4 m and whose base area is 500 m²."
    },
    "options": {
     "A": {
-     "ta": "2000 \\text{ மீ}^3",
-     "en": "2000 \\text{ m}^3"
+     "ta": "2000 மீ³",
+     "en": "2000 m³"
     },
     "B": {
-     "ta": "2500 \\text{ மீ}^3",
-     "en": "2500 \\text{ m}^3"
+     "ta": "2500 மீ³",
+     "en": "2500 m³"
     },
     "C": {
-     "ta": "2100 \\text{ மீ}^3",
-     "en": "2100 \\text{ m}^3"
+     "ta": "2100 மீ³",
+     "en": "2100 m³"
     },
     "D": {
-     "ta": "2700 \\text{ மீ}^3",
-     "en": "2700 \\text{ m}^3"
+     "ta": "2700 மீ³",
+     "en": "2700 m³"
     }
    },
    "answer": "A",
@@ -5662,8 +5662,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "உருளையின் கனஅளவு = அடிப்பரப்பு \\times உயரம் = 500 \\times 4 = 2000 \\text{ மீ}^3.",
-    "en": "Volume of cylinder = Base Area \\times Height = 500 \\times 4 = 2000 \\text{ m}^3."
+    "ta": "உருளையின் கனஅளவு = அடிப்பரப்பு × உயரம் = 500 × 4 = 2000 மீ³.",
+    "en": "Volume of cylinder = Base Area × Height = 500 × 4 = 2000 m³."
    }
   },
   {
@@ -7088,8 +7088,8 @@
   },
   {
    "qNo": 180,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural-meaning",
    "format": "ONE_LINER",
    "stem": {
@@ -7125,8 +7125,8 @@
   },
   {
    "qNo": 181,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural-philosophy",
    "format": "ONE_LINER",
    "stem": {
@@ -7389,8 +7389,8 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "1^3 + 2^3 + 3^3 + ... + K^3 = 72900 எனில், 1 + 2 + 3 + ... + K யின் மதிப்பு காண்க.",
-    "en": "If 1^3 + 2^3 + 3^3 + ... + K^3 = 72900 then find 1 + 2 + 3 + ... + K."
+    "ta": "1³ + 2³ + 3³ + ... + K³ = 72900 எனில், 1 + 2 + 3 + ... + K யின் மதிப்பு காண்க.",
+    "en": "If 1³ + 2³ + 3³ + ... + K³ = 72900 then find 1 + 2 + 3 + ... + K."
    },
    "options": {
     "A": {
@@ -7415,8 +7415,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "(1 + 2 + 3 + ... + K)^2 = 1^3 + 2^3 + ... + K^3. எனவே 72900-ன்வர்க்கமூலம் 270 ஆகும்.",
-    "en": "(1 + 2 + ... + K)^2 = Sum of cubes. Taking square root of 72900 gives 270."
+    "ta": "(1 + 2 + 3 + ... + K)² = 1³ + 2³ + ... + K³. எனவே 72900-ன்வர்க்கமூலம் 270 ஆகும்.",
+    "en": "(1 + 2 + ... + K)² = Sum of cubes. Taking square root of 72900 gives 270."
    }
   },
   {
@@ -7600,7 +7600,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "மூன்று ஆண்டுகளுக்கான தனி வட்டிக்கும் கூட்டு வட்டிக்கும் உள்ள வித்தியாசம் формул $P(\\frac{r}{100})^2 (3 + \\frac{r}{100})$ கொண்டு கணக்கிடப்படுகிறது.",
+    "ta": "மூன்று ஆண்டுகளுக்கான தனி வட்டிக்கும் கூட்டு வட்டிக்கும் உள்ள வித்தியாசம் формул P(r/100)² (3 + r/100) கொண்டு கணக்கிடப்படுகிறது.",
     "en": ""
    }
   },

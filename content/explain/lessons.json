@@ -1,0 +1,3949 @@
+{
+ "name": "lessons",
+ "items": {
+  "w1-oli-veruppadu-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ல, ள, ழ வேறுபாடுகளைப் பாருங்கள்.",
+    "en": "Check the difference between la, la, zha for similar sounding words."
+   },
+   "explain": {
+    "ta": "சமச்சீர் நூல்களின்படி வளி என்னும் சொல் காற்றைக் குறிக்கும். வழி என்பது பாதையையும், வலி என்பது நோவு அல்லது வலிமையையும் குறிக்கும்.",
+    "en": "According to textbooks, the word vali means wind. Vali with ழ means path, and vali with ல means pain."
+   },
+   "why": {
+    "A": {
+     "ta": "வழி என்பது பாதையைக் குறிக்கும் சொல்லாகும்.",
+     "en": "Vali with ழ refers to path."
+    },
+    "C": {
+     "ta": "வலிமை என்பது உடல் அல்லது மனப் பலத்தைக் குறிக்கும்.",
+     "en": "Valimai refers to strength."
+    },
+    "D": {
+     "ta": "நோவு என்பது உடல் வலியைக் குறிக்கும்.",
+     "en": "Noavu refers to pain or ache."
+    }
+   },
+   "rule": {
+    "ta": "ஒலி வேறுபாடு அறியும் போது லகர, ளகர, ழகர வேறுபாடுகளைக் கவனிக்க வேண்டும்.",
+    "en": "Note the exact consonant (l, L, zh) while finding word meanings."
+   },
+   "eg": {
+    "ta": "வாலி (இளம்பெண்) - வாளை (மீன்) - வாழை (மரம்)",
+    "en": "Vaali (young woman) - vaalai (fish) - vaazhai (banana tree)."
+   },
+   "tip": {
+    "ta": "வளி - காற்று, வழி - பாதை, வலி - நோவு.",
+    "en": "VaLi is wind, vazhi is path, vali is pain."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-oli-veruppadu-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ன மற்றும் ண வேறுபாட்டைப் பாருங்கள்.",
+    "en": "Examine the difference between ன and ண in the given options."
+   },
+   "explain": {
+    "ta": "சுழி னகரம் கொண்ட 'ஊண்' என்னும் சொல் உணவைக் குறிக்கும். மூன்று சுழி ணகரம் கொண்ட 'ஊன்' என்னும் சொல் தசையைக் குறிக்கும்.",
+    "en": "OoN with 2-loop ன refers to food, whereas Oon with 3-loop ண refers to flesh."
+   },
+   "why": {
+    "B": {
+     "ta": "தசை என்பது 'ஊன்' (மூன்று சுழி ண) எனக் குறிக்கப்படும்.",
+     "en": "Flesh is written as oon with ண."
+    },
+    "C": {
+     "ta": "உடல் என்பது மனித உடலைக் குறிக்கும் பொதுச்சொல்.",
+     "en": "Udal is the general term for body."
+    },
+    "D": {
+     "ta": "உறக்கம் என்பது தூக்கத்தைக் குறிக்கும்.",
+     "en": "Urakkam means sleep."
+    }
+   },
+   "rule": {
+    "ta": "ன - ண ஒலி வேறுபாடு அறியும் போது சொற்களின் பொருளைச் சரியாகப் பொருத்திப் பார்க்க வேண்டும்.",
+    "en": "Distinguish between ன and ண based on standard word meanings."
+   },
+   "eg": {
+    "ta": "மனி (தவறு) - கணி (கணக்கிடு), மனம் (உள்ளம்) - மணம் (வாசனை)",
+    "en": "Manam (mind) - manam (fragrance)."
+   },
+   "tip": {
+    "ta": "ஊண் (உணவு) - ஊன் (தசை); சுழி வேறுபாட்டை நன்று கவனிக்குக.",
+    "en": "Notice the loop difference for food versus flesh."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-oli-veruppadu-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ர மற்றும் ற எழுத்துகளின் பொருளைப் பாருங்கள்.",
+    "en": "Check the meanings for words differing in ர and ற."
+   },
+   "explain": {
+    "ta": "இறை என்னும் சொல் கடவுளையும், இரை என்னும் சொல் விலங்கின் உணவையும் குறிக்கும். இவ்விரு சொற்களும் தேர்வில் அடிக்கடி கேட்கப்படுபவை.",
+    "en": "Irai with ற refers to God, while irai with ர refers to animal prey/food."
+   },
+   "why": {
+    "A": {
+     "ta": "விலங்கின் உணவு என்பது 'இரை' (ஒற்றை ர) ஆகும்.",
+     "en": "Animal food is spelled with single ர (irai)."
+    },
+    "C": {
+     "ta": "மழை என்பது வானிலிருந்து பொழியும் நீரைக் குறிக்கும்.",
+     "en": "Mazhai refers to rain."
+    },
+    "D": {
+     "ta": "இரவு என்பது பகல் அல்லாத பொழுதைக் குறிக்கும்.",
+     "en": "Iravu refers to night."
+    }
+   },
+   "rule": {
+    "ta": "ர மற்றும் ற வேறுபாடு அறிந்து சொற்களின் பொருளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the exact meanings of words with ர and ற."
+   },
+   "eg": {
+    "ta": "அரம் (கருவி) - அறம் (நல்லொழுக்கம்)",
+    "en": "Aram (file tool) - aRam (virtue)."
+   },
+   "tip": {
+    "ta": "இறை = கடவுள்; இரை = உணவு.",
+    "en": "Irai (with ற) is God; irai (with ர) is prey."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-oli-veruppadu-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் வாக்கியத்திற்குப் பொருந்தும் சரியான எழுத்தைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Select the spelling that fits the context of the sentence."
+   },
+   "explain": {
+    "ta": "ஆற்றின் ஓரமாகிய பகுதியைத் குறிக்க 'கரை' (ஒற்றை ர) பயன்படுத்த வேண்டும். கறை என்பது அழுக்கைக் குறிக்கும்.",
+    "en": "Karai with ர refers to the river bank, whereas karai with ற means stain."
+   },
+   "why": {
+    "A": {
+     "ta": "கறை என்பது துணி அல்லது பொருளின் மீதுள்ள அழுக்கைக் குறிக்கும்.",
+     "en": "Karai with ற means stain or blemish."
+    },
+    "C": {
+     "ta": "கரைய என்பது வாக்கிய அமைப்பிற்குப் பொருந்தாத வடிவமாகும்.",
+     "en": "Karaiya is grammatically incorrect here."
+    },
+    "D": {
+     "ta": "கறைய என்பது பிழையான சொல் வடிவமாகும்.",
+     "en": "Kharaiya is a defective word form."
+    }
+   },
+   "rule": {
+    "ta": "வாக்கியத்தில் பொருந்துமாறு ர, ற, ல, ள, ழ சொற்களைத் தேர்ந்தெடுக்க வேண்டும்.",
+    "en": "Choose the correct homophone based on sentence context."
+   },
+   "eg": {
+    "ta": "துணியில் கறை படிந்தது - ஆற்றின் கரை நிரம்பியது",
+    "en": "Stain on cloth - river bank overflowed."
+   },
+   "tip": {
+    "ta": "ஆற்றின் ஓரம் கரை; அழுக்கு கறை.",
+    "en": "River bank uses ர."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-oli-veruppadu-c5": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் அறம் சொல்லின் நேரான பொருளைப் பாருங்கள்.",
+    "en": "Look for the direct meaning of the word aRam."
+   },
+   "explain": {
+    "ta": "அறம் என்னும் சொல் நல்லொழுக்கம் அல்லது நீதியைக் குறிக்கும். அரம் என்பது இரும்பை அராவும் கருவியைக் குறிக்கும்.",
+    "en": "The word aRam means virtue or righteousness, while aaram with ர is a tool."
+   },
+   "why": {
+    "A": {
+     "ta": "இரும்பை அராவும் கருவி 'அரம்' (ஒற்றை ர) என அழைக்கப்படும்.",
+     "en": "A file tool is spelled as aram with ர."
+    },
+    "C": {
+     "ta": "மரம் என்பது தாவர வகையைக் குறிக்கும்.",
+     "en": "Maram refers to tree."
+    },
+    "D": {
+     "ta": "வீரம் என்பது 'மறம்' எனப்படும்.",
+     "en": "Bravery is termed as maRam."
+    }
+   },
+   "rule": {
+    "ta": "அறம் என்பது நற்செயல் மற்றும் நல்லொழுக்கத்தைக் குறிக்கும்.",
+    "en": "Aram denotes righteous conduct and virtue."
+   },
+   "eg": {
+    "ta": "அறம் செய் விரும்பு - அவ்வையார் கூற்று.",
+    "en": "Desire to do good deeds - Avvaiyar quote."
+   },
+   "tip": {
+    "ta": "அறம் = நல்லொழுக்கம்; அரம் = கருவி.",
+    "en": "Aram (ra) is tool; aRam (Ra) is virtue."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-inam-suttu-vina-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சுட்டு எழுத்தை நீக்கினால் தனிச் சொல் வருகிறதா எனப் பாருங்கள்.",
+    "en": "Check if removing the demonstrative prefix leaves a complete independent word."
+   },
+   "explain": {
+    "ta": "அவ்வீடு என்னும் சொல்லை அ + வீடு எனப் பிரிக்கலாம். சுட்டு எழுத்தை நீக்கிய பின் 'வீடு' என்ற தனிச்சொல் நிற்பதால் இது புறச்சுட்டு எனப்படும்.",
+    "en": "Avveedu splits as a + veedu. Since 'veedu' stands independently after removing the prefix 'a', it is external demonstrative (puRachuttu)."
+   },
+   "why": {
+    "A": {
+     "ta": "அகச்சுட்டு என்பது சுட்டு எழுத்தைப் பிரிக்க முடியாத சொற்களில் வரும் (எ.கா: அவன்).",
+     "en": "Akachuttu cannot be split (e.g., avan)."
+    },
+    "C": {
+     "ta": "அகவினா என்பது பிரிக்க முடியாத வினாச் சொல்லாகும்.",
+     "en": "Akavinaa is an unsplittable interrogative word."
+    },
+    "D": {
+     "ta": "புறவினா என்பது வினா எழுத்தைப் பிரிக்கும் சொற்களில் வரும்.",
+     "en": "PuRavinaa is a splittable interrogative word."
+    }
+   },
+   "rule": {
+    "ta": "சுட்டு அல்லது வினா எழுத்தைப் பிரித்தால் தனிச் சொல் நின்றால் அது புறச்சுட்டு / புறவினா ஆகும்.",
+    "en": "If removing the prefix leaves a complete word, it is external (puRachuttu/puRavinaa)."
+   },
+   "eg": {
+    "ta": "இப்பையன் = இ + பையன் (புறச்சுட்டு); இவன் = அகச்சுட்டு.",
+    "en": "Ippayyan = i + payyan (puRachuttu); ivan = akachuttu."
+   },
+   "tip": {
+    "ta": "பிரிக்க முடிந்தால் புறம்; பிரிக்க முடியாது என்றால் அகம்.",
+    "en": "Splittable is puRam; unsplittable is akam."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-inam-suttu-vina-c2": {
+   "hint": {
+    "ta": "வினா எழுத்துகளில் எவை சொல்லின் இறுதியில் மட்டும் வரும் என்பதைப் பாருங்கள்.",
+    "en": "Look for the interrogative letters that appear only at the end of a word."
+   },
+   "explain": {
+    "ta": "ஆ, ஓ ஆகிய இரண்டும் சொல்லின் இறுதியில் மட்டுமே வினாப் பொருளில் வரும் (எ.கா: அவனா? அதுவோ?). எ, யா என்பவை முதலிலும், ஏ இரண்டிடத்திலும் வரும்.",
+    "en": "The interrogative letters 'aa' and 'o' appear exclusively at the end of a word."
+   },
+   "why": {
+    "A": {
+     "ta": "எ, யா ஆகிய வினா எழுத்துகள் சொல்லின் முதலில் மட்டுமே வரும்.",
+     "en": "The interrogative letters 'e' and 'yaa' appear only at the beginning."
+    },
+    "C": {
+     "ta": "ஏ என்னும் வினா எழுத்து சொல்லின் முதலிலும் இறுதியிலும் என இரண்டிடத்திலும் வரும்.",
+     "en": "The interrogative letter 'ae' appears at both the beginning and the end."
+    },
+    "D": {
+     "ta": "அ, இ என்பவை வினா எழுத்துகள் அல்ல, சுட்டு எழுத்துகள் ஆகும்.",
+     "en": "The letters 'a' and 'i' are demonstrative letters, not interrogative."
+    }
+   },
+   "rule": {
+    "ta": "ஆ, ஓ இறுதியில் மட்டுமே வரும்; எ, யா முதலில் மட்டுமே வரும்; ஏ இரண்டிடத்திலும் வரும்.",
+    "en": "Aa and o appear only at the end; e and yaa at the beginning; ae at both."
+   },
+   "eg": {
+    "ta": "வந்தானா? அவனோ? என்பவற்றில் ஆ, ஓ இறுதியில் வந்துள்ளன.",
+    "en": "In 'vandhaanaa?' and 'avano?', 'aa' and 'o' come at the end."
+   },
+   "tip": {
+    "ta": "இறுதியில் நிற்கும் ஆ, ஓ -வை நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember that 'aa' and 'o' sit at the end."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-inam-suttu-vina-c3": {
+   "hint": {
+    "ta": "மெல்லின எழுத்து வல்லின எழுத்துக்கு இனமாக எங்கு வரும் என்பதைப் பாருங்கள்.",
+    "en": "Check which nasal letter correctly matches the preceding or following plosive."
+   },
+   "explain": {
+    "ta": "'ட' என்ற வல்லின எழுத்திற்கு இனமான மெல்லினம் 'ண' ஆகும். எனவே ட-வின் முன் ண வந்து 'கண்டு' என்று சரியாக எழுதப்பட்டுள்ளது.",
+    "en": "The nasal 'na' (nna) is the matching pair for the plosive 'Ta', making 'kanDu' correct."
+   },
+   "why": {
+    "A": {
+     "ta": "ட என்ற வல்லினத்திற்கு ன் என்பது இனவெழுத்து அல்ல.",
+     "en": "Letter 'n' (na) is not the matching pair for 'Ta'."
+    },
+    "C": {
+     "ta": "ந என்பது த என்ற வல்லினத்திற்குரிய இனவெழுத்து ஆகும்.",
+     "en": "Letter 'na' belongs to the plosive 'tha'."
+    },
+    "D": {
+     "ta": "ஞ என்பது ச என்ற வல்லினத்திற்குரிய இனவெழுத்து ஆகும்.",
+     "en": "Letter 'nja' belongs to the plosive 'cha'."
+    }
+   },
+   "rule": {
+    "ta": "ட-வுக்கு இனம் ண; எப்போதும் ட-வின் முன் ண மட்டுமே வரும்.",
+    "en": "The pair for Ta is Nna; Nna always precedes Ta."
+   },
+   "eg": {
+    "ta": "வண்டு, கண்டு என்பவை ட-ண இணைக்குச் சிறந்த எடுத்துக்காட்டுகள்.",
+    "en": "'vaNdu' and 'kanDu' are classic examples of the Ta-Nna pair."
+   },
+   "tip": {
+    "ta": "ட-ண, த-ந, ப-ம இன இணைகளை எப்போதும் மனத்தில் கொள்ளுங்கள்.",
+    "en": "Always keep the plosive-nasal pairs in mind."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-inam-suttu-vina-c4": {
+   "hint": {
+    "ta": "தமிழ் எழுத்துகளின் இன இணைகளில் 'ட' விற்குரிய இன மெல்லினம் எது என்பதைப் பாருங்கள்.",
+    "en": "Identify the nasal letter that pairs with the plosive 'Ta'."
+   },
+   "explain": {
+    "ta": "தமிழ் மெய் எழுத்துகளில் ட, ண என்பவை இணை எழுத்துகள் ஆகும். இதில் ட வல்லினம், ண அதன் இன மெல்லினம் ஆகும்.",
+    "en": "Among Tamil consonants, 'Ta' and 'Nna' form a natural phonetic pair where 'Nna' is the nasal."
+   },
+   "why": {
+    "A": {
+     "ta": "ந என்பது த என்ற வல்லினத்தின் இன மெல்லினம் ஆகும்.",
+     "en": "Letter 'na' is the nasal for the plosive 'tha'."
+    },
+    "C": {
+     "ta": "ன என்பது ற என்ற வல்லினத்தின் இன மெல்லினம் ஆகும்.",
+     "en": "Letter 'na' is the nasal for the plosive 'Rra'."
+    },
+    "D": {
+     "ta": "ம என்பது ப என்ற வல்லினத்தின் இன மெல்லினம் ஆகும்.",
+     "en": "Letter 'ma' is the nasal for the plosive 'pa'."
+    }
+   },
+   "rule": {
+    "ta": "ஒவ்வொரு வல்லின மெய்க்கும் ஒரு மெல்லின மெய் இன எழுத்தாக அமையும்.",
+    "en": "Each plosive consonant has a corresponding nasal consonant as its pair."
+   },
+   "eg": {
+    "ta": "ச-ஞ, ப-ம என்பவை மற்ற இன இணைகளாகும்.",
+    "en": "'Cha-nja' and 'pa-ma' are other such pairs."
+   },
+   "tip": {
+    "ta": "கசடதபற - ஙஞணநமன வரிசையை வரிசையாக ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the plosive and nasal rows sequentially."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-inam-suttu-vina-c5": {
+   "hint": {
+    "ta": "வினா எழுத்து சொல்லின் உள்ளே அமைந்து பிரிக்க முடியாதவாறு உள்ளதா எனப் பாருங்கள்.",
+    "en": "Check if the interrogative element is embedded inside the word and cannot be split."
+   },
+   "explain": {
+    "ta": "'யார்' என்னும் சொல்லில் உள்ள யா என்னும் வினா எழுத்தை வெளியே எடுத்தால் தனிச்சொல் நிற்காது. எனவே இது அகவினா ஆகும்.",
+    "en": "In the word 'yaar', removing the interrogative part leaves no meaningful base word, making it an internal question."
+   },
+   "why": {
+    "B": {
+     "ta": "புறவினா என்பது வினா எழுத்தை நீக்கினாலும் மீதி தனிச்சொல்லாக நிற்கும் வகையாகும்.",
+     "en": "An external question leaves a meaningful base word when the interrogative letter is removed."
+    },
+    "C": {
+     "ta": "இது சுட்டு எழுத்தைக் குறிக்கும் சொல்லல்ல, வினா எழுத்தைக் குறிக்கும் சொல்.",
+     "en": "This is an interrogative word, not a demonstrative one."
+    },
+    "D": {
+     "ta": "இது சுட்டுப் பொருளைத் தரும் புறச்சுட்டுச் சொல் அல்ல.",
+     "en": "This is not an external demonstrative word."
+    }
+   },
+   "rule": {
+    "ta": "பிரிக்க முடியாத வினாச் சொல் அகவினா; பிரிக்கக் கூடியது புறவினா.",
+    "en": "An unsplittable interrogative word is internal; a splittable one is external."
+   },
+   "eg": {
+    "ta": "எது, யார் என்பவை அகவினா; எவ்வீடு என்பது புறவினா.",
+    "en": "'edhu', 'yaar' are internal; 'evveedu' is external."
+   },
+   "tip": {
+    "ta": "உள்ளே இருக்கும் வினா எழுத்தைப் பிரிக்க முடிந்தால் புறவினா, முடியாவிட்டால் அகவினா.",
+    "en": "If you can split the interrogative part, it is external; otherwise internal."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mikum-c1": {
+   "hint": {
+    "ta": "சுட்டுச் சொற்களுக்குப் பின் வல்லினம் மிகுமா என்பதைச் சந்திப்பிதிப்படி பாருங்கள்.",
+    "en": "Check sandhi rules for whether plosives double after demonstrative words."
+   },
+   "explain": {
+    "ta": "'அந்த', 'இந்த', 'எந்த' என்னும் சுட்டு மற்றும் வினாச் சொற்களுக்குப் பின் வல்லினம் மிகும். எனவே 'அந்தப் பையன்' என்பதில் ஒற்று மிகுந்து வருவது சரியாகும்.",
+    "en": "Plosives double after demonstrative words like 'andha', making 'andhap paiyan' correct."
+   },
+   "why": {
+    "A": {
+     "ta": "சுட்டுச் சொல்லுக்குப் பின் வல்லின ஒற்று மிக வேண்டும், இங்கு மிகவில்லை.",
+     "en": "The plosive consonant must double after the demonstrative word, which is missing here."
+    },
+    "C": {
+     "ta": "இரண்டு இடங்களில் ஒற்று வந்துள்ளது; க்கும் சேர்ந்து வருவது தவறான சந்திப் பிழையாகும்.",
+     "en": "Double doubling of consonants is grammatically incorrect."
+    },
+    "D": {
+     "ta": "தவறான இடத்தில் ஒற்று சேர்ந்துள்ளது; இது இலக்கண முறைப்படி பிழையாகும்.",
+     "en": "Consonant doubling is placed incorrectly, making it grammatically wrong."
+    }
+   },
+   "rule": {
+    "ta": "அ, இ, எ சுட்டு மற்றும் வினாத் திரிபுகளுக்குப் பின் வல்லினம் மிகும்.",
+    "en": "Plosives double after 'a', 'i', 'e' demonstratives and derivatives."
+   },
+   "eg": {
+    "ta": "அந்தக் காடு, இந்தப் பையன் என்பவை இதற்குச் சான்றாகும்.",
+    "en": "'andhak kaadu', 'indhap paiyan' are examples."
+   },
+   "tip": {
+    "ta": "'அந்த', 'இந்த' என்றாலே உடனே ஒற்று சேர்த்து எழுத வேண்டும்.",
+    "en": "Whenever you see 'andha' or 'indha', add the consonant."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mikum-c2": {
+   "hint": {
+    "ta": "வேற்றுமை உருபுகள் வரும்போது எங்கு வல்லினம் மிகும் என்பதை நினைவுகூருங்கள்.",
+    "en": "Recall where plosives double when case markers appear."
+   },
+   "explain": {
+    "ta": "இரண்டாம் வேற்றுமை விரி ஆகிய 'ஐ' வெளிப்படையாக வரும்போது அதற்குப் பின் வல்லினம் மிகும். எனவே 'பாடத்தைப் படித்தான்' என்பதில் 'ப்' மிகுகிறது.",
+    "en": "When the accusative case marker '-ai' is explicit, the following plosive doubles."
+   },
+   "why": {
+    "A": {
+     "ta": "இது எழுவாய்த் தொடர் ஆகும்; எழுவாய்த் தொடருக்குப் பின் வல்லினம் மிகாது.",
+     "en": "This is a nominative subject phrase where plosives do not double."
+    },
+    "C": {
+     "ta": "இது பெயரெச்சத் தொடர் ஆகும்; பெயரெச்சத்திற்குப் பின் வல்லினம் மிகாது.",
+     "en": "This is an adjective participle phrase where plosives do not double."
+    },
+    "D": {
+     "ta": "இது விளித்தொடர் ஆகும்; விளித்தொடருக்குப் பின் வல்லினம் மிகாது.",
+     "en": "This is a vocative address phrase where plosives do not double."
+    }
+   },
+   "rule": {
+    "ta": "இரண்டாம் வேற்றுமை விரி (ஐ) மற்றும் நான்காம் வேற்றுமை விரி (கு) பின் வல்லினம் மிகும்.",
+    "en": "Plosives double after 2nd and 4th case markers (-ai, -ku)."
+   },
+   "eg": {
+    "ta": "கனியைக் கொடு, ஊருக்குச் சென்றான் என்பவை சரியான எடுத்துக்காட்டுகள்.",
+    "en": "'kaniyaik kodu', 'oorukku senraan' are correct examples."
+   },
+   "tip": {
+    "ta": "ஐ, கு உருபுகள் வந்தால் கண்ணை மூடிக்கொண்டு ஒற்று சேர்க்கலாம்.",
+    "en": "Whenever '-ai' or '-ku' appears, add the consonant."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mikum-c3": {
+   "hint": {
+    "ta": "இரண்டாம் சொல்லின் முதல் எழுத்து வல்லினமாக இருந்து, முதல் சொல்லின் இறுதியில் 'கு' உருபு வந்தால் என்ன நடக்கும் என்பதைப் பாருங்கள்.",
+    "en": "Check if the word ends with the dative suffix -ku followed by a hard consonant."
+   },
+   "explain": {
+    "ta": "இது நான்காம் வேற்றுமை விரி ஆகும். 'வீட்டுக்கு' என்பதில் 'கு' விகுதி வெளிப்படையாக வந்துள்ளதால், அடுத்த சொல்லின் முதல் வல்லின எழுத்துக்கு முன் அதற்கேற்ற ஒற்று மிகும்.",
+    "en": "This is a dative case expansion where the suffix -ku requires the following hard consonant to double."
+   },
+   "why": {
+    "A": {
+     "ta": "ஒற்று எழுதப்படாமல் விட்டதால் இது சந்திப்பிழையுள்ள தொடராகும்.",
+     "en": "Missing the required hard consonant doubling makes it incorrect."
+    },
+    "C": {
+     "ta": "தேவையற்ற இரட்டை ஒற்று வந்திருப்பதால் இது தவறான வடிவமாகும்.",
+     "en": "Having an unnecessary double consonant makes it wrong."
+    },
+    "D": {
+     "ta": "உருபு முழுமையாகக் கெட்டுவிட்டதால் இது தவறான புணர்ச்சியாகும்.",
+     "en": "Dropping the case suffix entirely makes it incorrect."
+    }
+   },
+   "rule": {
+    "ta": "நான்காம் வேற்றுமை விரிக்கும் (கு) பின் வல்லினம் மிகும்.",
+    "en": "Hard consonants double after the dative suffix -ku."
+   },
+   "eg": {
+    "ta": "ஊருக்குச் சென்றான்",
+    "en": "Went to the town."
+   },
+   "tip": {
+    "ta": "'கு' விகுதிக்குப்பின் ஒற்று தவறாமல் சேர்க்க வேண்டும்.",
+    "en": "Always add the hard consonant after the -ku suffix."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mikum-c4": {
+   "hint": {
+    "ta": "முதல் சொல்லின் ஈற்றில் உள்ள அகரம் கெட்டு எதிர்மறைப் பொருளைத் தரும் பெயரெச்சமாக வந்தால் என்ன நடக்கும் என்று பாருங்கள்.",
+    "en": "Check if the word is a negative adjectival participle with a dropped ending."
+   },
+   "explain": {
+    "ta": "'ஓடா' என்பது 'ஓடாத' என்ற சொல்லின் ஈறு கெட்டு நின்ற எதிர்மறைப் பெயரெச்சமாகும். ஈறுகெட்ட எதிர்மறைப் பெயரெச்சத்தின் பின் வல்லினம் மிகும் என்பதால் 'ஓடாக் குதிரை' என்று புணரும்.",
+    "en": "This is a negative adjectival participle with a dropped ending, which requires the following hard consonant to double."
+   },
+   "why": {
+    "A": {
+     "ta": "ஒற்று எழுதப்படாததால் இது சந்திப்பிழையாகும்.",
+     "en": "Leaving out the hard consonant creates a spelling error."
+    },
+    "C": {
+     "ta": "மெல்லின ஒற்று தவறாக வந்துள்ளதால் இது பிழையான வடிவமாகும்.",
+     "en": "Using a nasal consonant instead of a hard consonant is incorrect."
+    },
+    "D": {
+     "ta": "தேவையற்ற இரட்டை ஒற்று சேர்க்கப்பட்டுள்ளதால் இது தவறு.",
+     "en": "Adding an incorrect double consonant makes it wrong."
+    }
+   },
+   "rule": {
+    "ta": "ஈறுகெட்ட எதிர்மறைப் பெயரெச்சத்தின் பின் வல்லினம் மிகும்.",
+    "en": "Hard consonants double after truncated negative adjectival participles."
+   },
+   "eg": {
+    "ta": "பேசாப் பொருள்",
+    "en": "Unspoken matter."
+   },
+   "tip": {
+    "ta": "ஆ காரத்தில் முடியும் எதிர்மறைச் சொற்களுக்குப் பின் ஒற்று மிகும்.",
+    "en": "Look for the -aa ending in negative participles where hard consonants double."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mikum-c5": {
+   "hint": {
+    "ta": "இரண்டு சொற்களுக்கு இடையில் 'போன்ற' அல்லது 'போல' என்ற உவம உருபு மறைந்து வந்தால் அது என்ன தொகை என்று பாருங்கள்.",
+    "en": "Check if a comparison word like 'like' is hidden between the words."
+   },
+   "explain": {
+    "ta": "'மலர்க்கை' என்பது 'மலர் போன்ற கை' என விரிவடையும். இதில் உவம உருபு மறைந்து வந்துள்ளதால் இது உவமைத்தொகை ஆகும்.",
+    "en": "The word expands to 'hand like a flower', making it a simile compound where the comparison marker is hidden."
+   },
+   "why": {
+    "A": {
+     "ta": "காலம் காட்டும் விகுதி மறைந்து வராததால் இது வினைத்தொகை அல்ல.",
+     "en": "It is not a verb compound as it lacks hidden tense markers."
+    },
+    "B": {
+     "ta": "'உம்' என்னும் இடைச்சொல் மறைந்து வராததால் இது உம்மைத்தொகை அல்ல.",
+     "en": "It is not a copulative compound because the conjunction 'um' is absent."
+    },
+    "D": {
+     "ta": "'மை' விகுதியும் 'ஆன' என்ற சொல்லும் மறைந்து வராததால் இது பண்புத்தொகை அல்ல.",
+     "en": "It is not an attributive compound since 'maiy' and 'aana' are not hidden here."
+    }
+   },
+   "rule": {
+    "ta": "உவமைக்கும் உவமேயத்திற்கும் இடையில் உவம உருபு மறைந்து வருவது உவமைத்தொகை ஆகும்.",
+    "en": "A simile compound has a hidden comparison marker between the subject and the object of comparison."
+   },
+   "eg": {
+    "ta": "தாமரைக்கண்",
+    "en": "Lotus-like eyes."
+   },
+   "tip": {
+    "ta": "'போன்ற' சேர்த்துப் பார்த்தால் பொருள்ந்தால் அது உவமைத்தொகை.",
+    "en": "If inserting 'like' makes sense, it is a simile compound."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mika-c1": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்டுள்ள நான்கு சொற்களில் எங்கு வல்லினம் மிகாது என்ற விதியைப் প্রয়োগிக்க வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Identify which of the given options is an exception where hard consonants do not double."
+   },
+   "explain": {
+    "ta": "'ஊறுகாய்' என்பது காலம் கடந்த பெயரெச்சமான வினைத்தொகை ஆகும். வினைத்தொகையில் வல்லினம் மிகாது; மற்ற மூன்று சொற்களிலும் விதிகள்ப்படி வல்லினம் மிகும்.",
+    "en": "'Oorukaay' is a verb compound (vinaipputhogai), which is an exception where hard consonants do not double, unlike the other three options."
+   },
+   "why": {
+    "A": {
+     "ta": "'அந்த' என்னும் சுட்டுச்சொல்லை அடுத்துள்ளதால் இங்கு வல்லினம் மிகும்.",
+     "en": "Hard consonants must double after the demonstrative adjective 'andha'."
+    },
+    "C": {
+     "ta": "'ஐ' என்னும் இரண்டாம் வேற்றுமை உருபு வெளிப்படையாக வந்துள்ளதால் இங்கு வல்லினம் மிகும்.",
+     "en": "Hard consonants double after the explicit accusative case marker '-ai'."
+    },
+    "D": {
+     "ta": "'சால' என்னும் உரிச்சொல்லை அடுத்துள்ளதால் இங்கு வல்லினம் மிகும்.",
+     "en": "Hard consonants double after the intensifying adverb 'saala'."
+    }
+   },
+   "rule": {
+    "ta": "வினைத்தொகை மற்றும் உம்மைத்தொகைகளில் வல்லினம் மிகாது.",
+    "en": "Hard consonants do not double in verb compounds and copulative compounds."
+   },
+   "eg": {
+    "ta": "சுடுசோறு",
+    "en": "Hot rice."
+   },
+   "tip": {
+    "ta": "ஊறுகாய், சுடுசோறு போன்ற வினைத்தொகைகளில் ஒற்று வராது.",
+    "en": "Remember that verb compounds never take a doubled consonant."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mika-c2": {
+   "hint": {
+    "ta": "எழுவாயாக வரும் பெயருக்கும் அதனைத் தொடர்ந்துவரும் வினைமுற்றுக்கும் இடையில் ஒற்று வருமா என்பதைப் பாருங்கள்.",
+    "en": "Check if a hard consonant is needed between a subject noun and its verb predicate."
+   },
+   "explain": {
+    "ta": "'தம்பி' என்பது எழுவாய், 'படித்தான்' என்பது வினைமுற்று. எழுவாய்த் தொடரில் வல்லினம் மிகாது என்பதால் 'தம்பி படித்தான்' என்பதே சரியான தொடர் ஆகும்.",
+    "en": "'Thambi' is the subject and 'padithaan' is the verb predicate. In a subject-predicate phrase, hard consonants do not double."
+   },
+   "why": {
+    "A": {
+     "ta": "எழுவாய்த் தொடரில் ஒற்று மிகக்கூடாது என்பதால் இது பிழையான வடிவமாகும்.",
+     "en": "Adding a doubled consonant in a subject phrase is grammatically incorrect."
+    },
+    "C": {
+     "ta": "தேவையற்ற ஒற்று சேர்க்கப்பட்டிருப்பதால் இது சந்திப்பிழையாகும்.",
+     "en": "An unwanted consonant is added, creating an error."
+    },
+    "D": {
+     "ta": "சொல்லின் எழுத்துகள் தவறாக மாற்றப்பட்டுள்ளதால் இது பிழையானது.",
+     "en": "The spelling of the word itself is altered incorrectly."
+    }
+   },
+   "rule": {
+    "ta": "எழுவாய்த் தொடருக்குப் பின் வல்லினம் மிகாது.",
+    "en": "Hard consonants do not double after a subject noun phrase."
+   },
+   "eg": {
+    "ta": "கிளி பேசியது",
+    "en": "The parrot spoke."
+   },
+   "tip": {
+    "ta": "பெயர்ச்சொல் அடுத்து வினைமுற்று வந்தால் ஒற்று எழுதாதீர்கள்.",
+    "en": "Do not add a doubled consonant between a subject and a verb."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mika-c3": {
+   "hint": {
+    "ta": "இரண்டு சொற்களுக்கு இடையில் 'உம்' என்னும் இடைச்சொல் மறைந்து வருவதைக் கவனியுங்கள்.",
+    "en": "Look for the hidden conjunction 'and' between the paired words."
+   },
+   "explain": {
+    "ta": "'தாய்தந்தை' என்பது 'தாயும் தந்தையும்' என விரிவடையும். இடையில் 'உம்' என்னும் உருபு மறைந்து வருவதால் இது உம்மைத்தொகை ஆகும்.",
+    "en": "The words expand to 'mother and father' with a hidden conjunction 'um', classifying it as a copulative compound."
+   },
+   "why": {
+    "B": {
+     "ta": "உவமை எதுவும் கூறப்படாததால் இது உவமைத்தொகை அல்ல.",
+     "en": "It is not a simile compound as there is no comparison involved."
+    },
+    "C": {
+     "ta": "காலம் காட்டும் விகுதி மறைந்து வராததால் இது வினைத்தொகை அல்ல.",
+     "en": "It is not a verb compound since it lacks hidden tense markers."
+    },
+    "D": {
+     "ta": "'மை' விகுதி மறைந்து வராததால் இது பண்புத்தொகை அல்ல.",
+     "en": "It is not an attributive compound as the color/quality marker is missing."
+    }
+   },
+   "rule": {
+    "ta": "எதிர்எதிர் சொற்களுக்கு இடையில் 'உம்' மறைந்து வருவது உம்மைத்தொகை ஆகும்.",
+    "en": "A copulative compound has a hidden 'um' (and) between paired words."
+   },
+   "eg": {
+    "ta": "இரவுபகல்",
+    "en": "Night and day."
+   },
+   "tip": {
+    "ta": "உம் சேர்த்துப் படிக்க முடிந்தால் அது உம்மைத்தொகை.",
+    "en": "If you can insert 'um' between the words, it is a copulative compound."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mika-c4": {
+   "hint": {
+    "ta": "பெயரெச்சத்தின் பின் வல்லினம் மிகுமா என்பதைப் பாருங்கள்.",
+    "en": "Check if a sandhi consonant is required after an adjectival participle."
+   },
+   "explain": {
+    "ta": "‘படித்த’ என்பது பெயரெச்சம் ஆகும். விதிகளின்படி பெயரெச்சத்திற்குப் பின் வல்லினம் மிகாது; எனவே ‘படித்த பையன் வந்தான்’ என்பதே சந்திப்பிழையற்ற சரியான தொடராகும்.",
+    "en": "The official answer is correct because adjectival participles (peyarécham) do not trigger sandhi doubling (vallenam migaathu)."
+   },
+   "why": {
+    "A": {
+     "ta": "‘படித்தப்’ என்று ஒற்று சேர்த்து எழுதியது சந்திப்பிழையாகும், ஏனெனில் பெயரெச்சத்தின் பின் வல்லினம் மிகாது.",
+     "en": "Incorrect because doubling is not allowed after an adjectival participle."
+    },
+    "C": {
+     "ta": "‘படித்தப்பையன்’ எனச் சேர்த்து எழுதியது இலக்கண விதிகளுக்கு முரணானது.",
+     "en": "Incorrect because writing them as a single fused word with doubling violates grammar rules."
+    },
+    "D": {
+     "ta": "‘படித்தக்’ எனத் தப்பாக ஒற்று இட்டிருப்பது சந்திப்பிழையாகும்.",
+     "en": "Incorrect because inserting a 'k' sound here is grammatically wrong."
+    }
+   },
+   "rule": {
+    "ta": "பெயரெச்சத்திற்குப் பின் வல்லினம் மிகாது.",
+    "en": "Vallenam does not occur after an adjectival participle."
+   },
+   "eg": {
+    "ta": "படித்த பையன், ஓடிய குதிரை (இங்கு வல்லினம் மிகாது).",
+    "en": "Padi-tha pai-yan (no doubling)."
+   },
+   "tip": {
+    "ta": "‘படித்தப்’ என்று ஒற்று வந்தால் அது பெரும்பாலும் சந்திப்பிழையே!",
+    "en": "Watch out: adjectival participles never take a doubling consonant."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-sandhi-mika-c5": {
+   "hint": {
+    "ta": "‘வாழ்க’ என்ற சொல்லின் இலக்கண வடிவம் என்ன என்பதைப் பாருங்கள்.",
+    "en": "Identify the grammatical nature of the optative verb form 'vaazhga'."
+   },
+   "explain": {
+    "ta": "‘வாழ்க’ என்பது வாழ்த்துப் பொருள் தரும் வியங்கோள் வினைமுற்று ஆகும். வியங்கோள் வினைமுற்றுக்குப் பின் வல்லினம் மிகாது என்ற விதியின்படி இங்கு வல்லினம் மிகவில்லை.",
+    "en": "The official answer is correct because optative verbs (viyangol vinaimutru) do not trigger sandhi doubling."
+   },
+   "why": {
+    "B": {
+     "ta": "‘வாழ்க’ என்பது பெயரெச்சம் அல்ல, அது ஒரு வினைமுற்று ஆகும்.",
+     "en": "Incorrect because 'vaazhga' is not an adjectival participle."
+    },
+    "C": {
+     "ta": "‘வாழ்க’ என்பது எச்சம் அன்று, இது முழுமை பெற்ற வினைமுற்று ஆகும்.",
+     "en": "Incorrect because it is a complete finite verb, not a participle."
+    },
+    "D": {
+     "ta": "இது எழுவாய்த் தொடர் அல்ல, வியங்கோள் வினைமுற்றுச் சொலs ஆகும்.",
+     "en": "Incorrect because it is an optative verb, not a nominative subject phrase."
+    }
+   },
+   "rule": {
+    "ta": "வியங்கோள் வினைமுற்றுக்குப் பின் வல்லினம் மிகாது.",
+    "en": "Vallenam does not occur after an optative verb."
+   },
+   "eg": {
+    "ta": "வாழ்க தமிழ், வருக தலைவா (வல்லினம் மிகாது).",
+    "en": "Vaazhga thamizh (no doubling)."
+   },
+   "tip": {
+    "ta": "‘க’, ‘இய’ விகுதிகளைக் கொண்ட வியங்கோள் வினைமுற்றுக்குப் பின் எப்போதும் ஒற்று மிகாது.",
+    "en": "Optative verbs ending in 'ka' or 'iya' never take vallenam."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-pirithu-serthu-c1": {
+   "hint": {
+    "ta": "‘பற்பொடி’ என்ற சொல்லில் திரிந்த எழுத்தை அதன் மூல வடிவத்திற்கு மாற்றிப் பாருங்கள்.",
+    "en": "Trace the changed consonant back to its original root form."
+   },
+   "explain": {
+    "ta": "‘பற்பொடி’ என்ற சொல்லைப் பிரிக்க, ‘ற்’ என்ற எழுத்து ‘ல்’ ஆக மாறும். எனவே ‘பல் + பொடி’ என்று பிரிந்து, ‘ல்’ என்பது ‘ற்’ ஆகத் திரிந்து புணரும்.",
+    "en": "The official answer is correct because 'l' changes to 'r' when joining with 'podi', yielding 'pal + podi'."
+   },
+   "why": {
+    "A": {
+     "ta": "‘பற்’ என்பது மூலச் சொல் அல்ல, அது புணர்ச்சியின் போது திரிந்த வடிவமாகும்.",
+     "en": "Incorrect because 'paR' is the modified form, not the base word."
+    },
+    "C": {
+     "ta": "‘பன்’ என்பது தவறான மூலச் சொல்லாகும், இங்கு ‘ல்’ வரவேண்டும்.",
+     "en": "Incorrect root form; the original word uses 'l', not 'n'."
+    },
+    "D": {
+     "ta": "‘பற்ப’ என்பது தமிழ்ச் சொல்லே அல்ல, இது முற்றிலும் தவறான பிரிப்பாகும்.",
+     "en": "Incorrect because 'parpa' is not a valid Tamil root word."
+    }
+   },
+   "rule": {
+    "ta": "நிலைமொழி ஈற்றில் உள்ள ‘ல்’ வல்லினம் வரின் ‘ற்’ ஆகத் திரியும்.",
+    "en": "The final 'l' changes to 'r' when followed by vallenam."
+   },
+   "eg": {
+    "ta": "கல் + தூண் = கற்றூண் (ல் → ற்).",
+    "en": "Kal + thoon = kattroon."
+   },
+   "tip": {
+    "ta": "பிரிக்கும்போது திரிந்த ‘ற்’ எழுத்தை அப்படியே ‘பற் + பொடி’ என்று எழுதக்கூடாது; மூலமான ‘ல்’ ஐப் போட வேண்டும்.",
+    "en": "Never keep the modified 'r' in the split form; restore the original 'l'."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-pirithu-serthu-c2": {
+   "hint": {
+    "ta": "உயிர்முன் உயிர் வந்தால் இடையில் எந்த உடம்படுமெய் வரும் என்பதைப் பாருங்கள்.",
+    "en": "Check which glide letter appears when a vowel follows a vowel ending in 'i'."
+   },
+   "explain": {
+    "ta": "‘மணி’ என்ற சொல்லின் ஈறு ‘இ’ (உயிர்) ஆகும். ‘அடித்தது’ என்பதும் ‘அ’ (உயிர்) என்ற எழுத்தில் தொடங்குகிறது; இரண்டு உயிர்கள் சேரும்போது இடையில் ‘ய்’ உடம்படுமெய் தோன்றி ‘மணியடித்தது’ எனவரும்.",
+    "en": "The official answer is correct because the 'y' glide joins the ending vowel 'i' and the starting vowel 'a'."
+   },
+   "why": {
+    "A": {
+     "ta": "‘மணிஅடித்தது’ என இடையில் மெய்யெழுத்து இல்லாமல் இரண்டு உயிர்கள் சேர்ந்துள்ளது பிழையாகும்.",
+     "en": "Incorrect because two vowels cannot collide without a glide."
+    },
+    "C": {
+     "ta": "‘மணிவடித்தது’ என்பது பொருளை மாற்றிவிடும் தவறான வடிவமாகும்.",
+     "en": "Incorrect because inserting 'v' is wrong for words ending in 'i'."
+    },
+    "D": {
+     "ta": "‘மண்ணடித்தது’ என்பது மூலச் சொற்களையே மாற்றிவிட்ட தவறான சொல்லாகும்.",
+     "en": "Incorrect because it alters the base words entirely."
+    }
+   },
+   "rule": {
+    "ta": "இ, ஈ, ஐ வழி வம்மின் உடம்படுமெய் ‘ய்’ ஆகும்.",
+    "en": "The 'y' glide is used after the vowels i, ee, ai."
+   },
+   "eg": {
+    "ta": "தீ + எரி = தீயெரி (இ + அ = ய).",
+    "en": "Thee + eri = theeyeri."
+   },
+   "tip": {
+    "ta": "‘மணி’ போன்ற ‘இ’கார ஈற்றுச் சொற்களுடன் உயிர்ச் சொல் சேரும்போது ‘ய்’ சேர்த்து இணைக்கவும்.",
+    "en": "Always insert 'y' when a word ending in 'i' meets a vowel."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-pirithu-serthu-c3": {
+   "hint": {
+    "ta": "சேரும்போது நிலைமொழியின் ஈற்று எழுத்து என்னவாயிற்று என்பதைப் பாருங்கள்.",
+    "en": "Check what happened to the final letter of the first word upon joining."
+   },
+   "explain": {
+    "ta": "‘மரம் + வேர்’ சேர்ந்து ‘மரவேர்’ என ஆனது. இங்கு நிலைமொழி ஈற்றில் இருந்த ‘ம்’ என்ற மெய்யெழுத்து மறைந்துள்ளது (கெட்டது), எனவே இது கெடுதல் புணர்ச்சியாகும்.",
+    "en": "The official answer is correct because the final 'm' of the first word is dropped (keduthal)."
+   },
+   "why": {
+    "A": {
+     "ta": "புதிய எழுத்து ஏதும் புதிதாகத் தோன்றவில்லை, மாறாக ‘ம்’ மறைந்துள்ளது.",
+     "en": "Incorrect because no new letter was added."
+    },
+    "B": {
+     "ta": "எழுத்துக்கள் எதுவும் வடிவம் மாறித் திரியவில்லை, ‘ம்’ முற்றிலும் நீங்கியுள்ளது.",
+     "en": "Incorrect because letters did not transform; they dropped out."
+    },
+    "D": {
+     "ta": "மாற்றமின்றி இணையவில்லை, ‘ம்’ கெட்டுள்ளதால் இது இயல்புப் புணர்ச்சி அல்ல.",
+     "en": "Incorrect because a change (dropping of a letter) has occurred."
+    }
+   },
+   "rule": {
+    "ta": "மரம் + வேர் போன்ற சொற்களில் ‘ம்’ கெடுதல் புணர்ச்சி விதிப்படி மறையும்.",
+    "en": "The nasal 'm' drops out in certain compound words."
+   },
+   "eg": {
+    "ta": "படம் + க்காட்சி = படக்காட்சி (ம் கெட்டது).",
+    "en": "Padam + katchi = padakkatchi."
+   },
+   "tip": {
+    "ta": "‘மரம்’ போன்ற நிலைமொழிச் சொற்கள் சேரும்போது இறுதி ‘ம்’ மறைந்தால் அது கெடுதல் ஆகும்.",
+    "en": "When 'm' disappears during combination, it is deletion (keduthal)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-pirithu-serthu-c4": {
+   "hint": {
+    "ta": "‘ல்’ மற்றும் ‘த்’ ஆகிய இரண்டும் சேர்ந்து என்னவாக மாறும் என்பதைப் பாருங்கள்.",
+    "en": "Check how 'l' and 'th' transform when combined."
+   },
+   "explain": {
+    "ta": "‘கல் + தூண்’ என்பதில் நிலைமொழி ஈற்று ‘ல்’ வருமொழி முதலிலுள்ள ‘த்’ உடன் சேர்ந்து இரண்டும் ‘ற்’ ஆகத் திரியும். இதனால் ‘கற்றூண்’ எனச் சரியாகும்.",
+    "en": "The official answer is correct because 'l' followed by 'th' transforms into 'rr' (kaRRooN)."
+   },
+   "why": {
+    "A": {
+     "ta": "‘கல்தூண்’ என எந்த மாற்றமும் இன்றி எழுதுவது புணர்ச்சி விதிகளுக்கு மாறானது.",
+     "en": "Incorrect because phonological rules require a transformation here."
+    },
+    "C": {
+     "ta": "‘கட்டூண்’ என்பதில் ‘ட்’ வந்துள்ளது தவறு, இங்கு ‘ற்’ என்பதே வர வேண்டும்.",
+     "en": "Incorrect because 't' appears instead of 'rr'."
+    },
+    "D": {
+     "ta": "‘கன்றூண்’ என்பது முற்றிலும் மாறுபட்ட மற்றும் தவறான சொல்லாகும்.",
+     "en": "Incorrect because it introduces an incorrect nasal sound."
+    }
+   },
+   "rule": {
+    "ta": "ல் + த் = ற் என்ற விதிப்படி புணரும்.",
+    "en": "The combination of 'l' and 'th' becomes 'rr'."
+   },
+   "eg": {
+    "ta": "பல் + தீ தீது = பற்றீது / பல் + பொடி = பற்பொடி.",
+    "en": "Pal + podi = parpodi."
+   },
+   "tip": {
+    "ta": "‘கல்’ அல்லது ‘பல்’ சொற்களுடன் ‘தூண்’ அல்லது ‘பொடி’ சேரும்போது ‘ற்’ வரும்.",
+    "en": "Words starting with 'th' or 'p' after 'l' undergo this specific consonant shift."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-pirithu-serthu-c5": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் புணர்ச்சியில் மாறிய ற் எழுத்தை மூலமான ன எழுத்திற்கு மாற்றிப் பாருங்கள்.",
+    "en": "When asked to split a word, change the modified consonant back to its original root letter."
+   },
+   "explain": {
+    "ta": "பொற்கோயில் என்னும் சொல்லைப் பிரிக்கும்போது 'பொன் + கோயில்' என்று வரும். நிலைமொழியின் ஈற்றில் உள்ள 'ன்' விகுதி வல்லினம் வந்ததால் 'ற்' ஆகத் திரிந்து புணர்ந்துள்ளது.",
+    "en": "The word splits into pon and koyil where n changes to tr before the strong consonant."
+   },
+   "why": {
+    "A": {
+     "ta": "பொற் + கோயில் என்பது புணர்ந்த வடிவமே தவிர பிரித்த சரியான மூலச் சொல் அல்ல.",
+     "en": "Por plus koyil is already the combined form, not the base word."
+    },
+    "C": {
+     "ta": "பொல் என்பது தவறான வேர்ச்சொல் ஆகும்.",
+     "en": "Pol is an incorrect root word."
+    },
+    "D": {
+     "ta": "பொரு என்பது இச்சொல்லுக்குப் பொருந்தாத வேறு சொல்லாகும்.",
+     "en": "Poru is an unrelated word."
+    }
+   },
+   "rule": {
+    "ta": "ன் முன் வல்லினம் வரின் ற் ஆகத் திரியும்.",
+    "en": "The letter n changes to tr when followed by a strong consonant."
+   },
+   "eg": {
+    "ta": "பொன் + தாமரை = பொற்றாமரை",
+    "en": "pon plus tamarai becomes pottamarai"
+   },
+   "tip": {
+    "ta": "ற் எழுத்தைக் கண்டால் பிரிக்கும்போது 'ல்' அல்லது 'ன்' என மாற்றுங்கள்.",
+    "en": "When you see tr, replace it with l or n during splitting."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-orumai-panmai-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் எழுவாயின் திணை மற்றும் எண்ணிற்கு ஏற்ப சரியான வினைமுற்று விகுதியைப் பொருத்திப் பாருங்கள்.",
+    "en": "Match the verb ending correctly with the gender and number of the subject."
+   },
+   "explain": {
+    "ta": "மாடுகள் என்பது அஃறிணைப் பன்மைச் சொல் ஆகும். அஃறிணைப் பன்மைக்கு 'அன' என்னும் விகுதி கொண்டு முடியும் வினைமுற்றே வர வேண்டும்; எனவே 'மேய்ந்தன' என்பதே சரியானது.",
+    "en": "Madugal is a non-human plural noun, so it takes the plural verb ending -anadru / -ana."
+   },
+   "why": {
+    "A": {
+     "ta": "மேய்ந்தது என்பது ஒருமை வினைமுற்று ஆகும்; மாடுகள் என்பது பன்மை என்பதால் இது பொருந்தாது.",
+     "en": "Meyndadu is singular and does not agree with the plural subject."
+    },
+    "C": {
+     "ta": "மேய்ந்தான் என்பது ஆண் ஒருவரைக் குறிக்கும் உயர்திணை வினைமுற்று ஆகும்.",
+     "en": "Meyndan refers to a single human male."
+    },
+    "D": {
+     "ta": "மேய்ந்தனர் என்பது உயர்திணைப் பன்மைக்கு உரியது; மாடுகள் என்பது அஃறிணை.",
+     "en": "Meyndaner refers to human plurals, not animals."
+    }
+   },
+   "rule": {
+    "ta": "அஃறிணைப் பன்மைப் பெயர்ச்சொல்லுக்கு அஃறிணைப் பன்மை வினைமுற்றே வரும்.",
+    "en": "Non-human plural subjects take non-human plural verbs."
+   },
+   "eg": {
+    "ta": "புதர்கள் செழித்து வளர்ந்தன",
+    "en": "pudargal selithu valarndana"
+   },
+   "tip": {
+    "ta": "அஃறிணைப் பன்மைக்கு 'அன' விகுதி முடியும் சொல்லைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Choose verbs ending with -ana for non-human plurals."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-orumai-panmai-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் நிலைமொழியின் முதல் எழுத்து உயிரா மெய்யா என்பதை வைத்து ஒரு / ஓர் என்பதைத் தீர்மானியுங்கள்.",
+    "en": "Check whether the next word starts with a vowel or consonant to choose or or oru."
+   },
+   "explain": {
+    "ta": "'ஊர்' என்பது 'ஊ' என்னும் உயிர் எழுத்தில் தொடங்கும் சொல் ஆகும். உயிர் எழுத்தின் முன் 'ஓர்' என்னும் சொல்லே வர வேண்டும்.",
+    "en": "The word oor starts with a vowel, so it must be preceded by or."
+   },
+   "why": {
+    "A": {
+     "ta": "ஒரு என்பது மெய் எழுத்தில் தொடங்கும் சொற்களுக்கு முன் மட்டுமே வரும்.",
+     "en": "Oru is used only before consonant-starting words."
+    },
+    "C": {
+     "ta": "மரம் என்பது மெய் எழுத்தில் தொடங்கும் சொல் என்பதால் அதற்கு முன் 'ஒரு' என்பதே வரும், 'ஓர்' வராது.",
+     "en": "Maram starts with a consonant, so oru must be used instead of or."
+    },
+    "D": {
+     "ta": "ஒர் என்பது தமிழ் இலக்கணப்படி பிழையான வடிவம் ஆகும்.",
+     "en": "Or without the long vowel marker is grammatically incorrect."
+    }
+   },
+   "rule": {
+    "ta": "உயிர் எழுத்தின் முன் ஓர் என்றும், மெய் எழுத்தின் முன் ஒரு என்றும் வரும்.",
+    "en": "Use or before vowels and oru before consonants."
+   },
+   "eg": {
+    "ta": "ஓர் இலவம் பஞ்சு",
+    "en": "or ilava panchu"
+   },
+   "tip": {
+    "ta": "உயிர்முன் ஓர்; மெய்முன் ஒரு.",
+    "en": "Or before vowel, oru before consonant."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-orumai-panmai-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் எழுவாயான 'அவர்கள்' எந்தத் திணை மற்றும் எண் என்பதைக் கவனித்து விடையைக் கண்டறியுங்கள்.",
+    "en": "Identify the gender and number of the pronoun avargal to choose the matching verb."
+   },
+   "explain": {
+    "ta": "'அவர்கள்' என்பது உயர்திணைப் பன்மைச் சுட்டுப் பெயர் ஆகும். எனவே இது உயர்திணைப் பன்மை வினைமுற்றான 'வந்தனர்' என்ற சொல்லையே ஏற்று முடியும்.",
+    "en": "Avargal is a human plural pronoun which takes the human plural verb vandaner."
+   },
+   "why": {
+    "A": {
+     "ta": "வந்தது என்பது அஃறிணை ஒருமை வினைமுற்று ஆகும்.",
+     "en": "Vandadu is a non-human singular verb."
+    },
+    "B": {
+     "ta": "வந்தன என்பது அஃறிணைப் பன்மை வினைமுற்று ஆகும்.",
+     "en": "Vandana is a non-human plural verb."
+    },
+    "D": {
+     "ta": "வந்தான் என்பது உயர்திணை ஆண்பால் ஒருமை வினைமுற்று ஆகும்.",
+     "en": "Vandan is a masculine singular verb."
+    }
+   },
+   "rule": {
+    "ta": "உயர்திணைப் பன்மை எழுவாய்க்கு அ/அர்கள் விகுதி பெற்ற வினைமுற்று வரும்.",
+    "en": "Human plural subjects take verbs with plural honorific endings."
+   },
+   "eg": {
+    "ta": "அவர்கள் படித்தனர்",
+    "en": "avargal padithaner"
+   },
+   "tip": {
+    "ta": "அவர்கள் என்றால் 'வந்தனர்' அல்லது 'வந்தார்கள்'.",
+    "en": "Avargal pairs with vandaner or vandargal."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-orumai-panmai-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் நிலைமொழி ஈற்றுடன் 'கள்' விகுதி சேரும்போது வல்லினம் மிகுமா என்பதைப் பாருங்கள்.",
+    "en": "Check if strong consonants double when adding the plural suffix kal."
+   },
+   "explain": {
+    "ta": "பசு என்னும் சொல்லுடன் கள் விகுதி சேரும்போது வல்லினம் மிகித்துப் 'பசுக்கள்' என வரும்.",
+    "en": "When adding kal to pasu, the strong consonant doubles to form pasukkal."
+   },
+   "why": {
+    "A": {
+     "ta": "பசுகள் என்பதில் ஒற்று விடுபட்டுள்ளது; இலக்கணப்படி இது பிழையாகும்.",
+     "en": "Pasugal lacks the required consonant doubling."
+    },
+    "C": {
+     "ta": "பசுங்கள் என்பது தமிழ் மரபுக்குப் புறம்பான தவறான வடிவமாகும்.",
+     "en": "Pasungal is an incorrect form not used in standard Tamil."
+    },
+    "D": {
+     "ta": "பசுவர் என்பது விலங்குப் பெயர்களுக்குப் பயன்படுத்தப்படாத விகுதியாகும்.",
+     "en": "Pasuvar is an inappropriate suffix for animal plurals."
+    }
+   },
+   "rule": {
+    "ta": "உயிர் ஈற்றுப் பெயர்களின் முன் கள் விகுதி சேரும்போது சில சொற்களில் வல்லினம் மிகும்.",
+    "en": "Certain vowel-ending nouns take doubled strong consonants before kal."
+   },
+   "eg": {
+    "ta": "பூ + கள் = பூக்கள்",
+    "en": "poo plus kal becomes pookkal"
+   },
+   "tip": {
+    "ta": "பசுவின் பன்மை பசுக்கள் (இக்குள்).",
+    "en": "The plural of pasu is pasukkal with a doubled k."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-verchol-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட வேர்ச்சொல்லிலிருந்து வினையெச்சம் எத்தகைய விகுதியைப் பெறும் என்பதைச் சிந்தித்துப் பாருங்கள்.",
+    "en": "Recall what suffix a verbal participle takes when derived from a root word."
+   },
+   "explain": {
+    "ta": "'படி' என்னும் வேர்ச்சொல்லின் வினையெச்ச வடிவம் 'படித்து' ஆகும். இது ஒரு முழு வினையைக் கொண்டு முடியக்கூடிய எச்சமாகும்.",
+    "en": "The verbal participle of the root padi is padithu, which modifies another verb."
+   },
+   "why": {
+    "A": {
+     "ta": "படித்த என்பது பெயரைக் கொண்டு முடியும் பெயரெச்சம் ஆகும்.",
+     "en": "Paditha is a relative participle that modifies a noun."
+    },
+    "C": {
+     "ta": "படித்தான் என்பது காலம் காட்டும் வினைமுற்றுச் சொல்லாகும்.",
+     "en": "Padithan is a finite verb indicating past tense."
+    },
+    "D": {
+     "ta": "படிப்பு என்பது தொழிலைக் குறிக்கும் தொழிற்பெயர் ஆகும்.",
+     "en": "Padippu is a verbal noun."
+    }
+   },
+   "rule": {
+    "ta": "உயிர்மெய் மெய்யெழுத்து பெற்று 'உ' அல்லது 'இ' விகுதியில் முடிவது வினையெச்சம்.",
+    "en": "Verbal participles typically end with u or i."
+   },
+   "eg": {
+    "ta": "நட என்ற வேர்ச்சொல்லின் வினையெச்சம் நடந்து",
+    "en": "The verbal participle of nada is nadanthu"
+   },
+   "tip": {
+    "ta": "வினையெச்சம் என்றால் 'உ' கார விகுதியில் முடியும்.",
+    "en": "Verbal participles end with the sound u."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-verchol-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் 'ஓடிய' என்ற சொல்லுக்குப் பின்வரும் பெயர்ச்சொல்லைப் பாருங்கள்.",
+    "en": "Look at the noun following the participle to determine its type."
+   },
+   "explain": {
+    "ta": "'ஓடிய' என்ற சொல் முழுமையான பொருளைத் தராமல், பின்னால் வரும் 'குதிரை' என்ற பெயர்ச்சொல்லைக் கொண்டு முடிவதால் இது பெயரெச்சம் ஆகும். காலம் காட்டிப் பெயர்ச்சொலைக் கொண்டு முடியும் எச்சம் பெயரெச்சம் எனப்படும்.",
+    "en": "The word 'oodiya' is an adjective participle because it lacks complete meaning on its own and modifies the following noun 'kuthirai'."
+   },
+   "why": {
+    "A": {
+     "ta": "'வினையெச்சம்' என்பது வினைச்சொல்லைக் கொண்டு முடியும்; ஆனால் இங்கு 'குதிரை' என்பது பெயர்ச்சொல்.",
+     "en": "An adverbial participle modifies a verb, but 'kuthirai' is a noun."
+    },
+    "C": {
+     "ta": "'தொழிற்பெயர்' என்பது த, அல், கை போன்ற விகுதிகளைப் பெற்றுத் தொழிலை மட்டும் குறிக்கும்.",
+     "en": "A verbal noun denotes an action without tense, ending in suffixes like 'thal'."
+    },
+    "D": {
+     "ta": "'வினைமுற்று' என்பது முற்றுப்பெற்ற பொருளைத் தரும்; இது எச்சச் சொல்.",
+     "en": "A finite verb gives complete sense, whereas this is an incomplete participle."
+    }
+   },
+   "rule": {
+    "ta": "பெயர்ச்சொலைக் கொண்டு முடியும் எச்சம் பெயரெச்சம் எனப்படும்.",
+    "en": "An incomplete word that modifies a noun is a relative participle."
+   },
+   "eg": {
+    "ta": "டித்த பையன் - பெயரெச்சம்",
+    "en": "Paditha paiyan - relative participle"
+   },
+   "tip": {
+    "ta": "எச்சச் சொல்லுக்குப் பின் பெயர் வந்தால் பெயரெச்சம், வினை வந்தால் வினையெச்சம்.",
+    "en": "If a noun follows the participle, it is a relative participle."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-verchol-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் காலம் காட்டாமல் தொழிலைக் குறிக்கும் சொல்லைத் தேடுங்கள்.",
+    "en": "Look for the word that denotes an action without indicating any tense."
+   },
+   "explain": {
+    "ta": "'நடத்தல்' என்பது காலத்தைக் காட்டாமல், நடக்கும் செயலைக் குறிக்கும் பெயராக வருவதால் இது தொழிற்பெயர் ஆகும். அல், தல் போன்ற விகுதிகள் தொழிற்பெயரை உணர்த்தும்.",
+    "en": "The word 'nadathal' is a verbal noun because it denotes the action of walking without showing any tense."
+   },
+   "why": {
+    "A": {
+     "ta": "'நடந்தவன்' என்பது வினையாலணையும் பெயர் (ஒருவரைக் குறிப்பது).",
+     "en": "Nadanthavan is a noun derived from a verb denoting a person."
+    },
+    "B": {
+     "ta": "'நடந்த' என்பது பெயரெச்சம் (காலம் காட்டும் எச்சம்).",
+     "en": "Nadantha is a relative participle indicating past tense."
+    },
+    "D": {
+     "ta": "'நடந்தான்' என்பது இறந்தகால வினைமுற்று.",
+     "en": "Nadanthaan is a finite verb in the past tense."
+    }
+   },
+   "rule": {
+    "ta": "வினைப்பகுதி விகுதி பெற்றுத் தொழிலைக் குறிப்பது தொழிற்பெயர்.",
+    "en": "A verbal noun indicates an action and typically ends in suffixes like 'thal' or 'al'."
+   },
+   "eg": {
+    "ta": "உண்ணல், உறங்கல் - தொழிற்பெயர்கள்",
+    "en": "Unnal, urangal - verbal nouns"
+   },
+   "tip": {
+    "ta": "அல், தல் விகுதிகள் வந்தால் அது பெரும்பாலும் தொழிற்பெயர்.",
+    "en": "Words ending in 'al' or 'thal' are usually verbal nouns."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-verchol-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் எழுது என்ற சொல்லிலிருந்து ஒருவரை உணர்த்தும் பெயரைத் தேடுங்கள்.",
+    "en": "Look for the derivative noun that refers to a person who performed the action."
+   },
+   "explain": {
+    "ta": "'எழுதியவர்' என்பது எழுதிய செயலைக் குறிக்காமல், எழுதிய அந்த நபரை (அவர்களைக்) குறிப்பதால் இது வினையாலணையும் பெயர் ஆகும். இது படர்க்கை இடத்தைப் பெற்று வரும்.",
+    "en": "The word 'ezhuthiyavar' refers to the person who wrote, making it a noun derived from a verb."
+   },
+   "why": {
+    "A": {
+     "ta": "'எழுதுதல்' என்ற சொல்லின் இறந்தகால வினைமுற்று 'எழுதினான்' ஆகும்.",
+     "en": "Ezhuthinaan is a finite verb, not a noun."
+    },
+    "B": {
+     "ta": "'எழுதிய' என்பது பெயரெச்சம் ஆகும்.",
+     "en": "Ezhuthiya is a relative participle."
+    },
+    "D": {
+     "ta": "'எழுதுதல்' என்பது தொழிற்பெயர் ஆகும்.",
+     "en": "Ezhuthuthal is a verbal noun."
+    }
+   },
+   "rule": {
+    "ta": "வினைமுற்று பெயரின் தன்மையடைந்து ஒருவரைக் குறிப்பது வினையாலணையும் பெயர்.",
+    "en": "A noun of agency is formed when a verb takes a noun ending to refer to a person."
+   },
+   "eg": {
+    "ta": "வந்தவர், படித்தவன் - வினையாலணையும் பெயர்கள்",
+    "en": "Vanthavar, padithavan - nouns of agency"
+   },
+   "tip": {
+    "ta": "அவர்,வன் போன்ற விகுதிகளைக் கொண்டு முடிவது வினையாலணையும் பெயர்.",
+    "en": "Nouns ending in suffixes like 'avar' or 'van' denote the person performing the action."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-verchol-c5": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கட்டளைச் சொல்லாக (ஏவல்) மாறும் வடிவத்தைப் பாருங்கள்.",
+    "en": "Find the imperative root form of the given verb."
+   },
+   "explain": {
+    "ta": "'வந்தான்' என்ற சொல்லின் அடிப்படையான கட்டளை வடிவம் 'வா' ஆகும். எனவே இதன் வேர்ச்சொல் 'வா' என அழைக்கப்படுகிறது.",
+    "en": "The root imperative form of the verb 'vanthaan' is 'vaa'."
+   },
+   "why": {
+    "A": {
+     "ta": "'வந்' என்பது வேர்ச்சொல் அல்ல; அது திரிந்த வடிவம்.",
+     "en": "'Van' is not a valid root word."
+    },
+    "C": {
+     "ta": "'வரு' என்பது ஏவல் சொல்லாக நேரடியாக வராது, அது புணர்ச்சியில் வரும் வடிவம்.",
+     "en": "'Varu' is a combining form, not the primary root."
+    },
+    "D": {
+     "ta": "'வந்தா' என்பது எந்த வகையிலும் வேர்ச்சொல் ஆகாது.",
+     "en": "'Vanthaa' is grammatically incorrect as a root."
+    }
+   },
+   "rule": {
+    "ta": "வேர்ச்சொல் எப்போதும் ஏவல் (கட்டளை) சொற்களாகவே அமையும்.",
+    "en": "The root word of a verb is always in the imperative mood."
+   },
+   "eg": {
+    "ta": "நடந்தான் - நட, படித்தான் - படி",
+    "en": "Nadanthaan -> Nada, Padithaan -> Padi"
+   },
+   "tip": {
+    "ta": "வேர்ச்சொல்லைக் கட்டளைக் கட்டளையாக மாற்றிப் பாருங்கள் (வா, தா, பார்).",
+    "en": "Convert the verb into a command to find its root."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-ayarchol-pizhai-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பிறமொழிச் சொல்லுக்கு இணையான தூய தமிழ்ச்சொல்லைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Select the exact pure Tamil equivalent for the given foreign word."
+   },
+   "explain": {
+    "ta": "'விஞ்ஞானம்' என்பது வடமொழிச் சொல் ஆகும். இதற்கு இணையான சரியான தூய தமிழ்ச்சொல் 'அறிவியல்' ஆகும்.",
+    "en": "The pure Tamil equivalent for the word 'vignaanam' is 'ariviyal'."
+   },
+   "why": {
+    "B": {
+     "ta": "'ஞானம்' என்பது அறிவு என்பதைக் குறிக்குமே தவிர விஞ்ஞானத்தைக் குறிக்காது.",
+     "en": "'Gnaanam' means knowledge generally, not science."
+    },
+    "C": {
+     "ta": "'கல்வி' என்பது கல்வி கற்றலைக் குறிக்கும் சொல்.",
+     "en": "'Kalvi' means education."
+    },
+    "D": {
+     "ta": "'விவேகம்' என்பது பகுத்தறிவைக் குறிக்கும் சொல்.",
+     "en": "'Vivekam' means wisdom or discretion."
+    }
+   },
+   "rule": {
+    "ta": "பிறமொழிச் சொற்களுக்கு நிகரான தூய தமிழ்ச்சொற்களை அறிந்து பயன்படுத்த வேண்டும்.",
+    "en": "Use appropriate pure Tamil equivalents for borrowed words."
+   },
+   "eg": {
+    "ta": "பூகோளம் - புவியியல்",
+    "en": "Poogolam - Puviyiyal"
+   },
+   "tip": {
+    "ta": "அறிவு சம்பந்தப்பட்ட துறைக்கு 'அறிவியல்' என்பதே சரி.",
+    "en": "For science-related terms, 'ariviyal' is the right word."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-ayarchol-pizhai-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் காலத்தின் கடந்த கால நிகழ்வைக் குறிக்கும் தமிழ்ச்சொல்லைப் பாருங்கள்.",
+    "en": "Look for the Tamil word that denotes past historical records."
+   },
+   "explain": {
+    "ta": "'சரித்திரம்' என்பது பிறமொழிச் சொல்லாகும். இதன் சரியான தமிழ்ச்சொல் 'வரலாறு' ஆகும்.",
+    "en": "The pure Tamil equivalent for the word 'sarithiram' is 'varalaaru'."
+   },
+   "why": {
+    "A": {
+     "ta": "'சரிதை' என்பது கதையைக் குறிக்கும் பிறமொழிச் சொல்.",
+     "en": "'Sarithai' is a different derivative term."
+    },
+    "C": {
+     "ta": "'கதை' என்பது கற்பனையையோ அல்லது நிகழ்வையோ குறிக்கும் பொதுவான சொல்.",
+     "en": "'Kadhai' means a story."
+    },
+    "D": {
+     "ta": "'சம்பவம்' என்பது நடப்பு நிகழ்வைக் குறிக்கும் பிறமொழிச் சொல்.",
+     "en": "'Sambavam' is an event."
+    }
+   },
+   "rule": {
+    "ta": "சரித்திரம் என்ற சொல்லுக்கு வரலாறு என்பதே சரியான தமிழ்ச்சொல்.",
+    "en": "The correct Tamil word for history is varalaaru."
+   },
+   "eg": {
+    "ta": "நவீன சரித்திரம் - நவீன வரலாறு",
+    "en": "Modern history - Modern varalaaru"
+   },
+   "tip": {
+    "ta": "வரலாறு என்ற சொல்லே சரித்திரத்திற்குச் சரியான இணைச் சொல்.",
+    "en": "Always match history with varalaaru."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-ayarchol-pizhai-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ் எழுத்து இலக்கண விதிகளின்படி சரியான எழுத்துக் கூட்டலைத் தேர்வுசெய்யுங்கள்.",
+    "en": "Check for correct spelling and consonant combinations according to Tamil grammar rules."
+   },
+   "explain": {
+    "ta": "தமிழில் 'ற்' என்ற எழுத்தைத் தொடர்ந்து 'சி' என்ற எழுத்து மட்டுமே வரும் என்பதால் 'முயற்சி' என்பதே சரியான எழுத்துக்கூட்டலாகும்.",
+    "en": "The correct spelling is 'முயற்சி' because the consonant 'ற்' is followed by 'சி'."
+   },
+   "why": {
+    "A": {
+     "ta": "'ற்' என்ற எழுத்தைத் தொடர்ந்து 'ச்சி' என வருவது தமிழ் இலக்கண முறைப்படி தவறான எழுத்துக்கூட்டலாகும்.",
+     "en": "Writing 'ச்சி' after 'ற்' is grammatically incorrect."
+    },
+    "B": {
+     "ta": "இடையில் 'ற்' என்ற வல்லின மெய் விடுபட்டிருப்பதால் இப்பதம் பிழையானதாகும்.",
+     "en": "This is incorrect because the consonant 'ற்' is missing."
+    },
+    "D": {
+     "ta": "இறுதியில் 'சீ' என நெடில் எழுத்து வந்திருப்பதால் இப்பதம் தவறானது.",
+     "en": "This is incorrect because it ends with the long vowel 'சீ'."
+    }
+   },
+   "rule": {
+    "ta": "ற் என்ற வல்லின மெய்யைத் தொடர்ந்து சி என்ற எழுத்து மட்டுமே வரும்.",
+    "en": "The consonant ற் is always followed by சி."
+   },
+   "eg": {
+    "ta": "பயிற்சி, காட்சி போல முயற்சி.",
+    "en": "Similar words include பயிற்சி and காட்சி."
+   },
+   "tip": {
+    "ta": "ற்-சி என்று சேர்த்துச் சொல்லிப் பழகவும்.",
+    "en": "Remember the ற்-சி combination."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-ayarchol-pizhai-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் வேற்றுமை உருபு வெளிவரும்போது வல்லினம் மிகும் இடத்தை அடையாளம் காணுங்கள்.",
+    "en": "Check where the consonant (vallinam) doubles after a case marker (vetrumai urubu)."
+   },
+   "explain": {
+    "ta": "இத்தொடரில் 'கனி' என்ற சொல்லோடு இரண்டாம் வேற்றுமை உருபான 'ஐ' சேர்ந்துள்ளது. ஐகார உருபு வெளிப்படையாக வரும்போது அடுத்த சொல்லின் முதல் எழுத்தான 'க்' மிகுந்து 'கনিয়ைக் கொடு' என்று வரும்.",
+    "en": "The official answer is correct because the second case marker 'ஐ' takes the velar plosive 'க்' in the following word."
+   },
+   "why": {
+    "A": {
+     "ta": "இரண்டாம் வேற்றுமை 'ஐ' வெளிவரும்போது நிலைமொழியை அடுத்து வல்லினம் மிக வேண்டும், இங்கு ஒற்று விடுபட்டுள்ளது.",
+     "en": "This is wrong because the required consonant doubling after the second case marker is missing."
+    },
+    "C": {
+     "ta": "தேவையற்ற முறையில் இரட்டை ஒற்று ('க்க்') வந்திருப்பதால் இத்தொடர் பிழையானது.",
+     "en": "This is wrong because it contains an unnecessary double consonant."
+    },
+    "D": {
+     "ta": "இரண்டாம் வேற்றுமை உருபான 'ஐ' முற்றிலும் விடுபட்டிருப்பதால் இது பிழையான தொடராகும்.",
+     "en": "This is wrong because the case marker 'ஐ' is completely omitted."
+    }
+   },
+   "rule": {
+    "ta": "இரண்டாம் வேற்றுமை விரி (ஐ) வெளிப்படையாக வரும்போது வல்லினம் மிகும்.",
+    "en": "Vallinam letters will double after the explicit second case marker (ai)."
+   },
+   "eg": {
+    "ta": "பாடத்தைப் படித்தான், மரத்தை வெட்டினான்.",
+    "en": "Similar examples include பாடத்தைப் படித்தான் and மரத்தை வெட்டினான்."
+   },
+   "tip": {
+    "ta": "ஐ கண்டால் க ச த ப-வைக் கூட்டிக் கொள்ளுங்கள்.",
+    "en": "Whenever you see 'ஐ', double the following vallinam consonant."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-orezhuthu-maruu-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஓரெழுத்து ஒருமொழியான 'கா' தரும் பொருளைப் பாருங்கள்.",
+    "en": "Look at the meaning of the single-letter word 'Ka'."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'கா' என்னும் ஓரெழுத்து சோலை என்னும் பொருளைத் தரும். நன்னூல் காட்டும் 42 ஓரெழுத்து ஒருமொழிகளில் 'கா' என்பது சோலை என்ற பொருளைக் குறிக்கும்.",
+    "en": "According to the official answer, the single-letter word 'Ka' means grove or garden."
+   },
+   "why": {
+    "A": {
+     "ta": "காடு என்பது வேறு சொல்லால் குறிக்கப்படும், 'கா' என்பதன் நேரான பொருள் சோலை.",
+     "en": "Forest is a different word; 'Ka' specifically means a grove."
+    },
+    "C": {
+     "ta": "காகம் என்பது ஓரெழுத்து ஒருமொழி அன்று.",
+     "en": "Crow is not a single-letter word."
+    },
+    "D": {
+     "ta": "காவல் என்பது வேறு பொருளைத் தரும் சொல்.",
+     "en": "Protection is a different meaning."
+    }
+   },
+   "rule": {
+    "ta": "கா = சோலை (நன்னூல் ஓரெழுத்து ஒருமொழி).",
+    "en": "Ka means grove."
+   },
+   "eg": {
+    "ta": "கை = ஒழுக்கம், பூ = மலர்.",
+    "en": "Kai means discipline, Poo means flower."
+   },
+   "tip": {
+    "ta": "காட்சா என்றால் சோலை ஞாபகம் வர வேண்டும்.",
+    "en": "Remember Ka as a garden or grove."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-orezhuthu-maruu-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் 'கொடு' என்ற பொருளைத் தரும் ஓரெழுத்து ஒருமொழிகளைக் கண்டறியுங்கள்.",
+    "en": "Find the single-letter words that mean 'give'."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'ஈ' மற்றும் 'தா' ஆகிய இரண்டும் 'கொடு' என்ற ஒரே பொருளைத் தரும் ஓரெழுத்து ஒருமொழிகளாகும். நன்னூல் பட்டியலின்படி இவை இரண்டும் இவ்வقைச் சொற்களாகும்.",
+    "en": "According to the official answer, both 'Ee' and 'Tha' mean to give."
+   },
+   "why": {
+    "B": {
+     "ta": "ஆ பசுவையும் கா சோலையையும் குறிக்கும்.",
+     "en": "Aa means cow and Ka means grove."
+    },
+    "C": {
+     "ta": "பூ மற்றும் வீ இரண்டும் மலரைக் குறிக்கும் சொற்கள்.",
+     "en": "Poo and Vee both mean flower."
+    },
+    "D": {
+     "ta": "நே மற்றும் மே இரண்டும் அன்பைக் குறிக்கும் சொற்கள்.",
+     "en": "Ne and Me both mean love."
+    }
+   },
+   "rule": {
+    "ta": "கொடு என்ற பொருளில் ஈ, தா இரண்டும் வரும்.",
+    "en": "Both Ee and Tha mean give."
+   },
+   "eg": {
+    "ta": "மலர் என்றால் பூ, வீ இரண்டும் வரும்.",
+    "en": "Poo and Vee both mean flower."
+   },
+   "tip": {
+    "ta": "கொடு என்றால் ஈ தா என்று ஈந்து தாருங்கள்.",
+    "en": "Remember give as Ee and Tha."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-orezhuthu-maruu-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஊர்ப்பெயரின் மரூஉ வடிவத்தைக் கவனியுங்கள்.",
+    "en": "Look at the contracted form of the town name."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'நாகப்பட்டினம்' என்னும் ஊர்ப்பெயர் வழக்கில் சுருங்கி 'நாகை' என்று மரூஉவாக வழங்கும். ஊர்ப்பெயர்கள் பெரும்பாலும் இறுதி எழுத்துகள் திரிந்து அல்லது சுருங்கி வரும்.",
+    "en": "According to the official answer, Nagapattinam becomes Nagai in common usage."
+   },
+   "why": {
+    "A": {
+     "ta": "நாகர்கோவில் என்பதன் மரூஉ நாகை அன்று.",
+     "en": "Nagarkovil does not become Nagai."
+    },
+    "C": {
+     "ta": "நாமக்கல் என்பது தனி ஊர்ப்பெயர்.",
+     "en": "Namakkal is a separate town name."
+    },
+    "D": {
+     "ta": "நாங்குநேரி என்பது வேறு ஊராகும்.",
+     "en": "Nanguneri is a different place."
+    }
+   },
+   "rule": {
+    "ta": "நாகப்பட்டினம் → நாகை (ஊர்ப்பெயர் மரூஉ).",
+    "en": "Nagapattinam becomes Nagai."
+   },
+   "eg": {
+    "ta": "திருநெல்வேலி → நெல்லை.",
+    "en": "Tirunelveli becomes Nellai."
+   },
+   "tip": {
+    "ta": "கடைசிப் பகுதியைச் சுருக்கி ஐ சேர்த்து மரூஉ எழுதுங்கள்.",
+    "en": "Contract the ending with -ai for town maruuv."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-orezhuthu-maruu-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சோழநாடு என்பதன் மருவிய வடிவத்தைத் தேடுங்கள்.",
+    "en": "Find the colloquial contracted form of Cholanaadu."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'சோழநாடு' என்பது பேச்சு வழக்கில் சுருங்கி 'சோணாடு' என்று மரூஉவாக வழங்கும். இதில் 'ழ'கர மெய் 'ண'கரமாகத் திரிந்து வந்துள்ளது.",
+    "en": "According to the official answer, Cholanaadu becomes Sonaadu."
+   },
+   "why": {
+    "B": {
+     "ta": "சோழை என்பது தவறான மரூஉ வடிவமாகும்.",
+     "en": "Solai is an incorrect form."
+    },
+    "C": {
+     "ta": "சோழம் என்பது மரூஉச் சொல் அன்று.",
+     "en": "Solam is not a maruuv word."
+    },
+    "D": {
+     "ta": "சோநாடு என்பது எழுத்துப்பிழையான வடிவமாகும்.",
+     "en": "Sonaadu without retroflex is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "சோழநாடு என்பதன் மரூஉ சோணாடு ஆகும்.",
+    "en": "Cholanaadu transforms to Sonaadu."
+   },
+   "eg": {
+    "ta": "மலையமான் நாடு → மலாடு.",
+    "en": "Malaiyaman naadu becomes Malaadu."
+   },
+   "tip": {
+    "ta": "சோழநாடு என்றவுடன் சோணாடு ஞாபகம் வர வேண்டும்.",
+    "en": "Remember Cholanaadu as Sonaadu."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-palporul-akaram-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தாமரையின் ஒத்த சொற்களையும் அல்லியின் பெயரையும் வேறுபடுத்துங்கள்.",
+    "en": "Differentiate between synonyms of lotus and water lily."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'குமுதம்' என்பது அல்லி மலரைக் குறிக்கும், அது தாமரைக் குழுவில் வராது. கமலம், முளரி, பங்கயம் என்பவை தாமரையைக் குறிக்கும் சொற்களாகும்.",
+    "en": "According to the official answer, Kumudam refers to the water lily, not the lotus."
+   },
+   "why": {
+    "A": {
+     "ta": "கமலம் என்பது தாமரையைக் குறிக்கும் சரியான சொல்.",
+     "en": "Kamalam is a synonym for lotus."
+    },
+    "B": {
+     "ta": "முளரி என்பது தாமரையைக் குறிக்கும் சொல்.",
+     "en": "Mulari is a synonym for lotus."
+    },
+    "D": {
+     "ta": "பங்கயம் என்பது தாமரையைக் குறிக்கும் சொல்.",
+     "en": "Pangayam is a synonym for lotus."
+    }
+   },
+   "rule": {
+    "ta": "குமுதம் = அல்லி மலர்; தாமரை அல்ல.",
+    "en": "Kumudam is water lily, not lotus."
+   },
+   "eg": {
+    "ta": "தாமரை = கமலம், கஞ்சம், பங்கயம்.",
+    "en": "Lotus synonyms include Kamalam, Kanjam, Pangayam."
+   },
+   "tip": {
+    "ta": "குமுதம் கண்டால் அல்லி என்று தெரிந்து கொள்ளுங்கள்.",
+    "en": "Kumudam means lily."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-palporul-akaram-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சொற்களின் அகர வரிசைப்படி முதல் எழுத்தை ஒப்பிடுங்கள்.",
+    "en": "Compare the initial letters according to alphabetical order."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கொடுக்கப்பட்ட சொற்களில் 'சப்பாணி' என்ற சொல்லே அகர வரிசையில் முதலில் வரும். 'ச' வரிசையில் 'சப்' (ச + அ) என்பது 'செ' (ச + எ) மற்றும் 'தா', 'மு' என்பவற்றிற்கு முன்பு வரும்.",
+    "en": "According to the official answer, 'Sappani' comes first alphabetically."
+   },
+   "why": {
+    "A": {
+     "ta": "செங்கீரை என்பது 'ச' வரிசையில் 'சப்' என்பவருக்குப் பின் வரும்.",
+     "en": "Sengirai comes after Sappani."
+    },
+    "C": {
+     "ta": "தால் என்பது 'த' வரிசையில் வருவதால் பிந்தია.",
+     "en": "Thaal starts with 'Tha' so it comes later."
+    },
+    "D": {
+     "ta": "முத்தம் என்பது 'ம' வரிசையில் வருவதால் கடைசியாக வரும்.",
+     "en": "Mutham starts with 'Ma' so it comes last."
+    }
+   },
+   "rule": {
+    "ta": "அகர வரிசையில் உயிர்மெய் எழுத்துக்களின் வரிசைப்படி (அ, ஆ...) சீர் செய்ய வேண்டும்.",
+    "en": "Arrange according to the Tamil alphabetical order of letters."
+   },
+   "eg": {
+    "ta": "காப்பு < சப்பாணி < செங்கீரை < தால்.",
+    "en": "Kaappu < Sappani < Sengirai < Thaal."
+   },
+   "tip": {
+    "ta": "சப் என்பது செக்கு முன்பு வரும் என்பதை நினைவில் கொள்க.",
+    "en": "Sapp comes before Seng in alphabetical order."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-palporul-akaram-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், கொடுக்கப்பட்ட சொல்லில் உள்ள இரு சொற்களின் பொருளையும் கவனித்து அவை ஒரே பொருளைத் தருகிறதா என்பதைப் பாருங்கள்.",
+    "en": "Check if both parts of the compound word give the exact same meaning."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'மீமிசை' என்பது ஒருபொருட் பன்மொழி ஆகும். 'மீ' மற்றும் 'மிசை' ஆகிய இரண்டு சொற்களுமே மேல் அல்லது மேலே என்ற ஒரே பொருளைத் தரும் சொற்களாக இணைந்து வந்துள்ளதால் இது ஒருபொருட் பன்மொழி எனப்படுகிறது.",
+    "en": "Meemisai is an Oruporut Panmozhi because both words me and misai mean above."
+   },
+   "why": {
+    "A": {
+     "ta": "பலபொருள் ஒருசொல் என்பது ஒரு சொல் பல பொருள்களைத் தருவதாகும்.",
+     "en": "Palporul oruchol means one word with multiple meanings."
+    },
+    "C": {
+     "ta": "இரட்டைக்கிளவி என்பது இரட்டையாக இணைந்து பிரித்தால் பொருள் தராமல் வரும் சொல்லாகும்.",
+     "en": "Irattakilavi are twin words that make no sense when split."
+    },
+    "D": {
+     "ta": "அடுக்குத்தொடர் என்பது ஒரு சொல் இரண்டு மூன்று முறை அடுக்கி வந்து பிரித்தாலும் பொருள் தருவதாகும்.",
+     "en": "Addukkuttodar is a repeated word that makes sense when split."
+    }
+   },
+   "rule": {
+    "ta": "ஒரே பொருள் தரும் இரண்டு சொற்கள் சேர்ந்து வருவது ஒருபொருட் பன்மொழி ஆகும்.",
+    "en": "Two words carrying the same meaning coming together is Oruporut Panmozhi."
+   },
+   "eg": {
+    "ta": "நடுவண் என்பது நடு என்ற பொருளையும், உயர்ந்தோங்கு என்பது உயர்வு என்ற பொருளையும் தரும்.",
+    "en": "Naduvand and Uyarndongu are similar examples of Oruporut Panmozhi."
+   },
+   "tip": {
+    "ta": "மீமிசை என்றால் மேல் என்ற ஒரு பொருளே இரு சொற்களாலும் வருகிறது என்பதை நினைவில் கொள்க.",
+    "en": "Remember that both components of Meemisai point to the same direction."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-pechu-inaippu-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், நாம் அன்றாடம் பேசும் பேச்சுத் தமிழை இலக்கணப் பிழையின்றி சரியான எழுத்து வடிவமாக மாற்றுவதைப் பாருங்கள்.",
+    "en": "Convert the colloquial spoken word into its pure grammatical written form."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'வெத்தில' என்பதன் சரியான எழுத்து வழக்கு 'வெற்றிலை' ஆகும். பேச்சு வழக்கில் ஒலிகள் சுருங்கியும் திரிந்தும் வரும், அவற்றை எழுதும் போது தூய தமிழ் வடிவமாக மாற்ற வேண்டும்.",
+    "en": "Vettila in spoken Tamil becomes Vetrilai in written Tamil."
+   },
+   "why": {
+    "A": {
+     "ta": "வெத்திலை என்பது பேச்சு வழக்கு மாறாமல் உள்ள வடிவமாகும்.",
+     "en": "Vethilai retains the colloquial spelling."
+    },
+    "C": {
+     "ta": "வெற்றில என்பது முழுமையாக எழுதப்படாத குறையான வடிவமாகும்.",
+     "en": "Vetrila is an incomplete spelling."
+    },
+    "D": {
+     "ta": "வெற்றிளை என்பது தவறான எழுத்துக்கூட்டலைக் கொண்ட சொல்லாகும்.",
+     "en": "Vetrilai with 'la' is orthographically incorrect."
+    }
+   },
+   "rule": {
+    "ta": "பேச்சுத் தமிழில் திரிந்து வரும் சொற்களைத் திருத்தி முழுமையான தூய எழுத்துச் சொல்லாக எழுத வேண்டும்.",
+    "en": "Colloquial words must be corrected to their full pure written form."
+   },
+   "eg": {
+    "ta": "தண்ணி என்பது தண்ணீர் என்றும், வூடு என்பது வீடு என்றும் எழுத்து வழக்கில் மாறும்.",
+    "en": "Thanni becomes Thaneer and Voodu becomes Veedu."
+   },
+   "tip": {
+    "ta": "பாதி திருத்திய சொற்களைத் தவிர்க்கவும், முழுமையாகச் சரியாய் உள்ளதை மட்டுமே தேர்ந்தெடுக்கவும்.",
+    "en": "Avoid half-corrected words and choose the fully correct standard form."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-pechu-inaippu-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், வாக்கியத்தின் கால வரிசையைக் குறிக்கும் சரியான இணைப்புச் சொல்லைத் தேர்ந்தெடுப்பதைப் பாருங்கள்.",
+    "en": "Choose the connecting word that indicates the correct chronological order."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'தேர்வு முடிந்த பின்பு சுற்றுலா செல்லலாம்' என்பது சரியான தொடராகும். இங்கு ஒரு செயல் முடிந்த பின் மற்றொரு செயல் தொடங்குவதைக் காலம் காட்டும் இணைப்புச் சொல் மூலம் இணைக்கப்பட்டுள்ளது.",
+    "en": "Pinbu is the correct conjunction to indicate an event happening after another."
+   },
+   "why": {
+    "B": {
+     "ta": "ஏனெனில் என்பது காரணத்தைக் கூறப் பயன்படும் இணைப்புச் சொல்லாகும்.",
+     "en": "Aenengil is used to state a reason."
+    },
+    "C": {
+     "ta": "எனினும் என்பது முரண்பாட்டைக் குறிக்கப் பயன்படும் இணைப்புச் சொல்லாகும்.",
+     "en": "Eninum is used to indicate contrast."
+    },
+    "D": {
+     "ta": "அல்லது என்பது இரண்டுவற்றுள் ஒன்றைத் தேர்ந்தெடுக்கப் பயன்படும் சொல்லாகும்.",
+     "en": "Alladhu is used for alternatives."
+    }
+   },
+   "rule": {
+    "ta": "கால வரிசையைக் குறிக்க பின்பு, பிறகு போன்ற இணைப்புச் சொற்களைப் பயன்படுத்த வேண்டும்.",
+    "en": "Use conjunctions like pinbu or piragu to denote sequence of time."
+   },
+   "eg": {
+    "ta": "மழை நின்ற பின்பு நாம் வெளியே செல்லலாம்.",
+    "en": "We can go out after the rain stops."
+   },
+   "tip": {
+    "ta": "காலத்தைக் குறிக்கும் இடத்தில் பின்பு அல்லது பிறகு என்பதைப் பொருத்த வேண்டும்.",
+    "en": "Match 'pinbu' or 'piragu' when dealing with time sequences."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-pechu-inaippu-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், வாக்கியத்தில் விளைவு முதலில் வந்து அதற்கான காரணம் பின்னால் வந்தால் எந்தச் சொல் பொருந்தும் என்பதைப் பாருங்கள்.",
+    "en": "Check which conjunction fits when the effect comes first and the cause follows."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'அவன் வரவில்லை, ஏனெனில் அவனுக்குக் காய்ச்சல்' என்பதே சரியான வாக்கியமாகும். இங்கு அவன் வராதது விளைவு, அவனுக்குக் காய்ச்சல் என்பது காரணம்; எனவே காரணத்தைக் கூற 'ஏனெனில்' பயன்படுத்தப்பட்டுள்ளது.",
+    "en": "Aenengil is used here because the cause follows the statement of the effect."
+   },
+   "why": {
+    "A": {
+     "ta": "எனவே என்பது காரணத்தை அடுத்து விளைவு வரும் போது பயன்படுத்தப்படும்.",
+     "en": "Enave is used when the consequence follows the cause."
+    },
+    "C": {
+     "ta": "ஆகையால் என்பதும் விளைவைக் குறிக்கவே பயன்படும் சொல்லாகும்.",
+     "en": "Aagaiyaal also points to a consequence."
+    },
+    "D": {
+     "ta": "அதனால் என்பதும் காரணத்தின் விளைவைக் குறிக்கப் பயன்படுவதாகும்.",
+     "en": "Adhanaal is used to state a result."
+    }
+   },
+   "rule": {
+    "ta": "விளைவு முதலில் வந்து காரணம் பின்னால் வந்தால் 'ஏனெனில்' என்ற இணைப்புச் சொல்லைப் பயன்படுத்த வேண்டும்.",
+    "en": "Use 'aenengil' when the effect is stated first and the cause comes next."
+   },
+   "eg": {
+    "ta": "அவனால் ஓட முடியவில்லை, ஏனெனில் அவன் கால் வலித்தால் அவதிப்பட்டான்.",
+    "en": "He could not run because his leg hurt."
+   },
+   "tip": {
+    "ta": "காரணம் பின்னால் வரும்போது 'ஏனெனில்' என்பதைப் பயன்படுத்த வேண்டும் என்பதை நினைவில் கொள்க.",
+    "en": "Remember that 'aenengil' introduces the reason at the back."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-pechu-inaippu-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், பேச்சு வழக்கில் திரிந்துள்ள உறுப்பின் பெயரை சரியான இலக்கண வடிவமாக மாற்றுவதைப் பாருங்கள்.",
+    "en": "Convert the corrupted spoken body part name into its standard correct form."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'நாக்காலி' என்பதன் சரியான எழுத்து வடிவம் 'நாற்காலி' ஆகும். நான்கு மற்றும் கால் என்ற சொற்கள் இணைந்து உரிய இலக்கண விதியோடு நாற்காலி என்றானது.",
+    "en": "Naakkali in spoken form corrects to Naarkali based on root words."
+   },
+   "why": {
+    "A": {
+     "ta": "நாக்கலி என்பது பேச்சு வழக்குச் சொல்லின் மற்றொரு மாற்றமே தவிர சரியானதல்ல.",
+     "en": "Naakkali is just another colloquial variation."
+    },
+    "C": {
+     "ta": "நார்காலி என்பது தேவையற்ற எழுத்து மாற்றத்தைக் கொண்ட தவறான சொல்லாகும்.",
+     "en": "Naarkali with long 'r' is incorrect."
+    },
+    "D": {
+     "ta": "நாற்கலி என்பது எழுத்துப் பிழையுள்ள தவறான வடிவமாகும்.",
+     "en": "Naarkali missing the 'aa' vowel length is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "நான்கு கூட்டல் கால் என்பது சேர்ந்து நாற்காலி என மாறும்.",
+    "en": "Nanku plus kaal combines to form Naarkali."
+   },
+   "eg": {
+    "ta": "வெத்திலை என்பது வெற்றிலை என மாறுவது போல நாக்காலி என்பது நாற்காலி ஆகும்.",
+    "en": "Just like Vettilai, Naakkali becomes Naarkali."
+   },
+   "tip": {
+    "ta": "நான்கு கால்களைக் குறிக்கும் சொல் என்பதால் 'நாற்காலி' என்பதை நினைவில் கொள்க.",
+    "en": "Keep in mind it relates to four legs, hence Naarkali."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-thodar-vagai-c1": {
+   "hint": {
+    "ta": "தமிழ் வாக்கிய அமைப்பில் எழுவாய், செயப்படுபொருள், பயனிலை ஆகியவை எந்த வரிசையில் வர வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Look at the correct word order of subject, object, and predicate in Tamil sentences."
+   },
+   "explain": {
+    "ta": "தமிழில் எழுவாய் முதலில் வந்து, இடையில் செயப்படுபொருளும் வினையடையும் வந்து, இறுதியில் வினைமுற்று (பயனிலை) கொண்டு முடிவதே சரியான தொடர் அமைப்பாகும். அதன்படி மாணவன் (எழுவாய்) பாடத்தை (செயப்படுபொருள்) நன்றாகப் (வினையடை) படித்தான் (வினைமுற்று) என்ற வரிசை சரியாகும்.",
+    "en": "In Tamil, the standard sentence structure follows the order of subject, object, adverb, and finite verb."
+   },
+   "why": {
+    "A": {
+     "ta": "இத்தொடரில் பயனிலை நடுவில் வந்து தொடர் மாறி வந்துள்ளது.",
+     "en": "The predicate appears in the middle incorrectly."
+    },
+    "C": {
+     "ta": "இத்தொடரில் வினையடை இறுதியில் வந்து முறை மாறி வந்துள்ளது.",
+     "en": "The adverb appears at the end incorrectly."
+    },
+    "D": {
+     "ta": "இத்தொடரில் வினைமுற்று முதலில் வந்து வாக்கிய அமைப்பு மாறியுள்ளது.",
+     "en": "The finite verb appears at the beginning incorrectly."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் வாக்கிய அமைப்பு: எழுவாய் + செயப்படுபொருள் + வினையடை + வினைமுற்று.",
+    "en": "Tamil sentence structure: Subject + Object + Adverb + Verb."
+   },
+   "eg": {
+    "ta": "கபிலன் கவிதையை அழகாக எழுதினான்.",
+    "en": "Kapilan wrote the poem beautifully."
+   },
+   "tip": {
+    "ta": "எழுவாயில் தொடங்கி வினைமுற்றில் முடிவதே தமிழ் வாக்கியத்தின் அழகு.",
+    "en": "Start with the subject and end with the verb."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-thodar-vagai-c2": {
+   "hint": {
+    "ta": "வாக்கியத்தின் இறுதியில் உள்ள ஆச்சரியக் குறி மற்றும் வெளிப்படும் உணர்ச்சியைப் பாருங்கள்.",
+    "en": "Look at the exclamation mark and the emotion expressed at the end of the sentence."
+   },
+   "explain": {
+    "ta": "அச்சம், வியப்பு, உவகை போன்ற உணர்ச்சிகளை வெளிப்படுத்தும் தொடர் உணர்ச்சித் தொடர் எனப்படும். இங்கு இயற்கையின் அழகைக் கண்டு வியந்து கூறுவதால் இது உணர்ச்சித் தொடராகும்.",
+    "en": "A sentence that expresses emotions like wonder is called an exclamation sentence."
+   },
+   "why": {
+    "A": {
+     "ta": "செய்தியை மட்டும் தெரிவிக்கும் தொடர் இதுவல்ல.",
+     "en": "This is not a statement sentence."
+    },
+    "B": {
+     "ta": "இது கேள்வி கேட்கும் தொடர் அல்ல.",
+     "en": "This is not an interrogative sentence."
+    },
+    "C": {
+     "ta": "இது கட்டளையோ வேண்டுகோளோ விழைவோ குறிக்கும் தொடர் அல்ல.",
+     "en": "This is not an imperative sentence."
+    }
+   },
+   "rule": {
+    "ta": "உணர்ச்சிகளை வெளிப்படுத்தும் தொடர் உணர்ச்சித் தொடர் எனப்படும்.",
+    "en": "Sentences expressing strong emotions are exclamation sentences."
+   },
+   "eg": {
+    "ta": "ஆஹா, இவ்வளவு பெரிய மலையா!",
+    "en": "Ah, such a big mountain!"
+   },
+   "tip": {
+    "ta": "ஆச்சரியக் குறி (!) வந்தால் அது உணர்ச்சித் தொடர்.",
+    "en": "An exclamation mark usually indicates an exclamation sentence."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-thodar-vagai-c3": {
+   "hint": {
+    "ta": "வாக்கியம் கட்டளையையா அல்லது வேண்டுகோளையா குறிக்கிறது என்பதைப் பாருங்கள்.",
+    "en": "Check whether the sentence indicates a command or a request."
+   },
+   "explain": {
+    "ta": "விழைவுத் தொடர் என்பது கட்டளை, வேண்டுகோள், வாழ்த்து, வைதல் போன்ற பொருள்களில் வரும். இங்கே 'இங்கே அமர்க' என்பது ஒரு கட்டளை அல்லது வேண்டுகோளை உணர்த்துவதால் இது விழைவுத் தொடர் ஆகும்.",
+    "en": "An imperative sentence expresses a command, request, wish, or curse."
+   },
+   "why": {
+    "B": {
+     "ta": "இது ஒரு தகவலை மட்டும் தரும் செய்தித் தொடர் அல்ல.",
+     "en": "This is not a simple statement."
+    },
+    "C": {
+     "ta": "இது உணர்ச்சியை வெளிப்படுத்தும் தொடர் அல்ல.",
+     "en": "This is not an exclamation sentence."
+    },
+    "D": {
+     "ta": "இது எந்த வினாவும் எழுப்பும் தொடர் அல்ல.",
+     "en": "This is not a question."
+    }
+   },
+   "rule": {
+    "ta": "விழைவுத் தொடர் கட்டளை, வேண்டுகோள், வாழ்த்து ஆகியவற்றை உணர்த்தும்.",
+    "en": "Imperative sentences express commands, requests, or wishes."
+   },
+   "eg": {
+    "ta": "நாளைக்கு மழை பெய்க.",
+    "en": "May it rain tomorrow."
+   },
+   "tip": {
+    "ta": "கட்டளை மற்றும் வேண்டுகோள் வாக்கியங்கள் விழைவுத் தொடர் எனப்படும்.",
+    "en": "Commands and requests fall under imperative sentences."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-vinai-vagai-c1": {
+   "hint": {
+    "ta": "எழுவாய் தானே வினையைச் செய்ததா அல்லது பிறரைச் செய்ய வைத்ததா என்பதைப் பாருங்கள்.",
+    "en": "Check whether the subject did the action itself or made someone else do it."
+   },
+   "explain": {
+    "ta": "தன்வினை என்பது எழுவாயே வினையைச் செய்வது. பிறவினை என்பது எழுவாய் வேறொருவரை வினையைச் செய்ய வைப்பது. இங்கு ஆசிரியர் மாணவனைப் படிக்க வைத்தார் என்பதால் இது பிறவினையாகும்.",
+    "en": "Piravinai means the subject causes someone else to perform the action."
+   },
+   "why": {
+    "A": {
+     "ta": "இது எழுவாயே படித்தலைக் குறிப்பதால் தன்வினைத் தொடர் ஆகும்.",
+     "en": "This is a reflexive/self-action sentence."
+    },
+    "C": {
+     "ta": "குழந்தை தானே தூங்கியதைக் குறிப்பதால் தன்வினைத் தொடர் ஆகும்.",
+     "en": "This is a self-action sentence."
+    },
+    "D": {
+     "ta": "இயற்கையாக நிகழ்ந்த செயலைக் குறிக்கும் தன்வினைத் தொடர் இது.",
+     "en": "This is a natural occurrence sentence."
+    }
+   },
+   "rule": {
+    "ta": "பிறரைச் செய்ய வைப்பது பிறவினை; தானே செய்வது தன்வினை.",
+    "en": "Piravinai is making another person do the action."
+   },
+   "eg": {
+    "ta": "தாய் குழந்தைக்குச் சோறு ஊட்டினாள் (பிறவினை).",
+    "en": "Mother fed the child (Piravinai)."
+   },
+   "tip": {
+    "ta": "ப்பி, க்கு, செய் போன்ற விகுதிகள் பிறவினையில் வரும்.",
+    "en": "Suffixes like ppi, kku often indicate Piravinai."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-vinai-vagai-c2": {
+   "hint": {
+    "ta": "'ஆல்' என்ற மூன்றாம் வேற்றுமை உருபும் 'பட்டது' என்ற சொல்லும் எதில் வந்துள்ளது எனப் பாருங்கள்.",
+    "en": "Look for the instrumental case marker 'aal' and the passive verb ending."
+   },
+   "explain": {
+    "ta": "செயப்பாட்டுவினைத் தொடரில் செயப்படுபொருள் எழுவாய் இடத்திற்கு வரும். மேலும் அதனுடன் 'ஆல்' என்ற ஐந்தாம்/மூன்றாம் வேற்றுமை உருபும் 'பட்டது' போன்ற செயப்பாட்டுவினை விகுதியும் சேர்ந்து வரும்.",
+    "en": "Passive voice sentences contain the agent marker 'aal' and a passive verb form."
+   },
+   "why": {
+    "A": {
+     "ta": "இது செயலை நேரடியாகக் குறிக்கும் தன்வினை/செய்கை வினை ஆகும்.",
+     "en": "This is an active voice sentence."
+    },
+    "C": {
+     "ta": "இது எதிர்காலத்தைக் குறிக்கும் செய்வினைத் தொடர் ஆகும்.",
+     "en": "This is an active voice sentence in the future tense."
+    },
+    "D": {
+     "ta": "இது பெயரெச்ச முடிவைக் கொண்ட பெயர்ச்சொல் தொடர் ஆகும்.",
+     "en": "This is a noun phrase ending with a relative participle."
+    }
+   },
+   "rule": {
+    "ta": "செயப்பாட்டுவினையில் 'ஆல்' என்னும் உருபும் 'பட்டது' போன்ற சொற்களும் வரும்.",
+    "en": "Passive voice features 'aal' and words like 'pattathu'."
+   },
+   "eg": {
+    "ta": "வீடு கட்டுவிக்கப்பட்டது / பாடம் கற்பிக்கப்பட்டது.",
+    "en": "The house was built / The lesson was taught."
+   },
+   "tip": {
+    "ta": "செயப்பாட்டுவினை என்றால் 'ஆல்' மற்றும் 'பட்டது' நினைவுக்கு வர வேண்டும்.",
+    "en": "Remember 'aal' and 'pattathu' for passive voice."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-vinai-vagai-c3": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட சொல்லைப் பிறவினைச் சொல்லாக மாற்ற என்ன மாற்றம் செய்ய வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "See how to convert the given verb root into a causative verb."
+   },
+   "explain": {
+    "ta": "'திருந்து' என்பது தன்வினைச் சொல். அதனைப் பிறவினையாக மாற்றும்போது வல்லின ஒற்று இரட்டித்து 'திருத்து' என மாறும்.",
+    "en": "The intransitive verb 'thirunthu' becomes the causative transitive verb 'thirutthu'."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தன்வினை காலங்காட்டிய வினைமுற்றுச் சொல் ஆகும்.",
+     "en": "This is a past tense finite verb."
+    },
+    "C": {
+     "ta": "இது பெயரெச்சச் சொல் ஆகும்.",
+     "en": "This is a relative participle."
+    },
+    "D": {
+     "ta": "இது எதிர்காலத் தன்வினை வினைமுற்றுச் சொல் ஆகும்.",
+     "en": "This is a future tense finite verb."
+    }
+   },
+   "rule": {
+    "ta": "தன்வினைச் சொற்கள் பிறவினையாக மாறும் போது வல்லினம் மிகும்.",
+    "en": "Intransitive verbs double their consonants when converted to transitive/causative verbs."
+   },
+   "eg": {
+    "ta": "பார் -> பார்த்து / உருளு -> உருட்டு.",
+    "en": "Paar -> Paarthu / Urulu -> Uruttu."
+   },
+   "tip": {
+    "ta": "திருந்து என்பது திருத்து என ஒற்று இரட்டித்து பிறவினையாகும்.",
+    "en": "Thirunthu becomes Thirutthu in causative form."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-vinai-vagai-c4": {
+   "hint": {
+    "ta": "செய்வினை செயப்பாட்டுவினையாக மாறும்போது எழுவாயுடன் எந்த வேற்றுமை உருபு சேரும் என்பதைப் பாருங்கள்.",
+    "en": "Check which case marker is added to the subject when an active voice becomes a passive voice."
+   },
+   "explain": {
+    "ta": "செய்வினை வாக்கியம் செயப்பாட்டுவினையாக மாறும்போது, அதன் எழுவாயுடன் 'ஆல்' என்னும் மூன்றாம் வேற்றுமை உருபு சேர்ந்து வரும்.",
+    "en": "When an active sentence changes to passive, the third case marker 'aal' is added to the subject."
+   },
+   "why": {
+    "A": {
+     "ta": "இரண்டாம் வேற்றுமை உருபு 'ஐ' ஆகும், இது செயப்படுபொருள் விகுதியாக வரும்.",
+     "en": "The second case marker is 'ai', which marks the object."
+    },
+    "C": {
+     "ta": "நான்காம் வேற்றுமை உருபு 'கு' ஆகும், இது கொடை அல்லது தகுதிப் பொருளில் வரும்.",
+     "en": "The fourth case marker is 'ku'."
+    },
+    "D": {
+     "ta": "ஏழாம் வேற்றுமை உருபு 'இல்', 'இடம்' ஆகும், இது இடத்தைக் குறிக்கும்.",
+     "en": "The seventh case marker denotes location."
+    }
+   },
+   "rule": {
+    "ta": "செய்வினை செயப்பாட்டுவினையாகும்போது எழுவாய் 'ஆல்' (மூன்றாம் வேற்றுமை) பெற்று வரும்.",
+    "en": "Active voice changes to passive by adding the third case marker 'aal' to the subject."
+   },
+   "eg": {
+    "ta": "கபிலன் பாடம் படித்தான் என்பது கபிலனால் பாடம் படிக்கப்பட்டது என மாறியது.",
+    "en": "Kapilan padam padithan became Kabilanaal padam padikkappattathu."
+   },
+   "tip": {
+    "ta": "செயப்பாட்டுவினை என்றாலே 'ஆல்' உருபும் 'பட்டது' விகுதியும் ஞாபகத்திற்கு வர வேண்டும்.",
+    "en": "Passive voice always comes with the 'aal' marker and 'pattathu'."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-marabu-c1": {
+   "hint": {
+    "ta": "எழுவாயின் திணை மற்றும் எண் அறிந்து அதற்கு ஏற்ற வினைமுற்றுச் சொல்லைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Identify the gender and number of the subject and choose the matching finite verb."
+   },
+   "explain": {
+    "ta": "மாடுகள் என்பது அஃறிணைப் பன்மைப் பெயர் ஆகும். எனவே, அதற்குரிய வினைமுற்று 'நனைந்தன' என்று அஃறிணைப் பன்மை விகுதியில் முடிய வேண்டும்.",
+    "en": "Maadugal is a non-human plural noun, so the verb must end in the non-human plural suffix '-anan'."
+   },
+   "why": {
+    "A": {
+     "ta": "நனைந்தது ஒருமை விகுதியாகும், பல மாடுகளுக்கு இது பொருந்தாது.",
+     "en": "Nanainthathu is singular, which doesn't match plural subjects."
+    },
+    "C": {
+     "ta": "நனைந்தனர் என்பது உயர்திணைப் பன்மை விகுதியாகும், மாடுகள் என்பது அஃறிணை.",
+     "en": "Nanainthanar is for human plurals, but cattle are non-human."
+    },
+    "D": {
+     "ta": "நனைந்தான் என்பது உயர்திணை ஆண்பால் ஒருமை விகுதியாகும்.",
+     "en": "Nanainthan is masculine singular for humans."
+    }
+   },
+   "rule": {
+    "ta": "அஃறிணைப் பன்மைப் பெயர்களுக்குப் பன்மை வினைமுற்றே (-அன) முடிவாக வரும்.",
+    "en": "Non-human plural subjects take non-human plural verbs."
+   },
+   "eg": {
+    "ta": "புதர்கள் மண்டிய பகுதி என்பதால் மரங்கள் வளர்ந்தன.",
+    "en": "Trees grew, matching the plural subject."
+   },
+   "tip": {
+    "ta": "மாடுகள், குதிரைகள் போன்ற அஃறிணைப் பன்மைச் சொற்கள் வந்தால் 'ன' அல்லது 'அன' விகுதியைப் பாருங்கள்.",
+    "en": "Look for plural endings for non-human subjects."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-marabu-c2": {
+   "hint": {
+    "ta": "மயிலின் ஒலியைக் குறிக்கும் மரபுச் சொல்லைச் கண்டறியவும்.",
+    "en": "Identify the traditional sound word for a peacock."
+   },
+   "explain": {
+    "ta": "தமிழ் மரபுப்படி மயில் எழுப்பும் ஒலியினை 'அகவும்' என்று குறிப்பிட வேண்டும்.",
+    "en": "According to Tamil tradition, the sound made by a peacock is called 'agavum'."
+   },
+   "why": {
+    "A": {
+     "ta": "கூவும் என்பது குயில், சேவல் போன்ற பறவைகளின் ஒலியாகும்.",
+     "en": "Koovum is the sound of cuckoos or roosters."
+    },
+    "C": {
+     "ta": "கரையும் என்பது காக்கை, தவளை போன்ற உயிரினங்களின் ஒலியாகும்.",
+     "en": "Karaiyum is the sound of crows or frogs."
+    },
+    "D": {
+     "ta": "பிளிறும் என்பது யானையின் ஒலியைக் குறிக்கும் சொல்லாகும்.",
+     "en": "Plirum is the trumpet sound of an elephant."
+    }
+   },
+   "rule": {
+    "ta": "ஒவ்வொரு விலங்கு மற்றும் பறவையின் ஒலிக்கும் மரபுச் சொற்கள் வேறுபட்டவை.",
+    "en": "Each animal and bird has a specific traditional sound word."
+   },
+   "eg": {
+    "ta": "குயில் கூவும், மயில் அகவும்.",
+    "en": "Cuckoo coos, peacock screams."
+   },
+   "tip": {
+    "ta": "மயில் - அகவும் என்பதை நினைவில் கொள்ள பள்ளிப் பாடப்புத்தக மரபுச் சொற்களைப் படிக்கவும்.",
+    "en": "Remember peacock-agavum from textbook vocabulary."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-marabu-c3": {
+   "hint": {
+    "ta": "விலங்குகளின் இளமைப் பெயர்களைக் குறிக்கும் மரபுச் சொல்லைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Choose the traditional term for the young one of the given animal."
+   },
+   "explain": {
+    "ta": "சிங்கத்தின் இளமைப் பெயர் 'குருளை' என்று அழைக்கப்படுகிறது. இது மரபுச் சொற்களில் ஒன்றாகும்.",
+    "en": "The young one of a lion is traditionally called 'kurulai'."
+   },
+   "why": {
+    "A": {
+     "ta": "குட்டி என்பது பொதுவாக பல விலங்குகளின் பொதுவாகப் பயன்படும் சொல்லாகும்.",
+     "en": "Kutti is a general term for young ones."
+    },
+    "B": {
+     "ta": "கன்று என்பது பசு, மான், எருமை ஆகியவற்றின் இளமைப் பெயராகும்.",
+     "en": "Kanru is the young one of a cow or deer."
+    },
+    "D": {
+     "ta": "பறழ் என்பது புலியின் இளமைப் பெயரைக் குறிக்கும் சொல்லாகும்.",
+     "en": "Paral is the young one of a tiger."
+    }
+   },
+   "rule": {
+    "ta": "சிங்கத்தின் குட்டி 'குருளை' என்றும், புலியின் குட்டி 'பறழ்' என்றும் அழைக்கப்படும்.",
+    "en": "Lion cub is kurulai, tiger cub is paral."
+   },
+   "eg": {
+    "ta": "புலி – பறழ், சிங்கம் – குருளை.",
+    "en": "Tiger - paral, Lion - kurulai."
+   },
+   "tip": {
+    "ta": "சிங்கம் குருளை, புலி பறழ் என்பதில் குழப்பம் கொள்ளாமல் பார்த்துக்கொள்ளவும்.",
+    "en": "Do not confuse lion and tiger young ones."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-marabu-c4": {
+   "hint": {
+    "ta": "காலத்தைக் குறிக்கும் சொற்களுடன் (நேற்று, நாளை) அதற்குரிய வினைமுற்றுப் பொருந்துகிறதா எனப் பார்க்கவும்.",
+    "en": "Check if the tense words match with the correct verb form."
+   },
+   "explain": {
+    "ta": "நேற்று என்பது இறந்தகாலத்தைக் குறிக்கும் சொல்லாகும். எனவே அதனுடன் 'பெய்தது' என்ற இறந்தகால வினைமுற்றே பொருந்தும்.",
+    "en": "Netru indicates past tense, so it must go with the past tense verb 'peythathu'."
+   },
+   "why": {
+    "A": {
+     "ta": "நேற்று என்பது இறந்தகாலம், பெயியும் என்பது எதிர்காலம். இரண்டும் பொருந்தாது.",
+     "en": "Netru is past, peyyum is future - mismatch."
+    },
+    "B": {
+     "ta": "நாளை என்பது எதிர்காலம், பெய்தது என்பது இறந்தகாலம். இரண்டும் பொருந்தாது.",
+     "en": "Naalai is future, peythathu is past - mismatch."
+    },
+    "D": {
+     "ta": "நாளை என்பது எதிர்காலம், பெய்கிறது என்பது நிகழ்காலம். இரண்டும் பொருந்தாது.",
+     "en": "Naalai is future, peykirathu is present - mismatch."
+    }
+   },
+   "rule": {
+    "ta": "காலமும் செயலும் ஒன்றுக்கொன்று முரண்படாமல் சரியான தொடராக அமைய வேண்டும்.",
+    "en": "Tense and action must agree in a sentence."
+   },
+   "eg": {
+    "ta": "நேற்று வந்தான், இன்று வருகிறான், நாளை வருவான்.",
+    "en": "Came yesterday, comes today, will come tomorrow."
+   },
+   "tip": {
+    "ta": "நேற்று-இறந்தகாலம், இன்று-நிகழ்காலம், நாளை-எதிர்காலம் என்ற விதியை எப்போதும் நினைவில் கொள்க.",
+    "en": "Always remember yesterday-past, today-present, tomorrow-future."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-punctuation-c1": {
+   "hint": {
+    "ta": "பட்டியல் அல்லது விளக்கத்திற்கு முன் பயன்படுத்தப்படும் நிறுத்தற் குறி என்னவென்று பார்க்கவும்.",
+    "en": "Identify the punctuation mark used before a list or explanation."
+   },
+   "explain": {
+    "ta": "செய்திகளைத் தொகுத்துக் கூறும்போது அல்லது பட்டியல் மற்றும் விளக்கத்திற்கு முன் 'முக்காற்புள்ளி' ( : ) குறி இடப்படும்.",
+    "en": "A colon ( : ) is used before giving a list or detailed explanation."
+   },
+   "why": {
+    "A": {
+     "ta": "காற்புள்ளி (,) என்பது வாக்கியத்தில் சிறிய இடைவெளிக்காகப் பயன்படும்.",
+     "en": "Comma is used for a small pause."
+    },
+    "B": {
+     "ta": "அரைப்புள்ளி (;) என்பது காற்புள்ளியை விடக் වැඩි இடைவெளிக்குப் பயன்படும்.",
+     "en": "Semicolon is used for a longer pause than a comma."
+    },
+    "D": {
+     "ta": "முற்றுப்புள்ளி (.) என்பது வாக்கியத்தின் இறுதியில் இடப்படுவதாகும்.",
+     "en": "Full stop is placed at the end of a sentence."
+    }
+   },
+   "rule": {
+    "ta": "விளக்கம் அல்லது பட்டியல் தொடங்குவதற்கு முன் முக்காற்புள்ளி ( : ) பயன்படுத்தப்படும்.",
+    "en": "A colon is used before a list or explanation."
+   },
+   "eg": {
+    "ta": "வகுри வகைகள் மூன்று: அவை...",
+    "en": "Types are three: they are..."
+   },
+   "tip": {
+    "ta": "முக்காற்புள்ளி குறியீடு இரண்டு புள்ளிகளை செங்குத்தாகக் கொண்டது ( : ).",
+    "en": "Colon consists of two dots vertically stacked."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-punctuation-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ் இலக்கணத்தில் நிறுத்தற் குறிகள் எங்கு, எதற்காகப் பயன்படுத்தப்படுகின்றன என்பதைப் பாருங்கள்.",
+    "en": "Look at where and why punctuation marks are used in Tamil grammar."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, விளிச் சொல் எனப்படும் அழைக்கும் சொற்களுக்குப் பின் காற்புள்ளி இட வேண்டும். எடுத்துக்காட்டாக 'அன்பே, வா' என்பதில் அன்பே என்பது விளிச்சொல், அதற்குப் பின் காற்புள்ளி வரும்.",
+    "en": "According to the official answer, a comma should be placed after an addressing word."
+   },
+   "why": {
+    "B": {
+     "ta": "இது கேள்வி கேட்கும் வாக்கியங்களின் இறுதியில் இடப்படும்.",
+     "en": "This is placed at the end of interrogative sentences."
+    },
+    "C": {
+     "ta": "இது ஒரே அளவில் நிற்கும் பல எழுத்துக்கள் அல்லது சொற்களைப் பிரித்துக் காட்டப் பயன்படும்.",
+     "en": "This is used to separate items of equal rank."
+    }
+   },
+   "rule": {
+    "ta": "விளிச் சொல்லுக்குப் பின் காற்புள்ளி (,) இட வேண்டும்.",
+    "en": "A comma must be placed after a vocative word."
+   },
+   "eg": {
+    "ta": "தம்பி, புத்தகத்தைக் கொடு.",
+    "en": "Thambi, give the book."
+   },
+   "tip": {
+    "ta": "அழைக்கும் போது சிறிது இடைவெளி விடுவது போல் காற்புள்ளி வரும்.",
+    "en": "Think of the comma as a brief pause when calling someone."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-punctuation-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட நிறுத்தற் குறி குறியீட்டிற்கான சரியான தமிழ்ப் பெயரைப் பாருங்கள்.",
+    "en": "Identify the correct Tamil name for the given punctuation symbol."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, (;) குறி அரைப்புள்ளி என அழைக்கப்படுகிறது. இது ஒரு வாக்கியத்தில் முற்றுப்புள்ளி வைக்கும் அளவுக்கு இல்லாவிட்டாலும், காற்புள்ளியை விடக் கூடுதலான இடைவெளி தேவைப்படும் இடங்களில் பயன்படுகிறது.",
+    "en": "According to the official answer, (;) is called a semicolon."
+   },
+   "why": {
+    "A": {
+     "ta": "முக்காற்புள்ளி என்பது (:) என்ற குறியைக் குறிக்கும்.",
+     "en": "Colon represents the symbol (:)."
+    },
+    "C": {
+     "ta": "காற்புள்ளி என்பது (,) என்ற குறியைக் குறிக்கும்.",
+     "en": "Comma represents the symbol (,)."
+    },
+    "D": {
+     "ta": "முற்றுப்புள்ளி என்பது (.) என்ற குறியைக் குறிக்கும்.",
+     "en": "Full stop represents the symbol (.)."
+    }
+   },
+   "rule": {
+    "ta": "(;) என்பது அரைப்புள்ளி ஆகும்.",
+    "en": "The symbol (;) is a semicolon."
+   },
+   "eg": {
+    "ta": "அரைப்புள்ளி குறியீடு (;) ஆகும்.",
+    "en": "The semicolon symbol is (;)."
+   },
+   "tip": {
+    "ta": "புள்ளிக்கு கீழே கா இருப்பது அரைப்புள்ளி (;) என நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember it as a dot with a comma below it."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-kalaichol-c1": {
+   "hint": {
+    "ta": "ஆங்கிலச் சொல்லின் தொடக்கப் பகுதியையும் அதன் தமிழ் மொழிபெயர்ப்பையும் ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the root meaning of the English word with the Tamil options."
+   },
+   "explain": {
+    "ta": "டெலஸ்கோப் என்பது வெகுதொலைவில் உள்ள பொருட்களைப் பார்க்கப் பயன்படும் கருவியாகும். எனவே தொலைவில் உள்ளதைப் பார்க்க உதவும் கருவி என்பதால் இது தொலைநோக்கி எனப்படுகிறது.",
+    "en": "Telescope means an instrument used to see distant objects, hence translated as தொலைநோக்கி."
+   },
+   "why": {
+    "A": {
+     "ta": "நுண்ணோக்கி என்பது மிகச்சிறிய பொருட்களைப் பார்க்க உதவும் நுண்ணோக்கியைக் (Microscope) குறிக்கும்.",
+     "en": "This refers to Microscope."
+    },
+    "C": {
+     "ta": "வெப்பநிலைமானி என்பது வெப்பநிலையை அளவிடும் கருவியைக் (Thermometer) குறிக்கும்.",
+     "en": "This refers to Thermometer."
+    },
+    "D": {
+     "ta": "டெலஸ்கோப் என்பது ஆங்கிலச் சொல்லே தவிர தமிழ்ச் கலைச்சொல் அல்ல.",
+     "en": "This is just the English word transliterated, not a Tamil term."
+    }
+   },
+   "rule": {
+    "ta": "அறிவியல் கருவிகளின் ஆங்கிலப் பெயர்களுக்கு இணையான தமிழ் கலைச்சொற்களைச் சமச்சீர் புத்தகப் பட்டியலிலிருந்து நேரடியாகப் படிக்க வேண்டும்.",
+    "en": "Learn the exact Tamil terms for scientific instruments from the Samacheer textbook glossary."
+   },
+   "eg": {
+    "ta": "Microscope என்பதன் கலைச்சொல் நுண்ணோக்கி ஆகும்.",
+    "en": "The Tamil term for Microscope is நுண்ணோக்கி."
+   },
+   "tip": {
+    "ta": "தொலை (Far) + நோக்கி (Viewer) = தொலைநோக்கி என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that Tele means far (தொலை) and scope means viewer (நோக்கி)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-kalaichol-c2": {
+   "hint": {
+    "ta": "உயிரியல் தொடர்பான மரபுவழிச் சொல்லைச் சமச்சீர் புத்தகத்திலிருந்து கண்டறியுங்கள்.",
+    "en": "Identify the genetic term related to biology from the Samacheer textbook."
+   },
+   "explain": {
+    "ta": "மரபு வழியில் பண்புகளைக் கடத்தும் மூலக்கூற்றை குறிக்கும் Gene என்ற ஆங்கிலச் சொல்லிற்கு மரபணு என்பதே சரியான தமிழ்க் கலைச்சொல் ஆகும்.",
+    "en": "Gene is correctly translated as மரபணு as it carries hereditary traits."
+   },
+   "why": {
+    "B": {
+     "ta": "உயிரணு என்பது செல்லைக் (Cell) குறிக்கும் தமிழ்ச் சொல்லாகும்.",
+     "en": "This refers to Cell."
+    },
+    "C": {
+     "ta": "நுண்ணுயிரி என்பது நுண்ணுயிரிகளைக் (Microorganism) குறிக்கும்.",
+     "en": "This refers to Microorganism."
+    },
+    "D": {
+     "ta": "தனிமம் என்பது வேதியியல் தனிமத்தைக் (Element) குறிக்கும்.",
+     "en": "This refers to Element."
+    }
+   },
+   "rule": {
+    "ta": "உயிரியல் அறிவியல் சொற்களுக்கு சமச்சீர் நூலில் கொடுக்கப்பட்டுள்ள சரியான தமிழ் அகராதி சொற்களைப் பயன்படுத்த வேண்டும்.",
+    "en": "Use standard biological Tamil terms as given in Samacheer books."
+   },
+   "eg": {
+    "ta": "Heredity என்பதன் கலைச்சொல் மரபுவழி ஆகும்.",
+    "en": "The Tamil term for Heredity is மரபுவழி."
+   },
+   "tip": {
+    "ta": "மரபு (Heredity) + அணு (Unit) = மரபணு (Gene) என்று பிரித்து புரிந்து கொள்ளுங்கள்.",
+    "en": "Break it down as மரபு plus அணு to remember Gene."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-kalaichol-c3": {
+   "hint": {
+    "ta": "இயற்கை அமைப்புகள் மற்றும் புவியியல் தொடர்பான ஆங்கிலச் சொல்லின் பொருளைச் சிந்தியுங்கள்.",
+    "en": "Think about the meaning of geographical and natural terms in English."
+   },
+   "explain": {
+    "ta": "மலைப்பிரதேசங்களில் உறைந்து நகரும் பனி ஆறுகளை குறிக்கும் Glacier என்ற ஆங்கிலச் சொல்லிற்கு பனியாறு என்பதே சரியான தமிழ்க் கலைச்சொல் ஆகும்.",
+    "en": "Glacier is translated as பனியாறு representing rivers of ice."
+   },
+   "why": {
+    "A": {
+     "ta": "வெப்ப ஆறு என்பது அறிவியலில் வழக்கத்தில் இல்லாத தவறான கலைச்சொல் அமைப்பாகும்.",
+     "en": "This is an incorrect made-up term."
+    },
+    "B": {
+     "ta": "செவுள் இழை என்பது மீனின் சுவாச உறுப்பைக் (Gill filament) குறிக்கும்.",
+     "en": "This refers to Gill filament."
+    },
+    "D": {
+     "ta": "கழிமுகம் என்பது நதியும் கடலும் கலக்கும் இடத்தை (Estuary) குறிக்கும்.",
+     "en": "This refers to Estuary."
+    }
+   },
+   "rule": {
+    "ta": "புவியியல் கலைச்சொற்களைப் படிக்கும் போது அதன் நேரடிப் பொருள் தரும் தமிழ்ச் சொற்களைத் தேர்ந்தெடுக்க வேண்டும்.",
+    "en": "Choose direct Tamil equivalents while learning geographical terms."
+   },
+   "eg": {
+    "ta": "Estuary என்பதன் கலைச்சொல் கழிமுகம் ஆகும்.",
+    "en": "The Tamil term for Estuary is கழிமுகம்."
+   },
+   "tip": {
+    "ta": "பனி + ஆறு = பனியாறு (River of ice) என்று எளிமையாக நினைவில் வைத்துக் கொள்ளலாம்.",
+    "en": "Remember Glacier as river of ice (பனியாறு)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-kural-facts-c1": {
+   "hint": {
+    "ta": "திருக்குறளின் அடிப்படை எண் விவரங்களைக் கேட்கும் போது, அதிகாரங்களின் மொத்த எண்ணிக்கையைக் கவனமாகப் பாருங்கள்.",
+    "en": "When asked about the basic numbers of Thirukkural, look closely at the total number of chapters."
+   },
+   "explain": {
+    "ta": "திருக்குறள் மொத்தம் 133 அதிகாரங்களைக் கொண்டுள்ளது. ஒவ்வொரு அதிகாரத்திற்கும் 10 குறள்கள் வீதம் மொத்தம் 1330 குறள்கள் இதில் இடம்பெற்றுள்ளன.",
+    "en": "Thirukkural contains a total of 133 chapters with 10 couplets each, making 1330 couplets."
+   },
+   "why": {
+    "B": {
+     "ta": "இது திருக்குறளில் உள்ள மொத்தக் குறள்களின் எண்ணிக்கையைக் குறிக்கிறது.",
+     "en": "This represents the total number of couplets in Thirukkural."
+    },
+    "C": {
+     "ta": "இது திருக்குறளின் அறத்துப்பாலில் உள்ள அதிகாரங்களின் எண்ணிக்கையாகும்.",
+     "en": "This is the number of chapters in the Virtue section of Thirukkural."
+    },
+    "D": {
+     "ta": "இது திருக்குறளின் பொருட்பாலில் உள்ள அதிகாரங்களின் எண்ணிக்கையைக் குறிக்கும்.",
+     "en": "This represents the number of chapters in the Wealth section of Thirukkural."
+    }
+   },
+   "rule": {
+    "ta": "திருக்குறள்: 133 அதிகாரங்கள், 1330 குறள்கள்.",
+    "en": "Thirukkural: 133 chapters, 1330 couplets."
+   },
+   "eg": {
+    "ta": "திருக்குறளின் மொத்தக் குறள்களின் எண்ணிக்கை 1330 ஆகும்.",
+    "en": "The total number of couplets in Thirukkural is 1330."
+   },
+   "tip": {
+    "ta": "அதிகாரங்களின் எண்ணிக்கையை 10ஆல் பெருக்கினால் மொத்தக் குறள்கள் கிடைக்கும்.",
+    "en": "Multiply the number of chapters by 10 to get total couplets."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-kural-facts-c2": {
+   "hint": {
+    "ta": "முப்பால்களில் ஒரு பிரிவான அறத்துப்பாலில் எத்தனை அதிகாரங்கள் உள்ளன என்பதைக் கண்டறியும் கேள்வியைப் பாருங்கள்.",
+    "en": "Look at the question to find the number of chapters in the Virtue section among the three parts."
+   },
+   "explain": {
+    "ta": "திருக்குறளின் முதல் பிரிவான அறத்துப்பாலில் மொத்தம் 38 அதிகாரங்கள் உள்ளன. பொருட்பாலில் 70 அதிகாரங்களும், இன்பத்துப்பாலில் 25 அதிகாரங்களும் உள்ளன.",
+    "en": "The first section of Thirukkural, Arathupal, has 38 chapters. Porutpal has 70 and Inbathupal has 25."
+   },
+   "why": {
+    "A": {
+     "ta": "இது இன்பத்துப்பாலில் உள்ள அதிகாரங்களின் எண்ணிக்கையைக் குறிக்கிறது.",
+     "en": "This represents the number of chapters in Inbathupal."
+    },
+    "C": {
+     "ta": "இது திருக்குறளின் பொருட்பாலில் உள்ள அதிகாரங்களின் எண்ணிக்கையாகும்.",
+     "en": "This is the number of chapters in Porutpal of Thirukkural."
+    },
+    "D": {
+     "ta": "இது போன்ற ஒரு எண்ணிக்கை பதினெண்கீழ்க்கணக்கு நூல்களில் மற்ற பிரிவுகளில் வரலாம், திருக்குறள் பால் பகுப்பில் இல்லை.",
+     "en": "This kind of count may appear in other contexts, not in Thirukkural sections."
+    }
+   },
+   "rule": {
+    "ta": "அறத்துப்பால் 38, பொருட்பால் 70, இன்பத்துப்பால் 25.",
+    "en": "Arathupal 38, Porutpal 70, Inbathupal 25."
+   },
+   "eg": {
+    "ta": "திருக்குறளின் பொருட்பாலில் உள்ள அதிகாரங்கள் 70 ஆகும்.",
+    "en": "The number of chapters in Porutpal of Thirukkural is 70."
+   },
+   "tip": {
+    "ta": "38, 70, 25 என்ற வரிசையை அப்படியே மனத்தில் கொள்ளவும் (அறம், பொருள், இன்பம்).",
+    "en": "Remember the sequence 38, 70, 25 for Arum, Porul, Inbam."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-kural-facts-c3": {
+   "hint": {
+    "ta": "பழைய உரையாசிரியர்களில் எவர் உரை மிகவும் சிறப்பு வாய்ந்தது எனக் கேட்கப்பட்டுள்ளது என்பதைக் கவனியுங்கள்.",
+    "en": "Notice that the question asks whose commentary among the old commentators is considered the best."
+   },
+   "explain": {
+    "ta": "திருக்குறளுக்கு எழுதிய பல பழைய உரைகளில் பரிமேலழகர் உரை மிகவும் செறிவானதாகவும் சிறப்பானதாகவும் போற்றப்படுகிறது. பதின்மர் உரையாசிரியர்களில் இவர் முதன்மையானவராகக் கருதப்படுகிறார்.",
+    "en": "Among the old commentaries on Thirukkural, Parimelazhagar's commentary is praised as the best and most profound."
+   },
+   "why": {
+    "A": {
+     "ta": "நச்சினார்க்கினியர் கலித்தொகை, சீவகசிந்தாமணி போன்ற பல நூல்களுக்கு உரை எழுதியவர்.",
+     "en": "Nachinarkiniyar wrote commentaries for classical texts like Kalithokai and Sivagasinthamani."
+    },
+    "C": {
+     "ta": "அடியார்க்குநல்லார் சிலப்பதிகாரத்திற்கு உரை எழுதிய புகழ்பெற்ற உரையாசிரியர் ஆவார்.",
+     "en": "Adiyarkunallar is the famous commentator who wrote commentary for Silappatikaram."
+    },
+    "D": {
+     "ta": "இளம்பூரணர் தொல்காப்பியத்திற்கு உரை எழுதிய பழமையான உரையாசிரியர்களில் ஒருவர்.",
+     "en": "Ilampoorunar is one of the oldest commentators who wrote a commentary for Tolkappiyam."
+    }
+   },
+   "rule": {
+    "ta": "திருக்குறள் பழைய உரையாசிரியர்களுள் சிறந்தது பரிமேலழகர் உரை.",
+    "en": "Parimelazhagar's commentary is the best among old commentaries on Thirukkural."
+   },
+   "eg": {
+    "ta": "பரிமேலழகர் திருக்குறளுக்கு உரை எழுதிய சிறந்த உரையாசிரியர் ஆவார்.",
+    "en": "Parimelazhagar is the eminent commentator who wrote a commentary on Thirukkural."
+   },
+   "tip": {
+    "ta": "பரிமேலழகர் = குறளுக்குச் சிறந்த உரை எழுதியவர்.",
+    "en": "Parimelazhagar = Best commentator for Kural."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-kural-facts-c4": {
+   "hint": {
+    "ta": "நினைவுச் சின்னங்களின் அளவைக் குறிக்கும் கேள்விகளில் திருக்குறளின் சிறப்பம்சங்களுடன் தொடர்புடைய எண்களைப் பாருங்கள்.",
+    "en": "In questions about monument measurements, look for numbers related to Thirukkural features."
+   },
+   "explain": {
+    "ta": "கன்னியாகுமரியில் உள்ள திருவள்ளுவர் சிலையின் உயரம் 133 அடியாகும். திருக்குறளின் 133 அதிகாரங்களைக் குறிக்கும் வகையிலேயே இந்த உயரம் அமைக்கப்பட்டுள்ளது.",
+    "en": "The height of the Thiruvalluvar statue in Kanyakumari is 133 feet, symbolizing the 133 chapters of Thirukkural."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான அளவீடாகும், திருக்குறள் அதிகார எண்ணிக்கையுடன் இது நேரடியாகப் பொருந்தாது.",
+     "en": "This is an incorrect measurement and does not match the chapter count."
+    },
+    "C": {
+     "ta": "இதுவும் நினைவுச் சின்னத்தின் சரியான உயரம் அல்ல.",
+     "en": "This is also not the correct height of the monument."
+    },
+    "D": {
+     "ta": "இது திருக்குறளின் மொத்தக் குறள்களின் எண்ணிக்கையைக் குறிக்குமே தவிர சிலையின் உயரம் அல்ல.",
+     "en": "This represents the total number of couplets, not the height of the statue."
+    }
+   },
+   "rule": {
+    "ta": "திருவள்ளுவர் சிலை உயரம் = 133 அடி.",
+    "en": "Thiruvalluvar statue height = 133 feet."
+   },
+   "eg": {
+    "ta": "கன்னியாகுமரி கடலில் அமைந்துள்ள திருவள்ளுவர் சிலை 133 அடி உயரம் கொண்டது.",
+    "en": "The Thiruvalluvar statue located in the sea at Kanyakumari is 133 feet tall."
+   },
+   "tip": {
+    "ta": "அதிகாரங்களின் எண்ணிக்கையும் (133) சிலையின் உயரமும் (133 அடி) ஒன்றுதான்.",
+    "en": "The number of chapters (133) and the height of the statue (133 feet) are the same."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-kural-facts-c5": {
+   "hint": {
+    "ta": "திருக்குறளை ஆங்கிலத்தில் மொழிபெயர்த்த வெளிநாட்டு அறிஞர் யார் எனக் கேட்கும் கேள்வியைக் கவனியுங்கள்.",
+    "en": "Note the question asking which foreign scholar translated Thirukkural into English."
+   },
+   "explain": {
+    "ta": "திருக்குறளின் பெருமையை உணர்ந்து அதனை ஆங்கிலத்தில் முழுமையாக மொழிபெயர்த்து வெளியிட்டவர் ஜி.யு.போப் ஆவார். இவர் 1886ஆம் ஆண்டில் திருக்குறளை ஆங்கிலத்தில் மொழிபெயர்த்தார்.",
+    "en": "G.U. Pope translated Thirukkural into English in 1886, recognizing its greatness."
+   },
+   "why": {
+    "A": {
+     "ta": "வீரமாமுனிவர் திருக்குறளை இலத்தீன் மொழியில் மொழிபெயர்த்தவர் ஆவார்.",
+     "en": "Veeramamunivar translated Thirukkural into Latin."
+    },
+    "C": {
+     "ta": "கால்டுவெல் திராவிட மொழிகளின் ஒப்பிலக்கணம் எழுதிய மொழிியலாளர் ஆவார்.",
+     "en": "Caldwell is the linguist who wrote A Comparative Grammar of the Dravidian Languages."
+    },
+    "D": {
+     "ta": "சீகன்பால்கு தமிழகத்தில் தமிழ் அச்சு இயந்திரம் மற்றும் கிறித்தவத் தொண்டுடன் தொடர்புடையவர்.",
+     "en": "Ziegenbalg is associated with Tamil printing press and Christian mission in Tamil Nadu."
+    }
+   },
+   "rule": {
+    "ta": "திருக்குறளை ஆங்கிலத்தில் மொழிபெயர்த்தவர் ஜி.யு.போப்.",
+    "en": "G.U. Pope translated Thirukkural into English."
+   },
+   "eg": {
+    "ta": "ஜி.யு.போப் திருக்குறளை ஆங்கிலத்தில் மொழிபெயர்த்து வெளியிட்டார்.",
+    "en": "G.U. Pope translated and published Thirukkural in English."
+   },
+   "tip": {
+    "ta": "ஆங்கிலம் = ஜி.யு.போப்; இலத்தீன் = வீரமாமுனிவர்.",
+    "en": "English = G.U. Pope; Latin = Veeramamunivar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-aranool-c1": {
+   "hint": {
+    "ta": "பதினெண்கீழ்க்கணக்கு அறநூல்களில் ஒன்றான திரிகடுகம் நூலின் ஆசிரியரைக் கேட்கும் வினாவைப் பாருங்கள்.",
+    "en": "Look at the question asking for the author of Thrikadugam, one of the eighteen lesser texts."
+   },
+   "explain": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களில் ஒன்றான திரிகடுகம் நூலை இயற்றியவர் நல்லாதனார் ஆவார். இந்நூல் மூன்று மூலிகைகளைக் கொண்டு உடல் நோயைப் போக்குவது போல, மூன்று அறக் கருத்துக்களைக் கூறி உள்ள நோயைப் போக்குகிறது.",
+    "en": "Thrikadugam, one of the Pathinenkilkanakku texts, was authored by Nallathanar."
+   },
+   "why": {
+    "B": {
+     "ta": "காரியாசான் ஏலாதி என்ற பதினெண்கீழ்க்கணக்கு நூலின் ஆசிரியர் ஆவார்.",
+     "en": "Kariyasan is the author of Eladi, another Pathinenkilkanakku text."
+    },
+    "C": {
+     "ta": "கணிமேதாவியார் திணைமொழி ஐம்பது மற்றும் திணைமாலை நூற்றைம்பது நூல்களின் ஆசிரியர்.",
+     "en": "Kanimethaviyar is the author of Thinaimozhi Aimpathu and Thinaimalai Nooraithampathu."
+    },
+    "D": {
+     "ta": "விளம்பிநாகனார் நாலடியார் அல்லது பழமொழி நானூறு போன்ற நூல்களுடன் தொடர்புடையவர் அல்ல, இவர் நான்மணிிக்கடிகை எழுதியவர்.",
+     "en": "Vilambinaganar is the author of Nanmanikadigai."
+    }
+   },
+   "rule": {
+    "ta": "திரிகடுகம் நூலின் ஆசிரியர் நல்லாதனார்.",
+    "en": "The author of Thrikadugam is Nallathanar."
+   },
+   "eg": {
+    "ta": "நல்லாதனாரால் பாடப்பட்ட பதினெண்கீழ்க்கணக்கு நூல் திரிகடுகம் ஆகும்.",
+    "en": "Thrikadugam is the Pathinenkilkanakku text sung by Nallathanar."
+   },
+   "tip": {
+    "ta": "திரிகடுகம் = நல்லாதனார் (மூன்று மருந்துப் பொருட்கள் போல் மூன்று நல்ல கருத்துக்கள்).",
+    "en": "Thrikadugam = Nallathanar (three medicinal items like three good thoughts)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-aranool-c2": {
+   "hint": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களில் ஒன்றான இன்னா நாற்பது நூலின் ஆசிரியரைக் கேட்கும்போது, நூலின் பெயரையும் அதன் ஆசிரியரையும் சரியாகப் பொருத்திப் பார்க்க வேண்டும்.",
+    "en": "When asked about the author of Inna Narpathy, match the text with its correct author from Samacheer sources."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இன்னா நாற்பது நூலை இயற்றியவர் கபிலர் ஆவார். இந்நூல் செய்யத்தக்கவை அல்லாதவற்றைச் சொல்லி விலக்க வேண்டியவற்றை உணர்த்தும் பதினெண்கீழ்க்கணக்கு நூலாகும்.",
+    "en": "According to the official key, Inna Narpathy was authored by Kapilar."
+   },
+   "why": {
+    "A": {
+     "ta": "பூதஞ்சேந்தனார் இனியவை நாற்பது நூலை இயற்றியவர் ஆவார்.",
+     "en": "Poothandhendanar is the author of Iniyavai Narpathy."
+    },
+    "C": {
+     "ta": "முன்றுறை அரையனார் பழமொழி நானூறு நூலை இயற்றியவர் ஆவார்.",
+     "en": "Munthurai Araiyanar is the author of Pazhmozhi Naanuru."
+    },
+    "D": {
+     "ta": "திருவள்ளுவர் உலகப் பொதுமறையாம் திருக்குறளை இயற்றியவர் ஆவார்.",
+     "en": "Thiruvalluvar is the author of Thirukkural."
+    }
+   },
+   "rule": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களில் இன்னா நாற்பது நூலின் ஆசிரியர் கபிலர்.",
+    "en": "Kapilar is the author of Inna Narpathy in Pathinenkeelkanakku."
+   },
+   "eg": {
+    "ta": "இனியவை நாற்பது நூலின் ஆசிரியர் பூதஞ்சேந்தனார்.",
+    "en": "Poothandhendanar authored Iniyavai Narpathy."
+   },
+   "tip": {
+    "ta": "இன்னா நாற்பது கபிலர் - இதை நினைவில் கொள்ள 'இன்னா கபிலன்' எனச் சுருக்கமாக மனதில் வையுங்கள்.",
+    "en": "Remember Inna Narpathy is by Kapilar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-aranool-c3": {
+   "hint": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களில் ஒன்றான ஏலாதி என்ற பெயரின் மூலப்பொருளைக் கேட்கும்போது, அதன் மருத்துவப் பெயர்க் காரணத்தைக் கவனிக்க வேண்டும்.",
+    "en": "Look for the medicinal ingredients that form the basis of the title Elathy."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, ஏலாதி என்ற பெயர் ஏலம் முதலிய ஆறு பொருள்களைக் குறிக்கிறது. ஏலம், திப்பிலி, சுக்கு உள்ளிட்ட ஆறு மருந்துப் பொருள்கள் இதில் இடம்பெற்றுள்ளன.",
+    "en": "According to the official key, Elathy refers to six ingredients starting with cardamom."
+   },
+   "why": {
+    "A": {
+     "ta": "மூன்று மருந்து என்று குறிப்பிடப்படுவது திரிகடுகம் நூலைக் குறிக்கும்.",
+     "en": "Three medicines refer to Thrikadugam."
+    },
+    "B": {
+     "ta": "ஐந்து வேர் என்பது ஏலாதியின் பொருளைத் குறிப்பதல்ல.",
+     "en": "Five roots is not the meaning of Elathy."
+    },
+    "D": {
+     "ta": "நான்கு மணி என்பது ஏலாதியின் பெயர்க் காரணத்தோடு தொடர்புடையது அல்ல.",
+     "en": "Four gems is unrelated to the meaning of Elathy."
+    }
+   },
+   "rule": {
+    "ta": "ஏலாதி நூலின் பெயர் ஏலம் உள்ளிட்ட ஆறு மருந்துப் பொருள்களை அடிப்படையாகக் கொண்டது.",
+    "en": "Elathy gets its name from six medicinal substances including cardamom."
+   },
+   "eg": {
+    "ta": "திரிகடுகம் என்பது சுக்கு, மிதி, திப்பிலி என்னும் மூன்று மருந்துகளைக் குறிக்கும்.",
+    "en": "Thrikadugam refers to three medicinal items."
+   },
+   "tip": {
+    "ta": "ஏலம் + ஆதி = ஏலாதி (ஆறு பொருள்கள்).",
+    "en": "Elathy means six items starting with cardamom."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-aranool-c4": {
+   "hint": {
+    "ta": "ஔவையார் பாடிய நீதி நூல்களையும், சமண முனிவர்கள் பாடிய நூல்களையும் ஒப்பீடு செய்து பார்க்க வேண்டும்.",
+    "en": "Identify which book among the choices was not written by Avvaiyar."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, நாலடியார் நூலை ஔவையார் இயற்றவில்லை. இந்நூல் சமண முனிவர்களால் பாடப்பட்ட பதினெண்கீழ்க்கணக்கு நூலாகும்.",
+    "en": "According to the official key, Naladiyar was not authored by Avvaiyar, as it is written by Jain monks."
+   },
+   "why": {
+    "A": {
+     "ta": "ஆத்திசூடி நூலை இயற்றியவர் ஔவையார் ஆவார்.",
+     "en": "Aathichudi was authored by Avvaiyar."
+    },
+    "B": {
+     "ta": "மூதுரை நூலை இயற்றியவர் ஔவையார் ஆவார்.",
+     "en": "Muthurai was authored by Avvaiyar."
+    },
+    "C": {
+     "ta": "நல்வழி நூலை இயற்றியவர் ஔவையார் ஆவார்.",
+     "en": "Nalvazhi was authored by Avvaiyar."
+    }
+   },
+   "rule": {
+    "ta": "நாலடியார் சமண முனிவர்களால் பாடப்பட்ட அறநூல் ஆகும்.",
+    "en": "Naladiyar is a moral text composed by Jain monks."
+   },
+   "eg": {
+    "ta": "பழமொழி நானூறு நூலை இயற்றியவர் முன்றுறை அரையனார்.",
+    "en": "Pazhmozhi Naanuru was authored by Munthurai Araiyanar."
+   },
+   "tip": {
+    "ta": "நாலடியார் = சமண முனிவர்கள் என்பதை எப்போதும் நினைவில் கொள்ளுங்கள்.",
+    "en": "Always remember Naladiyar is by Jain monks."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-scholars-c1": {
+   "hint": {
+    "ta": "தமிழ் அறிஞர்களின் சிறப்புப் பெயர்களைக் கேட்கும்போது, ஓலைச்சுவடிகளைத் தேடிப் பதிப்பித்த பெரும்புலவரை நினைவுகூர வேண்டும்.",
+    "en": "Think of the scholar famous for discovering and publishing ancient palm-leaf manuscripts."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, தமிழ்த் தாத்தா என்று போற்றப்படுபவர் உ.வே.சாமிநாத ஐயர் ஆவார். இவர் பல தமிழ் ஓலைச்சுவடிகளைத் தேடிப் பதிப்பித்து அச்சிட்டார்.",
+    "en": "According to the official key, U.V. Swaminatha Iyer is hailed as Tamil Thatha."
+   },
+   "why": {
+    "A": {
+     "ta": "தேவநேயப் பாவாணர் மொழிஞாயிறு என்று அழைக்கப்படுகிறார்.",
+     "en": "Devaneya Pavanar is called Mozhignayiru."
+    },
+    "C": {
+     "ta": "மறைமலை அடிகள் தனித்தமிழ் இயக்கத்தின் தந்தை என அழைக்கப்படுகிறார்.",
+     "en": "Maraimalai Adigal is the father of the Pure Tamil Movement."
+    },
+    "D": {
+     "ta": "திரு.வி.கல்யாணசுந்தரனார் தமிழ் தென்றல் என அழைக்கப்படுகிறார்.",
+     "en": "Thiru.Vi.Ka is called Tamil Thendral."
+    }
+   },
+   "rule": {
+    "ta": "உ.வே.சாமிநாத ஐயர் 'தமிழ்த் தாத்தா' என்று அழைக்கப்படுகிறார்.",
+    "en": "U.V. Swaminatha Iyer is known as Tamil Thatha."
+   },
+   "eg": {
+    "ta": "தேவநேயப் பாவாணர் 'மொழிஞாயிறு' எனப் போற்றப்படுகிறார்.",
+    "en": "Devaneya Pavanar is praised as Mozhignayiru."
+   },
+   "tip": {
+    "ta": "உ.வே.சா அவர்களின் உழைப்பால்தான் பல சங்க இலக்கியங்கள் நமக்குக் கிடைத்தன.",
+    "en": "U.V.S.A preserved ancient Sangam literature."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-scholars-c2": {
+   "hint": {
+    "ta": "கிறித்தவ காப்பியமான தேம்பாவணி நூலின் ஆசிரியரைக் கண்டறியும் வினா இது.",
+    "en": "Identify the European scholar who authored the Christian epic Thembavani."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, தேம்பாவணி நூலை இயற்றியவர் வீரமாமுனிவர் ஆவார். இது கிறிஸ்தவ சமய காப்பியமாகும்.",
+    "en": "According to the official key, Thembavani was authored by Veeramamunivar."
+   },
+   "why": {
+    "A": {
+     "ta": "உமறுப்புலவர் சீறாப்புராணம் நூலை இயற்றியவர் ஆவார்.",
+     "en": "Umaru Pulavar is the author of Seerapuranam."
+    },
+    "C": {
+     "ta": "ஜி.யு.போப் திருக்குறள் மற்றும் திருவாசகத்தை ஆங்கிலத்தில் மொழிபெயர்த்தவர்.",
+     "en": "G.U. Pope translated Thirukkural and Thiruvasagam into English."
+    },
+    "D": {
+     "ta": "எச்.ஏ.கிருட்டிணப் பிள்ளை இரட்சணிய யாத்திரிகம் நூலை இயற்றியவர் ஆவார்.",
+     "en": "H.A. Krishnapillai authored Ratchaniya Yathirigam."
+    }
+   },
+   "rule": {
+    "ta": "வீரமாமுனிவர் தேம்பாவணி நூலின் ஆசிரியர் ஆவார்.",
+    "en": "Veeramamunivar is the author of Thembavani."
+   },
+   "eg": {
+    "ta": "சீறாப்புராணம் நூலை இயற்றியவர் உமறுப்புலவர்.",
+    "en": "Umaru Pulavar authored Seerapuranam."
+   },
+   "tip": {
+    "ta": "தேம்பாவணி = வீரமாமுனிவர் (கான்ஸ்டன்டைன் ஜோசப் பெஸ்கி).",
+    "en": "Thembavani is by Veeramamunivar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-scholars-c3": {
+   "hint": {
+    "ta": "தமிழ் மொழி ஞாயிறு என அழைக்கப்படும் தமிழறிஞரைத் தேர்வு செய்ய வேண்டும்.",
+    "en": "Identify the scholar known by the title Mozhignayiru."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 'மொழிஞாயிறு' என்று அழைக்கப்படுபவர் தேவநேயப் பாவாணர் ஆவார். இவர் தமிழ் மொழி ஆராய்ச்சியில் சிறந்து விளங்கியவர்.",
+    "en": "According to the official key, Devaneya Pavanar is known as Mozhignayiru."
+   },
+   "why": {
+    "B": {
+     "ta": "பெருஞ்சித்திரனார் பாவலரேறு என்று அழைக்கப்படுகிறார்.",
+     "en": "Perunchithiranar is called Pavalareru."
+    },
+    "C": {
+     "ta": "சி.இலக்குவனார் தமிழறிஞர் மற்றும் இலக்கணப் பேராசிரியராவார்.",
+     "en": "C. Ilakkuvanar is a renowned Tamil scholar."
+    },
+    "D": {
+     "ta": "தெ.பொ.மீனாட்சிசுந்தரனார் சிறந்த lingüist (மொழியியலாளர்) ஆவார்.",
+     "en": "T.P. Meenakshisundaram is a notable linguist."
+    }
+   },
+   "rule": {
+    "ta": "தேவநேயப் பாவாணர் 'மொழிஞாயிறு' என அழைக்கப்படுகிறார்.",
+    "en": "Devaneya Pavanar is called Mozhignayiru."
+   },
+   "eg": {
+    "ta": "பெருஞ்சித்திரனார் 'பாவலரேறு' என்று அழைக்கப்படுகிறார்.",
+    "en": "Perunchithiranar is called Pavalareru."
+   },
+   "tip": {
+    "ta": "ஞாயிறு = பாவாணர், ஏறு = பெருஞ்சித்திரனார்.",
+    "en": "Mozhignayiru is Pavanar; Pavalareru is Perunchithiranar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-scholars-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ் பக்தி இலக்கிய நூல்களை ஆங்கிலத்தில் மொழிபெயர்த்த வெளிநாட்டு அறிஞர்களைப் பாருங்கள்.",
+    "en": "Look for the foreign scholar who translated Tamil devotional texts into English."
+   },
+   "explain": {
+    "ta": "திருவாசகத்தை ஆங்கிலத்தில் மொழிபெயர்த்து வெளியிட்டவர் ஜி.யு.போப் ஆவார். இவர் திருக்குறள் மற்றும் நாலடியார் போன்ற நூல்களையும் ஆங்கிலத்தில் மொழிபெயர்த்துள்ளார்.",
+    "en": "G.U. Pope translated Thirivasagam into English. He also translated Thirukkural and Naladiyar."
+   },
+   "why": {
+    "A": {
+     "ta": "கால்டுவெல் திராவிட மொழிகளின் ஒப்பிலக்கணம் எழுதியவர் ஆவார்.",
+     "en": "Caldwell wrote the comparative grammar of Dravidian languages."
+    },
+    "C": {
+     "ta": "வீரமாமுனிவர் சதுரகராதி மற்றும் தேம்பாவணி எழுதியவர் ஆவார்.",
+     "en": "Veeramamunivar wrote Sathuragarathi and Thembavani."
+    },
+    "D": {
+     "ta": "சீகன்பால்கு தமிழில் முதல் அச்சுக்கூடத்தை நிறுவியவர் ஆவார்.",
+     "en": "Ziegenbalg established the first Tamil printing press."
+    }
+   },
+   "rule": {
+    "ta": "ஜி.யு.போப் திருக்குறள், திருவாசகம், நாலடியார் ஆகிய நூல்களை ஆங்கிலத்தில் மொழிபெயர்த்துள்ளார்.",
+    "en": "G.U. Pope translated Thirukkural, Thirivasagam, and Naladiyar into English."
+   },
+   "eg": {
+    "ta": "ஜி.யு.போப் திருக்குறளை ஆங்கிலத்தில் மொழிபெயர்த்து வெளியிட்ட ஆண்டு 1886 ஆகும்.",
+    "en": "G.U. Pope published the English translation of Thirukkural in 1886."
+   },
+   "tip": {
+    "ta": "போப் மற்றும் திருவாசகம் இணைந்தாலே ஜி.யு.போப் என்பதை நினைவில் கொள்க.",
+    "en": "Remember G.U. Pope whenever Thirivasagam translation is asked."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-modern-poets-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ் கவிஞர்களின் சிறப்புப் பெயர்களைச் சமச்சீர் கல்வி நூல்களிலிருந்து ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Look for the special titles given to modern Tamil poets from Samacheer textbooks."
+   },
+   "explain": {
+    "ta": "பாரதியாரின் கவிதைகள் மீது கொண்ட பற்றினால் சுப்புரத்தினம் தன் பெயரை பாரதிதாசன் என மாற்றிக் கொண்டார். இவரது புரட்சிகரமான கருத்துகளால் இவர் புரட்சிக்கவி என்றும் பாவேந்தர் என்றும் அழைக்கப்படுகிறார்.",
+    "en": "Subburathinam changed his name to Bharathidasan due to his admiration for Bharathiyar and is known as Puratchikavi."
+   },
+   "why": {
+    "A": {
+     "ta": "பாரதியார் தேசிய கவி மற்றும் மகாகவி என்று அழைக்கப்படுகிறார்.",
+     "en": "Bharathiyar is called National Poet and Mahakavi."
+    },
+    "C": {
+     "ta": "கண்ணதாசன் கவியரசு என்று அழைக்கப்படுகிறார்.",
+     "en": "Kannadasan is called Kaviyarasu."
+    },
+    "D": {
+     "ta": "முடியரசன் பூங்கொடி மற்றும் காவியப்பாவை நூல்களை எழுதியவர்.",
+     "en": "Mudiyarasan wrote Poongodi and Kaviyappavai."
+    }
+   },
+   "rule": {
+    "ta": "பாரதிதாசன் புரட்சிக்கவி மற்றும் பாவேந்தர் என்று அழைக்கப்படுகிறார்.",
+    "en": "Bharathidasan is called Puratchikavi and Pavendar."
+   },
+   "eg": {
+    "ta": "பாரதிதாசனின் இயற்பெயர் சுப்புரத்தினம் ஆகும்.",
+    "en": "The original name of Bharathidasan is Subburathinam."
+   },
+   "tip": {
+    "ta": "புரட்சி என்ற சொல் வந்தாலே பாரதிதாசன் என்பதை நினைவில் கொள்க.",
+    "en": "Associate the word revolution with Bharathidasan."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-modern-poets-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் எளிய பொதுமக்களின் வாழ்க்கையைப் பாடிய கவிஞரைத் தேடுங்கள்.",
+    "en": "Look for the poet who sang about the lives of common people."
+   },
+   "explain": {
+    "ta": "பட்டுக்கோட்டை கல்யாணசுந்தரம் எளிய மக்களின் வாழ்க்கையையும் உழைப்பாளர்களின் உயர்ியையும் தன் பாடல்களில் பாடியதால் மக்கள் கவிஞர் என்று அழைக்கப்படுகிறார்.",
+    "en": "Pudukottai Kalyanasundaram is called Makkal Kavingar for singing about the lives of common people."
+   },
+   "why": {
+    "B": {
+     "ta": "நாமக்கல் கவிஞர் காந்தியக் கவிஞர் என்று அழைக்கப்படுகிறார்.",
+     "en": "Namakkal Kavingar is called Gandhian Poet."
+    },
+    "C": {
+     "ta": "தாரா பாரதி புதிய விடியல்கள் மற்றும் இது எங்கள் கிழக்கு நூல்களை எழுதியவர்.",
+     "en": "Tara Bharathi wrote Puthiya Vidiyangal and Idhu Engal Kizhakku."
+    },
+    "D": {
+     "ta": "தமிழ் ஒளி மாவீரன்锏 மற்றும் நெஞ்சில் உரமுமின்றி நூல்களை எழுதியவர்.",
+     "en": "Tamil Oli wrote notable poems on social reform."
+    }
+   },
+   "rule": {
+    "ta": "பட்டுக்கோட்டை கல்யாணசுந்தரம் மக்கள் கவிஞர் என்று போற்றப்படுகிறார்.",
+    "en": "Pudukottai Kalyanasundaram is praised as Makkal Kavingar."
+   },
+   "eg": {
+    "ta": "உழைக்கும் மக்களின் நலனைப் பாடியவர் பட்டுக்கோட்டை கல்யாணசுந்தரம்.",
+    "en": "Pudukottai Kalyanasundaram sang for the welfare of working people."
+   },
+   "tip": {
+    "ta": "மக்கள் பாட்டை எழுதியவர் மக்கள் கவிஞர் பட்டுக்கோட்டை ஆவார்.",
+    "en": "Remember Makkal Kavingar for songs of the working class."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-modern-poets-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ் அறிஞர்களின் பட்டப் பெயர்களைச் சரிபார்த்துக் கொள்ளுங்கள்.",
+    "en": "Check the titles of Tamil scholars carefully."
+   },
+   "explain": {
+    "ta": "டி.கே.சிதம்பரநாத முதலியார் தமிழ் இலக்கியத்தின் மீது கொண்ட ஈடுபாட்டாலும் அதன் நயங்களை ரசித்து உரைத்ததாலும் ரசிகமணி என்று அழைக்கப்படுகிறார்.",
+    "en": "T.K. Chidambaranatha Mudaliyar is called Rasikamani for his deep appreciation of Tamil literature."
+   },
+   "why": {
+    "A": {
+     "ta": "கி.வா.ஜகந்நாதன் கலைமகள் ஆசிரியராகவும் பல நூல்களை எழுதியவராகவும் விளங்கினார்.",
+     "en": "Ki.Va. Jagannathan was the editor of Kalaimagal and a noted scholar."
+    },
+    "C": {
+     "ta": "குன்றக்குடி அடிகளார் ஆன்மீக மற்றும் சமூகத் தொண்டு ஆற்றியவர்.",
+     "en": "Kundrakudi Adigalar rendered spiritual and social service."
+    },
+    "D": {
+     "ta": "திரு.வி.க தமிழ் தென்றல் என்று அழைக்கப்படுகிறார்.",
+     "en": "Thiru.Vi.Ka is called Tamil Thendral."
+    }
+   },
+   "rule": {
+    "ta": "டி.கே.சிதம்பரநாத முதலியார் ரசிகமணி என்று அழைக்கப்படுகிறார்.",
+    "en": "T.K. Chidambaranatha Mudaliyar is called Rasikamani."
+   },
+   "eg": {
+    "ta": "டி.கே.சி அவர்களின் கடித இலக்கியம் மற்றும் இலக்கிய விமர்சனம் புகழ் பெற்றது.",
+    "en": "T.K.C's works on literary criticism are very famous."
+   },
+   "tip": {
+    "ta": "ரசிகமணி என்றால் டி.கே.சி என்பதை நினைவில் கொள்க.",
+    "en": "Remember T.K.C for Rasikamani."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w4-modern-poets-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பெருஞ்சித்திரனார் அல்லது முடியரசன் எழுதிய காப்பிய நூல்களைப் பாருங்கள்.",
+    "en": "Look for epic poems written by Mudiyarasan or Perunchithiranar."
+   },
+   "explain": {
+    "ta": "பூங்கொடி மற்றும் காவியப்பாவை போன்ற புகழ்பெற்ற காப்பிய நூல்களை இயற்றியவர் முடியரசன் ஆவார். இவர் திராவிட இயக்கக் கவிஞர்களில் முக்கியமானவர்.",
+    "en": "Mudiyarasan wrote renowned epic poems like Poongodi and Kaviyappavai."
+   },
+   "why": {
+    "B": {
+     "ta": "கண்ணதாசன் இயற்றிய காப்பியம் சேரமான் காதலி ஆகும்.",
+     "en": "Kannadasan wrote the epic Cheraman Kadali."
+    },
+    "C": {
+     "ta": "பாரதிதாசன் பாண்டிய பரிசு மற்றும் குடும்ப விளக்கு எழுதியவர்.",
+     "en": "Bharathidasan wrote Pandian Parisu and Kudumba Vilakku."
+    },
+    "D": {
+     "ta": "நாமக்கல் கவிஞர் மலைக்கள்ளன் நூலை எழுதியவர்.",
+     "en": "Namakkal Kavingar wrote Malaikallan."
+    }
+   },
+   "rule": {
+    "ta": "முடியரசன் பூங்கொடி, காவியப்பாவை நூல்களின் ஆசிரியர் ஆவார்.",
+    "en": "Mudiyarasan is the author of Poongodi and Kaviyappavai."
+   },
+   "eg": {
+    "ta": "முடியரசன் இயற்றிய மற்றொரு நூல் வீரகாவியம் ஆகும்.",
+    "en": "Another work by Mudiyarasan is Veera Kaviyam."
+   },
+   "tip": {
+    "ta": "பூங்கொடி நூலின் ஆசிரியர் முடியரசன் என்பதை நினைவில் வையுங்கள்.",
+    "en": "Remember Mudiyarasan is the author of Poongodi."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-simplification-c1": {
+   "hint": {
+    "ta": "வகுத்தல் மற்றும் பெருக்கல் குறிகள் மட்டுமே வந்தால், எந்தக் குறியை முதலில் செய்வது என்று பார்க்கவும்.",
+    "en": "When only division and multiplication appear, see which operation to perform first."
+   },
+   "explain": {
+    "ta": "கணிதச் செயல்பாட்டு விதிகளின்படி, ஒரே தரம் கொண்ட வகுத்தல் மற்றும் பெருக்கல் வரும்போது இடமிருந்து வலமாகச் செய்ய வேண்டும். முதலில் 48-ஐ 6 ஆல் வகுத்தால் 8 கிடைக்கும். பிறகு 8-ஐ 2 ஆல் பெருக்கினால் 16 கிடைக்கும்.",
+    "en": "According to the rules of operations, division and multiplication of the same precedence are evaluated from left to right. First 48 divided by 6 gives 8, and then multiplying 8 by 2 gives 16."
+   },
+   "why": {},
+   "rule": {
+    "ta": "ஒரே வரிசையிலான கணிதக் குறியீடுகள் வரும்போது இடமிருந்து வலமாகச் செய்ய வேண்டும்.",
+    "en": "Evaluate same-priority operations strictly from left to right."
+   },
+   "eg": {
+    "ta": "36 ÷ 9 × 4 = 16 (இடமிருந்து வலம்: 4 × 4 = 16)",
+    "en": "36 ÷ 9 × 4 = 16 (Left to right: 4 × 4 = 16)"
+   },
+   "tip": {
+    "ta": "வகுத்தல், பெருக்கல் மட்டும் இருந்தால் இடமிருந்து வலமாகச் செல்லுங்கள்.",
+    "en": "Go strictly left to right for pure division and multiplication chains."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-simplification-c2": {
+   "hint": {
+    "ta": "BODMAS விதியைப் பயன்படுத்தி அடைப்புக்குறியில் உள்ளதை முதலில் தீர்க்கவும்.",
+    "en": "Use the BODMAS rule to solve inside the parenthesis first."
+   },
+   "explain": {
+    "ta": "BODMAS விதிப்படி அடைப்புக்குறிக்குள் உள்ள (8 − 2) முதலில் சுருக்கப்பட்டு 6 ஆகிறது. பின்பு பெருக்கல் மற்றும் வகுத்தல் இடமிருந்து வலமாகச் செய்யப்படும்போது 3 பெருக்கல் 6 வகுத்தல் 2 என்பது 9 என மாறும். இறுதியில் 5 உடன் 9-ஐக் கூட்ட 14 கிடைக்கும்.",
+    "en": "According to BODMAS, (8 − 2) becomes 6 first. Then 3 times 6 divided by 2 evaluates to 9. Finally, adding 5 gives 14."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அடைப்புக்குறி, வகுத்தல், பெருக்கல், கூட்டல், கழித்தல் என்ற BODMAS முறையைப் பின்பற்ற வேண்டும்.",
+    "en": "Always follow the BODMAS rule order: Brackets, Orders, Division, Multiplication, Addition, Subtraction."
+   },
+   "eg": {
+    "ta": "4 + 2 × (6 − 2) ÷ 2 = 8",
+    "en": "4 + 2 × (6 − 2) ÷ 2 = 8"
+   },
+   "tip": {
+    "ta": "BODMAS வரிசையை எப்போதும் நினைவில் கொள்ளுங்கள்: B -> O -> D -> M -> A -> S.",
+    "en": "Always remember the BODMAS sequence."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-simplification-c3": {
+   "hint": {
+    "ta": "BODMAS விதிப்படி வகுத்தல் மற்றும் பெருக்கலை முதலில் முடிக்கவும்.",
+    "en": "Apply BODMAS to execute division and multiplication before subtraction."
+   },
+   "explain": {
+    "ta": "முதலில் 20-ஐ 4 ஆல் வகுத்தால் 5 கிடைக்கும். பின்பு அதனுடன் 2-ஐப் பெருக்கினால் 10 கிடைக்கும். இறுதியில் 100-ல் இருந்து 10-ஐக் கழித்தால் 90 கிடைக்கும்.",
+    "en": "First 20 divided by 4 gives 5. Then multiplying by 2 gives 10. Finally, subtracting 10 from 100 gives 90."
+   },
+   "why": {},
+   "rule": {
+    "ta": "கழித்தலுக்கு முன்பு வகுத்தலும் பெருக்கலும் செய்யப்பட வேண்டும்.",
+    "en": "Division and multiplication must be done before subtraction."
+   },
+   "eg": {
+    "ta": "50 − 10 ÷ 2 × 5 = 25",
+    "en": "50 − 10 ÷ 2 × 5 = 25"
+   },
+   "tip": {
+    "ta": "கழித்தல் குறியை இறுதி வரை தொடாதீர்கள்; பெருக்கல்/வகுத்தலை முடித்துவிட்டு கழிக்கவும்.",
+    "en": "Leave subtraction to the very end."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-percentage-c1": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட எண்களின் சதவீத மதிப்புகளைத் தனித்தனியாகக் கண்டுபிடித்துக் கூட்டவும்.",
+    "en": "Calculate the percentage values of the given numbers separately and add them."
+   },
+   "explain": {
+    "ta": "480-இன் 25 சதவீதம் என்பது அதன் நான்கில் ஒரு பங்கு அதாவது 120 ஆகும். 640-இன் 12.5 சதவீதம் என்பது அதன் எட்டில் ஒரு பங்கு அதாவது 80 ஆகும். இரண்டையும் கூட்டினால் 120 + 80 = 200 கிடைக்கும்.",
+    "en": "25% of 480 is 120, and 12.5% of 640 is 80. Adding both gives 120 + 80 = 200."
+   },
+   "why": {},
+   "rule": {
+    "ta": "25% என்பது 1/4 பங்கும், 12.5% என்பது 1/8 பங்கும் ஆகும்.",
+    "en": "25% is 1/4 and 12.5% is 1/8 of a number."
+   },
+   "eg": {
+    "ta": "50% of 400 + 25% of 200 = 200 + 50 = 250",
+    "en": "50% of 400 + 25% of 200 = 200 + 50 = 250"
+   },
+   "tip": {
+    "ta": "பின்ன மதிப்புகளைப் (Fractions) பயன்படுத்திச் சுருக்கினால் கணக்கு எளிதாகும்.",
+    "en": "Use fraction equivalents to simplify percentage calculations quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-percentage-c2": {
+   "hint": {
+    "ta": "தொடர் சதவீத மாற்றத்திற்கான சூத்திரத்தைப் பயன்படுத்தவும்.",
+    "en": "Use the net percentage change formula for successive changes."
+   },
+   "explain": {
+    "ta": "ஒரே மதிப்பு முறையே x% அதிகரிக்கப்பட்டு x% குறைக்கப்பட்டால் எப்போதும் (x平方/100)% குறையும். இங்கு 10% அதிகரிப்பு மற்றும் 10% குறைப்பு என்பதால் (10 × 10) / 100 = 1% குறைவு ஏற்படும்.",
+    "en": "When a value is increased and decreased by the same percentage x, there is always a net decrease of (x²/100)%. Here 10² / 100 = 1% decrease."
+   },
+   "why": {},
+   "rule": {
+    "ta": "x% அதிகரிப்பு மற்றும் x% குறைப்பு என்றால் எப்போதும் நட்டம் அல்லது குறைவு மட்டுமே ஏற்படும்.",
+    "en": "Successive increase and decrease of the same percentage always results in a net decrease."
+   },
+   "eg": {
+    "ta": "20% அதிகரிப்பு மற்றும் 20% குறைப்பு என்றால் (20 × 20)/100 = 4% குறைவு.",
+    "en": "20% increase and 20% decrease results in a 4% decrease."
+   },
+   "tip": {
+    "ta": "இதுபோன்ற கணக்குகளுக்கு a + b + (ab/100) சூத்திரத்தைப் பயன்படுத்தலாம்.",
+    "en": "Use the successvie percentage formula a + b + (ab/100) directly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-percentage-c3": {
+   "hint": {
+    "ta": "விலை உயர்வுக்குப் பிறகு நுகர்வு எவ்வளவு குறைய வேண்டும் என்ற சூத்திரத்தைப் பயன்படுத்தவும்.",
+    "en": "Use the consumption reduction formula based on price increase."
+   },
+   "explain": {
+    "ta": "விலை 25% உயர்ந்தால், செலவைக் மாற்றாமல் இருக்க நுகர்வை குறைக்க வேண்டிய சதவீதம் = (R / (100 + R)) × 100 ஆகும். அதாவது (25 / 125) × 100 = 20% ஆகும்.",
+    "en": "When price increases by R%, consumption reduction is (R / (100 + R)) × 100. Here (25 / 125) × 100 = 20%."
+   },
+   "why": {},
+   "rule": {
+    "ta": "விலை R% அதிகரித்தால் நுகர்வு R / (100 + R) × 100 சதவீதம் குறைக்கப்பட வேண்டும்.",
+    "en": "If price increases by R%, consumption must be reduced by R / (100 + R) × 100 percent."
+   },
+   "eg": {
+    "ta": "விலை 20% அதிகரித்தால் நுகர்வு குறைக்கப்பட வேண்டியது: (20/120) × 100 = 16.67%.",
+    "en": "If price rises by 20%, consumption must fall by 16.67%."
+   },
+   "tip": {
+    "ta": "அதிகரிப்பு என்றால் கீழே 100 உடன் கூட்ட வேண்டும்; குறைவு என்றால் கழிக்க வேண்டும்.",
+    "en": "For price increase, add to 100 in the denominator; subtract for decrease."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-percentage-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், எந்த எண்ணைக் கொண்டு சதவிகிதம் காண வேண்டுமோ அதை பகுதியிலும், கொடுக்கப்பட்ட மதிப்பை தொகுதியிலும் வைத்து 100-ஆல் பெருக்க வேண்டும்.",
+    "en": "When asked this type, put the base number in the denominator, the given value in the numerator, and multiply by 100."
+   },
+   "explain": {
+    "ta": "80-ல் 20 என்பது எதைக் குறிக்கிறது என்பதை அறிய 20-ஐ 80-ஆல் வகுத்து 100-ஆல் பெருக்க வேண்டும். (20 ÷ 80) × 100 = 25% ஆகும்.",
+    "en": "To find what percent 20 is of 80, divide 20 by 80 and multiply by 100, which gives 25%."
+   },
+   "why": {},
+   "rule": {
+    "ta": "(மதிப்பு ÷ மொத்த மதிப்பு) × 100 என்ற சூத்திரத்தைப் பயன்படுத்தி சதவீதத்தைக் கண்டறியலாம்.",
+    "en": "Find percentage using the formula (Value ÷ Total Value) × 100."
+   },
+   "eg": {
+    "ta": "50-ல் 10 என்பது 20% ஆகும்.",
+    "en": "10 out of 50 is 20%."
+   },
+   "tip": {
+    "ta": "பகுதி மற்றும் தொகுதியைச் சுருக்கி 100-ஐப் பெருக்கினால் விடை எளிதில் கிடைக்கும்.",
+    "en": "Simplify numerator and denominator before multiplying by 100 for quick calculation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-hcf-lcm-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், கொடுக்கப்பட்ட அனைத்து எண்களையும் வகுக்கும் மிகப் பெரிய பொதுக்காரணியைக் கண்டறிய வேண்டும்.",
+    "en": "When asked this type, find the greatest common divisor that divides all given numbers."
+   },
+   "explain": {
+    "ta": "84, 126 மற்றும் 210 ஆகிய எண்களின் மி.பொ.வ (HCF) காண அவற்றின் பொதுவான பகா காரணிகளைக் கண்டறிய வேண்டும். 2, 3 மற்றும் 7 ஆகிய காரணிகள் மூன்றும் பொதுவானவை என்பதால் அவற்றின் பெருக்கற்பலன் 42 ஆகும்.",
+    "en": "To find the HCF of 84, 126, and 210, identify their common prime factors 2, 3, and 7, whose product is 42."
+   },
+   "why": {},
+   "rule": {
+    "ta": "கொடுக்கப்பட்ட எண்களின் மீப்பெரு பொதுவகுத்தி (HCF) என்பது அந்த எண்களை மீதியின்றி வகுக்கும் மிகப்பெரிய எண் ஆகும்.",
+    "en": "HCF is the greatest number that divides each of the given numbers without a remainder."
+   },
+   "eg": {
+    "ta": "24 மற்றும் 36 இன் மி.பொ.வ 12 ஆகும்.",
+    "en": "HCF of 24 and 36 is 12."
+   },
+   "tip": {
+    "ta": "விருப்பங்களில் உள்ள மிகப்பெரிய எண்ணிலிருந்து சோதித்து வருவது நேரத்தைச் மிச்சப்படுத்தும்.",
+    "en": "Test the largest option first to save time."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-hcf-lcm-c2": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், கொடுக்கப்பட்ட எண்களின் பகா காரணிப்படுத்தலில் உள்ள அனைத்து பகா எண்களின் அதிகப்படியான அடுக்குகளைப் பெருக்க வேண்டும்.",
+    "en": "When asked this type, multiply the highest powers of all prime factors present in the numbers."
+   },
+   "explain": {
+    "ta": "12, 18 மற்றும் 30 ஆகிய எண்களின் பகா காரணிகள் முறையே 2² × 3, 2 × 3² மற்றும் 2 × 3 × 5 ஆகும். இவற்றின் மீப்பெரு அடுக்குகளை எடுத்தால் 2² × 3² × 5 = 180 கிடைக்கும்.",
+    "en": "Prime factorizations are 2² × 3, 2 × 3², and 2 × 3 × 5. Taking highest powers gives 2² × 3² × 5 = 180."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மீச்சிறு பொது மடங்கு (LCM) என்பது கொடுக்கப்பட்ட எண்களால் மீதியின்றி வகுபடும் மிகச்சிறிய எண் ஆகும்.",
+    "en": "LCM is the smallest number divisible by each of the given numbers."
+   },
+   "eg": {
+    "ta": "4, 6 மற்றும் 8 இன் மி.சி.ம 24 ஆகும்.",
+    "en": "LCM of 4, 6, and 8 is 24."
+   },
+   "tip": {
+    "ta": "கொடுக்கப்பட்ட எண்களில் மிகப்பெரிய எண்ணின் மடங்குகளைச் சோதித்து மற்ற எண்களால் வகுபடுகிறதா என்று பார்க்கவும்.",
+    "en": "Check multiples of the largest number to find the LCM quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-hcf-lcm-c3": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், (இரு எண்களின் பெருக்கற்பலன் = HCF × LCM) என்ற அடிப்படை விதியைப் பயன்படுத்த வேண்டும்.",
+    "en": "When asked this type, use the fundamental rule that the product of two numbers equals their HCF times LCM."
+   },
+   "explain": {
+    "ta": "மி.பொ.வ மற்றும் மி.சி.ம பெருக்கற்பலன் 6 × 72 = 432 ஆகும். ஒரு எண் 18 எனில், மற்றொரு எண் 432 ÷ 18 = 24 ஆகும்.",
+    "en": "Product of HCF and LCM is 6 × 72 = 432. Dividing by the given number 18 gives 432 ÷ 18 = 24."
+   },
+   "why": {},
+   "rule": {
+    "ta": "எந்த இரு எண்களுக்கும் (முதல் எண் × இரண்டாம் எண்) = (HCF × LCM) ஆகும்.",
+    "en": "For any two numbers, Product of numbers = HCF × LCM."
+   },
+   "eg": {
+    "ta": "HCF = 5, LCM = 60 மற்றும் ஒரு எண் 15 எனில் மற்றொரு எண் 20 ஆகும்.",
+    "en": "If HCF=5, LCM=60 and one number is 15, the other is 20."
+   },
+   "tip": {
+    "ta": "HCF மற்றும் LCM பெருக்கலை கொடுக்கப்பட்ட எண்ணால் வகுத்தால் விடை வரும்.",
+    "en": "Divide the product of HCF and LCM by the given number to find the unknown."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w1-apt-hcf-lcm-c4": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், இயற்கணிதக் கோவைகளைக்காரணிப்படுத்தி, பொதுவான காரணியைக் கண்டறிய வேண்டும்.",
+    "en": "When asked this type, factorize the algebraic expressions and find the common factor."
+   },
+   "explain": {
+    "ta": "முதல் கோவை x² − 9 என்பது (x − 3)(x + 3) எனப் பிரியும். இரண்டாவது கோவை x² + 5x + 6 என்பது (x + 2)(x + 3) எனப் பிரியும். இரண்டிலும் பொதுவான காரணி (x + 3) ஆகும்.",
+    "en": "First expression factorizes to (x − 3)(x + 3) and second to (x + 2)(x + 3). The common factor is (x + 3)."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இயற்கணிதக் கோவைகளின் HCF என்பது அவற்றின் காரணிகளில் உள்ள பொதுவான மீச்சிறு அடியாகும்.",
+    "en": "HCF of algebraic expressions is the common factor with the lowest power."
+   },
+   "eg": {
+    "ta": "x² − 4 மற்றும் x² + 4x + 4 இன் HCF (x + 2) ஆகும்.",
+    "en": "HCF of x² − 4 and x² + 4x + 4 is (x + 2)."
+   },
+   "tip": {
+    "ta": "முற்றொருமைகளைப் பயன்படுத்தி கோவைகளை எளிதாகக் காரணிப்படுத்தலாம்.",
+    "en": "Use algebraic identities to factorize expressions quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-apt-ratio-c1": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், விகிதங்களின் கூடுதலைக் கொண்டு மொத்தத் தொகையைப் பங்கீடு செய்து பெரிய பங்கைoffsets காண வேண்டும்.",
+    "en": "When asked this type, divide the total amount by the sum of ratio parts to find the value of one part."
+   },
+   "explain": {
+    "ta": "விகிதங்களின் கூடுதல் 5 + 7 = 12 ஆகும். 2,400 ரூபாயை 12 பங்காகப் பிரித்தால் ஒரு பங்கு 2400 ÷ 12 = 200 ரூபாய் ஆகும். பெரிய பங்கு 7 என்பதால் 7 × 200 = 1,400 ரூபாய் ஆகும்.",
+    "en": "Sum of ratios is 12. One part is 2400 ÷ 12 = 200. The larger share is 7 parts, so 7 × 200 = 1,400."
+   },
+   "why": {},
+   "rule": {
+    "ta": "கொடுக்கப்பட்ட தொகையை விகிதப் பங்குகளின் கூட்டுத்தொகையால் வகுத்துத் தனித்தனிப் பங்குகளின் மதிப்பைக் காணலாம்.",
+    "en": "Divide total amount by sum of ratio terms to find the value per share."
+   },
+   "eg": {
+    "ta": "₹900-ஐ 2 : 7 என்ற விகிதத்தில் பிரித்தால் பெரிய பங்கு ₹700 ஆகும்.",
+    "en": "Dividing ₹900 in the ratio 2 : 7 gives the larger share as ₹700."
+   },
+   "tip": {
+    "ta": "பெரிய பங்கைத் கண்டுபிடிக்க, விகிதத்தில் உள்ள பெரிய எண்ணால் ஒரு பங்கு மதித்தைப் பெருக்க வேண்டும்.",
+    "en": "Multiply the value of one part by the larger ratio term to get the larger share directly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-apt-ratio-c2": {
+   "hint": {
+    "ta": "விகிதச் சமக் கணக்குகளில் உள் உறுப்புகளின் பெருக்கற்பலன் வெளி உறுப்புகளின் பெருக்கற்பலனுக்குச் சமம் என்பதைப் பயன்படுத்துங்கள்.",
+    "en": "Use the property that the product of extremes equals the product of means in proportions."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட விகிதத்தை 4/x = 6/9 என எழுதலாம். குறுக்குப் பெருக்கல் செய்ய 6x = 36 கிடைக்கும், எனவே x இன் மதிப்பு 6 ஆகும்.",
+    "en": "Cross multiplying 4/x = 6/9 gives 6x = 36, so x equals 6."
+   },
+   "why": {},
+   "rule": {
+    "ta": "a : b = c : d எனில் ad = bc ஆகும்.",
+    "en": "If a : b = c : d, then ad = bc."
+   },
+   "eg": {
+    "ta": "2 : 3 = 4 : x எனில் x இன் மதிப்பு 6 ஆகும்.",
+    "en": "If 2 : 3 = 4 : x, then x = 6."
+   },
+   "tip": {
+    "ta": "விகிதச் சமத்தில் விடுபட்ட எண்ணைக் காண குறுக்குப் பெருக்கல் முறையைப் பயன்படுத்தவும்.",
+    "en": "Use cross-multiplication to find the missing term in a proportion."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-apt-ratio-c3": {
+   "hint": {
+    "ta": "இரண்டு விகிதங்களிலும் பொதுவான உறுப்பாக உள்ள B இன் மதிப்பைச் சமப்படுத்த வேண்டும் என்பதைப் கவனியுங்கள்.",
+    "en": "Note that you need to make the common term B equal in both ratios."
+   },
+   "explain": {
+    "ta": "இங்கே A : B = 3 : 4 மற்றும் B : C = 2 : 5 என உள்ளது. இரண்டாவது விகிதத்தை 2 ஆல் பெருக்க B இன் மதிப்பு 4 ஆகி C இன் மதிப்பு 10 ஆகும், எனவே A : B : C என்பது 3 : 4 : 10 ஆகும்.",
+    "en": "Multiplying the second ratio by 2 makes B equal to 4 and C equal to 10, giving the combined ratio 3 : 4 : 10."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தொடர் விகிதக் காண பொதுவான உறுப்பின் மதிப்பை இரண்டு விகிதங்களிலும் சமமாக்க வேண்டும்.",
+    "en": "To find a continued ratio, equate the common term in both ratios."
+   },
+   "eg": {
+    "ta": "A : B = 2 : 3, B : C = 3 : 4 எனில் A : B : C = 2 : 3 : 4 ஆகும்.",
+    "en": "If A : B = 2 : 3 and B : C = 3 : 4, then A : B : C = 2 : 3 : 4."
+   },
+   "tip": {
+    "ta": "பொதுவான எழுத்தின் மதிப்பை எண்களின் மீச்சிறு பொது மடங்கு (LCM) மூலம் சமப்படுத்தலாம்.",
+    "en": "Make the common variable equal using LCM."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-apt-si-ci-c1": {
+   "hint": {
+    "ta": "தனிவட்டிக் காண SI = (P × N × R) / 100 என்ற சூத்திரத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Use the simple interest formula SI = (P × N × R) / 100."
+   },
+   "explain": {
+    "ta": "அசல் ரூ.5,000, காலம் 2 ஆண்டுகள், வட்டி வீதம் 8% எனில் தனிவட்டி (5000 × 2 × 8) / 100 = ரூ.800 ஆகும்.",
+    "en": "With P = 5000, N = 2, and R = 8, the simple interest calculates to 5000 × 2 × 8 / 100 = 800."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தனிவட்டி = (அசல் × காலம் × வட்டி வீதம்) / 100",
+    "en": "Simple Interest = (P × N × R) / 100"
+   },
+   "eg": {
+    "ta": "ரூ.1,000-க்கு 10% வட்டி வீதத்தில் 2 ஆண்டு தனிவட்டி ரூ.200 ஆகும்.",
+    "en": "SI on 1000 at 10% for 2 years is 200."
+   },
+   "tip": {
+    "ta": "இருபது நூறுகளில் அடிபடும் போது பூஜ்ஜியங்களை எளிதாக நீக்கிப் பெருக்கலாம்.",
+    "en": "Cancel zeros easily to simplify multiplication."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-apt-si-ci-c2": {
+   "hint": {
+    "ta": "கூட்டுவட்டிக் காண மொத்தத் தொகை தொகையைக் கண்டு, அதிலிருந்து அசலைக் கழிக்க வேண்டும் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember to find the total amount first and subtract the principal to get compound interest."
+   },
+   "explain": {
+    "ta": "ரூ.10,000 அசல் தொகைக்கு 10% வட்டி வீதத்தில் 2 ஆண்டுகளுக்கு மொத்தத் தொகை 10000 × (1.1)² = ரூ.12,100 ஆகும். இதிலிருந்து அசலைக் கழிக்க கூட்டுவட்டி ரூ.2,100 கிடைக்கும்.",
+    "en": "The amount is 10000 × 1.21 = 12100, so the compound interest is 12100 - 10000 = 2100."
+   },
+   "why": {},
+   "rule": {
+    "ta": "கூட்டுவட்டி = மொத்தத் தொகை - அசல் [A = P(1 + r/100)ⁿ]",
+    "en": "Compound Interest = Amount - Principal"
+   },
+   "eg": {
+    "ta": "ரூ.1,000-க்கு 10% வட்டி வீதத்தில் 2 ஆண்டு கூட்டுவட்டி ரூ.210 ஆகும்.",
+    "en": "CI on 1000 at 10% for 2 years is 210."
+   },
+   "tip": {
+    "ta": "10% வட்டிக்கு 2 ஆண்டுகளுக்குக் கூட்டுவட்டி காண 21% என நேரடியாகக் கணக்கிடலாம்.",
+    "en": "For 10% over 2 years, CI percentage is directly 21%."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-apt-si-ci-c3": {
+   "hint": {
+    "ta": "2 ஆண்டுகளுக்குக் கூட்டுவட்டிக்கும் தனிவட்டிக்கும் உள்ள வித்தியாசத்தைக் காண P(r/100)² என்ற சூத்திரத்தைப் பயன்படுத்தலாம்.",
+    "en": "Use the formula P(r/100)² to find the difference between CI and SI for 2 years."
+   },
+   "explain": {
+    "ta": "அசல் ரூ.5,000 மற்றும் வட்டி வீதம் 4% எனில், வித்தியாசம் = 5000 × (4/100)² = 5000 × (16/10000) = ரூ.8 ஆகும்.",
+    "en": "The difference for 2 years is 5000 × (4/100)² = 8."
+   },
+   "why": {},
+   "rule": {
+    "ta": "2 ஆண்டுகளுக்கான CI - SI வித்தியாசம் = P(r/100)²",
+    "en": "Difference between CI and SI for 2 years = P(r/100)²"
+   },
+   "eg": {
+    "ta": "ரூ.1,000-க்கு 10% வட்டி வீதத்தில் 2 ஆண்டு CI - SI வித்தியாசம் ரூ.10 ஆகும்.",
+    "en": "Difference for 1000 at 10% for 2 years is 10."
+   },
+   "tip": {
+    "ta": "2 ஆண்டு வித்தியாசம் கேட்டால் P(r/100)² என்றshortcut மிக விரைவானது.",
+    "en": "Remember the shortcut formula P(r/100)² for 2 years."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w2-apt-si-ci-c4": {
+   "hint": {
+    "ta": "தனிவட்டியில் ஒரு தொகை மடங்காக மாற R = 100(n - 1) / T என்ற சூத்திரத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Use the formula R = 100(n - 1) / T when a sum becomes n times in simple interest."
+   },
+   "explain": {
+    "ta": "தொகை இரட்டிப்பாகிறது என்றால் n = 2 மற்றும் காலம் T = 8 ஆண்டுகள் ஆகும். வட்டி வீதம் R = 100(2 - 1) / 8 = 100 / 8 = 12.5% ஆகும்.",
+    "en": "Since the sum doubles, n = 2 and T = 8, giving R = 100 / 8 = 12.5%."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தனிவட்டியில் T ஆண்டுகளில் அசல் n மடங்காக மாற R = 100(n - 1) / T ஆகும்.",
+    "en": "Rate R = 100(n - 1) / T for a sum to become n times."
+   },
+   "eg": {
+    "ta": "ஒரு தொகை 5 ஆண்டுகளில் இரட்டிப்பானால் வட்டி வீதம் 20% ஆகும்.",
+    "en": "If a sum doubles in 5 years, the rate is 20%."
+   },
+   "tip": {
+    "ta": "இரட்டிப்பாகிறது என்றால் (n-1) என்பது 1 ஆகும், எனவே R × T = 100 என்பதை நினைவில் கொள்க.",
+    "en": "For doubling, R × T = 100 is a direct shortcut."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-apt-area-volume-c1": {
+   "hint": {
+    "ta": "வட்டத்தின் பரப்பளவு காணும் சூத்திரமான πr²-ல் ஆரத்தின் மதிப்பை பிரதியிட்டு சுருக்க வேண்டும்.",
+    "en": "Substitute the radius in the circle area formula πr² and simplify."
+   },
+   "explain": {
+    "ta": "வட்டத்தின் பரப்பளவு சூத்திரம் πr² ஆகும். இதில் π = 22/7 மற்றும் r = 14 cm எனப் பிரதியிட்டால், 22/7 × 14 × 14 = 616 cm² என்று சரியான விடை கிடைக்கும்.",
+    "en": "The area of a circle is πr². Substituting π = 22/7 and r = 14 cm gives 616 cm²."
+   },
+   "why": {
+    "B": {
+     "ta": "இது வட்டத்தின் சுற்றளவுக்கான வாய்ப்பாட்டின் மூலம் கிடைக்கும் தவறான மதிப்பாகும்.",
+     "en": "This is an incorrect value, likely from the circumference formula."
+    },
+    "C": {
+     "ta": "இது ஆரம் பாதியாக எடுக்கப்பட்டால் வரும் தவறான மதிப்பாகும்.",
+     "en": "This is an incorrect value obtained if the radius is halved."
+    },
+    "D": {
+     "ta": "இது ஆரத்தை இருமுறை சரியாகப் பெருக்காமல் வந்த தவறான மடங்காகும்.",
+     "en": "This is an incorrect multiple due to a calculation error."
+    }
+   },
+   "rule": {
+    "ta": "வட்டத்தின் பரப்பளவு = πr² சதுர அலகுகள்.",
+    "en": "Area of a circle = πr² square units."
+   },
+   "eg": {
+    "ta": "ஆரம் 7 செ.மீ எனில் வட்டத்தின் பரப்பளவு 154 செ.மீ² ஆகும்.",
+    "en": "If radius is 7 cm, the area of the circle is 154 cm²."
+   },
+   "tip": {
+    "ta": "ஆரம் 7-ன் மடங்காக இருந்தால் π மதிப்பை 22/7 எனப் பயன்படுத்துவது கணக்கைத் দ্রুত முடிக்க உதவும்.",
+    "en": "If the radius is a multiple of 7, use π = 22/7 for faster calculation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-apt-area-volume-c2": {
+   "hint": {
+    "ta": "கூம்பின் கனஅளவு காணும் சூத்திரத்தில் ஆரம் மற்றும் உயரத்தின் மதிப்புகளைப் பிரதியிட வேண்டும்.",
+    "en": "Substitute the radius and height into the cone volume formula."
+   },
+   "explain": {
+    "ta": "கூம்பின் கனஅளவு காணும் சூத்திரம் ⅓πr²h ஆகும். இதில் மதிப்புகளைப் பிரதியிட்டால் ⅓ × 22/7 × 7 × 7 × 12 = 616 cm³ எனச் சரியான விடை கிடைக்கும்.",
+    "en": "The volume of a cone formula is ⅓πr²h. Substituting the values gives 616 cm³."
+   },
+   "why": {
+    "A": {
+     "ta": "இது ⅓ பகுதியால் வகுக்காமல் நேоடியாக உருளையின் கனஅளவைக் கண்டறியும் தவறான மதிப்பாகும்.",
+     "en": "This is the volume of a cylinder without dividing by 3."
+    },
+    "C": {
+     "ta": "இது தவறான எண்ணைக் கொண்டு பெருக்கியதால் வந்த தவறான விடையாகும்.",
+     "en": "This is an incorrect value due to calculation error."
+    },
+    "D": {
+     "ta": "இது கூம்பின் கனஅளவைக் கணக்கிடும்போது பாதியாகக் குறைக்கப்பட்ட தவறான விடையாகும்.",
+     "en": "This is an incorrectly halved value."
+    }
+   },
+   "rule": {
+    "ta": "கூம்பின் கனஅளவு = ⅓πr²h கன அலகுகள்.",
+    "en": "Volume of a cone = ⅓πr²h cubic units."
+   },
+   "eg": {
+    "ta": "ஆரம் 3 செ.மீ மற்றும் உயரம் 7 செ.மீ கொண்ட கூம்பின் கனஅளவு 66 செ.மீ³ ஆகும்.",
+    "en": "A cone with radius 3 cm and height 7 cm has a volume of 66 cm³."
+   },
+   "tip": {
+    "ta": "கூம்பின் கனஅளவு என்பது அதே ஆரம் மற்றும் உயரம் கொண்ட உருளையின் கனஅளவில் மூன்றில் ஒரு பங்கு ஆகும்.",
+    "en": "Volume of a cone is one-third the volume of a cylinder with the same base and height."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-apt-area-volume-c3": {
+   "hint": {
+    "ta": "கனசதுரத்தின் பக்க அளவு கொடுக்கப்பட்டால் அதன் கனஅளவைக் காண பக்கத்தை மூன்று முறை பெருக்க வேண்டும்.",
+    "en": "Multiply the side length three times to find the volume of a cube."
+   },
+   "explain": {
+    "ta": "கனசதுரத்தின் கனஅளவு காணும் சூத்திரம் a³ ஆகும். இங்கு பக்கம் 5 cm எனக்கொடுக்கப்பட்டுள்ளது, எனவே 5 × 5 × 5 = 125 cm³ என்பது சரியான விடையாகும்.",
+    "en": "The volume of a cube is a³. Here side is 5 cm, so 5³ = 125 cm³."
+   },
+   "why": {
+    "A": {
+     "ta": "இது பக்கத்தை இருமுறை பெருக்கிப் பரப்பளவு (a²) கண்டது போன்ற தவறான மதிப்பாகும்.",
+     "en": "This is the area of a single face (a²) rather than the volume."
+    },
+    "C": {
+     "ta": "இது கனசதுரத்தின் மொத்தப் பரப்பளவுக்கான (6a²) மதிப்பேயன்றி கனஅளவு அல்ல.",
+     "en": "This is the total surface area (6a²) of the cube, not the volume."
+    },
+    "D": {
+     "ta": "இது பக்கத்தை வேறொரு எண்ணால் பெருக்கியதால் வந்த தவறான விடையாகும்.",
+     "en": "This is an incorrect value from a wrong calculation."
+    }
+   },
+   "rule": {
+    "ta": "கனசதுரத்தின் கனஅளவு = a³ கன அலகுகள்.",
+    "en": "Volume of a cube = a³ cubic units."
+   },
+   "eg": {
+    "ta": "பக்க அளவு 4 செ.மீ கொண்ட கனசதுரத்தின் கனஅளவு 64 செ.மீ³ ஆகும்.",
+    "en": "A cube with side 4 cm has a volume of 64 cm³."
+   },
+   "tip": {
+    "ta": "கனசதுரம் என்றால் a³ என்றும், கனசெவ்வகம் என்றால் l × b × h என்றும் நினைவில் கொள்ளவும்.",
+    "en": "Remember cube volume is a³ and cuboid volume is l × b × h."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-apt-time-work-c1": {
+   "hint": {
+    "ta": "இருவர் தனித்தனியாக செய்யும் வேலை நாேட்டுகளைக் கொண்டு மீச்சிறு பொது மடங்கு (LCM) முறையில் மொத்த வேலையைக் கண்டுபிடிக்க வேண்டும்.",
+    "en": "Find total work using LCM method when two individuals' work days are given."
+   },
+   "explain": {
+    "ta": "A இன் வேலை நாள் 12, B இன் வேலை நாள் 24. இவற்றின் LCM 24 ஆகும். A-ன் ஒரு நாள் வேலை 2 மற்றும் B-ன் ஒரு நாள் வேலை 1. இருவரும் சேர்ந்து ஒரு நாளில் 3 வேலை செய்வார்கள், எனவே மொத்த வேலை முடிக்க 24/3 = 8 நாட்கள் ஆகும்.",
+    "en": "LCM of 12 and 24 is 24. Combined 1-day work is 3 units, so total days = 24/3 = 8 days."
+   },
+   "why": {
+    "A": {
+     "ta": "இது நாட்களைச் சராசரி செய்தது போன்ற தவறான கணிப்பாகும்.",
+     "en": "This is an incorrect calculation, like averaging the days."
+    },
+    "C": {
+     "ta": "இது இருவரின் நாட்களையும் கூட்டி வந்த தவறான கூடுதலாகும்.",
+     "en": "This is the sum of the individual days, which is incorrect."
+    },
+    "D": {
+     "ta": "இது வேலை நேரத்தைக் கணக்கிடும் போது பாதியாகக் குறைக்கப்பட்ட தவறான விடையாகும்.",
+     "en": "This is an incorrectly halved value."
+    }
+   },
+   "rule": {
+    "ta": "சேர்ந்து வேலை செய்யும் நாட்கள் = (A × B) / (A + B).",
+    "en": "Days working together = (A × B) / (A + B)."
+   },
+   "eg": {
+    "ta": "A ஒரு வேலையை 6 நாட்களிலும், B 12 நாட்களிலும் முடித்தால் இருவரும் சேர்ந்து 4 நாட்களில் முடிப்பார்கள்.",
+    "en": "If A takes 6 days and B takes 12 days, together they take 4 days."
+   },
+   "tip": {
+    "ta": "(A × B)/(A + B) என்ற சூத்திரத்தைப் பயன்படுத்தினால் விடை மிக விரைவாகக் கிடைக்கும்.",
+    "en": "Use the formula (A × B)/(A + B) for quick results."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-apt-time-work-c2": {
+   "hint": {
+    "ta": "ஆட்கள் மற்றும் நாட்களின் பெருக்கற்பலன் மாறாது (M1D1 = M2D2) என்ற எதிர்விகித விதியைப் பயன்படுத்த வேண்டும்.",
+    "en": "Use the inverse proportion rule M1D1 = M2D2 for workers and days."
+   },
+   "explain": {
+    "ta": "மொத்த மனித-நாட்கள் = 10 × 6 = 60 ஆகும். இந்த வேலையை 15 தொழிலாளர்கள் செய்ய வேண்டுமெனில், 60 ÷ 15 = 4 நாட்கள் ஆகும்.",
+    "en": "Total man-days = 10 × 6 = 60. For 15 workers, days = 60 ÷ 15 = 4."
+   },
+   "why": {
+    "A": {
+     "ta": "இது எண்ணிக்கைகளைக் கூட்டி அல்லது கழித்து வந்த தவறான முடிவாகும்.",
+     "en": "This is an incorrect value from wrong arithmetic operations."
+    },
+    "C": {
+     "ta": "இது விகிதாச்சாரத்தைக் கணக்கிடுவதில் ஏற்பட்ட பிழையான விடையாகும்.",
+     "en": "This is an incorrect value due to proportion errors."
+    },
+    "D": {
+     "ta": "இது கொடுக்கப்பட்ட எண்களைத் தவறாக வகுப்பதால் வரும் மதிப்பாகும்.",
+     "en": "This is an incorrect value from improper division."
+    }
+   },
+   "rule": {
+    "ta": "M1 × D1 = M2 × D2 என்ற எதிர்விகித சூத்திரத்தைப் பயன்படுத்த வேண்டும்.",
+    "en": "Use the inverse proportion formula M1 × D1 = M2 × D2."
+   },
+   "eg": {
+    "ta": "5 ஆட்கள் ஒரு வேலையை 12 நாட்களில் செய்தால், 10 ஆட்கள் அதே வேலையை 6 நாட்களில் செய்வார்கள்.",
+    "en": "If 5 workers do a job in 12 days, 10 workers will do it in 6 days."
+   },
+   "tip": {
+    "ta": "ஆட்கள் அதிகரித்தால் நாட்கள் குறையும், எனவே பெருக்கி வகுக்கும் முறையைப் பின்பற்றுக.",
+    "en": "More workers mean fewer days; use multiplication and division accordingly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-apt-time-work-c3": {
+   "hint": {
+    "ta": "இருவர் சேர்ந்து செய்யும் நாள்களிலிருந்து ஒருவர் மட்டும் செய்யும் நாள்களைக் கழித்து மற்றொருவரின் வேலையைக் கண்டுபிடிக்க வேண்டும்.",
+    "en": "Subtract individual work rate from the combined work rate to find the other's time."
+   },
+   "explain": {
+    "ta": "A மற்றும் B சேர்ந்து ஒரு நாளில் செய்யும் வேலை 1/6 பகுதி. A மட்டும் செய்யும் வேலை 1/10 பகுதி. B மட்டும் செய்யும் வேலை = 1/6 − 1/10 = (5 − 3)/30 = 2/30 = 1/15, எனவே B தனியாக 15 நாட்களில் வேலையை முடிப்பார்.",
+    "en": "B's 1-day work = 1/6 − 1/10 = 1/15. So B alone takes 15 days."
+   },
+   "why": {
+    "A": {
+     "ta": "இது நாட்களை நேரடியாகக் கழித்து வந்த தவறான கணிப்பு முறையாகும்.",
+     "en": "This is an incorrect value obtained by direct subtraction of days."
+    },
+    "C": {
+     "ta": "இது தவறான மீச்சிறு பொது மடங்கு (LCM) எடுப்பதால் வரும் மதிப்பாகும்.",
+     "en": "This is an incorrect value from wrong LCM calculation."
+    },
+    "D": {
+     "ta": "இது இருவரின் நாட்களின் வித்தியாசத்தை வைத்து கணக்கிடப்பட்ட தவறான விடையாகும்.",
+     "en": "This is an incorrect value based on day differences."
+    }
+   },
+   "rule": {
+    "ta": "ஒருவர் மட்டும் தனியாக செய்யும் நாட்கள் = (சேர்ந்திருக்கும் நாட்கள் × தனிநபர் நாட்கள்) / (தனிநபர் நாட்கள் − சேர்ந்திருக்கும் நாட்கள்).",
+    "en": "Days for one person alone = (Combined days × Individual days) / (Individual days − Combined days)."
+   },
+   "eg": {
+    "ta": "இருவர் சேர்ந்து 4 நாட்களில், ஒருவர் மட்டும் 12 நாட்களில் செய்தால் மற்றொருவர் 6 நாட்களில் முடிப்பார்.",
+    "en": "If together they take 4 days and one takes 12 days, the other takes 6 days."
+   },
+   "tip": {
+    "ta": "தனிநபர் வேலையைக் காண பின்னங்களைக் கழிக்கும்போது LCM முறையைப் பயன்படுத்துவது எளிது.",
+    "en": "Use the LCM method when subtracting fractions to find individual work."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-reasoning-series-c1": {
+   "hint": {
+    "ta": "எண்களுக்கு இடையே உள்ள இடைவெளி எவ்வாறு மாறுகிறது என்பதைப் பாருங்கள்.",
+    "en": "Observe how the difference between consecutive numbers increases."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட எண்களின் தொடர் n(n + 1) என்ற விதிமுறையைப் பின்பற்றுகிறது. 1×2=2, 2×3=6, 3×4=12, 4×5=20, 5×6=30 எனில் அடுத்து வருவது 6×7=42 ஆகும்.",
+    "en": "The series follows the formula n(n+1), and multiplying 6 by 7 gives 42."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான விடை, ஏனெனில் இது சரியான சூத்திரத்தின்படி வரவில்லை.",
+     "en": "This is incorrect as it does not fit the sequence pattern."
+    },
+    "C": {
+     "ta": "இது தவறான விடை, 36 என்பது 6 இன் வர்க்கம் மட்டுமே.",
+     "en": "This is incorrect, 36 is just the square of 6."
+    },
+    "D": {
+     "ta": "இது தவறான விடை, தொடர் விதிமுறைக்கு இது பொருந்தாது.",
+     "en": "This is incorrect and does not follow the series rule."
+    }
+   },
+   "rule": {
+    "ta": "எண் தொடர்களில் வர்க்க எண்களுடன் அல்லது பெருக்கல்களுடன் தொடர்புடைய வடிவங்களைக் கண்டறிய வேண்டும்.",
+    "en": "Identify patterns involving consecutive products or squares in number series."
+   },
+   "eg": {
+    "ta": "1, 3, 7, 13, 21 வரிசையில் அடுத்த எண் 31 ஆகும்.",
+    "en": "The next number in the series 1, 3, 7, 13, 21 is 31."
+   },
+   "tip": {
+    "ta": "எண்களுக்கு இடையேயான வித்தியாசத்தைக் கண்டுபிடித்தால் விடை எளிதில் கிடைக்கும்.",
+    "en": "Finding the differences between numbers makes solving easy."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-reasoning-series-c2": {
+   "hint": {
+    "ta": "ஒவ்வொரு எண்ணும் முந்தைய எண்ணுடன் எவ்வாறு தொடர்புடையது என்பதைப் பாருங்கள்.",
+    "en": "Check how each number relates to the previous one."
+   },
+   "explain": {
+    "ta": "இத்தொடரில் ஒவ்வொரு எண்ணும் இரண்டால் பெருக்கப்பட்டு அடுத்த எண் பெறப்படுகிறது. 5×2=10, 10×2=20, 20×2=40 எனில், 40 ஐ இரண்டால் பெருக்க 80 கிடைக்கும்.",
+    "en": "Each number in the series is multiplied by 2 to get the next, so 40 multiplied by 2 is 80."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான விடை, இது கூட்டுத் தொடர் முறை அல்ல.",
+     "en": "This is incorrect, as it is not an arithmetic progression."
+    },
+    "C": {
+     "ta": "இது தவறான விடை, 40 உடன் 10 ஐக் கூட்டினால் வருவது.",
+     "en": "This is incorrect and is just 40 plus 10."
+    },
+    "D": {
+     "ta": "இது தவறான விடை, பெருக்கல் விதிமுறை இங்கு பொருந்தவில்லை.",
+     "en": "This is incorrect as the multiplication rule does not fit here."
+    }
+   },
+   "rule": {
+    "ta": "பெருக்குத் தொடரில் (Geometric Progression) ஒவ்வொரு உறுப்பும் ஒரு குறிப்பிட்ட எண்ணால் பெருக்கப்படும்.",
+    "en": "In a geometric progression, each term is multiplied by a fixed number."
+   },
+   "eg": {
+    "ta": "3, 6, 12, 24 இன் அடுத்த எண் 48 ஆகும்.",
+    "en": "The next number after 3, 6, 12, 24 is 48."
+   },
+   "tip": {
+    "ta": "எண்கள் வேகமாக அதிகரித்தால் அது பெருக்கல் தொடராக இருக்க வாய்ப்புள்ளது.",
+    "en": "If numbers grow rapidly, it is likely a multiplication series."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-reasoning-series-c3": {
+   "hint": {
+    "ta": "ஆங்கில எழுத்துக்களின் வரிசை எண்களைக் கவனியுங்கள்.",
+    "en": "Observe the positional values of the English alphabet."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட எழுத்துக்கள் ஆங்கில அகரவரிசையில் மூன்று எழுத்துக்கள் தள்ளி வருகின்றன. B(2) உடன் 3 கூட்டினால் E(5), அதனுடன் 3 கூட்டினால் H(8), K(11) உடன் 3 கூட்டினால் N(14) கிடைக்கும்.",
+    "en": "The letters progress by skipping two letters each time, adding 3 to the alphabetical position."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான விடை, M என்பது 13 ஆவது எழுத்து.",
+     "en": "This is incorrect, M is the 13th letter."
+    },
+    "C": {
+     "ta": "இது தவறான விடை, L என்பது 12 ஆவது எழுத்து.",
+     "en": "This is incorrect, L is the 12th letter."
+    },
+    "D": {
+     "ta": "இது தவறான விடை, O என்பது 15 ஆவது எழுத்து.",
+     "en": "This is incorrect, O is the 15th letter."
+    }
+   },
+   "rule": {
+    "ta": "எழுத்துத் தொடர்களில் அவற்றின் ஆங்கில அகரவரிசை எண்களை எழுதி இடைவெளியைக் கண்டறிய வேண்டும்.",
+    "en": "Write the alphabetical positions of letters in series to find the gaps."
+   },
+   "eg": {
+    "ta": "A, D, G, J இன் அடுத்த எழுத்து M ஆகும்.",
+    "en": "The next letter after A, D, G, J is M."
+   },
+   "tip": {
+    "ta": "AZ வரை எண்களை எழுதி வைத்துக் கொண்டால் எழுத்துத் கணக்குகள் எளிதாகும்.",
+    "en": "Writing down alphabet positions makes letter puzzles easy."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-reasoning-dice-visual-c1": {
+   "hint": {
+    "ta": "பக்க எண்骰டின் (Standard Die) விதிகளின்படி எதிர் பக்கங்களின் கூட்டுத்தொகை என்ன என்பதை யோசியுங்கள்.",
+    "en": "Think about the rule for the sum of opposite faces on a standard die."
+   },
+   "explain": {
+    "ta": "ஒரு நியம பகடையில் (Standard Die) எதிரெதிர் பக்கங்களின் கூட்டுத்தொகை எப்போதும் 7 ஆகும். எனவே 3 இன் எதிரே உள்ள எண் 4 ஆகும், ஏனெனில் 3 + 4 = 7.",
+    "en": "On a standard die, the sum of opposite faces is always 7, so the opposite of 3 is 4."
+   },
+   "why": {
+    "B": {
+     "ta": "இது தவறான விடை, 6 இன் எதிர் பக்கம் 1 ஆகும்.",
+     "en": "This is incorrect, the opposite of 6 is 1."
+    },
+    "C": {
+     "ta": "இது தவறான விடை, 1 இன் எதிர் பக்கம் 6 ஆகும்.",
+     "en": "This is incorrect, the opposite of 1 is 6."
+    },
+    "D": {
+     "ta": "இது தவறான விடை, 5 இன் எதிர் பக்கம் 2 ஆகும்.",
+     "en": "This is incorrect, the opposite of 5 is 2."
+    }
+   },
+   "rule": {
+    "ta": "நியம பகடையில் எதிரெதிர் பக்கங்களின் கூடுதல் 7 ஆகும்.",
+    "en": "The sum of opposite faces in a standard die is 7."
+   },
+   "eg": {
+    "ta": "பகடையில் 5 இன் எதிர் பக்கம் 2 ஆகும்.",
+    "en": "The opposite face of 5 on a standard die is 2."
+   },
+   "tip": {
+    "ta": "எந்த எண்ணைக் கேட்டாலும் அதை 7 இலிருந்து கழிக்கவும்.",
+    "en": "Subtract the given number from 7 to find its opposite."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-reasoning-dice-visual-c2": {
+   "hint": {
+    "ta": "திசைகளைக் கற்பனை செய்து கிழக்கிலிருந்து இடதுபுறம் திரும்பும் திசையைக் கவனியுங்கள்.",
+    "en": "Visualize the directions and the turn to the left from East."
+   },
+   "explain": {
+    "ta": "நீங்கள் கிழக்கு திசையை நோக்கி நிற்கும்போது, உங்கள் இடதுகை வடக்கு திசையைக் காட்டும். எனவே கிழக்கு திசையிலிருந்து இடதுபுறம் திரும்பினால் வடக்கு திசையை அடைவீர்கள்.",
+    "en": "When facing East, your left hand points towards North, so turning left leads to North."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான விடை, கிழக்கிலிருந்து வலதுபுறம் திரும்பினால் தெற்கு வரும்.",
+     "en": "This is incorrect, turning right from East leads to South."
+    },
+    "C": {
+     "ta": "இது தவறான விடை, மேற்கு என்பது கிழக்குக்கு எதிர்த்திசை ஆகும்.",
+     "en": "This is incorrect, West is opposite to East."
+    },
+    "D": {
+     "ta": "இது தவறான விடை, நாம் திசை மாறிவிட்டோம்.",
+     "en": "This is incorrect as a turn was made."
+    }
+   },
+   "rule": {
+    "ta": "திசைக் கணக்குகளில் திசைகளையும் இடது வலது திருப்பங்களையும் சரியாகப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Understand directions and left/right turns properly in direction sense tests."
+   },
+   "eg": {
+    "ta": "வடக்கை நோக்கி நின்று வலதுபுறம் திரும்பினால் கிழக்கு திசை கிடைக்கும்.",
+    "en": "Facing North and turning right leads to East."
+   },
+   "tip": {
+    "ta": "கை கடிகார முள் திசை வலது என்றும், எதிர்த்திசை இடது என்றும் நினைவில் கொள்ளுங்கள்.",
+    "en": "Clockwise is right and counter-clockwise is left."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "w3-reasoning-dice-visual-c3": {
+   "hint": {
+    "ta": "பைதாகரஸ் தேற்றத்தைப் பயன்படுத்தி தொடக்கப் புள்ளிக்கும் முடிவுப் புள்ளிக்கும் உள்ள தூரத்தைக் காண்க.",
+    "en": "Use Pythagoras theorem to find the distance between start and end points."
+   },
+   "explain": {
+    "ta": "தெற்கே 5 கி.மீ சென்று இடதுபுறம் திரும்பி 12 கி.மீ சென்றால் செங்கோண முக்கோணம் உருவாகும். √(5² + 12²) = √(25 + 144) = √169 = 13 கி.மீ ஆகும்.",
+    "en": "Walking 5 km south and 12 km east forms a right triangle whose hypotenuse is 13 km."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான விடை, இது நேரான தூரத்தைக் கூட்டுவதால் வருவது அல்ல.",
+     "en": "This is incorrect, distances cannot be simply added directly."
+    },
+    "C": {
+     "ta": "இது தவறான விடை, இது இரு தூரங்களின் வித்தியாசம் அல்ல.",
+     "en": "This is incorrect and is not the difference between distances."
+    },
+    "D": {
+     "ta": "இது தவறான விடை, இது பைதாகரஸ் கணக்கீட்டுக்கு உட்படாது.",
+     "en": "This is incorrect as it does not match the Pythagorean calculation."
+    }
+   },
+   "rule": {
+    "ta": "செங்கோண திசைப் பயணங்களுக்கு பைதாகரஸ் தேற்றம் c² = a² + b² பயன்படுத்த வேண்டும்.",
+    "en": "Apply Pythagoras theorem c² = a² + b² for perpendicular direction movements."
+   },
+   "eg": {
+    "ta": "3 கி.மீ வடக்கு மற்றும் 4 கி.மீ கிழக்கு சென்றால் தூரம் 5 கி.மீ ஆகும்.",
+    "en": "Walking 3 km north and 4 km east gives a resultant distance of 5 km."
+   },
+   "tip": {
+    "ta": "3, 4, 5 மற்றும் 5, 12, 13 போன்ற பைதாகரஸ் எண்களை மனப்பாடம் செய்யவும்.",
+    "en": "Memorize Pythagorean triplets like 3, 4, 5 and 5, 12, 13 for fast calculation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "updated": "2026-11-21"
+}

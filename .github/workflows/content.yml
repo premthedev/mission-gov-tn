@@ -51,6 +51,12 @@ jobs:
         continue-on-error: true
         run: node tools/extract-paper.mjs "${{ github.event.inputs.exam || 'next' }}" "${{ github.event.inputs.pages || '140' }}"
 
+      - name: Tutor explanations for more questions (hint, why right, why each option is wrong)
+        continue-on-error: true
+        env:
+          ENRICH_PREFER: flash-lite
+        run: node tools/enrich.mjs --max-batches 40
+
       - name: Update manifest and commit
         run: |
           node tools/build-manifest.mjs

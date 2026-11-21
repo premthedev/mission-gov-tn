@@ -1596,8 +1596,8 @@
   },
   {
    "qNo": 39,
-   "part": "B",
-   "unit": "B5",
+   "part": "A",
+   "unit": "A7",
    "topic": "midday-meal-scheme",
    "format": "ONE_LINER",
    "stem": {
@@ -1744,8 +1744,8 @@
   },
   {
    "qNo": 43,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "tn-history",
    "format": "ONE_LINER",
    "stem": {
@@ -3625,8 +3625,8 @@
   },
   {
    "qNo": 88,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "social-welfare-schemes",
    "format": "ONE_LINER",
    "stem": {
@@ -3662,8 +3662,8 @@
   },
   {
    "qNo": 89,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "velunachiyar",
    "format": "ONE_LINER",
    "stem": {
@@ -3736,8 +3736,8 @@
   },
   {
    "qNo": 91,
-   "part": "B",
-   "unit": "B2",
+   "part": "A",
+   "unit": "A7",
    "topic": "tamil-official-language",
    "format": "ONE_LINER",
    "stem": {
@@ -3958,8 +3958,8 @@
   },
   {
    "qNo": 97,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "social-reformers",
    "format": "ONE_LINER",
    "stem": {
@@ -3995,8 +3995,8 @@
   },
   {
    "qNo": 98,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "personality",
    "format": "ONE_LINER",
    "stem": {
@@ -4032,8 +4032,8 @@
   },
   {
    "qNo": 99,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "leaders",
    "format": "ONE_LINER",
    "stem": {
@@ -5235,8 +5235,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "செவ்வகத்தின் பரப்பளவு = நீளம் × அகலம் = 9x^2 - 4. x = 20 எனப் பிரதியிட 3596 கிடைக்கும்.",
-    "en": "Area = Length × Breadth = (3x + 2)(3x - 2) = 9x^2 - 4. Substituting x = 20 gives 9(400) - 4 = 3600 - 4 = 3596."
+    "ta": "செவ்வகத்தின் பரப்பளவு = நீளம் × அகலம் = 9x² - 4. x = 20 எனப் பிரதியிட 3596 கிடைக்கும்.",
+    "en": "Area = Length × Breadth = (3x + 2)(3x - 2) = 9x² - 4. Substituting x = 20 gives 9(400) - 4 = 3600 - 4 = 3596."
    }
   },
   {
@@ -5357,8 +5357,8 @@
    "topic": "ratio-powers",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$4^{3.5} : 2^5$ என்பதற்கு சமமான விகிதம்.",
-    "en": "The ratio of $4^{3.5} : 2^5$ is same as"
+    "ta": "4³.⁵ : 2⁵ என்பதற்கு சமமான விகிதம்.",
+    "en": "The ratio of 4³.⁵ : 2⁵ is same as"
    },
    "options": {
     "A": {
@@ -5383,7 +5383,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$4^{3.5} = (2^2)^{3.5} = 2^7$. விகிதம் $2^7 : 2^5 = 2^{(7-5)} : 1 = 2^2 : 1 = 4 : 1$.",
+    "ta": "4³.⁵ = (2²)³.⁵ = 2⁷. விகிதம் 2⁷ : 2⁵ = 2(⁷⁻⁵) : 1 = 2² : 1 = 4 : 1.",
     "en": ""
    }
   },
@@ -5394,8 +5394,8 @@
    "topic": "alpha-numeric-series",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$4 \\text{ P} + \\text{ S } r \\text{ 9 B } \\# \\text{ A } 3 \\text{ ? } 7 \\text{ c } > \\text{ Z } \\% \\text{ 6 d } * \\text{ Q } @ \\text{ 1 }$\nகொடுக்கப்பட்ட தொடரின் முதல் பாதியை பின்னோக்கு வரிசையில் எழுதினால் வரும் தொடரின் வலது பக்கத்திலிருந்து 14-வதாக அமையும் உறுப்பினைக் காண்க.",
-    "en": "$4 \\text{ P} + \\text{ S } r \\text{ 9 B } \\# \\text{ A } 3 \\text{ ? } 7 \\text{ c } > \\text{ Z } \\% \\text{ 6 d } * \\text{ Q } @ \\text{ 1 }$\nIf the first half of the series is written in reverse order, then which element will be fourteenth from the right end?"
+    "ta": "4 P + S r 9 B \\# A 3 ? 7 c > Z % 6 d * Q @ 1 \nகொடுக்கப்பட்ட தொடரின் முதல் பாதியை பின்னோக்கு வரிசையில் எழுதினால் வரும் தொடரின் வலது பக்கத்திலிருந்து 14-வதாக அமையும் உறுப்பினைக் காண்க.",
+    "en": "4 P + S r 9 B \\# A 3 ? 7 c > Z % 6 d * Q @ 1 \nIf the first half of the series is written in reverse order, then which element will be fourteenth from the right end?"
    },
    "options": {
     "A": {
@@ -5457,8 +5457,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$M_1 D_1 = M_2 D_2 \\implies 10 \\times 21 = 14 \\times D_2 \\implies D_2 = 15$ நாட்கள்.",
-    "en": "$M_1 D_1 = M_2 D_2 \\implies 10 \\times 21 = 14 \\times D_2 \\implies D_2 = \\frac{210}{14} = 15 \\text{ days}$."
+    "ta": "M_1 D_1 = M_2 D_2 implies 10 × 21 = 14 × D_2 implies D_2 = 15 நாட்கள்.",
+    "en": "M_1 D_1 = M_2 D_2 implies 10 × 21 = 14 × D_2 implies D_2 = 210/14 = 15 days."
    }
   },
   {
@@ -5605,7 +5605,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "கூட்டு வட்டி சூத்திரத்தைப் பயன்படுத்தி 90000 * (1 + 7/100)^2 = 1,03,041 என கணக்கிடப்படுகிறது.",
+    "ta": "கூட்டு வட்டி சூத்திரத்தைப் பயன்படுத்தி 90000 * (1 + 7/100)² = 1,03,041 என கணக்கிடப்படுகிறது.",
     "en": ""
    }
   },
@@ -5774,8 +5774,8 @@
   },
   {
    "qNo": 138,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "ONE_LINER",
    "stem": {
@@ -6291,8 +6291,8 @@
   },
   {
    "qNo": 149,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "ONE_LINER",
    "stem": {
@@ -6371,8 +6371,8 @@
   },
   {
    "qNo": 151,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "ONE_LINER",
    "stem": {
@@ -6812,12 +6812,12 @@
      "en": "F = ΔP x t"
     },
     "C": {
-     "ta": "F = \\frac{m(v - u)}{t}",
-     "en": "F = \\frac{m(v - u)}{t}"
+     "ta": "F = m(v - u)/t",
+     "en": "F = m(v - u)/t"
     },
     "D": {
-     "ta": "F = \\frac{ΔP}{t}",
-     "en": "F = \\frac{ΔP}{t}"
+     "ta": "F = ΔP/t",
+     "en": "F = ΔP/t"
     }
    },
    "answer": "B",
@@ -6825,8 +6825,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "விசை என்பது உந்த மாறுபாடு வீதம் ஆகும், எனவே F = \\Delta P / t சரியானது, ஆனால் F = \\Delta P \\times t தவறு.",
-    "en": "Force is the rate of change of momentum, making F = \\Delta P / t correct and F = \\Delta P \\times t incorrect."
+    "ta": "விசை என்பது உந்த மாறுபாடு வீதம் ஆகும், எனவே F = Delta P / t சரியானது, ஆனால் F = Delta P × t தவறு.",
+    "en": "Force is the rate of change of momentum, making F = Delta P / t correct and F = Delta P × t incorrect."
    }
   },
   {
@@ -7401,7 +7401,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "கொடுக்கப்பட்ட எண்கள் வர்க்க எண்கள்: $7^2, 11^2, 13^2, 17^2, 19^2$. விடுபட்ட எண் $17^2 = 289$.",
+    "ta": "கொடுக்கப்பட்ட எண்கள் வர்க்க எண்கள்: 7², 11², 13², 17², 19². விடுபட்ட எண் 17² = 289.",
     "en": ""
    }
   },
@@ -7438,7 +7438,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "மற்றொரு பக்கம் = $\\sqrt{13^2 - 5^2} = \\sqrt{169 - 25} = \\sqrt{144} = 12$ செ.மீ. பரப்பு = நீளம் $\\times$ அகலம் = $12 \\times 5 = 60$ செ.மீ.²",
+    "ta": "மற்றொரு பக்கம் = √(13² - 5²) = √(169 - 25) = √(144) = 12 செ.மீ. பரப்பு = நீளம் × அகலம் = 12 × 5 = 60 செ.மீ.²",
     "en": ""
    }
   },
@@ -7634,25 +7634,25 @@
    "topic": "time-and-work",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "முகேஷ் ஒரு நாளில் $\\frac{2}{7}$ பகுதி வேலையை செய்து முடிப்பார் எனில் எத்தனை நாட்களில் அவ்வேலையை முழுமையாக செய்து முடிப்பார்?",
-    "en": "Mukesh can do $\\frac{2}{7}^{\\text{th}}$ of an work in one day. In how many days can he complete the same work?"
+    "ta": "முகேஷ் ஒரு நாளில் 2/7 பகுதி வேலையை செய்து முடிப்பார் எனில் எத்தனை நாட்களில் அவ்வேலையை முழுமையாக செய்து முடிப்பார்?",
+    "en": "Mukesh can do 2/7th of an work in one day. In how many days can he complete the same work?"
    },
    "options": {
     "A": {
-     "ta": "$2\\frac{1}{2}$ நாட்கள்",
-     "en": "$2\\frac{1}{2}$ days"
+     "ta": "21/2 நாட்கள்",
+     "en": "21/2 days"
     },
     "B": {
-     "ta": "$3\\frac{1}{2}$ நாட்கள்",
-     "en": "$3\\frac{1}{2}$ days"
+     "ta": "31/2 நாட்கள்",
+     "en": "31/2 days"
     },
     "C": {
-     "ta": "$4\\frac{1}{2}$ நாட்கள்",
-     "en": "$4\\frac{1}{2}$ days"
+     "ta": "41/2 நாட்கள்",
+     "en": "41/2 days"
     },
     "D": {
-     "ta": "$5\\frac{1}{2}$ நாட்கள்",
-     "en": "$5\\frac{1}{2}$ days"
+     "ta": "51/2 நாட்கள்",
+     "en": "51/2 days"
     }
    },
    "answer": "B",
@@ -7660,7 +7660,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "முழு வேலையை முடிக்க ஆகும் நாட்கள் = $1 \\div \\frac{2}{7} = \\frac{7}{2} = 3\\frac{1}{2}$ நாட்கள்.",
+    "ta": "முழு வேலையை முடிக்க ஆகும் நாட்கள் = 1 ÷ 2/7 = 7/2 = 31/2 நாட்கள்.",
     "en": ""
    }
   },
@@ -7697,8 +7697,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "தனிவட்டி $SI = \\frac{P \\times N \\times R}{100} = \\frac{20000 \\times 5 \\times 4.5}{100} = 4500$. மொத்தத் தொகை = $20000 + 4500 = 24500$.",
-    "en": "Simple Interest = $\\frac{20000 \\times 5 \\times 4.5}{100} = 4500$. Total Amount = $20000 + 4500 = 24500$."
+    "ta": "தனிவட்டி SI = P × N × R/100 = 20000 × 5 × 4.5/100 = 4500. மொத்தத் தொகை = 20000 + 4500 = 24500.",
+    "en": "Simple Interest = 20000 × 5 × 4.5/100 = 4500. Total Amount = 20000 + 4500 = 24500."
    }
   },
   {
@@ -7734,8 +7734,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "வட்டி வித்தியாசத்திற்கான சூத்திரம் $\\frac{P \\times N \\times \\Delta R}{100} = 13.50 \\Rightarrow \\frac{1500 \\times 3 \\times \\Delta R}{100} = 13.50 \\Rightarrow \\Delta R = \\frac{13.50}{45} = 0.3\\%$.",
-    "en": "$\\Delta SI = \\frac{P \\times N \\times \\Delta R}{100} \\Rightarrow 13.50 = \\frac{1500 \\times 3 \\times \\Delta R}{100} \\Rightarrow \\Delta R = 0.3\\%$."
+    "ta": "வட்டி வித்தியாசத்திற்கான சூத்திரம் P × N × Delta R/100 = 13.50 Rightarrow 1500 × 3 × Delta R/100 = 13.50 Rightarrow Delta R = 13.50/45 = 0.3%.",
+    "en": "Delta SI = P × N × Delta R/100 Rightarrow 13.50 = 1500 × 3 × Delta R/100 Rightarrow Delta R = 0.3%."
    }
   },
   {
@@ -8467,8 +8467,8 @@
   },
   {
    "qNo": 199,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural-ornaments-of-a-nation",
    "format": "STATEMENT",
    "stem": {
@@ -8526,8 +8526,8 @@
   },
   {
    "qNo": 200,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "ONE_LINER",
    "stem": {

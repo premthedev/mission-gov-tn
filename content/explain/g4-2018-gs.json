@@ -1,0 +1,643 @@
+{
+ "name": "G4-2018-GS",
+ "items": {
+  "pyq-G4-2018-GS-q116": {
+   "hint": {
+    "ta": "எந்தவொரு பூஜ்ஜியமற்ற எண்ணின் அடுக்கு பூஜ்ஜியம் எனில் அதன் மதிப்பு என்ன என்பதைப் பாருங்கள்.",
+    "en": "Check the value of any non-zero number raised to the power of zero."
+   },
+   "explain": {
+    "ta": "கணித விதிப்படி, எந்தவொரு பூஜ்ஜியமற்ற எண்ணின் அடுக்கு பூஜ்ஜியம் (x⁰ = 1) ஆக இருந்தால், அதன் மதிப்பு எப்போதும் 1 ஆகும். எனவே e⁰-ன் மதிப்பு 1 ஆகும்.",
+    "en": "According to mathematical rules, any non-zero number raised to the power of zero is equal to 1."
+   },
+   "why": {
+    "A": {
+     "ta": "மதிப்பு e என்பது அடுக்குக்குறி மாறியின் அடிப்படை மதிப்பைக் குறிக்குமே தவிர அதன் பூஜ்ஜிய அடுக்கு அல்ல.",
+     "en": "The value e represents the base of the exponential constant, not the result of the zero power."
+    },
+    "C": {
+     "ta": "பூஜ்ஜிய அடுக்கு விதிப்படி எந்த எண்ணும் பூஜ்ஜியமாகாது, மதிப்பு 1 ஆகும்.",
+     "en": "By the zero exponent rule, the result is never zero but 1."
+    },
+    "D": {
+     "ta": "முடிவிலி என்பது மிகப் பெரிய வரையறுக்கப்படாத மதிப்பைக் குறிக்கும்.",
+     "en": "Infinity represents an indefinitely large value."
+    }
+   },
+   "rule": {
+    "ta": "எந்தவொரு பூஜ்ஜியமற்ற எண்ணின் பூஜ்ஜிய அடுக்கு 1 ஆகும்.",
+    "en": "Any non-zero number to the power of zero is 1."
+   },
+   "eg": {
+    "ta": "5⁰ = 1 மற்றும் 100⁰ = 1",
+    "en": "5⁰ = 1 and 100⁰ = 1"
+   },
+   "tip": {
+    "ta": "அடுக்கு பூஜ்ஜியம் கண்டால் உடனே விடை 1 என எழுதவும்.",
+    "en": "Whenever the exponent is zero, the answer is immediately 1."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q117": {
+   "hint": {
+    "ta": "ஒரு மாறியைக் கொண்ட ஒருபடிச் சமன்பாட்டிற்கு எத்தனை மதிப்புகள் சாத்தியம் என்பதைப் பாருங்கள்.",
+    "en": "Check how many values are possible for a linear equation in one variable."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இதன் விடை 'தீர்வுகள் இல்லை' எனக் கொடுக்கப்பட்டுள்ளது. பொதுவாக ஒரு மாறியைக் கொண்ட ஒருபடிச் சமன்பாடு ஒரே ஒரு மதிப்பை மட்டுமே கொண்டிருக்கும்.",
+    "en": "According to the TNPSC answer key, the answer is no solution, though a standard linear equation has a unique solution."
+   },
+   "why": {
+    "A": {
+     "ta": "மூன்று தீர்வுகள் என்பது முப்படிச் சமன்பாட்டிற்கு உரியது.",
+     "en": "Three solutions apply to cubic equations."
+    },
+    "B": {
+     "ta": "ஒரு ஒருபடிச் சமன்பாட்டிற்கு உண்மையில் ஒரு தீர்வு மட்டுமே உண்டு, ஆனால் அதிகாரப்பூர்வ விடை மாற்றாக உள்ளது.",
+     "en": "A linear equation actually has one unique solution."
+    },
+    "C": {
+     "ta": "இரண்டு தீர்வுகள் என்பது இருபடிச் சமன்பாட்டிற்கு உரியது.",
+     "en": "Two solutions apply to quadratic equations."
+    }
+   },
+   "rule": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பைக் கவனத்தில் கொண்டு தேர்வில் பதிலளிக்கவும்.",
+    "en": "Note the official answer key for this specific question in exams."
+   },
+   "eg": {
+    "ta": "ax + b = 0 என்ற சமன்பாட்டிற்கு ஒரே ஒரு தீர்வு உண்டு.",
+    "en": "The equation ax + b = 0 has a unique solution."
+   },
+   "tip": {
+    "ta": "வினாத்தாளில் உள்ள அதிகாரப்பூர்வ விடையை அடிப்படையாகக் கொள்ளவும்.",
+    "en": "Rely on the official exam answer for this specific repeated question."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q122": {
+   "hint": {
+    "ta": "கூட்டுத் தொடர் வரிசையில் உள்ள உறுப்புகளை a மற்றும் பொது வித்தியாசம் d கொண்டு பிரதியிட்டுப் பாருங்கள்.",
+    "en": "Substitute the terms using the first term 'a' and common difference 'd' in an AP."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 3 எனக் கொடுக்கப்பட்டுள்ளது. உறுப்புகளை a மற்றும் d வடிவில் மாற்றிச் சுருக்கி இந்த மதிப்பைப் பெறலாம்.",
+    "en": "According to the official answer key, the value is 3."
+   },
+   "why": {
+    "A": {
+     "ta": "1 என்பது இச்சமன்பாட்டின் கணக்கீட்டு விடை அல்ல.",
+     "en": "1 is not the calculated value for this expression."
+    },
+    "B": {
+     "ta": "2 என்பது சரியான கணக்கீட்டு விடை அல்ல.",
+     "en": "2 is not the correct evaluated answer."
+    },
+    "D": {
+     "ta": "பூஜ்ஜியம் என்பது குணகங்களின் கூட்டுத்தொகை சரியாக அமையும் சாதாரணக் கணக்குகளுக்கு வரும், ஆனால் இங்கு அதிகாரப்பூர்வ விடை வேறு.",
+     "en": "Zero is typically expected for symmetric binomial coefficients, but the official key specifies 3."
+    }
+   },
+   "rule": {
+    "ta": "கூட்டுத் தொடர் வரிசை கணக்குகளில் உறுப்புகளை மாற்றிப் பிரதியிட வேண்டும்.",
+    "en": "Substitute terms in terms of first term and common difference for AP problems."
+   },
+   "eg": {
+    "ta": "a, a+d, a+2d என்பன கூட்டுத் தொடர் ஆகும்.",
+    "en": "a, a+d, a+2d form an arithmetic progression."
+   },
+   "tip": {
+    "ta": "இது போன்ற இயற்கணிதத் தொடர் வினாக்களுக்கு முந்தைய ஆண்டு விடையை நினைவில் கொள்ளவும்.",
+    "en": "Remember previous year answers for such algebraic sequence questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q123": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட எண்களுக்கு மீ.பொ.வ மற்றும் மீ.பொ.ம காணும் முறையைப் பயன்படுத்துங்கள்.",
+    "en": "Apply standard factorization or division methods to find G.C.D. and L.C.M."
+   },
+   "explain": {
+    "ta": "90, 150, 225 ஆகிய எண்களைப் பகாக் காரணிப்படுத்தும்போது, மீப்பெரு பொது வகுத்தி 15 என்றும், மீச்சிறு பொது மடங்கு 450 என்றும் கிடைக்கிறது.",
+    "en": "Factoring 90, 150, and 225 yields 15 as G.C.D. and 450 as L.C.M."
+   },
+   "why": {},
+   "rule": {
+    "ta": "கொடுக்கப்பட்ட எண்களின் மீ.பொ.வ அவற்றின் காரணிகளிலும், மீ.பொ.ம மடங்குகளிலும் அடங்கும்.",
+    "en": "G.C.D divides each given number, while L.C.M is divisible by each given number."
+   },
+   "eg": {
+    "ta": "12 மற்றும் 18-ன் மீ.பொ.வ 6, மீ.பொ.ம 36 ஆகும்.",
+    "en": "The G.C.D and L.C.M of 12 and 18 are 6 and 36 respectively."
+   },
+   "tip": {
+    "ta": "மீ.பொ.வ எப்போதும் கொடுக்கப்பட்ட எண்களை விடச் சிறியதாகவோ அல்லது சமமாகவோ இருக்கும்.",
+    "en": "G.C.D is always less than or equal to the smallest of the given numbers."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q124": {
+   "hint": {
+    "ta": "இயற்கணித முற்றொருமை சூத்திரமான (a - b)³ இன் விரிவாக்கத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Use the algebraic identity for (a - b)³."
+   },
+   "explain": {
+    "ta": "சூத்திரம் (y - 1/y)³ = y³ - 1/y³ - 3(y - 1/y) ஆகும். மதிப்புகளைப் பிரதியிட்டால் 6³ = y³ - 1/y³ - 18 என வந்து, தீர்க்கும்போது 234 கிடைக்கும்.",
+    "en": "Applying the formula for (y - 1/y)³ with 6 gives 216 = value - 18, leading to 234."
+   },
+   "why": {},
+   "rule": {
+    "ta": "x - 1/x = a எனில் x³ - 1/x³ = a³ + 3a ஆகும்.",
+    "en": "If x - 1/x = a, then x³ - 1/x³ = a³ + 3a."
+   },
+   "eg": {
+    "ta": "x - 1/x = 3 எனில் x³ - 1/x³ இன் மதிப்பு 3³ + 3(3) = 36 ஆகும்.",
+    "en": "If x - 1/x = 3, then x³ - 1/x³ is 36."
+   },
+   "tip": {
+    "ta": "கழித்தல் குறி வந்தால் இறுதியில் 3a-வைக் கூட்ட வேண்டும்.",
+    "en": "For minus signs in the identity, add 3a at the end."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q125": {
+   "hint": {
+    "ta": "இணைகரம் மற்றும் செவ்வகத்தின் பண்புகளில் மூலைவிட்டங்களின் தன்மையை ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the properties of diagonals in a parallelogram versus a rectangle."
+   },
+   "explain": {
+    "ta": "இணைகரத்தில் எதிர்பّ பக்கங்களும் எதிரெதிக் கோணங்களும் சமம். ஆனால் மூலைவிட்டங்கள் சமமாக இருக்க வேண்டிய அவசியமில்லை; அவை செவ்வகத்தில் மட்டுமே சமம்.",
+    "en": "In a parallelogram opposite sides and angles are equal, but diagonals are not necessarily equal (they are equal in rectangles)."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இணைகரத்தில் மூலைவிட்டங்கள் சமமாக இருக்காது, ஆனால் ஒன்றையொன்று இருசமக்கூட்டிடும்.",
+    "en": "Parallelogram diagonals bisect each other but are not equal."
+   },
+   "eg": {
+    "ta": "செவ்வகத்தில் மூலைவிட்டங்கள் சம நீளமுடையவை.",
+    "en": "Diagonals are equal in length only in rectangles and squares."
+   },
+   "tip": {
+    "ta": "மூலைவிட்டங்கள் சமம் என்பது செவ்வகம், சதுரம் ஆகியவற்றுக்கே பொருந்தும்.",
+    "en": "Equal diagonals belong to rectangles and squares, not all parallelograms."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q126": {
+   "hint": {
+    "ta": "தலைக்கீழி என்பது எந்த எண்ணுடன் பெருக்கினால் 1 தருமோ அந்த எண் என்பதைச் சிந்தியுங்கள்.",
+    "en": "Consider what number multiplied by 0 would give 1."
+   },
+   "explain": {
+    "ta": "பூச்சியத்திற்குத் தலைக்கீழி கிடையாது, ஏனெனில் 1/0 என்பது கணிதத்தில் வரையறுக்கப்படவில்லை.",
+    "en": "Zero has no reciprocal because division by zero is undefined."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பூச்சியத்திற்குத் தலைக்கீழி கிடையாது.",
+    "en": "Zero has no multiplicative inverse."
+   },
+   "eg": {
+    "ta": "5 இன் தலைக்கீழி 1/5 ஆகும்.",
+    "en": "The reciprocal of 5 is 1/5."
+   },
+   "tip": {
+    "ta": "தலைக்கீழி கேள்விகளில் பூச்சியத்திற்குக் கிடையாது என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that 0 is the only real number without a reciprocal."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q127": {
+   "hint": {
+    "ta": "மீ.பொ.வ மற்றும் சார்பகா எண்களின் வரையறையைச் சோதித்துப் பாருங்கள்.",
+    "en": "Check the definitions of G.C.D and coprime numbers."
+   },
+   "explain": {
+    "ta": "இரு எண்களின் மீப்பெரு பொது வகுத்தி 1 எனில் அவை சார்பகா எண்கள் எனப்படும், இரண்டும் கட்டாயம் பகா எண்களாக இருக்க வேண்டியதில்லை (எ.கா: 8 மற்றும் 9).",
+    "en": "If G.C.D is 1, numbers are coprime, not necessarily prime numbers."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மீ.பொ.வ 1 எனில் அவை சார்பகா எண்கள் (Coprime / Relatively Prime).",
+    "en": "Numbers with G.C.D. 1 are coprime."
+   },
+   "eg": {
+    "ta": "8 மற்றும் 9 பகா எண்கள் அல்ல, ஆனால் அவற்றின் மீ.பொ.வ 1 என்பதால் அவை சார்பகா எண்கள்.",
+    "en": "8 and 9 are not prime, but they are coprime as their G.C.D is 1."
+   },
+   "tip": {
+    "ta": "பகா எண்களும் சார்பகா எண்களும் வெவ்வேறானவை என்பதைத் தெளிவாகப் புரிந்து கொள்ளுங்கள்.",
+    "en": "Do not confuse prime numbers with coprime numbers in statements."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q165": {
+   "hint": {
+    "ta": "பெருக்குத் தொடரில் நான்கு உறுப்புகளை a/r³, a/r, ar, ar³ என எடுத்துப் பெருக்குங்கள்.",
+    "en": "Assume four terms in G.P. as a/r³, a/r, ar, ar³ and find their product."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 15 எனக் கொள்ளப்படுகிறது.",
+    "en": "According to the official TNPSC answer key, the answer is 15."
+   },
+   "why": {},
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் அதிகாரப்பூர்வ விடைக் குறிப்பே இறுதியானது.",
+    "en": "Follow the official answer key for standard evaluation."
+   },
+   "eg": {
+    "ta": "வினா தாளில் உள்ள அலுவல்முறை விடைகளின்படி பயிற்சி செய்க.",
+    "en": "Practice according to official keys."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடையைக் கவனமாகப் பின்பற்றவும்.",
+    "en": "Mark the official answer key."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q166": {
+   "hint": {
+    "ta": "இலாப நட்டக் கணக்குகளில் எந்த விலையின் மீது சதவீதம் கணக்கிடப்படுகிறது என்பதைக் கவனியுங்கள்.",
+    "en": "Check carefully which price forms the base for calculating profit or loss percentage according to this specific question."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இலாப அல்லது நட்ட சதவீதம் விற்பனை விலை மீது கணக்கிடப்படுவதாகக் கொள்ளப்பட்டுள்ளது. எனினும் பொதுவான கணித விதிகளின்படி இது அடக்க விலையின் அடிப்படையில்தான் கணக்கிடப்படும்.",
+    "en": "According to the official TNPSC key, gain or loss percent is calculated on the selling price in this question."
+   },
+   "why": {
+    "A": {
+     "ta": "இது பொதுவான கணித விதிகளின்படி இலாப நட்ட சதவீதம் காணும் அடிப்படை விலையாகும்.",
+     "en": "This is normally the standard base price for profit and loss calculations in mathematics."
+    },
+    "C": {
+     "ta": "இது ஈட்டப்படும் இலாபத் தொகையைக் குறிக்குமே தவிர அடிப்படையாக வராது.",
+     "en": "This represents the profit amount itself, not the base for percentage calculation."
+    },
+    "D": {
+     "ta": "இது ஏற்படும் நட்டத் தொகையைக் குறிக்குமே தவிர அடிப்படையாக வராது.",
+     "en": "This represents the loss amount itself, not the base for percentage calculation."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது.",
+    "en": "The official answer key is final in TNPSC examinations."
+   },
+   "eg": {
+    "ta": "சில தனித்துவமான கேள்விகளில் விற்பனை விலை அடிப்படையாகக் கொள்ளப்படலாம்.",
+    "en": "In some unique questions, selling price may be considered as the base."
+   },
+   "tip": {
+    "ta": "தேர்வுத்தாளில் அதிகாரப்பூர்வ விடையையே எப்போதும் நினைவில் கொள்க.",
+    "en": "Always remember the official exam key for this specific question."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q168": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட பெருக்குத் தொடர் வரிசையின் ஒவ்வொரு உறுப்பையும் ஒரு குறிப்பிட்ட எண்ணால் பெருக்கும்போது என்ன நிகழும் என்பதைப் பாருங்கள்.",
+    "en": "Observe what happens to a G.P. when each of its terms is multiplied by a constant number."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட பெருக்குத் தொடர் வரிசையின் ஒவ்வொரு உறுப்பும் 11ஆல் பெருக்கப்படுவதால், புதிய தொடர் வரிசையும் அதே விகிதத்தைப் பெற்று பெருக்குத் தொடர் வரிசையாக அமைகிறது.",
+    "en": "Since each term of the given G.P. is multiplied by 11, the new sequence also forms a geometric progression with the same common ratio property."
+   },
+   "why": {
+    "A": {
+     "ta": "இது கூட்டுத் தொடர் வரிசைக்规则 அல்ல.",
+     "en": "This does not form an arithmetic progression."
+    },
+    "C": {
+     "ta": "இது அனைத்து உறுப்புகளும் ஒரே மதிப்பைக் கொண்ட தொடர் அல்ல.",
+     "en": "This is not a constant sequence where all terms are equal."
+    },
+    "D": {
+     "ta": "புதிய தொடர் ஒரு பெருக்குத் தொடர் வரிசையாக மாறுவதால் இது தவறானது.",
+     "en": "This is incorrect because the resulting sequence is indeed a G.P."
+    }
+   },
+   "rule": {
+    "ta": "ஒரு பெருக்குத் தொடர் வரிசையின் ஒவ்வொரு உறுப்பையும் பூச்சியமற்ற மாறிலியால் பெருக்கக் கிடைக்கும் புதிய தொடரும் பெருக்குத் தொடர் வரிசையாகும்.",
+    "en": "Multiplying every term of a G.P. by a non-zero constant results in another G.P."
+   },
+   "eg": {
+    "ta": "2, 4, 8 என்ற பெருக்குத் தொடரை 3 ஆல் பெருக்கினால் 6, 12, 24 கிடைக்கும்; இதுவும் பெருக்குத் தொடரே.",
+    "en": "Multiplying 2, 4, 8 by 3 gives 6, 12, 24, which is also a G.P."
+   },
+   "tip": {
+    "ta": "பெருக்குத் தொடரின் உறுப்புகளை ஒரு எண்ணால் பெருக்கினாலும் தொடரின் தன்மை மாறுவதில்லை.",
+    "en": "The nature of a G.P. remains unchanged when multiplied by a constant."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q169": {
+   "hint": {
+    "ta": "அனைத்து எண்களையும் இரண்டாவது எண்ணின் (x) அடிப்படையில் மாற்றிச் சமன்பாடு தீர்க்கவும்.",
+    "en": "Express all the numbers in terms of the second number and solve the equation."
+   },
+   "explain": {
+    "ta": "இரண்டாவது எண் x என்க. முதல் எண் 2x மற்றும் மூன்றாவது எண் 2x/3 ஆகும். கூடுதல் 264 எனில், 2x + x + 2x/3 = 264 என்பதில் தீர்த்தால் இரண்டாவது எண் 54 என கிடைக்கும்.",
+    "en": "Let the second number be x. First is 2x, third is 2x/3. Their sum 264 gives x = 54."
+   },
+   "why": {
+    "A": {
+     "ta": "மதிப்புகளைக் கூட்டினால் கூடுதல் 264 வராது.",
+     "en": "The sum of numbers will not equal 264 with this value."
+    },
+    "B": {
+     "ta": "மதிப்புகளைப் பிரதியிட்டால் கொடுக்கப்பட்ட நிபந்தனைகள் பொருந்தாது.",
+     "en": "Given conditions won't satisfy if this is taken as the second number."
+    },
+    "D": {
+     "ta": "இது சரியான கணக்கீட்டு விடையைத் தராது.",
+     "en": "This does not yield the correct calculated result."
+    }
+   },
+   "rule": {
+    "ta": "கொடுக்கப்பட்ட வாக்கியங்களை எளிய இயற்கணிதச் சமன்பாடுகளாக மாற்றித் தீர்க்க வேண்டும்.",
+    "en": "Translate given word problems into simple algebraic equations and solve."
+   },
+   "eg": {
+    "ta": "x + 2x + 3x = 60 எனில் x = 10 ஆகும்.",
+    "en": "If x + 2x + 3x = 60, then x = 10."
+   },
+   "tip": {
+    "ta": "பின்னங்களைத் தவிர்க்க எண்களை முழு எண்களாக மாற்றிச் சமன்பாடு அமைக்கவும்.",
+    "en": "Form equations by eliminating fractions to simplify calculation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q170": {
+   "hint": {
+    "ta": "கேட்க, கொடுக்கப்பட்ட தொடரிலிருந்து பொதுவான காரணியை வெளியே எடுக்க என்ன வருகிறது எனப் பாருங்கள்.",
+    "en": "Factor out the common term from the given series to match with the known value."
+   },
+   "explain": {
+    "ta": "2² + 4² + 6² + ... + 20² தொடரை 2²(1² + 2² + 3² + ... + 10²) என எழுதலாம். இதன் மதிப்பு 4 × 385 = 1540 ஆகும். ஆனால் TNPSC விடைக்குறிப்பின்படி 770 எனக் கொள்ளப்பட்டுள்ளது.",
+    "en": "Factoring out 2² gives 4 times 385 which is 1540, but according to the official key, 770 is given."
+   },
+   "why": {
+    "B": {
+     "ta": "இது சரியான கணிதக் கணக்கீட்டு விடை அல்ல.",
+     "en": "This is not the correct calculated value."
+    },
+    "C": {
+     "ta": "இது முறையான காரணிப்படுத்தலின்படி வரும் சரியான கணித விதியாகும்.",
+     "en": "This is the correct mathematical value obtained by proper factoring."
+    },
+    "D": {
+     "ta": "இது வர்க்கங்களின் பெருக்கலைக் குறிக்கும் தவறான வடிவம்.",
+     "en": "This is an incorrect algebraic form."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC விடைக்குறிப்பே இறுதியானது.",
+    "en": "TNPSC official key is final."
+   },
+   "eg": {
+    "ta": "இயற்கணித முற்றொருமைகளைப் பயன்படுத்தி மதிப்புகளைக் கண்டறிதல்.",
+    "en": "Finding values using algebraic identities."
+   },
+   "tip": {
+    "ta": "தேர்வு முனையத்தில் அதிகாரப்பூர்வ விடையை நினைவில் கொள்ளவும்.",
+    "en": "Remember the official key for the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q171": {
+   "hint": {
+    "ta": "விழுக்காடுகளைப் பின்னங்களாக மாற்றி வகுத்து எளிய வடிவில் சுருக்கவும்.",
+    "en": "Convert percentages into fractions and divide to simplify."
+   },
+   "explain": {
+    "ta": "y இன் x சதவீதம் என்பது (x/100) × y ஆகும். x இன் y சதவீதம் என்பது (y/100) × x ஆகும். இரண்டையும் வகுத்தால் மதிப்பு 1 கிடைக்கும்; ஆனால் விகிதப் பின்னமாகக் கேட்கும்போது 1/xy என அதிகாரப்பூர்வமாகத் தரப்பட்டுள்ளது.",
+    "en": "Ratio of x% of y to y% of x equals 1 mathematically, but official key provides 1/xy."
+   },
+   "why": {
+    "B": {
+     "ta": "இது மதிப்புகளின் பெருக்கற்பலனைக் குறிக்கும்.",
+     "en": "This represents the product of values."
+    },
+    "C": {
+     "ta": "இது எண்களின் எளிய விகிதமாகும்.",
+     "en": "This is a simple ratio of numbers."
+    },
+    "D": {
+     "ta": "இது கணிதப்படி சரியான நேரடி விகிதமாகும்.",
+     "en": "This is the mathematically correct direct ratio."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC விடைக்குறிப்பு விதிப்படி चलना.",
+    "en": "Follow the official TNPSC key."
+   },
+   "eg": {
+    "ta": "சதவீதக் கணக்குகளை நேரடியாகப் பிரதியிட்டுச் சுருக்கலாம்.",
+    "en": "Percentage problems can be solved by direct substitution."
+   },
+   "tip": {
+    "ta": "தேர்வு வாரியத்தின் விடையை அப்படியே நினைவில் கொள்ளவும்.",
+    "en": "Memorize the board's answer directly."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q172": {
+   "hint": {
+    "ta": "தற்போதைய வயதை x எனக் கொண்டு, 12 ஆண்டுகளுக்கு முந்தைய வயதைக் கணக்கிட்டுச் சமன்பாடு அமைக்கவும்.",
+    "en": "Set up an equation using present ages and ages 12 years ago."
+   },
+   "explain": {
+    "ta": "தந்தையின் வயது F என்க. அருனின் வயது F/2. 12 ஆண்டுகளுக்கு முன்பு F - 12 = 3(F/2 - 12) எனில் F = 48 ஆகும். தற்போது தந்தையின் வயது 48 ஆண்டுகள் ஆகும். ஆனால் விடைக்குறிப்பில் 50 ஆண்டுகள் தரப்பட்டுள்ளது.",
+    "en": "Solving the age equation gives father's age as 48, though official key lists 50 years."
+   },
+   "why": {
+    "A": {
+     "ta": "இது அருனின் வயதாக இருக்கலாம்.",
+     "en": "This might be Arun's age."
+    },
+    "B": {
+     "ta": "இது நிபந்தனைகளை நிறைவு செய்யாது.",
+     "en": "This does not satisfy the given conditions."
+    },
+    "C": {
+     "ta": "இதுவே சரியான கணிதச் சமன்பாட்டுத் தீர்வாகும்.",
+     "en": "This is the correct mathematical solution from the equation."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வில் அதிகாரப்பூர்வ விடைக் குறிப்பே இறுதியானது.",
+    "en": "Official key is final in TNPSC exams."
+   },
+   "eg": {
+    "ta": "வயது கணக்குகளில் தற்போதைய மற்றும் கடந்த கால வயதுகளைச் சமன்படுத்த வேண்டும்.",
+    "en": "Equate present and past ages in age problems."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடையைக் கவனத்தில் கொள்ளவும்.",
+    "en": "Note the official answer."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q173": {
+   "hint": {
+    "ta": "கூட்டுத் தொடர்வரிசையின் நிபந்தனையை அடுக்கு குறி விதிகளுடன் தொடர்புபடுத்திப் பாருங்கள்.",
+    "en": "Relate the given A.P. condition with exponent rules."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, கூட்டுத் தொடரில் உள்ள எண்களை அடுக்காக மாற்றும்போது வரும் தொடர்வரிசை பற்றி கேட்கப்பட்டுள்ளது. இங்கு அதிகாரப்பூர்வ விடை ஏதும் இல்லை என்பதாகும்.",
+    "en": "According to the official answer key, the question is about the sequence formed when A.P. terms are placed as exponents, and the official answer is None of these."
+   },
+   "why": {
+    "A": {
+     "ta": "இது கூட்டுத் தொடர்வரிசை அல்ல, ஏனெனில் அடுக்குகளின் வித்தியாசம் சீராக இருக்காது.",
+     "en": "This is not an A.P. because the difference of terms is not constant."
+    },
+    "B": {
+     "ta": "உண்மையில் இது பெருக்குத் தொடர்வரிசை (G.P.) ஆகும், ஆனால் தேர்வாணைய விடை வேறு.",
+     "en": "Actually this is a G.P., but the official answer is different."
+    },
+    "C": {
+     "ta": "இரண்டு முறைகளுக்கும் பொருந்தாது.",
+     "en": "It does not fit both series."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் சில கேள்விகளுக்கு அதிகாரப்பூர்வ விடைக் குறிப்பே இறுதியானது.",
+    "en": "Official answer keys are final for TNPSC exams."
+   },
+   "eg": {
+    "ta": "a, b, c கூட்டுத் தொடரில் இருந்தால் 3^a, 3^b, 3^c என்பது பெருக்குத் தொடர்.",
+    "en": "If a, b, c are in A.P., then 3^a, 3^b, 3^c form a G.P."
+   },
+   "tip": {
+    "ta": "தவறான அதிகாரப்பூர்வ விடையாகத் தோன்றினாலும் தேர்வில் கொடுக்கப்பட்டதையே குறிக்க வேண்டும்.",
+    "en": "Mark the given official answer even if it seems contradictory."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q174": {
+   "hint": {
+    "ta": "முடிவிலி வரை பெருக்குத் தொடரின் கூடுதல் சூத்திரத்தைக் கவனியுங்கள்.",
+    "en": "Look at the formula for the sum of an infinite geometric series."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி a(1 - rⁿ)/(1 - r) என்பது சரியான விடையாகக் குறிக்கப்பட்டுள்ளது. இது முடிவுள்ள பெருக்குத் தொடரின் கூடுதலுக்கான சூத்திரம் ஆகும்.",
+    "en": "According to the official answer key, a(1 - rⁿ)/(1 - r) is marked as correct, which is actually the formula for the sum of a finite geometric series."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான குறிகளைக் கொண்ட சூத்திரம் ஆகும்.",
+     "en": "This formula contains incorrect signs."
+    },
+    "C": {
+     "ta": "இதுவே முடிவிலி வரை பெருக்குத் தொடரின் உண்மையான கூடுதலாகும்.",
+     "en": "This is actually the correct formula for the sum to infinity."
+    },
+    "D": {
+     "ta": "இது கூட்டுத் தொடரின் கூடுதலுக்கான வடிவம்.",
+     "en": "This is the form for arithmetic series sum."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு வினாத்தாளில் உள்ள அதிகாரப்பூர்வ விடைக் குறிப்பே இறுதியானது.",
+    "en": "The official answer key in the exam paper is final."
+   },
+   "eg": {
+    "ta": "முடிவிலி பெருக்குத் தொடரின் கூடுதல் S_inf = a/(1 - r) ஆகும்.",
+    "en": "Sum of infinite G.P. is S_inf = a/(1 - r)."
+   },
+   "tip": {
+    "ta": "கேள்வியில் முடிவிலி என்று இருந்தாலும் அதிகாரப்பூர்வ விடையையே பின்பற்ற வேண்டும்.",
+    "en": "Follow the official answer despite the wording in the question."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q176": {
+   "hint": {
+    "ta": "வட்டத்தின் விட்டம் தாங்கும் கோணம் என்ன என்பதைச் சிந்தித்துப் பாருங்கள்.",
+    "en": "Think about the angle subtended by the diameter of a circle."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி அரைவட்டத்தில் அமையும் கோணம் விரிகோணம் எனக் குறிப்பிடப்பட்டுள்ளது. ஆனால் ஜியோமிதி விதிகளின்படி இது செங்கோணம் ஆகும்.",
+    "en": "According to the official answer key, the angle in a semi-circle is obtuse, though geometric rules state it is a right angle."
+   },
+   "why": {
+    "A": {
+     "ta": "குறுங்கோணம் என்பது 90 டிகிரியை விடக் குறைவான கோணமாகும்.",
+     "en": "An acute angle is less than 90 degrees."
+    },
+    "C": {
+     "ta": "நேர்கோணம் என்பது 180 டிகிரியாகும்.",
+     "en": "A straight angle is 180 degrees."
+    },
+    "D": {
+     "ta": "இதுவே கணித ரீதியான சரியான உண்மையான விடையாகும்.",
+     "en": "This is the mathematically correct answer."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு அறையில் TNPSC இன் அதிகாரப்பூர்வ விடைகளுக்கே முன்னுரிமை உண்டு.",
+    "en": "TNPSC official answers take precedence in exams."
+   },
+   "eg": {
+    "ta": "அரைவட்டத்தின் சுற்றளவில் எந்தப் புள்ளியிலும் உண்டாகும் கோணம் 90 டிகிரி.",
+    "en": "The angle subtended at any point on the semicircle is 90 degrees."
+   },
+   "tip": {
+    "ta": "விதிவிலக்கான அதிகாரப்பூர்வ விடைகளைத் மனப்பாடம் செய்து கொள்வது நல்லது.",
+    "en": "It is better to memorize exceptional official answers."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q177": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட விகிதங்களைப் பின்னங்களாக மாற்றி தசம எண்களில் மதிப்பிடுங்கள்.",
+    "en": "Convert given ratios into fractions and find decimal values."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 4:7 என்பது பெரிய விகிதமாகக் குறிக்கப்பட்டுள்ளது. தசம மதிப்பாக மாற்றும்போது 2:3 இன் மதிப்பு அதிகமாக வருவதைக் கவனிக்கவும்.",
+    "en": "According to the official answer key, 4:7 is marked as the largest ratio, though decimal conversion shows 2:3 is the largest."
+   },
+   "why": {
+    "A": {
+     "ta": "3:5 இன் தசம மதிப்பு 0.6 ஆகும்.",
+     "en": "The decimal value of 3:5 is 0.6."
+    },
+    "C": {
+     "ta": "5:8 இன் தசம மதிப்பு 0.625 ஆகும்.",
+     "en": "The decimal value of 5:8 is 0.625."
+    },
+    "D": {
+     "ta": "2:3 இன் தசம மதிப்பு 0.666 ஆகும், இதுவே கணிதப்படி மிகப்பெரியது.",
+     "en": "The decimal value of 2:3 is 0.666, which is mathematically the largest."
+    }
+   },
+   "rule": {
+    "ta": "விகிதங்களை ஒப்பிட எண்களை வகுத்து தசம மதிப்புகளைக் காண வேண்டும்.",
+    "en": "To compare ratios, divide and find decimal values."
+   },
+   "eg": {
+    "ta": "2:3 = 0.66, 3:5 = 0.6, 4:7 = 0.57, 5:8 = 0.62.",
+    "en": "Decimal values: 2:3 = 0.66, 3:5 = 0.6, 4:7 = 0.57, 5:8 = 0.62."
+   },
+   "tip": {
+    "ta": "மதிப்பீட்டுத் தேர்வுகளில் அதிகாரப்பூர்வ விடைக்கு ஏற்ப பதிலளிக்கவும்.",
+    "en": "Answer according to the official key in competitive exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "updated": "2026-11-21"
+}

@@ -815,25 +815,25 @@
    "topic": "sequence-and-series",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$0.12, 0.012, 0.0012 ......$ என்ற தொடர் வரிசையில் 7-ஆவது உறுப்பு.",
-    "en": "The $7^{\\text{th}}$ term of the sequence $0.12, 0.012, 0.0012 ......$ is"
+    "ta": "0.12, 0.012, 0.0012 ...... என்ற தொடர் வரிசையில் 7-ஆவது உறுப்பு.",
+    "en": "The 7th term of the sequence 0.12, 0.012, 0.0012 ...... is"
    },
    "options": {
     "A": {
-     "ta": "$1.2 \\times 10^6$",
-     "en": "$1.2 \\times 10^6$"
+     "ta": "1.2 × 10⁶",
+     "en": "1.2 × 10⁶"
     },
     "B": {
-     "ta": "$1.2 \\times 10^{-6}$",
-     "en": "$1.2 \\times 10^{-6}$"
+     "ta": "1.2 × 10⁻⁶",
+     "en": "1.2 × 10⁻⁶"
     },
     "C": {
-     "ta": "$1.2 \\times 10^7$",
-     "en": "$1.2 \\times 10^7$"
+     "ta": "1.2 × 10⁷",
+     "en": "1.2 × 10⁷"
     },
     "D": {
-     "ta": "$1.2 \\times 10^{-7}$",
-     "en": "$1.2 \\times 10^{-7}$"
+     "ta": "1.2 × 10⁻⁷",
+     "en": "1.2 × 10⁻⁷"
     }
    },
    "answer": "A",
@@ -841,7 +841,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "கொடுக்கப்பட்ட தொடர் ஒரு பெருக்குத் தொடர் வரிசை. இதன் பொது விகிதம் $r = 0.1$. 7-ஆவது உறுப்பு $t_7 = ar^{6} = 0.12 \\times (0.1)^6 = 1.2 \\times 10^{-7}$.",
+    "ta": "கொடுக்கப்பட்ட தொடர் ஒரு பெருக்குத் தொடர் வரிசை. இதன் பொது விகிதம் r = 0.1. 7-ஆவது உறுப்பு t_7 = ar⁶ = 0.12 × (0.1)⁶ = 1.2 × 10⁻⁷.",
     "en": ""
    },
    "keyChanged": true
@@ -853,25 +853,25 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "சுருக்குக:\n$\\frac{9}{8} \\div \\frac{3}{5} \\text{ -ఇல் } \\left(\\frac{3}{4} + \\frac{3}{5}\\right)$",
-    "en": "Simplify :\n$\\frac{9}{8} \\div \\frac{3}{5} \\text{ of } \\left(\\frac{3}{4} + \\frac{3}{5}\\right)$"
+    "ta": "சுருக்குக:\n9/8 ÷ 3/5 -ఇல் ≤ft(3/4 + 3/5)",
+    "en": "Simplify :\n9/8 ÷ 3/5 of ≤ft(3/4 + 3/5)"
    },
    "options": {
     "A": {
-     "ta": "$1\\frac{11}{18}$",
-     "en": "$1\\frac{11}{18}$"
+     "ta": "111/18",
+     "en": "111/18"
     },
     "B": {
-     "ta": "$1\\frac{5}{18}$",
-     "en": "$1\\frac{5}{18}$"
+     "ta": "15/18",
+     "en": "15/18"
     },
     "C": {
-     "ta": "$1\\frac{13}{18}$",
-     "en": "$1\\frac{13}{18}$"
+     "ta": "113/18",
+     "en": "113/18"
     },
     "D": {
-     "ta": "$1\\frac{7}{18}$",
-     "en": "$1\\frac{7}{18}$"
+     "ta": "17/18",
+     "en": "17/18"
     }
    },
    "answer": "B",
@@ -891,8 +891,8 @@
    "topic": "simple-interest",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "ஒரு குறிப்பிட்ட அசலானது ஆண்டுக்கு $8\\%$ வட்டி வீதத்தில் மூன்று மடங்காகுவதற்கு பிடிக்கும் காலம்",
-    "en": "A sum of money triples itself at $8\\%$ per annum over a certain time. The time taken is"
+    "ta": "ஒரு குறிப்பிட்ட அசலானது ஆண்டுக்கு 8% வட்டி வீதத்தில் மூன்று மடங்காகுவதற்கு பிடிக்கும் காலம்",
+    "en": "A sum of money triples itself at 8% per annum over a certain time. The time taken is"
    },
    "options": {
     "A": {
@@ -917,7 +917,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "தனிவட்டி சூத்திரம் $SI = \\frac{PNR}{100}$ பயன்படுத்தவும். மூன்று மடங்காதல் என்றால் வட்டி $2P$ ஆகும்.",
+    "ta": "தனிவட்டி சூத்திரம் SI = PNR/100 பயன்படுத்தவும். மூன்று மடங்காதல் என்றால் வட்டி 2P ஆகும்.",
     "en": ""
    },
    "deleted": true
@@ -960,12 +960,12 @@
      "en": "G.C.D. = L.C.M."
     },
     {
-     "ta": "மீப்பெரு.பொ.வ. $\\le$ மீச்சிறு.பொ.ம",
-     "en": "G.C.D. $\\le$ L.C.M."
+     "ta": "மீப்பெரு.பொ.வ. ≤ மீச்சிறு.பொ.ம",
+     "en": "G.C.D. ≤ L.C.M."
     },
     {
-     "ta": "மீச்சிறு.பொ.ம $\\le$ மீப்பெரு.பொ.வ.",
-     "en": "L.C.M. $\\le$ G.C.D."
+     "ta": "மீச்சிறு.பொ.ம ≤ மீப்பெரு.பொ.வ.",
+     "en": "L.C.M. ≤ G.C.D."
     },
     {
      "ta": "மீச்சிறு.பொ.ம > மீப்பெரு.பொ.வ.",
@@ -985,8 +985,8 @@
    "topic": "arithmetic-progression",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$p, q, r, s, t$ என்பன கூட்டுத் தொடர் வரிசையில் (A.P) இருப்பின், $p - 4q + 6r - 4s + t = ?$",
-    "en": "If $p, q, r, s, t$ are in A.P, then the value of $p - 4q + 6r - 4s + t$ is"
+    "ta": "p, q, r, s, t என்பன கூட்டுத் தொடர் வரிசையில் (A.P) இருப்பின், p - 4q + 6r - 4s + t = ?",
+    "en": "If p, q, r, s, t are in A.P, then the value of p - 4q + 6r - 4s + t is"
    },
    "options": {
     "A": {
@@ -1011,7 +1011,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$q = a+d, r = a+2d, s = a+3d, t = a+4d$ எனப் பிரதியிட்டுச் சுருக்கினால் விடை 0 கிடைக்கும்.",
+    "ta": "q = a+d, r = a+2d, s = a+3d, t = a+4d எனப் பிரதியிட்டுச் சுருக்கினால் விடை 0 கிடைக்கும்.",
     "en": ""
    },
    "keyChanged": true
@@ -1060,8 +1060,8 @@
    "topic": "algebra",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$y - \\frac{1}{y} = 6$ எனில் $y^3 - \\frac{1}{y^3}$ இன் மதிப்பைக் காண்க.",
-    "en": "If $y - \\frac{1}{y} = 6$ find the value of $y^3 - \\frac{1}{y^3}$"
+    "ta": "y - 1/y = 6 எனில் y³ - 1/y³ இன் மதிப்பைக் காண்க.",
+    "en": "If y - 1/y = 6 find the value of y³ - 1/y³"
    },
    "options": {
     "A": {
@@ -1086,7 +1086,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$(y - \\frac{1}{y})^3 = y^3 - \\frac{1}{y^3} - 3(y - \\frac{1}{y})$. எனவே $6^3 = y^3 - \\frac{1}{y^3} - 3(6) \\Rightarrow 216 = \\text{value} - 18 \\Rightarrow \\text{value} = 234$.",
+    "ta": "(y - 1/y)³ = y³ - 1/y³ - 3(y - 1/y). எனவே 6³ = y³ - 1/y³ - 3(6) Rightarrow 216 = value - 18 Rightarrow value = 234.",
     "en": ""
    }
   },
@@ -1148,8 +1148,8 @@
      "en": "1"
     },
     "C": {
-     "ta": "$\\infty$",
-     "en": "$\\infty$"
+     "ta": "infty",
+     "en": "infty"
     },
     "D": {
      "ta": "தலைக்கீழி கிடையாது",
@@ -3082,8 +3082,8 @@
    "topic": "series",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$1^2 + 2^2 + 3^2 + ..... + 10^2 = 385$ எனில் $2^2 + 4^2 + 6^2 + .... + 20^2$-ன் மதிப்பு",
-    "en": "If $1^2 + 2^2 + 3^2 + ..... + 10^2 = 385$ then $2^2 + 4^2 + 6^2 + .... + 20^2$ is"
+    "ta": "1² + 2² + 3² + ..... + 10² = 385 எனில் 2² + 4² + 6² + .... + 20²-ன் மதிப்பு",
+    "en": "If 1² + 2² + 3² + ..... + 10² = 385 then 2² + 4² + 6² + .... + 20² is"
    },
    "options": {
     "A": {
@@ -3099,8 +3099,8 @@
      "en": "1540"
     },
     "D": {
-     "ta": "$385 \\times 385$",
-     "en": "$385 \\times 385$"
+     "ta": "385 × 385",
+     "en": "385 × 385"
     }
    },
    "answer": "A",
@@ -3108,8 +3108,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$2^2(1^2 + 2^2 + ... + 10^2) = 4 \\times 385 = 1540$",
-    "en": "$2^2(1^2 + 2^2 + ... + 10^2) = 4 \\times 385 = 1540$"
+    "ta": "2²(1² + 2² + ... + 10²) = 4 × 385 = 1540",
+    "en": "2²(1² + 2² + ... + 10²) = 4 × 385 = 1540"
    },
    "keyChanged": true
   },
@@ -3120,21 +3120,21 @@
    "topic": "percentage",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$y$-ன் $x \\%$-க்கும் $x$-ன் $y \\%$ இடையே, விகித பின்னத்தின் மதிப்பு",
-    "en": "In the ratio $x\\%$ of $y$ to $y\\%$ of $x$, its fraction value is equals to"
+    "ta": "y-ன் x %-க்கும் x-ன் y % இடையே, விகித பின்னத்தின் மதிப்பு",
+    "en": "In the ratio x% of y to y% of x, its fraction value is equals to"
    },
    "options": {
     "A": {
-     "ta": "$\\frac{1}{xy}$",
-     "en": "$\\frac{1}{xy}$"
+     "ta": "1/xy",
+     "en": "1/xy"
     },
     "B": {
-     "ta": "$xy$",
-     "en": "$xy$"
+     "ta": "xy",
+     "en": "xy"
     },
     "C": {
-     "ta": "$\\frac{x}{y}$",
-     "en": "$\\frac{x}{y}$"
+     "ta": "x/y",
+     "en": "x/y"
     },
     "D": {
      "ta": "1",
@@ -3146,8 +3146,8 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$(x/100 \\times y) / (y/100 \\times x) = 1$",
-    "en": "$(x/100 \\times y) / (y/100 \\times x) = 1$"
+    "ta": "(x/100 × y) / (y/100 × x) = 1",
+    "en": "(x/100 × y) / (y/100 × x) = 1"
    },
    "keyChanged": true
   },
@@ -3196,8 +3196,8 @@
    "topic": "sequences",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$a, b, c$ என்பன ஒரு கூட்டுத் தொடர்வரிசையில் உள்ளன எனில் $3^a, 3^b, 3^c$ ஆகியவை ________ என்ற தொடர்வரிசையில் உள்ளது.",
-    "en": "If $a, b, c$ are in A.P., then $3^a, 3^b, 3^c$ are in"
+    "ta": "a, b, c என்பன ஒரு கூட்டுத் தொடர்வரிசையில் உள்ளன எனில் 3^a, 3^b, 3^c ஆகியவை ________ என்ற தொடர்வரிசையில் உள்ளது.",
+    "en": "If a, b, c are in A.P., then 3^a, 3^b, 3^c are in"
    },
    "options": {
     "A": {
@@ -3222,7 +3222,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "$2b = a+c$ எனில் $3^{2b} = 3^{a+c} \\implies (3^b)^2 = 3^a \\cdot 3^c$, எனவே இது G.P.",
+    "ta": "2b = a+c எனில் 3²b = 3a+c implies (3^b)² = 3^a · 3^c, எனவே இது G.P.",
     "en": ""
    },
    "keyChanged": true
@@ -3234,25 +3234,25 @@
    "topic": "geometric-series",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$-1 < r < 1$ எனில் முடிவிலி வரை பெருக்குத் தொடரின் கூடுதல்",
-    "en": "If $-1 < r < 1$, then the sum of infinite number of a geometric series is"
+    "ta": "-1 < r < 1 எனில் முடிவிலி வரை பெருக்குத் தொடரின் கூடுதல்",
+    "en": "If -1 < r < 1, then the sum of infinite number of a geometric series is"
    },
    "options": {
     "A": {
-     "ta": "$\\frac{a(r^n - 1)}{r - 1}$",
-     "en": "$\\frac{a(r^n - 1)}{r - 1}$"
+     "ta": "a(rⁿ - 1)/r - 1",
+     "en": "a(rⁿ - 1)/r - 1"
     },
     "B": {
-     "ta": "$\\frac{a(1 - r^n)}{1 - r}$",
-     "en": "$\\frac{a(1 - r^n)}{1 - r}$"
+     "ta": "a(1 - rⁿ)/1 - r",
+     "en": "a(1 - rⁿ)/1 - r"
     },
     "C": {
-     "ta": "$\\frac{a}{1 - r}$",
-     "en": "$\\frac{a}{1 - r}$"
+     "ta": "a/1 - r",
+     "en": "a/1 - r"
     },
     "D": {
-     "ta": "$na$",
-     "en": "$na$"
+     "ta": "na",
+     "en": "na"
     }
    },
    "answer": "B",
@@ -3260,7 +3260,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "முடிவிலி பெருக்குத் தொடரின் கூடுதல் சூத்திரம் $S_\\infty = \\frac{a}{1-r}$ ஆகும்.",
+    "ta": "முடிவிலி பெருக்குத் தொடரின் கூடுதல் சூத்திரம் S_infty = a/1-r ஆகும்.",
     "en": ""
    },
    "keyChanged": true
@@ -3298,7 +3298,7 @@
    "era": "OVERLAP",
    "ai": true,
    "explain": {
-    "ta": "அரைவட்டத்தில் அமையும் கோணம் எப்போதும் செங்கோணம் ($90^\\circ$) ஆகும்.",
+    "ta": "அரைவட்டத்தில் அமையும் கோணம் எப்போதும் செங்கோணம் (90°) ஆகும்.",
     "en": ""
    },
    "keyChanged": true

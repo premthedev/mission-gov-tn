@@ -35,9 +35,27 @@ export interface Step {
 export interface PlanCtx {
   kuralsLearned: number;
   dueKurals: number;
-  /** Lesson ids not done yet, in study order, up to the current week. */
+  /** Lesson ids not done yet, in study order: this week's backlog first, then next week's (read ahead). */
   nextLessons: string[];
+  /** How many of nextLessons belong to this week or earlier. */
+  backlog?: number;
+  /** Study days left this week, today included. */
+  lessonDaysLeft?: number;
   dueReviews: number;
+}
+
+/**
+ * How many lessons today: enough to finish this week's backlog in the study days left
+ * (weekday 1–2, weekend 2–3), and one or two from next week when there is no backlog.
+ */
+export function lessonCount(ctx: PlanCtx, weekend: boolean): number {
+  const available = ctx.nextLessons.length;
+  if (available === 0) return 0;
+  const backlog = ctx.backlog ?? available;
+  const days = Math.max(1, ctx.lessonDaysLeft ?? 1);
+  const need = Math.ceil(backlog / days);
+  const n = weekend ? Math.min(3, Math.max(2, need)) : Math.min(2, Math.max(1, need));
+  return Math.min(n, available);
 }
 
 export const STEP_ICON: Record<StepKind, string> = {
@@ -68,29 +86,35 @@ export function buildSteps(info: DayInfo, ctx: PlanCtx): Step[] {
   const lessons = [...ctx.nextLessons];
   switch (info.type) {
     case 'STUDY_WEEKDAY': {
-      const l = lessons.shift();
+      const n = lessonCount(ctx, false);
+      const ls = lessons.slice(0, n);
+      if (n === 2) {
+        return [warmup(4), kural(ctx, 7, 5), lesson('lesson-1', ls[0], 18), lesson('lesson-2', ls[1], 18), drill('drill', info, 9), wrap(4)];
+      }
       return [
         warmup(5),
         kural(ctx, 8, 5),
-        ...(l ? [lesson('lesson-1', l, 20)] : []),
-        drill('drill', info, l ? 18 : 38),
+        ...(n === 1 ? [lesson('lesson-1', ls[0], 20)] : []),
+        drill('drill', info, n === 1 ? 18 : 38),
         speed(info),
         wrap(5),
       ];
     }
     case 'STUDY_WEEKEND': {
-      const l1 = lessons.shift();
-      const l2 = lessons.shift();
-      const missing = (l1 ? 0 : 25) + (l2 ? 0 : 25);
+      const n = lessonCount(ctx, true);
+      const ls = lessons.slice(0, n);
+      const shortMock = s('short-mock', 'SHORT_MOCK', 30, { ta: 'சிறு மாதிரித் தேர்வு: 25 வினா, 30 நிமிடம்', en: 'Short mock: 25 Qs in 30 min' }, {
+        units: info.week.units, gens: info.week.gens, count: 25,
+      });
+      if (n === 3) {
+        return [warmup(6), kural(ctx, 10, 8), ...ls.map((l, i) => lesson(`lesson-${i + 1}`, l, 22)), shortMock, speed(info, 3), wrap(5)];
+      }
       return [
         warmup(8),
         kural(ctx, 12, 8),
-        ...(l1 ? [lesson('lesson-1', l1, 25)] : []),
-        ...(l2 ? [lesson('lesson-2', l2, 25)] : []),
-        drill('drill', info, 10 + missing),
-        s('short-mock', 'SHORT_MOCK', 30, { ta: 'சிறு மாதிரித் தேர்வு: 25 வினா, 30 நிமிடம்', en: 'Short mock: 25 Qs in 30 min' }, {
-          units: info.week.units, gens: info.week.gens, count: 25,
-        }),
+        ...ls.map((l, i) => lesson(`lesson-${i + 1}`, l, 25)),
+        drill('drill', info, 10 + (2 - n) * 25),
+        shortMock,
         speed(info),
         wrap(6),
       ];
@@ -150,3 +174,44 @@ export function buildSteps(info: DayInfo, ctx: PlanCtx): Step[] {
 }
 
 export const plannedMinutes = (steps: Step[]) => steps.reduce((t, x) => t + x.minutes, 0);
+
+/** Choices offered when there is more time today. */
+export const EXTRA_CHOICES = [15, 30, 60] as const;
+
+/**
+ * Extra steps for a day with more time (added after today's plan, any number of times).
+ * Each 30-minute block = next lesson (20′) + practice on it (10′); a 15-minute block = one lesson.
+ * When no lessons are left: new Thirukkural cards once, due mistakes once, then practice.
+ * `round` keeps step ids unique across several extensions on the same day.
+ */
+export function bonusSteps(info: DayInfo, ctx: PlanCtx, minutes: number, round: number): Step[] {
+  const lessons = [...ctx.nextLessons];
+  const id = (k: string) => `x${round}-${k}`;
+  const out: Step[] = [];
+  let kuralUsed = false;
+  let reviewUsed = false;
+  for (let left = minutes, b = 1; left >= 15; b++) {
+    const block = left >= 30 ? 30 : 15;
+    left -= block;
+    const l = lessons.shift();
+    if (l) {
+      if (block === 30) out.push(lesson(id(`lesson-${b}`), l, 20), drill(id(`drill-${b}`), info, 10, { ta: 'பயிற்சி: இப்போது கற்றதும் இந்த வாரத் தலைப்புகளும்', en: 'Practice' }));
+      else out.push(lesson(id(`lesson-${b}`), l, 15));
+      continue;
+    }
+    let m = block;
+    if (!kuralUsed && ctx.kuralsLearned < 200) {
+      kuralUsed = true;
+      out.push({ ...kural(ctx, 8, 5), id: id(`kural-${b}`) });
+      m -= 8;
+    }
+    if (!reviewUsed && ctx.dueReviews > 0 && m >= 10) {
+      reviewUsed = true;
+      const r = Math.min(m, 15);
+      out.push({ ...review(r), id: id(`review-${b}`) });
+      m -= r;
+    }
+    if (m > 0) out.push(drill(id(`drill-${b}`), info, m, { ta: 'கூடுதல் பயிற்சி', en: 'Extra practice' }));
+  }
+  return out;
+}

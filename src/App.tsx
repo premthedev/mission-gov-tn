@@ -1,18 +1,22 @@
 import { App as CapApp } from '@capacitor/app';
 import { useEffect, useRef, useState, useSyncExternalStore } from 'react';
-import { chapterByOrder, contentVersion, lessonById, subscribe } from './data/content';
+import { chapterByOrder, cheatById, contentVersion, lessonById, subscribe } from './data/content';
 import { getSetting, setSetting } from './data/db';
-import { markKuralLearned, markLessonDone } from './data/progress';
+import { cacheQuestions, markKuralLearned, markLessonDone, practiceBank } from './data/progress';
 import { loadDownloaded, syncContent } from './data/sync';
+import { fetchUrai, loadUraiCache } from './data/urai';
 import type { Bi, Deck, Mode, Question } from './data/types';
 import type { Blueprint } from './engine/planner';
 import { isNative, scheduleReminders } from './native';
-import { LangCtx, Screen, T, TopBar, txt, type LangMode } from './ui/kit';
+import { CheatSheetView } from './ui/CheatSheet';
+import { Guide } from './ui/Guide';
+import { Icon, type IconName } from './ui/icons';
+import { LangCtx, Screen, TopBar, txt, type LangMode } from './ui/kit';
 import { KuralReader } from './ui/KuralReader';
 import { DeckView, Learn } from './ui/Learn';
 import { LessonView } from './ui/LessonView';
 import { Mock } from './ui/Mock';
-import { Practice } from './ui/Practice';
+import { Practice, topicQuestions } from './ui/Practice';
 import { Progress } from './ui/Progress';
 import { QuizRunner } from './ui/QuizRunner';
 import { Session } from './ui/Session';
@@ -24,21 +28,23 @@ type Overlay =
   | { kind: 'lesson'; id: string }
   | { kind: 'kural'; order: number }
   | { kind: 'deck'; deck: Deck }
+  | { kind: 'cheat'; id: string }
   | { kind: 'quiz'; title: Bi; questions: Question[]; mode: Mode }
   | { kind: 'mock'; blueprint: Blueprint };
 
-const TABS: { v: Tab; icon: string; label: string }[] = [
-  { v: 'today', icon: '☀️', label: 'இன்று' },
-  { v: 'learn', icon: '📖', label: 'கற்க' },
-  { v: 'practice', icon: '✍️', label: 'பயிற்சி' },
-  { v: 'progress', icon: '📊', label: 'முன்னேற்றம்' },
+const TABS: { v: Tab; icon: IconName; label: string }[] = [
+  { v: 'today', icon: 'sun', label: 'இன்று' },
+  { v: 'learn', icon: 'book', label: 'கற்க' },
+  { v: 'practice', icon: 'pencil', label: 'பயிற்சி' },
+  { v: 'progress', icon: 'chart', label: 'முன்னேற்றம்' },
 ];
 
 export default function App() {
   const [tab, setTab] = useState<Tab>('today');
   const [stack, setStack] = useState<Overlay[]>([]);
-  const [lang, setLang] = useState<LangMode>('both');
+  const [lang, setLang] = useState<LangMode>('ta');
   const [ready, setReady] = useState(false);
+  const [guide, setGuide] = useState(false);
   const [toast, setToast] = useState('');
   useSyncExternalStore(subscribe, contentVersion);
   const stackRef = useRef(stack);
@@ -51,17 +57,22 @@ export default function App() {
     window.scrollTo({ top: 0 });
   };
   const pop = () => setStack((s) => s.slice(0, -1));
+  const say = (t: string) => {
+    setToast(t);
+    window.setTimeout(() => setToast(''), 4000);
+  };
 
   useEffect(() => {
     void (async () => {
-      setLang(await getSetting<LangMode>('lang', 'both'));
+      // v0.3: questions are Tamil-first for everyone; English is one tap away on each question.
+      setLang(await getSetting<LangMode>('lang3', 'ta'));
       await loadDownloaded();
+      await loadUraiCache();
       setReady(true);
+      if (!(await getSetting('guideSeen3', false))) setGuide(true);
+      void fetchUrai();
       const r = await syncContent();
-      if (r.ok && r.updated > 0) {
-        setToast(r.newQuestions ? `📥 புதிய உள்ளடக்கம் வந்தது (${r.newQuestions} வினாக்கள்)` : '📥 புதிய பாடங்கள் வந்தன');
-        window.setTimeout(() => setToast(''), 4000);
-      }
+      if (r.ok && r.updated > 0) say(r.newQuestions ? `புதிய உள்ளடக்கம் வந்தது (${r.newQuestions} வினாக்கள்)` : 'புதிய பாடங்கள் வந்தன');
       if (isNative && !(await getSetting('remindersSet', false))) {
         const ok = await scheduleReminders(await getSetting('reminderTime', '20:15'));
         if (ok) await setSetting('remindersSet', true);
@@ -85,6 +96,18 @@ export default function App() {
 
   if (!ready) return <div className="grid min-h-screen place-items-center bg-slate-50 text-slate-500 dark:bg-slate-900">Mission GOV…</div>;
 
+  const closeGuide = () => {
+    setGuide(false);
+    void setSetting('guideSeen3', true);
+  };
+
+  const practiceTopic = async (id: string) => {
+    const qs = topicQuestions(id, await practiceBank(), 12, `topic-${id}-${Date.now()}`);
+    if (!qs.length) return say('இந்தத் தலைப்புக்கு வினாக்கள் விரைவில் வரும்.');
+    await cacheQuestions(qs);
+    push({ kind: 'quiz', title: { ta: cheatById(id)?.title ?? 'பயிற்சி' }, questions: qs, mode: 'PRACTICE' });
+  };
+
   const top = stack[stack.length - 1];
   let content;
   if (top) {
@@ -107,9 +130,15 @@ export default function App() {
         title = txt(top.deck.title);
         body = <DeckView deck={top.deck} />;
         break;
+      case 'cheat': {
+        const c = cheatById(top.id);
+        title = 'குறிப்பு அட்டை';
+        body = c ? <CheatSheetView c={c} onPractice={() => void practiceTopic(c.id)} /> : <p>கிடைக்கவில்லை.</p>;
+        break;
+      }
       case 'quiz':
         title = txt(top.title);
-        body = <QuizRunner questions={top.questions} mode={top.mode} sessionId={`practice-${new Date().toISOString().slice(0, 10)}`} onFinish={pop} finishLabel={{ ta: 'முடிக்க ✓' }} />;
+        body = <QuizRunner questions={top.questions} mode={top.mode} sessionId={`practice-${new Date().toISOString().slice(0, 10)}`} onFinish={pop} finishLabel={{ ta: 'முடிக்க' }} />;
         break;
       case 'mock':
         title = top.blueprint === 'TAMIL_100' ? 'தமிழ் 100 · மாதிரித் தேர்வு' : 'முழு மாதிரித் தேர்வு';
@@ -126,18 +155,28 @@ export default function App() {
     content = (
       <>
         <div style={{ paddingTop: 'env(safe-area-inset-top)' }} />
-        {tab === 'today' && <Today onStart={() => push({ kind: 'session' })} />}
-        {tab === 'learn' && <Learn openKural={(order) => push({ kind: 'kural', order })} openLesson={(id) => push({ kind: 'lesson', id })} openDeck={(deck) => push({ kind: 'deck', deck })} />}
+        {tab === 'today' && <Today onStart={() => push({ kind: 'session' })} onGuide={() => setGuide(true)} openLearn={() => setTab('learn')} />}
+        {tab === 'learn' && (
+          <Learn
+            openKural={(order) => push({ kind: 'kural', order })}
+            openLesson={(id) => push({ kind: 'lesson', id })}
+            openDeck={(deck) => push({ kind: 'deck', deck })}
+            openCheat={(id) => push({ kind: 'cheat', id })}
+          />
+        )}
         {tab === 'practice' && <Practice startQuiz={(title, questions, mode) => push({ kind: 'quiz', title, questions, mode })} startMock={(blueprint) => push({ kind: 'mock', blueprint })} />}
-        {tab === 'progress' && <Progress lang={lang} setLang={setLang} />}
+        {tab === 'progress' && <Progress lang={lang} setLang={(l) => { setLang(l); void setSetting('lang3', l); }} />}
         <nav className="safe-bottom fixed inset-x-0 bottom-0 z-30 border-t border-slate-200 bg-white/95 backdrop-blur dark:border-slate-800 dark:bg-slate-900/95">
-          <div className="mx-auto grid max-w-xl grid-cols-4">
-            {TABS.map((t) => (
-              <button key={t.v} type="button" onClick={() => setTab(t.v)} className={`flex flex-col items-center gap-0.5 py-2.5 text-xs font-medium ${tab === t.v ? 'text-teal-700 dark:text-teal-300' : 'text-slate-500'}`}>
-                <span className={`text-xl transition ${tab === t.v ? 'scale-110' : ''}`}>{t.icon}</span>
-                <T v={t.label} />
-              </button>
-            ))}
+          <div className="mx-auto grid max-w-xl grid-cols-4 px-2">
+            {TABS.map((t) => {
+              const on = tab === t.v;
+              return (
+                <button key={t.v} type="button" onClick={() => setTab(t.v)} className={`flex flex-col items-center gap-0.5 py-2 text-xs font-medium ${on ? 'text-teal-700 dark:text-teal-300' : 'text-slate-500'}`}>
+                  <span className={`grid h-8 w-14 place-items-center rounded-full transition ${on ? 'bg-teal-100 dark:bg-teal-900/50' : ''}`}><Icon name={t.icon} size={21} /></span>
+                  {t.label}
+                </button>
+              );
+            })}
           </div>
         </nav>
       </>
@@ -148,6 +187,7 @@ export default function App() {
     <LangCtx.Provider value={lang}>
       <div className="min-h-full bg-slate-50 text-slate-900 dark:bg-slate-900 dark:text-slate-100">
         {content}
+        {guide && <Guide onDone={closeGuide} />}
         {toast && <div className="pop-in fixed inset-x-4 top-4 z-50 mx-auto max-w-md rounded-2xl bg-slate-900 px-4 py-3 text-center text-sm font-medium text-white shadow-xl">{toast}</div>}
       </div>
     </LangCtx.Provider>

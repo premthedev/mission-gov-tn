@@ -1,4 +1,4 @@
-import type { Letter, Question } from '../data/types';
+import type { Bi, Letter, Question } from '../data/types';
 import { seeded, shuffle } from '../lib/rng';
 
 /** Shuffle A–D for practice so answers can't be remembered by position. Mocks keep the paper order. */
@@ -12,5 +12,11 @@ export function shuffleOptions(q: Question, seedKey: string): Question {
     options[L[i]] = q.options[from];
     map[from] = L[i];
   });
-  return { ...q, options, answer: map[q.answer], acceptedAnswers: q.acceptedAnswers?.map((a) => map[a]) };
+  let explanation = q.explanation;
+  if (explanation?.why) {
+    const why: Partial<Record<Letter, Bi>> = {};
+    for (const [from, v] of Object.entries(explanation.why) as [Letter, Bi][]) why[map[from]] = v;
+    explanation = { ...explanation, why };
+  }
+  return { ...q, options, answer: map[q.answer], acceptedAnswers: q.acceptedAnswers?.map((a) => map[a]), explanation };
 }

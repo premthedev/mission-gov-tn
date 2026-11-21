@@ -5,6 +5,7 @@ import { XP } from '../engine/xp';
 import { todayISO } from '../lib/date';
 import { Confetti } from './Celebrate';
 import { fx } from './feedback';
+import { Icon } from './icons';
 import { Button, Card } from './kit';
 import { TagMistakes } from './StepExtras';
 
@@ -30,12 +31,12 @@ export function WrapUp({ sessionId, onDone }: { sessionId: string; onDone: () =>
     <div className="space-y-4">
       <Confetti />
       <Card className="pop-in space-y-4 text-center">
-        <div className="text-6xl">🎉</div>
+        <Icon name="trophy" size={56} className="mx-auto text-amber-500" />
         <div className="text-2xl font-bold">இன்றைய வேலை முடிந்தது!</div>
         <div className="grid grid-cols-3 gap-2">
           <div className="rounded-2xl bg-amber-50 p-3 dark:bg-amber-900/30"><div className="text-2xl font-bold">{stats.xp}</div><div className="text-xs text-slate-500">XP இன்று</div></div>
           <div className="rounded-2xl bg-teal-50 p-3 dark:bg-teal-900/30"><div className="text-2xl font-bold">{pct}%</div><div className="text-xs text-slate-500">{stats.c}/{stats.t} சரி</div></div>
-          <div className="rounded-2xl bg-orange-50 p-3 dark:bg-orange-900/30"><div className="text-2xl font-bold">🔥{stats.streak}</div><div className="text-xs text-slate-500">தொடர் நாள்</div></div>
+          <div className="rounded-2xl bg-orange-50 p-3 dark:bg-orange-900/30"><div className="flex items-center justify-center gap-1 text-2xl font-bold"><Icon name="flame" size={22} className="text-orange-500" />{stats.streak}</div><div className="text-xs text-slate-500">தொடர் நாள்</div></div>
         </div>
         <p className="text-sm text-slate-500">கடைசி 2 நிமிடம்: ஒவ்வொரு தவறுக்கும் காரணத்தைத் தொடுங்கள். அடுத்த முறை ஆப் அதைக் குறிவைக்கும்.</p>
         <Button onClick={() => setTagging(true)} className="w-full text-lg">தவறுகளைக் குறி →</Button>

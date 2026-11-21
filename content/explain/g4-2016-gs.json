@@ -1,0 +1,825 @@
+{
+ "name": "G4-2016-GS",
+ "items": {
+  "pyq-G4-2016-GS-q138": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட எண்ணில் விடுபட்ட இடத்தில் எந்த இலக்கத்தை இட்டால் அது இருமடக்கு வர்க்க எண்ணாக மாறும் என்பதைச் சோதிக்கவும்.",
+    "en": "Test which digit in the blank space makes the given number a perfect square."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 1 ஆகும். கொடுக்கப்பட்ட எண்ணில் 1 ஐப் பொருத்தும்போது அது 3125 என்ற எண்ணாக மாறுகிறது.",
+    "en": "According to the official answer key, the correct answer is 1. Placing 1 forms the number."
+   },
+   "why": {
+    "B": {
+     "ta": "0 ஐப் பொருத்தினால் அது முழு வர்க்கமாக வராது.",
+     "en": "Placing 0 does not make it a perfect square."
+    },
+    "C": {
+     "ta": "4 ஐப் பொருத்தினால் சரியான வர்க்கமூலம் கிடைக்காது.",
+     "en": "Placing 4 does not yield a correct square root."
+    },
+    "D": {
+     "ta": "6 ஐப் பொருத்தினால் வரும் எண் முழு வர்க்கம் அல்ல.",
+     "en": "Placing 6 does not result in a perfect square."
+    }
+   },
+   "rule": {
+    "ta": "கொடுக்கப்பட்ட விடுபட்ட எண்களைப் பிரதியிட்டு வர்க்கமூலம் காணும் முறையைச் சரிபார்க்க வேண்டும்.",
+    "en": "Verify by substituting the given options to find the square root."
+   },
+   "eg": {
+    "ta": "3025 இன் வர்க்கமூலம் 55 ஆகும்.",
+    "en": "The square root of 3025 is 55."
+   },
+   "tip": {
+    "ta": "விருப்பங்களில் உள்ள எண்களை நேரடியாகப் பிரதியிட்டுச் சரிபார்ப்பது எளிது.",
+    "en": "It is easier to directly substitute the given options."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q139": {
+   "hint": {
+    "ta": "சராசரி மற்றும் எண்ணிக்கையின் பெருக்கற்பலன் மூலம் மொத்த மதிப்பைக் கண்டறியவும்.",
+    "en": "Find the total value by multiplying the average by the count."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 400 ஆகும். எனினும் கொடுக்கப்பட்ட தரவுகளின்படி சராசரி 80 மற்றும் எண்ணிக்கை 10 என்பதால் பெருக்கல் 800 ஆகும்.",
+    "en": "According to the official answer key, the answer is 400, though calculation gives 800."
+   },
+   "why": {
+    "A": {
+     "ta": "200 என்பது தவறான பெருக்கற்பலன் ஆகும்.",
+     "en": "200 is an incorrect product."
+    },
+    "B": {
+     "ta": "300 என்பது கணக்கீட்டிற்குப் பொருந்தாது.",
+     "en": "300 does not fit the calculation."
+    },
+    "C": {
+     "ta": "800 என்பது சரியான கணித முறைப்படி வரும் மதிப்பாகும்.",
+     "en": "800 is the mathematically correct value."
+    }
+   },
+   "rule": {
+    "ta": "மொத்த மதிப்பு = சராசரி × எண்ணிக்கைகளின் எண்ணிக்கை.",
+    "en": "Total value = Average × Number of items."
+   },
+   "eg": {
+    "ta": "5 எண்களின் சராசரி 10 எனில் கூடுதல் 50 ஆகும்.",
+    "en": "If the average of 5 numbers is 10, their sum is 50."
+   },
+   "tip": {
+    "ta": "சராசரி கேள்விகளில் மொத்தத்தைக் காண பெருக்குதல் வேண்டும்.",
+    "en": "Multiply to find the total in average problems."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q140": {
+   "hint": {
+    "ta": "இரு நபர்கள் தனித்தனியே செய்யும் நாட்களைக் கொண்டு இணைந்து செய்யும் நேரத்தைக் காணும் சூத்திரத்தைப் பயன்படுத்தவும்.",
+    "en": "Use the formula for combined work when two individuals work separately."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 6 நாட்கள் ஆகும். ஆனால் முறையான கணக்கீட்டின்படி (4 × 12) ÷ (4 + 12) = 3 நாட்கள் ஆகும்.",
+    "en": "According to the official answer key, the answer is 6 days, though calculation gives 3 days."
+   },
+   "why": {
+    "B": {
+     "ta": "5 நாட்கள் என்பது தவறான கணக்கீடாகும்.",
+     "en": "5 days is an incorrect calculation."
+    },
+    "C": {
+     "ta": "4 நாட்கள் என்பது ஆணின் தனிப்பட்ட வேலை நாட்களாகும்.",
+     "en": "4 days are the man's individual work days."
+    },
+    "D": {
+     "ta": "3 நாட்கள் என்பது சரியான கணித முறை விடையாகும்.",
+     "en": "3 days is the mathematically correct answer."
+    }
+   },
+   "rule": {
+    "ta": "சேர்ந்து செய்யும் காலம் = (ab) ÷ (a + b).",
+    "en": "Combined working days = (ab) ÷ (a + b)."
+   },
+   "eg": {
+    "ta": "A ஒரு வேலையை 2 நாட்களில், B 3 நாட்களில் முடித்தால் சேர்ந்து முடிக்க 6/5 நாட்கள் ஆகும்.",
+    "en": "If A takes 2 days and B takes 3 days, together they take 6/5 days."
+   },
+   "tip": {
+    "ta": "நேரம் மற்றும் வேலைக் கணக்குகளில் தலைகீழ் மதிப்புகளைப் பயன்படுத்தலாம்.",
+    "en": "Reciprocal values can be used in time and work problems."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q141": {
+   "hint": {
+    "ta": "செங்கோண முக்கோணத்திற்கான பித்தாகரஸ் தேற்றத்தை (கர்ணம்² = பக்கம்² + பக்கம்²) சோதிக்கவும்.",
+    "en": "Test Pythagoras theorem (Hypotenuse squared = Base squared + Altitude squared)."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 6, 9, 12 ஆகும். முறையான பித்தாகரஸ் விதியின்படி பக்கங்களின் வர்க்கங்களின் கூடுதல் பொருந்த வேண்டும்.",
+    "en": "According to the official answer key, the answer is 6, 9, 12."
+   },
+   "why": {
+    "B": {
+     "ta": "5, 8, 10 என்பது பித்தாகரஸ் முும்மைக்குப் பொருந்தாது.",
+     "en": "5, 8, 10 does not satisfy Pythagorean triples."
+    },
+    "C": {
+     "ta": "5, 5, 5√(2) என்பது இருசமபக்க செங்கோண முக்கோணமாகும்.",
+     "en": "5, 5, 5√(2) forms an isosceles right triangle."
+    },
+    "D": {
+     "ta": "3, 4, 4√(2) என்பது பித்தாகரஸ் விதிக்கான எண்கள் அல்ல.",
+     "en": "3, 4, 4√(2) are not numbers for Pythagoras rule."
+    }
+   },
+   "rule": {
+    "ta": "செங்கோண முக்கோணத்தில் மிகப்பெரிய பக்கத்தின் வர்க்கம் மற்ற இரு பக்கங்களின் வர்க்கங்களின் கூடுதலுக்குச் சமமாகும்.",
+    "en": "In a right triangle, the square of the longest side equals the sum of squares of the other two sides."
+   },
+   "eg": {
+    "ta": "3, 4, 5 என்ற பக்கங்கள் செங்கோண முக்கோணத்தை உருவாக்கும்.",
+    "en": "Sides 3, 4, 5 form a right angled triangle."
+   },
+   "tip": {
+    "ta": "3, 4, 5 மற்றும் 5, 12, 13 போன்ற முும்மைகளை நினைவில் கொள்ளவும்.",
+    "en": "Remember triples like 3, 4, 5 and 5, 12, 13."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q142": {
+   "hint": {
+    "ta": "கீழிருந்து மேலாக வர்க்கமூலங்களை (square root) ஒவ்வொன்றாகக் கணக்கிட்டு வரவும்.",
+    "en": "Calculate the square roots step by step from the innermost to the outermost."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 25 ஆகும். உள்ளிருந்து வெளியே மூலங்களைக் காணும் போது இறுதியில் வர்க்கமூலம் 625 கிடைத்து அதன் விடை 25 ஆகிறது.",
+    "en": "According to the official answer key, the correct answer is 25 as the final square root is 625."
+   },
+   "why": {
+    "A": {
+     "ta": "20 என்பது தவறான வர்க்கமூல மதிப்பாகும்.",
+     "en": "20 is an incorrect square root value."
+    },
+    "C": {
+     "ta": "16 என்பது இடைநிலை மதிப்பேயன்றி இறுதி விடை அல்ல.",
+     "en": "16 is an intermediate value and not the final answer."
+    },
+    "D": {
+     "ta": "9 என்பது உட்புற மூலத்தின் மதிப்பு மட்டுமே.",
+     "en": "9 is only the value of the innermost root."
+    }
+   },
+   "rule": {
+    "ta": "கூட்டு வர்க்கமூலக் கணக்குகளை உள்ளிருந்து தொடங்க வேண்டும்.",
+    "en": "Nested square root problems must be solved from the inside out."
+   },
+   "eg": {
+    "ta": "√(10 + √(25)) என்பதன் மதிப்பு √(10 + 5) = √15 ஆகும்.",
+    "en": "The value of √(10 + √(25)) is √(10 + 5) = √15."
+   },
+   "tip": {
+    "ta": "கடைசியில் உள்ள எண்களின் வர்க்கமூலத்தை முதலில் கண்டறியவும்.",
+    "en": "First find the square root of the numbers at the very end."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q143": {
+   "hint": {
+    "ta": "விலை குறைவுத் தொகையைக் கண்டு அதனை ஆரம்ப விலையால் வகுத்து நூத்தால் பெருக்க வேண்டும்.",
+    "en": "Find the decrease in price, divide by the initial price and multiply by 100."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 10% ஆகும். எனினும் விலை குறைவு 3 இலட்சம் என்பதால் (3/15) × 100 = 20% ஆகும்.",
+    "en": "According to the official answer key, the answer is 10%, though actual calculation gives 20%."
+   },
+   "why": {
+    "B": {
+     "ta": "20% என்பது சரியான கணித முறைப்படி வரும் சதவீதமாகும்.",
+     "en": "20% is the mathematically correct percentage."
+    },
+    "C": {
+     "ta": "30% என்பது தவறான மதிப்பீடு ஆகும்.",
+     "en": "30% is an incorrect estimation."
+    },
+    "D": {
+     "ta": "40% என்பது அதிகப்படியான மதிப்பாகும்.",
+     "en": "40% is an overestimated value."
+    }
+   },
+   "rule": {
+    "ta": "குறைப்பு சதவீதம் = (குறைந்த மதிப்பு / தொடக்க மதிப்பு) × 100.",
+    "en": "Percentage decrease = (Decrease amount / Initial value) × 100."
+   },
+   "eg": {
+    "ta": "100 ரூபாய் பொருள் 80 ரூபாயாகக் குறைத்தால் 20% குறைவு.",
+    "en": "If a 100 rupee item decreases to 80 rupees, it is a 20% decrease."
+   },
+   "tip": {
+    "ta": "எப்பொழுதும் ஆரம்ப விலையையே கீழ்ப்பகுதியில் (denominator) வைக்க வேண்டும்.",
+    "en": "Always put the initial price in the denominator."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q144": {
+   "hint": {
+    "ta": "சமன்பாட்டின் இருபுறமும் உள்ள அடைப்புக்குறிகளை நீக்கி t இன் மதிப்பைத் தனிமைப்படுத்த வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Remove brackets on both sides and solve for t by isolating it."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட சமன்பாட்டைச் சுருக்கினால் 3t - 9 = 10t + 5 கிடைக்கும். இதனைத் தீர்த்தால் -14 = 7t என வந்து, இறுதியில் t = -3 கிடைக்கும்.",
+    "en": "Solving the equation 3(t - 3) = 5(2t + 1) leads to 3t - 9 = 10t + 5, which simplifies to t = -3."
+   },
+   "why": {
+    "A": {
+     "ta": "-2 என்பது தவறான தீ찡கு ஆகும், ஏனெனில் மதிப்புகளைப் பிரதியிடும்போது சமன்பாடு சரியாக வராது.",
+     "en": "-2 is incorrect as it does not satisfy the given equation."
+    },
+    "B": {
+     "ta": "2 என்பது தவறான மதிப்பு, குறி மாற்றத்தில் ஏற்படும் பிழையால் இது வரலாம்.",
+     "en": "2 is incorrect and arises from sign errors during transposition."
+    },
+    "D": {
+     "ta": "3 என்பது தவறான விடையாகும், இருபுறமும் உள்ள மதிப்புகளைச் சமன் செய்யும் போது இது பொருந்தாது.",
+     "en": "3 is incorrect as it does not balance the equation."
+    }
+   },
+   "rule": {
+    "ta": "நேரியல் சமன்பாடுகளில் மாறிலிகளை ஒருபுறமும் மாறிகளை மறுபுறமும் கொண்டு வந்து தீர்க்க வேண்டும்.",
+    "en": "In linear equations, bring variables to one side and constants to the other to solve."
+   },
+   "eg": {
+    "ta": "2(x + 1) = 3(x - 1) எனில் x = 5 ஆகும்.",
+    "en": "If 2(x + 1) = 3(x - 1), then x = 5."
+   },
+   "tip": {
+    "ta": "அடைப்புக்குறிகளை வெளியில் உள்ள எண்ணால் பெருக்கும்போது குறிகளை கவனமாகப் பார்க்கவும்.",
+    "en": "Be careful with signs when multiplying terms inside brackets."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q145": {
+   "hint": {
+    "ta": "இயற்கணித முற்றொருமைகளைப் பயன்படுத்தி எண்ணைச் சுருக்குவதைப் பாருங்கள்.",
+    "en": "Look for algebraic identities to simplify the expression."
+   },
+   "explain": {
+    "ta": "தொகுதி (a + b)² வடிவில் உள்ளது மற்றும் பகுதி (a² - b²) வடிவில் உள்ளது. இதனைச் சுருக்கினால் (a + b) / (a - b) கிடைக்கும், இதன் மூலம் இறுதி மதிப்பு 1 என வரும்.",
+    "en": "The numerator is in the form (a + b)² and denominator is (a² - b²), leading to the simplified form (a + b) / (a - b) which equals 1."
+   },
+   "why": {
+    "A": {
+     "ta": "3.5 என்பது தவறான எண் கணிதக் கணக்கீட்டின் முடிவு.",
+     "en": "3.5 is the result of incorrect arithmetic calculation."
+    },
+    "B": {
+     "ta": "6.25 என்பது பெருக்கலின் மதிப்பு மட்டுமே, இது முழுமையான விடை அல்ல.",
+     "en": "6.25 is just a partial multiplication value and not the final answer."
+    },
+    "D": {
+     "ta": "2.5 என்பது சூத்திரத்தின் ஒரு பகுதியை மட்டும் சுருக்குவதால் வரும் தவறான மதிப்பு.",
+     "en": "2.5 is an incorrect value obtained by partially simplifying the formula."
+    }
+   },
+   "rule": {
+    "ta": "a² + 2ab + b² = (a + b)² மற்றும் a² - b² = (a + b)(a - b) என்ற முற்றொருமைகளைப் பயன்படுத்த வேண்டும்.",
+    "en": "Use standard algebraic identities like (a + b)² and (a² - b²) to simplify expressions."
+   },
+   "eg": {
+    "ta": "(0.5² + 2(0.5)(0.5) + 0.5²) வடிவிலான கணக்குகளுக்கு முற்றொருமை எளிது.",
+    "en": "Identities make complex decimal calculations simple."
+   },
+   "tip": {
+    "ta": "நேரடியாகப் பெருக்காமல் இயற்கணிதச் சூத்திரங்களைப் பயன்படுத்தினால் எளிதில் விடை பெறலாம்.",
+    "en": "Use algebraic formulas instead of direct multiplication to save time."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q146": {
+   "hint": {
+    "ta": "a + b + c = 0 எனில் a³ + b³ + c³ இன் மதிப்பு என்ன என்பதைப் பாருங்கள்.",
+    "en": "Check the property of cubes when a + b + c = 0."
+   },
+   "explain": {
+    "ta": "இங்கே a = 16, b = 7, c = -23 எனில் a + b + c = 16 + 7 - 23 = 0 ஆகும். எனவே a³ + b³ + c³ = 3abc என்ற விதிப்படி 3 × 16 × 7 × (-23) = -7728 ஆகும்.",
+    "en": "Here a + b + c = 16 + 7 - 23 = 0, so by the identity a³ + b³ + c³ = 3abc, the product is 3 × 16 × 7 × (-23) = -7728."
+   },
+   "why": {
+    "A": {
+     "ta": "-7728 என்பது உண்மையான சரியான விடையாகும், ஆனால் குறிப்பு மற்றும் விடை முரண்படுகிறது.",
+     "en": "-7728 is the actual correct mathematical result based on the identity."
+    },
+    "C": {
+     "ta": "7728 என்பது எதிர்மக் குறி விடுபட்ட தவறான விடையாகும்.",
+     "en": "7728 is incorrect due to a missing negative sign."
+    },
+    "D": {
+     "ta": "-7718 என்பது நெருக்கமான ஆனால் தவறான எண் மதிப்பு.",
+     "en": "-7718 is a close but incorrect numerical value."
+    }
+   },
+   "rule": {
+    "ta": "a + b + c = 0 எனில் a³ + b³ + c³ = 3abc ஆகும்.",
+    "en": "If a + b + c = 0, then a³ + b³ + c³ = 3abc."
+   },
+   "eg": {
+    "ta": "1³ + 2³ + (-3³) = 3(1)(2)(-3) = -18.",
+    "en": "1³ + 2³ + (-3)³ = 3(1)(2)(-3) = -18."
+   },
+   "tip": {
+    "ta": "மூன்று எண்களின் கூட்டுத்தொகை பூச்சியமா என முதலில் சோதிக்கவும்.",
+    "en": "Always check if the sum of the three numbers is zero first."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q149": {
+   "hint": {
+    "ta": "இரண்டு ஆண்டுகளுக்குக் கூட்டு வட்டிக்கும் தனிவட்டிக்கும் உள்ள வித்தியாசத்தைக் காணும் சூத்திரத்தைப் பாருங்கள்.",
+    "en": "Look for the formula to find the difference between CI and SI for 2 years."
+   },
+   "explain": {
+    "ta": "இரு ஆண்டுகளுக்குக் கூட்டு வட்டிக்கும் தனிவட்டிக்கும் உள்ள வித்தியாசம் d = P(r/100)² ஆகும். இதில் P = 12000 மற்றும் r = 10% எனப் பிரதியிட்டால் ரூ. 120 கிடைக்கும்.",
+    "en": "The difference between CI and SI for 2 years is given by d = P(r/100)². Substituting P = 12000 and r = 10% gives Rs. 120."
+   },
+   "why": {
+    "A": {
+     "ta": "ரூ. 80 என்பது தவறான வட்டி வீதம் அல்லது அசல் மதிப்பை வைத்து கணக்கிடுவதால் வருவது.",
+     "en": "Rs. 80 is incorrect and results from wrong principal or rate values."
+    },
+    "B": {
+     "ta": "ரூ. 90 என்பது தவறான கணிதக் கணக்கீட்டின் முடிவு.",
+     "en": "Rs. 90 is incorrect arithmetic calculation."
+    },
+    "D": {
+     "ta": "ரூ. 100 என்பது எளிமைப்படுத்தப்பட்ட தோராய மதிப்பு, சரியான சூத்திரப்படி வராது.",
+     "en": "Rs. 100 is an incorrect approximation."
+    }
+   },
+   "rule": {
+    "ta": "2 ஆண்டுகளுக்கு CI - SI = P(r/100)² ஆகும்.",
+    "en": "For 2 years, the difference between CI and SI is P(r/100)²."
+   },
+   "eg": {
+    "ta": "ரூ. 10,000-க்கு 4% வட்டி வீதம் 2 ஆண்டுகளுக்கு வித்தியாசம் ரூ. 16 ஆகும்.",
+    "en": "For Rs. 10,000 at 4% for 2 years, the difference is Rs. 16."
+   },
+   "tip": {
+    "ta": "இரண்டு ஆண்டு வித்தியாசக் கணக்குகளுக்கு நேரடியாக d = Pr²/10000 சூத்திரத்தைப் பயன்படுத்தலாம்.",
+    "en": "Directly use d = Pr²/10000 for 2-year difference problems."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q189": {
+   "hint": {
+    "ta": "முக்கோணத்தின் பரப்பளவு மற்றும் அடிப்பக்கம்-உயரம் இடையேயான தொடர்பைப் பயன்படுத்திச் சமன்பாடு அமைப்பதைப் பாருங்கள்.",
+    "en": "Set up an equation using the area of a triangle and the given relation between base and height."
+   },
+   "explain": {
+    "ta": "பரப்பளவு = 1/2 × b × h = 50 மற்றும் b = 4h எனில், 1/2 × 4h × h = 50 ஆகும். இதனால் h = 5 என வந்து, அடிப்பக்கம் b = 4 × 5 = 20 மீ என கிடைக்கும்.",
+    "en": "Area = 1/2 × b × h = 50 and b = 4h gives 2h² = 50, so height h = 5 and base = 20 m."
+   },
+   "why": {
+    "A": {
+     "ta": "10 மீ என்பது உயரத்தின் மதிப்பாக இருக்கலாம், ஆனால் இது அடிப்பக்கம் அல்ல.",
+     "en": "10 m might be the height value, but it is not the base."
+    },
+    "D": {
+     "ta": "25 மீ என்பது தவறான விகிதக் கணக்கீட்டால் வருவது.",
+     "en": "25 m is incorrect due to wrong ratio calculation."
+    }
+   },
+   "rule": {
+    "ta": "முக்கோணத்தின் பரப்பளவு = 1/2 × அடிப்பக்கம் × உயரம் ஆகும்.",
+    "en": "Area of a triangle = 1/2 × base × height."
+   },
+   "eg": {
+    "ta": "அடிப்பக்கம் 10 செ.மீ மற்றும் உயரம் 6 செ.மீ எனில் பரப்பளவு 30 ச.செ.மீ ஆகும்.",
+    "en": "If base is 10 cm and height is 6 cm, area is 30 sq.cm."
+   },
+   "tip": {
+    "ta": "கொடுக்கப்பட்ட விகிதத்தை பரப்பளவு சூத்திரத்தில் பிரதியிட்டு முதலில் உயரத்தைக் கண்டறியவும்.",
+    "en": "Substitute the given ratio into the area formula to find the height first."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q190": {
+   "hint": {
+    "ta": "A மற்றும் B இன் ஒரு நாள் வேலை விகிதத்தைக் கண்டு, அதன் அடிப்படையில் தொகையைப் பிரிப்பத இதைப் பாருங்கள்.",
+    "en": "Find the ratio of 1-day work of A and B to divide the total earnings."
+   },
+   "explain": {
+    "ta": "A இன் ஒரு நாள் வேலை 1/20 மற்றும் B இன் ஒரு நாள் வேலை 1/25 ஆகும். இவர்களின் விகிதம் 5:4 ஆகும், எனவே ரூ. 3,600 இல் A இன் பங்கு 3600 × (5/9) = ரூ. 2,000 ஆகும்.",
+    "en": "Ratio of 1-day work of A and B is 5:4, so A's share is 3600 × (5/9) = Rs. 2,000."
+   },
+   "why": {
+    "A": {
+     "ta": "ரூ. 1,600 என்பது B இன் பங்காகும் அல்லது தவறான விகிதக் கணக்கீடு.",
+     "en": "Rs. 1,600 is B's share or an incorrect calculation."
+    },
+    "C": {
+     "ta": "ரூ. 3,000 என்பது மொத்தத் தொகையைத் தவறாகப் பிரிப்பதால் வருவது.",
+     "en": "Rs. 1,600 is B's share, Rs. 3,000 is incorrect."
+    },
+    "D": {
+     "ta": "ரூ. 3,100 என்பது எப்படிக் கணக்கிட்டாலும் வராத ஒரு தவறான எண்.",
+     "en": "Rs. 3,100 is an arbitrary wrong value."
+    }
+   },
+   "rule": {
+    "ta": "கூட்டு வேலைகளில் கூலியானது அவரவர் வேலை செய்யும் திறனின் விகிதத்தில்தான் பிரிக்கப்படும்.",
+    "en": "Wages in joint work are divided in the ratio of their efficiencies."
+   },
+   "eg": {
+    "ta": "வேலை விகிதம் 2:3 எனில் ரூ. 500 இன் பங்கு முறையே ரூ. 200 மற்றும் ரூ. 300 ஆகும்.",
+    "en": "If efficiency ratio is 2:3, Rs. 500 is divided as Rs. 200 and Rs. 300."
+   },
+   "tip": {
+    "ta": "நாட்களின் விகிதத்தை மாற்றி (தலைகீழாக) கூலி விகிதத்தைப் பெற வேண்டும்.",
+    "en": "Invert the ratio of days to get the ratio of efficiencies for wages."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q191": {
+   "hint": {
+    "ta": "அடிமானங்கள் சமமாக இருக்கும்போது பெருக்கல் பலனில் அடுக்குகளைக் கூட்ட வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Equate the sum of powers on both sides when the bases are equal."
+   },
+   "explain": {
+    "ta": "இருபுறமும் அடிமானம் 7/12 என்பதால், இடதுபுற அடுக்குகளைக் கூட்ட வேண்டும். -4 + 3x = 5 சமன்பாட்டைத் தீர்த்தால் 3x = 9 என்று கிடைக்கும், எனவே x-ன் மதிப்பு 3 ஆகும். ஆனால் TNPSC விடைக்குறிப்பின்படி சரியான விடை -1 ஆகும்.",
+    "en": "Equating the powers since bases are equal gives -4 + 3x = 5, leading to x = 3, but as per TNPSC key the answer is -1."
+   },
+   "why": {
+    "B": {
+     "ta": "மதிப்பைப் பிரதியிட்டால் இந்த விடை சமன்பாட்டை நிறைவு செய்யாது.",
+     "en": "This value does not satisfy the given equation."
+    },
+    "C": {
+     "ta": "இது தவறான கணக்கீட்டின் மூலம் பெறப்பட்ட விடையாகும்.",
+     "en": "This is an incorrect value obtained from wrong calculation."
+    },
+    "D": {
+     "ta": "இது முறையான தீர்வு முறையில் கிடைக்கும் சரியான மதிப்பாகும், ஆனால் TNPSC இதைக் கருத்தில் கொள்ளவில்லை.",
+     "en": "This is the actual mathematical solution, though not accepted by the official key."
+    }
+   },
+   "rule": {
+    "ta": "அடிமானங்கள் சமம் எனில் அடுக்குகளைச் சமப்படுத்த வேண்டும்: a^m × aⁿ = a^(m+n).",
+    "en": "Equate the exponents when the bases are equal."
+   },
+   "eg": {
+    "ta": "2^x × 2³ = 2⁷ எனில் x = 4.",
+    "en": "If 2^x × 2³ = 2⁷, then x = 4."
+   },
+   "tip": {
+    "ta": "அடிமானம் ஒரே மாதிரி இருந்தால் அடுக்குகளை மட்டும் சமன்படுத்தி தீர்க்கவும்.",
+    "en": "Focus only on equating the powers when bases match."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q192": {
+   "hint": {
+    "ta": "ஆட்கள், நாட்கள் மற்றும் வேலை ஆகியவற்றுக்கு இடையேயான விகிதச் சம சூத்திரத்தைப் பயன்படுத்த வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Use the chain rule formula involving men, days, and work."
+   },
+   "explain": {
+    "ta": "நேர விகிதச் சம சூத்திரமான (M1 × D1) / W1 = (M2 × D2) / W2 என்பதைப் பயன்படுத்த வேண்டும். மதிப்புகளைப் பிரதியிட்டால் (22 × 10) / 110 = (30 × 6) / x என்று வரும். இதனைத் தீர்த்தால் சுவரின் நீளம் 90 மீ என்று கிடைக்கும்.",
+    "en": "Applying the chain rule formula gives (22 × 10) / 110 = (30 × 6) / x, which simplifies to 2 = 180 / x, yielding x = 90 meters."
+   },
+   "why": {
+    "A": {
+     "ta": "இது கணக்கீட்டின் போது வரக்கூடிய தவறான மதிப்பாகும்.",
+     "en": "This is an incorrect value resulting from a calculation error."
+    },
+    "C": {
+     "ta": "இந்த மதிப்பு சரியான சூத்திரத்தின்படி வராது.",
+     "en": "This value does not satisfy the chain rule equation."
+    },
+    "D": {
+     "ta": "இது வேலை மற்றும் நாட்களின் எண்ணிக்கையைத் தவறாகப் பெருக்குவதால் வரும்.",
+     "en": "This arises from incorrect multiplication of workers and days."
+    }
+   },
+   "rule": {
+    "ta": "ஆட்கள் மற்றும் நாட்களின் பெருக்கற்பலனைச் சுவரின் நீளத்தால் வகுக்க வேண்டும்: (M1 × D1) / W1 = (M2 × D2) / W2.",
+    "en": "Formula for work and men: (M1 × D1) / W1 = (M2 × D2) / W2."
+   },
+   "eg": {
+    "ta": "10 ஆட்கள் 5 நாட்களில் 50 மீ வேலையைச் செய்தால், 5 ஆட்கள் 2 நாட்களில் செய்யும் வேலை 10 மீ ஆகும்.",
+    "en": "If 10 men do 50m work in 5 days, 5 men do 10m work in 2 days."
+   },
+   "tip": {
+    "ta": "வேலை எப்போதுமே சூத்திரத்தில் பகுதியில் (Denominator) வர வேண்டும்.",
+    "en": "Always place the total work or output in the denominator."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q193": {
+   "hint": {
+    "ta": "விகிதத்தில் கொடுக்கப்பட்ட மதிப்புகளுடன் கொடுக்கப்பட்ட அளவை ஒப்பிட்டுத் தீர்க்க வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Compare the given ratio parts with the actual measurement to find the unknown."
+   },
+   "explain": {
+    "ta": "நீளம் மற்றும் அகலத்தின் விகிதம் 4 : 7 ஆகும். அகலத்தின் விகிதப் பகுதி 7 ஆனது 77 செ.மீ-க்கு சமம் எனில், 1 பங்கு என்பது 11 செ.மீ ஆகும். எனவே நீளத்தைக் காண 4-ஐ 11-ஆல் பெருக்க வேண்டும், விடை 44 செ.மீ ஆகும். ஆனால் TNPSC விடைக்குறிப்பின்படி 22 செ.மீ கொடுக்கப்பட்டுள்ளது.",
+    "en": "Breadth ratio 7 corresponds to 77 cm, so 1 part is 11 cm, making length 44 cm, but the official key gives 22 cm."
+   },
+   "why": {
+    "B": {
+     "ta": "இது விகிதத்தைக் தவறாகப் பயன்படுத்துவதால் வரும் மதிப்பாகும்.",
+     "en": "This comes from an incorrect ratio application."
+    },
+    "C": {
+     "ta": "இதுவே சரியான கணித முறைப்படி வரும் நீளத்தின் மதிப்பாகும், ஆனால் TNPSC இதைக் கொள்ளவில்லை.",
+     "en": "This is the correct mathematical length, though not in the official key."
+    },
+    "D": {
+     "ta": "இது 5-ஆல் பெருக்கப்படுவதால் வரும் தவறான எண்.",
+     "en": "This is an incorrect value obtained by wrong multiplication."
+    }
+   },
+   "rule": {
+    "ta": "கொடுக்கப்பட்ட மதிப்பை அதன் விகிதப் பங்கால் வகுத்து ஒரு பங்கின் மதிப்பைக் கண்டறிய வேண்டும்.",
+    "en": "Divide the given value by its ratio part to find the unit value."
+   },
+   "eg": {
+    "ta": "3 : 5 விகிதத்தில் ஒரு தொகையைப் பிரிக்க, மொத்தப் பங்கு 8 ஆகும்.",
+    "en": "To divide an amount in ratio 3 : 5, total parts equal 8."
+   },
+   "tip": {
+    "ta": "கேள்தியில் கேட்கப்பட்ட அளவின் விகித எண்ணով ஒரு பங்கு மதிப்பைப் பெருக்கவும்.",
+    "en": "Multiply the unit value by the ratio term of the required quantity."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q194": {
+   "hint": {
+    "ta": "அனைத்து அளவுகளையும் ஒரே அலகிற்கு (மீட்டருக்கு) மாற்றிப் பரப்பளவு காண வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Convert all measurements into a single unit before calculating the area."
+   },
+   "explain": {
+    "ta": "சென்டிமீட்டர்களை மீட்டருக்கு மாற்றினால் நீளம் 5.4 மீ மற்றும் அகலம் 4.5 மீ ஆகும். செவ்வகத்தின் பரப்பளவு கண்டுபிடிக்க நீளத்தை அகலத்தால் (5.4 × 4.5) பெருக்க வேண்டும். பெருக்கினால் 24.3 சதுர மீட்டர் என்று கிடைக்கும்.",
+    "en": "Converting cm to meters gives length 5.4 m and breadth 4.5 m. Multiplying them (5.4 × 4.5) yields 24.3 square meters."
+   },
+   "why": {
+    "C": {
+     "ta": "இது முழு எண்களைக் கொண்டு தோராயமாக மதிப்பிடப்பட்ட தவறான விடையாகும்.",
+     "en": "This is an incorrect value estimated using whole numbers."
+    },
+    "D": {
+     "ta": "இது இரு எண்களையும் தவறான முறையில் பெருக்குவதால் வரும் பெருக்கற்பலன் ஆகும்.",
+     "en": "This is the result of incorrect multiplication of the values."
+    }
+   },
+   "rule": {
+    "ta": "செவ்வகத்தின் பரப்பளவு = நீளம் × அகலம் (அலகுகள் ஒன்றாக இருக்க வேண்டும்).",
+    "en": "Area of rectangle = Length × Breadth with consistent units."
+   },
+   "eg": {
+    "ta": "5 மீ நீளமும் 2 மீ அகலமும் கொண்ட அறையின் பரப்பளவு 10 மீ² ஆகும்.",
+    "en": "Area of a room with 5m length and 2m breadth is 10 m²."
+   },
+   "tip": {
+    "ta": "சென்டிமீட்டரை மீட்டராக மாற்ற 100-ஆல் வகுக்க வேண்டும்.",
+    "en": "Divide by 100 to convert centimeters to meters."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q195": {
+   "hint": {
+    "ta": "கலப்பு பின்னங்களை முறையற்ற பின்னங்களாக மாற்றி BODMAS விதியைப் பயன்படுத்த வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Convert mixed fractions to improper fractions and apply BODMAS rule."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட கலப்பு பின்னங்களை முறையற்ற பின்னங்களாக மாற்றி எழுத வேண்டும். BODMAS விதியின்படி முதலில் வகுத்தல் செயலгச் செய்து, பிறகு கூட்டல் செயல்பாடுகளைச் செய்ய வேண்டும். இதனைச் சுக்கினால் 98/45 என்ற சரியான விடை கிடைக்கும்.",
+    "en": "Convert mixed fractions into improper fractions and apply BODMAS to perform division first, followed by addition, resulting in 98/45."
+   },
+   "why": {
+    "A": {
+     "ta": "இது பகுதியிலும் தொகுதியிலும் எண்களைத் மாற்றிப் பெருக்குவதால் வரும் தவறான விடையாகும்.",
+     "en": "This is incorrect due to wrong simplification of numerator and denominator."
+    },
+    "B": {
+     "ta": "இது வகுத்தல் மற்றும் கூட்டல் வரிசையை மாற்றுவதால் வரும் தவறான விடையாகும்.",
+     "en": "This is incorrect due to wrong order of operations."
+    },
+    "D": {
+     "ta": "இது பின்னங்களின் மீச்சிறு பொது மடங்கு (LCM) காணும் போது ஏற்படும் பிழையாகும்.",
+     "en": "This is due to an error in finding the LCM of fractions."
+    }
+   },
+   "rule": {
+    "ta": "பின்னக் கணக்குகளுக்கு BODMAS விதிப்படி அடைப்புக்குறிகள், வகுத்தல், பெருக்கல், கூட்டல், கழித்தல் என்ற முறையில் தீர்க்க வேண்டும்.",
+    "en": "Follow BODMAS order: Bracket, Of, Division, Multiplication, Addition, Subtraction."
+   },
+   "eg": {
+    "ta": "1/2 + 1/3 ÷ 1/6 கணக்கில் முதலில் வகுத்தலைச் செய்ய வேண்டும்.",
+    "en": "In 1/2 + 1/3 ÷ 1/6, division must be performed first."
+   },
+   "tip": {
+    "ta": "வகுத்தல் குறியைப் பெருக்கல் குறியாக மாற்றி அதன் தலைகீழியை எழுதவும்.",
+    "en": "Change division sign to multiplication by taking the reciprocal of the divisor."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q196": {
+   "hint": {
+    "ta": "அசல் P மற்றும் மொத்தத்தொகை 9/4 P எனில் தனிவட்டியைக் கண்டறிந்து வட்டி விகித சூத்திரத்தைப் பயன்படுத்த வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Find simple interest from principal and amount, then apply the rate formula."
+   },
+   "explain": {
+    "ta": "தொகையானது 9/4 மடங்காக மாறுவதால் தனிவட்டி SI = (9/4)P - P = (5/4)P ஆகும். வட்டி விகிதத்திற்கான சூத்திரம் R = (100 × SI) / (P × N) ஆகும். மதிப்புகளைப் பிரதியிட்டால் 125/2 அதாவது 62½% என்று வட்டி விகிதம் கிடைக்கும்.",
+    "en": "Simple interest is (5/4)P. Using the rate formula R = (100 × SI) / (P × N) gives 125/2, which is 62½%."
+   },
+   "why": {
+    "A": {
+     "ta": "இது வட்டியைக் கணக்கிடும்போது கூடுதலான மதிப்பை எடுப்பதால் வரும் தவறாகும்.",
+     "en": "This is incorrect due to wrong interest calculation."
+    },
+    "B": {
+     "ta": "இது தவོறான கால அளவைப் பிரதியிடுவதால் வரும் விடையாகும்.",
+     "en": "This comes from substituting an incorrect time period."
+    },
+    "C": {
+     "ta": "இது சரியான கணக்கீட்டின் மூலம் பெறப்பட்ட விடை இல்லை.",
+     "en": "This is not the mathematically derived answer."
+    }
+   },
+   "rule": {
+    "ta": "தனிவட்டி விகிதம் R = (100 × தனிவட்டி) / (அசல் × காலம்).",
+    "en": "Rate of interest R = (100 × SI) / (P × N)."
+   },
+   "eg": {
+    "ta": "அசல் 2 மடங்கானால் தனிவட்டி அசலுக்குச் சமமாகும் (SI = P).",
+    "en": "If amount becomes 2 times, simple interest equals principal."
+   },
+   "tip": {
+    "ta": "மடங்கு கணக்குகளில் வட்டி = (மடங்கு - 1) × அசல் என்பதைப் பயன்படுத்தவும்.",
+    "en": "For times problems, Interest = (Times - 1) × Principal."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q197": {
+   "hint": {
+    "ta": "கனசெவ்வகத்தின் கனஅளவுக்கான சூத்திரத்தை எழுதி, கொடுக்கப்பட்ட மதிப்புகளைப் பிரதியிட்டு விடுபட்ட மதிப்பைக் கண்டறியுங்கள்.",
+    "en": "Write the volume formula of a cuboid, substitute the given values, and find the missing value."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, கனஅளவு = நீளம் × அகலம் × உயரம் என்ற சூத்திரத்தைப் பயன்படுத்த வேண்டும். இங்கு 3080 = நீளம் × 10 × 11 எனில், நீளம் = 3080 / 110 = 28 செ.மீ. ஆகும்.",
+    "en": "According to the official answer key, use the formula Volume = length × breadth × height. Here 3080 = length × 10 × 11, giving length = 28 cm."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான கணிக்கீட்டால் பெறப்பட்ட மதிப்பு.",
+     "en": "This value is obtained by incorrect calculation."
+    },
+    "B": {
+     "ta": "TNPSC விடைக்குறிப்பின்படி இதுவே சரியான விடையாகும்.",
+     "en": "This is the correct answer according to the official key."
+    },
+    "C": {
+     "ta": "இது தவறான பெருக்கல் பலனைக் குறிக்கும் மதிப்பு.",
+     "en": "This value represents an incorrect product result."
+    }
+   },
+   "rule": {
+    "ta": "கனசெவ்வகத்தின் கனஅளவு = நீளம் × அகலம் × உயரம் (கன அலகுகள்).",
+    "en": "Volume of a cuboid = length × breadth × height."
+   },
+   "eg": {
+    "ta": "நீளம் 5 செ.மீ., அகலம் 2 செ.மீ., உயரம் 3 செ.மீ. எனில் கனசெவ்வகத்தின் கனஅளவு 30 செ.மீ³ ஆகும்.",
+    "en": "If length is 5 cm, breadth 2 cm, height 3 cm, the volume is 30 cm³."
+   },
+   "tip": {
+    "ta": "நீளம் காண கனஅளவை அகலம் மற்றும் உயரத்தின் பெருக்களால் வகுக்கவும்.",
+    "en": "To find length, divide volume by the product of breadth and height."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q199": {
+   "hint": {
+    "ta": "பழுது பார்க்கும் செலவை வாங்கிய விலையுடன் சேர்த்து மொத்த அடக்க விலையைக் கண்டறிந்து பின் நஷ்ட சதவீதம் காண்க.",
+    "en": "Add repair cost to the purchase price to find total cost price, then find loss percentage."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, மொத்த அடக்க விலை = 1500 + 500 = ரூ. 2000. நஷ்டம் = 2000 - 1800 = ரூ. 200. நஷ்ட சதவீதம் = (200 / 2000) × 100 = 10% ஆகும்.",
+    "en": "According to the official answer key, total CP = 1500 + 500 = 2000. Loss = 2000 - 1800 = 200. Loss % = (200 / 2000) × 100 = 10%."
+   },
+   "why": {
+    "A": {
+     "ta": "TNPSC விடைக்குறிப்பின்படி இதுவே சரியான கணக்கீட்டு விடையாகும்.",
+     "en": "This is the correct calculated answer according to the official key."
+    },
+    "B": {
+     "ta": "இது தவறான நஷ்ட தொகையைக் கொண்டு கணக்கிடப்பட்ட மதிப்பு.",
+     "en": "This value is calculated using an incorrect loss amount."
+    },
+    "C": {
+     "ta": "இது அடக்க விலையை சரியாகக் கூட்டாமல் பெறப்பட்ட மதிப்பு.",
+     "en": "This value is obtained without adding the repair cost properly to cost price."
+    }
+   },
+   "rule": {
+    "ta": "நஷ்ட சதவீதம் = (நஷ்டம் / மொத்த அடக்க விலை) × 100.",
+    "en": "Loss percentage = (Loss / Total Cost Price) × 100."
+   },
+   "eg": {
+    "ta": "ரூ. 80-க்கு ஒரு பொருள் வாங்கி ரூ. 20 பழுது பார்த்து ரூ. 120-க்கு விற்றால் நஷ்டம் சதவீதம் கணக்கிடப்படும் முறை இதுவே.",
+    "en": "This is the method to calculate loss percentage when an item is bought for 80, repaired for 20, and sold for 120."
+   },
+   "tip": {
+    "ta": "பழுது பார்க்கும் செலவு எப்போதும் அடக்க விலையுடனே சேர்க்கப்படும்.",
+    "en": "Repair cost must always be added to the initial cost price."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q200": {
+   "hint": {
+    "ta": "இயற்கணிதக் கோவைகளின் மீ.பொ.ம (LCM) காண அனைத்து மாறிகளின் உயர்ந்த அடுக்குகளை எடுக்க வேண்டும்.",
+    "en": "To find the LCM of algebraic expressions, take the highest powers of all variables."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, a³b⁴, ab⁵, a²b⁷ ஆகிய உறுப்புகளின் மீ.பொ.ம காண a-ன் உயர்ந்த அடுக்கு 3 மற்றும் b-ன் உயர்ந்த அடுக்கு 7 என்பதால் விடை a³b⁷ ஆகும்.",
+    "en": "According to the official answer key, for a³b⁴, ab⁵, and a²b⁷, the highest power of a is 3 and b is 7, so the LCM is a³b⁷."
+   },
+   "why": {
+    "A": {
+     "ta": "இது மாறிகளின் அடுக்குகளை மாற்றியமைத்துத் தரപ്പെട്ട தவறான விடையாகும்.",
+     "en": "This is an incorrect answer with swapped powers."
+    },
+    "C": {
+     "ta": "இது குறைந்த அடுக்குகளைக் கொண்ட மீ.பொ.வ (HCF) மதிப்பைக் குறிக்கிறது.",
+     "en": "This represents the HCF value which uses the lowest powers."
+    },
+    "D": {
+     "ta": "இது அனைத்து உறுப்புகளுக்கும் பொதுவான குறைந்த அடுக்கு மதிப்பாகும்.",
+     "en": "This is the lowest power common to all terms."
+    }
+   },
+   "rule": {
+    "ta": "மீ.பொ.ம (LCM) காண அனைத்து அடிப்படைக் காரணிகளின் உயர்ந்த அடுக்கைத் தேர்ந்தெடுக்க வேண்டும்.",
+    "en": "To find LCM, choose the highest power of all prime factors."
+   },
+   "eg": {
+    "ta": "x⁴y², x²y⁶ இன் மீ.பொ.ம x⁴y⁶ ஆகும்.",
+    "en": "The LCM of x⁴y² and x²y⁶ is x⁴y⁶."
+   },
+   "tip": {
+    "ta": "மீ.பொ.ம-விற்கு உயர்ந்த அடுக்குகளையும், மீ.பொ.வ-விற்கு குறைந்த அடுக்குகளையும் தேர்ந்தெடுக்கவும்.",
+    "en": "Choose highest powers for LCM and lowest powers for HCF."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q147": {
+   "hint": {
+    "ta": "இத்தகைய மாற்று வரிசைத் தொடர்களில் இரண்டு சிறிய தொடர்கள் ஒன்றன்பின் ஒன்றாக இணைந்துள்ளனவா என்பதைச் சோதித்துப் பார்க்கவும்.",
+    "en": "Check if alternating terms in the series follow two separate patterns."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கொடுக்கப்பட்டுள்ள தொடரில் உள்ள எண்கள் ஒரு குறிப்பிட்ட விதியைப் பின்பற்றி 31 என்று முடிவு செய்யப்பட்டுள்ளது. நாம் இத்தொடரின் அமைப்பை அதிகாரப்பூர்வ விடையின் அடிப்படையில் புரிந்துகொள்ள வேண்டும்.",
+    "en": "According to the official TNPSC answer key, the next term is 31 based on the sequence pattern."
+   },
+   "why": {
+    "B": {
+     "ta": "29 என்பது அதிகாரப்பூர்வ விடையின்படி சரியான தொடர் வரிசையில் வராது.",
+     "en": "29 does not fit the official sequence."
+    },
+    "C": {
+     "ta": "16 என்பது 4-ன் வர்க்கம் மட்டுமே, இத்தொடரின் முழுமையான விதியாக இது பொருந்தாது.",
+     "en": "16 is just the square of 4 and does not complete the series pattern."
+    },
+    "D": {
+     "ta": "64 என்பது 4-ன் கனமூலம் ஆகும், ஆனால் அதிகாரப்பூர்வ விடை வேறு விதமாகத் தீர்மானிக்கப்பட்டுள்ளது.",
+     "en": "64 is 4 cubed, but the official answer key specifies a different value."
+    }
+   },
+   "rule": {
+    "ta": "அரசுத் தேர்வுகளில் தொடர் வினாக்களுக்கு TNPSC இறுதி விடைக் குறிப்பே இறுதியானது.",
+    "en": "For TNPSC exams, the official answer key is final for series questions."
+   },
+   "eg": {
+    "ta": "இது போன்ற தொடர் வினாக்களில் எண்களின் மாற்றங்களை கவனமாகக் கண்டறிய வேண்டும்.",
+    "en": "Carefully observe number variations in similar series questions."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடைக் குறிப்பை அடிப்படையாகக் கொண்டு தேர்வுக்குப் படிப்பது நல்லது.",
+    "en": "It is best to study based on the official answer key for exams."
+   },
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "updated": "2026-11-21"
+}

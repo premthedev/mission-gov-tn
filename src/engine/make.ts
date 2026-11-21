@@ -1,4 +1,4 @@
-import type { Bi, Format, KeySource, Letter, Part, Question, QuestionSource, Unit } from '../data/types';
+import type { Bi, Explanation, Format, KeySource, Letter, Part, Question, QuestionSource, Unit } from '../data/types';
 import { type Rng, shuffle } from '../lib/rng';
 
 export const LETTERS: Letter[] = ['A', 'B', 'C', 'D'];
@@ -13,31 +13,36 @@ export function makeMcq(p: {
   stem: Bi;
   correct: Bi;
   wrong: Bi[];
+  /** Why each wrong option is wrong, aligned with `wrong`. */
+  wrongWhy?: (Bi | undefined)[];
   r: Rng;
-  explanation?: Bi;
+  explanation?: Bi & Omit<Explanation, 'why'>;
+  hint?: Bi;
   format?: Format;
   statements?: Bi[];
   keySource?: KeySource;
   source?: QuestionSource;
+  cheat?: string;
 }): Question {
   const seen = new Set([keyOf(p.correct)]);
-  const wrong: Bi[] = [];
-  for (const w of p.wrong) {
+  const wrong: { v: Bi; why?: Bi }[] = [];
+  p.wrong.forEach((w, i) => {
     const k = keyOf(w);
-    if (!seen.has(k)) {
+    if (wrong.length < 3 && !seen.has(k)) {
       seen.add(k);
-      wrong.push(w);
+      wrong.push({ v: w, why: p.wrongWhy?.[i] });
     }
-    if (wrong.length === 3) break;
-  }
+  });
   if (wrong.length < 3) throw new Error(`makeMcq(${p.id}): need 3 distinct wrong options`);
 
-  const order = shuffle(p.r, [{ v: p.correct, ok: true }, ...wrong.map((v) => ({ v, ok: false }))]);
+  const order = shuffle(p.r, [{ v: p.correct, ok: true, why: undefined as Bi | undefined }, ...wrong.map((w) => ({ ...w, ok: false }))]);
   const options = {} as Record<Letter, Bi>;
+  const why: Partial<Record<Letter, Bi>> = {};
   let answer: Letter = 'A';
   order.forEach((o, i) => {
     options[LETTERS[i]] = o.v;
     if (o.ok) answer = LETTERS[i];
+    else if (o.why) why[LETTERS[i]] = o.why;
   });
   return {
     id: p.id,
@@ -52,6 +57,8 @@ export function makeMcq(p: {
     keySource: p.keySource ?? 'GENERATED',
     source: p.source ?? { kind: 'GENERATED' },
     syllabusEra: 'CURRENT',
-    explanation: p.explanation ? { ...p.explanation, verified: true } : undefined,
+    explanation: p.explanation ? { ...p.explanation, verified: true, why: Object.keys(why).length ? why : undefined } : undefined,
+    hint: p.hint,
+    cheat: p.cheat,
   };
 }

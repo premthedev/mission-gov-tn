@@ -36,6 +36,8 @@ export interface SessionRow {
   skipped: string[];
   activeSec: number;
   completed: boolean;
+  /** Minutes added on top of the day's plan ("more time today"). */
+  extraMin?: number;
 }
 
 export interface MockRow {
@@ -75,7 +77,8 @@ class AppDB extends Dexie {
   qcache!: Table<Question, string>;
   urai!: Table<KuralUrai & { n: number }, number>;
   kv!: Table<KV, string>;
-  remoteFiles!: Table<{ path: string; sha: string; data: unknown; at: number }, string>;
+  /** `gen` = when the GitHub manifest listing this file was generated (ms). */
+  remoteFiles!: Table<{ path: string; sha: string; data: unknown; at: number; gen?: number }, string>;
   kuralCards!: Table<{ n: number; box: number; nextReview: string; learnedAt: string }, number>;
 
   constructor() {

@@ -1,4 +1,4 @@
-import type { Question, Unit } from '../data/types';
+import type { Deck, Question, Unit } from '../data/types';
 import { UNIT_COUNTS, caQuestions, decks } from '../data/content';
 import { diffDays } from '../lib/date';
 import { seeded, shuffle } from '../lib/rng';
@@ -72,25 +72,48 @@ export function assembleDrill(opts: {
   bank: Question[];
   stats: Stats;
   today: string;
+  /** Up to two recent current-affairs questions are mixed in. */
+  news?: boolean;
 }): Question[] {
   const { units, gens, count, seedKey, bank, stats, today } = opts;
   const pool = rankQuestions(bank.filter((q) => units.includes(q.unit)), stats, today, bank);
   const unitDecks = decksForUnits(decks(), units);
+  const recent = opts.news ? recentNews(today, 2, seedKey) : [];
   const genShare = gens.length ? Math.round(count * 0.25) : 0;
   const deckShare = unitDecks.length ? Math.round(count * 0.25) : 0;
-  const out: Question[] = pool.slice(0, count - genShare - deckShare);
-  out.push(...deckQuestions(unitDecks, count - out.length - genShare, seedKey));
-  for (let i = 0; out.length < count && gens.length; i++) out.push(generate(gens[i % gens.length], `${seedKey}-${i}`));
-  if (out.length < count) out.push(...deckQuestions(decks(), count - out.length, `${seedKey}-any`));
+  const out: Question[] = pool.slice(0, Math.max(0, count - genShare - deckShare - recent.length));
+  out.push(...deckQuestions(unitDecks, count - out.length - genShare - recent.length, seedKey));
+  for (let i = 0; out.length < count - recent.length && gens.length; i++) out.push(generate(gens[i % gens.length], `${seedKey}-${i}`));
+  if (out.length < count - recent.length) out.push(...deckQuestions(decks(), count - recent.length - out.length, `${seedKey}-any`));
+  out.push(...recent);
   return shuffle(seeded(seedKey), out).map((q) => (q.source.kind === 'PYQ' ? shuffleOptions(q, seedKey) : q));
 }
 
-/** Warm-up: due mistakes first, then easy wins from things already met (decks, today's news, aptitude). */
-export function assembleWarmup(dueQuestions: Question[], count: number, seedKey: string, gens: GenTopic[]): Question[] {
-  const out = dueQuestions.slice(0, count);
-  const news = shuffle(seeded(`news-${seedKey}`), caQuestions()).slice(0, 2);
-  out.push(...news.slice(0, Math.max(0, count - out.length)));
-  out.push(...deckQuestions(decks(), Math.max(0, count - out.length - 1), `warm-${seedKey}`));
+/** Current-affairs questions from the last three days, not answered yet today. */
+function recentNews(today: string, n: number, seedKey: string): Question[] {
+  const fresh = caQuestions().filter((q) => q.source.date && diffDays(q.source.date, today) <= 3);
+  return shuffle(seeded(`news-${seedKey}`), fresh).slice(0, n);
+}
+
+/**
+ * Warm-up: only things already met. Due mistakes first, then questions from lessons already done,
+ * memory decks from weeks already studied, and aptitude topics already taught.
+ */
+export function assembleWarmup(opts: {
+  due: Question[];
+  count: number;
+  seedKey: string;
+  learned: Question[];
+  decks: Deck[];
+  gens: GenTopic[];
+}): Question[] {
+  const { due, count, seedKey, learned, gens } = opts;
+  const r = seeded(`warm-${seedKey}`);
+  const out = due.slice(0, count);
+  const seen = new Set(out.map((q) => q.id));
+  const fromLessons = shuffle(r, learned.filter((q) => !seen.has(q.id))).slice(0, Math.max(0, Math.min(2, count - out.length)));
+  out.push(...fromLessons.map((q) => (q.source.kind === 'PYQ' ? shuffleOptions(q, seedKey) : q)));
+  out.push(...deckQuestions(opts.decks, Math.max(0, count - out.length - 1), `warm-${seedKey}`));
   for (let i = 0; out.length < count; i++) out.push(generate(gens[i % Math.max(1, gens.length)] ?? 'simplification', `warm-${seedKey}-${i}`));
   return out;
 }

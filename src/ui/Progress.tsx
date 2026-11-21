@@ -8,6 +8,7 @@ import { fetchUrai, uraiReady } from '../data/urai';
 import { level, projected } from '../engine/xp';
 import { exportBackup, importBackup, isNative, scheduleReminders } from '../native';
 import { setSoundPref } from './feedback';
+import { Icon } from './icons';
 import { Bar, Button, Card, Chip, Screen, T, type LangMode } from './kit';
 
 export function Progress({ lang, setLang }: { lang: LangMode; setLang: (l: LangMode) => void }) {
@@ -81,13 +82,13 @@ export function Progress({ lang, setLang }: { lang: LangMode; setLang: (l: LangM
 
       <Card className="grid grid-cols-4 gap-2 text-center text-xs text-slate-500">
         <div><div className="text-lg font-bold text-slate-900 dark:text-white">{(data.mins / 60).toFixed(1)}</div>/83 மணி</div>
-        <div><div className="text-lg font-bold text-slate-900 dark:text-white">🔥{data.streak}</div>தொடர்</div>
+        <div><div className="text-lg font-bold text-slate-900 dark:text-white">{data.streak}</div>தொடர்</div>
         <div><div className="text-lg font-bold text-slate-900 dark:text-white">{data.kurals}</div>/200 குறள்</div>
         <div><div className="text-lg font-bold text-slate-900 dark:text-white">{data.lessons}</div>/{lessons().length} பாடம்</div>
       </Card>
 
       <Card className="space-y-2">
-        <div className="flex justify-between text-sm"><span className="font-semibold">நிலை {lv.n} · {lv.title}</span><span className="text-slate-500">⭐ {data.xp} XP</span></div>
+        <div className="flex justify-between text-sm"><span className="font-semibold">நிலை {lv.n} · {lv.title}</span><span className="text-slate-500">{data.xp} XP</span></div>
         <Bar value={lv.into} max={lv.need} />
       </Card>
 
@@ -119,7 +120,7 @@ export function Progress({ lang, setLang }: { lang: LangMode; setLang: (l: LangM
           பழைய வினாக்கள் {pyq().length} · நடப்பு நிகழ்வு {caQuestions().length} · பாடங்கள் {lessons().length}
           <div className="text-xs text-slate-500">{papers().map((p) => `${p.year}: ${p.count}`).join(' · ')}</div>
         </div>
-        <Button variant="secondary" onClick={() => void sync()} className="w-full">🔄 இப்போதே புதுப்பி</Button>
+        <Button variant="secondary" onClick={() => void sync()} className="w-full"><Icon name="refresh" size={20} /> இப்போதே புதுப்பி</Button>
       </Card>
 
       <Card className="space-y-3">
@@ -130,15 +131,16 @@ export function Progress({ lang, setLang }: { lang: LangMode; setLang: (l: LangM
         </label>
         <div className="flex items-center justify-between gap-3 text-sm">
           <span>ஒலி</span>
-          <Chip active={sound} onClick={() => { setSound(!sound); setSoundPref(!sound); void setSetting('sound', !sound); }}>{sound ? '🔊 ஆன்' : '🔇 ஆஃப்'}</Chip>
+          <Chip active={sound} onClick={() => { setSound(!sound); setSoundPref(!sound); void setSetting('sound', !sound); }}>{sound ? 'ஆன்' : 'ஆஃப்'}</Chip>
         </div>
         <div className="space-y-1 text-sm">
           <div>மொழி</div>
           <div className="flex gap-2">
-            {(['both', 'ta', 'en'] as LangMode[]).map((l) => (
-              <Chip key={l} active={lang === l} onClick={() => { setLang(l); void setSetting('lang', l); }}>{l === 'both' ? 'தமிழ் + English' : l === 'ta' ? 'தமிழ்' : 'English'}</Chip>
+            {(['ta', 'both', 'en'] as LangMode[]).map((l) => (
+              <Chip key={l} active={lang === l} onClick={() => setLang(l)}>{l === 'both' ? 'தமிழ் + English' : l === 'ta' ? 'தமிழ் (பரிந்துரை)' : 'English'}</Chip>
             ))}
           </div>
+          <p className="text-xs text-slate-500">தமிழில் வினாக்கள் வரும். ஒவ்வொரு வினாவிலும் "English-உம் காட்டு" தொட்டு ஆங்கிலத்தையும் பார்க்கலாம்.</p>
         </div>
         <div className="flex items-center justify-between gap-3 text-sm">
           <span>திருக்குறள் தமிழ் உரை (offline)</span>

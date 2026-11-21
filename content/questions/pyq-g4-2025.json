@@ -3153,8 +3153,8 @@
   },
   {
    "qNo": 84,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A5",
    "topic": "tn-geography",
    "format": "PASSAGE",
    "stem": {
@@ -3196,8 +3196,8 @@
   },
   {
    "qNo": 85,
-   "part": "B",
-   "unit": "B5",
+   "part": "A",
+   "unit": "A7",
    "topic": "tn-administration",
    "format": "PASSAGE",
    "stem": {
@@ -4186,8 +4186,8 @@
   },
   {
    "qNo": 112,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "ONE_LINER",
    "stem": {
@@ -4223,8 +4223,8 @@
   },
   {
    "qNo": 113,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "tamil-scholars",
    "format": "ONE_LINER",
    "stem": {
@@ -4260,8 +4260,8 @@
   },
   {
    "qNo": 114,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "tamil-scholars",
    "format": "ONE_LINER",
    "stem": {
@@ -4493,8 +4493,8 @@
   },
   {
    "qNo": 120,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "tamil-literature-authors",
    "format": "MATCH",
    "stem": {
@@ -4721,20 +4721,20 @@
    },
    "options": {
     "A": {
-     "ta": "1.44 x 10^5",
-     "en": "1.44 x 10^5"
+     "ta": "1.44 x 10⁵",
+     "en": "1.44 x 10⁵"
     },
     "B": {
-     "ta": "1.44 x 10^-4",
-     "en": "1.44 x 10^-4"
+     "ta": "1.44 x 10⁻4",
+     "en": "1.44 x 10⁻4"
     },
     "C": {
-     "ta": "1.44 x 10^-5",
-     "en": "1.44 x 10^-5"
+     "ta": "1.44 x 10⁻5",
+     "en": "1.44 x 10⁻5"
     },
     "D": {
-     "ta": "1.44 x 10^4",
-     "en": "1.44 x 10^4"
+     "ta": "1.44 x 10⁴",
+     "en": "1.44 x 10⁴"
     }
    },
    "answer": "C",
@@ -4742,7 +4742,7 @@
    "era": "CURRENT",
    "ai": true,
    "explain": {
-    "ta": "அமில பிரிிகை மாறிலி Ka = c * alpha^2 என்ற வாய்ப்பாட்டின்படி கணக்கிடப்படுகிறது.",
+    "ta": "அமில பிரிிகை மாறிலி Ka = c * alpha² என்ற வாய்ப்பாட்டின்படி கணக்கிடப்படுகிறது.",
     "en": ""
    }
   },
@@ -5549,8 +5549,8 @@
    "topic": "simple-interest",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "ரூ. 68,000க்கு 9 மாதங்களுக்கு $16\frac{2}{3}\\%$ வருட வட்டி விகிதத்தில் தனி வட்டி காண்க.",
-    "en": "Find the simple interest on Rs. 68,000 at $16\frac{2}{3}\\%$ per annum for 9 months."
+    "ta": "ரூ. 68,000க்கு 9 மாதங்களுக்கு 16\frac{2}{3}% வருட வட்டி விகிதத்தில் தனி வட்டி காண்க.",
+    "en": "Find the simple interest on Rs. 68,000 at 16\frac{2}{3}% per annum for 9 months."
    },
    "options": {
     "A": {
@@ -5797,7 +5797,7 @@
    "era": "CURRENT",
    "ai": true,
    "explain": {
-    "ta": "முதல் n ஒற்றை எண்களின் கூடுதல் = $n^2$. இங்கு n = (55 + 1)/2 = 28. கூடுதல் = $28^2$ = 784.",
+    "ta": "முதல் n ஒற்றை எண்களின் கூடுதல் = n². இங்கு n = (55 + 1)/2 = 28. கூடுதல் = 28² = 784.",
     "en": ""
    }
   },
@@ -5834,7 +5834,7 @@
    "era": "CURRENT",
    "ai": true,
    "explain": {
-    "ta": "தொடர் வடிவம்: $n^n - n$ அல்லது $1^1-1=0, 2^2-2=2, 3^3-3=24, 4^4-4=252, 5^5-5=3120$, அடுத்தது $6^6-6 = 46656 - 6 = 46650$.",
+    "ta": "தொடர் வடிவம்: nⁿ - n அல்லது 1¹-1=0, 2²-2=2, 3³-3=24, 4⁴-4=252, 5⁵-5=3120, அடுத்தது 6⁶-6 = 46656 - 6 = 46650.",
     "en": ""
    }
   },
@@ -5919,8 +5919,8 @@
    "topic": "number-series",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "தொடர் வரிசையில் உள்ள விடுபட்ட எண்ணைக் காண்க.\n$7, 12, 19, 24, 43, \\underline{\\quad\\quad}, 91$",
-    "en": "Find the missing term of the sequence :\n$7, 12, 19, 24, 43, \\underline{\\quad\\quad}, 91$"
+    "ta": "தொடர் வரிசையில் உள்ள விடுபட்ட எண்ணைக் காண்க.\n7, 12, 19, 24, 43, ____, 91",
+    "en": "Find the missing term of the sequence :\n7, 12, 19, 24, 43, ____, 91"
    },
    "options": {
     "A": {
@@ -6346,8 +6346,8 @@
   },
   {
    "qNo": 163,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "STATEMENT",
    "stem": {
@@ -6389,8 +6389,8 @@
   },
   {
    "qNo": 164,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "thirukkural",
    "format": "STATEMENT",
    "stem": {
@@ -6562,8 +6562,8 @@
   },
   {
    "qNo": 170,
-   "part": "A",
-   "unit": "A7",
+   "part": "B",
+   "unit": "B6",
    "topic": "tamil-literature",
    "format": "MATCH",
    "stem": {
@@ -7513,8 +7513,8 @@
    "topic": "ratio-proportion",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "ஒருவர் தன்னud உடைய நான்கு நண்பர்கள் A, B, C மற்றும் D ஆகியவர்க்கு தனது பேனாக்களை $\\frac{1}{3} : \\frac{1}{4} : \\frac{1}{5} : \\frac{1}{6}$ ஆகிய விகிதங்களில் விநியோகிக்கிறார் எனில் அவர் வைத்திருக்க வேண்டிய பேனாக்களின் குறைந்தபட்ச எண்ணிக்கை ____________.",
-    "en": "A person distributes his pens among four friends A, B, C and D in the ratio $\\frac{1}{3} : \\frac{1}{4} : \\frac{1}{5} : \\frac{1}{6}$ then the minimum number of pens that the person should have is ____________."
+    "ta": "ஒருவர் தன்னud உடைய நான்கு நண்பர்கள் A, B, C மற்றும் D ஆகியவர்க்கு தனது பேனாக்களை 1/3 : 1/4 : 1/5 : 1/6 ஆகிய விகிதங்களில் விநியோகிக்கிறார் எனில் அவர் வைத்திருக்க வேண்டிய பேனாக்களின் குறைந்தபட்ச எண்ணிக்கை ____________.",
+    "en": "A person distributes his pens among four friends A, B, C and D in the ratio 1/3 : 1/4 : 1/5 : 1/6 then the minimum number of pens that the person should have is ____________."
    },
    "options": {
     "A": {
@@ -7550,8 +7550,8 @@
    "topic": "ratio-proportion",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$2, 5, x, 20$ ஆகிய எண்களை அதே வரிசையில் பயன்படுத்தி அமையும் விகிதங்கள் விகித சமமாக இருப்பின், '$x$-ன் மதிப்பு",
-    "en": "If the ratios formed using the numbers $2, 5, x, 20$ are in the same order of proportion, then the value of $x$ is"
+    "ta": "2, 5, x, 20 ஆகிய எண்களை அதே வரிசையில் பயன்படுத்தி அமையும் விகிதங்கள் விகித சமமாக இருப்பின், 'x-ன் மதிப்பு",
+    "en": "If the ratios formed using the numbers 2, 5, x, 20 are in the same order of proportion, then the value of x is"
    },
    "options": {
     "A": {
@@ -7576,8 +7576,8 @@
    "era": "CURRENT",
    "ai": true,
    "explain": {
-    "ta": "விகித சம விதியின்படி $2 : 5 :: x : 20 \\implies 5x = 40 \\implies x = 8$.",
-    "en": "By the rule of proportion, $2 : 5 :: x : 20 \\implies 5x = 40 \\implies x = 8$."
+    "ta": "விகித சம விதியின்படி 2 : 5 :: x : 20 implies 5x = 40 implies x = 8.",
+    "en": "By the rule of proportion, 2 : 5 :: x : 20 implies 5x = 40 implies x = 8."
    }
   },
   {
@@ -7587,8 +7587,8 @@
    "topic": "hcf",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$108$ மற்றும் $234$ ஆகியவற்றின் மீப்பெரு பொது வகுத்தியை $23x - 51$, என்ற வடிவில் எழுதினால் $x$-ன் மதிப்பு யாது?",
-    "en": "If the HCF of $108$ and $234$ is expressible of the form $23x - 51$ then what is the value of $x$?"
+    "ta": "108 மற்றும் 234 ஆகியவற்றின் மீப்பெரு பொது வகுத்தியை 23x - 51, என்ற வடிவில் எழுதினால் x-ன் மதிப்பு யாது?",
+    "en": "If the HCF of 108 and 234 is expressible of the form 23x - 51 then what is the value of x?"
    },
    "options": {
     "A": {
@@ -7620,25 +7620,25 @@
    "topic": "hcf-polynomials",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$x^3 + x^2 - x + 2$ மற்றும் $2x^3 - 5x^2 + 5x - 3$ ஆகிய பல்லுறுப்புக் கோவைகளின் மீ.பொ.கா. காண்க.",
-    "en": "Find the HCF of the polynomials $x^3 + x^2 - x + 2$ and $2x^3 - 5x^2 + 5x - 3$."
+    "ta": "x³ + x² - x + 2 மற்றும் 2x³ - 5x² + 5x - 3 ஆகிய பல்லுறுப்புக் கோவைகளின் மீ.பொ.கா. காண்க.",
+    "en": "Find the HCF of the polynomials x³ + x² - x + 2 and 2x³ - 5x² + 5x - 3."
    },
    "options": {
     "A": {
-     "ta": "$x^2 - x + 1$",
-     "en": "$x^2 - x + 1$"
+     "ta": "x² - x + 1",
+     "en": "x² - x + 1"
     },
     "B": {
-     "ta": "$x^2 + x - 1$",
-     "en": "$x^2 + x - 1$"
+     "ta": "x² + x - 1",
+     "en": "x² + x - 1"
     },
     "C": {
-     "ta": "$-7x^2 + 7x - 7$",
-     "en": "$-7x^2 + 7x - 7$"
+     "ta": "-7x² + 7x - 7",
+     "en": "-7x² + 7x - 7"
     },
     "D": {
-     "ta": "$7x^2 - 7x + 7$",
-     "en": "$7x^2 - 7x + 7$"
+     "ta": "7x² - 7x + 7",
+     "en": "7x² - 7x + 7"
     }
    },
    "answer": "A",
@@ -7653,25 +7653,25 @@
    "topic": "simplification",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "சுருக்குக: $(4^{-1} + 4^{-2} + 4^{-3})^0 \\times (4^{-1} + 4^{-2} + 4^{-3})^1$.",
-    "en": "Simplify : $(4^{-1} + 4^{-2} + 4^{-3})^0 \\times (4^{-1} + 4^{-2} + 4^{-3})^1$."
+    "ta": "சுருக்குக: (4⁻¹ + 4⁻² + 4⁻³)⁰ × (4⁻¹ + 4⁻² + 4⁻³)¹.",
+    "en": "Simplify : (4⁻¹ + 4⁻² + 4⁻³)⁰ × (4⁻¹ + 4⁻² + 4⁻³)¹."
    },
    "options": {
     "A": {
-     "ta": "$\\frac{63}{19}$",
-     "en": "$\\frac{63}{19}$"
+     "ta": "63/19",
+     "en": "63/19"
     },
     "B": {
-     "ta": "$\\frac{19}{63}$",
-     "en": "$\\frac{19}{63}$"
+     "ta": "19/63",
+     "en": "19/63"
     },
     "C": {
-     "ta": "$\\frac{21}{64}$",
-     "en": "$\\frac{21}{64}$"
+     "ta": "21/64",
+     "en": "21/64"
     },
     "D": {
-     "ta": "$\\frac{64}{21}$",
-     "en": "$\\frac{64}{21}$"
+     "ta": "64/21",
+     "en": "64/21"
     }
    },
    "answer": "C",
@@ -7752,8 +7752,8 @@
    "topic": "coding-decoding",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "A = 26, $\\text{SUN} = 27$, எனில் $\\text{CAT} = $?",
-    "en": "If $\\text{A} = 26$, $\\text{SUN} = 27$, then $\\text{CAT} = $?"
+    "ta": "A = 26, SUN = 27, எனில் CAT = ?",
+    "en": "If A = 26, SUN = 27, then CAT = ?"
    },
    "options": {
     "A": {
@@ -7785,25 +7785,25 @@
    "topic": "logical-reasoning",
    "format": "ONE_LINER",
    "stem": {
-    "ta": "$a \\neq b \\neq c$ எனக் கொடுக்கப்பட்டிருந்தால் பின்வருவனவற்றுள் எது சரி?",
-    "en": "If $a \\neq b \\neq c$ is given, which one of the following is correct?"
+    "ta": "a ≠ b ≠ c எனக் கொடுக்கப்பட்டிருந்தால் பின்வருவனவற்றுள் எது சரி?",
+    "en": "If a ≠ b ≠ c is given, which one of the following is correct?"
    },
    "options": {
     "A": {
-     "ta": "$b \\neq a \\neq c$",
-     "en": "$b \\neq a \\neq c$"
+     "ta": "b ≠ a ≠ c",
+     "en": "b ≠ a ≠ c"
     },
     "B": {
-     "ta": "$a, b, c$ ஆகியவை வெவ்வேறுஆனவை",
-     "en": "$a, b, c$ are distinct"
+     "ta": "a, b, c ஆகியவை வெவ்வேறுஆனவை",
+     "en": "a, b, c are distinct"
     },
     "C": {
-     "ta": "$a = b = c$",
-     "en": "$a = b = c$"
+     "ta": "a = b = c",
+     "en": "a = b = c"
     },
     "D": {
-     "ta": "$a \\neq c$ அல்லது $a = c$",
-     "en": "$a \\neq c \\text{ or } a = c$"
+     "ta": "a ≠ c அல்லது a = c",
+     "en": "a ≠ c or a = c"
     }
    },
    "answer": "D",
@@ -7860,20 +7860,20 @@
    },
    "options": {
     "A": {
-     "ta": "$\\frac{1}{12}$",
-     "en": "$\\frac{1}{12}$"
+     "ta": "1/12",
+     "en": "1/12"
     },
     "B": {
-     "ta": "$\\frac{5}{36}$",
-     "en": "$\\frac{5}{36}$"
+     "ta": "5/36",
+     "en": "5/36"
     },
     "C": {
-     "ta": "$\\frac{1}{9}$",
-     "en": "$\\frac{1}{9}$"
+     "ta": "1/9",
+     "en": "1/9"
     },
     "D": {
-     "ta": "$\\frac{7}{36}$",
-     "en": "$\\frac{7}{36}$"
+     "ta": "7/36",
+     "en": "7/36"
     }
    },
    "answer": "B",

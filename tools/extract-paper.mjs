@@ -5,6 +5,7 @@
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { apiKey, generateJson, pickModel, sleep } from './gemini.mjs';
+import { cleanMath } from './clean-math.mjs';
 
 const papers = JSON.parse(readFileSync('tools/papers.json', 'utf8'));
 const fileFor = (exam) => `content/questions/pyq-${exam.toLowerCase()}.json`;
@@ -29,6 +30,8 @@ const PROMPT = (p, page) => `You are transcribing an official TNPSC ${p.title} q
 A hand-drawn tick mark next to one option letter (A–D) marks the tentative answer.
 Transcribe EVERY question that STARTS on the FIRST image. The SECOND image (if given) is the next page: use it only to complete a question that continues there.
 Copy text exactly as printed, in proper Unicode Tamil and English. Do not translate, summarise or fix the questions. Skip option (E) "Answer not known".
+Never use LaTeX or $...$: write maths as plain text (1/3, x², √2, 5 × 4, π).
+Part rule for combined booklets: questions 1–100 are Part A (Tamil). Questions 101–200 are Part B (general studies) or Part C (aptitude/reasoning); a Tamil literature or Thirukkural question numbered above 100 is Part B, unit B6.
 For bilingual questions give both languages; for Tamil-only give "en": "".
 
 ${UNITS}
@@ -44,11 +47,16 @@ If a cell shows two letters like "B/C" return both; if it shows "ALL", "Deleted"
 Return JSON: {"answers":{"1":"A","2":"B/C","3":"DELETED",...}}. Only include numbers you can actually read.`;
 
 const L = ['A', 'B', 'C', 'D'];
-const bi = (x) => ({ ta: (x?.ta ?? '').trim(), en: (x?.en ?? '').trim() });
+const bi = (x) => ({ ta: cleanMath((x?.ta ?? '').trim()), en: cleanMath((x?.en ?? '').trim()) });
 const has = (x) => !!(x && (x.ta || x.en));
 
 function normalise(q, p) {
-  if (!Number.isInteger(q?.qNo) || !/^[ABC]$/.test(q.part) || !/^[ABC][1-7]$/.test(q.unit) || q.unit[0] !== q.part) return null;
+  if (!Number.isInteger(q?.qNo) || !/^[ABC][1-7]$/.test(q.unit ?? '')) return null;
+  if (/^G4-20(2[2-9])$/.test(p.exam)) {
+    if (q.qNo <= 100 && q.unit[0] !== 'A') q.unit = 'A5';
+    if (q.qNo > 100 && q.unit[0] === 'A') q.unit = 'B6';
+  }
+  q.part = q.unit[0];
   const options = Object.fromEntries(L.map((l) => [l, bi(q.options?.[l])]));
   if (!L.every((l) => has(options[l]))) return null;
   if (!L.includes(q.ticked)) return null;
@@ -81,8 +89,15 @@ async function main() {
   const byNo = new Map(doc.questions.map((q) => [q.qNo, q]));
   const delay = Number(process.env.GEMINI_DELAY_MS || 7000);
   let calls = 0;
+  const save = () => {
+    doc.questions = [...byNo.values()].sort((a, b) => a.qNo - b.qNo);
+    doc.extraction = `${doc.questions.filter((q) => q.ai).length} questions AI-extracted with ${model} on ${new Date().toISOString().slice(0, 10)}; others checked by hand.`;
+    writeFileSync(file, JSON.stringify(doc, null, 1) + '\n');
+  };
+  // Skip pages whose questions are all already present (resume after an interruption).
+  const startPage = Number(process.env.START_PAGE || 1);
 
-  for (let i = 0; i < pages.length && calls < maxPages; i++) {
+  for (let i = startPage - 1; i < pages.length && calls < maxPages; i++) {
     const parts = [{ text: PROMPT(p, i + 1) }, img(pages[i])];
     if (pages[i + 1]) parts.push(img(pages[i + 1]));
     try {
@@ -97,6 +112,7 @@ async function main() {
         }
       }
       console.log(`${pages[i]}: +${added} (total ${byNo.size})`);
+      if (added) save();
     } catch (e) {
       console.log(`${pages[i]}: ${e.message}`);
       if (/Daily quota/.test(e.message)) break;
@@ -137,9 +153,7 @@ async function main() {
     }
   }
 
-  doc.questions = [...byNo.values()].sort((a, b) => a.qNo - b.qNo);
-  doc.extraction = `${doc.questions.filter((q) => q.ai).length} questions AI-extracted with ${model} on ${new Date().toISOString().slice(0, 10)}; others checked by hand.`;
-  writeFileSync(file, JSON.stringify(doc, null, 1) + '\n');
+  save();
   console.log(`wrote ${file}: ${doc.questions.length} questions`);
 }
 

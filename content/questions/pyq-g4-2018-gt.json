@@ -2162,8 +2162,8 @@
   },
   {
    "qNo": 55,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "tn-history",
    "format": "ONE_LINER",
    "stem": {
@@ -2276,8 +2276,8 @@
   },
   {
    "qNo": 58,
-   "part": "B",
-   "unit": "B2",
+   "part": "A",
+   "unit": "A7",
    "topic": "sanctuaries",
    "format": "ONE_LINER",
    "stem": {
@@ -2314,8 +2314,8 @@
   },
   {
    "qNo": 59,
-   "part": "B",
-   "unit": "B3",
+   "part": "A",
+   "unit": "A7",
    "topic": "freedom-struggle",
    "format": "ONE_LINER",
    "stem": {
@@ -2653,8 +2653,8 @@
   },
   {
    "qNo": 67,
-   "part": "B",
-   "unit": "B6",
+   "part": "A",
+   "unit": "A7",
    "topic": "social-reformers",
    "format": "MATCH",
    "stem": {

@@ -3,6 +3,7 @@ import { db, type AttemptRow } from '../data/db';
 import { getQuestion, tagReason } from '../data/progress';
 import type { Bi, ErrorReason, Question } from '../data/types';
 import type { ChecklistKind } from '../engine/planner';
+import { Icon } from './icons';
 import { Button, Card, T, txt } from './kit';
 
 const REASONS: { v: ErrorReason; label: Bi }[] = [
@@ -31,7 +32,7 @@ export function TagMistakes({ sessionId, onDone }: { sessionId: string; onDone: 
   if (rows.length === 0) {
     return (
       <Card className="space-y-4 text-center">
-        <div className="text-4xl">🎯</div>
+        <Icon name="target" size={40} className="mx-auto text-teal-600" />
         <T v={{ ta: 'இன்று தவறுகள் இல்லை. அருமை!', en: 'No mistakes today. Well done!' }} />
         <Button onClick={onDone} className="w-full">முடிக்க ✓</Button>
       </Card>

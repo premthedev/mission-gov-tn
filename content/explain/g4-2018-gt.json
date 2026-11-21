@@ -1,0 +1,3466 @@
+{
+ "name": "G4-2018-GT",
+ "items": {
+  "pyq-G4-2018-GT-q001": {
+   "hint": {
+    "ta": "தொல்பொருள் ஆராய்ச்சி மற்றும் அகழ்வாராய்ச்சி தளங்களின் காலக்கட்டங்களைக் கேட்கும்போது சமச்சீர் புத்தகத்தில் கொடுக்கப்பட்டுள்ள சரியான வரலாற்று ஆண்டுகளைப் பாருங்கள்.",
+    "en": "Check the exact archaeological period mentioned in the Samacheer textbook for burial urns."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, ஆதிச்சநல்லூரில் கண்டெடுக்கப்பட்ட முதுமக்கள் தாழிகள் கி.மு. 400 முதல் கி.பி. 400 வரை காலக்கட்டத்தைச் சார்ந்தவை என்று கொள்ளப்படுகிறது.",
+    "en": "According to the official TNPSC answer key, the burial urns excavated at Adichanallur belong to the period between 400 BC and 400 AD."
+   },
+   "why": {
+    "A": {
+     "ta": "இது ஆதிச்சநல்லூர் காலக்கட்டத்திற்கான சரியான அதிகாரப்பூர்வ விடையாகக் கருதப்படவில்லை.",
+     "en": "This is not considered the official period for Adichanallur."
+    },
+    "B": {
+     "ta": "இது மற்ற வேறு சில அகழ்வாராய்ச்சி தளங்களின் காலத்தோடு தொடர்புடையது.",
+     "en": "This relates to a different archaeological site."
+    },
+    "D": {
+     "ta": "இதுவும் அதிகாரப்பூர்வ விடையாக ஏற்றுக்கொள்ளப்பட்ட காலக்கட்டம் அல்ல.",
+     "en": "This is also not the officially accepted period."
+    }
+   },
+   "rule": {
+    "ta": "அகழ்வாராய்ச்சித் தலங்களின் காலக்கட்டங்களை மனப்பாடம் செய்யும்போது TNPSC அதிகாரப்பூர்வ விடையைக் கவனத்தில் கொள்ள வேண்டும்.",
+    "en": "Remember the official dates given in textbooks for archaeological sites."
+   },
+   "eg": {
+    "ta": "கீழடி அகழ்வாராய்ச்சி காலம் கி.மு. 6 ஆம் நூற்றாண்டு என உறுதிப்படுத்தப்பட்டுள்ளது.",
+    "en": "Keezhadi excavation period is confirmed to be the 6th century BC."
+   },
+   "tip": {
+    "ta": "வரலாற்றுத் தேதிகள் மற்றும் காலக்கட்டங்களை ஒருமுறை எழுதிப் பார்ப்பது நல்லது.",
+    "en": "Write down historical dates and periods for better retention."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q002": {
+   "hint": {
+    "ta": "புத்தகத்தில் கொடுக்கப்பட்டுள்ள கவிதை வரிகளையும் அவற்றின் ஆசிரியர்களையும் சரியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match the poetic lines with their correct authors from the textbook."
+   },
+   "explain": {
+    "ta": "TNPSC அதிகாரப்பூர்வ விடைக்குறிப்பின்படி 'கன்று குரல் கேட்ட பசு' என்பது தாராபாரதி அவர்களின் படைப்புடன் தொடர்புடையதாகக் கருதப்படுகிறது.",
+    "en": "According to the official TNPSC answer key, 'Kandru Kural Ketta Pasu' is associated with Thaarabharathi."
+   },
+   "why": {
+    "A": {
+     "ta": "இது கவிகோ அல்லது தமிழ்ஒளியின் படைப்பு அல்ல.",
+     "en": "This is not a work of Kaviko."
+    },
+    "B": {
+     "ta": "இதை எழுதியவர் பாரதியார் அல்ல.",
+     "en": "This was not written by Bharathiyar."
+    },
+    "D": {
+     "ta": "இது ஆலந்தூரார் படைப்பு அல்ல.",
+     "en": "This does not belong to Alandhooraar."
+    }
+   },
+   "rule": {
+    "ta": "நூல்களையும் நூலாசிரியர்களையும் அவர்களின் வரிகளுடன் சேர்த்து படிக்க வேண்டும்.",
+    "en": "Study literary works and authors along with their famous lines."
+   },
+   "eg": {
+    "ta": "தாராபாரதியின் புகழ்பெற்ற நூல் புதிய தீர்ப்புகள் ஆகும்.",
+    "en": "Puthiya Theerpugal is a famous work of Thaarabharathi."
+   },
+   "tip": {
+    "ta": "நூலாசிரியர் பெயர்களைத் தனித்தனியே பட்டியலிட்டுப் படிக்கவும்.",
+    "en": "Maintain a separate list of authors and their works."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q003": {
+   "hint": {
+    "ta": "அறிவியல் மற்றும் கண்டுபிடிப்புகள் தொடர்பான கேள்விகளில் கண்டுபிடிப்பாளரின் பெயரைக் கவனமாக வாசிக்கவும்.",
+    "en": "Read the inventor's name carefully in science and discovery questions."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, புதிய பட வீழ்த்திகள் உருவாக தாமஸ் ஆல்வா எடிசன் அவர்களின் கருத்துக்களே அடிப்படையாக அமைந்தன.",
+    "en": "According to the official TNPSC answer key, Thomas Alva Edison's ideas formed the basis for new projectors."
+   },
+   "why": {
+    "A": {
+     "ta": "எட்வர்டு மைபிரிட்சு அசைவூட்டப் படங்களில் முன்னோடி ஆவார்.",
+     "en": "Edward Muybridge is a pioneer in motion pictures."
+    },
+    "B": {
+     "ta": "ஈஸ்ட்மன் புகைப்படச் சுருள் தயாரிப்புடன் தொடர்புடையவர்.",
+     "en": "Eastman is associated with photographic film."
+    },
+    "D": {
+     "ta": "பிரான்சிஸ் சென்கின்சு என்பது பாடத்தின் வேறு பகுதியில் வரும் பெயர்.",
+     "en": "Francis Jenkins appears in a different context."
+    }
+   },
+   "rule": {
+    "ta": "அறிவியல் வரலாறு மற்றும் கண்டுபிடிப்பாளர்கள் பற்றிய குறிப்புகளைச் சமச்சீர் நூலிலிருந்து படிக்கவும்.",
+    "en": "Learn history of science and inventors from Samacheer books."
+   },
+   "eg": {
+    "ta": "தாமஸ் ஆல்வா எடிசன் மின்சார குமிழைக் கண்டுபிடித்தவர்.",
+    "en": "Thomas Alva Edison invented the electric bulb."
+   },
+   "tip": {
+    "ta": "அறிவியல் மனிதர்களின் பெயர்களைக் குழப்பிக்கொள்ளாமல் நினைவில் கொள்ளவும்.",
+    "en": "Remember the names of scientists clearly without confusion."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q005": {
+   "hint": {
+    "ta": "தமிழ் இலக்கியத்தில் வசனகவிதை வடிவத்தை அறிமுகப்படுத்திய வெளிநாட்டுக் கவிஞர் யார் என்பதைச் சிந்திக்கவும்.",
+    "en": "Think about the foreign poet who inspired the prose poetry (Vachana Kavithai) form in Tamil."
+   },
+   "explain": {
+    "ta": "TNPSC அதிகாரப்பூர்வ விடைக்குறிப்பின்படி பாரதியார் ஹால் சிப்மேன் அவர்களின் சாயலில் வசனகவிதை எழுதிடத் தொடங்கினார்.",
+    "en": "According to the official TNPSC answer key, Bharathiyar started writing prose poetry in the style of Hall Chipman."
+   },
+   "why": {
+    "A": {
+     "ta": "ஜார்ஜ் எல். ஹார்ட் ஒரு தமிழறிஞர் மற்றும் கல்வியாளர் ஆவார்.",
+     "en": "George L. Hart is a Tamil scholar and academic."
+    },
+    "B": {
+     "ta": "வால்ட்விட்மன் அமெரிக்காவின் கட்டற்ற கவிஞர் ஆவார்.",
+     "en": "Walt Whitman is an American free verse poet."
+    },
+    "C": {
+     "ta": "லிண்ட் ஹோம் என்பவர் இத்துடன் தொடர்புடையவர் அல்ல.",
+     "en": "Lindholm is not related to this context."
+    }
+   },
+   "rule": {
+    "ta": "பாரதியாரின் வசனகவிதைக்கு அடிப்படையாக அமைந்தவர் குறித்த அதிகாரப்பூர்வத் தகவலை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the official fact regarding the inspiration behind Bharathiyar's prose poetry."
+   },
+   "eg": {
+    "ta": "பாரதியாரே தமிழில் முதன்முதலில் வசனகவிதையை எழுதியவர்.",
+    "en": "Bharathiyar was the first to write prose poetry in Tamil."
+   },
+   "tip": {
+    "ta": "வினாத்தாளில் உள்ள அதிகாரப்பூர்வ விடைகளை மட்டுமே தேர்வுக்குப் பின்பற்றவும்.",
+    "en": "Follow the official answers strictly for exam preparation."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q006": {
+   "hint": {
+    "ta": "பட்டியல் பொருத்தங்களில் ஒவ்வொரு உறுப்பின் எண்ணிக்கையையும் சரியாக வரிசைப்படுத்திப் பார்க்கவும்.",
+    "en": "Align the counts of each literary work correctly in matching questions."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இசை நாவல்கள் மூன்று, புதினங்கள் நான்கு, கவிதைத் தொகுப்புகள் பத்து மற்றும் மொழி பெயர்ப்புகள் ஐந்து ஆகும்.",
+    "en": "According to the official TNPSC answer key, musical novels are 3, novels are 4, poetry collections are 10, and translations are 5."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த எண்களின் வரிசை சமச்சீர் புத்தகத் தரவுகளுக்குப் பொருந்தாது.",
+     "en": "This order of numbers does not match textbook data."
+    },
+    "B": {
+     "ta": "இந்த வரிசை முறையும் தவறான பொருத்தத்தைத் தருகிறது.",
+     "en": "This order also results in an incorrect match."
+    },
+    "D": {
+     "ta": "இதுவும் அதிகாரப்பூர்வ விடை வரிசைக்கு மாற்றாக உள்ளது.",
+     "en": "This is also an alternative wrong sequence."
+    }
+   },
+   "rule": {
+    "ta": "நாமக்கல் கவிஞரின் படைப்புகளின் எண்ணிக்கையைத் துல்லியமாக நினைவில் வைத்துக் கொள்ள வேண்டும்.",
+    "en": "Remember the exact count of Namakkal Kavignar's literary works."
+   },
+   "eg": {
+    "ta": "நாமக்கல் கவிஞர் வெ. ராமலிங்கனார் தமிழகத்தின் முதல் அரசவைக் கவிஞர் ஆவார்.",
+    "en": "Namakkal Kavignar V. Ramalinganaar was the first poet laureate of Tamil Nadu."
+   },
+   "tip": {
+    "ta": "பொருத்துக கேள்விகளில் ஒன்றைச் சரியாகப் பிடித்தால் மொத்த விடையையும் எளிதில் கண்டறியலாம்.",
+    "en": "In matching questions, finding one correct pair can lead to the right answer easily."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q008": {
+   "hint": {
+    "ta": "மறைமலையடிகள் எழுதிய நாடக ஆராய்ச்சி நூல் எது என்பதைச் சமச்சீர் புத்தகத்திலிருந்து கண்டறியவும்.",
+    "en": "Identify the drama research book written by Maraimalai Adigal from the textbook."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி மறைமலையடிகள் எழுதிய நாடகத்தைப் பற்றிய ஆராய்ச்சி நூல் மதங்க சூளாமணி ஆகும்.",
+    "en": "According to the official TNPSC answer key, the research book on drama written by Maraimalai Adigal is Matanga Soolamani."
+   },
+   "why": {
+    "C": {
+     "ta": "சாகுந்தலம் என்பது காளிதாசரால் சமஸ்கிருதத்தில் எழுதப்பட்ட புகழ்பெற்ற நாடகமாகும்.",
+     "en": "Sakunthalam is a famous Sanskrit drama written by Kalidasa."
+    },
+    "D": {
+     "ta": "மனோன்மணீயம் என்பது பி. சுந்தரம்பிள்ளையால் எழுதப்பட்ட நூலாகும்.",
+     "en": "Manonmaniyam was written by P. Sundaramillai."
+    }
+   },
+   "rule": {
+    "ta": "தனித்தமிழ் இயக்கத் தந்தை மறைமலையடிகளின் நூல்களைத் தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Study the works of Maraimalai Adigal, the father of the Pure Tamil Movement, clearly."
+   },
+   "eg": {
+    "ta": "மறைமலையடிகள் அறிவுக்கடல் என்னும் இத நடத்தியவர்.",
+    "en": "Maraimalai Adigal edited the journal Arivukadal."
+   },
+   "tip": {
+    "ta": "ஆராய்ச்சி நூல்களையும் அவற்றின் ஆசிரியர்களையும் இணைத்து நினைவில் கொள்ளவும்.",
+    "en": "Remember research books and their authors together."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q009": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், செங்கோல் மற்றும் உழவர்க்கும் அரசுக்கும் உள்ள தொடர்பைக் கூறும் கவிஞரைத் தேடுங்கள்.",
+    "en": "Look for the poet who compares the farmer's stick with the king's scepter."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி பாரதிதாசன் என்பது சரியான விடை. இவர் உழவர்களின் சிறப்பையும் அவர்களின் ஏவுகோலையும் செங்கோலுடன் ஒப்பிட்டுப் பாடியுள்ளார்.",
+    "en": "According to the official answer, Bharathidasan is correct."
+   },
+   "why": {
+    "A": {
+     "ta": "பாரதியார் தேசிய உணர்வு மற்றும் விடுதலைப் பாடல்களை எழுதியுள்ளார்.",
+     "en": "Bharathiyar is known for national songs."
+    },
+    "C": {
+     "ta": "வில்லிபுத்தூரார் வில்லிபாரதம் இயற்றிய இடைக்காலப் புலவர் ஆவார்.",
+     "en": "Villiputhurar wrote Villibharatham."
+    },
+    "D": {
+     "ta": "கம்பர் இராமாயணம் இயற்றிய கவிச்சக்கரவர்த்தி ஆவார்.",
+     "en": "Kambar wrote Ramayanam."
+    }
+   },
+   "rule": {
+    "ta": "புலவர்களின் சிறப்பு வரிகளை அவர்களின் பெயருடன் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember famous lines along with their authors."
+   },
+   "eg": {
+    "ta": "தமிழுக்கும் அமுதென்று பேர் - பாரதிதாசன்",
+    "en": "Tamizhukkum amudhenru per - Bharathidasan"
+   },
+   "tip": {
+    "ta": "உழவு மற்றும் சமத்துவம் பற்றிய புரட்சிகர வரிகள் பெரும்பாலும் பாரதிதாசனுக்கே உரியவை.",
+    "en": "Revolutionary lines on farmers usually belong to Bharathidasan."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q010": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், வெளிநாட்டு அறிஞர்களின் பாராட்டைப் பெற்ற தமிழறிஞரை அடையாளம் காணுங்கள்.",
+    "en": "Identify the Tamil scholar praised by foreign researchers."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி திரு.வி.க. என்பது சரியான விடை. இவரின் தமிழ்த்தொண்டினை சூலியல் வின்சோன் பாராட்டியுள்ளார்.",
+    "en": "According to the official answer, Thiru.Vi.Ka is correct."
+   },
+   "why": {
+    "B": {
+     "ta": "மடமை மற்றும் சாதியை எதிர்த்து தனித்தமிழ் இயக்கம் கண்டவர் மறைமலையடிகள்.",
+     "en": "Maraimalai Adigal founded the Pure Tamil Movement."
+    },
+    "C": {
+     "ta": "பழந்தமிழ் ஓலைச்சுவடிகளைத் தேடிப் பதிப்பித்தவர் உ.வே.சா. ஆவார்.",
+     "en": "U.V.Swaminatha Iyer published ancient palm-leaf manuscripts."
+    },
+    "D": {
+     "ta": "எளிய தமிழில் குழந்தைப் பாடல்கள் எழுதியவர் கவிமணி தேசிக விநாயகம் பிள்ளை.",
+     "en": "Kavimani wrote simple poems for children."
+    }
+   },
+   "rule": {
+    "ta": "அறிஞர்களை வெளிநாட்டவர் பாராட்டிய குறிப்புகளைச் சமச்சீர் நூல்களிலிருந்து படிக்க வேண்டும்.",
+    "en": "Learn scholarly appreciations from Samacheer books."
+   },
+   "eg": {
+    "ta": "ஜி.யு.போப் திருக்குறளை ஆங்கிலத்தில் மொழிபெயர்த்தார்.",
+    "en": "G.U.Pope translated Thirukkural."
+   },
+   "tip": {
+    "ta": "சூலியல் வின்சோன் என்ற பெயருடன் தொடர்புடையவர் திரு.வி.க.",
+    "en": "Thiru.Vi.Ka is associated with Julien Vinson."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q011": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், இளைஞர்களின் சுயமுன்னேற்றம் பற்றிக் கூறிய சமூக சீர்திருத்தவாதியைத் தேடுங்கள்.",
+    "en": "Look for the social reformer who spoke about youth self-development."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி பாவேந்தர் பாரதிதாசன் என்பது சரியான விடை. இவர் இளைஞர்கள் உழைத்து முன்னேற வேண்டும் என்று வலியுறுத்தினார்.",
+    "en": "According to the official answer, Pavendar Bharathidasan is correct."
+   },
+   "why": {
+    "A": {
+     "ta": "தொழிலாளர் நலனுக்காகவும் தமிழ் வளர்ச்சிக்கும் பாடுபட்டவர் திரு.வி.க.",
+     "en": "Thiru.Vi.Ka worked for laborers and Tamil."
+    },
+    "B": {
+     "ta": "சுயமரியாதை இயக்கத்தைத் தோற்றுவித்து பகுத்தறிவு ஊட்டியவர் தந்தை பெரியார்.",
+     "en": "Periyar founded the Self-Respect Movement."
+    },
+    "D": {
+     "ta": "புதிய அறக்கட்டளை பாடல்கள் மற்றும் தேசப்பற்றுப் பாடல்கள் எழுதியவர் தாரா பாரதி.",
+     "en": "Tara Bharathi wrote patriotic poems."
+    }
+   },
+   "rule": {
+    "ta": "இளைஞர்களின் முன்னேற்றக் கருத்துகள் பாவேந்தரின் பாடல்களிலும் உரைகளிலும் இடம்பெற்றுள்ளன.",
+    "en": "Youth development thoughts are found in Pavendar's works."
+   },
+   "eg": {
+    "ta": "எந்திர ஊர்தي চালক - பாரதிதாசன்",
+    "en": "Engine vehicle driver - Bharathidasan"
+   },
+   "tip": {
+    "ta": "இளைஞர்களின் முன்னேற்றம் பற்றிக் கூறும் கூற்று பாரதிதாசனைச் சார்ந்ததாகும்.",
+    "en": "Statements on youth progress belong to Bharathidasan."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q012": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், நீதிநெறி விளக்கம் நூலுக்கு உரை எழுதிய பாடல்களின் எண்ணிக்கையைக் கவனியுங்கள்.",
+    "en": "Note the number of verses commented on by Parithimar Kalaignar."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஐம்பத்தொன்று என்பது சரியான விடை. பரிதிமாற்கலைஞர் குமரகுருபரரின் நீதிநெறி விளக்கம் நூலில் 51 பாடல்களுக்கு உரை எழுதியுள்ளார்.",
+    "en": "According to the official answer, fifty-one is correct."
+   },
+   "why": {
+    "A": {
+     "ta": "முப்பத்து மூன்று என்பது தவறான எண்ணிக்கையாகும்.",
+     "en": "Thirty-three is an incorrect count."
+    },
+    "B": {
+     "ta": "ஐம்பது என்பது சரியான கணக்கு அல்ல.",
+     "en": "Fifty is not the correct count."
+    },
+    "D": {
+     "ta": "ஐம்பத்து மூன்று என்பது இந்த நூலுக்கான உரை எண்ணிக்கையല്ല.",
+     "en": "Fifty-three is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "நூல்களின் பாடல் எண்ணிக்கைகளையும் உரையாசிரியர்களின் விவரங்களையும் சரியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember book statistics and commentators accurately."
+   },
+   "eg": {
+    "ta": "நீதிநெறி விளக்கம் நூலின் மொத்தப் பாடல்கள் 102 ஆகும்.",
+    "en": "Total songs in Neethineri Vilakkam is 102."
+   },
+   "tip": {
+    "ta": "நீதிநெறி விளக்கத்தில் பாதிப் பாடல்களுக்கு (51) பரிதிமாற்கலைஞர் உரை எழுதியுள்ளார்.",
+    "en": "Parithimar Kalaignar wrote commentary for half (51) of the verses."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q013": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், தமிழகத்தில் உள்ள குடைவரைக் கோயில்களில் எது மிகவும் பழமையானது என்று பார்க்கவும்.",
+    "en": "Check which rock-cut cave temple in Tamil Nadu is the oldest."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கழுகு மலை என்பது சரியான விடை. இது தமிழ்நாட்டில் உள்ள முக்கியமான குடைவரைக் கோயில்களில் ஒன்றாகும்.",
+    "en": "According to the official answer, Kazhugumalai is correct."
+   },
+   "why": {
+    "A": {
+     "ta": "பிள்ளையார்பட்டி குடைவரைக் கோயில் பாண்டிய மன்னர்களின் காலத்தைச் சேர்ந்தது.",
+     "en": "Pillayarpatti cave temple belongs to Pandya kings."
+    },
+    "C": {
+     "ta": "திருப்பரங்குன்றம் குடைவரைக் கோயில் மதுரையின் அருகில் உள்ளது.",
+     "en": "Thiruparankundram is near Madurai."
+    },
+    "D": {
+     "ta": "ஆனைமலை குடைவரைக் கோயில் சோழர் அல்லது பாண்டியர் காலப் பணியாகும்.",
+     "en": "Anaimalai cave temple is an ancient structure."
+    }
+   },
+   "rule": {
+    "ta": "தமிழகக் குடைவரைக் கோயில்களின் வரிசையைத் தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Study the chronology of Tamil Nadu cave temples."
+   },
+   "eg": {
+    "ta": "மாமல்லபுரம் பல்லவர் காலத்துக் குடைவரைக் கோயில்களுக்குச் சான்றாகும்.",
+    "en": "Mahabalipuram represents Pallava cave temples."
+   },
+   "tip": {
+    "ta": "குடைவரைக் கோயில்களில் கழுகு மலை பற்றிய வினாக்களுக்கு விடை அளிக்கும்போது வினாத்தாளின் குறிப்பை ஏற்கவும்.",
+    "en": "Accept the official key for cave temple questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q014": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், மொழி மற்றும் இனம் குறித்த புகழ்பெற்ற வெளிநாட்டு வரி எழுதிய கவிஞரைத் தேடுங்கள்.",
+    "en": "Look for the foreign poet who wrote about mother tongue."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இரசூல் கம்ச தோவ் என்பது சரியான விடை. உருசியக் கவிஞரான இவர் தன் மொழியைப் பற்றி இச்சிறப்பு வரிகளைப் பாடியுள்ளார்.",
+    "en": "According to the official answer, Rasul Gamzatov is correct."
+   },
+   "why": {
+    "A": {
+     "ta": "பாரதிதாசன் தமிழ்நாட்டின் புரட்சிக் கவிஞர் ஆவார்.",
+     "en": "Bharathidasan is the revolutionary poet of Tamil Nadu."
+    },
+    "B": {
+     "ta": "உமர் கய்யாம் பாரசீகத்தைச் சேர்ந்த புகழ்பெற்ற கவிஞர் ஆவார்.",
+     "en": "Omar Khayyam is a Persian poet."
+    },
+    "D": {
+     "ta": "க. வைரமுத்து சமகாலத் தமிழ்க் கவிஞர் மற்றும் பாடலாசிரியர் ஆவார்.",
+     "en": "Vairamuthu is a contemporary Tamil poet."
+    }
+   },
+   "rule": {
+    "ta": "உலகக் கவிஞர்களின் புகழ்பெற்ற வரிகளைச் சமச்சீர் புத்தகத்திலிருந்து கற்க வேண்டும்.",
+    "en": "Learn famous lines of world poets from Samacheer books."
+   },
+   "eg": {
+    "ta": "என் கவிதை என் தாய்மொழியில் உள்ளது - இரசூல் கம்ச தோவ்",
+    "en": "My poetry is in my mother tongue - Rasul Gamzatov"
+   },
+   "tip": {
+    "ta": "வேரில்லாத மரம் மற்றும் கூடில்லாத பறவை உவமை இரசூல் கம்ச தோவ் வரிகளாகும்.",
+    "en": "The simile of rootless tree belongs to Rasul Gamzatov."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q015": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ் அறிஞர்கள் கூறிய புகழ்பெற்ற சொற்றொடர்களை நினைவுகூர்ந்து பார்க்கவும்.",
+    "en": "Look for the famous literary quote attributed to Tamil scholars."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 'நோய்க்கு மருந்து இலக்கியம்' என்று கூறியவர் மறைமலை அடிகளார் ஆவார். எனினும், குறிப்புகளின்படி இது மகாவித்துவான் மீனாட்சி சுந்தரனாரைக் குறிப்பதாகவும் வரலாம். தேர்வில் அதிகாரப்பூர்வ விடைக்கே முக்கியத்துவம் தர வேண்டும்.",
+    "en": "According to the official answer key, Maraiimalai Adigalar said this phrase, though some notes attribute it to Meenakshi Sundaranar."
+   },
+   "why": {
+    "A": {
+     "ta": "உ. வே. சாமிநாதர் ஏடுகளையும் தமிழ் இலக்கியங்களையும் தேடிப் பதிப்பித்தவர் ஆவார்.",
+     "en": "U.V. Swaminatha Iyer is renowned for editing and publishing ancient Tamil manuscripts."
+    },
+    "B": {
+     "ta": "மகாவித்துவான் மீனாட்சி சுந்தரனார் பல தமிழ் சிற்றிலக்கியங்களை இயற்றிய சிறந்த புலவர் ஆவார்.",
+     "en": "Mahavidwan Meenakshi Sundaranar was a prominent Tamil scholar and poet."
+    },
+    "C": {
+     "ta": "பரிதிமாற்கலைஞர் தனித்தமிழ் இயக்கத்திற்கு வித்திட்டவர்களில் ஒருவராவார்.",
+     "en": "Parithimar Kalaignar pioneered the pure Tamil movement."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் அறிஞர்களின் புகழ்மிக்க கூற்றுகள் மற்றும் வாக்கியங்களைச் சமச்சீர் நூல்களிலிருந்து படித்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize famous quotes and statements by Tamil scholars from Samacheer textbooks."
+   },
+   "eg": {
+    "ta": "யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம் - பாரதியார்.",
+    "en": "Yamarindha mozhigalile... - Bharathiyar."
+   },
+   "tip": {
+    "ta": "அறிஞர்களின் மேற்கோள்களைப் படிக்கையில் அவர்களின் பெயர்களைக் குழப்பிக்கொள்ளாமல் குறிப்பெடுத்துப் படிக்கவும்.",
+    "en": "Make separate notes for scholar quotes to avoid confusion during exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q016": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட வரிகள் இடம்பெற்றுள்ள காப்பிய அல்லது புராண நூலைக் கண்டறிய வேண்டும்.",
+    "en": "Identify the epic or literary work containing the given verses."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இவ்வடிகள் இடம்பெற்றுள்ள நூல் சிலப்பதிகாரம் ஆகும். எனினும், சில குறிப்புகள் இப்பாடல் வரிகள் பெரியபுராணத்தில் உள்ளதாகக் கூறுகின்றன. தேர்வில் அதிகாரப்பூர்வ விடையே இறுதியானது.",
+    "en": "According to the official answer key, the verses are from Silappathikaram, although some notes point to Periyapuranam."
+   },
+   "why": {
+    "A": {
+     "ta": "பெரியபுராணம் சேக்கிழாரால் பாடப்பட்ட அறுபத்து மூவரின் வரலாற்றைக் கூறும் நூலாகும்.",
+     "en": "Periyapuranam by Sekkizhar details the lives of the 63 Nayanmars."
+    },
+    "B": {
+     "ta": "திருவிளையாடற்புராணம் சிவபெருமானின் திருவிளையாடல்களைக் கூறும் நூலாகும்.",
+     "en": "Thiruvilaiyadal Puranam describes the divine games of Lord Shiva."
+    },
+    "D": {
+     "ta": "சீறாப்புராணம் நபிகள் நாயகத்தின் வரலாற்றைக் கூறும் இசுலாமிய காப்பியமாகும்.",
+     "en": "Seerapuranam is an Islamic epic on the life of Prophet Muhammad."
+    }
+   },
+   "rule": {
+    "ta": "ஐம்பெரும் காப்பியங்களில் ஒன்றான சிலப்பதிகாரத்தில் வரும் புகழ்பெற்ற வரிகளை நன்கு நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the verses from the five great epics, especially Silappathikaram."
+   },
+   "eg": {
+    "ta": "நெஞ்சை அள்ளும் சிலப்பதிகாரம் என்றார் பாரதியார்.",
+    "en": "Bharathiyar praised Silappathikaram."
+   },
+   "tip": {
+    "ta": "பழங்காலக் காப்பியங்களின் செய்யுள் அடிகளைப் படிக்கும்போது மூல நூலின் பெயரைக் குறிப்பெடுத்துப் படிக்கவும்.",
+    "en": "Note down the source text when studying classical epic verses."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q018": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தலைவர்கள் விரும்பிப் படித்த இலக்கிய நூல்களைப் பற்றித் தேடிப் பார்க்கவும்.",
+    "en": "Find out the favorite literary works of prominent political leaders."
+   },
+   "explain": {
+    "ta": "பேரறிஞர் அண்ணாவிற்கு மிகவும் விருப்பமான இலக்கியம் கலிங்கத்துப்பரணி ஆகும். இது போர்க்களக் காட்சிகளைத் துல்லியமாக விவரிக்கும் சிற்றிலக்கிய வகையைச் சார்ந்த நூலாகும்.",
+    "en": "Kalingathuparani is the favorite literary work of Perarignar Anna, which graphically describes battlefield scenes."
+   },
+   "why": {
+    "B": {
+     "ta": "திருக்குறள் உலகப் பொதுமறை என அழைக்கப்படும் நீதி நூலாகும்.",
+     "en": "Thirukkural is the universal ethical book of Tamils."
+    },
+    "C": {
+     "ta": "கம்பராமாயணம் கம்பரால் இயற்றப்பட்ட இதிகாசக் காப்பியமாகும்.",
+     "en": "Kamba Ramayanam is the epic authored by Kambar."
+    },
+    "D": {
+     "ta": "பரிபாடல் எட்டுத்தொகை நூல்களுள் ஒன்றாகும்.",
+     "en": "Paripadal is one of the Eight Anthologies (Ettuthokai)."
+    }
+   },
+   "rule": {
+    "ta": "தலைவர்களின் விருப்பமான நூல்கள் மற்றும் அவர்கள் எழுதிய படைப்புகளைப் பட்டியலிட்டுப் படிக்க வேண்டும்.",
+    "en": "Study the favorite books of leaders and their own literary works."
+   },
+   "eg": {
+    "ta": "தனித்து வாழ விரும்பவில்லை என்ற அண்ணாவின் கூற்றுடன் கலிங்கத்துப்பரணி தொடர்புபடுத்தப்படுகிறது.",
+    "en": "Anna often referred to Kalingathuparani in his speeches."
+   },
+   "tip": {
+    "ta": "கலிங்கத்துப்பரணி செயங்கொண்டாரால் பாடப்பட்டது என்பதை மறந்துவிடக் கூடாது.",
+    "en": "Remember that Kalingathuparani was authored by Jayankondar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q019": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ் மொழியை வெளிநாட்டவர் அல்லது அறிஞர்கள் எவ்வாறு புகழ்ந்தனர் என்பதைப் பார்க்கவும்.",
+    "en": "Check how scholars or foreign experts praised the Tamil language."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 'தமிழ் மொழி அழகான சித்திரவேலைப்பாடமைந்த வெள்ளித் தட்டு' என்று கூறியவர் கவிமணி தேசிக விநாயகம் பிள்ளை ஆவார். எனினும், சில குறிப்புகள் டாக்டர் கிரௌல் என்று கூறுகின்றன; அதிகாரப்பூர்வ விடையே இறுதியானது.",
+    "en": "According to the official answer key, Kavimani Desika Vinayagam Pillai made this statement, though some notes credit Dr. Graul."
+   },
+   "why": {
+    "B": {
+     "ta": "ஜி.யு. போப் திருக்குறள், திருவாசகம் போன்ற நூல்களை ஆங்கிலத்தில் மொழிபெயர்த்தவர் ஆவார்.",
+     "en": "G.U. Pope translated Thirukkural and Tiruvasagam into English."
+    },
+    "C": {
+     "ta": "டாக்டர் கிரௌல் தமிழ் மொழியின் சிறப்புகளைப் பாராட்டிய வெளிநாட்டு அறிஞர்களில் ஒருவர்.",
+     "en": "Dr. Graul is a foreign scholar who praised Tamil."
+    },
+    "D": {
+     "ta": "கால்டுவெல் திராவிட மொழிகளின் ஒப்பிலக்கணம் எழுதிய மொழியியலாளர் ஆவார்.",
+     "en": "Caldwell authored the Comparative Grammar of Dravidian Languages."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் மொழியின் சிறப்புப் புகாரிகளைத் தெரிவிக்கும் அறிஞர்களின் பெயர்களைத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the scholars who praised the greatness of the Tamil language."
+   },
+   "eg": {
+    "ta": "யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம்.",
+    "en": "Tamil is the sweetest of all known languages."
+   },
+   "tip": {
+    "ta": "தமிழ் மொழியைப் பற்றிய உவமானங்களைக் குழப்பிக்கொள்ளாமல் தனித்தனியாகப் படிக்கவும்.",
+    "en": "Do not confuse metaphors used to describe the Tamil language."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q021": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ்நாட்டிலும் காசியிலும் மடங்களை நிறுவிய ஆன்மீகப் புலவர் யார் என்பதைப் பார்க்கவும்.",
+    "en": "Identify the spiritual poet who established mutts in Thiruppananthal and Kashi."
+   },
+   "explain": {
+    "ta": "திருப்பனந்தாளிலும் காசியிலும் தம் பெயரால் மடம் நிறுவிய பெருமை குமரகுருபரரைக் சாரும். இவர் மதுரை மீனாட்சியம்மை மீது பிள்ளைத்தமிழ் பாடிய சிற்றிலக்கியப் புலவர் ஆவார்.",
+    "en": "Kumaraguruparar established mutts in Thiruppananthal and Kashi under his name and composed Meenakshi Ammai Pillaithamizh."
+   },
+   "why": {
+    "A": {
+     "ta": "இராமலிங்க அடிகளார் சமரச சன்மார்க்க சங்கத்தை நிறுவி அருட்பா வழங்கியவர் ஆவார்.",
+     "en": "Ramalinga Adigal founded Samarasa Suddha Sanmarga Satya Sangam."
+    },
+    "B": {
+     "ta": "தாயுமானவர் பக்திப் பாடல்களுடன் எக்காலத்திற்கும் பொருந்தும் தத்துவப் பாடல்களை இயற்றியவர்.",
+     "en": "Thayumanavar composed philosophical songs blending Saiva Siddhanta and Vedanta."
+    },
+    "D": {
+     "ta": "வில்லிபுத்தூரார் வில்லிபாரதத்தை இயற்றிய புகழ்பெற்ற தமிழ்ப் புலவர் ஆவார்.",
+     "en": "Villiputhurar authored Villibharatham."
+    }
+   },
+   "rule": {
+    "ta": "குமரகுருபரர் வடநாடு சென்று காசியில் மடம் நிறுவிய ஆன்மீகப் புலவர் என்பதை எப்போதும் நினைவில் கொள்க.",
+    "en": "Remember that Kumaraguruparar traveled to North India and established mutts in Kashi."
+   },
+   "eg": {
+    "ta": "மீனாட்சியம்மை பிள்ளைத்தமிழ், நீதிநெறி விளக்கம் ஆகியவை குமரகுருபரர் நூல்களாகும்.",
+    "en": "Meenakshi Ammai Pillaithamizh and Neethineri Vilakkam are works of Kumaraguruparar."
+   },
+   "tip": {
+    "ta": "காசி மற்றும் திருப்பனந்தாள் மடம் என்றதுமே குமரகுருபரர் ஞாபகத்திற்கு வர வேண்டும்.",
+    "en": "Recall Kumaraguruparar immediately upon seeing Kashi and Thiruppananthal mutts."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q022": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் புலவர்கள் யாரிடம் கல்வி கற்றார்கள் என்ற குரு-சீடர் வரலாற்றைத் தெரிந்து கொள்ள வேண்டும்.",
+    "en": "Check the teacher-student relationship among Tamil scholars."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, மயிலேறும் பெருமாளிடம் கல்வி கற்றவர் வீரமாமுனிவர் ஆவார். இத்தகு ஆசிரியர்களைப் பற்றிய குறிப்புகள் சமச்சீர் இலக்கிய வரலாற்றில் இடம்பெற்றுள்ளன.",
+    "en": "According to the official answer key, Veeramamunivar learned under Mayilerum Perumal, as noted in literary history."
+   },
+   "why": {
+    "A": {
+     "ta": "சுவாமிநாத தேசிகர் இலக்கண விளக்கம் எழுதிய சிறந்த தமிழ்ப் புலவர் ஆவார்.",
+     "en": "Swaminatha Desikar authored Ilakkana Vilakkam."
+    },
+    "C": {
+     "ta": "சி. இலக்குவனார் தனித்தமிழ் மற்றும் செந்தமிழ் வளர்ச்சிக்காகப் பாடுபட்ட கல்வியாளர் ஆவார்.",
+     "en": "C. Ilakkuvanar was an educator who fought for pure Tamil development."
+    },
+    "D": {
+     "ta": "மீனாட்சி சுந்தரனார் பல புலவர்களைத் தன் மாணவர்களாகக் கொண்ட மகாவித்துவான் ஆவார்.",
+     "en": "Meenakshi Sundaranar was a Mahavidwan who mentored numerous students."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் அறிஞர்களின் ஆசிரியர்கள் மற்றும் அவர்களின் மாணவர்களின் பெயர்களைத் தொகுத்துப் படிக்க வேண்டும்.",
+    "en": "Study the list of teachers and disciples among Tamil literary scholars."
+   },
+   "eg": {
+    "ta": "மகாவித்துவான் மீனாட்சி சுந்தரனாரின் மாணவர் உ. வே. சாமிநாதர் ஆவார்.",
+    "en": "U.V. Swaminatha Iyer was a student of Meenakshi Sundaranar."
+   },
+   "tip": {
+    "ta": "வீரமாமுனிவரின் குரு பெயர் மயிலேறும் பெருமாள் என்பதைத் தனிக்குறிப்பாக எழுதிப் படிக்கவும்.",
+    "en": "Note down Mayilerum Perumal as the teacher of Veeramamunivar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q023": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் திருமூலர் அருளிய திருமந்திரத்தில் உள்ள தந்திரங்களின் பெயர்களை நினைவுகூர்ந்து பார்க்கவும்.",
+    "en": "When asked about Thirumandiram, recall the specific tantram mentioned in the official answer."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இப்பாடல் எட்டாம் தந்திரத்தில் இடம்பெற்றுள்ளது என்று கொள்ள வேண்டும். மூலநூலில் முரண்பாடுகள் இருப்பினும் TNPSC தேர்வில் அதிகாரப்பூர்வ விடயமே இறுதியானது.",
+    "en": "According to the official TNPSC answer key, this song belongs to the eighth tantram."
+   },
+   "why": {
+    "A": {
+     "ta": "ஆறாம் தந்திரம் என்பது வேறு சில பாடல்களைக் கொண்டது.",
+     "en": "Sixth tantram contains different verses."
+    },
+    "B": {
+     "ta": "இரண்டாம் தந்திரம் என்பது வேறு பொருளை விளக்குவது.",
+     "en": "Second tantram explains a different context."
+    },
+    "C": {
+     "ta": "மூன்றாம் தந்திரம் என்பது உடல் பாதுகாப்பு பற்றிக் கூறினாலும், TNPSC இந்த விடையை ஏற்கவில்லை.",
+     "en": "Third tantram is not the official answer here."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் முந்தைய ஆண்டு வினாக்களின் அதிகாரப்பூர்வ விடையையே எப்போதும் அடிப்படையாகக் கொள்ள வேண்டும்.",
+    "en": "Always follow the official TNPSC answer key for previous year questions."
+   },
+   "eg": {
+    "ta": "திருமந்திரம் மொத்தம் ஒன்பது தந்திரங்களைக் கொண்டது.",
+    "en": "Thirumandiram has a total of nine tantrams."
+   },
+   "tip": {
+    "ta": "தேர்வு குறிப்பு எனில் TNPSC விடையை அப்படியே மனத்தில் கொள்ளவும்.",
+    "en": "Memorize the official exam key for direct repetition."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q024": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் திருக்குறளின் இயல்களும் அவை அடங்கிய பால்களும் குழப்பாமல் இருக்கிறதா என்று கவனிக்கவும்.",
+    "en": "When asked about the chapters of Thirukkural, check the respective paal carefully."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'அங்கவியல்' காமத்துப் பால் பகுதியில் இடம்பெற்றுள்ளது எனக் கொள்ள வேண்டும். எனினும் சமச்சீர் நூலில் இது பொருட்பாலில் உள்ளது.",
+    "en": "According to the official key, Angaviyal is under Kamatthupaal."
+   },
+   "why": {
+    "A": {
+     "ta": "அறத்துப் பால் பகுதியில் பாயிரவியல், இல்லறவியல், துறவறவியல், ஊழியல் ஆகியவை உள்ளன.",
+     "en": "Arathupaal contains domestic and ascetic virtues."
+    },
+    "B": {
+     "ta": "பொருட் பால் பகுதியில் அரசியல், அமைச்சியல் போன்ற இயல்கள் உள்ளன.",
+     "en": "Porutpaal contains politics and governance chapters."
+    },
+    "D": {
+     "ta": "இது சரியான விடையல்ல.",
+     "en": "This is not the correct answer."
+    }
+   },
+   "rule": {
+    "ta": "சில சமயங்களில் முந்தைய ஆண்டு தேர்வுகளில் அமைந்த அதிகாரப்பூர்வ விடிகளையே தேர்வுக்குப் படிக்க வேண்டும்.",
+    "en": "Learn the official answers of past exams even if textbook facts differ slightly."
+   },
+   "eg": {
+    "ta": "திருக்குறளில் மொத்தம் 9 இயல்கள் உள்ளன.",
+    "en": "Thirukkural has a total of 9 chapters (iyal)."
+   },
+   "tip": {
+    "ta": "தேர்வு முறை வினாக்களுக்கு விடை அளிக்கும்போது அதிகாரப்பூர்வ திறவுகோலை நினைவில் வைக்கவும்.",
+    "en": "Keep the official key in mind for exam repetitions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q025": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் குறளில் வரும் சொற்களின் பொருளைச் சமச்சீர் கல்வி சொற்களஞ்சியத்திலிருந்து கண்டறியவும்.",
+    "en": "When asked for the meaning of a Kural word, recall the standard glossary."
+   },
+   "explain": {
+    "ta": "இக்குறளில் 'ஏமாப்பு' என்ற சொல்லுக்கு பாதுகாப்பு என்பது பொருளாகும். கல்வி ஒருவனுக்கு எக்காலத்திலும் பாதுகாப்பாக அமையும்.",
+    "en": "The word emaappu in this Kural means protection or security."
+   },
+   "why": {
+    "A": {
+     "ta": "பெருமை என்பது புகழைக் குறிக்கும் சொல்.",
+     "en": "Perumai means greatness or fame."
+    },
+    "B": {
+     "ta": "ஏமாற்றம் என்பது தோல்வியைக் குறிக்கும்.",
+     "en": "Emaatram means disappointment."
+    },
+    "D": {
+     "ta": "பொறுமை என்பது சகிப்புத்தன்மையைக் குறிக்கும்.",
+     "en": "Porumai means patience."
+    }
+   },
+   "rule": {
+    "ta": "திருக்குறள் சொற்பொருள்களைத் தெளிவாகப் படித்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the exact meanings of Thirukkural words as given in textbooks."
+   },
+   "eg": {
+    "ta": "ஒருமைக்கண் தான்்கற்ற கல்வி ஒருவற்கு எழுமையும் ஏமாப்பு உடைத்து - கல்வி அழியாத பாதுகாப்பு.",
+    "en": "Education is everlasting protection for a person."
+   },
+   "tip": {
+    "ta": "ஏமாப்பு என்றால் பாதுகாப்பு என்பதை எளிதில் நினைவில் கொள்க.",
+    "en": "Remember emaappu equals protection."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q026": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பிற்காலப் பதினெண்கீழ்க்கணக்கு நூல்களின் வேறு பெயர்களைச் சரிபார்க்கவும்.",
+    "en": "When asked for alternative names of minor literary works, check the textbook terms."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சிறுபஞ்சமூலம் அறவுரைக் கோவை என அழைக்கப்படுகிறது எனின் அதையே கொள்ள வேண்டும். சமச்சீரில் மூதுமொழிக்காஞ்சி அறவுரைக் கோவை எனப்படும்.",
+    "en": "According to the official key, Sirupanjamoolam is known as Aravuraikovai."
+   },
+   "why": {
+    "A": {
+     "ta": "மூதுமொழிக்காஞ்சி என்பது முதுமொழி காஞ்சி எனவும் அழைக்கப்படும் அறநூல்.",
+     "en": "Muthumozhikkanchi is another moral text."
+    },
+    "B": {
+     "ta": "ஆசாரக்கோவை என்பது நல்ல ஒழுக்கங்களைக் கூறும் நூல்.",
+     "en": "Asarakovai speaks about good conduct."
+    },
+    "C": {
+     "ta": "ஏலாதி என்பது ஐந்து மருந்துப் பொருட்களைக் கொண்ட நூலாகும்.",
+     "en": "Elathi contains five medicinal ingredients."
+    }
+   },
+   "rule": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களின் சிறப்புப் பெயர்களைத் தேர்வுக்குத் தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Learn the special names of Pathinenkilkanakku texts thoroughly."
+   },
+   "eg": {
+    "ta": "நாலடியார் நாலடி நானூறு என அழைக்கப்படுகிறது.",
+    "en": "Naladiyar is also called Naladi naanuru."
+   },
+   "tip": {
+    "ta": "வினா தாளில் உள்ள அதிகாரப்பூர்வ விடையையே தேர்வுக்குப் பயன்படுத்தவும்.",
+    "en": "Use the official answer key for exam preparation."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q027": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் உலகப் பொதுமறையான திருக்குறளைப் போற்றிய வெளிநாட்டு நபர்களைப் பற்றி யோசிக்கவும்.",
+    "en": "When asked about foreign figures who praised Thirukkural, recall historical facts."
+   },
+   "explain": {
+    "ta": "மகாபாரதம் என்பது இங்கிலாந்து மகாராணி விக்டோரியா காலையில் கண் விழித்ததும் படித்ததாக TNPSC விடைக்குறிப்பு கூறுகின்றது. பொதுவாக விக்டோரியா மகாராணி திருக்குறளைப் படித்தவர் எனக் பாடங்களில் கூறப்பட்டுள்ளது.",
+    "en": "According to the official answer key, Mahabharatam is the answer, though textbooks mention Thirukkural."
+   },
+   "why": {
+    "A": {
+     "ta": "திருவருட்பா என்பது ராமலிங்க அடிகளார் பாடிய அருட்பாடல் தொகுப்பாகும்.",
+     "en": "Thiruvarutpa is authored by Vallalar."
+    },
+    "B": {
+     "ta": "திருக்குறள் உலகப் புகழ்பெற்ற அறநூலாகும்.",
+     "en": "Thirukkural is a world-renowned ethics book."
+    },
+    "D": {
+     "ta": "இராமாயணம் வால்மீக்கியால் வடமொழியில் இயற்றப்பட்டது.",
+     "en": "Ramayana was written by Valmiki."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு வினாக்களில் அதிகாரப்பூர்வ விடைக்கே முதலிடம் தர வேண்டும்.",
+    "en": "Give primary importance to the official exam answer."
+   },
+   "eg": {
+    "ta": "திருக்குறள் பல மொழிகளில் மொழிபெயர்க்கப்பட்டுள்ளது.",
+    "en": "Thirukkural has been translated into many languages."
+   },
+   "tip": {
+    "ta": "TNPSC தேர்வில் முந்தைய வினாக்களின் விடிகளை மனப்பாடம் செய்வது நலம்.",
+    "en": "Memorizing previous exam keys helps in direct questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q028": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் குடிமக்கள் காப்பியம் அல்லது வரலாற்று காப்பியம் எதுவென்று கண்டறியவும்.",
+    "en": "When asked about the epic of the common people, identify Silappathikaram."
+   },
+   "explain": {
+    "ta": "சிலப்பதிகாரம் குடிமக்கள் வரலாறே ஆதி காப்பியமாகத் தமிழ்நாட்டில் அமைந்து விளங்குவதால் இது குடிமக்கள் காப்பியம் என அழைக்கப்படுகிறது. இந்நூல் இளங்கோவடிகளால் இயற்றப்பட்டது.",
+    "en": "Silappathikaram is known as the epic of the common people reflecting their history."
+   },
+   "why": {
+    "A": {
+     "ta": "சீவகசிந்தாமணி சமண காப்பியமாகவும் திருத்தக்கதேவரால் இயற்றப்பட்டதாகவும் விளங்கும்.",
+     "en": "Sivagasinthamani is a Jain epic written by Thiruthakkadevar."
+    },
+    "C": {
+     "ta": "மணிமேகலை பௌத்த காப்பியமாகவும் சீத்தலைச் சாத்தனாரால் இயற்றப்பட்டதாகவும் உள்ளது.",
+     "en": "Manimegalai is a Buddhist epic written by Chithalai Sathanar."
+    },
+    "D": {
+     "ta": "கம்பராமாயணம் கம்பரால் இயற்றப்பட்ட நூலாகும்.",
+     "en": "Kambaramayanam was written by Kambar."
+    }
+   },
+   "rule": {
+    "ta": "ஐம்பெரும் காப்பியங்களின் சிறப்புப் பெயர்களை எப்போதும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Always remember the special names and authors of the five great epics."
+   },
+   "eg": {
+    "ta": "மணிமேகலை துறவு காப்பியம் என அழைக்கப்படுகிறது.",
+    "en": "Manimegalai is called the epic of renunciation."
+   },
+   "tip": {
+    "ta": "கோவலன் கண்ணகி கதையைக் கூறும் குடிமக்கள் காப்பியம் சிலப்பதிகாரமாகும்.",
+    "en": "Remember Silappathikaram is the people's epic."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q029": {
+   "hint": {
+    "ta": "எட்டுத்தொகை நூல்களின் சிறப்பியல்புகள் மற்றும் அவற்றின் வேறு பெயர்களைக் கவனித்து விடை காணவும்.",
+    "en": "Look at the special features and alternative names of Ettuthokai books."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, எட்டுத்தொகை நூல்களில் 'நாடகப் பாங்கில்' அமைந்துள்ள நூல் குறுந்தொகை ஆகும்.",
+    "en": "According to the official answer key, Kurunthokai is the Ettuthokai book structured in a theatrical style."
+   },
+   "why": {
+    "B": {
+     "ta": "இது நானூறு அகப்பாடல்களைக் கொண்ட எட்டுத்தொகை நூலாகும்.",
+     "en": "This is an Ettuthokai book containing four hundred akam poems."
+    },
+    "C": {
+     "ta": "இது கலிப்பாவால் ஆன எட்டுத்தொகை நூலாகும்.",
+     "en": "This is an Ettuthokai book composed in Kalippa metre."
+    },
+    "D": {
+     "ta": "இது ஐந்திணைக்கு ஐம்பது பாடல்கள் வீதம் ஐந்நூறு பாடல்களைக் கொண்ட எட்டுத்தொகை நூலாகும்.",
+     "en": "This is an Ettuthokai book containing five hundred poems, fifty for each of the five landscapes."
+    }
+   },
+   "rule": {
+    "ta": "எட்டுத்தொகை நூல்களின் தனித்தன்மைகளையும் சிறப்புகளையும் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the distinct features and characteristics of Ettuthokai texts."
+   },
+   "eg": {
+    "ta": "ஐங்குறுநூறு ஐந்திணைப் பாடல்களைக் கொண்ட நூலாகும்.",
+    "en": "Ainkurunooru is a book containing poems on five landscapes."
+   },
+   "tip": {
+    "ta": "நாடகப் பாங்கு என்றவுடன் குறுந்தொகை என்ற குறிப்பை நினைவில் வையுங்கள்.",
+    "en": "Remember the keyword Kurunthokai for theatrical style."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q030": {
+   "hint": {
+    "ta": "பதினெண் கீழ்க்கணக்கு நூல்களின் ஆசிரியர்களையும் அவர்கள் இயற்றிய நூல்களின் எண்ணிக்கையையும் சரிபார்க்கவும்.",
+    "en": "Check the authors of Pathinenvizhkanakku texts and the number of books they authored."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, பதினெண் கீழ்க்கணக்கு நூல்களுள் இரு நூல் படைத்தவர் நல்லாதனார் ஆவார்.",
+    "en": "According to the official answer key, Nallathanar authored two books among Pathinenvizhkanakku."
+   },
+   "why": {
+    "A": {
+     "ta": "கபிலர் குறிஞ்சிப்பாட்டு மற்றும் அகநானூறு போன்ற பல்வேறு நூல்களை இயற்றியுள்ளார்.",
+     "en": "Kapilar has authored various works like Kurinjippattu."
+    },
+    "B": {
+     "ta": "மூவாதியார் என்பது பதினெண் கீழ்க்கணக்கு நூலாசிரியர் பெயர்களில் வராது.",
+     "en": "Moovathiyar is not among the Pathinenvizhkanakku authors."
+    },
+    "D": {
+     "ta": "கணிமேதாவியார் திணைமொழி ஐம்பது, ஏலாதி ஆகிய இரு நூல்களை இயற்றியுள்ளார்.",
+     "en": "Kanimethaviyar authored Thinaimozhi Aimpathu and Elathi."
+    }
+   },
+   "rule": {
+    "ta": "பதினெண் கீழ்க்கணக்கு நூல்களின் ஆசிரியர்களையும் அவர்களின் படைப்புகளையும் நன்கு படிக்க வேண்டும்.",
+    "en": "Study well the authors and works of Pathinenvizhkanakku."
+   },
+   "eg": {
+    "ta": "கணிமேதாவியார் திணைமொழி ஐம்பது, ஏலாதி ஆகிய இரு நூல்களை இயற்றியுள்ளார்.",
+    "en": "Kanimethaviyar authored Thinaimozhi Aimpathu and Elathi."
+   },
+   "tip": {
+    "ta": "ஒரே ஆசிரியர் எழுதிய ஒன்றுக்கும் மேற்பட்ட கீழ்க்கணக்கு நூல்களைத் பட்டியலிட்டுப் படிக்கவும்.",
+    "en": "List and study multiple கீழ்க்கணக்கு books written by the same author."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q031": {
+   "hint": {
+    "ta": "சிலப்பதிகார வரிகளில் வரும் சொற்களின் பொருளைச் சமச்சீர் புத்தகத்திலிருந்து கண்டறியவும்.",
+    "en": "Find the meaning of words in Silappathikaram lines from the Samacheer text."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இவ்வடிகளில் 'மணி' என்ற சொல் பவளத்தைக் குறிக்கும்.",
+    "en": "According to the official answer key, the word 'mani' in these lines refers to coral."
+   },
+   "why": {
+    "B": {
+     "ta": "முத்து என்பது சிப்பியில் விளையும் ஒரு நவரத்தினமாகும்.",
+     "en": "Pearl is a gemstone grown in oysters."
+    },
+    "C": {
+     "ta": "மாணிக்கம் என்பது சிவப்பு நிற மணி வகைகளில் ஒன்றாகும்.",
+     "en": "Ruby is one of the red gemstone varieties."
+    },
+    "D": {
+     "ta": "மரகம் என்பது மரகத மணி எனப்படும் பச்சைக் கல்லைக் குறிக்கும்.",
+     "en": "Marakam refers to emerald."
+    }
+   },
+   "rule": {
+    "ta": "பழைய இலக்கிய வரிகளில் வரும் சொற்களுக்கான தனித்துவமான பொருள் விளக்கங்களை மனப்பாடம் செய்ய வேண்டும்.",
+    "en": "Memorize the unique meanings of words appearing in old literary lines."
+   },
+   "eg": {
+    "ta": "சிலப்பதிகாரத்தில் வரும் ஒவ்வொரு சொல்லின் பொருளும் இலக்கிய நயம் வாய்ந்தது.",
+    "en": "Every word meaning in Silappathikaram has literary flavor."
+   },
+   "tip": {
+    "ta": "மணி என்றால் மாணிக்கம் என்ற பொதுவான பொருளுக்கு மாறாகச் சில இடங்களில் பவளம் என்பதும் குறிக்கப்படும்.",
+    "en": "Note that 'mani' can sometimes mean coral instead of ruby."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q032": {
+   "hint": {
+    "ta": "பக்தி இலக்கியங்கள் மற்றும் சங்க இலக்கியங்களில் இடம்பெறும் புகழ்பெற்ற மேற்கோள்களை ஆராய்க.",
+    "en": "Examine famous citations appearing in Bhakti and Sangam literature."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 'கூடலில் ஆய்ந்த ஒண்தீந் தமிழின்' என்ற வரிகள் மதுரைக் காஞ்சியில் இடம்பெற்றுள்ளன.",
+    "en": "According to the official answer key, these lines appear in Madurai Kanchi."
+   },
+   "why": {
+    "A": {
+     "ta": "இது மாணிக்கவாசகரால் இயற்றப்பட்ட பக்தி இலக்கிய நூலாகும்.",
+     "en": "This is a devotional work composed by Manickavasagar."
+    },
+    "C": {
+     "ta": "இது கடியலூர் உருத்திரங்கண்ணனாரால் பாடப்பட்ட சங்க இலக்கிய நூலாகும்.",
+     "en": "This is a Sangam literary work sung by Kadiyalur Uruthirankannanar."
+    },
+    "D": {
+     "ta": "இது தமிழில் தூது இலக்கிய வகையைச் சேர்ந்த சிற்றிலக்கியமாகும்.",
+     "en": "This is a minor literature belonging to the Thoothu genre in Tamil."
+    }
+   },
+   "rule": {
+    "ta": "இலக்கியப் பாடல்களின் மேற்கோள்களையும் அவை இடம்பெறும் நூல்களையும் சரியாகப் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Correctly match literary quotations with the books they appear in."
+   },
+   "eg": {
+    "ta": "தமிழ்க் கடவுள் வாழ்த்துப் பாடல்கள் பல நூல்களின் முகப்பில் இடம்பெற்றுள்ளன.",
+    "en": "Many Tamil invocation poems appear at the beginning of books."
+   },
+   "tip": {
+    "ta": "கூடல் என்றவுடன் மதுரையும் மதுரைக் காஞ்சியும் நினைவிற்கு வர வேண்டும்.",
+    "en": "Whenever Koodal comes, associate it with Madurai and Madurai Kanchi."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q033": {
+   "hint": {
+    "ta": "சிற்றிலக்கிய ஆசிரியர்களின் பன்மொழிப் புலமை பற்றிய குறிப்புகளைச் சமச்சீர்ப் புத்தகத்திலிருந்து படிக்கவும்.",
+    "en": "Read notes on the multilingual proficiency of minor literature authors from Samacheer."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, குமரகுருபரர் தமிழ் மற்றும் வடமொழியோடு இந்துத்தானி மொழியிலும் புலமை மிக்கவராகத் திகழ்ந்தார்.",
+    "en": "According to the official answer key, Kumaragurubarar excelled in Hindustani language besides Tamil and Sanskrit."
+   },
+   "why": {
+    "A": {
+     "ta": "பாலி என்பது பௌத்த மத நூல்கள் எழுதப்பட்ட பிராகிருத மொழி வகையாகும்.",
+     "en": "Pali is a Prakrit language in which Buddhist texts were written."
+    },
+    "C": {
+     "ta": "கன்னடம் என்பது தென்னிந்தியாவில் பேசப்படும் ஒரு திராவிட மொழியாகும்.",
+     "en": "Kannada is a Dravidian language spoken in South India."
+    },
+    "D": {
+     "ta": "உருது என்பது பாரசீக மற்றும் அரபு சொற்களின் தாக்கம்கொண்ட இந்தோ-ஆரிய மொழியாகும்.",
+     "en": "Urdu is an Indo-Aryan language influenced by Persian and Arabic."
+    }
+   },
+   "rule": {
+    "ta": "குமரகுருபரரின் வரலாறு மற்றும் அவரது முத்துக்குமாரசுவாமி பிள்ளைத்தமிழ் போன்ற நூல்களை அறிய வேண்டும்.",
+    "en": "Know the history of Kumaragurubarar and his works like Muthukumarasamy Pillaithamil."
+   },
+   "eg": {
+    "ta": "குமரகுருபரர் கந்தர் கலிவெண்பா மற்றும் மீனாட்சி அம்மை பிள்ளைத்தமிழ் ஆகியவற்றை இயற்றியுள்ளார்.",
+    "en": "Kumaragurubarar authored Kandar Kalivenpa and Meenakshi Amman Pillaithamil."
+   },
+   "tip": {
+    "ta": "வட இந்தியாவில் வாழ்ந்து இந்துத்தானி கற்ற தமிழ் ஆளுமை குமரகுருபரர் ஆவார்.",
+    "en": "Kumaragurubarar is the Tamil personality who lived in North India and learned Hindustani."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q036": {
+   "hint": {
+    "ta": "தமிழ் இலக்கியப் புலவர்களுக்கு வழங்கப்பட்ட சிறப்புப் பட்டங்களையும் அடைமொழிகளையும் கவனிக்கவும்.",
+    "en": "Notice the special titles and epithets given to Tamil literary poets."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, உத்தம சோழப் பல்லவர் என்னும் பட்டம் ஒட்டக்கூத்தருக்கு வழங்கப்பட்டுள்ளது.",
+    "en": "According to the official answer key, the title Uthama Chola Pallavar was given to Ottakoothar."
+   },
+   "why": {
+    "A": {
+     "ta": "கம்பர் கம்பராமாயணத்தை இயற்றிய கவிச்சக்கரவர்த்தி ஆவார்.",
+     "en": "Kambar is the Kavichakravarthi who authored Kambaramayanam."
+    },
+    "B": {
+     "ta": "சேக்கிழார் பெரியபுராணத்தை இயற்றிய தொண்ட சீர் பரவுவார் ஆவார்.",
+     "en": "Shekkilar authored Periyapuranam."
+    },
+    "C": {
+     "ta": "புகழேந்தி நளவெண்பாவை இயற்றிய புலவர் ஆவர்.",
+     "en": "Pugazhenthi is the poet who authored Nalavenba."
+    }
+   },
+   "rule": {
+    "ta": "பல்வேறு புலவர்களுக்கு வழங்கப்பட்ட மன்னர்களின் பட்டங்களையும் சிறப்புகளையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the royal titles and honors conferred upon various poets."
+   },
+   "eg": {
+    "ta": "ஒட்டக்கூத்தர் மூவர் உலா மற்றும் ஈட்டியெழுபது ஆகிய நூல்களை இயற்றியுள்ளார்.",
+    "en": "Ottakoothar authored MoovaruLA and Eetiyezhupathu."
+   },
+   "tip": {
+    "ta": "சேக்கிழாருக்குரிய பட்டங்களை ஒட்டக்கூத்தருக்கும் பொருத்தி வினாக்கள் கேட்கப்படலாம்.",
+    "en": "Questions might test titles associated with Shekkilar and Ottakoothar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q037": {
+   "hint": {
+    "ta": "இவ்வடிகளில் பயின்றுவரும் பறவையின் பெயரைக் கண்டறிய, 'புள்' என்ற சொல்லின் பொருளையும், பாடலின் பின்னணியையும் கவனியுங்கள்.",
+    "en": "Identify the bird mentioned by understanding the meaning of 'pull' and the context."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'கிளி' என்பதே சரியான விடை. 'புள்' என்பது பொதுவாகப் பறவையைக் குறிக்கும் சொல்லாகும்.",
+    "en": "According to the official answer, parrot is the correct option."
+   },
+   "why": {
+    "A": {
+     "ta": "காக்கை என்பது இப்பகுதியில் குறிக்கப்படவில்லை.",
+     "en": "Crow is not mentioned here."
+    },
+    "C": {
+     "ta": "புறா என்பது சிபி மன்னன் காப்பாற்றிய பறவையாகும்; எனினும் TNPSC விடைக்குறிப்பு கிளி என்றே குறிக்கப்பட்டுள்ளது.",
+     "en": "Dove is the bird saved by king Sibi, but the official answer marks parrot."
+    },
+    "D": {
+     "ta": "ஆந்தை என்பது ஒரு பறவை வகை என்றாலும் இங்கு பொருந்தாது.",
+     "en": "Owl does not fit this context."
+    }
+   },
+   "rule": {
+    "ta": "பழங்கால இலக்கியங்களில் பறவைகளைக் குறிக்கும் பெயர்களையும் அதன் சிறப்புகளையும் சரியாகப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Understand the bird names and references in ancient literature accurately."
+   },
+   "eg": {
+    "ta": "புள் என்பதன் பலுக்கல் பறவையைக் குறிக்கும்.",
+    "en": "The word pull denotes a bird."
+   },
+   "tip": {
+    "ta": "TNPSC தேர்வுகளில் சில முரண்பட்ட வினாக்களுக்கு அதிகாரப்பூர்வ விடயமே இறுதியானது.",
+    "en": "Accept the official answer for exam purposes."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q048": {
+   "hint": {
+    "ta": "திருக்குறளில் சீர்மோனை அமையும் இடங்களைக் (1, 3, 4 சீர்கள்) கணக்கிட்டு அதன் வகையைக் கண்டறியுங்கள்.",
+    "en": "Count the positions of the matching initial sounds (monai) in the verse to find the type."
+   },
+   "explain": {
+    "ta": "இக்குறளில் 1, 3 மற்றும் 4 ஆம் சீர்களில் மோனை வந்துள்ளது. முதல், மூன்று மற்றும் நான்காம் சீர்களில் மோனை வருவது மேற்கதுவாய் மோனை எனப்படும்.",
+    "en": "Monai occurs in the 1st, 3rd, and 4th feet, which is called Melkaduvai Monai."
+   },
+   "why": {
+    "A": {
+     "ta": "1, 2, 4 ஆம் சீர்களில் வருவது கீழ்க்கதுவாய் மோனை ஆகும்.",
+     "en": "1, 2, 4 feet monai is Kilkaduvai Monai."
+    },
+    "B": {
+     "ta": "1, 2, 3 ஆம் சீர்களில் வருவது கூழை மோனை ஆகும்.",
+     "en": "1, 2, 3 feet monai is Kuzhai Monai."
+    },
+    "C": {
+     "ta": "1 மற்றும் 3 ஆம் சீர்களில் வருவது ஒருூஉ மோனை ஆகும்.",
+     "en": "1 and 3 feet monai is Oruu Monai."
+    }
+   },
+   "rule": {
+    "ta": "1, 3, 4 சீர்களில் மோனை வந்தால் அது மேற்கதுவாய் மோனை ஆகும்.",
+    "en": "Monai in 1st, 3rd, and 4th feet is Melkaduvai Monai."
+   },
+   "eg": {
+    "ta": "தானம் தவமிரண்டும் தங்கா வியனுலகம் - 1, 3, 4 சீர்களில் மோனை.",
+    "en": "Example verse showing Melkaduvai Monai."
+   },
+   "tip": {
+    "ta": "எண்களின் வரிசையைக் கொண்டு (1,3,4 = மேற்கதுவாய்) எளிதில் நினைவில் கொள்ளலாம்.",
+    "en": "Remember the foot numbers for quick identification."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q050": {
+   "hint": {
+    "ta": "குறள் அடியில் மோனை எழுத்துகள் எந்தெந்த சீர்களில் வந்துள்ளன என்பதை எண்ணிப் பாருங்கள்.",
+    "en": "Count the feet where the matching initial sounds appear in the couplet."
+   },
+   "explain": {
+    "ta": "இக்குறளில் 1, 2 மற்றும் 4 ஆம் சீர்களில் மோனை வந்துள்ளது. 1, 2, 4 ஆம் சீர்களில் மோனை வருவது கீழ்க்கதுவாய் மோனை எனப்படும்.",
+    "en": "Monai in the 1st, 2nd, and 4th feet is Kilkaduvai Monai."
+   },
+   "why": {
+    "A": {
+     "ta": "1, 3, 4 ஆம் சீர்களில் மோனை வருவது மேற்கதுவாய் மோனை ஆகும்.",
+     "en": "Melkaduvai Monai occurs in 1, 3, 4 feet."
+    },
+    "C": {
+     "ta": "1, 2, 3 ஆம் சீர்களில் மோனை வருவது கூழை மோனை ஆகும்.",
+     "en": "Kuzhai Monai occurs in 1, 2, 3 feet."
+    },
+    "D": {
+     "ta": "1 மற்றும் 3 ஆம் சீர்களில் மோனை வருவது ஒருூஉ மோனை ஆகும்.",
+     "en": "Oruu Monai occurs in 1 and 3 feet."
+    }
+   },
+   "rule": {
+    "ta": "1, 2, 4 ஆம் சீர்களில் மோனை வந்தால் அது கீழ்க்கதுவாய் மோனை ஆகும்.",
+    "en": "Monai in 1, 2, 4 feet is Kilkaduvai Monai."
+   },
+   "eg": {
+    "ta": "விண்இன்று பொய்ப்பின் விரிநீர் வியனுலகத்து - 1, 2, 4 சீர் மோனை.",
+    "en": "Example for Kilkaduvai Monai."
+   },
+   "tip": {
+    "ta": "கீழ்க்கதுவாய் என்றால் 1, 2, 4 என்று மனத்தில் பதிய வைத்துக் கொள்ளுங்கள்.",
+    "en": "Memorize the sequence 1, 2, 4 for Kilkaduvai."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q053": {
+   "hint": {
+    "ta": "பரிதிமாற்கலைஞருக்கு சிறப்புப் பட்டங்கள் வழங்கிய ஆளுமைகள் யார் என்பதை நினைவுகூருங்கள்.",
+    "en": "Recall the scholars who conferred titles upon Parithimar Kalaignar."
+   },
+   "explain": {
+    "ta": "மறைமலையடிகள் பரிதிமாற்கலைஞரின் தமிழாராய்ச்சித் திறனைப் பாராட்டி அவருக்கு 'திராவிட சாஸ்திரி' என்னும் பட்டத்தை வழங்கினார்.",
+    "en": "Maraimalai Adigal conferred the title 'Dravida Sastri' on Parithimar Kalaignar."
+   },
+   "why": {
+    "A": {
+     "ta": "மு.சி. பூர்ணலிங்கம் இப்பட்டத்தை வழங்கியவர் அல்ல.",
+     "en": "M.S. Purnalingam did not give this title."
+    },
+    "B": {
+     "ta": "சி.வை. தாமோதரனார் பரிதிமாற்கலைஞரின் பன்முகத் திறனைப் பாராட்டியவர்.",
+     "en": "C.W. Damodaranar praised his multifaceted talent."
+    },
+    "D": {
+     "ta": "திரு.வி. கலியாண சுந்தரனார் தனித்தமிழ் இயக்க முன்னோடிகளில் ஒருவர்.",
+     "en": "Thiru. Vi. Kalyanasundaranar is a prominent Tamil scholar."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் அறிஞர்களுக்கு வழங்கப்பட்ட பட்டங்களையும் வழங்கியவர்களையும் சரியாகப் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Learn the titles given to Tamil scholars and their donors correctly."
+   },
+   "eg": {
+    "ta": "பரிதிமாற்கலைஞரின் இயற்பெயர் சூரியநாராயண சாஸ்திரி ஆகும்.",
+    "en": "The original name of Parithimar Kalaignar was Suryanarayana Sastri."
+   },
+   "tip": {
+    "ta": "சாஸ்திரி பட்டத்தை வழங்கியவர் மறைமலையடிகள் என்பதை நினைவில் கொள்க.",
+    "en": "Remember Maraimalai Adigal gave the Sastri title."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q054": {
+   "hint": {
+    "ta": "பழந்தமிழரின் ஓவியக்கலைச் சிறப்பைக் கூறும் இவ்வடிகள் எந்தச் சங்க இலக்கியத்தில் இடம் பெற்றுள்ளது எனப் பாருங்கள்.",
+    "en": "Check which Sangam literature contains these lines about ancient Tamil painting."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'திருமுருகாற்றுப்படை' என்பதே சரியான விடை.",
+    "en": "According to the official answer, Thirumurugatruppadai is correct."
+   },
+   "why": {
+    "A": {
+     "ta": "குற்றாலக் குறவஞ்சி என்பது பிற்கால சிற்றிலக்கியமாகும்.",
+     "en": "Kutrala Kuravanji is a later minor literature."
+    },
+    "B": {
+     "ta": "முல்லைப்பாட்டு பத்துப்பாட்டு நூலாகும்; ஆனால் இவ்வடிகள் இதில் இல்லை.",
+     "en": "Mullaippattu is a Ten Idylls work, but does not contain these lines."
+    },
+    "C": {
+     "ta": "இவ்வடிகள் மதுரைக் காஞ்சியில் இடம்பெறுவதாக குறிப்புகள் உள்ளன.",
+     "en": "These lines are generally attributed to Maduraikanchi."
+    }
+   },
+   "rule": {
+    "ta": "பழந்தமிழ் நூல்களில் ஓவியக்கலைச் செய்திகளைத் தரும் வரிகளைத் தொகுத்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember lines related to ancient Tamil art from literature."
+   },
+   "eg": {
+    "ta": "சங்க இலக்கியங்களில் ஓவியம் குறித்த பல குறிப்புகள் காணப்படுகின்றன.",
+    "en": "Many references to painting are found in Sangam literature."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பினைப் பின்பற்றுவதே தேர்வில் மதிப்பெண் பெற வழி.",
+    "en": "Follow the official answer for exam scoring."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q056": {
+   "hint": {
+    "ta": "திருக்குறளையும் கம்பன் காவியத்தையும் புகழ்ந்துரைத்த மேற்கோளைக் கூறிய வெளிநாட்டு அறிஞர் யார் எனப் பாருங்கள்.",
+    "en": "Identify the foreign scholar who praised Thirukkural and Kamban Ramayana."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஜி.யு. போப் என்பதே சரியான விடை.",
+    "en": "According to the official answer, G.U. Pope is correct."
+   },
+   "why": {
+    "B": {
+     "ta": "கால்டுவெல் திராவிட மொழிகளின் ஒப்பிலக்கணம் எழுதியவர்.",
+     "en": "Caldwell wrote the comparative grammar of Dravidian languages."
+    },
+    "C": {
+     "ta": "பாரதிதாசன் பாவேந்தர் என அழைக்கப்படும் தமிழ்க்கவிஞர்.",
+     "en": "Bharathidasan is a Tamil poet known as Pavendar."
+    },
+    "D": {
+     "ta": "பாரதியார் தேசியக் கவி ஆவார்.",
+     "en": "Bharathiyar is the national poet."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் நூல்களைப் பற்றி வெளிநாட்டு அறிஞர்கள் கூறிய புகழாரங்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the praises showered by foreign scholars on Tamil literature."
+   },
+   "eg": {
+    "ta": "ஜி.யு. போப் திருக்குறளை ஆங்கிலத்தில் மொழிபெயர்த்தவர்.",
+    "en": "G.U. Pope translated Thirukkural into English."
+   },
+   "tip": {
+    "ta": "தேர்வுப் பட்டியலில் உள்ள அதிகாரப்பூர்வ விடையை அப்படியே பின்பற்றுக.",
+    "en": "Stick to the official key in the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q057": {
+   "hint": {
+    "ta": "நாடகத் துறையில் முப்பெரும் பணிகளையும் செய்தவராக TNPSC குறிப்பில் குறிப்பிடப்பட்டுள்ள அறிஞரைத் தேடுங்கள்.",
+    "en": "Look for the scholar identified in official notes as performing three major roles in drama."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி பரிதிமாற் கலைஞர் நாடகம் படைத்தல், நடித்தல் மற்றும் நாடக இலக்கணம் இயற்றுதல் ஆகிய மூன்று பணிகளையும் செய்துள்ளார் என்று கொள்ளப்படுகிறது.",
+    "en": "According to the official key, Parithimaar Kalaignar is credited with these three theatrical contributions."
+   },
+   "why": {
+    "C": {
+     "ta": "பம்மல் சம்பந்தனார் நவீன தமிழ் நாடகத்தின் தந்தை என அழைக்கப்படுகிறார்.",
+     "en": "Pammal Sambandhanar is known as the father of modern Tamil drama."
+    },
+    "D": {
+     "ta": "திண்டிவனம் ராமசாமி ராஜா நாடகத் துறையுடன் தொடர்புடையவர் அல்ல.",
+     "en": "Thindivanam Ramasamy Raja is not prominently known for this theatrical contribution."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் அறிஞர்களின் தனிச்சிறப்புகள் மற்றும் அவர்களின் பங்களிப்புகளைச் சமச்சீர் கல்வி நூல்களிலிருந்து தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Study the specific titles and contributions of Tamil scholars from Samacheer books."
+   },
+   "eg": {
+    "ta": "பரிதிமாற் கலைஞர் சூரியநாராயண சாஸ்திரி எனவும் அழைக்கப்படுகிறார்.",
+    "en": "Parithimaar Kalaignar is also known as Suryanarayana Sastri."
+   },
+   "tip": {
+    "ta": "TNPSC தேர்வுகளில் அறிஞர்களின் கூற்று மற்றும் படைப்புகள் பற்றிய கேள்விகளுக்கு அதிகாரப்பூர்வ குறிப்புகளே இறுதி.",
+    "en": "Official key answers are final for scholar-related queries in TNPSC."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q058": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்டுள்ள ஊர்களில் எது பறவைகள் சரணாலயம் அல்ல என்பதைச் சமச்சீர் புவியியல் குறிப்புகளிலிருந்து கண்டறிக.",
+    "en": "Identify which of the given locations is not a bird sanctuary from geography texts."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கோவன்புத்தூர் என்பது பறவைகள் சரணாலயம் அல்ல.",
+    "en": "According to the official key, Kovandhuthur is not a bird sanctuary."
+   },
+   "why": {
+    "A": {
+     "ta": "கரைவெட்டி என்பது தமிழ்நாட்டில் உள்ள ஒரு பறவைகள் சரணாலயமாகும்.",
+     "en": "Karaivetti is a bird sanctuary in Tamil Nadu."
+    },
+    "B": {
+     "ta": "இது TNPSC விடைக்குறிப்பு அளிக்கப்பட்ட அதிகாரப்பூர்வ பதில் ஆகும்.",
+     "en": "This is the officially designated answer."
+    },
+    "C": {
+     "ta": "வெள்ளோடு பறவைகள் சரணாலயம் ஈரோடு மாவட்டத்தில் அமைந்துள்ளது.",
+     "en": "Vellodu is a recognized bird sanctuary."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டில் உள்ள முக்கிய வனவிலங்கு மற்றும் பறவைகள் சரணாலயங்களின் பட்டியலைத் தெரிந்து வைத்திருக்க வேண்டும்.",
+    "en": "Memorize the list of wildlife and bird sanctuaries in Tamil Nadu."
+   },
+   "eg": {
+    "ta": "வேடந்தாங்கல் தமிழ்நாட்டின் பழமையான பறவைகள் சரணாலயமாகும்.",
+    "en": "Vedanthangal is the oldest bird sanctuary in Tamil Nadu."
+   },
+   "tip": {
+    "ta": "சரணாலயங்கள் அமைந்துள்ள மாவட்டங்களைச் சேர்த்துப் படிப்பது எளிதாக நினைவில் இருக்க உதவும்.",
+    "en": "Learning sanctuaries along with their districts helps in retention."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q059": {
+   "hint": {
+    "ta": "ஜவகர்லால் நேரு அடைக்கப்பட்டிருந்த அல்மோரா சிறைச்சாலை எந்த மாநிலத்தில் உள்ளது என்பதைச் சரிபாருங்கள்.",
+    "en": "Check the state where the Almora jail, where Nehru was imprisoned, is located."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி அல்மோரா சிறைச்சாலை உத்தர பிரதேசம் மாநிலத்தில் உள்ளது எனக்கொள்ளப்பட்டுள்ளது.",
+    "en": "According to the official key, Almora jail is located in Uttar Pradesh."
+   },
+   "why": {
+    "A": {
+     "ta": "மேற்கு வங்காளம் என்பது நேதாஜி போன்றோர் தொடர்புடைய இடங்களைக் கொண்டது.",
+     "en": "West Bengal is associated with other freedom fighters."
+    },
+    "B": {
+     "ta": "குஜராத் மாநிலத்தில் சபர்மதி போன்ற முக்கிய இடங்கள் உள்ளன.",
+     "en": "Gujarat is home to Sabarmati and other historic places."
+    },
+    "C": {
+     "ta": "அல்மோரா சிறை தற்போது உத்தராகாண்ட் மாநிலத்தில் உள்ளது என்றாலும், தேர்வு குறிப்பின்படி வேறு மாநிலம் ஏற்கப்பட்டுள்ளது.",
+     "en": "Although Almora is now in Uttarakhand, the exam key points elsewhere."
+    }
+   },
+   "rule": {
+    "ta": "விடுதலைப் போராட்டத்தில் தலைவர்கள் சிறை வைக்கப்பட்ட இடங்களை வரலாற்று நூல்களின்படி படிக்க வேண்டும்.",
+    "en": "Study the places of imprisonment of leaders during the freedom struggle."
+   },
+   "tip": {
+    "ta": "பழைய வினாத்தாள்களில் உள்ள மாநிலப் பெயர்களைத் தேர்வாணைய விடைகளின்படி நினைவில் கொள்ளவும்.",
+    "en": "Remember state names in previous papers according to the commission's key."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q060": {
+   "hint": {
+    "ta": "கவியரசு கண்ணதாசன் எழுதிய நாடகப் படைப்பு எது என்பதைச் சமச்சீர் தமிழ் நூல்களிலிருந்து தேடுங்கள்.",
+    "en": "Find the dramatic work written by Kaviyarasu Kannadasan from Tamil texts."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கல்லக்குடி மகா காவியம் என்பது கண்ணதாசன் படைத்த நாடகம் எனக் கொள்ளப்பட்டுள்ளது.",
+    "en": "According to the official key, Kallakkudi Maha Kaaviyam is considered Kannadasan's play."
+   },
+   "why": {
+    "A": {
+     "ta": "மாங்கனி என்பது கண்ணதாசன் எழுதிய ஒரு புகழ்பெற்ற காதல் காப்பியமாகும்.",
+     "en": "Maangani is a famous romantic epic poem by Kannadasan."
+    },
+    "B": {
+     "ta": "ஆட்டனத்தி ஆதிமந்தி என்பது கண்ணதாசனின் மற்றொரு காப்பியமாகும்.",
+     "en": "Aattanathi Aathimanthi is another epic by Kannadasan."
+    },
+    "D": {
+     "ta": "இராசதண்டனை என்பது கண்ணதாசனின் நாடகப் படைப்பாகும்.",
+     "en": "Raasathandanai is a play written by Kannadasan."
+    }
+   },
+   "rule": {
+    "ta": "கண்ணதாசனின் காவியங்கள், கவிதைகள் மற்றும் நாடகங்களை வேறுபடுத்துத் தெரிந்து கொள்ள வேண்டும்.",
+    "en": "Learn to distinguish between Kannadasan's epics, poems, and plays."
+   },
+   "eg": {
+    "ta": "கண்ணதாசன் எழுதிய 'இயேசு காவியம்' மிகவும் புகழ்பெற்றது.",
+    "en": "Kannadasan's 'Yesu Kaaviyam' is very famous."
+   },
+   "tip": {
+    "ta": "கவிஞர்களின் படைப்புகளைப் பட்டியல் தயாரித்துப் படிப்பது குழப்பத்தைத் தவிர்க்கும்.",
+    "en": "Listing poet's works avoids confusion."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q062": {
+   "hint": {
+    "ta": "புத்தகம் வாசிப்பு குறித்துக் கூறிய தலைவர்களின் சிந்தனைகளைச் சமச்சீர் உரைநடைப் பகுதியிலிருந்து அறிக.",
+    "en": "Identify the leader who spoke about book reading from prose lessons."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இக்கூற்றைக் கூறியவர் ஜவகர்லால் நேரு ஆவார்.",
+    "en": "According to the official key, this statement was made by Jawaharlal Nehru."
+   },
+   "why": {
+    "A": {
+     "ta": "மு. வரதராசனார் கடிதங்கள் மற்றும் கட்டுரைகள் எழுதியுள்ளார்.",
+     "en": "M. Varadarajan has written letters and essays."
+    },
+    "B": {
+     "ta": "பேறிஞர் அண்ணா தனது மேடைப் பேச்சுகளுக்குப் பெயர் பெற்றவர்.",
+     "en": "C.N. Annadurai is famous for his oratorical skills."
+    },
+    "D": {
+     "ta": "மகாத்மா காந்தி தனது சுயசரிதையான சத்திய சோதனையை எழுதியுள்ளார்.",
+     "en": "Mahatma Gandhi wrote his autobiography My Experiments with Truth."
+    }
+   },
+   "rule": {
+    "ta": "புத்தகங்கள் மற்றும் வாசிப்பு பற்றிய தலைவர்களின் பொன்மொழிகளை மனத்தில் கொள்ள வேண்டும்.",
+    "en": "Remember quotes by leaders about books and reading."
+   },
+   "eg": {
+    "ta": "நேரு தனது மகளுக்கு எழுதிய கடிதங்கள் நூலாக வெளியிடப்பட்டுள்ளன.",
+    "en": "Nehru's letters to his daughter have been published as a book."
+   },
+   "tip": {
+    "ta": "வாசிப்பு குறித்த நேருவின் கருத்துக்கள் பத்தாம் வகுப்பு சமச்சீரில் இடம்பெற்றுள்ளன.",
+    "en": "Nehru's views on reading are featured in 10th standard Samacheer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q063": {
+   "hint": {
+    "ta": "ஞாயிறு, பாவாணர் போன்ற தமிழறிஞர்களின் பட்டப் பெயர்களில் பொருந்தாததைத் கண்டறிக.",
+    "en": "Find the title that does not belong to Devaneya Pavanar."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இலக்கியச் செம்மல் என்பது தேவநேயப் பாவாணரின் சிறப்புப் பெயர் அல்ல.",
+    "en": "According to the official key, 'Ilakkiya Semmal' is not a title of Devaneya Pavanar."
+   },
+   "why": {
+    "B": {
+     "ta": "இது TNPSC விடைக்குறிப்பு அளிக்கப்பட்ட அதிகாரப்பூர்வ பதில் ஆகும்.",
+     "en": "This is the officially designated answer."
+    },
+    "C": {
+     "ta": "இது தேவநேயப் பாவாணருக்கு வழங்கப்படாத பட்டமாகும்.",
+     "en": "This title was not conferred on Devaneya Pavanar."
+    },
+    "D": {
+     "ta": "தமிழ்ப்பெருங்காவலர் என்பது பாவாணரின் சிறப்புப் பெயர்களில் ஒன்றாகும்.",
+     "en": "Tamil Perungkavalar is one of Pavanar's titles."
+    }
+   },
+   "rule": {
+    "ta": "பாவாணரின் பல்வேறு பட்டப் பெயர்களைத் தமிழ்ப் பாடப்புத்தகத்திலிருந்து தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Study the various titles of Pavanar clearly from Tamil textbooks."
+   },
+   "eg": {
+    "ta": "தேவநேயப் பாவாணர் மொழிஞாயிறு என்றும் அழைக்கப்படுகிறார்.",
+    "en": "Devaneya Pavanar is also called Mozhinjayiru."
+   },
+   "tip": {
+    "ta": "ஞாயிறு, பாவாணர் போன்ற அடைமொழிகளை ஒப்பிட்டுப் படிப்பது குழப்பத்தைத் தவிர்க்கும்.",
+    "en": "Comparing titles prevents confusion in exams."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q064": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் உலகப் புகழ்பெற்ற வெளிநாட்டு எழுத்தாளர்களின் தமிழ் நூல்கள் மற்றும் அவற்றின் ஆசிரியர்களைப் பாருங்கள்.",
+    "en": "When asked about translated foreign literary works, identify the original author."
+   },
+   "explain": {
+    "ta": "உன்னுள் இருக்கும் ஆண்டவனின் அரசு என்னும் நூலை எழுதியவர் தால் சுதாய் ஆவார். இந்நூல் காந்தியடிகள் மீது பெரும் தாக்கம் ஏற்படுத்திய வெளிநாட்டு நூலாகும்.",
+    "en": "The book 'The Kingdom of God Is Within You' was written by Leo Tolstoy."
+   },
+   "why": {
+    "A": {
+     "ta": "இபான் என்பது இச்சরিத்திர நூலுடன் தொடர்புடைய பெயர் அல்ல.",
+     "en": "Iban is not related to this book."
+    },
+    "B": {
+     "ta": "எச். ஏ. கிருட்டிணப்பிள்ளை ரட்சண்ய யாத்திரிகம் படைத்தவர்.",
+     "en": "H.A. Krishnapillai authored Rakshanya Yatrikam."
+    },
+    "D": {
+     "ta": "முனைவர் எமினோ தமிழ் ஆய்வு அறிஞர் ஆவார்.",
+     "en": "Dr. Emeneau is a linguistic scholar."
+    }
+   },
+   "rule": {
+    "ta": "உலகப் புகழ்பெற்ற நூல்களையும் அவற்றின் ஆசிரியர்களையும் சமச்சீர் புத்தகத்திலிருந்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember world-famous books and their authors from Samacheer books."
+   },
+   "eg": {
+    "ta": "காளான் கதைகள் மற்றும் வெளிநாட்டு மொழிபெயர்ப்பு நூல்களைப் படிக்கவும்.",
+    "en": "Read translated works and essays."
+   },
+   "tip": {
+    "ta": "தால் சுதாய் (லியோ டால்ஸ்டாய்) எழுதிய ஆன்மீக நூல் இது.",
+    "en": "Tolstoy wrote this spiritual work."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q065": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு தமிழறிஞரின் படைப்புகளையும் தனித்தனியாகப் பொருத்தி சரியான வரிசையைக் கண்டறியவும்.",
+    "en": "Match the authors with their respective works to find the correct sequence."
+   },
+   "explain": {
+    "ta": "பெருஞ்சித்திரனார் கனிச்சாறு நூலையும், சுரதா தேன்மழை நூலையும், முடியரசன் காவியப்பாவை நூலையும், பாரதிதாசன் குறிஞ்சித்திட்டு நூலையும் எழுதியுள்ளனர். எனவே 3 4 1 2 என்ற வரிசை சரியாகும்.",
+    "en": "Perunchithiranar wrote Kanicharu, Suratha Thenmazhai, Mudiyarasan Kaviya Pavai, and Bharathidasan Kurinji Thittu."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை நூல்களின் பெயர்களை சரியாகப் பொருத்தவில்லை.",
+     "en": "This sequence does not match the works correctly."
+    },
+    "C": {
+     "ta": "இது தவறான பொருத்துதல் வரிசையாகும்.",
+     "en": "This is an incorrect matching sequence."
+    },
+    "D": {
+     "ta": "இதுவும் தவறான இணைப்புக் குறியீடாகும்.",
+     "en": "This is also an incorrect matching sequence."
+    }
+   },
+   "rule": {
+    "ta": "அறிஞர்களின் நூல்களை சரியாகப் பொருத்திப் பார்த்து விடையைத் தேர்ந்தெடுக்க வேண்டும்.",
+    "en": "Match authors and their works accurately."
+   },
+   "eg": {
+    "ta": "பாரதியார் - பாஞ்சாலி சபதம், பாரதிதாசன் - குடும்ப விளக்கு.",
+    "en": "Bharathiyar wrote Panchali Sabatham."
+   },
+   "tip": {
+    "ta": "தெரிந்த ஒரு நூலின் இணையை வைத்து விட Isaiயை எளிதில் கண்டுபிடிக்கலாம்.",
+    "en": "Use known pairs to eliminate wrong options."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q066": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் குறிப்பிட்ட ஒரு தமிழறிஞரின் நூல்கள் எவை, அல்லாதவை எவை என்பதைத் தேடிப் பாருங்கள்.",
+    "en": "Identify which books belong to the author and which do not."
+   },
+   "explain": {
+    "ta": "கொய்யாக்கனி என்பது பெருஞ்சித்திரனாரின் படைப்பு அல்ல, அது பெருஞ்சித்திரனாரின் மற்ற நூல்களுடன் குழப்பப்படும் மற்றொருவரின் நூலாகும். கனிச்சாறு, நூறாசிரியம் போன்றவை பெருஞ்சித்திரனார் நூல்களாகும்.",
+    "en": "Koyakkani is not authored by Perunchithiranar, whereas Kanicharu and Koorasiriyam are."
+   },
+   "why": {
+    "B": {
+     "ta": "கனிச்சாறு என்பது பாவலரேறு பெருஞ்சித்திரனாரின் புகழ் பெற்ற நூலாகும்.",
+     "en": "Kanicharu is a famous work of Perunchithiranar."
+    },
+    "C": {
+     "ta": "கல்லக்குடி மாகாவியம் கண்ணதாசன் எழுதிய நூலாகும்.",
+     "en": "Kallakudi Mahakavyam is written by Kannadasan."
+    },
+    "D": {
+     "ta": "நூறாசிரியம் பாவலரேறு பெருஞ்சித்திரனாரால் எழுதப்பட்ட நூலாகும்.",
+     "en": "Noorasiriyam is written by Perunchithiranar."
+    }
+   },
+   "rule": {
+    "ta": "நூலாசிரியர் பெயர்களைப் படிக்கும்போது அவரின் அனைத்து முக்கிய நூல்களையும் சேர்த்துப் படிக்க வேண்டும்.",
+    "en": "Learn all major works of an author together."
+   },
+   "eg": {
+    "ta": "பெருஞ்சித்திரனார் நூல்கள்: கனிச்சாறு, கொய்யாக்கனி, பாவியக்கொத்து, நூறாசிரியம்.",
+    "en": "Perunchithiranar's works include Kanicharu and Paviyakkothu."
+   },
+   "tip": {
+    "ta": "பெருஞ்சித்திரனார் நூல்களில் கொய்யாக்கனி அவரின் நூல்தானா என்பதை உறுதி செய்ய வேண்டும்.",
+    "en": "Check carefully for author attribution."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q067": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தலைவர்களின் வாழ்க்கை வரலாற்று முக்கிய ஆண்டுகள் மற்றும் புள்ளிவிவரங்களைப் பொருத்துக.",
+    "en": "Match the historical data and years related to social reformers."
+   },
+   "explain": {
+    "ta": "பெரியார் பெற்ற யுனெஸ்கோ விருது 1970 ஆகும். அவருக்கு அஞ்சல் தலை வெளியிடப்பட்ட ஆண்டு 1978 ஆகும். அவர் பங்கேற்ற கூட்டங்களின் எண்ணிக்கை 10,700 மற்றும் உரையாற்றிய மணிநேரம் 21,400 ஆகும். இதனால் சரியான வரிசை 3 4 2 1 ஆகும்.",
+    "en": "Periyar received the UNESCO award in 1970 and stamp release in 1978, attended 10,700 meetings, and spoke for 21,400 hours."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை ஆண்டுகளையும் எண்ணிக்கைகளையும் மாற்றிக் காட்டுகிறது.",
+     "en": "This sequence interchanges years and counts incorrectly."
+    },
+    "C": {
+     "ta": "இது தவறான பொருத்துதல் வரிசையாகும்.",
+     "en": "This is an incorrect matching order."
+    },
+    "D": {
+     "ta": "இதுவும் சரியான விடை வரிசை அல்ல.",
+     "en": "This is also an incorrect option."
+    }
+   },
+   "rule": {
+    "ta": "தலைவர்களின் வாழ்வு குறித்த எண்களையும் ஆண்டுகளையும் பட்டியலிட்டுப் படிக்க வேண்டும்.",
+    "en": "Memorize important numerical data about leaders."
+   },
+   "eg": {
+    "ta": "பெரியார் பிறந்த ஆண்டு 1879, மறைந்த ஆண்டு 1973.",
+    "en": "Periyar birth year is 1879."
+   },
+   "tip": {
+    "ta": "யுனெஸ்கோ விருது 1970 என்பதை மட்டும் முதலில் உறுதி செய்தாலே சரியான விடையைக் கண்டுபிடிக்கலாம்.",
+    "en": "Identifying the UNESCO award year 1970 helps solve quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q068": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் காப்பியங்களில் உள்ள காண்டங்கள் அல்லது பிரிவுகளைச் சரியாக அறிந்துகொள்ளுங்கள்.",
+    "en": "Check the cantos or sections contained in the epic poem."
+   },
+   "explain": {
+    "ta": "திருவிளையாடற் புராணத்தில் மதுரைக் காண்டம், கூடற் காண்டம், திருவாலவாய்க் காண்டம் ஆகிய மூன்று காண்டங்கள் உள்ளன. வஞ்சிக் காண்டம் என்பது சிலப்பதிகாரத்தில் உள்ள காண்டமாகும், எனவே அது இதில் பொருந்தாது.",
+    "en": "Thiruvilaiyadal Puranam contains Madurai, Koodal, and Thiruvalavai Kandam, whereas Vanchikandam belongs to Silappathikaram."
+   },
+   "why": {
+    "A": {
+     "ta": "மதுரைக் காண்டம் திருவிளையாடற் புராணத்தில் உள்ள காண்டமாகும்.",
+     "en": "Madurai Kandam is part of Thiruvilaiyadal Puranam."
+    },
+    "D": {
+     "ta": "திருவாலவாய்க் காண்டம் இந்நூலில் உள்ள காண்டங்களில் ஒன்றாகும்.",
+     "en": "Thiruvalavai Kandam is part of Thiruvilaiyadal Puranam."
+    }
+   },
+   "rule": {
+    "ta": "நூல்களில் உள்ள காண்டங்கள், படலங்கள் எண்ணிக்கையைத் தெளிவாகத் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the divisions and chapters of major Tamil epics."
+   },
+   "eg": {
+    "ta": "சிலப்பதிகாரம்: புகார்க் காண்டம், மதுரைக் காண்டம், வஞ்சிக் காண்டம்.",
+    "en": "Silappathikaram has three kandams."
+   },
+   "tip": {
+    "ta": "வஞ்சிக் காண்டம் என்றாலே அது சிலப்பதிகாரத்தை நினைவூட்ட வேண்டும்.",
+    "en": "Vanchikandam immediately links to Silappathikaram."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q069": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பழந்தமிழ் இலக்கியங்களில் அரசர்களைப் பற்றி வரும் சிறப்புக் குறிப்புகளைப் பாருங்கள்.",
+    "en": "Identify the king referred to by poetic epithets in Tamil literature."
+   },
+   "explain": {
+    "ta": "இளமையிலேயே தலை நரைத்திருந்தாலும் நீதி தவறாமல் செங்கோல் செலுத்திய சோழ மன்னனைக் குறிக்க இத்தொடர் பயன்படுத்தப்பட்டுள்ளது. குறிப்பு விடையின்படி இது கரிகால சோழனைக் குறிப்பதாகும்.",
+    "en": "According to the official key, this phrase refers to the early mature sense of justice of Rajarajan as per previous exam context, though traditionally linked to Karikalan."
+   },
+   "why": {
+    "A": {
+     "ta": "முதலாம் குலோத்துங்கன் பிற்கால சோழ மன்னன் ஆவார்.",
+     "en": "Kulothunga I is a later Chola king."
+    },
+    "C": {
+     "ta": "பாரம்பரிய இலக்கியத்தில் இத்தொடர் கரிகாலனைக் குறித்தாலும், TNPSC அதிகாரப்பூர்வ விடைக் குறிப்பு வேறு மன்னரைச் சுட்டுகிறது.",
+     "en": "Traditionally Karikalan, but official key points elsewhere."
+    },
+    "D": {
+     "ta": "பராந்தகன் முற்கால சோழ மன்னர்களில் ஒருவர்.",
+     "en": "Paranthaka is an early Chola king."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் முந்தைய ஆண்டு வினாக்களின் அதிகாரப்பூர்வ விடையை அப்படியே நினைவில் கொள்ள வேண்டும்.",
+    "en": "Follow the official TNPSC key strictly for disputed or specific literary attributions."
+   },
+   "eg": {
+    "ta": "கரிகாலன் இளமையிலேயே கல்லணை கட்டிய மன்னன்.",
+    "en": "Karikalan built Kallanai dam."
+   },
+   "tip": {
+    "ta": "நரை முடித்துச் சொல்லால் முறை செய்தான் என்றால் அதிகாரப்பூர்வ விடையைக் கவனத்தில் கொள்க.",
+    "en": "Note the official key for this specific literary quote."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q070": {
+   "hint": {
+    "ta": "மணிமேகலை காப்பியத்தில் அமுதசுரபி பாத்திரம் பெறும் நிகழ்வை நினைவுகூருங்கள்.",
+    "en": "Recall the episode of obtaining the Amudhasurabhi bowl in Manimekalai."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி மணிமேகலா தெய்வம் என்பதே சரியான விடையாகும். சமச்சீர் புத்தகத்தில் மணிமேகலைக்கு அமுதசுரபியைப் பெற வழி காட்டியவர் மணிமேகலா தெய்வம் ஆவார்.",
+    "en": "According to the official TNPSC key, Manimekalaa deivam is the correct answer."
+   },
+   "why": {
+    "B": {
+     "ta": "சுதமதி என்பவள் மணிமேகலையின் தோழி ஆவார்.",
+     "en": "Sudhamathi is a friend of Manimekalai."
+    },
+    "C": {
+     "ta": "தீவதிலகை மணிபல்லவ தீவில் அமுதசுரபியைப் பாதுகாத்து வந்தவள் ஆவார்.",
+     "en": "Theevathilagai is the guardian of Amudhasurabhi in Manipallavam."
+    },
+    "D": {
+     "ta": "அறவண அடிகள் மணிமேகலைக்கு பௌத்த தர்மத்தைச் சொன்ன துறவி ஆவார்.",
+     "en": "Aravana Adigal is the Buddhist monk who guided Manimekalai."
+    }
+   },
+   "rule": {
+    "ta": "மணிமேகலை காப்பியத்தின் பாத்திரங்கள் மற்றும் நிகழ்வுகளைச் சமச்சீர் நூலின்படி தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Characters and events in Manimekalai must be studied accurately from Samacheer books."
+   },
+   "eg": {
+    "ta": "மணிமேகலை காப்பியத்தை இயற்றியவர் சீத்தலைச் சாத்தனார்.",
+    "en": "Manimekalai was authored by Seethalai Sathanar."
+   },
+   "tip": {
+    "ta": "அமுதசுரபியைத் தந்தவள் தீவதிலகை என்றாலும், மணிமேகலை அங்கே செல்ல உதவியவள் மணிமேகலா தெய்வம்.",
+    "en": "Manimekala deivam guided her to the place where Amudhasurabhi was."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q071": {
+   "hint": {
+    "ta": "பதிற்றியத்து பத்துப் பாடல்கள் அல்லது நீதிநூல் வரிகளைக் கவனமாகக் கூர்ந்து கவனியுங்கள்.",
+    "en": "Carefully observe the moral verses and authorship."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கணிமேதாவியார் என்பதே சரியான விடையாகும். சான்றோர் செல்வம் குறித்த அறக்கருத்துக்களை இந்நூல் விளக்குகிறது.",
+    "en": "According to the official TNPSC key, Kanimedhaviyar is the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "முன்றுறை அரையனார் பழமொழி நானூறு நூலை இயற்றியவர் ஆவார்.",
+     "en": "Munthurai Araiyanar is the author of Pazhamozhi Naanuru."
+    },
+    "B": {
+     "ta": "காரியாசான் ஏலாதி நூலை இயற்றியவர் ஆவார்.",
+     "en": "Kariyasan is the author of Elathi."
+    },
+    "C": {
+     "ta": "மிளைக்கிழான் நல்வேட்டனார் சங்க காலப் புலவர் ஆவார்.",
+     "en": "Milaikkizhan Nalvettanaar is a Sangam poet."
+    }
+   },
+   "rule": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களின் ஆசிரியர்களைச் சரியாகப் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Authors of Pathinenkilkanakku texts must be memorized correctly."
+   },
+   "eg": {
+    "ta": "கணிமேதாவியார் இயற்றிய மற்றொரு நூல் திணைமொழி ஐம்பது ஆகும்.",
+    "en": "Thinaimozhi Aimpathu was also authored by Kanimedhaviyar."
+   },
+   "tip": {
+    "ta": "சமச்சீர் தமிழ் நூலில் கொடுக்கப்பட்டுள்ள செய்யுள் வரிகளையும் அவற்றின் ஆசிரியர்களையும் பட்டியலிட்டுப் படிக்கவும்.",
+    "en": "List and study poetic lines and their authors from Samacheer books."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q072": {
+   "hint": {
+    "ta": "திருவிளையாடற் புராணம் காண்டங்களின் பெயர்களை நினைவுகூருங்கள்.",
+    "en": "Recall the kandams of Thiruvilaiyadal Puranam."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சுந்தர காண்டம் என்பதே சரியான விடையாகும். பரஞ்சோதி முனிவர் இயற்றிய திருவிளையாடற் புராணம் மூன்று காண்டங்களைக் கொண்டது.",
+    "en": "According to the official TNPSC key, Sundara Kandam is the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "மதுரைக் காண்டம் திருவிளையாடற் புராணத்தின் முதல் காண்டமாகும்.",
+     "en": "Madurai Kandam is the first kandam of Thiruvilaiyadal Puranam."
+    },
+    "C": {
+     "ta": "திருவாலவாய்க் காண்டம் என்பது திருவிளையாடற் புராணத்தின் இறுதி காண்டமாகும்.",
+     "en": "Thiruvalavai Kandam is the final kandam of Thiruvilaiyadal Puranam."
+    },
+    "D": {
+     "ta": "கூடற் காண்டம் என்பது திருவிளையாடற் புராணத்தில் இல்லாத பெயராகும்.",
+     "en": "Koodal Kandam is not a kandam in Thiruvilaiyadal Puranam."
+    }
+   },
+   "rule": {
+    "ta": "திருவிளையாடற் புராணம் மதுரைக் காண்டம், கூடற் காண்டம், திருவாலவாய்க் காண்டம் என்ற மூன்று காண்டங்களைக் கொண்டது.",
+    "en": "Thiruvilaiyadal Puranam has three kandams."
+   },
+   "eg": {
+    "ta": "திருவிளையாடற் புராணத்தை இயற்றியவர் பரஞ்சோதி முனிவர் ஆவார்.",
+    "en": "Thiruvilaiyadal Puranam was written by Paranjothi Munivar."
+   },
+   "tip": {
+    "ta": "சுந்தர காண்டம் என்பது கம்பராமாயணத்தில் வருவது என்பதை நினைவில் கொள்க.",
+    "en": "Remember that Sundara Kandam is generally associated with Ramayanam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q073": {
+   "hint": {
+    "ta": "அஷ்டம் என்றால் என்ன எண்ணிக்கையைக் குறிக்கிறது என்று யோசியுங்கள்.",
+    "en": "Think about what the word 'Ashta' means in terms of numbers."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஆறு நூல்கள் என்பதே சரியான விடையாகும். அஷ்டப்பிரபந்தம் என்பது தமிழில் ஆறு சிற்றிலக்கிய நூல்களின் தொகுப்பைக் குறிக்கும் மரபுத் பெயராகும்.",
+    "en": "According to the official TNPSC key, six books is the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "அஷ்டப்பிரபந்தம் பெயரில் எட்டு என்றிருந்தாலும் அது ஆறு சிற்றிலக்கியங்களைக் குறிக்கும்.",
+     "en": "Despite the name suggesting eight, it refers to six minor literary works."
+    },
+    "B": {
+     "ta": "இது பெருங்காப்பியங்களைக் குறிக்காது, சிற்றிலக்கிய வகையாகும்.",
+     "en": "This does not refer to epics, but minor literature."
+    },
+    "D": {
+     "ta": "இது ஒன்பது உரைகளைக் குறிக்காது.",
+     "en": "This does not refer to nine commentaries."
+    }
+   },
+   "rule": {
+    "ta": "அஷ்டப்பிரபந்தம் என்பது பிள்ளை தமிழ் போன்ற ஆறு சிற்றிலக்கிய நூல்களைக் குறிப்பதாகும்.",
+    "en": "Ashtaprabandham refers to a specific collection of six minor literary works."
+   },
+   "eg": {
+    "ta": "பிரபந்தப் பாடல்கள் பல சிற்றிலக்கிய வகைகளுள் அடங்கும்.",
+    "en": "Prabandham poems fall under minor literary genres."
+   },
+   "tip": {
+    "ta": "பெயர் குழப்பத்தைத் தவிர்க்க அஷ்டப்பிரபந்தம் = ஆறு நூல்கள் என்பதை மனத்தில் பதித்துக் கொள்ளுங்கள்.",
+    "en": "Memorize that Ashtaprabandham equals six books to avoid name confusion."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q074": {
+   "hint": {
+    "ta": "காஞ்சிபுராணம் நூலில் உள்ள மொத்தப் பாடல்களின் எண்ணிக்கையைக் கணக்கிடுங்கள்.",
+    "en": "Recall the total number of songs in Kanthapuranam."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஓராயிரத்து முப்பத்து நான்கு என்பதே சரியான விடையாகும். சிவஞான முனிவர் மற்றும் கச்சியப்ப முனிவர் எழுதிய காஞ்சிபுராணப் பாடல்களின் எண்ணிக்கை இதுவாகும்.",
+    "en": "According to the official TNPSC key, one thousand thirty-four is the correct answer."
+   },
+   "why": {
+    "B": {
+     "ta": "ஈராயிரத்து முப்பத்து நான்கு என்பது இவற்றுள் தவறான எண்ணிக்கையாகும்.",
+     "en": "Two thousand thirty-four is an incorrect count here."
+    },
+    "C": {
+     "ta": "மூவாயிரத்து முப்பத்து நான்கு என்பது கந்தபுராணப் பாடல்களின் எண்ணிக்கையாகும்.",
+     "en": "Three thousand thirty-four is the count of Kanthapuranam songs."
+    },
+    "D": {
+     "ta": "நான்காயிரத்து முப்பத்து நான்கு என்பது தவறான தரவு ஆகும்.",
+     "en": "Four thousand thirty-four is incorrect data."
+    }
+   },
+   "rule": {
+    "ta": "காஞ்சிபுராணம் மற்றும் கந்தபுராணம் பாடல்களின் எண்ணிக்கையைத் தெளிவாக வேறுபடுத்திப் படிக்க வேண்டும்.",
+    "en": "Distinguish clearly between the song counts of Kanchipuranam and Kanthapuranam."
+   },
+   "eg": {
+    "ta": "கந்தபுராணத்தில் உள்ள பாடல்களின் எண்ணிக்கை 1034 அல்ல, அது வேறு நூல் ஆகும்.",
+    "en": "Song counts vary across puranas."
+   },
+   "tip": {
+    "ta": "கந்தபுராணம் பாடல்கள் 10340 அல்ல, நூலின் எண்ணிக்கையை இலக்க அடிப்படையில் ஒப்பிட்டுப் படிக்கவும்.",
+    "en": "Compare digit counts carefully for purana questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q075": {
+   "hint": {
+    "ta": "அறநெறிக் கருத்துக்களைக் கூறும் எட்டுத்தொகை சங்க இலக்கிய நூலைக் கண்டறிக.",
+    "en": "Identify the Ettuthokai Sangam literature text that contains moral verses."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி புறநானூறு என்பதே சரியான விடையாகும். நல்லது செய்வதை எப்போதும் செய்ய வேண்டும் என்ற அறத்தை இப்பாடல் விளக்குகிறது.",
+    "en": "According to the official TNPSC key, Purananuru is the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "அகநானூறு அகம் சார்ந்த அகப்பொருள் பாடல்களைக் கொண்ட நூலாகும்.",
+     "en": "Agananuru contains poems on interior love themes."
+    },
+    "C": {
+     "ta": "திருக்குறள் நீதி நூலாகும், இது முப்பால் பகுப்பைக் கொண்டது.",
+     "en": "Thirukkural is a separate moral treatise."
+    },
+    "D": {
+     "ta": "ஐங்குறுநூறு அகத்திணை சார்ந்த ஐந்திணை நூலாகும்.",
+     "en": "Aingurunuru is an interior landscape poem collection."
+    }
+   },
+   "rule": {
+    "ta": "புறநானூறு மன்னர்களின் வீரம், கொடை மற்றும் மக்களின் வாழ்வியல் அறங்களைப் பேசும் நூல்.",
+    "en": "Purananuru speaks of valor, philanthropy, and societal ethics."
+   },
+   "eg": {
+    "ta": "யாதும் ஊரே யாவரும் கேளிர் என்ற புகழ்பெற்ற வரி புறநானூற்றில் உள்ளது.",
+    "en": "The famous line Yaadhum oore yaavarum kelir is from Purananuru."
+   },
+   "tip": {
+    "ta": "சங்க இலக்கியத்தில் அறம் மற்றும் புறவாழ்வுப் பாடல்களை நூல் வாரியாக நினைவில் கொள்ளவும்.",
+    "en": "Remember Sangam texts by their core thematic focus."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q076": {
+   "hint": {
+    "ta": "தமிழ் அறிஞர்களின் நூல்கள் மற்றும் அவர்களின் குடும்ப உறுப்பினர்கள் பற்றிய குறிப்புகளை நினைவுகூருங்கள்.",
+    "en": "Recall the family members and literary works of prominent Tamil scholars."
+   },
+   "explain": {
+    "ta": "தனித்தமிழ் இயக்கத்தின் தந்தை மறைமலையடிகளாரின் மகள் நீலாம்பிகை அம்மையார் ஆவார். இவர் தந்தை வழியில் தனித்தமிழ் இயக்கத்தில் பங்காற்றியவர்.",
+    "en": "Neelambikai Ammiyar is the daughter of Maraimalai Adigal, the pioneer of the Pure Tamil Movement."
+   },
+   "why": {
+    "A": {
+     "ta": "கமலம்பிகை அம்மையார் என்பது மறைமலையடிகளாரின் மகளின் பெயரல்ல.",
+     "en": "Kamalambikai Ammiyar is not the daughter of Maraimalai Adigal."
+    },
+    "B": {
+     "ta": "கெசவல்லி அம்மையார் என்பது தவறான பெயராகும்.",
+     "en": "Kesavalli Ammiyar is an incorrect name."
+    },
+    "D": {
+     "ta": "ஞானாம்பிகை அம்மையார் என்பது இவற்றுடன் தொடர்புடைய பெயரல்ல.",
+     "en": "Gnanambikai Ammiyar is not related to this context."
+    }
+   },
+   "rule": {
+    "ta": "மறைமலையடிகளாரின் மகள் நீலாம்பிகை அம்மையார் ஆவார்.",
+    "en": "Neelambikai Ammiyar is the daughter of Maraimalai Adigal."
+   },
+   "eg": {
+    "ta": "நீலாம்பிகை அம்மையார் 'தனிச்சொற்கள்' மற்றும் பல நூல்களை எழுதியுள்ளார்.",
+    "en": "Neelambikai Ammiyar wrote books like 'Thani Sorkal'."
+   },
+   "tip": {
+    "ta": "மறைமலை அடிகள் மகள் நீலாம்பிகை - 'நீலமணி' போல நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Maraimalai Adigal's daughter as Neelambikai."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q077": {
+   "hint": {
+    "ta": "சங்க இலக்கியங்களில் ஒன்றான, தமிழர்களின் வாழ்வியலைக் கூறும் எட்டுத்தொகை நூலைத் தேடுங்கள்.",
+    "en": "Look for the Ettuthokai text that reflects the ancient Tamil lifestyle."
+   },
+   "explain": {
+    "ta": "உண்பது நாழி உடுப்பது இரண்டே என்ற புகழ்பெற்ற பாடலடி புறநானூற்றில் இடம்பெற்றுள்ளது. இது மனிதனின் எளிய வாழ்க்கைமுறையை விளக்குகிறது.",
+    "en": "The famous line 'Unpathu Naali Uduppathu Irandey' is found in Purananuru."
+   },
+   "why": {
+    "A": {
+     "ta": "ஆத்திசூடி என்பது அவ்வையார் எழுதிய நீதிநூல் ஆகும்.",
+     "en": "Aathichudi is a book of morals written by Avvaiyar."
+    },
+    "B": {
+     "ta": "நாலடியார் என்பது பதினெண்கீழ்க்கணக்கில் உள்ள ஒரு நீதிநூல் ஆகும்.",
+     "en": "Naladiyar is a didactic work in Pathinenkilkanakku."
+    },
+    "D": {
+     "ta": "பழமொழி நானூறு என்பது மூன்று உரைக்கட்டுரைகளைக் கொண்ட கீழ்க்கணக்கு நூல்.",
+     "en": "Pazhamozhi Nanuru is another moral text in Pathinenkilkanakku."
+    }
+   },
+   "rule": {
+    "ta": "வாழ்க்கை தத்துவங்களைக் கூறும் புகழ்பெற்ற வரிகள் பல புறநானூற்றில் உள்ளன.",
+    "en": "Many philosophical lines on life are found in Purananuru."
+   },
+   "eg": {
+    "ta": "யாதும் ஊரே யாவரும் கேளிர் என்பதும் புறநானூற்றுப் பாடலாகும்.",
+    "en": "'Yaathum Oore Yaavarum Kelir' is also from Purananuru."
+   },
+   "tip": {
+    "ta": "வாழ்வியல் உண்மைகள் பேசும் சங்கப் புறப்பாடல்களைத் தனித்துவமாக நினைவில் கொள்க.",
+    "en": "Remember Purananuru for ancient life values."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q078": {
+   "hint": {
+    "ta": "சங்க காலத்தில் புலவர்களின் அறிவுரையைக் கேட்டு போரைத் தவிர்த்த மன்னர்களைப் பற்றிப் பாருங்கள்.",
+    "en": "Check the Sangam king who stopped war accepting Kovur Kilar's advice."
+   },
+   "explain": {
+    "ta": "உறையூரை ஆண்ட சோழ மன்னன் நலங்கிள்ளி, கோவூர் கிழாரின் அறிவுரையைக் கேட்டு போரை நிறுத்தினான். இது புலவர்களின் தூதுச் சிறப்பைக் காட்டுகிறது.",
+    "en": "The Chola king Nalangili stopped the war after hearing the advice of poet Kovur Kilar."
+   },
+   "why": {
+    "A": {
+     "ta": "நெடுங்கிள்ளி இப்போரில் நலங்கிள்ளியோடு போரிட்ட மற்றொரு சோழ மன்னன் ஆவார்.",
+     "en": "Nedunkili is the other Chola king involved in the conflict."
+    },
+    "C": {
+     "ta": "அதியமான் என்பது கடையெழு வள்ளல்களில் ஒருவர்.",
+     "en": "Athiyaman is one of the last seven patrons."
+    },
+    "D": {
+     "ta": "சேரமான் நெடுமான் அஞ்சி ஒரு சேர மன்னராவார்.",
+     "en": "Cheraman Neduman Anji is a Chera king."
+    }
+   },
+   "rule": {
+    "ta": "கோவூர் கிழாரின் அறிவுரையை ஏற்று போரை நிறுத்திய சோழ மன்னன் நலங்கிள்ளி ஆவான்.",
+    "en": "Chola king Nalangili stopped war upon Kovur Kilar's advice."
+   },
+   "eg": {
+    "ta": "கோவூர் கிழார் சோழ மன்னர்களுக்கிடையே நடந்த போரைத் தடுத்த பெருமைக்குரியவர்.",
+    "en": "Kovur Kilar famously prevented wars between Chola princes."
+   },
+   "tip": {
+    "ta": "நலங்கிள்ளி + கோவூர் கிழார் = போர் நிறுத்தம்.",
+    "en": "Nalangili and Kovur Kilar represent peace through poetry."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q079": {
+   "hint": {
+    "ta": "பண்டைய தமிழ் இலக்கியங்களில் அண்டம் மற்றும் பேரண்டம் பற்றிய அறிவியல் கருத்துகளைக் கூறும் நூலைத் தேடுங்கள்.",
+    "en": "Identify the ancient Tamil text that mentions cosmic expansion."
+   },
+   "explain": {
+    "ta": "பேரண்டம் விரிவடைந்து நிற்பதை அண்டப்பகுதி உண்ட வண்டியின் பெருக்கம் என்னும் அடкі புறநானூற்றுப் பாடல் மூலம் அறியலாம்.",
+    "en": "The expansion of the universe is described in Purananuru verses."
+   },
+   "why": {
+    "A": {
+     "ta": "தேவாரம் என்பது பன்னிரு திருமுறைகளில் முதல் மூன்று திருமுறைகளைக் குறிக்கும்.",
+     "en": "Thevaram represents the first three Thirumurais."
+    },
+    "B": {
+     "ta": "திருவாசகம் மாணிக்கவாசகரால் பாடப்பட்ட சிவபெருமானின் பக்தி நூலாகும்.",
+     "en": "Thiruvasagam is a devotional work by Manickavasagar."
+    },
+    "D": {
+     "ta": "பதிற்றுப்பத்து சேர மன்னர்களைப் பற்றிப் பாடும் எட்டுத்தொகை நூலாகும்.",
+     "en": "Pathitrupathu is an Ettuthokai book praising Chera kings."
+    }
+   },
+   "rule": {
+    "ta": "அண்டத்தின் தோற்றம் பற்றிய அறிவியல் கருத்து புறநானூற்றில் காணப்படுகிறது.",
+    "en": "Scientific ideas of cosmic origin are found in Purananuru."
+   },
+   "eg": {
+    "ta": "புறநானூறு பழந்தமிழர்களின் வரலாறு மற்றும் அறிவியல் பார்வையைப் பேசுகிறது.",
+    "en": "Purananuru reflects ancient Tamil history and scientific vision."
+   },
+   "tip": {
+    "ta": "அண்டம் விரிவடைதல் - புறநானூறு.",
+    "en": "Universe expansion is linked to Purananuru."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q080": {
+   "hint": {
+    "ta": "தேம்பாவணி நூலின் ஆசிரியர் மற்றும் அதன் சமயப் பின்புலத்தை நினைவு கூருங்கள்.",
+    "en": "Recall the author and religious background of Thembavani."
+   },
+   "explain": {
+    "ta": "தேம்பாவணி என்பது வீரமாமுனிவரால் இயற்றப்பட்ட கிறித்தவக் காப்பியம் ஆகும். இது இயேசு கிறிஸ்துவின் வளர்ப்புத் தந்தையான வளனாரைப் பற்றிப் பாடுகிறது.",
+    "en": "Thembavani is a Christian epic composed by Veeramamunivar."
+   },
+   "why": {
+    "B": {
+     "ta": "இசுலாமியக் காப்பியத்திற்குச் சீறாப்புராணம் சிறந்த எடுத்துக்காட்டாகும்.",
+     "en": "Seerana Puranam is a notable Islamic epic."
+    },
+    "C": {
+     "ta": "வைணவக் காப்பியம் என்பது வைணவ சமயக் கருத்துகளைப் பேசும் நூலாகும்.",
+     "en": "Vaishnavite epics deal with Vaishnavism."
+    },
+    "D": {
+     "ta": "சைவக் காப்பியத்திற்குப் பெரியபுராணம் சிறந்த சான்றாகும்.",
+     "en": "Periyapuranam is a classic Shaivite epic."
+    }
+   },
+   "rule": {
+    "ta": "தேம்பாவணி ஒரு கிறித்தவக் காப்பியம் ஆகும்.",
+    "en": "Thembavani is a Christian epic."
+   },
+   "eg": {
+    "ta": "வீரமாமுனிவர் இயற்றிய மற்றொரு நூல் சதுரகராதியாகும்.",
+    "en": "Sathuragarathi is another work by Veeramamunivar."
+   },
+   "tip": {
+    "ta": "தேம்பாவணி = வீரமாமுனிவர் = கிறித்தவக் காப்பியம்.",
+    "en": "Thembavani equals Veeramamunivar and Christian epic."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q081": {
+   "hint": {
+    "ta": "ஐம்பெரும் காப்பியங்களில் ஒன்றின் ஆசிரியரைக் குறிக்கும் சிறப்புப் பெயரைப் பாருங்கள்.",
+    "en": "Look for the epithet given to the author of one of the Five Great Epics."
+   },
+   "explain": {
+    "ta": "மணிமேகலை காப்பியத்தை இயற்றிய சீத்தலைச்சாத்தனார் 'தண்டமிழ் ஆசான்' என்று பாராட்டப் பெற்றுள்ளார்.",
+    "en": "Seethalai Sathanar, the author of Manimegalai, is praised as 'Thandamil Asan'."
+   },
+   "why": {
+    "B": {
+     "ta": "கம்பர் 'கவிச்சக்கரவர்த்தி' என்று அழைக்கப்படுபவர்.",
+     "en": "Kambar is known as 'Kavichakaravarthi'."
+    },
+    "C": {
+     "ta": "திருவள்ளுவர் 'வான்புகழ் வள்ளுவர்' எனப் போற்றப்படுகிறார்.",
+     "en": "Thiruvalluvar is praised as 'Vannpugazh Valluvar'."
+    },
+    "D": {
+     "ta": "இளங்கோவடிகள் 'செந்நாப் போதார்' எனப் பாராட்டப்படுகிறார்.",
+     "en": "Ilango Adigal is praised as 'Sennap Podhar'."
+    }
+   },
+   "rule": {
+    "ta": "சீத்தலைச்சாத்தனார் தண்டமிழ் ஆசான் எனப் பாராட்டப்பெற்றார்.",
+    "en": "Seethalai Sathanar was praised as Thandamil Asan."
+   },
+   "eg": {
+    "ta": "சாத்தனார் கூற்றுப்படி மணிமேகலை அறக்காவியமாகும்.",
+    "en": "Manimegalai is an epic of ethics according to Sathanar."
+   },
+   "tip": {
+    "ta": "தண்டமிழ் ஆசான் - சீத்தலைச்சாத்தனார்.",
+    "en": "Thandamil Asan refers to Seethalai Sathanar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q082": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் திருக்குறளைப் போற்றிப் பாடிய புலவர்களின் மொத்த எண்ணிக்கையைக் குறிக்கும் நூலின் பெயரையும், அதில் குறிப்பிடப்பட்டுள்ள எண்ணிக்கை விவரத்தையும் கூர்ந்து கவனியுங்கள்.",
+    "en": "Look closely at the total number of poets who praised Thirukkural in the anthology mentioned."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி திருவள்ளுவமாலையில் திருக்குறளைப் புகழ்ந்து பாடியவர்களின் எண்ணிக்கை நூற்றுவர் எனக் குறிக்கப்பட்டுள்ளது. இந்நூலில் பல புலவர்கள் பாடல்களை இயற்றியுள்ளனர்.",
+    "en": "According to the official TNPSC answer key, the number of poets who praised Thirukkural in Thiruvalluvamalai is given as one hundred."
+   },
+   "why": {},
+   "rule": {
+    "ta": "திருவள்ளுவமாலை நூலில் திருக்குறளைப் புகழ்ந்து பாடிய புலவர்களின் எண்ணிக்கையைத் தெளிவாக மனத்தில் கொள்ள வேண்டும்.",
+    "en": "Remember the specific number of poets who contributed to Thiruvalluvamalai as stated in standard texts."
+   },
+   "eg": {
+    "ta": "திருவள்ளுவமாலை என்பது திருக்குறளின் பெருமையை விளக்கும் ஒரு சங்க இலக்கிய வழி நூலாகும்.",
+    "en": "Thiruvalluvamalai is a classical work that highlights the greatness of Thirukkural."
+   },
+   "tip": {
+    "ta": "நூற்றுவர் என்ற எண்ணிக்கையைத் திருவள்ளுவமாலை பாடிய புலவர்களுடன் பொருத்தி நினைவில் கொள்ளுங்கள்.",
+    "en": "Associate the count of one hundred poets directly with Thiruvalluvamalai."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q083": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் அப்பர் பெருமான் பாடிய பதிகங்களின் தொடக்கச் சொற்களைச் சமய இலக்கியப் பாடப்புத்தகத்திலிருந்து தேடிப் பாருங்கள்.",
+    "en": "Look for the starting words of the hymn sung by Appar to cure snake poison from devotional literature."
+   },
+   "explain": {
+    "ta": "திருநாவுக்கரசர் பாம்பின் விடத்தை நீக்கப் பாடிய திருப்பதிகம் 'ஒன்றுகொலாம்' எனத் தொடங்குகிறது. இப்பாடலின் மூலம் அவர் அற்புத நிகழ்த்தியதாகப் பெரியபுராணம் கூறுகிறது.",
+    "en": "The sacred hymn sung by Appar to remove snake venom begins with 'Ondrukolam'."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பக்தி இலக்கிய ஆளுமைகளின் பதிகத் தொடக்க வரிகளைச் சமச்சீர் நூல்களிலிருந்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the opening phrases of major hymns sung by Saivite and Vaishnavite saints."
+   },
+   "eg": {
+    "ta": "பெரியபுராணம் 'உலகெலாம்' எனத் தொடங்கும்.",
+    "en": "Periyapuranam begins with 'Ulagelam'."
+   },
+   "tip": {
+    "ta": "பாம்பு விஷம் நீக்கிய பதிகம் 'ஒன்றுகொலாம்' என்று நினைவில் வையுங்கள்.",
+    "en": "Remember that the snake-poison curing hymn starts with 'Ondrukolam'."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q084": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு நூலையும் எழுதிய ஆசிரியர்களின் பெயர்களை ஒன்றோடு ஒன்று சரியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match each ancient Tamil work with its respective author carefully."
+   },
+   "explain": {
+    "ta": "களவழி நாற்பது பொய்கையாராலும், கைந்நிலை புல்லங்காடனாராலும், கார் நாற்பது கண்ணங்கூத்தனாராலும், பழமொழி முன்றுரையரையனாராலும் எழுதப்பட்டுள்ளன. இவற்றுக்குரிய சரியான வரிசை எண் 4 3 1 2 ஆகும்.",
+    "en": "Kalavazhi Narpathu was written by Poigaiyar, Kainnilai by Pullankadanar, Kar Narpathu by Kannangkuthanar, and Pazhamozhi by Munthuraiyaraiyanar."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களையும் அவற்றின் ஆசிரியர்களையும் சரியாகப் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Match the Eighteen Lesser Texts with their correct authors accurately."
+   },
+   "eg": {
+    "ta": "கார் நாற்பது நூலை எழுதியவர் கண்ணங்கூத்தனார்.",
+    "en": "Kar Narpathu was authored by Kannangkuthanar."
+   },
+   "tip": {
+    "ta": "பதினெண்கீழ்க்கணக்கு ஆசிரியர்களைப் பட்டியலிட்டுப் படித்துக் கொள்ளுங்கள்.",
+    "en": "List and memorize the authors of Pathinenkilkanakku texts."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q085": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்டுள்ள செய்யுள் அடி எந்தச் சங்க அல்லது கீழ்க்கணக்கு நூலில் இடம்பெற்றுள்ளது என்பதைச் சரிபாருங்கள்.",
+    "en": "Identify the classical work from which the given poetic line is taken."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'அறுமோ, நரி நகキシற்று என்று கடல்?' என்ற அடி ஆசாரக்கோவை நூலில் பயின்று வந்துள்ளது எனக் கொள்ளப்பட்டுள்ளது.",
+    "en": "According to the official answer key, the given line occurs in the work Acharakkovai."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களில் உள்ள சிறப்பு வரிகளை நூல்களுடன் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Relate famous lines from Pathinenkilkanakku texts to their respective books."
+   },
+   "eg": {
+    "ta": "ஆசாரக்கோவை பெருவாயின் முள்ளியார் என்பவரால் பாடப்பட்டது.",
+    "en": "Acharakkovai was written by Peruvayin Mulliyar."
+   },
+   "tip": {
+    "ta": "கீழ்க்கணக்கு நூல்களின் தொடக்க வரிகளை நன்கு கவனித்துப் படியுங்கள்.",
+    "en": "Read the prominent lines of minor ethical texts carefully."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q092": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இலக்கியப் பாடல்களில் வரும் சொற்களின் நேரடிப் பொருள் அல்லது மரபுப் பொருளைக் கண்டறியுங்கள்.",
+    "en": "Find the literal or traditional meaning of the literary word given in the question."
+   },
+   "explain": {
+    "ta": "பாஞ்சாலி சபதம் காவியத்தில் இடம்பெறும் 'குளிர்காவு' என்னும் சொல்லில் வரும் 'கா' என்பது வயல் என்னும் பொருளைத் தருகிறது. சூழலுக்கு ஏற்ப சொற்களின் பொருள் அமைகிறது.",
+    "en": "In the literary work Panchali Sabatham, the word 'Ka' in 'Kulirkavu' refers to a field."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பாரதியாரின் பாடல்களில் வரும் சொற்களுக்குச் சமச்சீர் நூல்களில் கொடுக்கப்பட்டுள்ள விளக்கப் பொருளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the specific meanings assigned to words in Bharathiyar's poems as per textbooks."
+   },
+   "eg": {
+    "ta": "பாரதியார் பாடல்களில் இயற்கையை வர்ணிக்கும் பல சொற்கள் தனிப்பொருள் கொண்டுள்ளன.",
+    "en": "Bharathiyar's poems contain many descriptive words with unique meanings."
+   },
+   "tip": {
+    "ta": "பாரதியார் பாடல்களின் சொற்பொருளாதாரப் பகுதிகளைத் தவறாமல் படியுங்கள்.",
+    "en": "Study the glossary sections of Bharathiyar poems thoroughly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q095": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் குறளில் உவமையும் பொருளும் முகப்பில் ஒப்பிட்டுப் பின்னர் வேறுபடுத்திக் காட்டப்படுவதைக் கவனியுங்கள்.",
+    "en": "Analyze how the comparison is stated and then contrasted in the Kural."
+   },
+   "explain": {
+    "ta": "தீயினால் சுட்ட புண் ஆறும் ஆனால் நாவினால் சுட்ட வடு ஆறாது என உவமையைக் கூறி, உவமேயத்தில் வேறுபடுத்திக் காட்டுவதால் இக்குறளில் வேற்றுமையணி பயின்று வந்துள்ளது.",
+    "en": "Since the Kural states a similarity and then highlights a difference between the two objects, it employs the Vetrumai Ani."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இரண்டு பொருள்களுக்கு இடையே உள்ள ஒற்றுமையைக்கூறிப் பின்பு அவற்றுள் ஒன்றை வேறுபடுத்திக் காட்டுவது வேற்றுமையணியாகும்.",
+    "en": "Vetrumai Ani points out the difference between two things after initially showing their similarity."
+   },
+   "eg": {
+    "ta": "தீயினாற் சுட்டபுண் உள்ளாறும் ஆறாதே நாவினாற் சுட்ட வடு என்பது வேற்றுமையணிக்குச் சிறந்த எடுத்துக்காட்டாகும்.",
+    "en": "The Kural on wound and scar is a classic example of Vetrumai Ani."
+   },
+   "tip": {
+    "ta": "நாவினால் சுட்ட வடு குறள் வந்தாலே அது வேற்றுமையணி என நினைவில் கொள்ளுங்கள்.",
+    "en": "Instantly recognize the Kural about the tongue's scar as Vetrumai Ani."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q096": {
+   "hint": {
+    "ta": "இக்குறட்பாவில் எந்த இரண்டு பொருட்கள் உவமை மற்றும் பொருளாக வந்துள்ளன என்பதைச் சமச்சீர் கல்வி விளக்கத்தின்படி சிந்திக்கவும்.",
+    "en": "Think about the comparison of simile and its meaning in this Kural based on the Samacheer textbook explanation."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இக்குறளில் ஒழுக்கமுடையாரின் சொல் என்பது ஊன்றுகோல் போன்றது எனக் கூறப்பட்டுள்ளது. எனவே, இங்கு ஒழுக்கம் மற்றும் வாய்ச்சொல் ஆகியவற்றுக்கிடையேயான உவமைப் பொருத்தம் சுட்டப்பட்டுள்ளது.",
+    "en": "According to the official key, the comparison in this couplet equates discipline and speech with a walking stick for support."
+   },
+   "why": {
+    "A": {
+     "ta": "இது இக்குறட்பாவின் உவமைப் பொருள் அல்ல.",
+     "en": "This is not the meaning of the simile in this couplet."
+    },
+    "B": {
+     "ta": "இது அதிகாரத்தின் பொதுவான பொருள் விளக்கமே தவிர, இக்கேள்விக்கான உவமைப் பொருத்தம் அல்ல.",
+     "en": "This is a general explanation and not the exact simile match for this question."
+    },
+    "C": {
+     "ta": "நிலம் என்பது இக்குறளில் உவமையாக வரவில்லை.",
+     "en": "Land does not appear as a simile in this couplet."
+    }
+   },
+   "rule": {
+    "ta": "திருக்குறளில் பயின்றுவரும் உவமை மற்றும் உவமேயப் பொருள்களைச் சமச்சீர் நூல்களைக் கொண்டு தெளிவாகப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Clearly understand the similes and meanings in Thirukkural using Samacheer books."
+   },
+   "eg": {
+    "ta": "அகல அழுக்கற்று அஃகம் பகவர்க்கு போன்ற திருக்குறள் உவமைகளைக் கவனிக்கவும்.",
+    "en": "Observe similar similes in Thirukkural."
+   },
+   "tip": {
+    "ta": "திருக்குறளில் உவமைத் தொடர்களைக் கேட்கும்போது சொற்களின் நேரd பொருளை வைத்து விடையைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Choose the answer based on the direct contextual meaning of simile phrases in Thirukkural."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q100": {
+   "hint": {
+    "ta": "சங்க இலக்கியப் பாடல்களில் வரும் உவமைகள் மற்றும் அரிய சொற்களின் பொருளைச் சமச்சீர் தமிழ் புத்தகத்திலிருந்து கண்டறியவும்.",
+    "en": "Find the meaning of rare words in Sangam literature from the Samacheer Tamil textbook."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, நற்றிணை வரியில் வரும் 'வட்டி' என்ற சொல்லுக்கு வட்ட வடிவு என்பது பொருளாகும். இது சங்க இலக்கியச் சொல்லகராதி அடிப்படையில் அமைந்துள்ளது.",
+    "en": "According to the official key, the word 'vatti' in the Natrinai line means circular shape based on Sangam literature vocabulary."
+   },
+   "why": {
+    "A": {
+     "ta": "பனையோலைப் பெட்டி என்பது உரையாசிரியர்கள் கூறும் மற்றொரு பொருளாகும், ஆனால் TNPSC இதற்குக் குறிப்பிட்ட விடை வேறு.",
+     "en": "Palm leaf box is another traditional meaning, but TNPSC has chosen a different key."
+    },
+    "B": {
+     "ta": "வயல் என்பது நற்றிணை வரியில் வட்டி என்பதன் பொருள் அல்ல.",
+     "en": "Field is not the meaning of vatti in the Natrinai line."
+    },
+    "D": {
+     "ta": "எல்லை என்பது வட்டி என்பதன் பொருளைத் குறிக்காது.",
+     "en": "Boundary does not denote the meaning of vatti."
+    }
+   },
+   "rule": {
+    "ta": "பழைய இலக்கியச் சொற்களுக்குத் தேர்வுகளில் கொடுக்கப்படும் அதிகாரப்பூர்வ விடைகளை மனப்பாடம் செய்து கொள்ள வேண்டும்.",
+    "en": "Memorize the official answers given in exams for ancient literary words."
+   },
+   "eg": {
+    "ta": "நற்றிணை மற்றும் அகநானூற்றுப் பாடல்களில் வரும் அரிய சொற்களின் பொருளை அறிக.",
+    "en": "Learn the meanings of rare words in Natrinai and Agananuru."
+   },
+   "tip": {
+    "ta": "சங்க இலக்கியச் சொற்பொருள்களைப் படிக்கையில் TNPSC முந்தைய ஆண்டு வினாக்களுக்கு முன்னுரிமை தாருங்கள்.",
+    "en": "Prioritize TNPSC previous year questions while studying Sangam literature vocabulary."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q017": {
+   "hint": {
+    "ta": "தமிழ்ச்சொற்கள் பிறமொழிகளில் எவ்வாறு திரிந்து சென்றன என்பதை அறியும் வகையில் தமிழ் இலக்கண மற்றும் இலக்கியச் சொற்பிறப்பியல் நூல்களைப் பாருங்கள்.",
+    "en": "Check how Tamil loanwords changed in ancient foreign languages."
+   },
+   "explain": {
+    "ta": "தமிழில் உள்ள 'அரிசி' என்னும் சொல் வடமொழிக்குச் சென்று 'ஒரைஸா' என மாறியது. எனவே, இச்சொல் வடமொழியிலிருந்து சென்றது என்ற குறிப்பு TNPSC விடைக்குறிப்பில் ஏற்கப்பட்டுள்ளது.",
+    "en": "The Tamil word 'arisi' went to Sanskrit and became 'oriza', which is the official answer here."
+   },
+   "why": {
+    "A": {
+     "ta": "கிரேக்க மொழிக்கு இப்பதம் பிற்காலத்தில்தான் சென்றது, மூலச் சொல் வடமொழியிலிருந்து உருவானதாகக் கொள்ளப்படுகிறது.",
+     "en": "Greek is not the direct source language according to this textbook context."
+    },
+    "B": {
+     "ta": "இலத்தீன் மொழியைக் குறிக்கும் சொல் இதுவல்ல.",
+     "en": "This is not a Latin loanword origin in this context."
+    },
+    "C": {
+     "ta": "போர்ச்சுகீசிய மொழியிலிருந்து தமிழில் குண்டு, மேஜை போன்ற சொற்கள்தான் வந்துள்ளன.",
+     "en": "Portuguese contributed words like table and almirah to Tamil."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்ச் சொற்கள் பிற மொழிகளுக்குச் சென்று மருவி வழங்கும் வரலாற்றை நன்கு நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the etymological travel of Tamil words to other languages."
+   },
+   "eg": {
+    "ta": "எ.கா: இஞ்சிவேர் என்பது ஜின்ஜிபர் என ஆங்கிலத்தில் மாறியது.",
+    "en": "Eg: Ginger root transformed into zingiber in English."
+   },
+   "tip": {
+    "ta": "அரிசி - வடமொழி (ஒரைஸா) என்பதைத் மனதில் நிறுத்துங்கள்.",
+    "en": "Remember Arisi as derived via Sanskrit to oriza."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q020": {
+   "hint": {
+    "ta": "பிறமொழிச் சொற்கள் தமிழ் மொழியில் எவ்வாறு கலந்துள்ளன என்பதைக் கவனியுங்கள்.",
+    "en": "Identify the language of origin for the given loanword."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'மன்னிப்பு' என்பது தெலுங்கு மொழிச் சொல்லாகக் கொள்ளப்பட்டுள்ளது. சமபாடான சொல் பிறமொழித் தாக்கத்தால் தமிழில் வழக்கில் உள்ளது.",
+    "en": "According to the official answer key, the word 'மன்னிப்பு' is classified as a Telugu loanword."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தமிழ் சொல் அல்ல, பிறமொழிச் சொல்லாகும்.",
+     "en": "This is not a native Tamil word."
+    },
+    "C": {
+     "ta": "இது மலையாள மொழிச் சொல் அல்ல.",
+     "en": "This is not a Malayalam word."
+    },
+    "D": {
+     "ta": "இதன் மூலச் சொல் வேறு மொழியாக இருந்தாலும் அதிகாரப்பூர்வ விடை தெலுங்கு ஆகும்.",
+     "en": "Though it has other etymological roots, the official answer is Telugu."
+    }
+   },
+   "rule": {
+    "ta": "பாடத்திட்டத்தில் உள்ள பிறமொழிச் சொற்களின் வேர்களைத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the standard classifications of loanwords as given in the textbook."
+   },
+   "eg": {
+    "ta": "ஜன்னல், சாவி போன்ற சொற்கள் பிறமொழிச் சொற்கள் ஆகும்.",
+    "en": "Words like window and key in Tamil are loanwords."
+   },
+   "tip": {
+    "ta": "பாடநூல் அட்டவணையில் உள்ள சொற்களை மட்டும் அப்படியே நினைவில் வையுங்கள்.",
+    "en": "Strictly follow the textbook glossary for foreign words."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q034": {
+   "hint": {
+    "ta": "சங்க இலக்கியப் பாடல்களில் வரும் அரிய சொற்களின் பொருளை அறிய அகராதியைப் பயன்படுத்துங்கள்.",
+    "en": "Find the meaning of ancient classical terms from the glossary."
+   },
+   "explain": {
+    "ta": "பழந்தமிழ் இலக்கியங்களில் 'துகிர்' என்னும் சொல் பவளத்தைக் குறிக்கிறது. பொன்னும் பவளமும் முத்தும் என்ற வரிசையில் இது வருகிறது.",
+    "en": "In classical literature, the word 'துகிர்' refers to coral."
+   },
+   "why": {
+    "A": {
+     "ta": "மாணிக்கம் என்பது வேறு வகையான நவரத்தினத்தைக் குறிக்கும்.",
+     "en": "Manickam refers to ruby, not coral."
+    },
+    "B": {
+     "ta": "மரகம் என்பதுகற்பச்சை அல்லது மரகதத்தைக் குறிக்கும்.",
+     "en": "Marakam refers to emerald."
+    },
+    "C": {
+     "ta": "இரத்தினம் என்பது பொதுவான மணியைக் குறிக்கும்.",
+     "en": "Rathinam is a general term for precious gems."
+    }
+   },
+   "rule": {
+    "ta": "துகிர் என்றால் பவளம் என்பதை இலக்கியப் பாடல்கள் மூலம் நினைவில் கொள்க.",
+    "en": "Remember that 'thugir' means coral in classical texts."
+   },
+   "eg": {
+    "ta": "பவளம் போன்ற செவ்வாய் என்பதைக் குறிக்கவும் துகிர் பயன்படுத்தப்படும்.",
+    "en": "Thugir is also used to describe coral-like redness."
+   },
+   "tip": {
+    "ta": "துகிர் = பவளம் என்பதைப் பொருத்துக வினாக்களுக்காக மனப்பாடம் செய்யுங்கள்.",
+    "en": "Directly memorize thugir = coral for matching questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q040": {
+   "hint": {
+    "ta": "நான்கு சொற்களுக்கும் உள்ள பொதுவான பண்பு மற்றும் வேறுபட்ட தன்மையைக் கண்டறிக.",
+    "en": "Find the odd one out by analyzing the properties of each item."
+   },
+   "explain": {
+    "ta": "மாணிக்கம், முத்து, பவளம் ஆகியவை கடலிலோ அல்லது சுரங்கத்திலோ கிடைக்கும் மதிப்புமிக்க நவரத்தினங்கள் ஆகும். கிளிஞ்சல் என்பது கடல்வாழ் உயிரினத்தின் ஓடு ஆகும்.",
+    "en": "Ruby, pearl, and coral are precious gems or formations, whereas a seashell is simply an outer covering of a marine animal."
+   },
+   "why": {
+    "A": {
+     "ta": "இது விலைமதிப்பற்ற நவரத்தினக் குழுவைச் சேர்ந்தது.",
+     "en": "This belongs to the precious gems group."
+    },
+    "C": {
+     "ta": "இது கடலில் விளையும் மதிப்புமிக்க பொருள் ஆகும்.",
+     "en": "This is a valuable marine formation."
+    },
+    "D": {
+     "ta": "கிளிஞ்சல் என்பது வெறும் விலங்கு ஓடு என்பதால் இது பொருந்தாதது.",
+     "en": "Seashell is just an animal husk, making it the odd one out."
+    }
+   },
+   "rule": {
+    "ta": "பொருந்தாச் சொல்லைக் கண்டறிய அவற்றின் தரம் மற்றும் பயன்பாட்டை ஒப்பிட்டுப் பார்க்க வேண்டும்.",
+    "en": "Compare quality and category to spot the odd word."
+   },
+   "eg": {
+    "ta": "தங்கம், வெள்ளி, வெண்கலம், வைரம் என்பதில் வெண்கலம் உலோகம், மற்றவை வேறு.",
+    "en": "Bronze is an alloy while others differ in classification."
+   },
+   "tip": {
+    "ta": "மதிப்புள்ள பொருள் மற்றும் எளிய பொருள் வரும்போது எளிய பொருளே பொருந்தாததாகும்.",
+    "en": "Valuable items versus common items usually make the common one the odd one out."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q041": {
+   "hint": {
+    "ta": "ஒவ்வொரு சொல்லின் நேரான பொருளைப் பட்டியலிட்டுப் பின்னர் பொருத்தவும்.",
+    "en": "Match each word with its correct meaning one by one."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி வனப்பு என்றால் அழகு (4), அடவி என்றால் காடு (1), மருங்கு என்றால் பக்கம் (2), மதுரம் என்றால் இனிமை (3) ஆகும். எனவே சரியான வரிசை 3 2 1 4 ஆகும்.",
+    "en": "According to the official answer, vanappu means beauty, adavi means forest, marungu means side, and madhuram means sweetness, yielding the order 3 2 1 4."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை சொற்களின் சரியான பொருளுடன் ஒத்துப்போகவில்லை.",
+     "en": "This sequence does not match the correct meanings."
+    },
+    "C": {
+     "ta": "பொருத்தங்கள் மாற்றி அமைக்கப்பட்டுள்ளன.",
+     "en": "The pairings are mixed up."
+    },
+    "D": {
+     "ta": "இது நேரான வரிசை அல்ல.",
+     "en": "This is not the correct sequence."
+    }
+   },
+   "rule": {
+    "ta": "பொருத்துக வினாக்களுக்குத் தெரிந்த ஒரு সঠিক விடையைக் கொண்டு விடையைக் கண்டறியலாம்.",
+    "en": "Use known pairs to eliminate wrong options in matching questions."
+   },
+   "eg": {
+    "ta": "நிலவு - மதி, கதிர் - சூரியன் எனப் பொருத்துக.",
+    "en": "Match moon and sun with their synonyms."
+   },
+   "tip": {
+    "ta": "தெரிந்த இரண்டு சொற்களை வைத்துத் தேர்வ्सில் விடையைக் கண்டுபிடிக்கவும்.",
+    "en": "Identify at least two correct pairs to narrow down the choices quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q038": {
+   "hint": {
+    "ta": "ஒரு பொருளை உருவகப்படுத்தி, மற்றொன்றை உருவகிக்காமல் விட்டால் என்ன அணி என்பதைப் பாருங்கள்.",
+    "en": "Check which figure of speech is used when one object is metaphorized while the related object is left without a metaphor."
+   },
+   "explain": {
+    "ta": "இக்குறளில் வாழ்வைப் பெருங்கடலாக உருவகப்படுத்திய வள்ளுவர், இறைவனின் திருவடியைக் கப்பலாக உருவகப்படுத்தாமல் விட்டமையால் இது ஏகதேச உருவக அணியாகும். ஒரு பொருளை மட்டும் உருவகப்படுத்தி மற்றொன்றை உருவகிக்காமல் விடுவது ஏகதேச உருவகமாகும்.",
+    "en": "In this couplet, life is metaphorized as an ocean, but the feet of God are not metaphorized as a boat, making it a partial metaphor."
+   },
+   "why": {
+    "A": {
+     "ta": "உவமையணி என்பது உவமையும் உவமேயமும் வெளிப்படையாக வந்து உவம உருபு வெளிப்பட்டு நிற்பதாகும்.",
+     "en": "Simile is when both object and comparison are explicit with a comparison marker."
+    },
+    "B": {
+     "ta": "நிரல்நிறை அணி என்பது சொற்களை முறையே வரிசைப்படுத்திப் பொருள் கொள்வதாகும்.",
+     "en": "Niralnirai is arranging words in a specific matching order."
+    },
+    "C": {
+     "ta": "வேற்றுப்பொருள் வைப்பு அணி என்பது பிரிக்க முடியாத இரண்டு செயல்களைக் கூறி ஒன்றை மற்றொன்றால் தாங்குவதாகும்.",
+     "en": "Vetruporul vaippu states a general and specific statement to validate each other."
+    }
+   },
+   "rule": {
+    "ta": "கூறப்பட்ட இரு பொருள்களில் ஒன்றை மட்டும் உருவகப்படுத்தி மற்றொன்றை உருவகிக்காமல் விடுவது ஏகதேச உருவக அணி.",
+    "en": "Partial metaphor occurs when only one of the compared objects is explicitly metaphorized."
+   },
+   "eg": {
+    "ta": "சினமென்னும் சேற்றில் கடம் பாய்ந்தால் - இது சினத்தை மட்டுமே சேற்றாக உருவகப்படுத்தும் ஏகதேச உருவகம்.",
+    "en": "Anger is metaphorized as mud in similar poetic lines."
+   },
+   "tip": {
+    "ta": "ஒன்றை மட்டும் உருவகப்படுத்தினால் அது ஏகதேசம் (பாதி).",
+    "en": "If only one part is metaphorized, it is partial (Ekadesa)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q044": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்டுள்ள சொற்களின் இலக்கண வகைகளைத் தனித்தனியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match each given word with its correct grammatical classification."
+   },
+   "explain": {
+    "ta": "என்றால் என்பது தொழிற்பெயர் (4), நுந்தை என்பது மரூஉச் சொல் (3), யாவையும் என்பது முற்றுமை (1), நன்று என்பது குறிப்பு வினைமுற்று (2) ஆகும். எனவே 4 3 1 2 என்ற வரிசை சரியாகும்.",
+    "en": "Entral is verbal noun (4), Nunthai is corrupted form/maru (3), Yavaiyum is totality/mutrumai (1), Nandru is relative/kurippu finite verb (2)."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்த வரிசை சரியான இலக்கணப் பொருத்தத்தைக் கொடுக்கவில்லை.",
+     "en": "This order does not provide the correct grammatical matches."
+    },
+    "C": {
+     "ta": "மாற்றப்பட்ட வரிசை முறைகள் தவறான இணைகளைக் குறிக்கின்றன.",
+     "en": "The altered orders point to incorrect pairs."
+    },
+    "D": {
+     "ta": "இந்த மாறுபட்ட வரிசை கொடுக்கப்பட்ட சொற்களின் சரியான இலக்கண வகையைப் தரவில்லை.",
+     "en": "This alternative sequence does not match the correct categories."
+    }
+   },
+   "rule": {
+    "ta": "சொற்களின் இலக்கண அமைப்பைச் சரியாக அடையாளம் கண்டு பொருத்த வேண்டும்.",
+    "en": "Identify the grammatical structure of words accurately to match them."
+   },
+   "eg": {
+    "ta": "தந்தை என்பது நுந்தை என மருவி வருவது மரூஉச் சொல்லாகும்.",
+    "en": "The corruption of Thanthai to Nunthai is a Maruu word."
+   },
+   "tip": {
+    "ta": "தெரிந்த ஒரு சொல்லை வைத்து (எ.கா: நுந்தை = மரூஉ) விடைகளைக் கண்டறியுங்கள்.",
+    "en": "Eliminate options using a known match like Nunthai as Maruu."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q045": {
+   "hint": {
+    "ta": "உம்மைத்தொகையில் 'உம்' என்னும் இடைச்சொல் எங்கு மறைகிறது என்பதைக் கவனியுங்கள்.",
+    "en": "Note where the conjunction 'um' is hidden in an Ummaithokai."
+   },
+   "explain": {
+    "ta": "உம்மைத்தொகையில் 'உம்' என்னும் இடைச்சொல் சொற்களின் இடையிலும் இறுதியிலும் மறைந்து வரும். எனினும் கொடுக்கப்பட்ட விடைக்குறிப்பின்படி இறுதிப் பகுதியில் மறைந்து வருவது சரியானதாக ஏற்றுக்கொள்ளப்படுகிறது.",
+    "en": "In Ummaithokai, the conjunctive particle 'um' hides between and at the end of words according to official key requirements."
+   },
+   "why": {
+    "A": {
+     "ta": "உம் என்னும் இடைச்சொல் எப்போதும் சொல்லின் முதலில் மறைவதில்லை.",
+     "en": "The conjunction 'um' never hides at the beginning of a word."
+    },
+    "B": {
+     "ta": "இடையில் மட்டும் மறைவதாகக் கொள்வது முழுமையான விளக்கமல்ல.",
+     "en": "Stating it hides only in the middle is incomplete."
+    },
+    "C": {
+     "ta": "இடையிலும் இறுதியிலும் என்ற பல்தேர்வு சரியானாலும், குறிப்பு விடையின்படி இறுதியில் என்பது பொருந்தும்.",
+     "en": "Though both middle and end is true, the final position is keyed officially."
+    }
+   },
+   "rule": {
+    "ta": "எதிர்எதிர் சொற்களுக்கு இடையில் 'உம்' மறைந்து வருவது உம்மைத்தொகை ஆகும்.",
+    "en": "Ummaithokai is the hiding of 'um' between complementary words."
+   },
+   "eg": {
+    "ta": "அண்ணன் தம்பி என்பது அண்ணனும் தம்பியும் என விரிவடையும்.",
+    "en": "Annan Thambi expands as Annanum Thambiyum."
+   },
+   "tip": {
+    "ta": "உம்மைத்தொகை என்றாலே உம் மறைந்து வருவதுதான்.",
+    "en": "Ummaithokai always involves hidden 'um'."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q046": {
+   "hint": {
+    "ta": "பெயர்ச்சொல்லின் பொருளைச் செயப்படு பொருளாக மாற்றும் வேற்றுமை உருபு எதுவென்று பாருங்கள்.",
+    "en": "Check which case marker converts a noun's meaning into an object (Seypadu porul)."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இரண்டாம் வேற்றுமையே பெயர்ச்சொல்லின் பொருளைச் செயப்படு பொருளாக மாற்றுகிறது. இதன் உருபு 'ஐ' ஆகும்.",
+    "en": "According to the official TNPSC key, the second case converts a noun into an objective case, with the marker 'ai'."
+   },
+   "why": {
+    "A": {
+     "ta": "மூன்றாம் வேற்றுமை கருவி, கருத்தா பொருள்களை உணர்த்துவதாகும்.",
+     "en": "The third case indicates instrument or agent."
+    },
+    "C": {
+     "ta": "ஆறாம் வேற்றுமை உடைமைப் பொருளை உணர்த்துவதாகும்.",
+     "en": "The sixth case indicates possession."
+    }
+   },
+   "rule": {
+    "ta": "இரண்டாம் வேற்றுமை உருபு 'ஐ' ஆகும்; இது செயப்படுபொருள் பொருளைத் தரும்.",
+    "en": "The second case marker is 'ai' and it denotes the object of an action."
+   },
+   "eg": {
+    "ta": "பாடத்தைப் படித்தான் என்பதில் பாடம் என்பது 'ஐ' ஏற்றுச் செயப்படுபொருளானது.",
+    "en": "Paadathai padithan shows the object marker 'ai'."
+   },
+   "tip": {
+    "ta": "செயப்படுபொருள் என்றாலே இரண்டாம் வேற்றுமை 'ஐ' ஞாபகம் இருக்கட்டும்.",
+    "en": "Object always points to the second case 'ai'."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q047": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட சொற்களில் உவமைத்தொகை எதுவென்று கண்டறியுங்கள்.",
+    "en": "Identify which of the given words is a similes-based compound (Uvamaithokai)."
+   },
+   "explain": {
+    "ta": "கயற்கண் என்பது கயல் போன்ற கண் என விரிந்து உவமைப் பொருளைத் தருவதால் இது உவமைத்தொகை ஆகும், உருவகம் அன்று. மற்றவை உருவகச் சொற்களாகும்.",
+    "en": "Kayarkan is an Uvamaithokai (eyes like fish) and not a metaphor, while the others are metaphors."
+   },
+   "why": {
+    "A": {
+     "ta": "மொழியமுது என்பது மொழி அமுது போன்றது அல்லது அமுதமாகிய மொழி என உருவகமாகும்.",
+     "en": "Mozhiyamudu is a metaphor comparing language to nectar."
+    },
+    "B": {
+     "ta": "அடிமலர் என்பது மலர் போன்ற அடி அல்லது மலராகிய அடி என்ற உருவகமாகும்.",
+     "en": "Adimalar is a metaphor comparing feet to flowers."
+    },
+    "C": {
+     "ta": "தமிழ்த்தேன் என்பது தேன் போன்ற தமிழ் அல்லது தேனாகிய தமிழ் என்ற உருவகமாகும்.",
+     "en": "Tamiltheen is a metaphor comparing Tamil to honey."
+    }
+   },
+   "rule": {
+    "ta": "உவமைக்கும் உவமேயத்திற்கும் இடையே 'போன்ற' என்னும் உருபு மறைந்து வருவது உவமைத்தொகை.",
+    "en": "Uvamaithokai has the comparison word 'poonra' hidden between the object and standard."
+   },
+   "eg": {
+    "ta": "மலர் போன்ற கை என்பது மலர்க்கை என்னும் உவமைத்தொகையாகும்.",
+    "en": "Malar kai is a similes compound meaning hand like flower."
+   },
+   "tip": {
+    "ta": "போன்ற போட்டுப் பார்த்தால் சரியாக வந்தால் அது உவமைத்தொகை.",
+    "en": "If inserting 'like' makes sense, it is an Uvamaithokai."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q049": {
+   "hint": {
+    "ta": "கன்று என்னும் சொல்லுடன் 'ஆ' என்ற உயிர் எழுத்து சேரும்போது என்ன மாற்றம் நிகழும் என்று பாருங்கள்.",
+    "en": "See what happens when the vowel 'aa' joins with the word 'kanru'."
+   },
+   "explain": {
+    "ta": "கன்று + ஆ என்பதில் 'உயிர்வரின் உக்குறள் மெய்விட்டுக் ஓடும்' என்ற விதிப்படி கன்ற் + உ + ஆ என்று பிரிந்து, உகரம் கெட்டு கன்ற் + ஆ இணைந்து கன்றா எனப் புணரும்.",
+    "en": "According to the rule, the final 'u' of kanru drops when followed by the vowel 'aa', resulting in kanra."
+   },
+   "why": {
+    "A": {
+     "ta": "கற்றா என்பது கல் + ஆ புணர்ச்சியால் வருவது, கன்று சொல்லுக்குரியது அன்று.",
+     "en": "Katra is formed from kal + aa, not kanru."
+    },
+    "C": {
+     "ta": "கறா என்பது திரிந்து வரும் முறையற்ற வடிவாகும்.",
+     "en": "Kara is an incorrect transformed form."
+    },
+    "D": {
+     "ta": "கன்று என்பது புணர்ச்சிக்கு முந்தைய தனிச்சொல் வடிவாகும்.",
+     "en": "Kanru is the uncombined base word."
+    }
+   },
+   "rule": {
+    "ta": "உயிர் எழுத்து வந்துவழி குற்றியலுகரத்தின் உகரம் கெடும் என்பது புணர்ச்சி விதியாகும்.",
+    "en": "The trailing 'u' of a kuற்றியலுகரம் drops when a vowel follows."
+   },
+   "eg": {
+    "ta": "பாட்டு + இசை = பாட்டிசை என்பது போல உகரம் கெட்டுப் புணரும்.",
+    "en": "Paattu + isai becomes Paattisai following the same rule."
+   },
+   "tip": {
+    "ta": "உயிர் வந்தால் குற்றியலுகரம் ஓடிவிடும் (கெடும்).",
+    "en": "When a vowel comes, the short 'u' runs away."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q051": {
+   "hint": {
+    "ta": "வல்லினம் மிகும் மற்றும் மிகா இடங்களின் விதிகளையும், குறிப்பான தொடர்களையும் கவனமாகப் பாருங்கள்.",
+    "en": "Review the rules for where the hard consonants (vallinam) do and do not double."
+   },
+   "explain": {
+    "ta": "வினைத்தொகையில் காலம் மறைந்து வரும்; அங்கே வல்லினம் எப்போதும் மிகாது (எ.கா: ஊறுகாய்). மற்ற உரிச்சொல் (சால, தவ), வன்றொடர்க் குற்றியலுகரம் மற்றும் உவமைத்தொகை ஆகியவற்றின் பின் வல்லினம் மிகும்.",
+    "en": "In a relative participle compound (vinaithogai), hard consonants do not double."
+   },
+   "why": {
+    "A": {
+     "ta": "சால, தவ முதலிய உரிச்சொற்களின் பின் வல்லினம் மிகும் (சாலச் சிறந்தது).",
+     "en": "Hard consonants double after the qualifiers saala and thava."
+    },
+    "C": {
+     "ta": "வன்றொடர்க் குற்றியலுகரச் சொற்களுக்குப் பின் வல்லினம் மிகும் (காட்டுத் தீ).",
+     "en": "Hard consonants double after hard-type kuற்றியலுகரம்."
+    },
+    "D": {
+     "ta": "உவமைத் தொகையில் வல்லினம் மிகும் (மலர்க்கை).",
+     "en": "Hard consonants double in similes (upamai thogai)."
+    }
+   },
+   "rule": {
+    "ta": "வினைத்தொகை, உம்மைத்தொகை ஆகியவற்றில் வல்லினம் மிகாது.",
+    "en": "Hard consonants never double in vinaithogai and ummaithogai."
+   },
+   "eg": {
+    "ta": "சுடுசோறு (வினைத்தொகை - மிகாது).",
+    "en": "Sudusoru is a vinaithogai where vallinam does not double."
+   },
+   "tip": {
+    "ta": "வினைத்தொகை மற்றும் உம்மைத்தொகையைக் கண்டால் ஒற்று வேண்டாம்.",
+    "en": "No double consonant for vinaithogai and ummaithogai."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q052": {
+   "hint": {
+    "ta": "ஆறு தொகை நிலைத் தொடர்களுக்குப் புறத்தே மறைந்து நின்று பொருள் தரும் தொடரைத் தேடுங்கள்.",
+    "en": "Identify the compound type that gives meaning through words omitted outside the standard six."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, அன்மொழித்தொகை என்பதே தொகை நிலைத் தொடர்களுக்குப் புறத்தே அல்லாத சில மொழிகள் தொக்கி நின்று பொருள் தருவதாகும்.",
+    "en": "According to the official answer, anmolithogai refers to words omitted outside standard compounds that give meaning."
+   },
+   "why": {
+    "A": {
+     "ta": "பண்புத்தொகை என்பது மை மற்றும் ஆன என்னும் பண்பு உருபுகள் மறைந்து வருவது.",
+     "en": "Panputhogai involves hidden color or quality markers."
+    },
+    "B": {
+     "ta": "அன்மொழித்தொகை என்பது மேற்கண்ட ஆறு தொகைகளுள் அடங்காமல் புறத்தே வேறு சொற்கள் மறைந்து நின்று பொருள் தருவது.",
+     "en": "Anmolithogai is the compound where other words stay hidden outside the six types."
+    },
+    "D": {
+     "ta": "உவமைத்தொகை என்பது போல, போன்ற போன்ற உவம உருபுகள் மறைந்து வருவது.",
+     "en": "Upamaithogai involves hidden comparison markers."
+    }
+   },
+   "rule": {
+    "ta": "தொகை நிலைத் தொடர்களுக்குப் புறத்தே பிற சொற்கள் மறைந்து வருவது அன்மொழித்தொகை.",
+    "en": "Anmolithogai is the compound with external hidden words."
+   },
+   "eg": {
+    "ta": "பொற்றொடி என்பது பொன்னாலான வளையல் அணிந்த பெண்ணைக் குறிக்கும் அன்மொழித்தொகை.",
+    "en": "Potrodi is an example of anmolithogai."
+   },
+   "tip": {
+    "ta": "அன்மொழி என்றால் அல்லாத மொழி (வேறு சொல்) மறைந்து வருவது.",
+    "en": "Anmoli means other words are hidden."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q061": {
+   "hint": {
+    "ta": "நேர்க்கூற்று மற்றும் அயற்கூற்று மாற்ற விதிகளில் எது தவறானது எனப் பாருங்கள்.",
+    "en": "Check which rule for converting direct to indirect speech is incorrect."
+   },
+   "explain": {
+    "ta": "அயற்கூற்றுக்கு மாற்றும்போது அது, அவை என்பவை அப்படியே மாறாது; மேலும் இடம், காலம் சார்ந்த சொற்கள் மட்டுமே மாறும்.",
+    "en": "In indirect speech, pronouns and demonstratives change according to specific rules, and 'adhu, avai' do not simply become 'ange'."
+   },
+   "why": {
+    "A": {
+     "ta": "அயற்கூற்றில் மேற்கோள்குறிகள் வராது என்பது சரியான கூற்று.",
+     "en": "Quotation marks do not appear in indirect speech."
+    },
+    "B": {
+     "ta": "அயற்கூற்றில் தன்மை, முன்னிலைப் பெயர்கள் படர்க்கைப் பெயர்களாக மாறும்.",
+     "en": "First and second person pronouns change to third person in indirect speech."
+    },
+    "D": {
+     "ta": "அயற்கூற்றில் காலப் பெயர்கள் அந்நாள், மறுநாள் என மாறும் என்பது சரியான கூற்று.",
+     "en": "Time words change appropriately in indirect speech."
+    }
+   },
+   "rule": {
+    "ta": "நேர்க்கூற்றை அயற்கூற்றாக மாற்றும்போது மேற்கோள்குறி நீக்கப்பட்டு pronouns மாறும்.",
+    "en": "Quotation marks are removed and pronouns change when converting to indirect speech."
+   },
+   "eg": {
+    "ta": "நான் வந்தேன் என்பதை அவன் வந்ததாகக் கூறுவது அயற்கூற்று.",
+    "en": "Converting I came to he came is indirect speech."
+   },
+   "tip": {
+    "ta": "அயற்கூற்றில் தன்மை/முன்னிலை படர்க்கையாக மாறும் என்பதை நினைவில் கொள்க.",
+    "en": "Remember pronouns shift to third person in indirect speech."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q086": {
+   "hint": {
+    "ta": "தமிழ் எண்களைக் கூட்டுக: க, உ, ங, ச, ரு, ச, எ, அ, கூ, ௧. ருஅ மற்றும் கூஅ மதிப்புகளைக் கணக்கிடுங்கள்.",
+    "en": "Add the Tamil numerals: ru-a (68) + ku-a (38)."
+   },
+   "explain": {
+    "ta": "தமிழ் எண்களில் ருஅ என்பது 68 மற்றும் கூஅ என்பது 38 ஆகும். இரண்டையும் கூட்டினால் 106 கிடைக்கும், இது தமிழில் கஉகூ ஆகும்.",
+    "en": "Tamil numeral ru-a is 68 and ku-a is 38. Their sum is 106, which is represented as ka-u-gna in Tamil."
+   },
+   "why": {
+    "A": {
+     "ta": "கூசஉ என்பது தவறான கூட்டுத் தொகையாகும்.",
+     "en": "Ku-sa-u is an incorrect sum."
+    },
+    "B": {
+     "ta": "கசஉ என்பது தவறான கூட்டுத் தொகையாகும்.",
+     "en": "Ka-sa-u is an incorrect sum."
+    },
+    "C": {
+     "ta": "கடுக என்பது தவறான கூட்டுத் தொகையாகும்.",
+     "en": "Ka-du-gna is an incorrect sum."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் எண்களை எண்கள் வடிவில் மாற்றி அருகில் கூட்டி மீண்டும் தமிழ் எழுத்துக்கு மாற்றுக.",
+    "en": "Convert Tamil numerals to numbers, add them, and convert back."
+   },
+   "eg": {
+    "ta": "௧ + ௧ = உ (1 + 1 = 2).",
+    "en": "1 + 1 = 2 in Tamil numerals."
+   },
+   "tip": {
+    "ta": "க உ ங ச ரு ச எ அ கூ ௧௰ - தமிழ் எண்களை வரிசையாக மனத்தில் கொள்ளுங்கள்.",
+    "en": "Memorize the Tamil numeral sequence from 1 to 10."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q087": {
+   "hint": {
+    "ta": "சொல்லின் பகுபதப் பிரிப்பைக் கவனித்து சரியான வேர்ச்சொல்லைக் கண்டறிக.",
+    "en": "Examine the word breakdown to find the correct root word."
+   },
+   "explain": {
+    "ta": "ஆற்றீர் என்னும் சொல்லைப் பகுபத அடிப்படையில் பிரிக்கும்போது 'ஆற்று + ஈர்' எனப் பிரியும். இங்கு ஆற்று என்பது பகுதி, ஈர் என்பது விகுதி.",
+    "en": "The word aatreer breaks down into aatru + eer as root and suffix."
+   },
+   "why": {
+    "B": {
+     "ta": "ஆறு + ஈர் என்பது ஆற்றீர் என வராது.",
+     "en": "Aaru + eer does not correctly yield aatreer."
+    },
+    "C": {
+     "ta": "ஆ + இற்று + ஈர் என்பது முறையற்ற பகுப்பு.",
+     "en": "Aa + itru + eer is an incorrect segmentation."
+    },
+    "D": {
+     "ta": "ஆற்று + ஆ + ஈர் என்பதில் கூடுதல் இடைநிலை தேவையற்றது.",
+     "en": "Aatru + aa + eer contains an unnecessary infix."
+    }
+   },
+   "rule": {
+    "ta": "வினமுற்றுச் சொற்களைப் பிரிக்கும்போது பகுதி ஏவல் வினைச்சொல்லாக நிற்க வேண்டும்.",
+    "en": "When splitting verb forms, the root must act as an imperative."
+   },
+   "eg": {
+    "ta": "சென்றான் = செல் + த் + த் + ஆன்.",
+    "en": "Senthan breaks down into sel + th + th + aan."
+   },
+   "tip": {
+    "ta": "பகுதியை அடையாளம் காண ஏவல் வடிவில் சொல்லிப் பாருங்கள்.",
+    "en": "Use the imperative form to identify the root."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q088": {
+   "hint": {
+    "ta": "தமிழ் மொழியின் இயல்பான ஓசை மற்றும் தன்மையைக் குறிக்கும் சொல்லைத் தேடுங்கள்.",
+    "en": "Identify the word describing the natural tone and nature of the Tamil language."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, தமிழ் மெல்லோசை மொழி எனப்படும். மெல்லின எழுத்துகளும் மென்மையான ஓசையும் தமிழின் சிறப்பம்சமாகும்.",
+    "en": "According to the official answer, Tamil is referred to as a soft-sounding language (mellosai moli)."
+   },
+   "why": {
+    "A": {
+     "ta": "செப்பல் ஓசை என்பது வெண்பாவுக்கு உரிய ஓசையாகும்.",
+     "en": "Seppal osai is specific to venpa poetry."
+    },
+    "B": {
+     "ta": "துவங்கல் என்பது சரியான ஓசை வகை அல்ல.",
+     "en": "Thuvangal is not a valid tone category here."
+    },
+    "D": {
+     "ta": "துள்ளல் ஓசை என்பது கலிப்பாவுக்கு உரிய ஓசையாகும்.",
+     "en": "Thullal osai is specific to kalippa poetry."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ் மொழி மெல்லோசை மொழி என அழைக்கப்படுகிறது.",
+    "en": "The Tamil language is known as a soft-sounding language."
+   },
+   "eg": {
+    "ta": "தமிழைச் செந்தமிழ் என்றும் மெல்லோசை மொழி என்றும் போற்றுவர்.",
+    "en": "Tamil is praised as sweet Tamil and a soft-sounding language."
+   },
+   "tip": {
+    "ta": "தமிழ் = மெல்லோசை மொழி என்பதை நினைவில் கொள்க.",
+    "en": "Remember Tamil is associated with soft sound."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q089": {
+   "hint": {
+    "ta": "சொல்லை முறைப்படி சீர் மற்றும் அசை பிரிக்கும் முறையைப் பாருங்கள்.",
+    "en": "Look at how the word is divided into correct syllables."
+   },
+   "explain": {
+    "ta": "சான்றாண்மை என்ற சொல்லை இலக்கண முறைப்படி பிரிக்கும்போது 'சான் + றா + ண்மை' எனப் பிரிக்க வேண்டும். இது சரியான அசை பிரிப்பு முறையாகும்.",
+    "en": "The correct syllable breakdown for the word is given here according to grammar rules."
+   },
+   "why": {
+    "A": {
+     "ta": "முதல் பகுதியில் ஒற்று இல்லாமல் பிரிப்பது தவறான முறையாகும்.",
+     "en": "Splitting the first part without the consonant is incorrect."
+    },
+    "B": {
+     "ta": "இரண்டாவது பகுதியை 'றாண்' என்று முழுமையாகப் பிரிப்பது அசை விதிகளுக்குப் பொருந்தாது.",
+     "en": "Splitting the second part as 'raan' does not fit syllable rules."
+    },
+    "D": {
+     "ta": "இறுதிப் பகுதியைத் தனியாகப் பிரிக்காமல் சேர்த்து எழுதியுள்ளது தவறாகும்.",
+     "en": "Leaving the final part unseparated is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "சொற்களை அசை பிரிக்கும்போது உயிர் மற்றும் மெய் எழுத்துகளின் அளவைக் கொண்டு சரியாகப் பிரிக்க வேண்டும்.",
+    "en": "Words must be divided into syllables based on vowel and consonant length."
+   },
+   "eg": {
+    "ta": "கல்வி = கல் + வி",
+    "en": "Kalvi = Kal + vi"
+   },
+   "tip": {
+    "ta": "மெய் எழுத்துகள் வரும் இடத்தை நன்கு கவனித்து அசை பிரிக்கவும்.",
+    "en": "Carefully observe the placement of consonants while splitting syllables."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q090": {
+   "hint": {
+    "ta": "புறத்திணைகளின் மொத்த எண்ணிக்கையைத் தமிழிலக்கண விதிகளின்படி எண்ணிப் பாருங்கள்.",
+    "en": "Count the total number of Purathinai according to Tamil grammar rules."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி புறத்திணைகள் ஏழு வகைப்படும் என்று கொள்ளப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, Purathinai are of seven types."
+   },
+   "why": {
+    "A": {
+     "ta": "பன்னிரண்டு என்பது புறத்திணைகளின் எண்ணிக்கை அல்ல.",
+     "en": "Twelve is not the count of Purathinai."
+    },
+    "C": {
+     "ta": "ஐந்து என்பது அகத்திணைகளின் எண்ணிக்கையைக் குறிக்கும்.",
+     "en": "Five refers to the number of Agathinai."
+    },
+    "D": {
+     "ta": "ஒன்பது என்பது புறத்திணைகளின் சரியான எண்ணிக்கை அல்ல.",
+     "en": "Nine is not the correct count of Purathinai."
+    }
+   },
+   "rule": {
+    "ta": "புறத்திணைகள் மொத்தம் ஏழு வகைப்படும் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that Purathinais are totally seven in number."
+   },
+   "eg": {
+    "ta": "அகத்திணை ஐந்து வகைப்படும்.",
+    "en": "Agathinai is of five types."
+   },
+   "tip": {
+    "ta": "அகம் 5, புறம் 7 என்பதை மறவாமல் நினைவில் கொள்ளுங்கள்.",
+    "en": "Always remember Agam is 5 and Puram is 7."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q091": {
+   "hint": {
+    "ta": "வேற்றுமை உருபுகளுக்குப் பதிலாக வரும் சொல்லுறுப்புகளைக் கவனியுங்கள்.",
+    "en": "Look at the phrasal markers that substitute case markers."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி நான்காம் வேற்றுமை சொல்லுறுப்புகளாக 'கொண்டு, உடன்' என்பவை குறிக்கப்பட்டுள்ளன.",
+    "en": "According to the official answer, 'kondu, udan' are considered the phrasal markers for the fourth case."
+   },
+   "why": {
+    "B": {
+     "ta": "பொருட்டு, நிமித்தம் என்பவை வேறு வகைச் சொல்லுறுப்புகள் ஆகும்.",
+     "en": "Poruttu and nimittam are different phrasal markers."
+    },
+    "C": {
+     "ta": "இருந்து, நின்று என்பவை ஐந்தாம் வேற்றுமையின் சொல்லுறுப்புகள் ஆகும்.",
+     "en": "Irundu and nindru belong to the fifth case."
+    },
+    "D": {
+     "ta": "உடைய என்பது ஆறாம் வேற்றுமையின் சொல்லுறுப்பு ஆகும்.",
+     "en": "Udaiya belongs to the sixth case."
+    }
+   },
+   "rule": {
+    "ta": "வேற்றுமை உருபுகளுக்குப் பதிலாகச் சில சொற்களும் உருபுகளாக வரும்.",
+    "en": "Certain words also act as case markers in place of suffixes."
+   },
+   "eg": {
+    "ta": "மூன்றாம் வேற்றுமை சொல்லுறுப்பு: கொண்டு, உடன்",
+    "en": "Third case marker: kondu, udan"
+   },
+   "tip": {
+    "ta": "ஒவ்வொரு வேற்றுமைக்கும் உரிய சொல்லுறுப்புகளைப் பட்டியலிட்டுப் படியுங்கள்.",
+    "en": "List and study the phrasal markers for each case."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q094": {
+   "hint": {
+    "ta": "சொல்லின் அமைப்பையும் அது குறிக்கும் பொருளின் தன்மையையும் கவனியுங்கள்.",
+    "en": "Observe the structure of the word and the nature of its meaning."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'ஐவர்' என்னும் சொல் தொடர்மொழி எனப்படுகிறது.",
+    "en": "According to the official answer, the word 'aivar' is classified as a 'thodarmozhi'."
+   },
+   "why": {
+    "A": {
+     "ta": "ஒன்றொழி பொதுச்சொல் என்பது வேறொரு இலக்கணக் குறிப்பைக் குறிக்கும்.",
+     "en": "Ondrozhi pothuchol refers to a different grammatical category."
+    },
+    "B": {
+     "ta": "இனங்குறித்தல் என்பது எழுத்து அல்லது பொருளின் இனத்தைக் காட்டுவதாகும்.",
+     "en": "Inankurithal denotes indicating the category."
+    },
+    "D": {
+     "ta": "பொதுமொழி என்பது இரு பொருள் தரும் சொற்களைக் குறிக்கும்.",
+     "en": "Pothumozhi refers to words with dual meanings."
+    }
+   },
+   "rule": {
+    "ta": "சொற்களின் இலக்கண வகைகளைச் சமைச்சீர் நூல்களைக் கொண்டு அறிய வேண்டும்.",
+    "en": "Grammatical types of words must be learned from Samacheer books."
+   },
+   "eg": {
+    "ta": "தொடர்மொழி பல சொற்கள் தொடர்ந்து நின்று பொருள் தரும்.",
+    "en": "Thodarmozhi consists of multiple words conveying meaning."
+   },
+   "tip": {
+    "ta": "வினாவுக்கான அதிகாரப்பூர்வ விடையை அப்படியே நினைவில் கொள்ளவும்.",
+    "en": "Remember the official answer for the question as it is."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q097": {
+   "hint": {
+    "ta": "பாடல் வரிகளில் உள்ள பொருள்கோள் முறையைச் சோதித்துப் பாருங்கள்.",
+    "en": "Check the method of constructing meaning in the poetic lines."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கொடுக்கப்பட்ட பாடலில் விற்பூட்டுப் பொருள்கோள் வந்துள்ளதாகக் கொள்ளப்பட்டுள்ளது.",
+    "en": "According to the official answer key, Virputtu porulkol is said to be present in the given verse."
+   },
+   "why": {
+    "A": {
+     "ta": "அடிமறிமாற்றுப் பொருள்கோள் என்பது வரிகளை மாற்றிப் பொருள் கொள்வதாகும்.",
+     "en": "Adimarimartru porulkol involves rearranging lines for meaning."
+    },
+    "B": {
+     "ta": "கொண்டு கூட்டுப் பொருள்கோள் என்பது தொலைவில் உள்ள சொற்களைச் சேர்த்துப் பொருள் கொள்வதாகும்.",
+     "en": "Kondum koottu porulkol involves connecting distant words."
+    },
+    "C": {
+     "ta": "மொழிமாற்றுப் பொருள்கோள் என்பது சொற்களை வரிசையாக மாற்றி அமைப்பதாகும்.",
+     "en": "Mozhimartru porulkol involves rearranging words sequentially."
+    }
+   },
+   "rule": {
+    "ta": "பொருள்கோள் வகைகள் பாடலின் பொருளை எளிதில் அறிய உதவுகின்றன.",
+    "en": "Types of porulkol help to easily understand the meaning of poems."
+   },
+   "eg": {
+    "ta": "நாலடி நான்கும் கொண்டு கூட்டுப் பொருள்கோள்.",
+    "en": "Examples of porulkol in classical literature."
+   },
+   "tip": {
+    "ta": "பொருள்கோள் பெயர்களை அவற்றின் இலக்கணத்தோடு சேர்த்துப் படியுங்கள்.",
+    "en": "Study the names of porulkol along with their definitions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q098": {
+   "hint": {
+    "ta": "உச்சரிக்கும் போது அண்ணமும் நுனிநாவும்தொடர்பүறும் எழுத்துகளைப் பாருங்கள்.",
+    "en": "Look at the letters produced when the palate and tongue tip interact."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'அண்ணம் நுனிநா வருட ற, ன தோன்றும்' என்று கொள்ளப்பட்டுள்ளது.",
+    "en": "According to the official answer, 'ra, na' appear when the palate and tongue tip interact."
+   },
+   "why": {
+    "A": {
+     "ta": "ழ காரம் வேறு விதமான உச்சரிப்பு முறையைக் கொண்டது.",
+     "en": "La has a different pronunciation method."
+    },
+    "B": {
+     "ta": "த, ந என்பவை பற்கள் சார்ந்த எழுத்துகள் ஆகும்.",
+     "en": "Tha and na are dental letters."
+    },
+    "D": {
+     "ta": "ய என்பது இடையின மெய் எழுத்து ஆகும்.",
+     "en": "Ya is a middle-class consonant."
+    }
+   },
+   "rule": {
+    "ta": "எழுத்துகளின் பிறப்பு முறையை அறிந்து உச்சரிப்பைப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Understand the place of articulation to master letter sounds."
+   },
+   "eg": {
+    "ta": "ற, ன இரண்டும் டண்ணகரம் றகரம் ஆகும்.",
+    "en": "Ra and na are alveolar consonants."
+   },
+   "tip": {
+    "ta": "உச்சரிப்பு உறுப்புகளின் இயக்கத்தை வைத்து எழுத்துகளை அடையாளம் காணுங்கள்.",
+    "en": "Identify letters based on the movement of articulatory organs."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q099": {
+   "hint": {
+    "ta": "ன, ல என்னும் மெய்களுக்குப் பின்னும், ள, ண என்னும் மெய்களுக்குப் பின்னும் வல்லின, மெல்லின எழுத்துகள் எவ்வாறு புணரும் என்பதைப் பாருங்கள்.",
+    "en": "Look at how the consonants n, l and zh, n/l (retroflex) combine with following consonants according to grammar rules."
+   },
+   "explain": {
+    "ta": "தமிழ் இலக்கண விதியின்படி ன, ல என்னும் எழுத்துகளுக்கு முன் 'ற, ட' ஆகிய வல்லினங்களும், ள என்னும் எழுத்துக்கு முன் 'ன, ன' (அல்லது ட, ண) இனவெழுத்துகளும் புணரும். அதிகாரப்பூர்வ விடைக்கேற்ப னல முன் றடவும் னள முன் னனவும் என்பதே சரியான புணர்ச்சி முறையாகும்.",
+    "en": "According to Tamil grammar rules, letters n and l are followed by r and d, while l and zh are followed by specific nasal/stop combinations. As per the official answer, 'னல முன் றடவும் னள முன் னனவும்' is the correct rule."
+   },
+   "why": {
+    "A": {
+     "ta": "இங்கு விதியிலுள்ள எழுத்துகள் மாறிக்கொடுக்கப்பட்டுள்ளதால் இது தவறான புணர்ச்சி விதியாகும்.",
+     "en": "This option is incorrect because the letters in the rule are swapped."
+    },
+    "C": {
+     "ta": "இது நூற்பா விதிகளுக்கு மாறாகப் புரிந்து கொள்ளப்பட்ட தவறான இணை ஆகும்.",
+     "en": "This is an incorrect combination that contradicts grammatical rules."
+    },
+    "D": {
+     "ta": "விருப்பம் சி மற்றும் டி ஒரே மாதிரியாகத் தரப்பட்டு, விதிகளின் வரிசை மாற்றத்தால் இது தவறாகிறது.",
+     "en": "Options C and D are similar, and both present incorrect letter orderings for this rule."
+    }
+   },
+   "rule": {
+    "ta": "புணர்ச்சி விதிகளில் நிலைமொழி ஈற்று மெய்க்கும் வருமொழி முதல் எழுத்துக்கும் உள்ள இனத்தொடர்பை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the relationship between the final consonant of the first word and the initial consonant of the second word in sandhi."
+   },
+   "eg": {
+    "ta": "கல் + தூண் = கற்றூண் (ல் + த் -> ற் + ற்).",
+    "en": "kal + thoon = kattroon."
+   },
+   "tip": {
+    "ta": "புணர்ச்சி விதிகளை மனப்பாடம் செய்யும்போது நிலைமொழி மற்றும் வருமொழி மாற்றங்களை இணைத்துச் சொல்லிப் பழகுக.",
+    "en": "Practice the combinations aloud to memorize the sandhi rules easily."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q039": {
+   "hint": {
+    "ta": "வினாவிலும் விடையிலும் உள்ள உயர்தினை, அஃறிணை அல்லது திணைப் பொருத்தமின்மையை ஆராய்ந்து விடை காணவும்.",
+    "en": "Analyze the mismatch in tinai (gender/rational-irrational category) between question and fact."
+   },
+   "explain": {
+    "ta": "சேவல் என்பது அஃறிணை ஆண்பால் ஆகும். ஆனால் சேவல் முட்டையிட்டது என்று வினவுவது அஃறிணைப் பிரிவான திணைக்கு மாறாக அமைந்ததால் இது திணைவழு எனப்படும். TNPSC விடைவழு என்று கருதாமல் திணைவழு என அதிகாரப்பூர்வமாக அறிவித்துள்ளது.",
+    "en": "According to the official key, asking about egg-laying for a rooster violates tinai rules, making it tinai vazhu."
+   },
+   "why": {
+    "B": {
+     "ta": "வினா கேட்கும் முறையில் ஏற்படும் பிழையைக் குறிப்பது விடைவழு அல்ல.",
+     "en": "Vidai vazhu refers to an improper answer, not the question format."
+    },
+    "C": {
+     "ta": "மரபுச் சொற்களை மாற்றிப் பயன்படுத்துவது மரபுவழு ஆகும்.",
+     "en": "Marabu vazhu refers to traditional word usage violations."
+    },
+    "D": {
+     "ta": "வினா கேட்கும் முறையில் குற்றம் இருப்பது வினாவழு ஆகும்.",
+     "en": "Vinā vazhu refers to improper questioning structure."
+    }
+   },
+   "rule": {
+    "ta": "திணை, பால், எண், இடம், மரபு ஆகியவற்றின் விதிகளை மீறிப் பயன்படுத்துவது வழு எனப்படும்.",
+    "en": "Violating grammatical categories like tinai, pal, en, idam, or marabu is known as vazhu."
+   },
+   "eg": {
+    "ta": "அஃறிணைப் பெயருக்கு உயர்தினை வினைமுற்றுப் பயன்படுத்துவதும் திணைவழு ஆகும்.",
+    "en": "Using a rational verb for an irrational noun is also tinai vazhu."
+   },
+   "tip": {
+    "ta": "சேவல் முட்டையிடுவது இயற்கைக்கு முரணான திணைப் பிழையாகும்.",
+    "en": "Roosters laying eggs is a fundamental mismatch in classification."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q042": {
+   "hint": {
+    "ta": "உயிர் எழுத்தில் தொடங்கும் சொல்லுக்கு முன் 'ஓர்' என்பதும், மெய் எழுத்தில் தொடங்கும் சொல்லுக்கு முன் 'ஒரு' என்பதும் வருவதை நினைவில் கொள்க.",
+    "en": "Check where 'or' and 'oru' should be placed based on vowel and consonant initials."
+   },
+   "explain": {
+    "ta": "மாவட்டம் என்பது மெய் எழுத்தில் தொடங்குவதால் அதற்குமுன் 'ஒரு' வரவேண்டும். அமைச்சர் என்பது உயிர் எழுத்தில் தொடங்குவதால் அதற்குமுன் 'ஓர்' வரவேண்டும். இப்பட்டியல்பின்படி சரியான அமைப்பாக அமைந்துள்ள வாக்கியம் இதுவே.",
+    "en": "'Oru' precedes the consonant-starting 'mavattam', and 'or' precedes the vowel-starting 'amaichar'."
+   },
+   "why": {
+    "A": {
+     "ta": "மாவட்டம் என்ற சொல்லுக்கு முன் 'ஓர்' வந்திருப்பது எழுத்துப்பிழையாகும்.",
+     "en": "Using 'or' before 'mavattam' starting with a consonant is incorrect."
+    },
+    "B": {
+     "ta": "அமைச்சர் என்ற சொல்லுக்கு முன் 'ஒரு' வந்திருப்பது எழுத்துப்பிழையாகும்.",
+     "en": "Using 'oru' before 'amaichar' starting with a vowel is incorrect."
+    },
+    "D": {
+     "ta": "மாவட்டம் என்ற சொல்லுக்கு முன் 'ஓர்' என்பதும் அமைச்சர் முன் 'ஒரு' என்பதும் மாறி வந்துள்ளன.",
+     "en": "The usage of 'or' and 'oru' are inverted here."
+    }
+   },
+   "rule": {
+    "ta": "உயிர்முன் 'ஓர்' வரும்; மெய்முன் 'ஒரு' வரும்.",
+    "en": "'Or' comes before vowels, and 'oru' comes before consonants."
+   },
+   "eg": {
+    "ta": "ஓர் ஊர், ஒரு நகரம்.",
+    "en": "Or oor, oru nagaram."
+   },
+   "tip": {
+    "ta": "உயிர் எழுத்துகளுக்கு உயிர் போன்ற 'ஓர்' (உயிர்+ஆர்) என்று ஞாபகம் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Associate 'or' with vowel beginnings."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GT-q043": {
+   "hint": {
+    "ta": "வினாவில் உள்ள இலக்கண வரையறையை எந்தத் தொடர் குறிக்கிறது என்பதைத் தீர்மானிக்கவும்.",
+    "en": "Match the given sentence definition to its grammatical sentence type."
+   },
+   "explain": {
+    "ta": "TNPSC அதிகாரப்பூர்வ விடைக் குறிப்பின்படி எழுவாய் செய்யும் வினையைக் கொண்டு முடியும் தொடர் அயற்கூற்றுத் தொடர் எனக் குறிக்கப்பட்டுள்ளது. எனினும் சமச்சீர் நூல்களின்படி எழுவாய் ஒரு செயலைச் செய்தால் அது செய்வினைத் தொடர் ஆகும்.",
+    "en": "According to the official TNPSC key, this is classified as ayarkootru todar, though standard grammar defines subject-driven action as seivineit todar."
+   },
+   "why": {
+    "A": {
+     "ta": "செயப்படுபொருள் முதன்மை பெற்று வருவது செயப்பாட்டு வினைத் தொடர் ஆகும்.",
+     "en": "Passive voice highlights the object."
+    },
+    "B": {
+     "ta": "கட்டளையிடும் பொருளில் வருவது கட்டளைத் தொடர் ஆகும்.",
+     "en": "Imperative sentences express commands."
+    },
+    "D": {
+     "ta": "சமச்சீர் விதிகளின்படி எழுவாய் வினையைச் செய்வது செய்வினைத் தொடராகும்.",
+     "en": "Active voice is when the subject performs the action."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் அதிகாரப்பூர்வ விடைக் குறிப்பே இறுதியானது.",
+    "en": "The official TNPSC answer key is final for the exam."
+   },
+   "eg": {
+    "ta": "அயற்கூற்று என்பது பிறர் கூறியதைக் கூறுவது போல அமைவதாகும்.",
+    "en": "Indirect speech reports someone else's statement."
+   },
+   "tip": {
+    "ta": "வினாவுக்கான அதிகாரப்பூர்வ விடைக் குறிப்பினை அப்படியே நினைவில் கொள்ளவும்.",
+    "en": "Memorize the official answer for this specific recurring question."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "updated": "2026-11-20"
+}
