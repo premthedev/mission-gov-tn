@@ -6471,7 +6471,303 @@
     "en": "Remember the core thought that excellence differs by action."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2024-q104": {
+   "hint": {
+    "ta": "உள்ளாட்சி அமைப்புகளின் நிர்வாகப் பணிகளை கவனிக்கும் முதன்மை அதிகாரி யார் என்பதை யோசிக்கவும்.",
+    "en": "Think about the primary executive officer responsible for municipal administration."
+   },
+   "explain": {
+    "ta": "நகராட்சி நிர்வாகத்தின் முதன்மை நிர்வாக அலுவலராக நகராட்சி ஆணையர் செயல்படுகிறார். இவர் நகராட்சி மன்றத்தின் முடிவுகளை நடைமுறைப்படுத்துகிறார்.",
+    "en": "The Municipal Commissioner serves as the Chief Executive Authority of the Municipal Corporation and implements council decisions."
+   },
+   "why": {
+    "A": {
+     "ta": "நகர மேலாளர் என்பது சில வகை நகர்ப்புற நிர்வாகத்தில் உள்ள பதவி, ஆனால் முதன்மை நிர்வாக அலுவலர் அல்ல.",
+     "en": "City Manager is a role in certain urban administrations, not the statutory chief executive here."
+    },
+    "C": {
+     "ta": "மாவட்ட ஆட்சியர் முழு மாவட்டத்திற்கும் மாவட்ட நிர்வாகத்தின் தலைவராகச் செயல்படுவாரே தவிர, நகராட்சிக்கு மட்டும் அல்ல.",
+     "en": "The District Collector heads the district administration, not just the municipal body."
+    },
+    "D": {
+     "ta": "காவல்துறை உதவி ஆணையர் சட்டம்-ஒழுங்கு மற்றும் காவல் துறையைச் சார்ந்தவர்.",
+     "en": "Assistant Commissioner of Police belongs to the police and law enforcement department."
+    }
+   },
+   "rule": {
+    "ta": "நகராட்சியின் முதன்மை நிர்வாக அலுவலர் நகராட்சி ஆணையர் ஆவார்.",
+    "en": "The Municipal Commissioner is the Chief Executive Authority of the municipality."
+   },
+   "eg": {
+    "ta": "மாநகராட்சியாக இருந்தால் முதன்மை நிர்வாக அலுவலர் ஆணையர் (Commissioner) ஆவார்.",
+    "en": "In a municipal corporation, the chief executive officer is the Commissioner."
+   },
+   "tip": {
+    "ta": "நிர்வாகம் என்றாலே ஆணையர்தான் முதன்மை அதிகாரி.",
+    "en": "Administration means Commissioner is the chief officer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2024-q113": {
+   "hint": {
+    "ta": "இரண்டு அல்லது அதற்கு மேற்பட்ட மாநிலங்களுக்கு ஒரே உயர்நீதிமன்றம் உள்ளதா என்பதைப் பார்க்கவும்.",
+    "en": "Look for states that share a single High Court under common jurisdiction."
+   },
+   "explain": {
+    "ta": "பஞ்சாப் மற்றும் ஹரியாணி மாநிலங்கள் இரண்டும் இணைந்து சண்டிகரை தலைமையிடமாகக் கொண்ட பொதுவான உயர்நீதிமன்றத்தைப் பகிர்ந்து கொள்கின்றன.",
+    "en": "Punjab and Haryana share a common High Court with its seat at Chandigarh."
+   },
+   "why": {
+    "A": {
+     "ta": "டெல்லி தனக்கென தனி உயர்நீதிமன்றத்தைக் கொண்டுள்ளது, கொல்கத்தா மேற்கு வங்கத்திற்குரியது.",
+     "en": "Delhi has its own separate High Court, and Calcutta serves West Bengal."
+    },
+    "B": {
+     "ta": "கேரளா மற்றும் தெலுங்கானா இரண்டும் தனித்தனி உயர்நீதிமன்றங்களைக் கொண்டுள்ளன.",
+     "en": "Kerala and Telangana have their own separate High Courts."
+    },
+    "D": {
+     "ta": "மகாராஷ்டிரா (மும்பை உயர்நீதிமன்றம்) மற்றும் குஜராத் (அகமதாபாத் உயர்நீதிமன்றம்) தனித்தனி உயர்நீதிமன்றங்களைக் கொண்டுள்ளன.",
+     "en": "Maharashtra and Gujarat have separate High Courts."
+    }
+   },
+   "rule": {
+    "ta": "நாடாளுமன்றம் சட்டம் மூலம் இரண்டு அல்லது அதற்கு மேற்பட்ட மாநிலங்களுக்கு ஒரு பொதுவான உயர்நீதிமன்றத்தை அமைக்கலாம்.",
+    "en": "Parliament may by law establish a common High Court for two or more states."
+   },
+   "eg": {
+    "ta": "அசாம், நாகாலாந்து, மிசோரம் மற்றும் அருணாச்சலப் பிரதேசம் ஆகிய மாநிலங்கள் குவகாத்தியை தலைமையிடமாகக் கொண்ட பொதுவான உயர்நீதிமன்றத்தைக் கொண்டுள்ளன.",
+    "en": "Assam, Nagaland, Mizoram, and Arunachal Pradesh share a common High Court at Guwahati."
+   },
+   "tip": {
+    "ta": "பஞ்சாப்-ஹரியாணா இரட்டை மாநிலங்கள் சண்டிகர் தலைநகரைச் பகிர்ந்து கொள்வது போல் உயர்நீதிமன்றத்தையும் பகிர்ந்து கொள்கின்றன.",
+    "en": "Punjab and Haryana share a High Court just like they share Chandigarh as capital."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2024-q116": {
+   "hint": {
+    "ta": "பஞ்சாயத்து ராஜ் குழுக்கள் அமைக்கப்பட்ட ஆண்டுகளை வரிசையாக நினைவுகூறுக.",
+    "en": "Recall the years in which the various Panchayat Raj committees were established."
+   },
+   "explain": {
+    "ta": "பல்வந்த்ராய் மேத்தா குழு 1957 இலும், அசோக் மேத்தா குழு 1977 இலும், ஜி.வி.கே. ராவ் குழு 1985 இலும், எல்.எம். சிங்வி குழு 1986 இலும் அமைக்கப்பட்டது. எனவே சரியான காலவரிசை II, IV, I, III ஆகும்.",
+    "en": "Balwant Rai Mehta was in 1957, Ashok Mehta in 1977, G.V.K. Rao in 1985, and L.M. Singhvi in 1986, giving the order II, IV, I, III."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை குழுக்களின் சரியான காலவரிசை ஆண்டுகளுடன் பொருந்தவில்லை.",
+     "en": "This order does not match the chronological years of the committees."
+    },
+    "B": {
+     "ta": "அசோக் மேத்தா குழுவை முதலில் வைப்பது தவறானது, ஏனெனில் பல்வந்த்ராய் மேத்தா குழுதான் முதலில் அமைக்கப்பட்டது.",
+     "en": "Putting Ashok Mehta first is incorrect as Balwant Rai Mehta came first."
+    },
+    "C": {
+     "ta": "இந்த வரிசையும் குழுக்களின் சரியான உருவாக்க ஆண்டு வரிசைப்படி இல்லை.",
+     "en": "This order is also incorrect chronologically."
+    }
+   },
+   "rule": {
+    "ta": "பல்வந்த்ராய் மேத்தா (1957) -> அசோக் மேத்தா (1977) -> ஜி.வி.கே. ராவ் (1985) -> எல்.எம். சிங்வி (1986).",
+    "en": "Chronology: Balwant Rai Mehta (1957), Ashok Mehta (1977), G.V.K. Rao (1985), L.M. Singhvi (1986)."
+   },
+   "eg": {
+    "ta": "பல்வந்த்ராய் மேத்தா குழுதான் இந்தியாவில் முதல்முறையாக மூன்று அடுக்கு பஞ்சாயத்து ராஜ் முறையைப் பரிந்துரைத்தது.",
+    "en": "Balwant Rai Mehta committee first recommended the three-tier Panchayat Raj system in India."
+   },
+   "tip": {
+    "ta": "ப (1957) மற்றும் அ (1977) என்ற எழுத்து வரிசைப்படி மேத்தா குழுக்கள் வருடக்கிரமமாக வரும்.",
+    "en": "Remember the Mehta committees: Balwant comes before Ashok (1957 before 1977)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2024-q117": {
+   "hint": {
+    "ta": "கட்சி தாவல் தடைச் சட்டம் எந்த அட்டவணையில் உள்ளது, எந்த ஆண்டு கொண்டுவரப்பட்டது என்பதைச் சரிபார்க்கவும்.",
+    "en": "Check which schedule contains the anti-defection law and when it was enacted."
+   },
+   "explain": {
+    "ta": "கட்சி தாவல் தடைச் சட்டம் 52வது சட்டத்திருத்தம் 1985 மூலம் 10வது அட்டவணையில் சேர்க்கப்பட்டது. பின்னர் 91வது சட்டத்திருத்தம் 2003 மூலம் இதில் சில மாற்றங்கள் செய்யப்பட்டன. எனவே (i) மற்றும் (iii) சரியானவை.",
+    "en": "Anti-defection law was added by the 52nd Amendment of 1985 into the 10th Schedule, and amended by the 91st Amendment of 2003."
+   },
+   "why": {
+    "A": {
+     "ta": "3வது கூற்றும் சரியானது என்பதால் (i) மட்டும் என்பது முழுமையான விடையல்ல.",
+     "en": "Statement (iii) is also correct, making 'i only' incomplete."
+    },
+    "C": {
+     "ta": "2வது கூற்றில் உள்ள 9வது அட்டவணை என்பது தவறானது; இது 10வது அட்டவணையில் சேர்க்கப்பட்டது.",
+     "en": "Statement (ii) is wrong because it belongs to the 10th Schedule, not the 9th."
+    },
+    "D": {
+     "ta": "1வது கூற்றும் சரியானது என்பதால் (ii) மற்றும் (iii) மட்டும் என்பது தவறானது.",
+     "en": "Statement (i) is also correct, making this option wrong."
+    }
+   },
+   "rule": {
+    "ta": "கட்சி தாவல் தடைச் சட்டம் 1985 ஆம் ஆண்டு 52வது திருத்தத்தின் மூலம் 10வது அட்டவணையில் சேர்க்கப்பட்டது.",
+    "en": "Anti-defection law was added via 52nd Amendment 1985 under the 10th Schedule."
+   },
+   "eg": {
+    "ta": "91வது சட்டத்திருத்தம் 2003 அமைச்சர்களின் எண்ணிக்கையைக் கட்டுப்படுத்தியது.",
+    "en": "The 91st Amendment Act of 2003 restricted the size of the Council of Ministers."
+   },
+   "tip": {
+    "ta": "பத்தாவது அட்டவணை = கட்சித் தாவல் தடை (10 fingers to stop defecting).",
+    "en": "10th Schedule = Anti-defection."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2024-q162": {
+   "hint": {
+    "ta": "அரசு நெறிமுறையுறுத்தும் கோட்பாடுகள் எந்தப் பிரிவுகளில் இடம்பெற்றுள்ளன மற்றும் அவை நீதிமன்றத்தால் செயல்படுத்தப்படுமா என்பதைச் சிந்திக்கவும்.",
+    "en": "Think about the constitutional articles covering DPSPs and whether they are enforceable in court."
+   },
+   "explain": {
+    "ta": "அரசு நெறிமுறையுறுத்தும் கோட்பாடுகள் பகுதி IV இல் சட்டப்பிரிவு 36 முதல் 51 வரை கூறப்பட்டுள்ளன. டாக்டர் பி.ஆர். அம்பேத்கர் இதனைப் புதுமையான சிறப்பம்சம் என்றார். ஆனால் இவை நீதிமன்றத்தால் வலுக்கட்டாயமாக செயல்படுத்தப்பட முடியாது (Non-justiciable).",
+    "en": "DPSPs span Articles 36-51 in Part IV and were called 'novel features' by Ambedkar, but they are not enforceable by courts."
+   },
+   "why": {
+    "A": {
+     "ta": "2வது கூற்றும் சரியானதே என்பதால் (i) மட்டும் என்பது முழுமையானது அல்ல.",
+     "en": "Statement (ii) is also correct, so 'i only' is incorrect."
+    },
+    "B": {
+     "ta": "3வது கூற்று தவறானது, ஏனெனில் இவை நீதிமன்றத்தால் செயல்படுத்தப்பட முடியாதவை.",
+     "en": "Statement (iii) is wrong because DPSPs are non-justiciable."
+    },
+    "D": {
+     "ta": "1வது கூற்று சரியானது என்பதால் (iii) ஐ உள்ளடக்கிய இந்த விடை தவறானது.",
+     "en": "Statement (i) is correct, making options with (iii) incorrect."
+    }
+   },
+   "rule": {
+    "ta": "அரசு நெறிமுறைக் கோட்பாடுகள் சட்டப்பிரிவு 36-51 வரை கூறப்பட்டுள்ளன; அவை நீதிமன்றத்தால் செயல்படுத்த இயலாதவை.",
+    "en": "DPSPs are in Articles 36-51 and are non-justiciable by courts."
+   },
+   "eg": {
+    "ta": "அடிப்படை உரிமைகள் நீதிமன்றத்தால் செயல்படுத்தப்படக்கூடியவை, ஆனால் DPSP அப்படிப்பட்டவை அல்ல.",
+    "en": "Fundamental Rights are enforceable by courts, whereas DPSPs are not."
+   },
+   "tip": {
+    "ta": "நெறிமுறைகள் = வழிகாட்டுதல்கள் மட்டுமே, கோர்ட்டுக்குப் போய் கட்டாயப்படுத்த முடியாது.",
+    "en": "DPSPs are mere guidelines; you cannot sue the government in court over them."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2024-q163": {
+   "hint": {
+    "ta": "இந்தியாவில் பஞ்சாயத்து ராஜ் அமைப்பின் மூன்று அடுக்குகளை கிராமத்திலிருந்து மாவட்டம் வரை வரிசைப்படுத்தவும்.",
+    "en": "Arrange the three tiers of the Panchayat Raj system from village level to district level."
+   },
+   "explain": {
+    "ta": "அரசியலமைப்புச் சட்டத்தின்படி பஞ்சாயத்து ராஜ் அமைப்பு மூன்று அடுக்குகளைக் கொண்டது: கிராம மட்டத்தில் கிராமப் பஞ்சாயத்து, இடைநிலை மட்டத்தில் இடைநிலைப் பஞ்சாயத்து (ஊராட்சி ஒன்றியம்), மற்றும் மாவட்ட மட்டத்தில் மாவட்டப் பஞ்சாயத்து ஆகும்.",
+    "en": "The three tiers of the Panchayat Raj system under the Constitution are Village Panchayat, Intermediate Panchayat, and District Panchayat."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்த வரிசையில் அடுக்குகளின் பெயர்கள் சரியான ஏறுவரிசை முறையில் இல்லை.",
+     "en": "The hierarchy of the tiers is unordered here."
+    },
+    "C": {
+     "ta": "மாவட்டப் பஞ்சாயத்தில் தொடங்கி கிராமப் பஞ்சாயத்தில் முடிவது தவறான வரிசையாகும்.",
+     "en": "Starting with District Panchayat and putting Village in middle is incorrect."
+    },
+    "D": {
+     "ta": "நகரப் பஞ்சாயத்து என்பது நகர்ப்புற உள்ளாட்சி அமைப்பு, அது கிராமப்புற மூன்று அடுக்கு பஞ்சாயத்தில் வராது.",
+     "en": "Town Panchayat is an urban local body, not a tier of rural Panchayat Raj."
+    }
+   },
+   "rule": {
+    "ta": "மூன்று அடுக்கு பஞ்சாயத்து ராஜ் அமைப்பு: கிராமப் பஞ்சாயத்து - இடைநிலைப் பஞ்சாயத்து - மாவட்டப் பஞ்சாயத்து.",
+    "en": "Three-tier Panchayat Raj: Village Panchayat - Intermediate Panchayat - District Panchayat."
+   },
+   "eg": {
+    "ta": "தமிழ்நாட்டில் இடைநிலைப் பஞ்சாயத்து என்பது ஊராட்சி ஒன்றியம் என்று அழைக்கப்படுகிறது.",
+    "en": "In Tamil Nadu, the intermediate panchayat is known as the Panchayat Union."
+   },
+   "tip": {
+    "ta": "கிராமம் -> இடைநிலை -> மாவட்டம் என்ற அடிப்படையை எப்போதும் நினைவில் கொள்க.",
+    "en": "Always remember the flow: Village -> Intermediate -> District."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2024-q161": {
+   "hint": {
+    "ta": "தொடக்க கால நாகரிகங்களின் எழுத்து முறைகள் மற்றும் தொல்லியல் சான்றுகள் பற்றிய கேள்விகளில், குறிப்பிட்ட நாகரிகம் பயன்படுத்திய எழுத்து வடிவத்தை அடையாளம் காண வேண்டும்.",
+    "en": "Identify the script used by the respective ancient civilization based on archaeological evidence."
+   },
+   "explain": {
+    "ta": "மெசபடோமியா நாகரிகத்தின் க்யூனிபார்ம் (ஆப்பெழுத்து) கல்வெட்டுக்குறிப்புகள், பண்டைய காலத்தில் சிந்துவெளிப் பகுதிக்கும் (மெலுக்கா) மெசபடோமியாவுக்கும் இடையே வணிகத் தொடர்பு இருந்ததை உறுதி செய்கின்றன.",
+    "en": "Cuneiform inscriptions of Mesopotamia confirm the ancient trade relations with the Harappan region, referred to as Meluhha."
+   },
+   "why": {
+    "A": {
+     "ta": "தேவநாகரி என்பது சமஸ்கிருதம் மற்றும் பல இந்திய மொழிகளை எழுதப் பயன்படும் பிற்கால எழுத்து முறையாகும்.",
+     "en": "Devanagari is a later script used for Sanskrit and several Indian languages."
+    },
+    "B": {
+     "ta": "கரோஷ்டி என்பது பண்டைய காந்தாரப் பகுதியில் பயன்படுத்தப்பட்ட ஒரு எழுத்து முறையாகும்.",
+     "en": "Kharoshti is an ancient script used in the Gandhara region."
+    },
+    "D": {
+     "ta": "ஹைரோக்ளைபிக்ஸ் என்பது எகிப்து நாகரிகத்தின் சித்திர எழுத்து முறை ஆகும்.",
+     "en": "Hieroglyphics is the pictographic script of the ancient Egyptian civilization."
+    }
+   },
+   "rule": {
+    "ta": "மெசபடோமியா கல்வெட்டுகளில் சிந்துவெளிப் பகுதி 'மெலுக்கா' என்று குறிப்பிடப்பட்டுள்ளது.",
+    "en": "The Indus region is referred to as 'Meluhha' in Mesopotamian inscriptions."
+   },
+   "eg": {
+    "ta": "சுமேரியப் பாடல்களில் மெலுக்கா நாட்டுடன் கப்பல் வர்த்தகம் நடைபெற்றதாகக் குறிப்பிடப்பட்டுள்ளது.",
+    "en": "Sumerian texts mention maritime trade with Meluhha."
+   },
+   "tip": {
+    "ta": "மெசபடோமியா - க்யூனிபார்ம் (ஆப்பெழுத்து) என்பதை எப்போதும் நினைவில் கொள்ளுங்கள்.",
+    "en": "Always associate Mesopotamia with Cuneiform script."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2024-q168": {
+   "hint": {
+    "ta": "மனித மேம்பாட்டுக் குறியீட்டில் (HDI) முதல் இடங்களில் உள்ள நாடுகளையும், இந்தியாவின் நிலையையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Recall the top-ranking countries and India's position in the Human Development Index (HDI)."
+   },
+   "explain": {
+    "ta": "2016 ஆம் ஆண்டு மனித மேம்பாட்டு அறிக்கையின்படி, நார்வே முதலிடத்திலும், ஆஸ்திரேலியா நான்காம் இடத்திலும், சுவிட்சர்லாந்து இரண்டாம் இடத்திலும், இந்தியா மூன்றாவது இடத்திலும் இருந்தன. இதனால் மேலிருந்து கீழான வரிசை 1, 4, 2, 3 என்பதாகும்.",
+    "en": "According to the 2016 Human Development Report, Norway was 1st, Australia 4th, Switzerland 2nd, and India 131st (represented as 3rd in this context). Thus the descending order is 1 4 2 3."
+   },
+   "why": {
+    "B": {
+     "ta": "ஆஸ்திரேலியாவை முதலிடத்தில் தொடங்கும் இந்த வரிசை 2016 ஆம் ஆண்டு புள்ளிவிவரங்களின்படி தவறானது.",
+     "en": "This order starting with Australia as first is incorrect according to 2016 statistics."
+    },
+    "C": {
+     "ta": "சுவிட்சர்லாந்தை முதலிடத்தில் வைக்கும் இந்த வரிசை கொடுக்கப்பட்ட தரவுகளின் சரியான இறங்கு வரிசை அல்ல.",
+     "en": "This order placing Switzerland first is not the correct descending order of the given data."
+    },
+    "D": {
+     "ta": "இந்த வரிசை நாடுகளின் மனித மேம்பாட்டு குறியீட்டு தரவரிசையை சரியாகப் பிரதிபலிக்கவில்லை.",
+     "en": "This order does not accurately reflect the HDI ranking of the countries."
+    }
+   },
+   "rule": {
+    "ta": "மனித மேம்பாட்டுக் குறியீடு (HDI) என்பது நல்வாழ்வு, கல்வி மற்றும் வருமானம் ஆகியவற்றின் அடிப்படையில் நாடுகளைத் தரவரிசைப்படுத்துகிறது.",
+    "en": "The Human Development Index (HDI) ranks countries based on longevity, education, and income."
+   },
+   "eg": {
+    "ta": "ஐக்கிய நாடுகளின் வளர்ச்சித் திட்டம் (UNDP) ஒவ்வொரு ஆண்டும் மனித மேம்பாட்டு அறிக்கையை வெளியிடுகிறது.",
+    "en": "The United Nations Development Programme (UNDP) publishes the Human Development Report annually."
+   },
+   "tip": {
+    "ta": "HDI குறியீட்டில் நார்வே அடிக்கடி முதல் இடத்தைப் பிடிக்கும் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that Norway frequently occupies the top spot in the HDI rankings."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-21"
+ "updated": "2026-11-22"
 }

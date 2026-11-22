@@ -637,7 +637,119 @@
    },
    "doubt": true,
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q118": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தொடரின் பொது விகிதத்தைக் கண்டறிந்து, n-ஆவது உறுப்பு காணும் சூத்திரத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Find the common ratio and use the nth term formula for geometric progression."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இந்த விடை கொடுக்கப்பட்டுள்ளது. பொது விகிதம் மற்றும் அடுக்கு விதிகளைப் பயன்படுத்தி n-ஆவது உறுப்பு கணக்கிடப்படுகிறது.",
+    "en": "According to the TNPSC answer key, this is correct based on geometric progression rules."
+   },
+   "why": {
+    "B": {
+     "ta": "இது தவறான அடுக்கு மதிவைக் குறிக்கிறது.",
+     "en": "This represents an incorrect exponent value."
+    },
+    "C": {
+     "ta": "இது தவறான எண் மதிப்பைக் குறிக்கிறது.",
+     "en": "This represents an incorrect numerical value."
+    },
+    "D": {
+     "ta": "இது எதிர்மறை அடுக்கு மதிப்பைக் குறிக்கிறது.",
+     "en": "This represents a negative exponent value."
+    }
+   },
+   "rule": {
+    "ta": "பெருக்குத் தொடர் வரிசையின் n-ஆவது உறுப்பு tₙ = arⁿ⁻¹ ஆகும்.",
+    "en": "The nth term of a geometric progression is tₙ = arⁿ⁻¹."
+   },
+   "eg": {
+    "ta": "பெருக்குத் தொடரில் முதல் உறுப்பு மற்றும் பொது விகிதத்தைக் கொண்டு அடுத்த உறுப்புகளைக் காணலாம்.",
+    "en": "Find subsequent terms using the first term and common ratio in a GP."
+   },
+   "tip": {
+    "ta": "தசம எண்களின் அடுக்குகளைக் கவனமாகக் கையாளுங்கள்.",
+    "en": "Handle decimal powers carefully."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q119": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் BODMAS விதிப்படி அடைப்புக்குறி, 'இன்' (of), வகுத்தல் ஆகிய வரிசைப்படி தீர்க்கவும்.",
+    "en": "Follow the BODMAS rule: brackets first, then 'of', then division."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி அடைப்புக்குறிக்குள் உள்ள கூட்டலை முதலில் செய்து, பின் 'இன்' (of) மதிப்பைத் தீர்த்து, இறுதியில் வகுத்தல் செயல் மூலம் விடை பெறப்படுகிறது.",
+    "en": "According to the official answer key, solve brackets, then 'of', and finally division to get the result."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான பின்ன மதிப்பைக் குறிக்கிறது.",
+     "en": "This represents an incorrect fraction value."
+    },
+    "C": {
+     "ta": "இது தவறான கூட்டல் அல்லது வகுத்தல் மதிப்பைக் குறிக்கிறது.",
+     "en": "This represents an incorrect addition or division value."
+    },
+    "D": {
+     "ta": "இது சுருக்குதலில் பிழை ஏற்பட்ட மதிப்பைக் குறிக்கிறது.",
+     "en": "This represents a miscalculated simplification value."
+    }
+   },
+   "rule": {
+    "ta": "சுருக்குக கணக்குகளில் BODMAS முறையைத் தவறாமல் பின்பற்ற வேண்டும்.",
+    "en": "Always follow the BODMAS rule in simplification problems."
+   },
+   "eg": {
+    "ta": "1/2 இன் 4 ÷ 2 என்ற கணக்கில் முதலில் 'இன்' செய்து பின் வகுக்க வேண்டும்.",
+    "en": "In 1/2 of 4 ÷ 2, calculate 'of' first and then divide."
+   },
+   "tip": {
+    "ta": "'இன்' (of) என்பது பெருக்கலைக் குறிக்கும் ஆனால் வகுத்தலுக்கு முன்பு செய்ய வேண்டும்.",
+    "en": "'Of' means multiplication but has priority over division."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q121": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மீ.பெ.வ மற்றும் மீ.சி.ம ஆகியவற்றுக்கு இடையேயான கணித உறவைப் பற்றிப் பாருங்கள்.",
+    "en": "Analyze the mathematical relationship between HCF and LCM."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி எந்த இரு எண்களுக்கும் மீப்பெரு பொது வகுத்தியானது மீச்சிறு பொது மடங்கை விடக் குறைவாகவோ அல்லது சமமாகவோ இருக்கும் என்ற உறவு சரியாகும்.",
+    "en": "According to the official answer key, the HCF is always less than or equal to the LCM for any two numbers."
+   },
+   "why": {
+    "A": {
+     "ta": "எல்லா எண்களுக்கும் மீ.பெ.வ மற்றும் மீ.சி.ம சமமாக இருக்காது.",
+     "en": "HCF and LCM are not equal for all numbers."
+    },
+    "C": {
+     "ta": "மீ.சி.ம எப்போதுமே மீ.பெ.வ-வை விடக் குறைவாக இருக்க முடியாது.",
+     "en": "LCM can never be less than HCF."
+    },
+    "D": {
+     "ta": "இது சமமாகவும் இருக்க வாய்ப்புள்ளதால் இது முழுமையான விதியாகாது.",
+     "en": "This is not an absolute rule as they can be equal."
+    }
+   },
+   "rule": {
+    "ta": "மீ.பெ.வ ≤ மீ.சி.ம என்பது அனைத்து எண்களுக்கும் பொருந்தும் அடிப்படை விதியாகும்.",
+    "en": "HCF ≤ LCM is a fundamental rule applicable to all numbers."
+   },
+   "eg": {
+    "ta": "4 மற்றும் 6 இன் மீ.பெ.வ 2, மீ.சி.ம 12 ஆகும்; இங்கு 2 ≤ 12.",
+    "en": "For 4 and 6, HCF is 2 and LCM is 12; here 2 ≤ 12."
+   },
+   "tip": {
+    "ta": "மீ.பெ.வ எப்போதும் சிறியதாகவும், மீ.சி.ம எப்போதும் பெரியதாகவும் இருக்கும்.",
+    "en": "HCF is always smaller and LCM is always larger."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-21"
+ "updated": "2026-11-22"
 }

@@ -4977,7 +4977,1479 @@
     "en": "Panchayat Raj Day = April 24."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q101": {
+   "hint": {
+    "ta": "மட்ராஸ் மாகாணத்தின் நீதிக்கட்சி மற்றும் சுயாட்சிக் கட்சி முதலமைச்சர்களின் பதவிக்கால ஆண்டுகளை வரிசைப்படுத்த வேண்டும்.",
+    "en": "Chronologically order the early Chief Ministers of Madras Presidency based on their tenure years."
+   },
+   "explain": {
+    "ta": "ஏ. சுப்பராயலு ரெட்டியார் 1920-லும், பி. சுப்பராயன் 1926-லும், பி. முனுசாமி நாயுடு 1930-லும், பி.டி. ராஜன் 1936-லும், சி. ராஜாஜி 1937-லும் முதலமைச்சர்களாகப் பதவியேற்றனர்.",
+    "en": "A. Subburayulu Reddiar (1920), P. Subbarayan (1926), P. Munusamy Naidu (1930), P.T. Rajan (1936), and C. Rajaji (1937) served as Chief Ministers in this exact chronological order."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மட்ராஸ் மாகாண முதலமைச்சர்களின் தொடக்க ஆண்டுகளை நினைவில் கொள்ள வேண்டும் (சுப்பராயலு 1920, சுப்பராயன் 1926).",
+    "en": "Remember the foundation and tenure years of early Madras Presidency chief ministers."
+   },
+   "eg": {
+    "ta": "நீதிக்கட்சியின் முதல் முதலமைச்சர் ஏ. சுப்பராயலு ரெட்டியார் ஆவார்.",
+    "en": "A. Subburayulu Reddiar was the first Chief Minister from the Justice Party."
+   },
+   "tip": {
+    "ta": "ரெட்டியார் (20) முதல், ராஜாஜி (37) கடைசி என ஆண்டின் தொடக்கத்தை வைத்து எளிதில் கண்டுபிடிக்கலாம்.",
+    "en": "Remember Reddiar started in 1920 and Rajaji came in 1937 to trace the correct sequence."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q108": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்டுள்ள மன்னர்களின் பெயர்களைக் கவனித்து, எந்தப் பேரரசைச் சேர்ந்தவர்கள் எனப் பிரித்துப்பார்க்கவும்.",
+    "en": "Classify the given ancient Tamil kings based on their ruling dynasties."
+   },
+   "explain": {
+    "ta": "பெருஞ்சேரல் இரும்பொறை சேர மரபினைச் சேர்ந்தவர். இளஞ்சேட்சென்னி, கோச்செங்கணான் மற்றும் பெருநற்கிள்ளி ஆகியோர் சோழ மன்னர்கள் ஆவர்.",
+    "en": "Perum Cheral Irumporai belongs to the Chera dynasty, whereas the other three options are Chola kings."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சங்க கால மூவேந்தர்களின் (சேர, சோழ, பாண்டிய) மன்னர்களின் பெயர்களை வேறுபடுத்தி அறிய வேண்டும்.",
+    "en": "Distinguish between the dynastic names of Chera, Chola, and Pandya kings of the Sangam era."
+   },
+   "eg": {
+    "ta": "கரிகால சோழன் சோழ மன்னர் மரபினைச் சார்ந்தவர்.",
+    "en": "Karikalan belongs to the Chola dynasty."
+   },
+   "tip": {
+    "ta": "பெயரிலேயே 'சேரல்' என்று வந்தால் அது சேர மன்னரைக் குறிக்கும்.",
+    "en": "Names containing 'Cheral' clearly point to the Chera dynasty."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q109": {
+   "hint": {
+    "ta": "சங்க மருவிய காலத்து நூல்கள் மற்றும் இலக்கியங்களின் தன்மைகளைக் கூற்றுகளுடன் ஒப்பிட்டுப் பார்க்கவும்.",
+    "en": "Evaluate the literary characteristics of the post-Sangam period mentioned in the statements."
+   },
+   "explain": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்கள் பெரும்பாலும் ஒழுக்க நெறிமுறைகளையும் அறங்களையும் கூறுகின்றன, அவற்றுள் திருக்குறளும் நாலடியாரும் முதன்மையானவை. சிலப்பதிகாரமும் மணிமேகலையும் இரட்டைக் காப்பியங்கள் ஆகும், அவை சங்க காலத்திற்குப் பிந்தைய சங்க மருவிய காலத்தைச் சார்ந்தவை.",
+    "en": "Pathinenkeelkanakku texts focus on ethics with Thirukkural and Naladiyar being foremost. Silappathikaram and Manimekalai are twin epics of the post-Sangam period dealing with society and religion."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சங்க மருவிய காலம் என்பது நீதி நூல்களும் இரட்டைக் காப்பியங்களும் தோன்றிய காலமாகும்.",
+    "en": "The post-Sangam age is characterized by ethical literature (Keelkanakku) and twin epics."
+   },
+   "eg": {
+    "ta": "பதினெண்கீழ்க்கணக்கு நூல்களின் எண்ணிக்கை பதினெட்டாகும்.",
+    "en": "There are eighteen texts in Pathinenkeelkanakku."
+   },
+   "tip": {
+    "ta": "அனைத்துக் கூற்றுகளும் உண்மையானவையே என்பதால் தேர்வுக் குறிப்பில் ஏற்றுக்கொள்ளப்பட்ட விடைகளில் இதுவும் ஒன்றாகும்.",
+    "en": "All given statements are facts from the Samacheer textbook."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q110": {
+   "hint": {
+    "ta": "இந்திய விடுதலைப் போராட்ட வரலாற்றில் தமிழகத் தலைவர்களின் மறைந்த ஆண்டுகளை வரிசைப்படுத்த வேண்டும்.",
+    "en": "Chronologically order the demise dates of prominent freedom fighters from Tamil Nadu."
+   },
+   "explain": {
+    "ta": "புலித்தேவர் 1767-லும், வேலுநாச்சியாரின் படைவீராங்கனை குயிலி 1780-லும், வீரபாண்டிய கட்டபொம்மன் 1799-லும், மருது சகோதரர்கள் 1801-லும் இறந்துள்ளனர்.",
+    "en": "Pulithevar died in 1767, Kuyili in 1780, Kattabomman in 1799, and the Maruthu Brothers in 1801, forming the correct chronological sequence 1, 2, 3, 4."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தென்னிந்தியப் புரட்சியாளர் மற்றும் விடுதலை வீரர்களின் இறப்பு ஆண்டுகளை நினைவில் கொள்ள வேண்டும் (1767, 1780, 1799, 1801).",
+    "en": "Memorize the martyrdom years of South Indian freedom fighters."
+   },
+   "eg": {
+    "ta": "வீரபாண்டிய கட்டபொம்மன் கயத்தாறு கோட்டையில் தூக்கிலிடப்பட்ட ஆண்டு 1799 ஆகும்.",
+    "en": "Veerapandiya Kattabomman was hanged at Kayathar in 1799."
+   },
+   "tip": {
+    "ta": "புலித்தேவர் (1767) முதல், மருது சகோதரர்கள் (1801) கடைசி என்ற கால வரிசையை நினைவில் கொள்க.",
+    "en": "Anchor with Pulithevar as earliest (1767) and Maruthu Brothers as latest among these (1801)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q111": {
+   "hint": {
+    "ta": "பெண்கள் முன்னேற்றத்திற்கும் மருத்துவத் துறைக்கும் பாடுபட்ட தமிழ்நாட்டின் முதல் பெண் மருத்துவர் யார் எனக் கண்டறியவும்.",
+    "en": "Identify the pioneering woman doctor of Tamil Nadu who fought for women's welfare."
+   },
+   "explain": {
+    "ta": "டாக்டர் முத்துலட்சுமி ரெட்டி தமிழ்நாட்டின் முதல் பெண் மருத்துவர் ஆவார். இவர் சமூக சீர்திருத்தவாதியாகவும், புற்றுநோய் மருத்துவமனை 설립ாளராகவும் திகழ்ந்தவர்.",
+    "en": "Dr. Muthulakshmi Reddy is the first female doctor in Tamil Nadu and a renowned social reformer."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தமிழ்நாட்டின் முதல் பெண் மருத்துவர் மற்றும் சட்ட மேலவை உறுப்பினராகப் பணியாற்றியவர் டாக்டர் முத்துலட்சுமி ரெட்டி.",
+    "en": "Dr. Muthulakshmi Reddy is celebrated as Tamil Nadu's first female medical graduate and legislator."
+   },
+   "eg": {
+    "ta": "அடையாறு புற்றுநோய் நிறுவனம் டாக்டர் முத்துலட்சுமி ரெட்டியால் தொடங்கப்பட்டது.",
+    "en": "The Adyar Cancer Institute was founded by Dr. Muthulakshmi Reddy."
+   },
+   "tip": {
+    "ta": "மருத்துவப் படிப்பு என்றாலே முத்துலட்சுமி ரெட்டி என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Link medical pioneering in Tamil Nadu directly to Dr. Muthulakshmi Reddy."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q112": {
+   "hint": {
+    "ta": "ஒடுக்கப்பட்ட மக்களுக்காக இரட்டைமலை சீனிவாசன் தொடங்கிய முக்கிய அமைப்பின் பெயரைக் கண்டறியவும்.",
+    "en": "Identify the organization founded by Rettaimalai Srinivasan for depressed classes."
+   },
+   "explain": {
+    "ta": "இரட்டைமலை சீனிவாசன் 1893 ஆம் ஆண்டு 'ஆதி திராவிட மகajana சபை'யைத் தொடங்கி ஒடுக்கப்பட்ட மக்களின் உரிமைகளுக்காகக் குரல் கொடுத்தார்.",
+    "en": "Rettaimalai Srinivasan founded the Adi Dravida Mahajana Sabha in 1893 to fight for the rights of the depressed classes."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இரட்டைமலை சீனிவாசன் 1893-ல் ஆதி திராவிட மகajana சபையைத் தொடங்கினார்.",
+    "en": "Rettaimalai Srinivasan established the Adi Dravida Mahajana Sabha in the year 1893."
+   },
+   "eg": {
+    "ta": "இரட்டைமலை சீனிவாசன் லண்டனில் நடைபெற்ற வட்டமேசை மாநாடுகளில் கலந்துகொண்டார்.",
+    "en": "Rettaimalai Srinivasan participated in the Round Table Conferences in London representing the depressed classes."
+   },
+   "tip": {
+    "ta": "ஆதி திராவிடர் சபை என்றால் அது இரட்டைமலை சீனிவாசன் நினைவுக்கு வரவேண்டும்.",
+    "en": "Associate 'Adi Dravida Mahajana Sabha' with Rettaimalai Srinivasan."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q159": {
+   "hint": {
+    "ta": "கார்பன் சேர்மங்களின் வினைபடு தொகுதிகளையும் அவற்றின் மூலக்கூறு வாய்ப்பாடுகளையும் சரியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match each functional group of carbon compounds with its correct chemical formula."
+   },
+   "explain": {
+    "ta": "ஆல்கஹாலின் வினைபடு தொகுதி -OH, ஆல்டிஹைடின் தொகுதி -CHO, கீட்டோனின் தொகுதி கார்பனைல் குழு மற்றும் கார்பாக்சிலிக் அமிலத்தின் தொகுதி -COOH ஆகும். இதன்படி சரியான வரிசை 2 3 4 1 ஆகும்.",
+    "en": "Alcohol corresponds to -OH, Aldehyde to -CHO, Ketone to the carbonyl group, and Carboxylic acid to -COOH, resulting in the order 2 3 4 1."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்தத் தெரிவு வினைபடு தொகுதிகளைத் தவறான வரிசையில் பொருத்துகிறது.",
+     "en": "This option arranges the functional group matches in an incorrect order."
+    },
+    "B": {
+     "ta": "இந்தத் தெரிவு சில வினைபடு தொகுதிகளை மட்டும் மாற்றிப் பொருத்துகிறது.",
+     "en": "This option swaps some of the functional group matches incorrectly."
+    },
+    "C": {
+     "ta": "இந்தத் தெரிவு ஆல்கஹால் மற்றும் ஆல்டிஹைடு தொகுதிகளின் வரிசையைத் மாற்றி அளிக்கிறது.",
+     "en": "This option interchanges the matches for alcohol and aldehyde."
+    }
+   },
+   "rule": {
+    "ta": "ஒவ்வொரு கரிமச் சேர்ம வர்க்கத்திற்கும் தனித்துவமான வினைபடு தொகுதி உண்டு.",
+    "en": "Every class of organic compound has a unique functional group."
+   },
+   "eg": {
+    "ta": "ஈத்தனால் ஒரு ஆல்கஹால் மற்றும் அது -OH தொகுதியைக் கொண்டுள்ளது.",
+    "en": "Ethanol is an alcohol and contains the -OH group."
+   },
+   "tip": {
+    "ta": "ஆல்கஹால் என்றால் 'ஓஹெச்', அமிலம் என்றால் 'சிஓஓஎச்' என எளிதில் நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember alcohol as OH and acid as COOH for quick matching."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q160": {
+   "hint": {
+    "ta": "திரவங்களின் அழுத்தம் மற்றும் அதன் பயன்பாடுகள் எந்த அறிவியல் விதியின் கீழ் வருகின்றன என்பதைச் சிந்தியுங்கள்.",
+    "en": "Think about which scientific law governs the transmission of pressure in liquids."
+   },
+   "explain": {
+    "ta": "வாகனப் பணிமனைகளில் கார்களை உயர்த்தப் பயன்படும் நீரியல் உயர்த்திகள் பாஸ்கல் விதியின் அடிப்படையில் இயங்குகின்றன. இந்த விதியின்படி மூடப்பட்ட திரவத்தின் மீது செலுத்தப்படும் அழுத்தம் அனைத்து திசைகளிலும் சமமாகக் கடத்தப்படும்.",
+    "en": "Hydraulic lifts in service stations operate on Pascal's law, which states that pressure applied to an enclosed fluid is transmitted equally in all directions."
+   },
+   "why": {
+    "A": {
+     "ta": "நியூட்டனின் முதல் விதி நிலைத்தன்மையை விளக்குகிறது, நீரியல் உயர்த்திகளுக்குப் பயன்படுவதில்லை.",
+     "en": "Newton's first law deals with inertia and is not used in hydraulic lifts."
+    },
+    "B": {
+     "ta": "நியூட்டனின் இரண்டாம் விதி விசையின் மதிப்பைத் தருகிறது, திரவ அழுத்தத்திற்குரியது அல்ல.",
+     "en": "Newton's second law defines force and is not related to fluid pressure mechanisms."
+    },
+    "D": {
+     "ta": "அனைத்து விதிகளும் இதில் பொருந்தாது, பாஸ்கல் விதி மட்டுமே சரியானது.",
+     "en": "All the above is incorrect since only Pascal's law applies here."
+    }
+   },
+   "rule": {
+    "ta": "நீரியல் பிரேக்குகள் மற்றும் உயர்த்திகள் பாஸ்கல் விதியின் அடிப்படையில் செயல்படுகின்றன.",
+    "en": "Hydraulic brakes and lifts function based on Pascal's law."
+   },
+   "eg": {
+    "ta": "தானியங்கி நீரியல் பிரேக்குகள் பாஸ்கல் விதிக்கு மற்றொரு சிறந்த எடுத்துக்காட்டாகும்.",
+    "en": "Automotive hydraulic brakes are another great example of Pascal's law."
+   },
+   "tip": {
+    "ta": "நீரியல் (Hydraulic) என்ற வார்த்தையைக் கண்டால் உடனே பாஸ்கல் விதியைத் தேர்ந்தெடுங்கள்.",
+    "en": "Whenever you see the word hydraulic, immediately choose Pascal's law."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q161": {
+   "hint": {
+    "ta": "விசைக்கும் உந்த மாறுபாட்டிற்கும் உள்ள தொடர்பைக் கூறும் சமன்பாடுகளைச் சரிபார்த்துக் கொள்ளுங்கள்.",
+    "en": "Check the equations relating force and the rate of change of momentum."
+   },
+   "explain": {
+    "ta": "விசை என்பது உந்த மாறுபாடு வீதம் ஆகும். எனவே F = Delta P / t என்பதே சரியானது. மாறாக F = Delta P x t என்பது உந்த மாறுபாட்டையும் காலத்தையும் பெருக்குவதால் அது விசைக்கான சமன்பாடு அல்ல.",
+    "en": "Force is the rate of change of momentum, given by F = Delta P / t. Hence, F = Delta P x t is dimensionally incorrect and is not a formula for force."
+   },
+   "why": {
+    "A": {
+     "ta": "F = m x a என்பது நியூட்டனின் இரண்டாம் விதியின்படி சரியான விசைக்கான சமன்பாடாகும்.",
+     "en": "F = m x a is the correct equation for force according to Newton's second law."
+    },
+    "C": {
+     "ta": "F = m(v - u)/t என்பது உந்த மாறுபாடு வீதத்தைக் குறிக்கும் சரியான சமன்பாடாகும்.",
+     "en": "F = m(v - u)/t correctly represents the rate of change of momentum."
+    },
+    "D": {
+     "ta": "F = Delta P / t என்பது உந்த மாறுபாட்டு வீதத்தைக் குறிக்கும் சரியான சமன்பாடாகும்.",
+     "en": "F = Delta P / t is the correct expression for the rate of change of momentum."
+    }
+   },
+   "rule": {
+    "ta": "விசை என்பது உந்த மாறுபாட்டின் வீதம் ஆகும், எனவே காலம் வகுத்தலில் வர வேண்டும்.",
+    "en": "Force is the rate of change of momentum, so time must be in the denominator."
+   },
+   "eg": {
+    "ta": "நிறையும் முடுக்கமும் பெருக்கற்பலன் விசைக்குச் சமம் (F = ma).",
+    "en": "The product of mass and acceleration equals force (F = ma)."
+   },
+   "tip": {
+    "ta": "உந்த மாறுபாடு 'வீதம்' என்றால் காலத்தால் வகுக்கப்பட வேண்டும் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that 'rate' means division by time."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q162": {
+   "hint": {
+    "ta": "உணவுப் பொருட்களில் சேர்க்கப்படும் வேதிப்பொருட்களையும் அவற்றின் பயன்பாடுகளையும் பொருத்திப் பாருங்கள்.",
+    "en": "Match the chemicals used as food adulterants with their specific purposes."
+   },
+   "explain": {
+    "ta": "ஹைட்ரஜன் பெராக்சைடு பாலில் கலக்கப்படுகிறது, உணவு நிறமூட்டிகள் பசுமைத் தோற்றத்தைத் தரப் பயன்படுகின்றன, கால்சியம் கார்பைடு வாழைப்பழம் பழக்கப் பயன்படுகின்றன மற்றும் கார்னோபா மெழுகு பளபளப்பான தோற்றத்தைத் தருகிறது. எனவே சரியான வரிசை 2 3 4 1 ஆகும்.",
+    "en": "Hydrogen peroxide matches with milk, food colours with fresh look, calcium carbide with ripening bananas, and carnauba wax with shiny appearance, giving the order 2 3 4 1."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்தத் தெரிவு கலப்படப் பொருட்களைத் தவறான பயன்பாடுகளுடன் இணைக்கிறது.",
+     "en": "This option incorrectly pairs the adulterants with wrong applications."
+    },
+    "C": {
+     "ta": "இந்தத் தெரிவு ஹைட்ரஜன் பெராக்சைடு மற்றும் பிற பொருட்களின் பொருத்தங்களை மாற்றுகிறது.",
+     "en": "This option swaps the correct matches for hydrogen peroxide and other items."
+    },
+    "D": {
+     "ta": "இந்தத் தெரிவு அனைத்துப் பொருத்தங்களையும் மாற்றித் தலைகீழாகக் காட்டுகிறது.",
+     "en": "This option rearranges all the matches incorrectly."
+    }
+   },
+   "rule": {
+    "ta": "உணவுப் பொருட்களின் நிறம், பாதுகாப்பு மற்றும் பளபளப்புக்காகச் சில நச்சு வேதிப்பொருட்கள் கலப்படமாகப் பயன்படுத்தப்படுகின்றன.",
+    "en": "Certain harmful chemicals are used as adulterants to enhance colour, preservation, and shine of food."
+   },
+   "eg": {
+    "ta": "மாம்பழங்களைச் செயற்கையாகப் பழக்கக் கால்சியம் கார்பைடு பயன்படுகிறது.",
+    "en": "Calcium carbide is used to artificially ripen mangoes."
+   },
+   "tip": {
+    "ta": "மெழுகு என்றால் பளபளப்பு, கார்பைடு என்றால் பழங்களை விரைவில் பழுக்கவைப்பது என நினைவில் கொள்ளுங்கள்.",
+    "en": "Associate wax with shine and carbide with artificial fruit ripening."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q194": {
+   "hint": {
+    "ta": "மின்சுற்றில் பயன்படும் பல்வேறு கருவிகள் மற்றும் மீட்டர்களின் பணிகளைச் சரியாக ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the functions of various electrical meters and components used in a circuit."
+   },
+   "explain": {
+    "ta": "கால்வனோமீட்டர் மின்னோட்டத்தையும் அதன் திசையையும் கண்டறிய உதவுகிறது. வோல்ட் மீட்டர் மின்னழுத்த வேறுபாட்டை அளவிடுகிறது. அம்மீட்டர் மின்னோட்டத்தை அளவிடுகிறது. மின்தடையாக்கி மின்சுற்றில் பாயும் மின்னோட்டத்தின் அளவை நிர்ணயிக்கிறது. எனவே சரியான வரிசை 4 3 2 1 ஆகும்.",
+    "en": "Galvanometer detects current and its direction, Voltmeter measures potential difference, Ammeter measures current, and Resistor fixes the magnitude of current, resulting in the order 4 3 2 1."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்தத் தெரிவு கால்வனோமீட்டர் மற்றும் அம்மீட்டரின் பணிகளை மாற்றித் தருகிறது.",
+     "en": "This option interchanges the functions of galvanometer and ammeter."
+    },
+    "C": {
+     "ta": "இந்தத் தெரிவு வோல்ட் மீட்டர் மற்றும் அம்மீட்டரின் வரிசையைத் தவறுதலாக மாற்றுகிறது.",
+     "en": "This option incorrectly swaps the order of voltmeter and ammeter."
+    },
+    "D": {
+     "ta": "இந்தத் தெரிவு கருவிகளின் பயன்பாடுகளைச் சரியாகப் பொருத்தாமல் மாற்றி அளிக்கிறது.",
+     "en": "This option arranges the component uses in an incorrect sequence."
+    }
+   },
+   "rule": {
+    "ta": "மின் அளவீட்டுக் கருவிகள் ஒவ்வொன்றும் ஒரு குறிப்பிட்ட மின் பண்பை அளவிட வடிவமைக்கப்பட்டுள்ளன.",
+    "en": "Each electrical measuring instrument is designed to measure a specific electrical property."
+   },
+   "eg": {
+    "ta": "அம்மீட்டர் எப்போதும் மின்சுற்றில் தொடரிணைப்பில் இணைக்கப்படும்.",
+    "en": "An ammeter is always connected in series in a circuit."
+   },
+   "tip": {
+    "ta": "கால்வனோமீட்டர் திசையைக் காட்டும், அம்மீட்டர் அளவை மட்டும் காட்டும்.",
+    "en": "Galvanometer shows direction, whereas ammeter measures the magnitude of current."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q107": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு நாட்டின் விண்வெளி ஆராய்ச்சி மையத்தின் மார்ஸ் அல்லது இதர முக்கிய திட்டங்களை வரிசைப்படுத்திக் காண வேண்டும்.",
+    "en": "Match each country with its corresponding space mission carefully."
+   },
+   "explain": {
+    "ta": "யு.எஸ்.ஏ நாட்டின் திட்டம் Psyche, இந்தியாவின் திட்டம் மங்கள்யான், ஜப்பானின் திட்டம் TEREX, மற்றும் சீனாவின் திட்டம் Zheng He ஆகும். இந்த சரியான வரிசைப்படிப் பொருத்துக.",
+    "en": "The correct matches are USA with Psyche, India with Mangalyan, Japan with TEREX, and China with Zheng He."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்தத் தெரிவு நாட்டின் திட்டங்களை மாற்றி வரிசைப்படுத்துவதால் தவறானது.",
+     "en": "This option contains incorrect matching of missions."
+    },
+    "C": {
+     "ta": "இந்தத் தெரிவு நாடுகளின் வரிசையைத் தவறுதலாகக் குறிக்கிறது.",
+     "en": "This option has misplaced matching sequences."
+    },
+    "D": {
+     "ta": "இந்தத் தெரிவு அனைத்து நாடுகளுக்கும் தவறான திட்டப் பொருத்துதலைத் தருகிறது.",
+     "en": "This option pairs countries with incorrect missions."
+    }
+   },
+   "rule": {
+    "ta": "நாடுகளின் முக்கிய விண்வெளி மற்றும் கோள் ஆய்வுத் திட்டங்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the key space missions associated with various countries."
+   },
+   "eg": {
+    "ta": "இந்தியா மார்ஸ் ஆர்பிட்டர் மிஷன் (மங்கள்யான்) மூலம் செவ்வாய்க் கிரகத்தை அடைந்தது.",
+    "en": "India successfully reached Mars through the Mars Orbiter Mission (Mangalyaan)."
+   },
+   "tip": {
+    "ta": "இந்தியாவின் மங்கள்யான் மற்றும் அமெரிக்காவின் Psyche திட்டங்களை முதலில் உறுதிசெய்து எளிதில் விடையைக் கண்டறியலாம்.",
+    "en": "Identify familiar missions like India's Mangalyan first to eliminate wrong options."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q113": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சிந்து சமவெளி நாகரிக தொல்பொருள் இடங்களை அகழ்வாராய்ச்சி செய்த அறிஞர்களைத் துல்லியமாகப் பொருத்த வேண்டும்.",
+    "en": "Match the Indus Valley sites with their respective archaeologists."
+   },
+   "explain": {
+    "ta": "சன்ஹீ-தாரோ இடத்தை என்.ஜி. மஜும்தாரும், லோத்தலை எஸ்.ஆர். ராவும், பனாவளியை பிஷ்டும், மிட்டாதலை சூரஜ் பானும் அகழ்வாராய்ச்சி செய்தனர். எனவே இந்த வரிசை சரியானதாகும்.",
+    "en": "Chanhu-Daro was excavated by N.G. Majumdar, Lothal by S.R. Rao, Banavali by Bisht, and Mitathal by Suraj Bhan."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்தத் தெரிவு லோத்தல் மற்றும் பனாவளி அகழ்வாராய்ச்சியாளர்களை மாற்றி அமைத்துள்ளது.",
+     "en": "This option incorrectly swaps the archaeologists for Lothal and Banavali."
+    },
+    "C": {
+     "ta": "இந்தத் தெரிவு அகழ்வாராய்ச்சியாளர்களின் எண்களைத் தலைகீழாகக் காட்டுகிறது.",
+     "en": "This option reverses the correct matching order."
+    },
+    "D": {
+     "ta": "இந்தத் தெரிவு அனைத்து இடங்களுக்கும் தவறான வரிசையைக் கொண்டுள்ளது.",
+     "en": "This option provides a completely incorrect sequence."
+    }
+   },
+   "rule": {
+    "ta": "சிந்துவெளி நாகரிகத்தின் முக்கிய இடங்களையும் அவற்றை அகழ்ந்தறிந்த தொல்லியல் அறிஞர்களையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the key Indus sites and their excavators."
+   },
+   "eg": {
+    "ta": "லோத்தல் பகுதியை அகழ்வாராய்ச்சி செய்தவர் எஸ்.ஆர். ராவ் ஆவார்.",
+    "en": "Lothal was excavated by S.R. Rao."
+   },
+   "tip": {
+    "ta": "லோத்தல் - எஸ்.ஆர். ராவ் என்பது மிகவும் பிரபலமான இணை, இதனை வைத்து விடையை உறுதிப்படுத்தலாம்.",
+    "en": "Use well-known pairs like Lothal and S.R. Rao as a anchor to find the answer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q120": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மக்கள் தொகை கணக்கீட்டில் பிறப்பு விகிதம் எதன் அடிப்படையில் கணக்கிடப்படுகிறது என்பதைப் பாருங்கள்.",
+    "en": "Look for the standard demographic definition of birth rate."
+   },
+   "explain": {
+    "ta": "பிறப்பு விகிதம் என்பது ஒரு குறிப்பிட்ட ஆண்டில் ஆயிரம் மக்கள் தொகையில் பிறந்த குழந்தைகளின் எண்ணிக்கையைக் குறிப்பதாகும். எனவே இது ஒரு குறிப்பிட்ட ஆண்டில் ஆயிரம் மக்கள் தொகையில் பிறந்தவர்களின் எண்ணிக்கை ஆகும்.",
+    "en": "Birth rate is defined as the number of live births per one thousand population in a given year."
+   },
+   "why": {
+    "A": {
+     "ta": "நூறு மக்கள் தொகையை அடிப்படையாகக் கொண்டு பிறப்பு விகிதம் கணக்கிடப்படுவதில்லை.",
+     "en": "Birth rate is not calculated per hundred population."
+    },
+    "B": {
+     "ta": "ஒரு இலட்ச மக்கள் தொகை என்பது இறப்பு விகிதம் அல்லது வேறு விகிதங்களுக்குப் பயன்படலாம், பிறப்பு விகிதத்திற்கு அல்ல.",
+     "en": "One lakh population is not the standard base for birth rate."
+    },
+    "C": {
+     "ta": "பத்து ஆண்டுகளில் கணக்கிடப்படுவது பிறப்பு விகிதம் அல்ல, இது ஒரு வருட கணக்காகும்.",
+     "en": "Birth rate is calculated annually, not over a period of ten years."
+    }
+   },
+   "rule": {
+    "ta": "பிறப்பு விகிதம் = (ஒரு ஆண்டில் பிறந்தவர்களின் எண்ணிக்கை / மொத்த மக்கள் தொகை) பெருக்கல் 1000.",
+    "en": "Birth rate is calculated per 1000 population in a given year."
+   },
+   "eg": {
+    "ta": "மக்கள்தொகை கணக்கெடுப்பில் ஆயிரம் பேருக்கு எத்தனை குழந்தைகள் பிறக்கின்றன என்பதே பிறப்பு விகிதமாகும்.",
+    "en": "Birth rate measures the number of births per 1,000 individuals."
+   },
+   "tip": {
+    "ta": "பிறப்பு மற்றும் இறப்பு விகிதங்கள் எப்போதுமே 'ஆயிரம் மக்கள் தொகை' அடிப்படையில்தான் கணக்கிடப்படும் என்பதை நினைவில் கொள்க.",
+    "en": "Always remember that birth and death rates are per thousand population."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q143": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இந்தியாவின் சமவெளிகள் மற்றும் அவற்றின் அமைவிடங்களைக் கூறும் வாக்கியங்களின் உண்மையைச் சரிபார்க்கவும்.",
+    "en": "Verify the geographical locations and boundaries of Indian plains in the statements."
+   },
+   "explain": {
+    "ta": "இராஜஸ்தான் சமவெளி ஆரவல்லி மலைத்தொடருக்கு மேற்கிலும், பஞ்சாப்-ஹரியானா சமவெளிகள் இந்திய பாலைவனத்தின் வடகிழக்கே அமைந்துள்ளன என்பதும் சரியானவை. கங்கைச் சமவெளி மிசோரம் வரை பரவவில்லை மற்றும் பிரம்மபுத்திரா சமவெளி மேகாலயாவில் அமையவில்லை.",
+    "en": "Statements (i) and (ii) correctly describe the Rajasthan and Punjab-Haryana plains, while (iii) and (iv) have incorrect geographical extents."
+   },
+   "why": {
+    "A": {
+     "ta": "மூன்றாவது மற்றும் நான்காவது கூற்றுகள் தவறானவை என்பதால் இந்தத் தெரிவு தவ्रாகும்.",
+     "en": "This option is incorrect because statements (iii) and (iv) are factually wrong."
+    },
+    "C": {
+     "ta": "மூன்றாவது கூற்று தவறானது என்பதால் இது சரியான விடையாக இருக்க முடியாது.",
+     "en": "This option is incorrect as statement (iii) is wrong."
+    },
+    "D": {
+     "ta": "நான்காவது கூற்று தவறானது என்பதால் இந்தத் தெரிவு ஏற்கத்தக்கதல்ல.",
+     "en": "This option is incorrect because statement (iv) is wrong."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவின் இயற்பியல் அமைவுகள் பற்றிய சமவெளி எல்லைகளைப் பாடநூல் கொண்டு தெளிவாக அறிய வேண்டும்.",
+    "en": "Understand the correct geographical boundaries of Indian physical divisions."
+   },
+   "eg": {
+    "ta": "கங்கைச் சமவெளி மேற்கில் யமுனை ஆற்றிலிருந்து கிழக்கில் வங்காளதேசம் வரை பரவியுள்ளது.",
+    "en": "The Ganga plain extends from Yamuna in the west to the border of Bangladesh in the east."
+   },
+   "tip": {
+    "ta": "மிகப்பெரிய எல்லைகளைக் குறிக்கும் மிசோரம் போன்ற மாநிலங்கள் சமவெளிகளின் எல்லையாக வராது என்பதை வைத்துத் தவற்றை அடையாளம் காணலாம்.",
+    "en": "Check extreme boundaries like states to spot incorrect geographical claims."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q144": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சதுப்பு நிலக்காடுகள் மற்றும் மாங்குரோவ் காடுகள் பற்றிய புவியியல் கூற்றுகளைச் சரிபார்க்கவும்.",
+    "en": "Check if both statements about tidal and mangrove forests are factually correct."
+   },
+   "explain": {
+    "ta": "கங்கை-பிரம்மபுத்திரா டெல்டா பகுதி உலகின் மிகப்பெரிய சதுப்பு நிலக்காட்டைக் கொண்டுள்ளது. மேலும், இச்சதுப்பு நிலக் காடுகளே 'மாங்குரோவ்' காடுகள் என்றும் அழைக்கப்படுகின்றன. எனவே இரண்டு கூற்றுகளும் சரியானவை.",
+    "en": "Both statements are correct as the Ganga-Brahmaputra delta contains the largest tidal/mangrove forests."
+   },
+   "why": {
+    "B": {
+     "ta": "இரண்டு கூற்றுகளும் உண்மையானவை என்பதால் இது தவறானது.",
+     "en": "This option is wrong because both statements are actually true."
+    },
+    "C": {
+     "ta": "இரண்டாவது கூற்றும் சரியானது என்பதால் இது தவறாகும்.",
+     "en": "This option is wrong because statement 2 is also true."
+    },
+    "D": {
+     "ta": "முதல் கூற்றும் சரியானது என்பதால் இது தவறாகும்.",
+     "en": "This option is wrong because statement 1 is also true."
+    }
+   },
+   "rule": {
+    "ta": "சதுப்பு நிலக்காடுகளும் மாங்குரோவ் காடுகளும் ஒரே காட்டின் வெவ்வேறு பெயர்களே ஆகும்.",
+    "en": "Tidal forests and mangrove forests refer to the same type of coastal vegetation."
+   },
+   "eg": {
+    "ta": "சுந்தரவனக் காடுகள் கங்கை-பிரம்மபுத்திரா டெல்டாவில் அமைந்துள்ள மிகப்பெரிய மாங்குரோவ் காடாகும்.",
+    "en": "The Sundarbans is the largest mangrove forest located in the Ganga-Brahmaputra delta."
+   },
+   "tip": {
+    "ta": "சதுப்பு நிலக் காடுகளும் மாங்குரோவ் காடுகளும் ஒன்றுதான் என்ற அடிப்படை அறிவைக் கொண்டு இரண்டு கூற்றுகளும் சரி என முடிவு செய்யலாம்.",
+    "en": "Remember that tidal forests are synonymous with mangrove forests."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q156": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தீபகற்ப இந்தியாவில் கிழக்கு நோக்கிப் பாயும் ஆறுகளுக்கு மாறாக மேற்கு நோக்கிப் பாய்ந்து அரபிக் கடலில் கலக்கும் ஆறுகளைப் பாருங்கள்.",
+    "en": "Identify the rivers of Peninsular India that flow from east to west into the Arabian Sea."
+   },
+   "explain": {
+    "ta": "பெரும்பாலான தீபகற்ப இந்திய ஆறுகள் மேற்கிலிருந்து கிழக்கே பாய்ந்து வங்காள விரிகுடாவில் கலக்கின்றன. ஆனால் நர்மதை, தபதி மற்றும் மாஹி ஆகிய ஆறுகள் கிழக்கிலிருந்து மேற்கு நோக்கிப் பாய்ந்து அரபிக் கடலில் கலக்கின்றன.",
+    "en": "Narmada, Tapti, and Mahi are the major peninsular rivers that flow from east to west into the Arabian Sea."
+   },
+   "why": {
+    "A": {
+     "ta": "மகாநதி, கோதாவரி மற்றும் கிருஷ்ணா ஆகிய மூன்று ஆறுகளும் கிழக்கே பாய்ந்து வங்காள விரிகுடாவில் கலப்பவை.",
+     "en": "Mahanadi, Godavari, and Krishna flow towards the east into the Bay of Bengal."
+    },
+    "B": {
+     "ta": "கிருஷ்ணா ஆறு கிழக்கு நோக்கிப் பாயும் ஆறு என்பதால் இந்தத் தெரிவு தவ्रாகும்.",
+     "en": "Krishna flows east, making this option incorrect."
+    },
+    "D": {
+     "ta": "மகாநதி மற்றும் கோதாவரி ஆகியவை கிழக்கு நோக்கிப் பாயும் ஆறுகள் ஆகும்.",
+     "en": "Mahanadi and Godavari flow towards the east."
+    }
+   },
+   "rule": {
+    "ta": "நர்மதையும் தபதியும் இந்தியப் பகுதியில் மேற்கு நோக்கிப் பாயும் மிக முக்கியமான இரு முக்கிய ஆறுகள் ஆகும்.",
+    "en": "Narmada and Tapti are the primary west-flowing rivers of Peninsular India."
+   },
+   "eg": {
+    "ta": "நர்மதை மற்றும் தபதி ஆறுகள் கிழக்கிலிருந்து மேற்கு நோக்கிப் பாய்ந்து காம்பே வளைகுடாவில் கலக்கின்றன.",
+    "en": "Narmada and Tapti empty into the Gulf of Khambhat after flowing westwards."
+   },
+   "tip": {
+    "ta": "கோதாவரி, கிருஷ்ணா, மகாநதி போன்ற பெரிய ஆறுகள் கிழக்கு நோக்கிப் பாய்பவை என்பதை வைத்து மேற்கு நோக்கிப் பாயும் நர்மதை, தபதியைத் தேர்ந்தெடுக்கலாம்.",
+    "en": "Exclude major east-flowing rivers like Godavari and Krishna to easily spot west-flowing rivers."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q191": {
+   "hint": {
+    "ta": "இந்திய நதிகளின் துணை ஆறுகள், குறிப்பாக வலது மற்றும் இடது கரை துணை நதிகள் பற்றிக் கேட்கும்போது சமச்சீர் புத்தகத்தில் உள்ள நதி அமைப்புகளை நினைவில் கொள்ளுங்கள்.",
+    "en": "When asked about river tributaries, recall the river systems given in the Samacheer textbook."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஹிரன் நதியானது நர்மதை ஆற்றின் வலது கரை துணை ஆறுகளில் ஒன்றாகும். இந்நதி நர்மதை நதியுடன் இணைந்து அதன் நீர் ஆதாரத்தை அதிகரிக்கிறது.",
+    "en": "According to the official key, Hiran is one of the right bank tributaries of the Narmada River."
+   },
+   "why": {
+    "B": {
+     "ta": "பர்னர் நதியானது நர்மதை ஆற்றின் வலது கரை துணை ஆறு அல்ல.",
+     "en": "Burhner is not the right bank tributary of the Narmada River."
+    },
+    "C": {
+     "ta": "பஞ்சர் நதியானது நர்மதை ஆற்றின் வலது கரை துணை ஆறு அல்ல.",
+     "en": "Banjar is not the right bank tributary of the Narmada River."
+    },
+    "D": {
+     "ta": "தவா நதியானது நர்மதை ஆற்றின் இடது கரை துணை ஆறுகளில் ஒன்றாகும்.",
+     "en": "Tawa is one of the left bank tributaries of the Narmada River."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய நதிகளின் முக்கியமான துணை நதிகள் மற்றும் அவற்றின் கரைகளைச் சமச்சீர் புத்தகப் பகுதி மூலம் தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Clearly study important river tributaries and their banks from Samacheer textbooks."
+   },
+   "eg": {
+    "ta": "காவிரி ஆற்றின் வலது மற்றும் இடது கரை துணை நதிகள் தேர்வில் அடிக்கடி கேட்கப்படும்.",
+    "en": "Right and left bank tributaries of Kaveri are frequently asked in exams."
+   },
+   "tip": {
+    "ta": "முக்கிய நதிகளின் துணை ஆறுகளை வலது கரை, இடது கரை எனப் பட்டியலிட்டுப் படியுங்கள்.",
+    "en": "List and study major river tributaries by right and left banks."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q193": {
+   "hint": {
+    "ta": "இந்தியாவில் உள்ள முக்கிய நகரங்களின் புனைப்பெயர்கள் மற்றும் தொழில்சார் சிறப்புப் பெயர்களைக் கவனமாகப் படியுங்கள்.",
+    "en": "Carefully read the nicknames and occupational titles of major cities in India."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி பெங்களூரு நகரம் இந்தியாவின் 'மின்னியல் தலைநகரம்' என அழைக்கப்படுகிறது. இங்கு ஏராளமான தகவல் தொழில்நுட்ப மற்றும் மின்னியல் நிறுவனங்கள் அமைந்துள்ளதால் இப்பெயர் பெற்றது.",
+    "en": "According to the official key, Bengaluru is known as the Electronic Capital of India due to its IT and electronics hub status."
+   },
+   "why": {
+    "A": {
+     "ta": "ஹைதராபாத் நகரம் ' முத்துக்களின் நகரம்' மற்றும் 'மருந்து தலைநகரம்' என அழைக்கப்படுகிறது.",
+     "en": "Hyderabad is known as the City of Pearls and Pharmaceutical Capital."
+    },
+    "C": {
+     "ta": "சென்னை நகரம் 'இந்தியாவின் மருத்துவத் தலைநகரம்' மற்றும் 'ஆசியாவின் டெட்ராய்ட்' என அழைக்கப்படுகிறது.",
+     "en": "Chennai is known as the Health Capital of India and Detroit of Asia."
+    },
+    "D": {
+     "ta": "டெல்லி இந்தியாவின் தேசியத் தலைநகரம் மற்றும் அரசியல் தலைநகரம் என அழைக்கப்படுகிறது.",
+     "en": "Delhi is known as the National Capital of India."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய நகரங்களின் புனைப்பெயர்களைப் பொருத்துக வகையில் கேட்கும்போது சரியான மாநிலம் மற்றும் நகரத்துடன் இணைக்க வேண்டும்.",
+    "en": "Match city nicknames with the correct locations when asked in matching questions."
+   },
+   "eg": {
+    "ta": "மும்பை இந்தியாவின் நிதித் தலைநகரம் (Financial Capital of India) என அழைக்கப்படுகிறது.",
+    "en": "Mumbai is known as the Financial Capital of India."
+   },
+   "tip": {
+    "ta": "இந்திய நகரங்களின் புனைப்பெயர்களை ஒருமுறை எழுதிப் பார்த்தால் தேர்வில் குழப்பம் வராது.",
+    "en": "Writing down city nicknames once will prevent confusion in exams."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q114": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பகத்சிங் தொடர்பான ஒவ்வொரு நிகழ்வின் ஆண்டும் சரியாக உள்ளதா எனப் பாருங்கள்.",
+    "en": "Check the exact years and facts associated with Bhagat Singh for each statement."
+   },
+   "explain": {
+    "ta": "1929-ஆம் ஆண்டு ஏப்ரல் 8-ஆம் நாள் பகத்சிங்கும் பி.கெ. தத்தும் மத்திய சட்டப்பேரவை மீது குண்டு வீசினர். சிட்டகாங் ஆயுதப்படைத் தாக்குதலை நடத்தியவர் சூர்யா சென்; இந்துஸ்தான் குடியரசுப் படையை 1924-இல் சச்சின் சன்யால் நிறுவினார்.",
+    "en": "On 8 April 1929, Bhagat Singh and B.K. Dutt threw a smoke bomb inside the Central Legislative Assembly, making statement (ii) correct while others are factually incorrect."
+   },
+   "why": {
+    "B": {
+     "ta": "சிட்டகாங் ஆயுதப்படைத் தாக்குதலை 1930-இல் நடத்தியவர் சூர்யா சென் ஆவார், பகத்சிங் அல்ல.",
+     "en": "Chittagong armouries raid was led by Surya Sen in 1930, not Bhagat Singh."
+    },
+    "C": {
+     "ta": "முதல் கூற்றில் உள்ள சிட்டகாங் தாக்குதல் தவறு என்பதால் இந்தத் தெரிவு தவறாகிறது.",
+     "en": "Since the first statement about the Chittagong attack is wrong, this option is incorrect."
+    },
+    "D": {
+     "ta": "இந்துஸ்தான் குடியரசுப் படையை 1924-இல் சச்சின் சன்யால் நிறுவினார், பகத்சிங் 1925-இல் அல்ல.",
+     "en": "Hindustan Republican Association was founded by Sachin Sanyal in 1924, not by Bhagat Singh in 1925."
+    }
+   },
+   "rule": {
+    "ta": "வரலாற்று நிகழ்வுகளின் சரியான ஆண்டுகள் மற்றும் தலைவர்களின் பெயர்களைத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Always remember the exact years and leaders associated with historical events."
+   },
+   "eg": {
+    "ta": "பகத்சிங், ராஜகுரு, சுகதேவ் ஆகியோர் மார்ச் 23, 1931-இல் தூக்கிலிடப்பட்டனர்.",
+    "en": "Bhagat Singh, Sukhdev and Rajguru were hanged on March 23, 1931."
+   },
+   "tip": {
+    "ta": "பகத்சிங் தொடர்பான கூட்டத்தில் 1929 சட்டமன்ற குண்டுவீச்சு மட்டுமே இத்தேர்வில் சரியானது.",
+    "en": "Remember that Bhagat Singh's Assembly bomb attack happened in 1929."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q139": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இந்தியத் தொல்லியல் துறையின் தொடக்க கால அதிகாரிகளைப் பற்றிப் பாருங்கள்.",
+    "en": "Look for the founding figures of the Archaeological Survey of India."
+   },
+   "explain": {
+    "ta": "அலெக்சாண்டர் கன்னிங்ஹாம் இந்தியத் தொல்லியல் ஆய்வுத் துறையின் முதல் ஆய்வாளராகப் பணியாற்றினார். இவரே இந்தியாவின் தொல்லியல் ஆய்வுகளுக்கு அடித்தளம் அமைத்தவர்.",
+    "en": "Alexander Cunningham served as the first surveyor of the Archaeological Survey of India, laying the foundation for Indian archaeology."
+   },
+   "why": {
+    "A": {
+     "ta": "சார்லஸ் மேசன் ஹரப்பா திா்ப்புகளை முதன்முதலில் கண்டறிந்தவர் ஆவார், தொல்லியல் துறையின் முதல் ஆய்வாளர் அல்ல.",
+     "en": "Charles Mason explored early sites like Harappa, but was not the first ASI surveyor."
+    },
+    "B": {
+     "ta": "அலெக்சாண்டர் பர்ன்ஸ் சிந்து சமவெளிப் பகுதிக்கு அருகில் பயணம் செய்த பிரிட்டிஷ் அதிகாரி ஆவார்.",
+     "en": "Alexander Burnes was a traveler and political officer, not the ASI surveyor."
+    },
+    "D": {
+     "ta": "சர் ஜான் மார்ஷல் பின்னர் தொல்லியல் துறையின் தலைவராகப் பணியாற்றினார், முதல் ஆய்வாளர் அல்ல.",
+     "en": "Sir John Marshal served as the Director-General of ASI later, not the first surveyor."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியத் தொல்லியல் ஆய்வுத்துறை (ASI) 1861-இல் அலெக்சாண்டர் கன்னிங்ஹாம் என்பவரால் தொடங்கப்பட்டது.",
+    "en": "The Archaeological Survey of India (ASI) was founded in 1861 with Alexander Cunningham as its first surveyor."
+   },
+   "eg": {
+    "ta": "அலெக்சாண்டர் கன்னிங்ஹாம் 'இந்தியத் தொல்லியல் ஆய்வின் தந்தை' என்று அழைக்கப்படுகிறார்.",
+    "en": "Alexander Cunningham is known as the Father of Indian Archaeology."
+   },
+   "tip": {
+    "ta": "தொல்லியல் துறை என்றாலே அலெக்சாண்டர் கன்னிங்ஹாம் ஞாபகம் வர வேண்டும்.",
+    "en": "Associate Archaeology Survey with Alexander Cunningham."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q141": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு வரலாற்றுச் சின்னத்தையும் கட்டிய மன்னர்களைச் சரிபார்த்துக் கொள்ளுங்கள்.",
+    "en": "Verify the rulers associated with each historical monument."
+   },
+   "explain": {
+    "ta": "பட்டடக்கல் வாதாபி சாளுக்கியராலும், எல்லோராவின் குகைகள் ராஷ்டிரகூடர்களாலும், மாமல்லபுரம் பல்லவ மன்னர் முதலாம் நரசிம்மவர்மனால் கட்டப்பட்டன. எனவே 1, 3, 4 சரியான இணைகளாகும்.",
+    "en": "Pattadakkal, Ellora caves, and Mamallapuram are correctly matched with their respective dynasties, making 1, 3, and 4 correct."
+   },
+   "why": {
+    "B": {
+     "ta": "எலிபெண்டா குகைகள் அசோகரால் அல்ல, ராஷ்டிரகூடர்களால் கட்டப்பட்டவை என்பதால் இது தவறானது.",
+     "en": "Elephanta caves were built by Rashtrakutas, not Ashoka, making this option wrong."
+    },
+    "C": {
+     "ta": "எலிபெண்டா குகைகள் அசோகர் எனக் குறிப்பிட்டுள்ளதால் இந்த வரிசை தவறாகிறது.",
+     "en": "This option includes the wrong pair regarding Elephanta caves."
+    },
+    "D": {
+     "ta": "எலிபெண்டா குகைகள் அசோகர் என்ற தவறான இணை இதில் இடம்பெற்றுள்ளது.",
+     "en": "This option also contains the incorrect pair for Elephanta caves."
+    }
+   },
+   "rule": {
+    "ta": "கட்டடக் கலை மற்றும் வம்சங்களின் சரியான பொருத்தங்களை நன்கு படித்துக்கொள்ள வேண்டும்.",
+    "en": "Memorize the correct pairings of architectural sites and ruling dynasties."
+   },
+   "eg": {
+    "ta": "காஞ்சி கைலாசநாதர் கோயிலை கட்டியவர் இரண்டாம் நரசிம்மவர்மன் (ராஜசிம்மன்).",
+    "en": "Kanchi Kailasanatha temple was built by Narasimhavarman II."
+   },
+   "tip": {
+    "ta": "எலிபெண்டா குகைகள் ராஷ்டிரகூடர்கள் என்பதை நினைவில் கொண்டால் எளிதில் விடையளிக்கலாம்.",
+    "en": "Remember that Elephanta caves belong to the Rashtrakutas."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q142": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இந்தியாவின் மதச்சார்பின்மை மற்றும் தேசியக் கண்ணோட்டம் பற்றிய நேருவின் கருத்துகளைப் பாருங்கள்.",
+    "en": "Look for Nehru's vision of India as a nation of diverse faiths and secular outlook."
+   },
+   "explain": {
+    "ta": "இந்தியா பல்வேறு நம்பிக்கைகளைச் சமமாகப் போற்றி மதிக்கப்படும் இடமாக இருப்பதோடு ஒரே தேசியக் கண்ணோட்டத்தைக் கொண்டிருக்கும் என்று கூறியவர் பண்டித ஜவஹர்லால் நேரு ஆவார்.",
+    "en": "Jawaharlal Nehru made this famous statement emphasizing India's secular and unified national outlook."
+   },
+   "why": {
+    "A": {
+     "ta": "மகாத்மா காந்தி அகிம்சை மற்றும் கிராம சுயாட்சி பற்றி அதிகளவில் வலியுறுத்தினார்.",
+     "en": "Mahatma Gandhi predominantly emphasized non-violence and village swaraj."
+    },
+    "C": {
+     "ta": "டாக்டர் பி.ஆர். அம்பேத்கர் சமூக நீதி மற்றும் இந்திய அரசியல் சட்டம் குறித்துப் பேசினார்.",
+     "en": "Dr. B.R. Ambedkar focused on social justice and the Indian Constitution."
+    },
+    "D": {
+     "ta": "சர் சையது அகமது கான் அலிகார் இயக்கத்தைத் தொடங்கியவர் மற்றும் முஸ்லிம்களின் கல்விக்காகப் பாடுபட்டவர்.",
+     "en": "Sir Syed Ahmed Khan founded the Aligarh movement for Muslim education."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவின் பன்முகத்தன்மை மற்றும் மதச்சார்பின்மை பற்றிக் குறிப்பிடும்போது பெரும்பாலும் நேருவின் கூற்றாக இருக்கும்.",
+    "en": "Quotes on India's secularism and unity in diversity are usually attributed to Jawaharlal Nehru."
+   },
+   "eg": {
+    "ta": "நேரு இந்தியாவை நவீன இந்தியாவின் கோயில்கள் என்று அணைகளைக் குறிப்பிட்டார்.",
+    "en": "Nehru referred to dams as the temples of modern India."
+   },
+   "tip": {
+    "ta": "தேசியக் கண்ணோட்டம் மற்றும் பன்முகத்தன்மை என்றால் நேருவை நினைவில் கொள்க.",
+    "en": "Link national outlook and secularism quotes to Jawaharlal Nehru."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q164": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சிவாஜியின் வாழ்க்கை வரலாற்று நிகழ்வுகள் மற்றும் ஆண்டுகளைச் சரிபார்க்கவும்.",
+    "en": "Check the historical timeline and facts of Shivaji's life."
+   },
+   "explain": {
+    "ta": "சிவாஜியின் படைகள் சூரத்தை முதன்முதலில் 1664-ஆம் ஆண்டில்தான் சூறையாடின, 1665-இல் அல்ல. மேலும் முடிசூட்டு விழா ராய்காட் கோட்டையில் நடந்தது; எனவே இது தேர்வில் தவறான கூற்றாக ஏற்கப்பட்டது.",
+    "en": "Shivaji's forces plundered Surat in 1664, not 1665, making the statement regarding 1665 factually incorrect."
+   },
+   "why": {
+    "A": {
+     "ta": "தாதாஜி கொண்டதேவ் சிவாஜியின் பாதுகாவலர் மற்றும் ஆசிரியர் ஆவார், இது சரியான கூற்று.",
+     "en": "Dadaji Kondadev was indeed Shivaji's guardian, which is a correct statement."
+    },
+    "D": {
+     "ta": "சிவாஜி 1674-இல் சத்ரபதி என்ற பட்டத்துடன் முடிசூட்டிக் கொண்டார் என்பது சரியான கூற்று.",
+     "en": "Shivaji assumed the title of Chhatrapati and was crowned in 1674."
+    }
+   },
+   "rule": {
+    "ta": "மராட்டிய வரலாற்றில் சிவாஜியின் முக்கிய போர்கள் மற்றும் ஆண்டுகளைத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the exact dates of Shivaji's military campaigns like the Surat raids."
+   },
+   "eg": {
+    "ta": "சிவாஜி சூரத்தை முதன்முதலில் 1664-இல் கைப்பற்றிச் சூறையாடினார்.",
+    "en": "Shivaji plundered Surat for the first time in 1664."
+   },
+   "tip": {
+    "ta": "சூரத் சூரையாடப்பட்ட ஆண்டு 1664 என்பதை மறந்துவிடாதீர்கள்.",
+    "en": "Always remember the Surat plunder happened in 1664."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q167": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட பத்தியில் உள்ள வரிகளை மட்டுமே அடிப்படையாகக் கொண்டு விடையளிக்க வேண்டும்.",
+    "en": "Read the given passage carefully and choose the option directly supported by it."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட பத்தியின்படி, தமிழர்களின் கப்பல் கட்டும் பாரம்பரிய அறிவை மீட்டெடுப்பதே சுதேசி ஸ்டீம் நேவிகேஷன் கம்பெனியை உருவாக்கியதன் முக்கிய நோக்கமாகும்.",
+    "en": "According to the given passage, restoring Tamils' knowledge in naval tradition was the primary objective of creating the company."
+   },
+   "why": {
+    "A": {
+     "ta": "நிறுவனம் நல்ல வருமானம் ஈட்டியது என்று பத்தியில் குறிப்பிடப்படவில்லை.",
+     "en": "The passage does not state that the Navigation Company earned a good income."
+    },
+    "B": {
+     "ta": "கடல் வணிகத்தில் பிரிட்டிஷ் ஏகபோகத்தை நிறுத்தியது என்பது பத்தியின் கருத்திற்கு மாறானது.",
+     "en": "The statement about stopping British monopoly is not the focus of this specific passage."
+    },
+    "C": {
+     "ta": "வ.உ.சி மற்றவர்களைச் சார்ந்து இருந்தார் என்பது பத்தியில் கூறப்படவில்லை.",
+     "en": "The passage does not state that V.O.C. was dependent on others."
+    }
+   },
+   "rule": {
+    "ta": "பத்தி அடிப்படையிலான வினாக்களுக்கு சொந்த அறிவை விட பத்தியில் உள்ள தகவலே இறுதி.",
+    "en": "For comprehension questions, base your answer strictly on the provided passage."
+   },
+   "eg": {
+    "ta": "வ.உ.சிதம்பரனார் தூத்துக்குடியில் சுதேசி கப்பல் நிறுவனத்தைத் தொடங்கினார்.",
+    "en": "V.O. Chidambaram Pillai started the Swadeshi Steam Navigation Company in Tuticorin."
+   },
+   "tip": {
+    "ta": "பத்தியில் உள்ள வரிகளைத் தேடிச் சரியான விடையைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Match the option wording directly with the given passage."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q168": {
+   "hint": {
+    "ta": "குப்தர்களின் காலத்தில் நிலங்களின் பெயர்களைக் கொண்டு அவற்றின் தன்மையை அறிந்துகொள்ளும் பொருத்துக வினா இது. ஒவ்வொரு நில வகையின் பெயரையும் அதற்கான பொருளுடன் சரியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match the types of land during the Gupta period with their respective classifications."
+   },
+   "explain": {
+    "ta": "குப்தர் காலத்தில் சேத்ரா என்பது வேளாண்மைக்கு உகந்த நிலமாகவும், கிலோ என்பது தரிசு நிலமாகவும் அழைக்கப்பட்டது. அப்ர கதா என்பது வன நிலமாகவும், வஸ்தி என்பது குடியிருப்பதற்கு உகந்த நிலமாகவும் வகைப்படுத்தப்பட்டது.",
+    "en": "Kshetra is cultivable land, Khila is waste land, Aprakata is jungle land, and Vasti is habitable land."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை நிலங்களின் உண்மையான வகைகளுடன் பொருந்தவில்லை.",
+     "en": "This sequence does not match the actual land classifications."
+    },
+    "B": {
+     "ta": "இது அனைத்து நில வகைகளையும் சரியான வரிசையில் சுட்டவில்லை.",
+     "en": "This does not indicate all land types in the correct order."
+    },
+    "D": {
+     "ta": "இந்த வரிசை முறையும் தவறான பொருத்தம் ஆகும்.",
+     "en": "This sequence is also an incorrect match."
+    }
+   },
+   "rule": {
+    "ta": "குப்தர் கால நில வகைப்பாடுகளைச் சரியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the land classifications of the Gupta period correctly."
+   },
+   "eg": {
+    "ta": "அப்ரகதா நிலம் என்பது காடுகளைக் குறிக்கும் வன நிலமாகும்.",
+    "en": "Aprakata land refers to jungle or forest land."
+   },
+   "tip": {
+    "ta": "சேத்ரா என்றால் சாகுபடி (வேளாண்மை) என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that Kshetra relates to cultivation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q188": {
+   "hint": {
+    "ta": "குப்தர்களின் அவையை அலங்கரித்த அறிஞர்களையும் அவர்களின் சிறப்புகளையும் சரியாகப் பொருத்த வேண்டும். ஒவ்வொரு அறிஞரின் துறையைச் சரிபார்த்து விடையைக் கண்டறியுங்கள்.",
+    "en": "Match the scholars of the Gupta period with their respective fields."
+   },
+   "explain": {
+    "ta": "வராகமிகிரர் ஒரு வானியல் அறிஞர் ஆவார், காளிதாசர் புகழ் பெற்ற சமஸ்கிருத புலவர் ஆவார். அமரசிம்ஹா அகராதியியல் ஆசிரியராகவும், தன்வந்த்ரி சிறந்த மருத்துவராகவும் திகழ்ந்தனர்.",
+    "en": "Varahamihira is an astronomer, Kalidasa is a Sanskrit poet, Amarasimha is a lexicographer, and Dhanvantri is a physician."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை அமரசிம்ஹா மற்றும் தன்வந்த்ரி ஆகியோரின் பொருத்தங்களை மாற்றி அமைத்துள்ளது.",
+     "en": "This sequence interchanges the matches of Amarasimha and Dhanvantri."
+    },
+    "B": {
+     "ta": "இது காளிதாசர் மற்றும் அமரசிம்ஹா ஆகியோரின் துறைகளை மாற்றிக் காட்டுகிறது.",
+     "en": "This misplaces the fields of Kalidasa and Amarasimha."
+    },
+    "D": {
+     "ta": "இந்த வரிசை அறிஞர்களின் உண்மையான சிறப்புகளுடன் பொருந்தவில்லை.",
+     "en": "This sequence does not match the actual specialties of the scholars."
+    }
+   },
+   "rule": {
+    "ta": "குப்த கால நவரத்தினங்கள் மற்றும் அறிஞர்களின் பங்களிப்புகளை அறிந்து கொள்ள வேண்டும்.",
+    "en": "Know the contributions and fields of the scholars in the Gupta period."
+   },
+   "eg": {
+    "ta": "தன்வந்த்ரி என்பவர் குப்தர் காலத்தின் சிறந்த மருத்துவ அறிஞர் ஆவார்.",
+    "en": "Dhanvantri was a prominent physician of the Gupta period."
+   },
+   "tip": {
+    "ta": "தன்வந்த்ரி என்றாலே மருத்துவம் என்று எளிதில் நினைவில் கொள்ளலாம்.",
+    "en": "Dhanvantri is easily associated with medicine."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q189": {
+   "hint": {
+    "ta": "இந்தியாவில் கிறிஸ்தவ மதத்தின் வருகை மற்றும் அதன் தொடக்க கால வரலாற்றைக் குறிக்கும் வினா இது. இயேசுவின் சீடர்களில் இந்தியாவில் காலடி பதித்தவர் யார் என்பதை யோசித்துப் பாருங்கள்.",
+    "en": "Identify the disciple of Jesus who brought Christianity to India in the first century AD."
+   },
+   "explain": {
+    "ta": "கி.பி. முதலாம் நூற்றாண்டில் (கி.பி. 52-ல்) இயேசுவின் சீடரான புனித தாமஸ் என்பவரால் இந்தியாவில் கிறிஸ்தவ மதம் கொண்டு வரப்பட்டது. இவர் கேரளாவில் உள்ள கொடுங்கல்லூர் பகுதியில் வந்து இறங்கினார்.",
+    "en": "Christianity was brought to India by Saint Thomas, an apostle of Jesus, in the first century A.D. (52 A.D.)."
+   },
+   "why": {
+    "A": {
+     "ta": "புனித பீட்டர் ரோமில் தனது பணியைச் செய்தவர், இந்தியாவில் கிடையாது.",
+     "en": "Saint Peter operated in Rome, not in India."
+    },
+    "B": {
+     "ta": "புனித ஜான் இந்தியாவில் கிறிஸ்தவத்தைப் பரப்பியதாக வரலாறு கூறவில்லை.",
+     "en": "Saint John is not historically credited with bringing Christianity to India."
+    },
+    "C": {
+     "ta": "புனித மேத்யூ வேறு பகுதிகளில் தனது போதனைகளை மேற்கொண்டவர்.",
+     "en": "Saint Matthew preached in other regions."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவில் கிறிஸ்தவ மதம் கி.பி. 52-ல் புனித தாமஸால் பரப்பப்பட்டது.",
+    "en": "Christianity was introduced to India by Saint Thomas in 52 A.D."
+   },
+   "eg": {
+    "ta": "சென்னையில் உள்ள சாந்தோம் தேவாலயம் புனித தாமஸுடன் தொடர்புடையது.",
+    "en": "Santhome Church in Chennai is associated with Saint Thomas."
+   },
+   "tip": {
+    "ta": "தாமஸ் - தமிழ்நாடு/இந்தியா மற்றும் கிறிஸ்தவம் என்பதை இணைத்துக்கொள்ளுங்கள்.",
+    "en": "Associate Thomas with the arrival of Christianity in India."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q195": {
+   "hint": {
+    "ta": "சுதந்திரத்திற்குப் பின் இந்தியாவில் கல்வி வளர்ச்சிக்காக உருவாக்கப்பட்ட கல்விக் கொள்கைகளில் முதலாவது எப்போது கொண்டு வரப்பட்டது என்பதைப் பற்றிய வினா.",
+    "en": "Recall the year in which the first National Education Policy of independent India was formulated."
+   },
+   "explain": {
+    "ta": "கோத்தாரி கல்விக்குழுவின் (1964-1966) பரிந்துரைகளின் அடிப்படையில், இந்தியாவில் முதல் தேசிய கல்விக் கொள்கையானது 1968 ஆம் ஆண்டு உருவாக்கப்பட்டது.",
+    "en": "Based on the Kothari Commission recommendations, the first National Education Policy in India was framed in 1968."
+   },
+   "why": {
+    "A": {
+     "ta": "1964 என்பது கோத்தாரி கல்விக்குழு அமைக்கப்பட்ட ஆண்டாகும்.",
+     "en": "1964 is the year the Kothari Commission was appointed."
+    },
+    "B": {
+     "ta": "1946 என்பது அரசியலமைப்பு நிர்ணய சபை அமைக்கப்பட்ட காலமாகும்.",
+     "en": "1946 is the period when the Constituent Assembly was formed."
+    },
+    "D": {
+     "ta": "1986 என்பது இரண்டாவது தேசிய கல்விக் கொள்கை வெளியிடப்பட்ட ஆண்டாகும்.",
+     "en": "1986 is the year of the second National Education Policy."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவின் முதல் தேசிய கல்விக் கொள்கை 1968-ல் அமலுக்கு வந்தது.",
+    "en": "India's first National Education Policy was enacted in 1968."
+   },
+   "eg": {
+    "ta": "சுதந்திர இந்தியாவின் இரண்டாவது தேசிய கல்விக் கொள்கை 1986-ல் கொண்டு வரப்பட்டது.",
+    "en": "The second National Education Policy of independent India was introduced in 1986."
+   },
+   "tip": {
+    "ta": "கோத்தாரி குழு (1964) பரிந்துரை -> முதல் கல்விக் கொள்கை (1968).",
+    "en": "Kothari Commission (1964) led to the first NEP in 1968."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q118": {
+   "hint": {
+    "ta": "இந்தியாவில் பொருளாதாரத் திட்டங்களை அறிமுகப்படுத்தப்பட்ட ஆண்டுகளின் அடிப்படையில் கால வரிசைப்படுத்த வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Look at the chronological order of economic planning initiatives in India based on their launch years."
+   },
+   "explain": {
+    "ta": "விஸ்வேஸ்வரய்யா திட்டம் 1934 ஆம் ஆண்டும், ஜவஹர்லால் நேரு திட்டம் 1938 ஆம் ஆண்டும், பாம்பே திட்டம் மற்றும் காந்தியத் திட்டம் இரண்டும் 1944 ஆம் ஆண்டும் வெளியிடப்பட்டன. இவர்களின் கால வரிசைப்படி (iv), (iii), (ii), (i) என்பதே சரியான முறையாகும்.",
+    "en": "Vishveshwarya Plan (1934), Jawaharlal Nehru Plan (1938), Bombay Plan (1944), and Gandhian Plan (1944) lead to the chronological order (iv), (iii), (ii), (i)."
+   },
+   "why": {
+    "A": {
+     "ta": "காந்தியத் திட்டம் (1944) முதலில் வரவில்லை; விஸ்வேஸ்வரய்யா திட்டமே (1934) முதலில் வந்தது.",
+     "en": "Gandhian Plan (1944) did not come first; Vishveshwarya Plan (1934) is the earliest."
+    },
+    "C": {
+     "ta": "பாம்பே திட்டம் (1944) மற்றும் ஜவஹர்லால் நேரு திட்டம் (1938) ஆகியவற்றின் கால வரிசை இதில் மாற்றமாக உள்ளது.",
+     "en": "The chronological order of Bombay Plan and Jawaharlal Nehru Plan is misplaced here."
+    },
+    "D": {
+     "ta": "பாம்பே திட்டம் (1944) முதலில் தொடங்கப்படவில்லை, விஸ்வேஸ்வரய்யா திட்டமே முதலில் தொடங்கப்பட்டது.",
+     "en": "Bombay Plan (1944) did not start first; Vishveshwarya Plan started earliest among them."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியப் பொருளாதாரத் திட்டங்களின் காலங்களை நினைவில் கொள்ள வேண்டும்: விஸ்வேஸ்வரய்யா (1934), நேரு (1938), பாம்பே (1944), காந்தியத் திட்டம் (1944).",
+    "en": "Remember the plan years: Vishveshwarya (1934), Nehru (1938), Bombay (1944), Gandhian (1944)."
+   },
+   "eg": {
+    "ta": "தேசிய திட்டக்குழு எந்த ஆண்டு அமைக்கப்பட்டது? 1950.",
+    "en": "In which year was the National Planning Commission set up? 1950."
+   },
+   "tip": {
+    "ta": "திட்டங்களின் ஆண்டுகளை வரிசைப்படுத்த முதல் எழுத்துக்களைக் கொண்டு சுருக்க வழி உருவாக்கிக் கொள்ளுங்கள்.",
+    "en": "Create a mnemonic for the years of economic plans to remember easily."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q119": {
+   "hint": {
+    "ta": "குறிப்பிட்ட நிதியாண்டில் இந்திய அரசின் வருவாய் மூலங்களின் சதவீத இறங்கு வரிசையைக் கவனிக்க வேண்டும்.",
+    "en": "Look at the descending order of the percentage share of revenue sources of the Government of India for the given fiscal year."
+   },
+   "explain": {
+    "ta": "2020-21 ஆம் நிதியாண்டின்படி இந்திய அரசின் வருவாய் மூலங்களில் GST முதலிடத்திலும், அதனைத் தொடர்ந்து நிறுவன வரி, தனி வருமான வரி, தீர்வை மற்றும் சுங்க வரி என்பவை இறங்கு வரிசையில் அமைகின்றன.",
+    "en": "According to the 2020-21 fiscal year, GST contributed highest, followed by corporate tax, personal income tax, excise, and customs in descending order."
+   },
+   "why": {
+    "A": {
+     "ta": "இது முறையான வருவாய் இறங்கு வரிசைப் பங்களிப்புடன் பொருந்தவில்லை.",
+     "en": "This does not match the actual descending order of revenue contribution."
+    },
+    "B": {
+     "ta": "தனி வருமான வரி முதலாவதாகக் குறிப்பிடப்பட்டுள்ளது, இது தவறான வரிசையாகும்.",
+     "en": "Personal income tax is incorrectly placed as the first item."
+    },
+    "D": {
+     "ta": "நிறுவன வரி முதலிடத்தில் இருப்பதாகக் கூறப்பட்டுள்ளது, ஆனால் தரவுகளின்படி ஜிஎஸ்டி முதலிடமாகும்.",
+     "en": "Corporate tax is incorrectly placed first instead of GST."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய அரசின் வரி வருவாயில் ஜிஎஸ்டி மற்றும் நிறுவன வரி ஆகியவை முக்கிய பங்கு வகிக்கின்றன.",
+    "en": "GST and corporate tax form the major shares of the tax revenue of the Government of India."
+   },
+   "eg": {
+    "ta": "இந்தியாவில் ஜிஎஸ்டி எப்போது அறிமுகப்படுத்தப்பட்டது? 2017 ஜூலை 1.",
+    "en": "When was GST introduced in India? July 1, 2017."
+   },
+   "tip": {
+    "ta": "வருவாய் மூலங்களை ஜிஎஸ்டி மற்றும் கார்ப்பரேட் வரி முன்னுரிமை கொண்டு நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the revenue sources starting with GST and Corporate tax at the top."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q145": {
+   "hint": {
+    "ta": "தமிழ்நாட்டில் கல்வித்துறை சார்பில் வழங்கப்படும் விருதுகளையும் அவற்றின் நோக்கங்களையும் சரியாகப் பொருத்த வேண்டும்.",
+    "en": "Match the awards given by the department of education in Tamil Nadu with their respective objectives."
+   },
+   "explain": {
+    "ta": "பெருந்தலைவர் காமராசர் விருது சிறந்த செயல்பாட்டிற்காகவும், புதுமைப் பள்ளி விருது சமூக மற்றும் பொருளாதார ரீதியாக பின்வாங்கிய மாணவர்களை மேம்படுத்துவதற்காகவும் வழங்கப்படுகிறது. கனவு ஆசிரியர் விருது பள்ளிச் சேர்க்கையை அதிகரிப்பதற்கும், ராதா கிருஷ்ணன் விருது ஆசிரியர்ப் பணியில் சிறந்து விளங்குவதற்கும் வழங்கப்படுகிறது.",
+    "en": "Perumthalaivar Kamarajar Award is for top performers, Puthumai Palli Award for marginalized students, Kanavu Asiriyar Award for increasing enrollment, and Radhakrishnan Award for best teachers."
+   },
+   "why": {
+    "A": {
+     "ta": "விருப்பத்தேர்வு A இல் கொடுக்கப்பட்டுள்ள இலக்கப் பொருத்தம் சரியான ஜோடிகளுடன் ஒத்துப்போகவில்லை.",
+     "en": "The number sequence given in does not match the correct pairs."
+    },
+    "C": {
+     "ta": "விருப்பத்தேர்வு C இல் உள்ள வரிசை அனைத்து விருதுகளின் உண்மையான நோக்கங்களுடன் மாறுபடுகிறது.",
+     "en": "The sequence in differs from the actual objectives of the awards."
+    },
+    "D": {
+     "ta": "விருப்பத்தேர்வு D இன் வரிசை மாற்றங்களால் சரியான பொருத்தத்தைத் தரவில்லை.",
+     "en": "gives an incorrect matching sequence due to swapped values."
+    }
+   },
+   "rule": {
+    "ta": "கல்வித் துறை விருதுகளும் அவற்றின் சிறப்பு நோக்கங்களும் தனித்துவமானவை.",
+    "en": "Education department awards and their specific objectives must be memorized correctly."
+   },
+   "eg": {
+    "ta": "டாக்டர் ராதா கிருஷ்ணன் விருது யாருக்கு வழங்கப்படுகிறது? சிறந்த ஆசிரியர்களுக்கு.",
+    "en": "To whom is the Dr. Radhakrishnan Award given? To best performing teachers."
+   },
+   "tip": {
+    "ta": "ராதா கிருஷ்ணன் விருது = ஆசிரியர், காமராசர் விருது = சிறந்த செயல்பாடு என்பதை மனதில் கொள்ளுங்கள்.",
+    "en": "Remember Radhakrishnan Award for teachers and Kamarajar Award for best performance."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q146": {
+   "hint": {
+    "ta": "தமிழ்நாட்டின் புவிசார் குறியீடு பெற்ற பாரம்பரியப் பொருட்களையும் அவை தயாரிக்கப்படும் இடங்களையும் இணைக்க வேண்டும்.",
+    "en": "Match the GI-tagged traditional products of Tamil Nadu with their respective production places."
+   },
+   "explain": {
+    "ta": "மஞ்சள் ஈரோடு மாவட்டத்திற்கும், பாய் பத்தமடை கிராமத்திற்கும் புகழ்பெற்றது. வண்ணப்பூச்சு (ஓவியம்) தஞ்சாவூரையும், சுங்குடி சேலைகள் மதுரையையும் குறிக்கின்றன.",
+    "en": "Turmeric is from Erode, mat from Pattamadai, painting from Thanjavur, and Sungudi from Madurai."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை பொருட்களின் உண்மையான இடப் பொருத்தத்துடன் பொருந்தவில்லை.",
+     "en": "This order does not match the actual places of origin for the products."
+    },
+    "C": {
+     "ta": "பொருட்கள் மற்றும் இடங்களின் குறியீடுகள் மாற்றிக் கொடுக்கப்பட்டுள்ளன.",
+     "en": "The indices for products and places are incorrectly interchanged."
+    },
+    "D": {
+     "ta": "இடங்களின் வரிசை மாறியிருப்பதால் இது தவறான பொருத்தமாகும்.",
+     "en": "This is an incorrect match due to shuffled place values."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டின் புவிசார் குறியீடு (GI tag) பெற்ற பொருட்களையும் அதன் இடங்களையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Tamil Nadu GI tag products and their specific towns are important static GK."
+   },
+   "eg": {
+    "ta": "பத்தமடை பாய் எந்த மாவட்டத்தைச் சேர்ந்தது? திருநெல்வேலி.",
+    "en": "Pattamadai mat belongs to which district? Tirunelveli."
+   },
+   "tip": {
+    "ta": "பத்தமடை என்றாலே பாய், ஈரோடு என்றாலே மஞ்சள் என்று நினைவில் வையுங்கள்.",
+    "en": "Associate Pattamadai with mats and Erode with turmeric instantly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q152": {
+   "hint": {
+    "ta": "தமிழ்நாட்டின் பல்லமுனையம் சரக்குப் போக்குவரத்துப் பூங்கா திட்டத்தில் பங்குபெறாத நிறுவனத்தைக் கண்டறிய வேண்டும்.",
+    "en": "Identify the organization that is not a direct stakeholder in Tamil Nadu's First Multi-Modal Logistics Park."
+   },
+   "explain": {
+    "ta": "சென்னையில் அமைக்கப்பட்டுள்ள முதலாவது பல்லமுனையம் சரக்குப் போக்குவரத்துப் பூங்கா அமைப்பில் சென்னைத் துறைமுகக் கழகம், TIDCO மற்றும் நேஷனல் ஹைவேஸ் லாஜிஸ்டிக்ஸ் மேனேஜ்மெண்ட் லிமிடெட் ஆகியவை பங்குதாரர்கள் ஆவர். சென்னை பெருநகர வளர்ச்சிக் குழுமம் (CMDA) இத்திட்டத்தின் நேரடிப் பங்களிப்பாளர் அல்ல.",
+    "en": "Chennai Port Authority, TIDCO, and NHLML are partners in the Multi-Modal Logistics Park, whereas Chennai Metropolitan Development Authority (CMDA) is not a direct partner."
+   },
+   "why": {
+    "A": {
+     "ta": "சென்னைத் துறைமுகக் கழகம் இத்திட்டத்தில் நேரடிப் பங்களிப்பைக் கொண்டுள்ள நிறுவனமாகும்.",
+     "en": "Chennai Port Authority is a direct stakeholder in this logistics park project."
+    },
+    "B": {
+     "ta": "தமிழ்நாடு தொழில் வளர்ச்சி நிறுவனம் (TIDCO) இத்திட்டத்தின் முக்கிய பங்களிப்பாளர் ஆகும்.",
+     "en": "Tamilnadu Industrial Development Corporation (TIDCO) is a key participant in this initiative."
+    },
+    "C": {
+     "ta": "நேஷனல் ஹைவேஸ் லாஜிஸ்டிக்ஸ் மேனேஜ்மெண்ட் லிமிடெட் இத்திட்டத்தைச் செயல்படுத்துவதில் பங்கு வகிக்கிறது.",
+     "en": "National Highways Logistics Management Limited is involved in executing this project."
+    }
+   },
+   "rule": {
+    "ta": "முக்கிய உட்கட்டமைப்புத் திட்டங்களில் பங்கேற்கும் நிறுவனங்களைச் Samacheer பாடத்திட்டம் மற்றும் நடப்பு நிகழ்வுகள் மூலம் அறிந்து கொள்ள வேண்டும்.",
+    "en": "Key stakeholders in infrastructure projects should be noted from current affairs."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் முதல் பல்லமுனையம் சரக்குப் போக்குவரத்துப் பூங்கா எங்கு அமைக்கப்பட்டது? சென்னை.",
+    "en": "Where was India's first Multi-Modal Logistics Park established? Chennai."
+   },
+   "tip": {
+    "ta": "சிஎம்டிஏ (CMDA) நகர திட்டமிடல் அமைப்பு, இது சரக்கு பூங்கா நேரடி பங்குதாரர் அல்ல.",
+    "en": "CMDA is an urban planning body, not a direct partner of this specific logistics park."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q187": {
+   "hint": {
+    "ta": "நுகர்வோர் பாதுகாப்பு மற்றும் வணிகம் தொடர்பான முக்கியச் சட்டங்கள் இயற்றப்பட்ட ஆண்டுகளைப் பொருத்த வேண்டும்.",
+    "en": "Match the important consumer protection and trade-related acts with the years they were enacted."
+   },
+   "explain": {
+    "ta": "நுகர்வோர் பாதுகாப்புச் சட்டம் 1986 ஆம் ஆண்டும், சட்ட அளவியல் சட்டம் 2009 ஆம் ஆண்டும் இயற்றப்பட்டன. அத்தியாவசியப் பொருட்கள் சட்டம் 1955 ஆம் ஆண்டும், கள்ளச் சந்தைப்படுத்துதல் தடுப்புச் சட்டம் 1980 ஆம் ஆண்டும் கொண்டுவரப்பட்டன.",
+    "en": "Consumer Protection Act (1986), Legal Metrology Act (2009), Essential Commodities Act (1955), and Prevention of Black Marketing Act (1980)."
+   },
+   "why": {
+    "B": {
+     "ta": "ஆண்டுகளின் வரிசை மாற்றி அமைக்கப்பட்டுள்ளது, இது சரியான சட்ட ஆண்டுகளுடன் பொருந்தவில்லை.",
+     "en": "The sequence of years is shuffled and does not match the enactment years."
+    },
+    "C": {
+     "ta": "சட்ட அளவியல் சட்டம் மற்றும் நுகர்வோர் பாதுகாப்புச் சட்டத்தின் ஆண்டுகள் இங்கு தவறாகப் பொருத்தப்பட்டுள்ளன.",
+     "en": "The years for the Legal Metrology Act and Consumer Protection Act are mismatched here."
+    },
+    "D": {
+     "ta": "கொடுக்கப்பட்டுள்ள குறியீட்டு எண்கள் சட்டங்களின் உண்மையான ஆண்டுகளுடன் ஒத்துப்போகவில்லை.",
+     "en": "The given index numbers do not align with the actual enactment years of the acts."
+    }
+   },
+   "rule": {
+    "ta": "நுகர்வோர் சட்டம் (1986) மற்றும் அத்தியாவசியப் பொருட்கள் சட்டம் (1955) போன்ற முக்கிய சட்டங்களின் ஆண்டுகளைத் தவறாமல் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember key act years like Consumer Protection Act (1986) and Essential Commodities Act (1955)."
+   },
+   "eg": {
+    "ta": "நுகர்வோர் பாதுகாப்புச் சட்டம் முதன்முதலில் எந்த ஆண்டு நிறைவேற்றப்பட்டது? 1986.",
+    "en": "In which year was the Consumer Protection Act first enacted? 1986."
+   },
+   "tip": {
+    "ta": "நுகர்வோர் சட்டம் 1986 என்பது TNPSC தேர்வில் மிக முக்கியமான அடிக்கடி கேட்கப்படும் கேள்வியாகும்.",
+    "en": "Consumer Protection Act 1986 is a very frequently asked question in TNPSC exams."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q190": {
+   "hint": {
+    "ta": "இந்தியாவில் செம்மொழி தகுதி பெற்ற மொழிகளின் வரிசையையும், அந்தந்த வருடங்களையும் நினைவுகூர்ந்து வரிசைப்படுத்துக.",
+    "en": "Recall the chronological order of languages granted classical language status in India."
+   },
+   "explain": {
+    "ta": "தமிழ் முதன்முதலில் 2004-ஆம் ஆண்டு செம்மொழி தகுதி பெற்றது. அதனைத் தொடர்ந்து சமஸ்கிருதம் (2005), தெலுங்கு (2008) மற்றும் மலையாளம் (2013) ஆகிய மொழிகள் செம்மொழி தகுதி பெற்றன. எனவே சரியான காலவரிசை தமிழ், சமஸ்கிருதம், தெலுங்கு, மலையாளம் என்பதாகும்.",
+    "en": "Tamil was granted classical status in 2004, followed by Sanskrit in 2005, Telugu in 2008, and Malayalam in 2013."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசையானது காலவரிசைக்கு முரணாக உள்ளது, ஏனெனில் தமிழ் மற்றும் சமஸ்கிருதம் முதலில் செம்மொழி தகுதி பெற்றவை.",
+     "en": "This order is incorrect because Tamil and Sanskrit received the status earlier than Telugu and Malayalam."
+    },
+    "B": {
+     "ta": "மலையாளம் மற்றும் சமஸ்கிருதத்தை முதலில் வைப்பது தவறான காலவரிசையாகும்.",
+     "en": "Placing Malayalam and Sanskrit first violates the correct chronological timeline."
+    },
+    "C": {
+     "ta": "தெலுங்கு மொழி சமஸ்கிருதத்திற்கு முன்பு செம்மொழி தகுதி பெற்றது போல இந்த வரிசை அமைந்துள்ளது, இது தவறானது.",
+     "en": "This places Telugu before Sanskrit, which is historically incorrect."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவில் செம்மொழி அந்தஸ்து பெற்ற முதல் மொழி தமிழ் (2004) ஆகும்.",
+    "en": "Tamil is the first language in India to be declared a classical language in 2004."
+   },
+   "eg": {
+    "ta": "கன்னடம் மற்றும் தெலுங்கு இரண்டும் 2008-ஆம் ஆண்டு செம்மொழி தகுதி பெற்றன.",
+    "en": "Both Kannada and Telugu were granted classical language status in the year 2008."
+   },
+   "tip": {
+    "ta": "தசம தெம (தமிழ் 2004, சமஸ்கிருதம் 2005, தெலுங்கு 2008, மலையாளம் 2013) என எளிதாக நினைவில் கொள்க.",
+    "en": "Memorize the order using the timeline: Tamil (2004), Sanskrit (2005), Telugu (2008), Malayalam (2013)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q154": {
+   "hint": {
+    "ta": "முக்கியமான அரசியலமைப்புத் திருத்தச் சட்டங்கள் மற்றும் அவை திருத்திய விதிகளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember important constitutional amendment acts and the specific articles they modified."
+   },
+   "explain": {
+    "ta": "105வது அரசியலமைப்புத் திருத்தச் சட்டம், 2021 மூலம் இதர பிற்பட்ட வகுப்பினர் பட்டியலை மாநிலங்களே தயாரிக்கும் அதிகாரத்தை வழங்க 338B, 342A மற்றும் 366 ஆகிய சட்டப்பிரிவுகள் திருத்தப்பட்டன.",
+    "en": "Articles 338B, 342A, and 366 were amended by the 105th Constitutional Amendment Act to restore States' power to prepare OBC lists."
+   },
+   "why": {
+    "A": {
+     "ta": "334வது பிரிவு மக்களவை மற்றும் சட்டமன்றங்களில் இட ஒதுக்கீடு காலநீட்டிப்பு தொடர்பானது.",
+     "en": "Article 334 relates to the extension of reservation in the Lok Sabha and legislative assemblies."
+    },
+    "B": {
+     "ta": "363வது பிரிவு சில ஒப்பந்தங்கள் தொடர்பான நீதிமன்றத் தலையீட்டு வரம்பு பற்றியது.",
+     "en": "Article 363 deals with the bar to interference by courts in disputes arising out of certain treaties."
+    },
+    "D": {
+     "ta": "333 மற்றும் 362 ஆகிய பிரிவுகள் ஆங்கிலோ-இந்தியர் மற்றும் அரசர்களின் சலுகைகள் தொடர்பானவை.",
+     "en": "Articles 333 and 362 deal with Anglo-Indian representation and rights of rulers."
+    }
+   },
+   "rule": {
+    "ta": "சமூக நீதி மற்றும் இட ஒதுக்கீடு தொடர்பான சமீபத்திய சட்டத் திருத்தப் பிரிவுகளைத் தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Study recent constitutional amendment acts related to social justice and reservations thoroughly."
+   },
+   "eg": {
+    "ta": "103வது சட்டத்திருத்தம் பொருளாதார ரீதியில் பின் தங்கியவர்களுக்கான (EWS) 10 சதவீத இட ஒதுக்கீட்டை வழங்கியது.",
+    "en": "The 103rd Amendment provided 10% reservation for economically weaker sections (EWS)."
+   },
+   "tip": {
+    "ta": "பிற்பட்ட வகுப்பினர் அதிகாரம் என்றாலே 338B மற்றும் 342A நினைவுக்கு வர வேண்டும்.",
+    "en": "Recall articles 338B and 342A whenever backward classes' power is mentioned."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q169": {
+   "hint": {
+    "ta": "நிதி அயோக் அமைப்பின் அமைப்பு முறை, தலைவர் மற்றும் உறுப்பினர்கள் பற்றிய கூற்றுகளைச் சரிபார்க்கவும்.",
+    "en": "Examine the statements regarding the composition, chairperson, and members of NITI Aayog."
+   },
+   "explain": {
+    "ta": "நிதி அயோக்கின் தலைவர் பிரதமர் ஆவார். எனவே, இரண்டாம் கூற்று மட்டுமே சரியானது; முதல் கூற்றில் யூனியன் பிரதேசங்கள் பற்றிய விதிவிலக்கு தவறாகக் கூறப்பட்டுள்ளது மற்றும் மூன்றாம் கூற்றில் நிதியமைச்சர் துணைத் தலைவர் கிடையாது.",
+    "en": "The Prime Minister is the chairperson of NITI Aayog, making statement II correct while others are incorrect."
+   },
+   "why": {
+    "A": {
+     "ta": "மூன்றாம் கூற்றில் நிதியமைச்சர் துணைத் தலைவர் என்று கூறப்பட்டுள்ளது தவறு, துணைத் தலைவரை பிரதமர் நியமிக்கிறார்.",
+     "en": "Statement III is wrong because the Finance Minister is not the Vice Chairperson."
+    },
+    "C": {
+     "ta": "முதல் கூற்றில் யூனியன் பிரதேசங்கள் விலக்கப்பட்டுள்ளதாகக் கூறப்பட்டுள்ளது தவறு, சட்டமன்றம் கொண்ட யூனியன் பிரதேசங்களும் ஆளும் குழுவில் அடங்கும்.",
+     "en": "Statement I is wrong because Union Territories with legislatures are also included in the governing council."
+    },
+    "D": {
+     "ta": "முதல் கூற்று தவறானதால், இரண்டும் சரியM என்ற இந்தத் தெரிவு தவறாகிறது.",
+     "en": "This option is wrong because statement I is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "நிதி அயோக் அமைப்பின் தலைவர் இந்தியப் பிரதமர் ஆவார் மற்றும் அனைத்து மாநில முதலமைச்சர்களும் அதன் ஆளும் குழுவில் அங்கம் வகிக்கின்றனர்.",
+    "en": "The Prime Minister of India is the chairperson of NITI Aayog, and all state CMs are part of its governing council."
+   },
+   "eg": {
+    "ta": "நிதி அயோக் 2015ஆம் ஆண்டு ஜனவரி 1ஆம் நாள் திட்டக் குழுவிற்கு மாற்றாக அமைக்கப்பட்டது.",
+    "en": "NITI Aayog was established on January 1, 2015, replacing the Planning Commission."
+   },
+   "tip": {
+    "ta": "நிதி அயோக்கின் தலைவர் எப்போதும் பிரதமர்தான் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that the Prime Minister is always the chairperson of NITI Aayog."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q184": {
+   "hint": {
+    "ta": "அடிப்படை உரிமைகள் (பிரிவு 12 முதல் 35 வரை) மற்றும் அவற்றின் சரியான விளக்கங்களை ஒப்பிட்டுப் பார்க்கவும்.",
+    "en": "Compare Fundamental Rights (Articles 12 to 35) with their correct descriptions to find the mismatch."
+   },
+   "explain": {
+    "ta": "பொது வேலைவாய்ப்புகளில் சமவாய்ப்பு அளிப்பது பிரிவு 16 ஆகும். ஆனால், கொடுக்கப்பட்ட பொருத்துதலில் அது பிரிவு 17 எனக் குறிப்பிடப்பட்டுள்ளதால் இதுவே தவறாகப் பொருந்தியுள்ளது.",
+    "en": "Equality of opportunity in public employment is guaranteed under Article 16, not Article 17, making this option incorrectly matched."
+   },
+   "why": {
+    "A": {
+     "ta": "பிரிவு 14 சட்டத்தின் முன் அனைவரும் சமம் மற்றும் சட்டத்தின் சமமான பாதுகாப்பு பற்றிக் கூறுகிறது; இது சரியான பொருத்தம்.",
+     "en": "Article 14 deals with equality before law and equal protection of laws, which is correctly matched."
+    },
+    "C": {
+     "ta": "பிரிவு 21 தொடக்க கல்வி பெறும் உரிமை பற்றிக் கூறுகிறது; இது சரியான பொருத்தம்.",
+     "en": "Article 21 deals with the right to elementary education, which is correctly matched."
+    },
+    "D": {
+     "ta": "பிரிவு 26 சமய விவகாரங்களை நிர்வாகிக்கும் உரிமை பற்றிக் கூறுகிறது; இது சரியான பொருத்தம்.",
+     "en": "Article 26 deals with the freedom to manage religious affairs, which is correctly matched."
+    }
+   },
+   "rule": {
+    "ta": "அடிப்படை உரிமைகளின் முக்கியப் பிரிவுகளை (14, 17, 18, 21, 32 போன்றவற்றை) தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize important Fundamental Rights articles like 14, 17, 18, 21, and 32 accurately."
+   },
+   "eg": {
+    "ta": "பிரிவு 17 தீண்டாமை ஒழிப்பு பற்றிக் கூறுகிறது.",
+    "en": "Article 17 deals with the abolition of untouchability."
+   },
+   "tip": {
+    "ta": "வேலைவாய்ப்பு என்றால் 16, தீண்டாமை என்றால் 17 என்பதை மறக்காதீர்கள்.",
+    "en": "Remember: Employment is Article 16, Untouchability is Article 17."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q185": {
+   "hint": {
+    "ta": "இந்திய அரசியலமைப்பின் பல்வேறு மூலங்கள் எவற்றிலிருந்து பெறப்பட்டன என்பதைச் சரிபார்க்கவும்.",
+    "en": "Check the historical sources from which various parts of the Indian Constitution were derived."
+   },
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டத்தின் பகுதி IV-ல் உள்ள அரச நெறிமுறை உறுத்தும் கோட்பாடுகள் (DPSP), 1935ஆம் ஆண்டு இந்திய அரசுச் சட்டத்தில் உள்ள அறிவுறுத்தல்களின் தொகுப்பினைப் (Instrument of Instructions) போன்றவையாகும்.",
+    "en": "The Directive Principles of State Policy in the Indian Constitution resemble the 'Instrument of Instructions' contained in the Government of India Act, 1935."
+   },
+   "why": {
+    "A": {
+     "ta": "மாக்னா சாசனம், 1215 என்பது அடிப்படை உரிமைகள் பகுதி III-ஐ குறிக்கப் பயன்படுகிறது.",
+     "en": "Magna Carta of 1215 is referred to in the context of Part III (Fundamental Rights)."
+    },
+    "B": {
+     "ta": "பட்டயச் சட்டம், 1813 கிழக்கிந்திய கம்பெனியின் வர்த்தக முத்திரையை முடிவுக்குக் கொண்டுவந்த சட்டமாகும்.",
+     "en": "The Charter Act of 1813 ended the trade monopoly of the East India Company."
+    },
+    "D": {
+     "ta": "ஒழுங்குபடுத்தும் சட்டம், 1773 இந்தியாவில் கம்பெனி ஆட்சியைக் கட்டுப்படுத்தக் கொண்டுவரப்பட்ட முதல் சட்டமாகும்.",
+     "en": "The Regulating Act of 1773 was the first step taken by the British Parliament to control East India Company rule."
+    }
+   },
+   "rule": {
+    "ta": "அரசு நெறிமுறை உறுத்தும் கோட்பாடுகள் 1935 ஆம் ஆண்டுச் சட்டத்தின் அறிவுறுத்தல்களின் தொகுப்பை ஒத்தவை.",
+    "en": "Directive Principles of State Policy are modelled on the Instrument of Instructions of the 1935 Act."
+   },
+   "eg": {
+    "ta": "இந்திய அரசியலமைப்பின் பெரும்பகுதி 1935 ஆம் ஆண்டுச் சட்டத்திலிருந்தே பெறப்பட்டது.",
+    "en": "A major portion of the Indian Constitution was drawn from the Government of India Act, 1935."
+   },
+   "tip": {
+    "ta": "வழிகாட்டு நெறிமுறைகள் என்றால் 1935 சட்டத்தின் அறிவுறுத்தல்கள் என்று நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember DPSP corresponds to the Instrument of Instructions of the 1935 Act."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q186": {
+   "hint": {
+    "ta": "மத்திய-மாநில உறவுகள் தொடர்பான குழுக்கள் மற்றும் அவற்றின் அமைத்தவர்களைப் பொருத்த வேண்டும்.",
+    "en": "Match the commissions and committees on Centre-State relations with their respective entities."
+   },
+   "explain": {
+    "ta": "சர்க்காரியா ஆணையம் மத்திய அரசாலும் (4), இராஜமன்னார் குழு தமிழ்நாடு அரசாலும் (1), ஆனந்தப்பூர் சாஹிப் தீர்மானம் அகாலி தளத்தாலும் (2), பொம்மை தீர்ப்பு உச்சநீதிமன்றத்தாலும் (3) தொடர்புடையவை ஆகும்.",
+    "en": "Sarkaria Commission relates to Union Govt (4), Rajamannar Committee to TN Govt (1), Anandpur Sahib Resolution to Akali Dal (2), and Bommai Judgement to Supreme Court (3)."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை அனைத்துப் பொருத்தங்களையும் சரியாகப் பொருத்தவில்லை.",
+     "en": "This sequence does not correctly match all the pairs."
+    },
+    "C": {
+     "ta": "இந்த வரிசையும் சரியான இணைப்புக் குறியீடுகளுடன் பொருந்தவில்லை.",
+     "en": "This sequence also does not match the correct mapping."
+    },
+    "D": {
+     "ta": "இந்த வரிசையும் சரியான விடை வரிசைக்கு மாற்றாக உள்ளது.",
+     "en": "This sequence is incorrect as per the correct mapping."
+    }
+   },
+   "rule": {
+    "ta": "மத்திய-மாநில உறவுகளை ஆராய அமைக்கப்பட்ட குழுக்கள் மற்றும் ஆணைகளைப் பொருத்துக வடிவில் கேட்கும்போது துல்லியமாக அறிய வேண்டும்.",
+    "en": "Know the exact committees and commissions formed to study Centre-State relations."
+   },
+   "eg": {
+    "ta": "இராஜமன்னார் குழு 1969 இல் தமிழ்நாடு அரசால் நியமிக்கப்பட்டது.",
+    "en": "The Rajamannar Committee was appointed by the Government of Tamil Nadu in 1969."
+   },
+   "tip": {
+    "ta": "இராஜமன்னார் குழு என்றால் 'தமிழ்நாடு அரசாங்கம்' என்பதை முதலில் உறுதி செய்யவும்.",
+    "en": "First identify Rajamannar Committee with 'Tamil Nadu Government' to solve easily."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q198": {
+   "hint": {
+    "ta": "மக்களாட்சியில் குடிமக்களுக்கு உள்ள அரசியல் உரிமைகள் எவை என்பதைச் சிந்தித்து விடையளிக்கவும்.",
+    "en": "Think about the political rights available to citizens in a democracy before answering."
+   },
+   "explain": {
+    "ta": "வாக்களிக்கும் உரிமையும், அரசுப் பணிகளில் பதவி வகிக்கும் உரிமையும் அரசியல் உரிமைகளாகும். ஆனால், அரசை விமர்சிக்கக் கூடாது என்பது ஜனநாயக நாட்டில் தவறானது, ஏனெனில் அரசை விமர்சிக்கும் உரிமை குடிமக்களுக்கு உண்டு.",
+    "en": "Right to vote and right to hold public office are political rights, whereas 'not to criticise the government' is wrong because citizens have the right to criticize."
+   },
+   "why": {
+    "A": {
+     "ta": "(1) மற்றும் (2) இரண்டும் அரசியல் உரிமைகள் ஆகும், எனவே அவை தவறானவை அல்ல.",
+     "en": "Both (1) and (2) are valid political rights, so they are not wrong."
+    },
+    "B": {
+     "ta": "(1) சரியான அரசியல் உரிமை என்பதால் இந்தத் தெரிவு தவறாகிறது.",
+     "en": "This option is wrong because (1) is a correct political right."
+    },
+    "C": {
+     "ta": "(2) சரியான அரசியல் உரிமை என்பதால் இந்தத் தெரிவு தவறாகிறது.",
+     "en": "This option is wrong because (2) is a correct political right."
+    }
+   },
+   "rule": {
+    "ta": "வாக்களிக்கும் உரிமை, தேர்தலில் போட்டியிடும் உரிமை மற்றும் அரசை விமர்சிக்கும் உரிமை ஆகியவை அரசியல் மற்றும் ஜனநாயக உரிமைகள் ஆகும்.",
+    "en": "Right to vote, right to contest elections, and right to criticize the government are political and democratic rights."
+   },
+   "eg": {
+    "ta": "குடிமக்களுக்கு வழங்கப்பட்டுள்ள அடிப்படை உரிமைகளில் பேச்சுரிமை மற்றும் கருத்துரிமை முக்கியமானவை.",
+    "en": "Freedom of speech and expression is one of the important fundamental rights granted to citizens."
+   },
+   "tip": {
+    "ta": "ஜனநாயகத்தில் அரசை விமர்சிக்கும் உரிமை குடிமக்களுக்கு உண்டு.",
+    "en": "In a democracy, citizens possess the right to criticize the government."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-21"
+ "updated": "2026-11-22"
 }

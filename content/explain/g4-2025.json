@@ -5911,7 +5911,475 @@
     "en": "National holidays in India are strictly limited to major national festivals and independence/republic days."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q146": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மொத்த மாணவர்களின் எண்ணிக்கையில் இருந்து வருகை புரியாதவர்களின் சதவீதத்தைக் கழித்து வருகை புரிந்தவர்களின் சதவீதத்தைக் கண்டறிந்து கணக்கிடவும்.",
+    "en": "Find the percentage of students present and calculate their number from the total."
+   },
+   "explain": {
+    "ta": "வகுப்பில் மொத்தம் 80 மாணவர்கள் உள்ளனர். 25% பேர் வருகை புரியவில்லை எனில், 75% பேர் வருகை புரிந்துள்ளனர். எனவே 80-இன் 75% மதிப்பான 60 என்பது சரியான விடையாகும்.",
+    "en": "Out of 80 students, 75% are present. 80 multiplied by 75% gives 60 students."
+   },
+   "why": {
+    "A": {
+     "ta": "இது வருகை புரியாத மாணவர்களின் எண்ணிக்கையோ அல்லது தவறான கணக்கீடோ ஆகும்.",
+     "en": "This is incorrect and does not match the present students count."
+    },
+    "C": {
+     "ta": "இது 80-இன் 37.5% ஆகும்.",
+     "en": "This represents 37.5% of 80."
+    },
+    "D": {
+     "ta": "இது வருகை புரியாத 25% மாணவர்களின் எண்ணிக்கையாகும்.",
+     "en": "This represents the 25% absent students."
+    }
+   },
+   "rule": {
+    "ta": "வருகை புரிந்தவர்கள் சதவீதம் = 100% - வருகை புரியாதவர்கள் சதவீதம்.",
+    "en": "Present percentage = 100% minus absent percentage."
+   },
+   "eg": {
+    "ta": "50 மாணவர்களில் 20% வராவிட்டால், வருகை தந்தவர்கள் 50 இன் 80% = 40 பேர்.",
+    "en": "If 20% of 50 are absent, 40 are present."
+   },
+   "tip": {
+    "ta": "பின்னமாக மாற்றிக் கணக்கிடுவது எளிது: 75% என்பது 3/4; 80 இன் 3/4 = 60.",
+    "en": "Use fraction equivalent 75% = 3/4 for faster calculation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q147": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மாணவர்கள் மற்றும் மாணவிகளின் எண்ணிக்கையை விகிதத்தின்படி 500 மற்றும் 300 என எடுத்துக் கொண்டு தேர்ச்சி பெற்றவர்களின் எண்ணிக்கையைக் கணக்கிடவும்.",
+    "en": "Assume the number of boys and girls based on the ratio as 500 and 300 to calculate passed students."
+   },
+   "explain": {
+    "ta": "மாணவர்கள் மற்றும் மாணவிகளின் எண்ணிக்கை 5:3 என்ற விகிதத்தில் உள்ளதால் அவற்றை 500, 300 என்க. மாணவர்கள் 16% தோல்வி எனில் 84% தேர்ச்சி (420 பேர்), மாணவிகள் 8% தோல்வி எனில் 92% தேர்ச்சி (276 பேர்). மொத்தம் 696 பேர் தேர்ச்சி பெற்றனர், இதன் சதவீதம் 87% ஆகும்.",
+    "en": "Taking 500 boys and 300 girls, passed students are 420 and 276 respectively, totaling 696 out of 800, which is 87%."
+   },
+   "why": {
+    "B": {
+     "ta": "இது தோல்வி அடைந்தவர்களின் தோராயமான சதவீதமாகும்.",
+     "en": "This is incorrect."
+    },
+    "C": {
+     "ta": "இது மாணவர்களின் தேர்ச்சி சதவீதத்தின் தவறுதலான கணக்கீடு ஆகும்.",
+     "en": "This is incorrect."
+    },
+    "D": {
+     "ta": "இது மாணவிகளின் தேர்ச்சி சதவீதமாகும்.",
+     "en": "This represents only the girls' pass percentage."
+    }
+   },
+   "rule": {
+    "ta": "தேர்ச்சி சதவீதம் = (தேர்ச்சி பெற்றவர்களின் மொத்தம் / மொத்த மாணவர்கள்) × 100.",
+    "en": "Pass percentage = (Total passed / Total students) × 100."
+   },
+   "eg": {
+    "ta": "விகித எண்களுடன் 100-ஐ பெருக்கி மொத்த எண்ணிக்கையை எளிதாகப் பெறலாம்.",
+    "en": "Multiply ratio terms by 100 for easy calculation."
+   },
+   "tip": {
+    "ta": "விகிதங்களை எண்களாக மாற்றும்போது இரு மடங்குகளையும் 100-ஆல் பெருக்குங்கள்.",
+    "en": "Multiply ratio parts by 100 to get exact counts easily."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q148": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இது முதல் n ஒற்றை எண்களின் கூடுதல் என்பதைக் கண்டறிந்து n இன் மதிப்பைக் கணக்கிடவும்.",
+    "en": "Identify this as the sum of first n odd numbers and find n."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட தொடர் 1 முதல் 55 வரையிலான ஒற்றை எண்களின் கூடுதலாகும். இங்கு உறுப்புகளின் எண்ணிக்கை n = (55 + 1) / 2 = 28 ஆகும். முதல் n ஒற்றை எண்களின் கூடுதல் n² சூத்திரப்படி 28² = 784 ஆகும்.",
+    "en": "The series has 28 odd numbers. The sum of the first n odd numbers is n squared, so 28 squared is 784."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான வர்க்க மதிப்பாகும்.",
+     "en": "Incorrect square value."
+    },
+    "C": {
+     "ta": "இது முறையற்ற கூடுதல் மதிப்பாகும்.",
+     "en": "Incorrect sum."
+    },
+    "D": {
+     "ta": "இது முதல் n இயல் எண்களின் கூடுதலுக்கான சூத்திரத்தின் வெளிபாடாகும்.",
+     "en": "Incorrect formula result."
+    }
+   },
+   "rule": {
+    "ta": "முதல் n ஒற்றை எண்களின் கூடுதல் = n² (இங்கு n = (শেষ எண் + 1) / 2).",
+    "en": "Sum of first n odd numbers = n² where n = (last term + 1) / 2."
+   },
+   "eg": {
+    "ta": "1 + 3 + 5 + 7 = 4² = 16.",
+    "en": "Sum of first 4 odd numbers is 4² = 16."
+   },
+   "tip": {
+    "ta": "கடைசி எண்ணுடன் 1 கூட்டி இரண்டால் வகுத்தால் n கிடைக்கும்.",
+    "en": "Add 1 to the last term and divide by 2 to get n."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q152": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட எண்களுக்கு இடையே உள்ள இடைவெளிகளை மாற்று வரிசையில் ஆராயுங்கள்.",
+    "en": "Examine the alternating differences between the numbers in the sequence."
+   },
+   "explain": {
+    "ta": "தொடரில் எண்களுக்கு இடையே உள்ள வித்தியாசம் முறையே +5, +7, +5, +19 என அல்லது மாறி மாறி அமைகிறது. தொடரின் அமைப்பின்படி 24-க்குப் பிறகு 43 வரவும், அதன்பின் விடுபட்ட எண்ணாக 48 வருவதும் சரியாகப் பொருந்துகிறது.",
+    "en": "Following the sequence pattern, the missing term that fits correctly is 48."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தொடரின் விதிகளுக்குப் பொருந்தாத எண்.",
+     "en": "Does not fit the sequence."
+    },
+    "B": {
+     "ta": "இது தவறான இடைவெளி கணக்கீடாகும்.",
+     "en": "Incorrect calculation."
+    },
+    "D": {
+     "ta": "இது சரியான விடையை விட அதிகமான மதிப்பாகும்.",
+     "en": "Too large for the sequence."
+    }
+   },
+   "rule": {
+    "ta": "எண் தொடர்களில் எண்களுக்கிடையே உள்ள கூட்டு அல்லது பெருக்கல் வழிமுறையைக் கண்டறிய வேண்டும்.",
+    "en": "Identify the arithmetic or alternating pattern in number series."
+   },
+   "eg": {
+    "ta": "மாற்று எண்களின் கூடுதல் முறையைப் பின்பற்றி விடுபட்ட எண்களைக் கண்டறியலாம்.",
+    "en": "Use alternating patterns to find missing terms."
+   },
+   "tip": {
+    "ta": "இரண்டு எண்களுக்கு இடைப்பட்ட வித்தியாசத்தைக் கண்டறிந்து தொடர்ச்சியைச் சரிபார்க்கவும்.",
+    "en": "Find differences between consecutive terms to check consistency."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q189": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் நில அளவைக் குறிப்புகளைக் கொண்டு சரிவகங்கள் மற்றும் முக்கோணங்களின் பரப்பளவைக் கூட்டிக் கணக்கிடவும்.",
+    "en": "Calculate the area by summing up the trapezoids and triangles from field book values."
+   },
+   "explain": {
+    "ta": "நில அளவை புத்தகத்தின் (field book) கணக்கீடுகளின்படி நிலத்தின் மொத்த பரப்பளவு 6550 சதுர மீட்டர் எனத் கணக்கிடப்படுகிறது.",
+    "en": "According to the field book measurements, the total area of the field is calculated as 6550 m²."
+   },
+   "why": {
+    "B": {
+     "ta": "இது தவறான கூடுதல் மதிப்பாகும்.",
+     "en": "Incorrect area sum."
+    },
+    "C": {
+     "ta": "இது பிழையான கணக்கீட்டு விடையாகும்.",
+     "en": "Incorrect calculation."
+    },
+    "D": {
+     "ta": "இது சரியான விடையிலிருந்து மாறுபட்ட மதிப்பாகும்.",
+     "en": "Incorrect value."
+    }
+   },
+   "rule": {
+    "ta": "நில அளவை புத்தக பரப்பளவு = தனித்தனி சரிவகம் மற்றும் முக்கோணப் பரப்பளவுகளின் கூடுதல்.",
+    "en": "Field book area = Sum of individual trapezoid and triangle areas."
+   },
+   "eg": {
+    "ta": "சரிவகத்தின் பரப்பளவு = 1/2 × (ขூடல்களின் கூடுதல்) × இடைவெளி.",
+    "en": "Area of trapezoid = 1/2 × (sum of parallel offsets) × offset distance."
+   },
+   "tip": {
+    "ta": "களப் புத்தகக் கணக்குகளில் முக்கோணம் மற்றும் சரிவகப் பரப்பளவு சூத்திரங்களை கவனமாகப் பயன்படுத்தவும்.",
+    "en": "Carefully apply triangle and trapezoid area formulas for field books."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q190": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பின்ன விகிதத்தில் உள்ள எண்களின் பகுதிகளுக்கு மீச்சிறு பொது மடங்கு (LCM) கண்டு எண்களை முழு எண்களாக மாற்றுக.",
+    "en": "Find the LCM of denominators to convert fractional ratios into whole numbers."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட விகிதங்கள் 1/3 : 1/4 : 1/5 : 1/6 ஆகும். பகுதிகள் 3, 4, 5, 6 இன் மீ.சி.ம 60 ஆகும். ஒவ்வொரு பகுதியையும் 60-ஆல் பெருக்க 20 : 15 : 12 : 10 கிடைக்கும். குறைந்தபட்ச பேனாக்களின் எண்ணிக்கை இவற்றின் கூடுதலான 20 + 15 + 12 + 10 = 57 ஆகும்.",
+    "en": "The LCM of denominators 3, 4, 5, 6 is 60. Multiplying gives whole numbers 20:15:12:10, and their sum is 57."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான கூட்டுத் தொகையாகும்.",
+     "en": "Incorrect sum."
+    },
+    "B": {
+     "ta": "இது சரியான விடையுடன் பொருந்தாதது.",
+     "en": "Incorrect sum."
+    },
+    "D": {
+     "ta": "இது மிகைப்படுத்தப்பட்ட கூட்டுத் தொகையாகும்.",
+     "en": "Too large."
+    }
+   },
+   "rule": {
+    "ta": "பின்ன விகிதங்களை முழு எண்களாக மாற்றப் பகுதிகளின் மீ.சி.ம-வால் அனைத்தையும் பெருக்க வேண்டும்.",
+    "en": "Multiply fractional ratios by the LCM of denominators to make them whole numbers."
+   },
+   "eg": {
+    "ta": "1/2 : 1/3 இன் மீ.சி.ம 6 கொண்டு பெருக்க 3 : 2 கிடைக்கும்.",
+    "en": "Multiplying 1/2 : 1/3 by LCM 6 gives 3 : 2."
+   },
+   "tip": {
+    "ta": "பகுதிகளின் மீ.சி.ம-ஐக் கண்டறிந்து முழு எண்களாக மாற்றிப் பங்குகளைக் கூட்டுக.",
+    "en": "Find LCM of denominators, convert to integers, and add the parts."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q154": {
+   "hint": {
+    "ta": "தமிழ்நாட்டின் வேளாண்மைப் புள்ளிவிவரங்கள் மற்றும் மாவட்டவாரியான பயிர் உற்பuncur மகசூலைக் கேட்கும்போது ஒவ்வொரு மாவட்டத்தின் சிறப்புப் பயிர்களைக் கவனியுங்கள்.",
+    "en": "Check the district-wise major crop cultivation statistics in Tamil Nadu."
+   },
+   "explain": {
+    "ta": "2021-2022-ம் ஆண்டு வேளாண்மைத் தரவுகளின்படி, பெரம்பலூரில் மக்காச்சோளமும், கள்ளக்குறிச்சியில் கரும்பும் அதிகளவில் சாகுபடி செய்யப்பட்டன. எனவே கூற்று (ii) மற்றும் (iii) சரியானவை ஆகும்.",
+    "en": "As per 2021-2022 agricultural data, Perambalur and Kallakurichi led in Maize and Sugarcane cultivation respectively, making statements (ii) and (iii) correct."
+   },
+   "why": {
+    "A": {
+     "ta": "மயிலாடுதுறையில் நெல் சாகுபடி முக்கியமானது என்றாலும், முதல் கூற்று மட்டும் தனியாகச் சரியல்ல.",
+     "en": "Statement (i) alone is incorrect as other statements are also part of the correct combination."
+    },
+    "B": {
+     "ta": "மயிலாடுதுறை நெல் சாகுபடி பற்றிய முதல் கூற்று தவறானதால் இந்த இணைப்பும் தவறாகிறது.",
+     "en": "This option is wrong because statement (i) is incorrect."
+    },
+    "C": {
+     "ta": "மயிலாடுதுறை பற்றிய முதல் கூற்று தவறு என்பதால் இந்த இணைப்பையும் ஏற்க முடியாது.",
+     "en": "This option is incorrect since statement (i) is not true."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டின் மாவட்டவாரியான முதன்மைப் பயிர் சாகுபடி விவரங்களை நன்கு நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the leading crop producing districts in Tamil Nadu."
+   },
+   "eg": {
+    "ta": "தஞ்சாவூர் மாவட்டம் நெல் உற்பத்தியில் டெல்டா மாவட்டங்களில் முக்கிய பங்கு வகிக்கிறது.",
+    "en": "Thanjavur district plays a major role in paddy production in the delta region."
+   },
+   "tip": {
+    "ta": "புள்ளிவிவரக் கேள்விகளில் தமிழ்நாடு அரசின் சமீபத்திய பொருளாதார ஆய்வறிக்கை தரவுகளை அடிப்படையாகக் கொள்ளவும்.",
+    "en": "Rely on official economic survey reports for agricultural data questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q155": {
+   "hint": {
+    "ta": "கூற்று மற்றும் காரணப் பொருத்தலைக் காணும்போது, காரணம் கூற்றுக்கான நேரடி விளக்கமா அல்லது வெறும் உண்மையான தகவலா என்பதைச் சோதிக்கவும்.",
+    "en": "Check whether the reason directly explains the economic trend mentioned in the assertion."
+   },
+   "explain": {
+    "ta": "தமிழ்நாட்டின் நகர்ப்புற பணவீக்கம் குறைந்ததற்குக் காரணம் பொது விநியோகத் திட்டம் மற்றும் கலைஞர் மகளிர் உரிமைத் திட்டம் போன்ற நலத்திட்டங்கள் மக்களிடம் பணப்புழக்கத்தை சீராக வைத்து பொருளாதாரப் பாதுகாப்பை வழங்குவதாகும். எனவே கூற்றும் காரணமும் சரியானவையே மற்றும் காரணம் சரியான விளக்கமாகும்.",
+    "en": "Urban inflation decrease is directly supported by welfare schemes like PDS and Kalignar Mahalir Urimai Thittam which cushion households, making both statements true with correct explanation."
+   },
+   "why": {
+    "A": {
+     "ta": "காரணம் தவறு என்று கூறுவது தவறு, ஏனெனில் அரசு நலத்திட்டங்கள் பணவீக்கத்தைக் கட்டுப்படுத்த உதவுகின்றன.",
+     "en": "Reason [R] is not false; government welfare schemes indeed support household incomes."
+    },
+    "C": {
+     "ta": "பொருளாதார ஆய்வறிக்கை வெளியிட்ட நகர்ப்புற பணவீக்கக் குறைப்புத் தரவு முற்றிலும் சரியானது.",
+     "en": "Assertion [A] is completely true as per the official Economic Survey."
+    },
+    "D": {
+     "ta": "அரசு நலத்திட்டங்களே பணவீக்கத்தைக் கட்டுப்படுத்தவும் மக்களின் வாங்கும் திறனைப் பராமரிக்கவும் உதவுகின்றன என்பதால் இது சரியான விளக்கமே.",
+     "en": "The reason is not just a standalone fact; it is the direct cause explaining the urban inflation trend."
+    }
+   },
+   "rule": {
+    "ta": "சமூக நலத்திட்டங்கள் மாநிலத்தின் பொருளாதார ஸ்திரத்தன்மைக்கும் பணவீக்கக் கட்டுப்பாட்டுக்கும் உதவுகின்றன.",
+    "en": "Welfare schemes contribute to state economic stability and inflation management."
+   },
+   "eg": {
+    "ta": "விலைவாசி உயர்வைச் சமாளிக்க இலவச அரிசி மற்றும் மகளிர் உரிமைத் தொகை போன்ற திட்டங்கள் உதவுகின்றன.",
+    "en": "Schemes like free rice and women's basic income help families cope with price rises."
+   },
+   "tip": {
+    "ta": "நலத்திட்டங்கள் மக்களின் வாழ்வாதாரத்தைப் பாதுகாத்து பணவீக்கத்தின் தாக்கத்தைக் குறைக்கின்றன.",
+    "en": "Welfare schemes protect livelihoods and mitigate inflation impacts."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q158": {
+   "hint": {
+    "ta": "சர்வதேச அளவில் கச்சா எண்ணெய் மற்றும் இறக்குமதிப் பொருட்களின் விலை உயர்வுக்கு என்ன காரணியாக அமைகிறது என்பதைப் சிந்தியுங்கள்.",
+    "en": "Think about how global imports and currency values affect domestic price levels."
+   },
+   "explain": {
+    "ta": "அமெரிக்க டாலருக்கு எதிரான இந்திய ரூபாயின் மதிப்பு வீழ்ச்சியடையும் போது, நாம் இறக்குமதி செய்யும் கச்சா எண்ணெய் போன்ற பொருட்களின் விலை இந்தியாவில் அதிகரிக்கிறது. இதனால் ஒட்டுமொத்தமாகப் பணவீக்கம் (Inflation) உயர்கிறது.",
+    "en": "When the Indian Rupee weakens against the US Dollar, import costs like crude oil rise, driving up domestic inflation."
+   },
+   "why": {
+    "A": {
+     "ta": "அதிக தேவை என்பது பணவீக்கத்தின் ஒரு வகை என்றாலும், கொடுக்கப்பட்ட விருப்பங்களில் நேரடிப் பொருளாதாரக் காரணியாக நாணய மதிப்பு வீழ்ச்சி சுட்டிக்காட்டப்பட்டுள்ளது.",
+     "en": "High demand causes inflation generally, but currency depreciation is the specific macroeconomic driver asked here."
+    },
+    "C": {
+     "ta": "குறைவான உற்பத்தி என்பது விநியோகப் பற்றாக்குறையைக் குறிக்கும், ஆனால் நேரடிப் பொருளாதார வீழ்ச்சிக்கு நாணய மதிப்பு முக்கியக் காரணமாகும்.",
+     "en": "Low production affects supply, but exchange rate depreciation directly impacts import-led inflation."
+    },
+    "D": {
+     "ta": "குறைவான பண அளிப்பு பணவீக்கத்தைக் குறைக்கவே உதவும், அதிகரிக்கக் காரணமாகாது.",
+     "en": "Low money supply actually reduces inflation rather than causing it to increase."
+    }
+   },
+   "rule": {
+    "ta": "டாலருக்கு எதிரான ரூபாய் மதிப்பு குறையும் போது இறக்குமதிச் செலவு அதிகமாகி பணவீக்கம் ஏற்படுகிறது.",
+    "en": "Depreciation of the rupee against the dollar increases import costs and causes inflation."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் பெரும்பகுதி கச்சா எண்ணெய் இறக்குமதியை நம்பியிருப்பதால் ரூபாய் மதிப்பு வீழ்ச்சி விலைவாசி உயர்வை ஏற்படுத்துகிறது.",
+    "en": "India's heavy reliance on oil imports makes rupee depreciation a direct trigger for inflation."
+   },
+   "tip": {
+    "ta": "இறக்குமதி சார்ந்த பொருளாதாரத்தில் நாணய மதிப்பு வீழ்ச்சியே பணவீக்கத்திற்கு முக்கியக் காரணமாகும்.",
+    "en": "In import-dependent economies, currency weakening is a primary inflation driver."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q159": {
+   "hint": {
+    "ta": "பொருளாதாரத் திட்டங்கள் மற்றும் வறுமை ஒழிப்புத் திட்டங்களின் தொடக்க வருடங்களை வரிசைப்படுத்திக் கண்டறியவும்.",
+    "en": "Recall the launch years of major poverty alleviation and development schemes."
+   },
+   "explain": {
+    "ta": "பாரத் நிர்மான் யோஜனா 2005-லும், ராஜீவ் ஆவாஸ் யோஜனா மற்றும் தேசிய ஊரக வாழ்வாதார திட்டம் 2011-லும், தேசிய உணவு பாதுகாப்புத் திட்டம் 2013-லும் தொடங்கப்பட்டன. எனவே இவற்றின் சரியான காலவரிசை 3, 2, 1, 4 ஆகும்.",
+    "en": "Bharat Nirman was launched in 2005, Rajiv Awas Yojana and NRLM in 2011, and National Food Security Act in 2013, making the chronological order 3, 2, 1, 4."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை பாரத் நிர்மான் திட்டத்தின் தொடக்க ஆண்டைக் கணக்கில் கொள்ளவில்லை.",
+     "en": "This sequence fails to place Bharat Nirman (2005) at the correct beginning."
+    },
+    "B": {
+     "ta": "இந்த வரிசையில் ராஜீவ் ஆவாஸ் யோஜனா மற்றும் தேசிய ஊரக வாழ்வாதாரத் திட்டத்தின் ஆண்டுகள் தவறாக மாற்றப்பட்டுள்ளன.",
+     "en": "This order incorrectly arranges the schemes launched in 2011."
+    },
+    "D": {
+     "ta": "பாரத் நிர்மான் திட்டம் முதலாவதாக வர வேண்டும், எனவே இந்த வரிசை தவறானது.",
+     "en": "This option fails to start with Bharat Nirman Yojana of 2005."
+    }
+   },
+   "rule": {
+    "ta": "திட்டங்களின் தொடக்க ஆண்டுகளை நினைவில் கொள்வது காலவரிசைக் கேள்விகளை எளிதில் தீர்க்க உதவும்.",
+    "en": "Knowing the launch years of schemes helps solve chronological questions easily."
+   },
+   "eg": {
+    "ta": "மகாத்மா காந்தி தேசிய ஊரக வேலைவாய்ப்பு உறுதித் திட்டம் 2005-ல் தொடங்கப்பட்டது.",
+    "en": "Mahatma Gandhi National Rural Employment Guarantee Scheme was launched in 2005."
+   },
+   "tip": {
+    "ta": "முக்கியத் திட்டங்களின் தொடக்க ஆண்டுகளை ஒரு பட்டியல் தயாரித்துப் படிக்கவும்.",
+    "en": "Make a chronological list of major government welfare schemes."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q160": {
+   "hint": {
+    "ta": "அரசுத் திட்டங்களின் பெயர்களின் சுருக்கக் குறியீடுகளையும் (Acronyms) அவற்றின் தமிழ் அல்லது ஆங்கில விரிவாக்கத்தையும் கவனமாகப் பொருத்திப் பார்க்கவும்.",
+    "en": "Verify the full forms and expansions of government development programme acronyms."
+   },
+   "explain": {
+    "ta": "DDP என்பதன் சரியான விரிவாக்கம் Desert Development Programme (பாலைவன வளர்ச்சித் திட்டம்) ஆகும், மாவட்ட வளர்ச்சித் திட்டம் அல்ல. மேலும் HDA என்பது Hill Development Agency ஆகும். எனவே 3 மற்றும் 4 தவறாகப் பொருத்தப்பட்டுள்ளன.",
+    "en": "DDP stands for Desert Development Programme, not District Development Programme, making pairs (3) and (4) incorrect."
+   },
+   "why": {
+    "A": {
+     "ta": "முதல் மற்றும் இரண்டாம் இணைப்புகள் சரியாகப் பொருத்தப்பட்டுள்ளன.",
+     "en": "Pairs (1) and (2) are correctly matched with their standard expansions."
+    },
+    "B": {
+     "ta": "முதல் இணைப்பு சரியாக உள்ளது, எனவே இந்தத் தெரிவு தவறானது.",
+     "en": "Pair (1) is correct, so this combination is wrong."
+    },
+    "D": {
+     "ta": "இரண்டாவது இணைப்பு (DPAP) சரியாகப் பொருத்தப்பட்டுள்ளது, எனவே அது தவறான இணைப்பல்ல.",
+     "en": "Pair (2) is correctly matched, so it cannot be part of the incorrect set."
+    }
+   },
+   "rule": {
+    "ta": "திட்டங்களின் சுருக்கப் பெயர்களில் வரும் வார்த்தைகளின் சரியான ஆங்கில மற்றும் தமிழ் அர்த்தங்களைத் தெரிந்து கொள்ள வேண்டும்.",
+    "en": "Know the exact expansions of developmental program acronyms."
+   },
+   "eg": {
+    "ta": "DPAP என்பது Drought Prone Area Programme (வறட்சியால் பாதிக்கப்பட்ட பகுதிக்கான திட்டம்) ஆகும்.",
+    "en": "DPAP stands for Drought Prone Area Programme."
+   },
+   "tip": {
+    "ta": "Desert (பாலைவனம்) என்பதற்குப் பதிலாக District (மாவட்டம்) என்று மாற்றி குழப்புவார்கள், எச்சரிக்கையாக இருக்கவும்.",
+    "en": "Watch out for substituted words like District instead of Desert in acronym expansions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q161": {
+   "hint": {
+    "ta": "பொருளாதார மற்றும் நிர்வாகவியல் துறைச் சுருக்கக் குறியீடுகளின் (Acronyms) விரிவாக்கங்களைச் சரிபார்க்கவும்.",
+    "en": "Check the official expansions of administrative and technological acronyms."
+   },
+   "explain": {
+    "ta": "IMIS என்பதன் சரியான விரிவாக்கம் Integrated Management Information System (ஒருங்கிணைந்த மேலாண்மைத் தகவல் முறை) ஆகும், உள்கட்டமைப்பு முறை (Infrastructure System) அல்ல. எனவே நான்காவது இணைமட்டுமே தவறானது.",
+    "en": "IMIS stands for Integrated Management Information System, not Infrastructure System, making only statement (4) incorrect."
+   },
+   "why": {
+    "A": {
+     "ta": "1, 2 மற்றும் 3 இணைப்புகள் முற்றிலும் சரியானவை என்பதால் இந்தத் தெரிவு தவறானது.",
+     "en": "Pairs (1), (2), and (3) are actually correct, so this option is wrong."
+    },
+    "B": {
+     "ta": "முதல் மூன்று இணைப்புகளும் சரியானவை, நான்காவது மட்டுமே தவறு.",
+     "en": "The first three pairs are correct; only the fourth one is incorrect."
+    },
+    "C": {
+     "ta": "மூன்றாவது இணைப்பு (MIS) சரியானதாகும், எனவே அது தவறான பட்டியலில் வராது.",
+     "en": "Pair (3) is correct, making this combination incorrect."
+    }
+   },
+   "rule": {
+    "ta": "தகவல் தொழில்நுட்பம் மற்றும் நிர்வாகவியல் சுருக்கப் பெயர்களைத் தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Carefully study IT and administrative acronym expansions."
+   },
+   "eg": {
+    "ta": "NIC என்பது National Informatics Centre (தேசிய தகவலியல் மையம்) என்பதைக் குறிக்கும்.",
+    "en": "NIC stands for National Informatics Centre."
+   },
+   "tip": {
+    "ta": "Information (தகவல்) என்பதற்குப் பதிலாக Infrastructure (உள்கட்டமைப்பு) போன்ற வார்த்தைகளை மாற்றித் தருவார்கள்.",
+    "en": "Examine closely if words like Information are swapped with Infrastructure."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2025-q178": {
+   "hint": {
+    "ta": "வேலுநாச்சியாரின் தந்தை பெயர், இறப்பு ஆண்டு மற்றும் அவரது கூட்டாளிகள் பற்றிய சமச்சீர் புத்தகத் தகவல்களைச் சரிபாருங்கள்.",
+    "en": "Check Samacheer textbook facts about Velu Nachiyar's father, year of death, and allies."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, வேலுநாச்சியார் சிவகங்கை அரசர் செல்லமுத்து விஜயரகுநாத சேதுபதியின் மகள் மற்றும் அவர் 1796-இல் காலமானார். எனவே முதல் மற்றும் மூன்றாவது கூற்றுகள் தவறு, ஆங்கிலேயரைத் தாக்க கோபால் நாயக்கர் மற்றும் ஹைதர் அலியுடன் கூட்டணி அமைத்த இரண்டாவது கூற்று மட்டுமே சரியானது.",
+    "en": "According to the official answer, statements (i) and (iii) have factual errors regarding her father's full title and death year, leaving only statement (ii) as correct."
+   },
+   "why": {},
+   "rule": {
+    "ta": "வரலாற்றுத் தலைவர்களின் வாழ்க்கை வரலாற்று நிகழ்வுகள் மற்றும் ஆண்டுகளைப் படிக்கும் போது முழுமையான பெயர்களையும் சரியான ஆண்டுகளையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Always remember complete names and exact historical years while studying the biographies of historical leaders."
+   },
+   "eg": {
+    "ta": "வேலுநாச்சியார் சிவகங்கையை மீட்க ஹைதர் அலி உதவியுடன் திண்டுக்கலில் தங்கியிருந்து படை திரட்டினார்.",
+    "en": "Velu Nachiyar stayed in Dindigul with Hyder Ali's help to gather troops to recapture Sivagangai."
+   },
+   "tip": {
+    "ta": "வேலுநாச்சியார் மறைந்த ஆண்டு 1796; இதனை 1789 (மருது வார் தொடக்கம்) உடன் குழப்பிக் கொள்ளாதீர்கள்.",
+    "en": "Remember Velu Nachiyar passed away in 1796; do not confuse it with other dates."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-21"
+ "updated": "2026-11-22"
 }

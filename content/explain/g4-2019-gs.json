@@ -506,7 +506,961 @@
     "en": "A negative exponent in the denominator becomes positive when moved to the numerator."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q143": {
+   "hint": {
+    "ta": "இருவர் தனித்தனியாக வேலை செய்யும் நாட்கள் கொடுக்கப்பட்டால், 'ab / (a + b)' என்ற சூத்திரத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Use the formula ab / (a + b) when two individuals finish a work in a and b days."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட நாட்களில் (20, 30) சூத்திரத்தைப் பிரதியிட்டால் (20 × 30) / (20 + 30) = 600 / 50 = 12 நாட்கள் கிடைக்கும். இதுவே இருவரும் சேர்ந்து வேலை செய்யும் காலமாகும்.",
+    "en": "Substituting the given days into the combined work formula yields 12 days."
+   },
+   "why": {
+    "A": {
+     "ta": "இது இருவரின் கூட்டு வேலை நாட்களுக்கு மிகக் குறைவாக உள்ளதால் தவறான கணிப்பாகும்.",
+     "en": "Incorrect as it is too low for the combined work days."
+    },
+    "C": {
+     "ta": "இது 600-ஐ 50 ஆல் வகுக்கும்போது வராத ஒரு தவறான மதிப்பு.",
+     "en": "Incorrect calculation value."
+    },
+    "D": {
+     "ta": "இது B தனியாக எடுக்கும் நாட்களைக் குறிப்பதே தவிர இருவரின் கூட்டு நாட்களல்ல.",
+     "en": "Incorrect as it equals B's individual days."
+    }
+   },
+   "rule": {
+    "ta": "இருவர் தனித்தனியாகச் செய்யும் நாட்களின் பெருக்கற்பலனை அவற்றின் கூடுதலால் வகுத்தால் சேர்ந்து செய்யும் காலம் கிடைக்கும்.",
+    "en": "Combined time equals the product of individual days divided by their sum."
+   },
+   "eg": {
+    "ta": "A 10 நாளிலும் B 15 நாளிலும் முடித்தால் சேர்ந்து முடிக்க: (10 × 15) / (10 + 15) = 6 நாட்கள்.",
+    "en": "If A takes 10 days and B takes 15 days, together they take 6 days."
+   },
+   "tip": {
+    "ta": "மீ.சி.ம (LCM) முறை கொண்டும் இந்த வகையான வேலைக் கணக்குகளை மிக விரைவாகச் போடலாம்.",
+    "en": "LCM method can also be used to solve time and work questions quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q144": {
+   "hint": {
+    "ta": "ஆட்கள், நாட்கள், மணிநேரம் மற்றும் வேலை சார்ந்த கணக்குகளுக்கு 'M1 × D1 × H1 / W1 = M2 × D2 × H2 / W2' சூத்திரத்தைப் பாருங்கள்.",
+    "en": "Apply the chain rule formula involving men, hours, and work output."
+   },
+   "explain": {
+    "ta": "சூத்திரப்படி (14 × 5) / 70 = (M2 × 10) / 100 எனப் பிரதியிட வேண்டும். இடதுபுறம் 1 என வரும், இதிலிருந்து M2 = 10 அச்சுக் கோர்ப்பவர்கள் என்று எளிதாகக் கண்டறியலாம்.",
+    "en": "Substituting into the chain rule formula gives the required number of workers as 10."
+   },
+   "why": {
+    "A": {
+     "ta": "இது விகிதச் சமச் சமன்பாட்டைத் தவறாகத் தீர்ப்பதால் வரும் மதிப்பு.",
+     "en": "Incorrect value from wrong proportion calculation."
+    },
+    "C": {
+     "ta": "இது கொடுக்கப்பட்ட பக்கங்கள் மற்றும் மணிநேரங்களின் விகிதத்திற்குப் பொருந்தாது.",
+     "en": "Does not fit the page-hour ratio."
+    },
+    "D": {
+     "ta": "இது முதல் நிலையில் உள்ள ஆட்களின் எண்ணிக்கையே தவிர புதிய தேவையல்ல.",
+     "en": "Equal to the initial number of workers instead of the answer."
+    }
+   },
+   "rule": {
+    "ta": "வேலை (W) எப்போதும் சூத்திரத்தில் வகுத்தலில்தான் (Denominator) வர வேண்டும்.",
+    "en": "Work done must always be in the denominator of the chain rule formula."
+   },
+   "eg": {
+    "ta": "10 ஆட்கள் 5 நாளில் 50 நாற்காலிகள் செய்தால், 20 ஆட்கள் 2 நாளில் செய்யும் நாற்காலிகள் 40 ஆகும்.",
+    "en": "10 men make 50 chairs in 5 days, 20 men make 40 chairs in 2 days."
+   },
+   "tip": {
+    "ta": "வேலையை எப்போதும் கீழேயும், ஆட்கள் மற்றும் நேரத்தை மேலே தொகுதியிலும் எழுத மறக்காதீர்கள்.",
+    "en": "Always place work in the denominator and workers/time in the numerator."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q145": {
+   "hint": {
+    "ta": "காலம் மாதங்களில் கொடுக்கப்பட்டால், அதை முழுமையாக ஆண்டாக மாற்றிய பின் தனிவட்டி சூத்திரத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Convert the given time in months into years before applying the simple interest formula."
+   },
+   "explain": {
+    "ta": "ஒரு வருடம் 6 மாதங்கள் என்பது 1.5 ஆண்டுகள் ஆகும். SI = (P × N × R) / 100 சூத்திரத்தில் பிரதியிட்டால் (7500 × 1.5 × 8) / 100 = 900 ரூபாய் வட்டியாகக் கிடைக்கும்.",
+    "en": "Converting 1 year 6 months to 1.5 years and using the SI formula gives 900."
+   },
+   "why": {
+    "A": {
+     "ta": "இது ஒரு வருடத்திற்கு மட்டும் கணக்கிடப்பட்ட வட்டியாகும், 6 மாதங்கள் விடுபட்டுவிட்டது.",
+     "en": "Calculated only for one year, missing the 6 months."
+    },
+    "B": {
+     "ta": "இது தவறான பெருக்கல் பலனால் பெறப்பட்ட எண் மதிப்பாகும்.",
+     "en": "Incorrect value from faulty multiplication."
+    },
+    "C": {
+     "ta": "இது 8% வட்டி விகிதத்தில் வரும் முழுமையான ஈட்டுத் தொகையல்ல.",
+     "en": "Incorrect interest value."
+    }
+   },
+   "rule": {
+    "ta": "மாதங்களை ஆண்டாக மாற்ற 12-ஆல் வகுக்க வேண்டும் (எ.கா: 6 மாதம் = 6/12 = 1/2 ஆண்டு).",
+    "en": "To convert months to years, divide by 12."
+   },
+   "eg": {
+    "ta": "₹ 5000-க்கு 10% வட்டி வீதத்தில் 2 ஆண்டுகளுக்குத் தனிவட்டி = (5000 × 2 × 10) / 100 = ₹ 1000.",
+    "en": "SI on 5000 at 10% for 2 years is 1000."
+   },
+   "tip": {
+    "ta": "1 வருடம் 6 மாதம் என்பதை 3/2 அல்லது 1.5 ஆண்டுகள் என மாற்றுவது கணக்கைத் দ্রুত முடிக்க உதவும்.",
+    "en": "Expressing 1 year 6 months as 1.5 simplifies the calculation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q146": {
+   "hint": {
+    "ta": "புதிய கூடுதல் கழித்தல் பழைய கூடுதல் என்ற முறையைப் பயன்படுத்தி ஒரு குறிப்பிட்ட ஆட்டத்தின் மதிப்பைத் கண்டறியுங்கள்.",
+    "en": "Find the specific match score by subtracting the total of previous matches from the new total."
+   },
+   "explain": {
+    "ta": "31 ஆட்டங்களின் மொத்த ஓட்டங்கள் 31 × 73 = 2263 ஆகும். முந்தைய 30 ஆட்டங்களின் மொத்த ஓட்டங்கள் 30 × 72 = 2160 ஆகும். இரண்டையும் கழித்தால் 31-வது ஆட்டத்தின் ஓட்டங்கள் 103 என்று கிடைக்கும்.",
+    "en": "Total runs of 31 matches minus total runs of 30 matches gives the 31st match score as 103."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தோராயமாக ஊகிக்கப்பட்ட மதிப்பு, உண்மையான கணக்கீட்டுடன் பொருந்தாது.",
+     "en": "Guessed value, doesn't match the calculation."
+    },
+    "C": {
+     "ta": "இது சராசரி மதிப்புகளுக்கு இடையே உள்ள எண்களின் எளிய வித்தியாசமாகும்.",
+     "en": "Just a difference between averages, not the score."
+    },
+    "D": {
+     "ta": "இது தவறான பெருக்கல் பலனால் கிடைக்கும் தேவையற்ற எண்.",
+     "en": "Incorrect product value."
+    }
+   },
+   "rule": {
+    "ta": "ஓரு புதிய மதிப்பு சேரும்போது, புதிய மொத்தம் கழித்தல் பழைய மொத்தம் என்பது அந்த புதிய மதிப்பைத் தரும்.",
+    "en": "New total minus old total equals the newly added value."
+   },
+   "eg": {
+    "ta": "5 பேரின் சராசரி 20; ஒருவர் சேர சராசரி 22 எனில் சேர்த்தவரின் வயது = (6 × 22) - (5 × 20) = 32.",
+    "en": "If average of 5 is 20, and adding one makes it 22, the new person's value is 32."
+   },
+   "tip": {
+    "ta": "சராசரி அதிகரிப்புடன் மொத்த ஆட்ட எண்ணிக்கையைப் பெருக்கிச் சுலபமாகக் கண்டுபிடிக்கலாம்.",
+    "en": "Multiply the new count by the new average to quickly find the total."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q147": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட பின்னங்களை தசம எண்களாக (decimals) மாற்றி ஏறுவரிசையில் (சிறு மதிப்பில் இருந்து பெரு மதி peine) எழுதுங்கள்.",
+    "en": "Convert the fractions into decimals to easily arrange them in ascending order."
+   },
+   "explain": {
+    "ta": "பின்னங்களை தசமமாக மாற்ற 3/4 = 0.75, 1/2 = 0.5 மற்றும் 5/8 = 0.625 ஆகும். இவற்றில் சிறியது முதல் பெரியது வரை வரிசைப்படுத்தும்போது 1/2, 5/8, 3/4 என அமையும்.",
+    "en": "Converting fractions to decimals (0.5, 0.625, 0.75) gives the ascending order."
+   },
+   "why": {
+    "B": {
+     "ta": "இது இடைப்பட்ட மதிப்புகளின் சரியான வரிசை அல்ல.",
+     "en": "Incorrect order of intermediate values."
+    },
+    "C": {
+     "ta": "இது பெரிய மதிப்பில் இருந்து சிறிய மதிப்பை நோக்கிய இறங்கு வரிசையாகும்.",
+     "en": "This is descending order, not ascending."
+    },
+    "D": {
+     "ta": "இது எந்தவித ஒழுங்குமுறையும் இல்லாத சீரற்ற வரிசையாகும்.",
+     "en": "Random order without any proper sequence."
+    }
+   },
+   "rule": {
+    "ta": "பின்னங்களை ஒப்பிட அடிமானத்தை (denominator) சமமாக்க வேண்டும் அல்லது தசம எண்ணாக மாற்ற வேண்டும்.",
+    "en": "To compare fractions, make denominators equal or convert to decimals."
+   },
+   "eg": {
+    "ta": "1/4, 1/2, 3/4 இன் ஏறுவரிசை: 0.25, 0.5, 0.75 அதாவது 1/4, 1/2, 3/4.",
+    "en": "Ascending order of 1/4, 1/2, 3/4 is 1/4, 1/2, 3/4."
+   },
+   "tip": {
+    "ta": "சதவீத மதிப்புகளாக மாற்றியும் (50%, 62.5%, 75%) மிக எளிதாக ஏறுவரிசையைக் கண்டறியலாம்.",
+    "en": "Converting to percentages also helps in quick comparison."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q148": {
+   "hint": {
+    "ta": "நிகழ்தகவு காண, சாதகமான நிகழ்வுகளின் எண்ணிக்கையை மொத்த நிகழ்வுகளால் வகுக்க வேண்டும்.",
+    "en": "Probability is favorable outcomes divided by total outcomes."
+   },
+   "explain": {
+    "ta": "மொத்த பந்துகள் 50, அதில் 6 ஓட்டங்கள் அடிக்காத பந்துகள் 50 - 10 = 40 ஆகும். நிகழ்தகவு = 40 / 50 = 4/5 ஆகும்.",
+    "en": "Balls without six are 50 - 10 = 40. The probability is 40/50, which simplifies to 4/5."
+   },
+   "why": {
+    "A": {
+     "ta": "இது ஆறு ஓட்டங்கள் எடுத்தற்கான நிகழ்தகவே தவிர அடிக்காததற்கானது அல்ல.",
+     "en": "This is the probability of hitting a six, not the opposite."
+    },
+    "C": {
+     "ta": "நிகழ்தகவு மதிப்பு எப்போதுமே 1-ஐ விடக் குறைவாகத்தான் இருக்க வேண்டும், இது தவறான பின்னமாகும்.",
+     "en": "Probability cannot exceed 1."
+    },
+    "D": {
+     "ta": "இது கொடுக்கப்பட்ட தரவுகளுக்குப் பொருந்தாத ஒரு தவறான விகிதமாகும்.",
+     "en": "Incorrect ratio not matching the data."
+    }
+   },
+   "rule": {
+    "ta": "P + P(not A) = 1 என்பதால், ஒரு நிகழ்வுக்கான நிகழ்தகவு தெரிந்தால் எதிரிகழ்வை 1-ல் இருந்து கழிக்கலாம்.",
+    "en": "P(not A) = 1 - P ."
+   },
+   "eg": {
+    "ta": "ஒரு பையில் 3 சிவப்பு, 2 நீலப் பந்துகள் இருப்பின் நீலப் பந்து அல்லாததற்கான நிகழ்தகவு 3/5.",
+    "en": "If a bag has 3 red and 2 blue balls, probability of not getting a blue ball is 3/5."
+   },
+   "tip": {
+    "ta": "எதிர்மறை நிகழ்தகவைக் கேட்கும்போது மொத்தத்திலிருந்து கழித்துவிட்டு எளிய வடிவில் சுருக்குங்கள்.",
+    "en": "For complementary probability, subtract from total and simplify."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q102": {
+   "hint": {
+    "ta": "வேதியியல் சோதனைகளில் குறிப்பிட்ட சேர்மங்களின் பயன்பாடுகள் பற்றிக் கேட்கும்போது, அவற்றின் நிற மாற்றங்கள் மற்றும் பயன்பாடுகளை நினைவில் கொள்ளுங்கள்.",
+    "en": "When asked about chemical uses in tests, recall specific reagents and their color changes."
+   },
+   "explain": {
+    "ta": "வாகனம் ஓட்டுபவர்கள் மது அருந்தியுள்ளனரா என்பதை அறியும் சுவாசப் பகுப்பாய்வு சோதனையில் பொட்டாசியம் டைக்ரோமேட் பயன்படுத்தப்படுகிறது. இது ஆல்கஹாலுடன் வினைபுரிந்து நிறம் மாறுகிறது.",
+    "en": "Potassium dichromate is used in breathalyzers to detect alcohol consumption through a color change reaction."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சுவாசப் பகுப்பாய்வு சோதனையில் பயன்படுத்தப்படும் வேதிப்பொருள் பொட்டாசியம் டைக்ரோமேட் ஆகும்.",
+    "en": "Potassium dichromate is the chemical used in breath analysis tests."
+   },
+   "eg": {
+    "ta": "ஆல்கஹால் சுவாசப் பகுப்பாய்வியில் அமிலக் கலவையுடன் கூடிய பொட்டாசியம் டைக்ரோமேட் பயன்படுத்தப்படுகிறது.",
+    "en": "Acidified potassium dichromate is used in alcohol breath analyzers."
+   },
+   "tip": {
+    "ta": "மது பரிசோதனை என்றால் டைக்ரோமேட் (K_2Cr_2O_7) என்பதை நினைவில் வையுங்கள்.",
+    "en": "Remember dichromate for alcohol breath test."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q112": {
+   "hint": {
+    "ta": "உயிரினங்களின் பாலினப் பெருக்க முறைகளில் இனச்செல்களின் உருவாக்கமின்றி முதிர்ந்த உயிரிகளே நேரடியாக இணையம் முறையைக் கவனியுங்கள்.",
+    "en": "Look for the method of sexual reproduction where mature organisms fuse directly without forming gametes."
+   },
+   "explain": {
+    "ta": "கீழ்நிலை உயிரிகளில் முதிர்ந்த உயிரிகள் தனித்தனி இனச்செல்களை உருவாக்காமல், முழு உயிரிகளே இனச்செல்களாகச் செயல்பட்டு ஒன்றிணைவது முழு சேர்க்கை (Hologamy) எனப்படும்.",
+    "en": "In lower organisms, the fusion of mature individuals directly acting as gametes without forming separate gametes is called Hologamy."
+   },
+   "why": {},
+   "rule": {
+    "ta": "முதிர்ந்த உயிரிகளே நேரடியாகச் சேர்ந்து இனப்பெருக்கம் செய்வது முழு சேர்க்கை ஆகும்.",
+    "en": "The direct fusion of mature organisms acting as gametes is hologamy."
+   },
+   "eg": {
+    "ta": "ஈஸ்ட் மற்றும் கிளாமிடோமோனாஸ் போன்ற உயிரிகளில் முழு சேர்க்கை காணப்படுகிறது.",
+    "en": "Hologamy is found in organisms like yeast and Chlamydomonas."
+   },
+   "tip": {
+    "ta": "முழு உயிரிகளும் சேர்வது 'முழு சேர்க்கை' (Hologamy).",
+    "en": "Fusion of whole organisms is Hologamy."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q118": {
+   "hint": {
+    "ta": "காரங்களின் பண்புகள், லித்மஸ் தாள் நிற மாற்றம் மற்றும் உலோகங்களுடன் காரங்களின் வினை ஆகியவற்றைச் சரிபார்க்கவும்.",
+    "en": "Check the properties of bases, litmus paper color changes, and their reactions with metals."
+   },
+   "explain": {
+    "ta": "காரங்கள் நீரில் கரைந்து ஹைட்ராக்சைடு அயனிகளைத் தருகின்றன மற்றும் துத்தநாகத்துடன் சோடியம் ஹைட்ராக்சைடு வினைபுரிந்து சோடியம் ஜிங்கேட்டைத் தருகிறது என்பவை சரியான கூற்றுகள் ஆகும்.",
+    "en": "Bases release hydroxide ions in water and react with zinc to form sodium zincate, making statements I and III correct."
+   },
+   "why": {},
+   "rule": {
+    "ta": "காரங்கள் சிவப்பு லித்மஸை நீலமாக மாற்றும் மற்றும் பினாப்தலினை இளஞ்சிவப்பாக மாற்றும்.",
+    "en": "Bases turn red litmus blue and phenolphthalein pink."
+   },
+   "eg": {
+    "ta": "சோடியம் ஹைட்ராக்சைடு (NaOH) ஒரு வலுவான காரமாகும்.",
+    "en": "Sodium hydroxide (NaOH) is a strong base."
+   },
+   "tip": {
+    "ta": "காரங்கள் சிவப்பு லித்மஸை நீலமாக்கும் (கா-சி-நீ அல்ல, கா-செ-நீ: காரம் சிவப்பை நீலமாக்கும்).",
+    "en": "Remember bases turn red litmus blue."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q128": {
+   "hint": {
+    "ta": "பரவலாகப் பரவும் சுவாசத் தொற்று நோய்கள் மற்றும் அவற்றுக்கான காரணிகளைப் பற்றி நினைவுபடுத்திக் கொள்ளுங்கள்.",
+    "en": "Recall common respiratory infectious diseases and their causative agents."
+   },
+   "explain": {
+    "ta": "பன்றி காய்ச்சல் என்பது H1N1 இன்ஃப்ளுயன்சா வைரஸ் மூலம் மனிதர்களுக்குப் பரவும் ஒரு வைரஸ் தொற்று நோயாகும்.",
+    "en": "Swine flu is a viral respiratory infection caused by the H1N1 influenza virus."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பன்றி காய்ச்சலை உருவாக்கும் வைரஸ் H1N1 ஆகும்.",
+    "en": "Swine flu is caused by the H1N1 virus."
+   },
+   "eg": {
+    "ta": "பறவைக் காய்ச்சல் H5N1 வைரஸ் மூலம் ஏற்படுகிறது.",
+    "en": "Bird flu is caused by the H5N1 virus."
+   },
+   "tip": {
+    "ta": "பன்றி காய்ச்சல் என்றால் H1N1 வைரஸ் நினைவுக்கு வர வேண்டும்.",
+    "en": "Swine flu directly links to H1N1."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q129": {
+   "hint": {
+    "ta": "மனித இனப்பெருக்க மண்டலத்தில் உள்ள விந்தக செல்கள் மற்றும் அவற்றின் சுரப்புப் பொருட்கள் பற்றிக் கவனியுங்கள்.",
+    "en": "Look at the cells in the human male reproductive system and their secretory products."
+   },
+   "explain": {
+    "ta": "விந்தகங்களில் உள்ள செர்டோலி செல்கள் விந்தணுக்களுக்கு ஊட்டச்சத்தை அளிப்பதோடு, ஆன்ட்ரோஜன் இணைவு புரதத்தையும் (Androgen Binding Protein) உற்பத்தி செய்கின்றன.",
+    "en": "Sertoli cells in the testes produce Androgen Binding Protein which helps in spermatogenesis."
+   },
+   "why": {},
+   "rule": {
+    "ta": "ஆன்ட்ரோஜன் இணைவு புரதத்தை உற்பத்தி செய்வது செர்டோலி செல்கள் ஆகும்.",
+    "en": "Androgen binding protein is produced by Sertoli cells."
+   },
+   "eg": {
+    "ta": "செர்டோலி செல்கள் விந்தணு உருவாக்கத்தின்போது அவற்றுக்குத் தேவையான ஊட்டப்பொருள் மற்றும் ஆதரவை வழங்குகின்றன.",
+    "en": "Sertoli cells provide nutrition and support to developing spermatozoa."
+   },
+   "tip": {
+    "ta": "செர்டோலி செல்கள் = விந்தணுக்களுக்கு ஆதரவும் புரதச் சுரப்பும்.",
+    "en": "Sertoli cells provide structural and metabolic support."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q131": {
+   "hint": {
+    "ta": "ஒருவித்திலை மற்றும் இருவித்திலை தாவரங்களின் மலரின் உறுப்புகள், வேர் மற்றும் நரம்பமைவு ஆகியவற்றுக்கு இடையேயான வேறுபாடுகளைப் பாருங்கள்.",
+    "en": "Look at the differences in floral parts, root systems, and venation between monocots and dicots."
+   },
+   "explain": {
+    "ta": "ஒருவித்திலை தாவர மலர்கள் பொதுவாக மூவங்கம் (trimerous) கொண்டவை ஆகும். ஐந்தங்க மலர் (pentamerous) என்பது இருவித்திலை தாவரங்களின் பண்பாகும்.",
+    "en": "Monocot flowers are typically trimerous, whereas pentamerous flowers are a characteristic of dicotyledonous plants."
+   },
+   "why": {},
+   "rule": {
+    "ta": "ஒருவித்திலை தாவர மலர்கள் மூவங்கம் (trimerous) கொண்டவை.",
+    "en": "Monocot flowers are generally trimerous."
+   },
+   "eg": {
+    "ta": "நெல் மற்றும் கோதுமை ஆகியவை ஒருவித்திலை தாவரங்களுக்கு எடுத்துக்காட்டுகளாகும்.",
+    "en": "Paddy and wheat are examples of monocotyledonous plants."
+   },
+   "tip": {
+    "ta": "ஐந்தங்கம் = இருவித்திலை, மூவங்கம் = ஒருவித்திலை.",
+    "en": "Pentamerous = Dicot, Trimerous = Monocot."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q132": {
+   "hint": {
+    "ta": "உயிரினங்களில் நடைபெறும் செல் பகுப்பு முறைகளில் மைட்டாசிஸ் மற்றும் மயாசிஸ் ஆகியவற்றின் சிறப்பம்சங்களைப் பாருங்கள்.",
+    "en": "Look at the key characteristics and differences between mitosis and meiosis cell divisions."
+   },
+   "explain": {
+    "ta": "மைட்டாசிஸ் என்பது ஒரே ஒரு செல் பகுப்பைக் கொண்டு இரு இருமய செல்களை உருவாக்குவதாகும். எனவே மைட்டாசிஸ் இரு பகுப்புகளைக் கொண்டது என்பது தவறான கூற்றாகும்.",
+    "en": "Mitosis consists of only one cell division, making the statement that it has two divisions incorrect."
+   },
+   "why": {
+    "A": {
+     "ta": "உடல் செல்களில் மட்டும் நடைபெறுகிறது என்பது மைட்டாசிஸின் சரியான பண்பாகும்.",
+     "en": "Occurring only in somatic cells is a correct property of mitosis."
+    },
+    "C": {
+     "ta": "இச்செயல்பாட்டில் 2n குரோமோசோம்கள் நிலைநிறுத்தப்படுகிறது என்பது சரியாகும்.",
+     "en": "The maintenance of 2n chromosomes is correct in this process."
+    },
+    "D": {
+     "ta": "இதன் மூலம் இரு இருமய செல்கள் தோன்றுகின்றன என்பது சரியாகும்.",
+     "en": "The production of two diploid cells is correct."
+    }
+   },
+   "rule": {
+    "ta": "மைட்டாசிஸ் ஒரு பகுப்பு மற்றும் இரு இருமய செல்களைத் தரும்; மயாசிஸ் இரு பகுப்புகள் மற்றும் நான்கு ஒடுமய செல்களைத் தரும்.",
+    "en": "Mitosis has one division giving two diploid cells, while meiosis has two divisions giving four haploid cells."
+   },
+   "eg": {
+    "ta": "மனிதனின் உடல் வளர்ச்சிக்கு மைட்டாசிஸ் செல் பகுப்பு உதவுகிறது.",
+    "en": "Mitosis helps in the somatic growth of the human body."
+   },
+   "tip": {
+    "ta": "மைட்டாசிஸ் = உடல் செல் (1 பகுப்பு); மயாசிஸ் = இனப்பெருக்க செல் (2 பகுப்பு).",
+    "en": "Mitosis = somatic cell (1 division); Meiosis = germ cell (2 divisions)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q133": {
+   "hint": {
+    "ta": "வேதிப்பொருட்களின் பெயர்களையும் அவற்றின் பயன்களையும் சமச்சீர் புத்தக அறிவியல் அட்டவணையில் சரிபார்த்துப் பாருங்கள்.",
+    "en": "Check the chemical compounds and their specific uses from the science textbook table."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி II மற்றும் IV ஆகிய கூற்றுகள் தவறானவை. NaHCO3 சமையல் சோடாவாகவும், CaOCl2 கிருமி நாசினியாகவும் வெளுக்கும் தூளாகவும் பயன்படுகிறது.",
+    "en": "According to the official answer, statements II and IV are wrong as NaHCO3 is baking soda and CaOCl2 is bleaching powder."
+   },
+   "why": {
+    "A": {
+     "ta": "கூற்று I சரியான பயன்பாட்டைக் குறிப்பதால் இந்த விடை பொருந்தாது.",
+     "en": "Statement I is correct, so this option is incorrect."
+    },
+    "C": {
+     "ta": "கூற்று I மற்றும் III இரண்டும் சரியான பயன்பாடுகளைக் கொண்டுள்ளன.",
+     "en": "Both statements I and III have correct uses."
+    },
+    "D": {
+     "ta": "கூற்று III சரியான பயன்பாட்டைக் குறிப்பதால் இது தவறாகும்.",
+     "en": "Statement III is correct, making this option wrong."
+    }
+   },
+   "rule": {
+    "ta": "ஒவ்வொரு வேதிப்பொருளுக்கும் மனித வாழ்வில் தனித்த முக்கியமான பயன்பாடுகள் உண்டு.",
+    "en": "Every chemical compound has distinct and important applications in daily life."
+   },
+   "eg": {
+    "ta": "சலவை சோடா (Na2CO3) கடின நீரை மென்னீராக மாற்றப் பயன்படுகிறது.",
+    "en": "Washing soda (Na2CO3) is used to soften hard water."
+   },
+   "tip": {
+    "ta": "NaHCO3 என்பது சமையல் சோடா, ரொட்டிச்சோடா என்பது வேறு வேதிப்பொருள்.",
+    "en": "NaHCO3 is baking soda, not baking powder."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q134": {
+   "hint": {
+    "ta": "கோளப் படியில் வளைவு ஆரம் (R) மற்றும் குவியத் தொலைவு (f) ஆகியவற்றுக்கு இடையேயான கணித உறவைப் பயன்படுத்துங்கள்.",
+    "en": "Apply the mathematical relationship between the radius of curvature (R) and focal length (f) of a spherical mirror."
+   },
+   "explain": {
+    "ta": "குவியத் தொலைவு என்பது வளைவு ஆரத்தில் பாதியாகும். f = R / 2 என்ற சூத்திரத்தின்படி, 40 செ.மீ-ஐ இரண்டால் வகுத்தால் 20 செ.மீ கிடைக்கும்.",
+    "en": "Focal length is half of the radius of curvature. Using f = R / 2, dividing 40 cm by 2 gives 20 cm."
+   },
+   "why": {
+    "B": {
+     "ta": "40 செ.மீ என்பது வளைவு ஆரத்தின் மதிப்பு, குவியத் தொலைவு அல்ல.",
+     "en": "40 cm is the radius of curvature, not the focal length."
+    },
+    "C": {
+     "ta": "80 செ.மீ என்பது வளைவு ஆரத்தை இரண்டால் பெருக்குவதனால் வருவது, இது தவறான சூத்திரமாகும்.",
+     "en": "80 cm comes from multiplying the radius, which is an incorrect formula."
+    },
+    "D": {
+     "ta": "முடிவிலி என்பது சமதட்ட ஆடி அல்லது ஒளிவிலகல் இல்லாத நிலைக்குப் பொருந்தும்.",
+     "en": "Infinity applies to plane mirrors or parallel rays under specific conditions."
+    }
+   },
+   "rule": {
+    "ta": "குவியத் தொலைவு (f) = வளைவு ஆரம் (R) / 2.",
+    "en": "Focal length (f) = Radius of curvature (R) / 2."
+   },
+   "eg": {
+    "ta": "வளைவு ஆரம் 50 செ.மீ எனில் குவியத் தொலைவு 25 செ.மீ ஆகும்.",
+    "en": "If the radius of curvature is 50 cm, the focal length is 25 cm."
+   },
+   "tip": {
+    "ta": "குவியத் தொலைவு கேட்டால் கொடுக்கப்பட்ட மதிப்பை பாதியாகக் குறையுங்கள்.",
+    "en": "When focal length is asked, halve the given radius value."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q135": {
+   "hint": {
+    "ta": "விசை மற்றும் சுழற்சி அச்சுக்கான தொலைவு ஆகியவற்றுக்கு இடையேயான திருப்புத்திறன் தத்துவத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Apply the principle of moments involving force and distance from the axis of rotation."
+   },
+   "explain": {
+    "ta": "திருப்புத் திறன் மாறாமல் இருக்க வேண்டும். முனையிலிருந்து மையத்திற்குத் தொலைவு பாதியாகக் குறைவதால், தேவைப்படும் விசை இருமடங்காக அதாவது 10 N-லிருந்து 20 N ஆக அதிகரிக்கிறது.",
+    "en": "Torque must remain constant. Since the distance from the edge to the center is halved, the force required doubles from 10 N to 20 N."
+   },
+   "why": {
+    "A": {
+     "ta": "தொலைவு மாறும்போது விசையின் மதிப்பும் மாறும், எனவே 10 N என்பது தவறாகும்.",
+     "en": "When distance changes, the force also changes, so 10 N is incorrect."
+    },
+    "B": {
+     "ta": "தொலைவு குறையும்போது விசை குறையாது, மாறாக அதிகரிக்கும்.",
+     "en": "When distance decreases, force does not decrease, it increases."
+    },
+    "C": {
+     "ta": "15 N என்பது விகிதாச்சார கணக்கீட்டிற்கு உட்படாத தவறான மதிப்பாகும்.",
+     "en": "15 N is an incorrect value not matching the inverse proportionality."
+    }
+   },
+   "rule": {
+    "ta": "விசை × சுழற்சி அச்சுக்கான தொலைவு = மாறிலி (Torque = F × d).",
+    "en": "Force × distance from pivot = constant (Torque = F × d)."
+   },
+   "eg": {
+    "ta": "கதவின் கீலில் இருந்து தள்ளும்போது திறக்க அதிக விசை தேவைப்படுகிறது.",
+    "en": "More force is required to push a door open near its hinges."
+   },
+   "tip": {
+    "ta": "தொலைவு பாதியானால் விசை இருமடங்காகும் (Inverse proportion).",
+    "en": "If distance is halved, force is doubled."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q136": {
+   "hint": {
+    "ta": "மின்சாரவியல் வரலாற்றில் முதல் மின் கலத்தை (Voltaic pile) கண்டுபிடித்த விஞ்ஞானியின் பெயரைப் பாருங்கள்.",
+    "en": "Look at the scientist who invented the first electric battery (Voltaic pile) in the history of electricity."
+   },
+   "explain": {
+    "ta": "இத்தாலிய physicist ஆன அலெச்சாண்ட்ரோ வோல்டா என்பவர்தான் முதன்முதலில் வேதி ஆற்றலை மின் ஆற்றலாக மாற்றும் முதல் மின்கலத்தை உருவாக்கினார்.",
+    "en": "The Italian physicist Alessandro Volta created the first battery that converted chemical energy into electrical energy."
+   },
+   "why": {
+    "A": {
+     "ta": "ஜூல் என்பவர் வெப்ப ஆற்றல் மற்றும் மின்னோட்டத்தின் வெப்ப விளைவுக்கான விதிகளைத் தந்தவர்.",
+     "en": "Joule is known for the laws of heating effect of electric current."
+    },
+    "B": {
+     "ta": "ஜார்ஜ் சைமன் ஓம் என்பவர் ஓம் விதியை (V = IR) உருவாக்கியவர்.",
+     "en": "George Simon Ohm formulated Ohm's law."
+    },
+    "D": {
+     "ta": "ஐசக் நியூட்டன் இயக்க விதிகள் மற்றும் ஈர்ப்பு விசையைக் கண்டறிந்தவர்.",
+     "en": "Isaac Newton discovered the laws of motion and gravitation."
+    }
+   },
+   "rule": {
+    "ta": "அலெச்சாண்ட்ரோ வோல்டா நினைவாகவே மின்னழுத்தத்தின் அலகு 'வோல்ட்' என அழைக்கப்படுகிறது.",
+    "en": "The unit of electric potential is named 'Volt' in honor of Alessandro Volta."
+   },
+   "eg": {
+    "ta": "வோல்டாயிக் பைல் (Voltaic pile) என்பது உலகின் முதல் மின்கலமாகும்.",
+    "en": "The Voltaic pile is the world's first chemical battery."
+   },
+   "tip": {
+    "ta": "வோல்டா = வோல்டேஜ் (Voltage) / மின்கலம்.",
+    "en": "Volta = Voltage / Battery."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q154": {
+   "hint": {
+    "ta": "தாவரங்களில் சருதி மாற்றம் (Mutation) மூலம் உருவாக்கப்பட்ட மேம்படுத்தப்பட்ட கோதுமை வகையைக் கண்டறியுங்கள்.",
+    "en": "Identify the improved variety of wheat created through plant mutation."
+   },
+   "explain": {
+    "ta": "காமா கதிர்களைப் பயன்படுத்தி கதிர்வீச்சு சருதி மாற்றத்தின் மூலம் உருவாக்கப்பட்ட புகழ்பெற்ற கோதுமை வகை சார்பதி சொனோரா ஆகும்.",
+    "en": "Sharbati Sonora is a famous wheat variety developed through gamma-ray induced mutation."
+   },
+   "why": {
+    "A": {
+     "ta": "ஈனோதீரா லாமார்க்கியானா என்பது கூர்ப்பியல் ஆய்வுக்கு ஹியூகோ டி விரிஸ் பயன்படுத்திய தாவரமாகும்.",
+     "en": "Oenothera lamarkiana is the plant used by Hugo de Vries for mutation theory studies."
+    },
+    "B": {
+     "ta": "ஆமணக்கு அருணா என்பது சருதி மாற்றத்தின் மூலம் உருவாக்கப்பட்ட ஆமணக்கு வகையாகும்.",
+     "en": "Castor Aruna is a mutant variety of castor bean."
+    },
+    "D": {
+     "ta": "மிராபிலிஸ் ஜலாபா என்பது அந்தி மல்லிகை தாவரம் ஆகும், இது மரபியல் சோதனைகளுக்குப் பயன்படும்.",
+     "en": "Mirabilis jalapa is the four o'clock plant used in genetic studies."
+    }
+   },
+   "rule": {
+    "ta": "கதிர்வீச்சு மூலம் தாவரங்களில் விரும்பத்தக்க மரபியல் மாற்றங்களை ஏற்படுத்தி புதிய வீரிய ரகங்கள் உருவாக்கப்படுகின்றன.",
+    "en": "New high-yielding varieties are created by inducing desirable genetic mutations using radiation."
+   },
+   "eg": {
+    "ta": "சூர்யா mung bean என்பது கதிர்வீச்சு மூலம் உருவாக்கப்பட்ட பாசிப்பயறு வகையாகும்.",
+    "en": "Sabarmati rice is another mutant crop variety."
+   },
+   "tip": {
+    "ta": "சாரபதி சொனோரா = கோதுமை; அருணா = ஆமணக்கு.",
+    "en": "Sharbati Sonora = Wheat; Aruna = Castor."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q182": {
+   "hint": {
+    "ta": "புரோகேரியோட்டு செல்களின் உட்கரு மற்றும் நுண்ணுறுப்புகளின் அமைப்பை யோசித்து விடையை அணுகவும்.",
+    "en": "Think about the structure of nucleus and organelles in prokaryotic cells to approach this question."
+   },
+   "explain": {
+    "ta": "புரோகேரியோட்டு செல்களில் தெளிவான உட்கரு மற்றும் சவ்வினால் சூழப்பட்ட செல் நுண்ணுறுப்புகள் கிடையாது. எனவே கூற்று I மற்றும் IV சரியானவை ஆகும்.",
+    "en": "Prokaryotic cells lack a prominent nucleus and membrane-bound cell organelles. Hence statements I and IV are correct."
+   },
+   "why": {
+    "A": {
+     "ta": "நியூக்ளியோலஸ் புரோகேரியோட்டு செல்களில் காணப்படுவதில்லை.",
+     "en": "Nucleolus is not present in prokaryotic cells."
+    },
+    "C": {
+     "ta": "புரோகேரியோட்டு செல்களில் மைட்டாசிஸ் மற்றும் மியாசிஸ் செல் பிரிதலுக்குப் பதிலாக எளிய நருக்குப் பிளவு முறை நடைபெறுகிறது.",
+     "en": "Mitosis and meiosis cell divisions do not occur in prokaryotic cells."
+    },
+    "D": {
+     "ta": "மைட்டாசிஸ் மற்றும் மியாசிஸ் செல் பிரிதல் புரோகேரியோட்டுகளில் நடைபெறுவதில்லை.",
+     "en": "Mitosis and meiosis do not take place in prokaryotes."
+    }
+   },
+   "rule": {
+    "ta": "புரோகேரியோட்டு செல்களில் மென்படலத்தால் சூழப்பட்ட உட்கருவோ அல்லது நுண்ணுறுப்புகளோ இருக்காது.",
+    "en": "Prokaryotic cells do not have a membrane-bound nucleus or organelles."
+   },
+   "eg": {
+    "ta": "பாக்டீரியா செல் ஒரு புரோகேரியோட்டு செல்லுக்குச் சிறந்த எடுத்துக்காட்டாகும்.",
+    "en": "Bacterial cell is a classic example of a prokaryotic cell."
+   },
+   "tip": {
+    "ta": "புரோகேரியோட் என்றால் பழைய உட்கரு; சவ்வு இருக்காது என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Prokaryote means primitive nucleus; remember that membrane is absent."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q183": {
+   "hint": {
+    "ta": "சுவாச ஈவு சூத்திரத்தில் மேலே என்ன வாயு, கீழே என்ன வாயு வரும் என்பதைச் சமச்சீர் புத்தகத்திலிருந்து நினைவு கூருங்கள்.",
+    "en": "Recall from Samacheer book which gas comes on top and which on bottom in the respiratory quotient formula."
+   },
+   "explain": {
+    "ta": "சுவாச வீதம் என்பது வெளியிடப்படும் கார்பன் டை ஆக்சைடின் அளவுக்கும் பயன்படுத்தப்படும் ஆக்ஸிஜனின் அளவுக்கும் உள்ள விகிதமாகும். எனவே இதுவே சரியான சூத்திரமாகும்.",
+    "en": "Respiratory quotient is the ratio of volume of carbon dioxide liberated to the volume of oxygen consumed, making this formula correct."
+   },
+   "why": {
+    "B": {
+     "ta": "வெளியிடப்படும் O2 மேலே வராது, அது தவறான விகிதமாகும்.",
+     "en": "Volume of O2 liberated does not come on top; it is an incorrect ratio."
+    },
+    "C": {
+     "ta": "பயன்படுத்தப்படும் O2 மேலே வருவது சுவாச வீதத்தின் தலைகீழான தவறான வடிவமாகும்.",
+     "en": "Volume of O2 consumed on top is the reciprocal and incorrect form of respiratory quotient."
+    },
+    "D": {
+     "ta": "CO2 கீழே வருவது சுவாச வீத சூத்திரத்திற்கு முரணானது.",
+     "en": "Having CO2 at the bottom contradicts the respiratory quotient formula."
+    }
+   },
+   "rule": {
+    "ta": "சுவாச வீதம் = (வெளியிடப்பட்ட CO2 அளவு) ÷ (பயன்படுத்தப்பட்ட O2 அளவு).",
+    "en": "Respiratory Quotient = (Volume of CO2 liberated) ÷ (Volume of O2 consumed)."
+   },
+   "eg": {
+    "ta": "காற்றின் முன்னிலையில் நடைபெறும் காற்றில்லாச் சுவாசத்தின் போது சுவாச வீதம் கணக்கிட இந்தச் சூத்திரம் பயன்படுகிறது.",
+    "en": "This formula is used to calculate respiratory quotient during aerobic respiration."
+   },
+   "tip": {
+    "ta": "C மேலேயும் O கீழே வர வேண்டும் (CO2 / O2) என்பதைச் சுருக்கமாக நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the short form: CO2 on top and O2 at the bottom."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q184": {
+   "hint": {
+    "ta": "மின்வேதிக் கலனில் எதிர்மின்வாயில் (Cathode) எலக்ட்ரான்கள் ஏற்கப்படுகிறதா அல்லது இழக்கப்படுகிறதா என்று யோசியுங்கள்.",
+    "en": "Think whether electrons are accepted or lost at the cathode in an electrochemical cell."
+   },
+   "explain": {
+    "ta": "மின்வேதிக் கலனில் எதிர்மின்வாயில் எலக்ட்ரான்கள் ஏற்கப்பட்டு ஆக்ஸிஜன் ஒடுக்கம் (Reduction) நிகழ்கிறது. எனவே இதுவே சரியான விடையாகும்.",
+    "en": "In an electrochemical cell, electrons are accepted at the cathode where reduction takes place, making this option correct."
+   },
+   "why": {
+    "A": {
+     "ta": "ஆக்ஸிஜனேற்றம் என்பது நேர்மின்வாயில் (Anode) எலக்ட்ரான்களை இழக்கும் செயலாகும்.",
+     "en": "Oxidation is the loss of electrons which occurs at the anode."
+    },
+    "B": {
+     "ta": "நடுநிலையாக்கல் என்பது அமிலமும் காரமும் சேர்ந்து உப்பு நீராகும் வினையாகும்.",
+     "en": "Neutralisation is the reaction between acid and base to form salt and water."
+    },
+    "D": {
+     "ta": "பதிலீட்டு வினை என்பது ஒரு தனிமம் மற்றொரு தனிமத்தால் இடமாற்றம் செய்யப்படும் வினையாகும்.",
+     "en": "Substitution reaction is where one element displaces another."
+    }
+   },
+   "rule": {
+    "ta": "எதிர்மின்வாயில் ஒடுக்கமும், நேர்மின்வாயில் ஆக்ஸிஜனேற்றமும் நிகழும்.",
+    "en": "Reduction occurs at the cathode and oxidation occurs at the anode."
+   },
+   "eg": {
+    "ta": "டேனியல் கலனில் தாமிரத் தட்டின் மீது செம்பு அயனிகள் ஒடுக்கமடைவது இதற்கு எடுத்துக்காட்டாகும்.",
+    "en": "Reduction of copper ions on the copper plate in a Daniel cell is an example."
+   },
+   "tip": {
+    "ta": "LCOR - Reduction (ஒடுக்கம்) எப்போதும் Cathode (எதிர்மின்வாய்) இல் நடக்கும்.",
+    "en": "LCOR - Reduction always happens at the Cathode."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q185": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட வேதிப்பொருட்களில் எது பூச்சிகளைக் கட்டுப்படுத்தப் பயன்படும் பூச்சிக கொல்லி என்று பாருங்கள்.",
+    "en": "Look at the given chemicals and identify which one is used to control pests as an insecticide."
+   },
+   "explain": {
+    "ta": "டி.டி.டி (Dichloro diphenyl trichloro ethane) என்பது பொதுவாகப் பூச்சிகளைக் கட்டுப்படுத்தப் பயன்படும் ஒரு சக்தி வாய்ந்த பூச்சிக கொல்லி ஆகும். எனவே இதுவே சரியான விடை.",
+    "en": "DDT (Dichloro diphenyl trichloro ethane) is a powerful insecticide commonly used to control pests, making it the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "போர்டாக்ஸ் கலவை என்பது பூஞ்சைக் கொல்லி (Fungicide) ஆகும்.",
+     "en": "Bordeaux mixture is a fungicide."
+    },
+    "B": {
+     "ta": "2,4-D என்பது களைக்கொல்லி (Weedicide) ஆகும்.",
+     "en": "2,4-D is a weedicide."
+    },
+    "D": {
+     "ta": "ஆர்சனிக் என்பது ஒரு நச்சுத் தனிமம் ஆகும், அது பொதுவாகப் பூச்சிக கொல்லியாகப் பயன்படுத்தப்படுவதில்லை.",
+     "en": "Arsenic is a toxic element and not a commonly used insecticide."
+    }
+   },
+   "rule": {
+    "ta": "DDT என்பது ஒரு புகழ்பெற்ற பூச்சிக கொல்லி ஆகும்.",
+    "en": "DDT is a well-known insecticide."
+   },
+   "eg": {
+    "ta": "மலேரியா பரப்பும் கொசுக்களைக் கட்டுப்படுத்த অতীতে DDT பெருமளவில் பயன்படுத்தப்பட்டது.",
+    "en": "DDT was heavily used in the past to control malaria-spreading mosquitoes."
+   },
+   "tip": {
+    "ta": "DDT என்றாலே பூச்சிக கொல்லி (Insecticide) என்று நினைவில் கொள்ளுங்கள்.",
+    "en": "Whenever you see DDT, remember it is an insecticide."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q186": {
+   "hint": {
+    "ta": "தனிமங்களின் குறியீடுகளுக்கு அடிப்படையாக உள்ள லத்தீன் பெயர்களைப் பொருத்தி விடையைக் கண்டறியவும்.",
+    "en": "Match the Latin names which form the basis of element symbols to find the answer."
+   },
+   "explain": {
+    "ta": "லெட் என்பதன் லத்தீன் பெயர் பிளம்பம் (2), ஆன்டிமணி என்பது ஸ்டிபியம் (1), டின் என்பது ஸ்டேனம் (4), பொட்டாசியம் என்பது காலியம் (3) ஆகும். எனவே 2 1 4 3 என்ற வரிசை சரியாகும்.",
+    "en": "Lead is Plumbum (2), Antimony is Stibium (1), Tin is Stannum (4), Potassium is Kalium (3). Thus the correct sequence is 2 1 4 3."
+   },
+   "why": {
+    "A": {
+     "ta": "தவறான வரிசைப் பொருத்தம்.",
+     "en": "Incorrect matching sequence."
+    },
+    "B": {
+     "ta": "தவறான வரிசைப் பொருத்தம்.",
+     "en": "Incorrect matching sequence."
+    },
+    "D": {
+     "ta": "தவறான வரிசைப் பொருத்தம்.",
+     "en": "Incorrect matching sequence."
+    }
+   },
+   "rule": {
+    "ta": "சில தனிமங்களின் குறியீடுகள் அவற்றின் பழைய லத்தீன் பெயர்களின் அடிப்படையில் அமைக்கப்பட்டுள்ளன.",
+    "en": "Symbols of some elements are based on their old Latin names."
+   },
+   "eg": {
+    "ta": "சோடியத்தின் லத்தீன் பெயர் நேட்ரியம் (Na) ஆகும்.",
+    "en": "The Latin name for sodium is Natrium (Na)."
+   },
+   "tip": {
+    "ta": "பொட்டாசியம் K என்றால் Kalium, லெட் Pb என்றால் Plumbum என்பதை மறக்காதீர்கள்.",
+    "en": "Never forget Potassium is Kalium and Lead is Plumbum."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q187": {
+   "hint": {
+    "ta": "குழிலென்சின் குவியத் தொலைவு (-) குறி உடையது. திறனுக்கான சூத்திரத்தைப் பயன்படுத்தவும்.",
+    "en": "Focal length of concave lens has a (-) sign. Use the formula for power."
+   },
+   "explain": {
+    "ta": "குழிலென்சின் குவியத் தொலைவு (f) = -2 மீ. லென்சின் திறன் P = 1 / f = 1 / (-2) = -0.5 டேயாப்டர் ஆகும்.",
+    "en": "Focal length of concave lens (f) = -2 m. Power of lens P = 1 / f = 1 / (-2) = -0.5 dioptre."
+   },
+   "why": {
+    "A": {
+     "ta": "குறியீடு மற்றும் மதிப்பு இரண்டும் தவறாகக் கணக்கிடப்பட்டுள்ளது.",
+     "en": "Both sign and value are incorrectly calculated."
+    },
+    "B": {
+     "ta": "மதிப்பு மற்றும் குறியீடு தவறானது.",
+     "en": "Value and sign are incorrect."
+    },
+    "C": {
+     "ta": "நேர்க்குறி கொடுக்கப்பட்டுள்ளது, ஆனால் குழிலென்சுக்கு எதிர்க்குறி வர வேண்டும்.",
+     "en": "Positive sign is given, but concave lens must have a negative sign."
+    }
+   },
+   "rule": {
+    "ta": "லென்சின் திறன் P = 1 / f (f மீட்டர் அலகில் இருக்க வேண்டும்). குழிலென்சுக்கு திறன் எதிர்மறையாகும்.",
+    "en": "Power of lens P = 1 / f (f in meters). Power is negative for a concave lens."
+   },
+   "eg": {
+    "ta": "0.5 மீ குவியத் தொலைவு கொண்ட குவிமென்சின் திறன் +2 டேயாப்டர் ஆகும்.",
+    "en": "Power of a convex lens with 0.5 m focal length is +2 dioptre."
+   },
+   "tip": {
+    "ta": "குழிலென்சு என்றால் திறன் (-) குறியுடன் தான் வரும் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that for a concave lens, power always comes with a (-) sign."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q103": {
+   "hint": {
+    "ta": "உலக அளவில் பசுமை ஆற்றலைப் பயன்படுத்தும் முக்கிய மெட்ரோ இரயில் நிறுவனங்களை அடையாளம் காணும் வகையில் கேள்வியை அணுகுங்கள்.",
+    "en": "Look for the major metro rail corporation known for adopting green solar energy initiatives globally."
+   },
+   "explain": {
+    "ta": "டெல்லி மெட்ரோ இரயில் நிறுவனம் தனது போக்குவரத்து மற்றும் நிலையங்களின் மின் தேவைகளுக்காக முழுமையான சூரிய ஆற்றலைப் பயன்படுத்தும் திட்டத்தை முன்னெடுத்துள்ளது. இதன் காரணமாகவே இது உலகின் முதல் 100 விழுக்காடு சூரிய ஆற்றல் மெட்ரோ முயற்சியாகக் கருதப்படுகிறது.",
+    "en": "Delhi Metro Rail Corporation pioneered initiatives to utilize 100% solar power for its operations, making it a global leader."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தேசிய மற்றும் சர்வதேச முக்கியத்துவம் வாய்ந்த நடப்பு நிகழ்வுகளில் முதல் இடத்தைப் பிடிக்கும் நிறுவனங்கள் மற்றும் திட்டங்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the pioneer organizations and projects in national and international current affairs."
+   },
+   "eg": {
+    "ta": "கொச்சி மெட்ரோ நிறுவனம் இந்தியாவின் முதல் முழுமையான சூரிய சக்தியால் இயங்கும் மெட்ரோ நிலையங்களைக் கொண்ட அமைப்பாகும்.",
+    "en": "Kochi Metro is another notable example known for its extensive use of solar energy in India."
+   },
+   "tip": {
+    "ta": "டெல்லி என்றாலே பல முதல் சாதனைகளுடன் தொடர்புடையது; மெட்ரோ சூரிய ஆற்றலுக்கும் டெல்லியே முதலிடம்.",
+    "en": "Delhi is associated with many capital-first initiatives, including solar power in metros."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q104": {
+   "hint": {
+    "ta": "சர்வதேச பொருளாதார அமைப்புகளின் அறிக்கைகளில் இந்தியா போன்ற வளர்ந்து வரும் நாடுகளின் கணிப்பு எண்களைத் தேடுங்கள்.",
+    "en": "Look for specific growth percentage projections made for India by international economic bodies."
+   },
+   "explain": {
+    "ta": "ஜி-20 அமைப்பின் கண்காணிப்பு குறிப்பு மற்றும் அறிக்கைகளின்படி, குறிப்பிட்ட ஆண்டில் இந்தியாவின் பொருளாதார வளர்ச்சி விகிதம் 7.5% ஆக இருக்கும் என கணிக்கப்பட்டது. இது அதிகாரப்பூர்வ விடைக்கு அடிப்படையாகும்.",
+    "en": "According to the G-20 surveillance note, India's projected economic growth rate was estimated at 7.5% for the year 2020."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பொருளாதார ஆய்வறிக்கைகள் மற்றும் சர்வதேச அமைப்புகளின் (IMF, World Bank, G20) வளர்ச்சி மதிப்பீட்டு எண்களைத் துல்லியமாகப் படிக்க வேண்டும்.",
+    "en": "Memorize exact growth rate percentages published by international organizations for economic questions."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் பொருளாதார திட்டமிடலில் உலக வங்கியின் வட்டி மற்றும் வளர்ச்சி கணிப்புகள் TNPSC தேர்வுகளில் அடிக்கடி கேட்கப்படுகின்றன.",
+    "en": "World Bank and IMF growth forecasts for India are frequent topics in TNPSC exams."
+   },
+   "tip": {
+    "ta": "பொருளாதார வளர்ச்சி கணிப்பு எண்களில் 7.5% என்பது பல வினாக்களில் இடம்பெறும் ஒரு பொதுவான இலக்காகும்.",
+    "en": "7.5% is a classic projected growth figure found in economic policy questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q105": {
+   "hint": {
+    "ta": "இந்திய மக்கள் தொகை வரலாற்றில் மிக முக்கியமான இரண்டு கணக்கெடுப்பு ஆண்டுகளான 1921 மற்றும் 1951 இன் அடைமொழிகளை வேறுபடுத்திப் பாருங்கள்.",
+    "en": "Differentiate between the historical demographic divide years 1921 and 1951 in India."
+   },
+   "explain": {
+    "ta": "இந்திய மக்கள் தொகை வரலாற்றில் 1951 ஆம் ஆண்டு சிறு பிளவு ஆண்டு என அழைக்கப்படுகிறது. ஏனெனில் இக்காலகட்டத்தில் மக்கள் தொகை வளர்ச்சி விகிதத்தில் சில மாற்றங்கள் ஏற்பட்டன, அதேசமயம் 1921 ஆம் ஆண்டு பெரும் பிரிவினை ஆண்டு என அழைக்கப்படுகிறது.",
+    "en": "The year 1951 is known as the Year of Small Divide in Indian demographic history, while 1921 is the Year of Great Divide."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மக்கள் தொகை கணக்கெடுப்பு வரலாற்றுப் பெயர்களைத் குழப்பிக்கொள்ளாமல் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the specific historical titles given to Indian census years."
+   },
+   "eg": {
+    "ta": "இந்திய மக்கள் தொகை வரலாற்றில் மக்கள் தொகை வளர்ச்சி விகிதம் குறைந்து பின் உயர்ந்ததை அடிப்படையாகக் கொண்டு இந்த ஆண்டுகள் பெயரிடப்பட்டன.",
+    "en": "These titles are based on turning points in the decadal growth rate of India's population."
+   },
+   "tip": {
+    "ta": "1921 = பெரும் பிரிவினை; 1951 = சிறு பிளவு. இதை எப்போதும் நினைவில் கொள்ளுங்கள்.",
+    "en": "1921 is Great Divide, 1951 is Small Divide. Keep this pair clear."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q108": {
+   "hint": {
+    "ta": "பிரதான் மந்திரி தன்-தான் யோஜனா (PMJDY) எந்த நிதிச் சேவை நோக்கத்திற்காகத் தொடங்கப்பட்டது என்பதைச் சிந்தித்துப் பாருங்கள்.",
+    "en": "Think about the primary financial objective behind launching the Pradhan Mantri Jan Dhan Yojana."
+   },
+   "explain": {
+    "ta": "பிரதான் மந்திரி தன்-தான் யோஜனா திட்டத்தின் முக்கிய நோக்கம் நாட்டில் உள்ள அனைத்து மக்களுக்கும் வங்கி கணக்கு தொடங்கி நிதி சேவைகளை வழங்குவதாகும். இது அனைவரையும் உள்ளடக்கிய பொருளாதார முன்னேற்றம் அல்லது நிதி உள்ளடக்கம் (Financial inclusion) எனப்படும்.",
+    "en": "The primary objective of the Jan Dhan Yojana is financial inclusion, ensuring access to financial services for all."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மத்திய அரசின் வங்கி மற்றும் நிதி சார்ந்த திட்டங்களின் அடிப்படை நோக்கம் நிதி உள்ளடக்கம் (Financial inclusion) ஆகும்.",
+    "en": "The core objective of central government financial schemes is financial inclusion."
+   },
+   "eg": {
+    "ta": "கிராமப்புற மக்களும் வங்கிகளை அணுகுவதை உறுதி செய்வதே தன்-தான் யோஜனா திட்டத்தின் வெற்றியாகும்.",
+    "en": "Jan Dhan Yojana successfully brought millions of unbanked citizens into the formal financial system."
+   },
+   "tip": {
+    "ta": "தன்-தான் திட்டம் என்றாலே வங்கி கணக்கு மற்றும் நிதி உள்ளடக்கம் (Financial Inclusion) என்று உடனடியாகப் பொருத்திப் பார்க்க வேண்டும்.",
+    "en": "Jan Dhan Yojana directly equals Financial Inclusion in competitive exams."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q110": {
+   "hint": {
+    "ta": "மத்திய அரசு சமீபத்தில் நீர் மேலாண்மைக்காகத் தொடங்கிய ஒரு முக்கியமான ஒருங்கிணைந்த இயக்கத்தின் பெயரைத் தேடுங்கள்.",
+    "en": "Look for the unified water management and conservation campaign launched recently by the Central Government."
+   },
+   "explain": {
+    "ta": "மத்திய அரசாங்கம் நீர் பாதுகாப்பு மற்றும் மழைநீர் சேகரிப்பை வலியுறுத்தி 'ஜல் சக்தி அபியான்' என்ற பெயரில் ஒரு பெரிய மக்கள் இயக்கத்தைத் தொடங்கியது. இது நாட்டின் அனைத்து மாவட்டங்களிலும் நீர் பாதுகாப்பை உறுதி செய்வதை நோக்கமாகக் கொண்டது.",
+    "en": "The Central Government launched the 'Jal Shakti Abhiyan' campaign to promote water conservation and rainwater harvesting across the country."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மத்திய அரசின் அமைச்சகங்கள் தொடங்கும் சிறப்பு இயக்கங்களின் (Campaigns) பெயர்களைத் துல்லியமாகத் தெரிந்து வைத்திருக்க வேண்டும்.",
+    "en": "Learn the exact names of special campaigns launched by central ministries."
+   },
+   "eg": {
+    "ta": "ஜல் சக்தி அமைச்சகம் உருவாக்கப்பட்ட பிறகு நீர் பாதுகாப்புக்காக உருவாக்கப்பட்ட மிக முக்கிய இயக்கம் ஜல் சக்தி அபியான் ஆகும்.",
+    "en": "Jal Shakti Abhiyan is the flagship campaign of the Ministry of Jal Shakti for water conservation."
+   },
+   "tip": {
+    "ta": "ஜல் சக்தி அமைச்சகத்தின் கீழ் தொடங்கப்பட்ட திட்டம் என்பதால் ஜல் சக்தி அபியான் என்பதே சரியான விடையாகும்.",
+    "en": "Match the ministry name (Jal Shakti) with the campaign name (Jal Shakti Abhiyan)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q115": {
+   "hint": {
+    "ta": "நுகர்வோர் உரிமைகளின் பாதுகாப்பிற்காக இயற்றப்பட்ட மிக முக்கியமான சட்டத்திற்கு வழங்கப்படும் வரலாற்றுப் பெயரைக் கவனியுங்கள்.",
+    "en": "Look for the historic charter title given to the Consumer Protection Act."
+   },
+   "explain": {
+    "ta": "நுகர்வோர்களின் உரிமைகளைப் பாதுகாப்பதற்காகக் கொண்டுவரப்பட்ட நுகர்வோர் பாதுகாப்பு சட்டம், நுகர்வோரின் மகாசானம் (Consumer's Magna Carta) என்று அழைக்கப்படுகிறது. இது நுகர்வோருக்குச் சுதந்திரத்தையும் பாதுகாப்பையும் வழங்குகிறது.",
+    "en": "The Consumer Protection Act is hailed as the Consumer's Magna Carta because it safeguards consumer rights."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இந்தியச் சட்டங்களின் வரலாற்றுப் பெயர்கள் மற்றும் அடைமொழிகளைப் பாடப்புத்தகத்திலிருந்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the historic titles and epithets given to important Indian laws from textbooks."
+   },
+   "eg": {
+    "ta": "மகாசானம் என்பது உரிமைகளின் சாசனம் எனப் பொருள்படும்; எனவே நுகர்வோர் சட்டம் நுகர்வோரின் மகாசானம் எனப்படுகிறது.",
+    "en": "Magna Carta historically signifies a great charter of rights, applied here to consumers."
+   },
+   "tip": {
+    "ta": "நுகர்வோர் சட்டம் என்றாலே 'மகாசானம்' (Magna Carta) என்ற வார்த்தையை நினைவில் வையுங்கள்.",
+    "en": "Consumer Protection Act equals Consumer's Magna Carta."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-21"
+ "updated": "2026-11-22"
 }

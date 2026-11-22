@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T19:39:20.792Z",
+ "generatedAt": "2026-11-22T07:35:41.635Z",
  "files": [
   {
    "path": "cheats/a1-letters.json",
@@ -70,8 +70,12 @@
    "sha": "6d02587e5a40"
   },
   {
+   "path": "explain/g4-2016-gt.json",
+   "sha": "61305a89de90"
+  },
+  {
    "path": "explain/g4-2018-gs.json",
-   "sha": "20e6e25e6230"
+   "sha": "4adccac366b4"
   },
   {
    "path": "explain/g4-2018-gt.json",
@@ -79,7 +83,7 @@
   },
   {
    "path": "explain/g4-2019-gs.json",
-   "sha": "30eb2c4894e1"
+   "sha": "c162cccf4fa7"
   },
   {
    "path": "explain/g4-2019-gt.json",
@@ -87,15 +91,15 @@
   },
   {
    "path": "explain/g4-2022.json",
-   "sha": "8af71a06e8aa"
+   "sha": "47b0873f98d7"
   },
   {
    "path": "explain/g4-2024.json",
-   "sha": "1f2bd29edae3"
+   "sha": "307a798da1a0"
   },
   {
    "path": "explain/g4-2025.json",
-   "sha": "69d87ebd3f99"
+   "sha": "63e9741925b1"
   },
   {
    "path": "explain/lessons.json",
@@ -160,6 +164,10 @@
   {
    "path": "questions/pyq-g4-2016-gs.json",
    "sha": "2096f878443e"
+  },
+  {
+   "path": "questions/pyq-g4-2016-gt.json",
+   "sha": "f690aaf8d211"
   },
   {
    "path": "questions/pyq-g4-2018-gs.json",
