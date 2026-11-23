@@ -1,0 +1,210 @@
+{
+ "date": "2026-11-23",
+ "model": "gemini-3.5-flash-lite",
+ "questions": [
+  {
+   "id": "2026-11-23-1",
+   "unit": "B6",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தக்சசீலா பல்கலைக்கழகம் யாரைத் கௌரவ டாக்டர் பட்ட வழங்கிக் கௌரவித்தது?",
+    "en": "Who was conferred honorary doctorates by Takshashila University?"
+   },
+   "options": [
+    {
+     "ta": "எஸ். ராமகிருஷ்ணன் மற்றும் கே.எஸ். சித்ரா",
+     "en": "S. Ramakrishnan and K.S. Chithra"
+    },
+    {
+     "ta": "வண்ணதாசன் மற்றும் பி. சுசீலா",
+     "en": "Vannanthan and P. Susheela"
+    },
+    {
+     "ta": "எஸ். ராமகிருஷ்ணன் மற்றும் பாம்பே ஜெயশ্রী",
+     "en": "S. Ramakrishnan and Bombay Jayashri"
+    },
+    {
+     "ta": "ஜெயகாந்தன் மற்றும் எம்.எஸ். சுப்புலட்சுமி",
+     "en": "Jayakanthan and M.S. Subbulakshmi"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "தக்சசீலா பல்கலைக்கழகம் எழுத்தாளர் எஸ். ராமகிருஷ்ணன் மற்றும் பின்னணிப் பாடகி கே.எஸ். சித்ரா ஆகியோருக்கு கௌரவ டாக்டர் பட்டங்களை வழங்கியது.",
+    "en": "Takshashila University conferred honorary doctorates on author S. Ramakrishnan and playback singer K.S. Chithra."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/takshashila-university-confers-honorary-doctorates-on-author-s-ramakrishnan-and-playback-singer-ks-chithra/article71731261.ece",
+   "headline": "Takshashila University confers honorary doctorates on author S. Ramakrishnan and playback singer K.S. Chithra"
+  },
+  {
+   "id": "2026-11-23-2",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "ரூபாய் 1,000-த்திற்கு மேற்பட்ட மதுபானக் கொள்முதல்களுக்கு டிஜிட்டல் முறையை மட்டுமே பயன்படுத்தவுள்ள நிறுவனம் எது?",
+    "en": "Which organization is going digital-only for liquor purchases above ₹1,000?"
+   },
+   "options": [
+    {
+     "ta": "டாஸ்மாக் (Tasmac)",
+     "en": "Tasmac"
+    },
+    {
+     "ta": "ஆவின் (Aavin)",
+     "en": "Aavin"
+    },
+    {
+     "ta": "பியூகோ (Pryug)",
+     "en": "Pryug"
+    },
+    {
+     "ta": "எல்காட் (Elcot)",
+     "en": "Elcot"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "ரூபாய் 1,000-த்திற்கு மேற்பட்ட மதுபானக் கொள்முதல்களுக்கு டாஸ்மாக் நிறுவனம் டிஜிட்டல் முறையை மட்டுமே செயல்படுத்தவுள்ளது.",
+    "en": "Tasmac is to go digital-only for liquor purchases above ₹1,000."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tasmac-to-go-digital-only-for-liquor-purchases-above-1000/article71732280.ece",
+   "headline": "Tasmac to go digital-only for liquor purchases above ₹1,000"
+  },
+  {
+   "id": "2026-11-23-3",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாட்டில் எந்தப் பண்டிகையை முன்னிட்டு 3 இலவச எல்பிஜி சிலிண்டர் திட்டத்தின் பயனாளிகள் அடையாளம் காணப்பட உள்ளனர்?",
+    "en": "Ahead of which festival are beneficiaries for the 3 free LPG cylinder scheme to be identified in Tamil Nadu?"
+   },
+   "options": [
+    {
+     "ta": "பொங்கல்",
+     "en": "Pongal"
+    },
+    {
+     "ta": "தீபாவளி",
+     "en": "Deepavali"
+    },
+    {
+     "ta": "புத்தாண்டு",
+     "en": "New Year"
+    },
+    {
+     "ta": "ஆயுத பூஜை",
+     "en": "Ayudha Pooja"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "பொங்கலை முன்னிட்டு 3 இலவச எல்பிஜி சிலிண்டர் திட்டத்திற்கான பயனாளிகளைத் தமிழக அரசு அடையாளம் காணவுள்ளது.",
+    "en": "Tamil Nadu government is to identify beneficiaries for the 3 free LPG cylinder scheme ahead of Pongal."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ib3Z6d3VPeFlmT2N3bjdwZnlKM1huS0w4X2NzUDN3aTM4ZEFFME5FMzUtVEl4a2JQb3REWW90b2RVSGRmTDk1dHVhbWRYOG5YbGZTTHRQX2dHWXlBRkt1VFU0ZTFEQQ?oc=5",
+   "headline": "Tamil Nadu 3 Free LPG Cylinder Scheme: Government to Identify Beneficiaries Ahead of Pongal - LiveChennai"
+  },
+  {
+   "id": "2026-11-23-4",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாட்டில் பிஎச்டி (PhD) ஆய்வாளர்கள் தங்கள் வழிகாட்டியை எவ்வாறு தேர்வு செய்ய அனுமதிக்கப்படவுள்ளனர்?",
+    "en": "How are PhD scholars in Tamil Nadu to be allowed to pick their guide?"
+   },
+   "options": [
+    {
+     "ta": "தகுதியின் அடிப்படையில் (As per merit)",
+     "en": "As per merit"
+    },
+    {
+     "ta": "குலுக்கல் முறை மூலம்",
+     "en": "Through a lucky draw"
+    },
+    {
+     "ta": "துறைத் தலைவர் பரிந்துரைப்படி",
+     "en": "Based on Head of Department's recommendation"
+    },
+    {
+     "ta": "மூத்த பேராசிரியர்களின் விருப்பப்படி",
+     "en": "Based on senior professors' preference"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "தமிழ்நாட்டில் பிஎச்டி ஆய்வாளர்கள் தகுதியின் அடிப்படையில் தங்கள் வழிகாட்டியைத் தேர்ந்தெடுக்க அனுமதிக்கப்பட உள்ளனர்.",
+    "en": "Tamil Nadu will allow PhD scholars to pick their guide as per merit."
+   },
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUDYyX1M2eWFMQU1xTVRWcUFkajcyQjZyZ2E3QnREXzVVV3k2aFJBNlpsaEVDY0VVNy1STnFPQ252dVZVaklraVEwQ3M1WExPN2VyZzhfY2dYQkZQNUpsNnpGWHR0YUI1bjlMOE05Xy1VcjE0MzlwU3l4R0ZaUzJ5Q3hOUkx4ZGtRamtEZTVpdXVCeENMWHl2S1ZJS1JOVWlvczFlVTVoY3dBUjc0TDEzcmZBOEp0R1lyRk43SE9Id9IBzAFBVV95cUxNY3RzQUdKTjlMY01oNEdVLWk4UFk0Nk4ya1pqX0RDbGdTWDBaNUVkRklpVGlBc1plY2ZiYnZKWWdHVFgxQi16Q3U0Vk5XVTFwQmU4NUxaZk9oWDdYZjRIcVQyeW1QcjN1c25obHRFV1V4NXlodkw1MkdBelo3VkpZNTg4U2J6Y1RYSTMzVTRMRUItY2x5aGNVS2U5OTNhN2Y1N20xeHluRlFwVC1WNEpPckZLYXJQbklYRFkyb1JLNUNzck8xdUFRZFhNQzA?oc=5",
+   "headline": "Tamil Nadu to allow PhD scholars to pick guide as per merit - The New Indian Express"
+  },
+  {
+   "id": "2026-11-23-5",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "ஐஐடி மெட்ராஸில் (IIT Madras) ஸ்ீப் ஸ்டடி வசதி மற்றும் ஆட்டிசம் ஆய்வகத்தை திறந்து வைத்தவர் யார்?",
+    "en": "Who inaugurated the sleep study facility and autism lab at IIT Madras?"
+   },
+   "options": [
+    {
+     "ta": "புண்ணிய சலீலா ஸ்ரீவாஸ்தவ",
+     "en": "Punya Salila Srivastava"
+    },
+    {
+     "ta": "நிர்மலா சீதாராமன்",
+     "en": "Nirmala Sitharaman"
+    },
+    {
+     "ta": "தர்மேந்திர பிரதான்",
+     "en": "Dharmendra Pradhan"
+    },
+    {
+     "ta": "மனு சாகர்",
+     "en": "Manu Sagar"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "केंद्रीय स्वास्थ्य सचिव श्रीमती पुण्य सलीला श्रीवास्तव ने आईआईटी मद्रास में स्लीप स्टडी फैसिलिटी और ऑटिज्म लैब का उद्घाटन किया।",
+    "en": "Union Health Secretary Punya Salila Srivastava inaugurated the sleep study facility and autism lab at IIT Madras."
+   },
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2340188",
+   "headline": "केंद्रीय स्वास्थ्य सचिव श्रीमती पुण्य सलीला श्रीवास्तव ने आईआईटी मद्रास में स्लीप स्टडी फैसिलिटी और ऑटिज्म लैब का उद्घाटन किया तथा तथा ई-कार्ट एम्बुलेंस की शुरुआत की"
+  },
+  {
+   "id": "2026-11-23-6",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியாவின் முதல் மகளிர் உலகக் கோப்பை செஸ் வெற்றியாளராக உருவெடுத்த இளம் வீராங்கனை யார்?",
+    "en": "Who emerged as India's first women's World Cup winner in chess?"
+   },
+   "options": [
+    {
+     "ta": "திவ்யா",
+     "en": "Divya"
+    },
+    {
+     "ta": "ஹம்பி",
+     "en": "Humpy"
+    },
+    {
+     "ta": "கோனேரு",
+     "en": "Koneru"
+    },
+    {
+     "ta": "வைಶಾಲಿ",
+     "en": "Vaishali"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "இளம் வீராங்கனை திவ்யா ஹம்பியை வீழ்த்தி இந்தியாவின் முதல் மகளிர் உலகக் கோப்பை வெற்றியாளராக உருவெடுத்தார்.",
+    "en": "Teenager Divya outlasts Humpy, emerges India’s first women’s World Cup winner."
+   },
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOanF4cnpSZE5uaWxZa3BMYVd3dEN4UlFfWFhxN0VKZ3pMWW1nelE4UXRRMFJjb0g4S0JxdGxsVG80R29HU241azYxaV9md2RxS3BKQ1JvMDFHVU1zcFlwNFZHVVZMQzA3M3RRUWgwM3dKWVBvT3BfUDVEakNzTFFxUjczTlZ5RFVUWjFwLWp3aEZiYkphSjBqUkR3MTZsNmoybllCQ2RPU29TNXltdVJtaTN3NnFubXh4SklqbGdaSnZwMEQ3N1pZRzBFbURmQdIB1AFBVV95cUxQWnhHSUR1c3BDRDRFNmRZM3JkWHNJbDdDSVVqSE5DUThFZkdKSllJT05NTExBUUtyYUQxM1R1YzdUSWNhZGYwd0c0ajdpTWQzOXhYNkw4NE1CSU5rT0puRi1qMlZQeEZDNWZvUGpOaTV5dG9xMy1pdWNOTUptb1pYU3haVFdqNGs1c1NzM050VDlscndUZjYweThZV2JzZjc3Z2J5YjdGTFE0TTZMUHlsdDVHV1ZwSzhsOGtBM2lHb2ZNRmNaS2tVVHBBQy1OZ3lDcXUtbA?oc=5",
+   "headline": "Teenager Divya outlasts Humpy, emerges India’s first women’s World Cup winner - The Hindu"
+  }
+ ]
+}

@@ -3175,7 +3175,82 @@
     "en": "Do not use literal translations for proverbs; use established Tamil proverbs."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q051": {
+   "hint": {
+    "ta": "மகாபாரதக் கதையில் கௌரவர் தரப்பில் தூது சென்றவர் யார் என்பதைக் கவனியுங்கள்.",
+    "en": "Check who went as an emissary on behalf of the Kauravas in the Mahabharata."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி துரியோதனன் என்பவரே இக்கேள்விக்குச் சரியான விடையாகும். மகாபாரதக் கதையில் கௌரவர்களின் தலைமைப் பிரதிநிதியாகத் தூது சென்றவராக இவர் குறிக்கப்படுகிறார்.",
+    "en": "According to the TNPSC answer key, Duryodhana is the correct answer for this question."
+   },
+   "why": {
+    "A": {
+     "ta": "விதுரன் பாண்டவர்களிடம் அமைதித் தூதுவராகச் சென்றவர் ஆவார்.",
+     "en": "Vidura went as a peace envoy to the Pandavas."
+    },
+    "C": {
+     "ta": "தர்மன் பாண்டவர்களின் மூத்த தமையன் ஆவார்.",
+     "en": "Dharman is the eldest brother of the Pandavas."
+    },
+    "D": {
+     "ta": "சகுனி கௌரவர்களுக்குச் சூழ்ச்சிச் சொல்லிக் கொடுத்த மாமன் ஆவார்.",
+     "en": "Sakuni is the uncle who plotted for the Kauravas."
+    }
+   },
+   "rule": {
+    "ta": "இதிகாசப் पात्रங்களின் செயல்களை நன்கு நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the roles of epic characters clearly."
+   },
+   "eg": {
+    "ta": "கண்ணன் பாண்டவர் தூதுவராகச் சென்றார்.",
+    "en": "Kannan went as the envoy of the Pandavas."
+   },
+   "tip": {
+    "ta": "வினாவில் கேட்கப்பட்ட பெயரையும் அதன் கதைக் குறிப்பையும் குழப்பாமல் படிக்கவும்.",
+    "en": "Read the question and contextual reference carefully without confusion."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q088": {
+   "hint": {
+    "ta": "பட்டியலில் உள்ள ஒவ்வொரு சொல்லின் இலக்கணக் குறிப்பை உற்றுநோக்கி சரியான இணையைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Match each grammatical term in List I with its correct example in List II."
+   },
+   "explain": {
+    "ta": "தடக்கை என்பது உரிச்சொட்தொடர் (தடு + கை = பெரிய கை), சூழ்கழல் என்பது வினைத்தொகை (சூழ்ந்த / சூழ்கின்ற / சூழும் கழல்), கூவா என்பது ஈறுகெட்ட எதிர்மறை பெயரெச்சம் (கெட்ட ஈறு 'அ' மறைந்து எதிர்மறை பொருள் தருவது), தழீஇய என்பது சொல்லிசை அளபெடை ஆகும்.",
+    "en": "Tadakkai is an urichol thodar, Suzhkazhal is a vinaithokai, Kuvaa is an eerugetta ethirmarai peyarechcham, and Thazheeyai is a sollisai alapedai."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்த இணைவரிசை மாற்றமாகப் பொருத்தப்பட்டுள்ளது, எனவே இது தவறான விடையாகும்.",
+     "en": "This combination sequence is incorrect."
+    },
+    "C": {
+     "ta": "இந்த இணைவரிசை இலக்கண விதிகளுக்கு எதிராகப் பொருந்தியுள்ளது, எனவே இது தவறான விடையாகும்.",
+     "en": "This combination sequence is incorrect."
+    },
+    "D": {
+     "ta": "இந்த இணைவரிசை சரியாகப் பொருந்தவில்லை, எனவே இது தவறான விடையாகும்.",
+     "en": "This combination sequence is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "சொற்களின் இலக்கணக் குறிப்புகளை அவற்றின் விகுதிகள் மற்றும் முன்னொட்டுகளைக் கொண்டு கண்டறிய வேண்டும்.",
+    "en": "Identify the grammatical categories of words based on their prefixes, suffixes, and underlying meanings."
+   },
+   "eg": {
+    "ta": "சாலச் சிறந்தது - உரிச்சொட்தொடர், ஊடுகாய் - வினைத்தொகை.",
+    "en": "Salach siranthu is an urichol thodar, oodukaay is a vinaithokai."
+   },
+   "tip": {
+    "ta": "தடு, தள் போன்ற முன்னொட்டுகள் வந்தால் அது உரிச்சொட்தொடர்.",
+    "en": "Words with prefixes like thadu or thal usually indicate urichol thodar."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-22"
+ "updated": "2026-11-23"
 }

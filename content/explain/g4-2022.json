@@ -6449,7 +6449,373 @@
     "en": "In a democracy, citizens possess the right to criticize the government."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q076": {
+   "hint": {
+    "ta": "பிள்ளைத் தமிழின் மொத்தப் பருவங்கள் மற்றும் பொதுவான பருவங்கள் எண்ணிக்கையைப் பாருங்கள்.",
+    "en": "Check the total and common stages in Pillai Thamizh."
+   },
+   "explain": {
+    "ta": "பிள்ளைத் தமிழில் மொத்தம் பத்து பருவங்கள் உள்ளன. இதில் முதல் ஏழு பருவங்கள் ஆண்பால் பெண்பால் இரண்டிற்கும் பொதுவானவையாகும்.",
+    "en": "Pillai Thamizh has ten stages in total, out of which the first seven are common to both boys and girls."
+   },
+   "why": {
+    "A": {
+     "ta": "பத்து என்பது பிள்ளைத் தமிழின் மொத்தப் பருவங்களைக் குறிப்பதாகும்.",
+     "en": "Ten represents the total number of stages in Pillai Thamizh."
+    },
+    "B": {
+     "ta": "ஆறு என்பது தவறான எண்ணிக்கையாகும்.",
+     "en": "Six is an incorrect number."
+    },
+    "D": {
+     "ta": "ஐந்து என்பது தவறான எண்ணிக்கையாகும்.",
+     "en": "Five is an incorrect number."
+    }
+   },
+   "rule": {
+    "ta": "பிள்ளைத் தமிழ் பத்து பருவங்களைக் கொண்டது; அதில் ஏழு பொதுவானவை, தலா மூன்று தனித்தனியானவை.",
+    "en": "Pillai Thamizh has 10 stages: 7 common and 3 specific to each gender."
+   },
+   "eg": {
+    "ta": "ஆண்பால் பிள்ளைத் தமிழுக்கு சிற்றில், சிறுபறை, சிறுதேர் ஆகிய பருவங்கள் வரும்.",
+    "en": "For boys, the specific stages are Sitril, Siruparai, and Siruther."
+   },
+   "tip": {
+    "ta": "7 பொதுவானவை, 3 தனித்தனி (7 + 3 = 10).",
+    "en": "7 common + 3 specific = 10 total stages."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q077": {
+   "hint": {
+    "ta": "உழவர் மற்றும் உழத்தியரின் வாழ்க்கையைப் பேசும் சிற்றிலக்கிய வகையைக் கண்டறிக.",
+    "en": "Identify the minor literary work that describes the life of farmers."
+   },
+   "explain": {
+    "ta": "உழவர் உழத்தியரது வாழ்க்கையில் நிகழும் நிகழ்ச்சிகளை எளிய நடையில் வெளிப்படுத்தும் சிற்றிலக்கிய வகை பள்ளு இலக்கியமாகும். முக்கூடற்பள்ளு இதற்குச் சிறந்த எடுத்துக்காட்டாகும்.",
+    "en": "Pallu is the minor literary genre that depicts the life of farmers in simple language."
+   },
+   "why": {
+    "A": {
+     "ta": "கலம்பகம் என்பது பல்வேறு வகையான பாக்களால் பாடப்படும் ஒரு சிற்றிலக்கியமாகும்.",
+     "en": "Kalambakam is composed of various types of verses."
+    },
+    "C": {
+     "ta": "குறவஞ்சி என்பது குறத்தி குறி சொல்லும் முறையை அடிப்படையாகக் கொண்ட சிற்றிலக்கியமாகும்.",
+     "en": "Kuravanji is based on fortune-telling by a Kurathi."
+    },
+    "D": {
+     "ta": "உலா என்பது தலைவன் வீதியில் வருவதைக் கண்டு பெண்கள் விரும்புவதைப் பாடும் இலக்கியமாகும்.",
+     "en": "Ula describes women falling in love with a prince processing through the street."
+    }
+   },
+   "rule": {
+    "ta": "உழவர் வாழ்க்கையைப் பேசும் சிற்றிலக்கியம் பள்ளு ஆகும்.",
+    "en": "Pallu literature deals with the lives of farmers and agricultural settings."
+   },
+   "eg": {
+    "ta": "முக்கூடற்பள்ளு என்பது தமிழில் புகழ்பெற்ற ஒரு பள்ளு இலக்கியமாகும்.",
+    "en": "Mukkudar Pallu is a famous Pallu work in Tamil."
+   },
+   "tip": {
+    "ta": "பள்ளு = உழவர் வாழ்க்கை (உழவு நிலம் சார்ந்தவை).",
+    "en": "Pallu equals agricultural life and farmers."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q078": {
+   "hint": {
+    "ta": "டாக்டர் அம்புஜத்தம்மாள் எழுதிய வரலாற்று நூலைக் கவனியுங்கள்.",
+    "en": "Look for the biographical or autobiographical work written by Dr. Ambujammal."
+   },
+   "explain": {
+    "ta": "காந்திய அடிகளின் கொள்கைகளால் ஈர்க்கப்பட்டு அம்புஜத்தம்மாள் எழுதிய நூல் 'நான் கண்ட பாரதம்' ஆகும். இது அவரது நாட்டுப்பற்றைக் காட்டுகிறது.",
+    "en": "Dr. Ambujammal wrote the book 'Naan Kanda Bharatham' reflecting her patriotic experiences."
+   },
+   "why": {
+    "A": {
+     "ta": "இராமலிங்க சுவாமிகள் சரிதம் வேறு ஒருவரால் எழுதப்பட்ட நூலாகும்.",
+     "en": "Ramalinga Swamigal Charitham was written by someone else."
+    },
+    "B": {
+     "ta": "மதி பெற்ற மைனர் என்பது பிற்காலத் தமிழ் உரைநடை நூல்களில் ஒன்றாகும்.",
+     "en": "Mathi Petra Minor is a later prose work."
+    },
+    "C": {
+     "ta": "மூப்பெண்மணிகள் வரலாறு என்பது வேறு அறிஞர்களின் படைப்பாகும்.",
+     "en": "Mooppenmanigal Varalaru is another historical work."
+    }
+   },
+   "rule": {
+    "ta": "டாக்டர் அம்புஜத்தம்மாளின் புகழ்பெற்ற நூல் 'நான் கண்ட பாரதம்'.",
+    "en": "Dr. Ambujammal's famous work is 'Naan Kanda Bharatham'."
+   },
+   "eg": {
+    "ta": "அம்புஜத்தம்மாள் தியாகி சீனிவாச ஐயரின் மகளாவார்.",
+    "en": "Ambujammal was the daughter of freedom fighter Srinivasa Iyengar."
+   },
+   "tip": {
+    "ta": "அம்புஜத்தம்மாள் + பாரதம் = நான் கண்ட பாரதம்.",
+    "en": "Ambujammal's book contains 'Bharatham' in the title."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q079": {
+   "hint": {
+    "ta": "சேக்கிழார் எழுதிய பெரியபுராணம் எந்த நாட்டின் நீர் வளத்தைக் குறிக்கிறது எனப் பாருங்கள்.",
+    "en": "Identify which region's water resources are highlighted in Periyapuranam."
+   },
+   "explain": {
+    "ta": "பெரியபுராணம் சோழ நாட்டின் காவிரியின் நீர் வளத்தையும், அதனால பெருகும் வளத்தையும் சிறப்பாகப் பேசுகிறது. சேக்கிழார் சோழ நாட்டுச் சிறப்பை விரிவாகப் பாடியுள்ளார்.",
+    "en": "Periyapuranam vividly praises the water abundance and prosperity of the Chola country."
+   },
+   "why": {
+    "A": {
+     "ta": "சேர நாடு குறித்தும் குறிப்புகள் இருந்தாலும் நீர் வளச் சிறப்பு சோழ நாட்டைச் சார்ந்தது.",
+     "en": "Though Chera land is mentioned, the prime focus on river irrigation is the Chola region."
+    },
+    "C": {
+     "ta": "பாண்டிய நாடு குறித்தும் சில குறிப்புகள் வரினும் நீர் வளச் சிறப்பு சோழ நாட்டிற்கே உரியது.",
+     "en": "Pandiya land is also present, but the primary water-wealth description belongs to Chola."
+    },
+    "D": {
+     "ta": "கலிங்க நாடு என்பது போர் நிகழ்ந்த பகுதியைக் குறிக்கும்.",
+     "en": "Kalinga refers to the region associated with warfare."
+    }
+   },
+   "rule": {
+    "ta": "பெரியபுராணம் சோழ நாட்டின் நீர் வளத்தையும் நிலவளத்தையும் போற்றுகிறது.",
+    "en": "Periyapuranam highlights the rich agricultural and water wealth of the Chola kingdom."
+   },
+   "eg": {
+    "ta": "காவிரி பாயும் சோழ நாட்டின் வளத்தை 'நாடுகளுள் எல்லாம் சோழ நாடு சிறந்தது' என்று காட்டுகிறது.",
+    "en": "It portrays the Chola country as superior due to the Kaveri river."
+   },
+   "tip": {
+    "ta": "பெரியபுராணம் = சோழ நாடு (காவிரி வளம்).",
+    "en": "Periyapuranam is deeply tied to Chola country and Kaveri."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q081": {
+   "hint": {
+    "ta": "பண்டைய ஓலைச்சுவடிகளைத் தேடிப் பதிப்பித்த தமிழ்த் தாத்தாவைக் கவனியுங்கள்.",
+    "en": "Think of the Tamil scholar who edited and published ancient palm-leaf manuscripts."
+   },
+   "explain": {
+    "ta": "எட்டுத்தொகை நூல்களில் ஒன்றான புறநானூற்றை உ.வே.சுவாமிையர் முதன்முதலில் அச்சிட்டு வெளியிட்டார். இதனால் அவர் தமிழ்த் தாத்தா என அழைக்கப்படுகிறார்.",
+    "en": "U.V. Swaminatha Iyer was the pioneer who first edited and published Purananuru."
+   },
+   "why": {
+    "B": {
+     "ta": "ஜி.யு. போப் திருக்குறள் மற்றும் திருவாசகத்தை ஆங்கிலத்தில் மொழிபெயர்த்தவர்.",
+     "en": "G.U. Pope translated Tirukkural and Tiruvasagam into English."
+    },
+    "C": {
+     "ta": "சீகன் பால்கு ஐயர் தமிழ் அச்சுத்துறையின் முன்னோடிகளில் ஒருவர்.",
+     "en": "Ziegenbalg is a pioneer in Tamil printing."
+    },
+    "D": {
+     "ta": "வீரமாமுனிவர் சதுரகராதி மற்றும் தேம்பாவணி எழுதியவராவார்.",
+     "en": "Beschi authored Sathuragarathi and Thembavani."
+    }
+   },
+   "rule": {
+    "ta": "புறநானூற்றை முதன்முதலில் பதிப்பித்தவர் உ.வே.சா. ஆவார்.",
+    "en": "U.V. Swaminatha Iyer first published Purananuru."
+   },
+   "eg": {
+    "ta": "உ.வே.சா. சீவகசிந்தாமணி, மணிமேகலை போன்ற காப்பியங்களையும் பதிப்பித்துள்ளார்.",
+    "en": "U.V. Sa also edited epics like Jivaka Chintamani and Manimekalai."
+   },
+   "tip": {
+    "ta": "பதிப்புப்பணி என்றாலே உ.வே.சா. தான் ஞாபகத்திற்கு வர வேண்டும்.",
+    "en": "Editing ancient texts is synonymous with U.V. Swaminatha Iyer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q082": {
+   "hint": {
+    "ta": "ஐந்து நூல்களைக் கொண்ட அகநூல் மற்றும் அதன் அடி எல்லையைக் கவனியுங்கள்.",
+    "en": "Check the line range of the anthology containing five short poems."
+   },
+   "explain": {
+    "ta": "ஐங்குறுநூறு நூல் மூன்றடி சிற்றெல்லையும் ஆறடி பேரெல்லையும் கொண்ட அகவற்பாக்களால் ஆனது. இது ஐந்திணைக்கு நூறு பாடல்கள் வீதம் 500 பாடல்களைக் கொண்டது.",
+    "en": "Aingurunuru has a minimum of 3 lines and a maximum of 6 lines."
+   },
+   "why": {
+    "A": {
+     "ta": "குறுந்தொகை நான்கடி சிற்றெல்லையும் எட்டடி பேரெல்லையும் கொண்டது.",
+     "en": "Kuruntogai has a line limit of 4 to 8 lines."
+    },
+    "C": {
+     "ta": "அகநானூறு பதிமூன்றடி சிற்றெல்லையும் முப்பத்தோரடி பேரெல்லையும் கொண்டது.",
+     "en": "Agananuru has a line limit of 13 to 31 lines."
+    },
+    "D": {
+     "ta": "நற்றிணை ஒன்பதடி சிற்றெல்லையும் பன்னிரண்டடி பேரெல்லையும் கொண்டது.",
+     "en": "Natrinai has a line limit of 9 to 12 lines."
+    }
+   },
+   "rule": {
+    "ta": "ஐங்குறுநூறு: 3 அடி சிற்றெல்லை, 6 அடி பேரெல்லை.",
+    "en": "Aingurunuru: 3 lines minimum, 6 lines maximum."
+   },
+   "eg": {
+    "ta": "ஐங்குறுநூற்றைத் தொகுத்தவர் கூடலூர் கிழார், தொகுப்பித்தவன் யானைக்கட்சேய் மாந்தரஞ்சேரல் இரும்பொறை.",
+    "en": "Aingurunuru was compiled by Koodalur Kizhar."
+   },
+   "tip": {
+    "ta": "ஐங்குறுநூறு = 3 முதல் 6 அடி (குிய சிறிய அடிகள்).",
+    "en": "Aingurunuru has the shortest lines among major anthologies (3-6)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q104": {
+   "hint": {
+    "ta": "உயிரின உடலின் திசு வகைகளையும் (எபிதீலியல், இணைப்பு, தசைக் திசு போன்றவை) அவற்றுடன் தொடர்புடைய புற்றுநோய் வகைகளையும் வகைப்படுத்திப் படித்துப் பழகுக.",
+    "en": "Classify tissue types and their corresponding cancer names when asked about cell-type-specific cancers."
+   },
+   "explain": {
+    "ta": "எபிதீலியல் செல்களில் தோன்றும் புற்றுநோய்க்கு கார்சினோமா என்று பெயர். இது மனித உடலில் தோல் மற்றும் உள் உறுப்புகளின் மேற்பூச்சு செல்களில் அதிகம் உருவாகிறது.",
+    "en": "Cancer arising from epithelial cells is scientifically termed carcinoma, representing a major category of human cancers."
+   },
+   "why": {},
+   "rule": {
+    "ta": "உடலில் எந்த திசு பாதிக்கப்படுகிறது என்பதைப் பொறுத்தே புற்றுநோயின் பெயர் (கார்சினோமா, சார்க்கோமா, லூக்கோமியா) அமையும்.",
+    "en": "Cancer names are classified based on the specific type of tissue from which they originate."
+   },
+   "eg": {
+    "ta": "இரத்தப் புற்றுநோய் லூக்கோமியா என்றும், எலும்புப் புற்றுநோய் சார்க்கோமா என்றும் அழைக்கப்படுகிறது.",
+    "en": "Blood cancer is called leukemia and bone cancer is called sarcoma."
+   },
+   "tip": {
+    "ta": "எபிதீலியல் என்றால் 'கார்சினோமா' என்பதை நினைவில் கொள்ள 'எபி-கார்' எனச் சுருக்கமாக வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember Epithelial starts with E and leads to Carcinoma (Epi-Car)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q106": {
+   "hint": {
+    "ta": "உலோகவியலில் பயன்படும் அடர்ப்பித்தல் முறைகள் மற்றும் தாதுக்களின் பெயர்களைத் தனித்தனியாக ஒப்பிட்டுப் பார்க்க வேண்டும்.",
+    "en": "Verify each metallurgical process, concentration method, and alloy composition statement independently."
+   },
+   "explain": {
+    "ta": "ஹேமடைட் என்பது இரும்புத் தாது, இது அடர்த்தி அதிகம் என்பதால் புவிஈர்ப்பு முறையில் அடர்ப்பிக்கப்படுகிறது. உருகிய அலுமினாவை மின்னாற் பகுப்பு செய்வதன் மூலமே அலுமினம் பெறப்படுகிறது.",
+    "en": "Haematite is concentrated by gravity separation, and pure aluminium is extracted by the electrolytic reduction of fused alumina."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தாதுக்களின் இயல்புக்கேற்ப புவிஈர்ப்பு முறை, காந்தப் பிரிப்பு முறை அல்லது நுரை மிதப்பு முறை பயன்படுத்தப்படுகிறது.",
+    "en": "Appropriate concentration methods are chosen based on the physical and chemical properties of the ore."
+   },
+   "eg": {
+    "ta": "காந்தத் தன்மையுள்ள டின்ஸ்டோன் (டங்ஸ்டன் தாது) காந்தப் பிரிப்பு முறை மூலம் அடர்ப்பிக்கப்படுகிறது.",
+    "en": "Magnetic ores like tin stone are concentrated using magnetic separation."
+   },
+   "tip": {
+    "ta": "அலுமினியத் தயாரிப்புக்கு ஹால்-ஹெரோல்ட் மின்னாற் பகுப்பு முறை பயன்படுகிறது என்பதை மறக்காதீர்கள்.",
+    "en": "Always remember Hall-Heroult electrolytic process for aluminium extraction."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q140": {
+   "hint": {
+    "ta": "மனித மரபியலில் குரோமோசோம் எண்ணிக்கை மாறுபாட்டால் ஏற்படும் நோய்களை (சின்ட்ரோம்களை) பட்டியலிட்டுப் படிக்கவும்.",
+    "en": "Match chromosomal aberrations and extra copies with their corresponding genetic syndromes."
+   },
+   "explain": {
+    "ta": "மனிதனின் 21-வது குரோமோசோமில் வழக்கமான இரண்டுக்குப் பதிலாக ஒரு நகல் கூடுதலாக (மூன்று குரோமோசோம்கள் - ட்ரைசோமி) அமையும்போது அது டவுன் சின்ட்ரோம் பாதிப்பை ஏற்படுத்துகிறது.",
+    "en": "An extra copy of chromosome 21 (Trisomy 21) leads to Down syndrome, characterized by distinct physical and mental traits."
+   },
+   "why": {},
+   "rule": {
+    "ta": "குரோமோசோம்களின் எண்ணிக்கையில் ஏற்படும் கூடுதல் அல்லது குறைவு மரபணுச் சிதைவு நோய்களை உருவாக்கும்.",
+    "en": "Numerical abnormalities in chromosomes result in specific genetic disorders in humans."
+   },
+   "eg": {
+    "ta": "பாலின குரோமோசோமில் ஒரு எக்ஸ் குரோமோசோம் மட்டும் இருந்தால் அது டர்னர் சின்ட்ரோம் எனப்படும்.",
+    "en": "Absence of one X chromosome in females results in Turner syndrome."
+   },
+   "tip": {
+    "ta": "21-வது குரோமோசோம் என்றால் உடனடியாக 'டவுன் சின்ட்ரோம்' என்று நினைவில் கொள்ள வேண்டும்.",
+    "en": "Link number 21 directly with Down syndrome for quick exam recall."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q155": {
+   "hint": {
+    "ta": "நடப்பு நிகழ்வு அறிவியல் கேள்விகளில் உள்நாட்டிலேயே உருவாக்கப்பட்ட சாதனங்கள் மற்றும் அறிவியல் நிறுவனங்களைக் கவனிக்க வேண்டும்.",
+    "en": "Check all statements regarding indigenous scientific achievements carefully as multiple statements can be valid."
+   },
+   "explain": {
+    "ta": "கொரோனா காலத்தில் மத்திய மருந்து ஆராய்ச்சி நிறுவனம் (CDRI) ஒமைக்ரான் வைரஸைச் சோதிக்க 'Om' என்ற உள்நாட்டு ஆர்டி-பிசிஆர் கருவியை உருவாக்கியது. இதுவே அரசு நிறுவனத்தால் உருவாக்கப்பட்ட முதல் கருவியும், ஒமைக்ரான் சோதிக்கப்பட்ட மூன்றாவது உள்நாட்டுக் கருவியும் ஆகும்.",
+    "en": "CDRI developed the 'Om' RT-PCR kit, which is the first government-made and third indigenous kit for specific Omicron detection."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அறிவியல் மற்றும் தொழில்நுட்பத் துறையில் நாட்டின் தற்சார்பு சாதனைகள் தொடர்பான அனைத்துக் கூற்றுகளும் பெரும்பாலும் சரியானவையே.",
+    "en": "Statements regarding indigenous scientific breakthroughs and institutional achievements are generally validated as correct."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் முதல் உள்நாட்டு கோவிட் தடுப்பூசி கோவாக்சின் ஆகும்.",
+    "en": "Covaxin is India's first indigenous COVID-19 vaccine."
+   },
+   "tip": {
+    "ta": "அனைத்துக் கூற்றுகளும் சரி எனத் தோன்றும் போது, அறிவியல் சாதனைகள் தொடர்பான கேள்விகளில் 'அனைத்தும் சரி' என்பதைத் தேர்ந்தெடுக்கலாம்.",
+    "en": "When all statements about an indigenous scientific achievement look plausible, 'all of the above' is often the key."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q157": {
+   "hint": {
+    "ta": "நியூக்ளிக் அமிலங்களின் கட்டமைப்பு அலகுகளான நியூக்ளியோடைடு, நியூக்ளியோசைடு மற்றும் நைட்ரஜன் காரங்களின் கூறுகளை ஒப்பிட்டுப் பார்க்கவும்.",
+    "en": "Examine the chemical composition of nucleic acid building blocks: base, sugar, and phosphate."
+   },
+   "explain": {
+    "ta": "டிஎன்ஏ மற்றும் ஆர்என்ஏ-வில் உள்ள பியூரின் காரங்கள் அடினைன் மற்றும் குவானைன் ஆகும். எனவே பியூரின்கள் - அடினைன் மற்றும் குவானைன் என்ற இணை சரியானது.",
+    "en": "Purines are nitrogenous bases consisting of Adenine and Guanine, making this pairing scientifically accurate."
+   },
+   "why": {},
+   "rule": {
+    "ta": "நியூக்ளியோடைடு என்பது நைட்ரஜன் காரம், சர்க்கரை மற்றும் பாஸ்பேட் ஆகிய மூன்றும் சேர்ந்த தொகுப்பாகும்.",
+    "en": "A nucleotide is composed of a nitrogenous base, a pentose sugar, and a phosphate group."
+   },
+   "eg": {
+    "ta": "டிஎன்ஏ-வில் உள்ள பிரிமிடின்கள் சைட்டோசின் மற்றும் தைமின் ஆகும்.",
+    "en": "The pyrimidines present in DNA are cytosine and thymine."
+   },
+   "tip": {
+    "ta": "பியூரின் என்றால் அடினைன், குவானைன் (Pure As Gold - AG) என எளிதில் நினைவில் கொள்ளலாம்.",
+    "en": "Remember PURines = Pure As Gold (A and G)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2022-q158": {
+   "hint": {
+    "ta": "புவியியல் மற்றும் எரிபொருள் வளங்கள் பாடத்தில் பாறை அடுக்குகளிலிருந்து வெட்டி எடுக்கப்படும் வாயுக்களின் பெயர்களைத் தேடிப் படிக்கவும்.",
+    "en": "Identify the specific hydrocarbon gases trapped within sedimentary rock formations."
+   },
+   "explain": {
+    "ta": "மென்மையான வண்டல் பாறை அடுக்குகளின் நுண்துளைகளில் இயற்கையாக அடைபட்டுள்ள இயற்கை வாயுவே ஷேல் வாயு (Shale gas) எனப்படும்.",
+    "en": "Shale gas is a type of natural gas trapped within the pore spaces of fine-grained sedimentary rock layers."
+   },
+   "why": {},
+   "rule": {
+    "ta": "வண்டல் பாறை அடுக்குகளிலிருந்து வெட்டி எடுக்கப்படும் மாற்று எரிபொருள் ஷேல் வாயு ஆகும்.",
+    "en": "Shale gas is extracted from sedimentary rock layers using advanced drilling and fracking technologies."
+   },
+   "eg": {
+    "ta": "இயற்கை வாயு என்பது நிலக்கரி மற்றும் பெட்ரோலியப் படிவுகளுடன் காணப்படும் ஒரு புதைபடிவ எரிபொருளாகும்.",
+    "en": "Natural gas is a fossil fuel commonly found alongside petroleum deposits."
+   },
+   "tip": {
+    "ta": "ஷேல் பாறைகள் (Shale rocks) என்றால் ஷேல் வாயு (Shale gas) என்று எளிதாகப் பொருத்தலாம்.",
+    "en": "Connect shale rock formations directly with shale gas in your memory."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-22"
+ "updated": "2026-11-23"
 }

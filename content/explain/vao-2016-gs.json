@@ -1,0 +1,3494 @@
+{
+ "name": "VAO-2016-GS",
+ "items": {
+  "pyq-VAO-2016-GS-q109": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட சொற்களில் உள்ள எழுத்துகளுக்குரிய எண்களை அப்படியே எடுத்துப் பொருத்திப் பாருங்கள்.",
+    "en": "Directly substitute the numbers assigned to each letter in the given words."
+   },
+   "explain": {
+    "ta": "TNPC = 5791 மற்றும் CUP = 169 என்பதில் ஒவ்வொரு எழுத்துக்கும் ஒரு எண் நேராகக் கொடுக்கப்பட்டுள்ளது. C = 1, U = 9, P = 6 எனில், CPU என்பதற்கு 1, 9, 6 என்று பிரதியிட்டால் 196 கிடைக்கும்.",
+    "en": "Each letter corresponds to a specific digit based on the given codes, yielding 196 for CPU."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான எண் வரிசையாகும், சரியான குறியீட்டு முறையின்படி வராது.",
+     "en": "This is an incorrect digit sequence not matching the given codes."
+    },
+    "C": {
+     "ta": "இது கடைசி இரண்டு எழுத்துகளுக்கான குறியீடு மட்டுமே ஆகும்.",
+     "en": "This represents the code for only the last two letters."
+    },
+    "D": {
+     "ta": "இது எழுத்துகளின் வரிசையை மாற்றிக் கொடுக்கப்பட்ட தவறான எண்ணாகும்.",
+     "en": "This is an incorrect number formed by reversing the digit order."
+    }
+   },
+   "rule": {
+    "ta": "நேரடிக் குறியீட்டு முறையில், ஒவ்வொரு எழுத்துக்கும் கொடுக்கப்பட்ட எண் அப்படியே இடமாற்றம் செய்யப்படும்.",
+    "en": "In direct coding, letters are replaced by their exact corresponding given digits."
+   },
+   "eg": {
+    "ta": "PEN = 321 மற்றும் NET = 214 எனில் PET = 314 ஆகும்.",
+    "en": "If PEN = 321 and NET = 214, then PET = 314."
+   },
+   "tip": {
+    "ta": "கேள்வியிலேயே குறியீட்டு எண்கள் இருந்தால், புதிய சொல்லின் எழுத்துகள் அங்கே உள்ளதா எனச் சோதிக்கவும்.",
+    "en": "Check if the letters of the new word are already present in the given coded words."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q110": {
+   "hint": {
+    "ta": "இயற்கணிதக் கோவைகளைக் காரணிப்படுத்தி, பொதுவான குறைந்த அடுக்குக் காரணியைக் கண்டறியுங்கள்.",
+    "en": "Factorize the algebraic expressions to find the common factor."
+   },
+   "explain": {
+    "ta": "x³ + 1 கோவையை (x + 1)(x² - x + 1) எனவும், x⁴ - 1 கோவையை (x - 1)(x + 1)(x² + 1) எனவும் காரணிப்படுத்தலாம். இரண்டிலும் பொதுவாக உள்ள காரணி x + 1 ஆகும்.",
+    "en": "x³ + 1 factors to (x + 1)(x² - x + 1) and x⁴ - 1 to (x - 1)(x + 1)(x² + 1), making x + 1 the common factor."
+   },
+   "why": {
+    "A": {
+     "ta": "இது x³ + 1 கோவையின் காரணி அல்ல, தவறான குறி கொண்டதாகும்.",
+     "en": "This is incorrect and not a factor of the given expressions."
+    },
+    "B": {
+     "ta": "இது முதல் கோவையின் ஒரு காரணி மட்டுமே, இரண்டிற்கும் பொதுவான மீ.பெ.வ அல்ல.",
+     "en": "This is only a factor of the first expression, not common to both."
+    },
+    "D": {
+     "ta": "இது x⁴ - 1 கோவையின் காரணி மட்டுமே, x³ + 1 இன் காரணி அல்ல.",
+     "en": "This is only a factor of the second expression, not the first."
+    }
+   },
+   "rule": {
+    "ta": "பல்லுறுப்புக் கோவைகளின் மீ.பெ.வ என்பது எல்லாக் கோவைகளிலும் உள்ள பொதுக் காரணிகளின் குறைந்த அடுக்கு ஆகும்.",
+    "en": "HCF of polynomials is the product of common factors with the lowest powers."
+   },
+   "eg": {
+    "ta": "x² - 1 மற்றும் x² - 2x + 1 இன் மீ.பெ.வ x - 1 ஆகும்.",
+    "en": "The HCF of x² - 1 and x² - 2x + 1 is x - 1."
+   },
+   "tip": {
+    "ta": "a³ + b³ மற்றும் a² - b² போன்ற இயற்கணித சூத்திரங்களை நன்கு நினைவில் கொள்ளுங்கள்.",
+    "en": "Memorize standard algebraic identities like a³ + b³ and a² - b²."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q111": {
+   "hint": {
+    "ta": "இருவர் சேர்ந்து செய்யும் வேலையிலிருந்து A இன் ஒரு நாள் வேலையைக் கழித்தால் B இன் வேலை கிடைக்கும்.",
+    "en": "Subtract A's one day work from the combined work of A and B to find B's work."
+   },
+   "explain": {
+    "ta": "B மட்டும் வேலையை முடிக்கத் தேவைப்படும் நாட்கள் 1/20 - 1/24 எனக் கணக்கிடப்படுகிறது. மீ.சி.ம எடுத்துத் தீர்த்தால் 1/120 என வரும், எனவே B மட்டும் 120 நாட்களில் முடிப்பார்.",
+    "en": "B's one day work is 1/20 - 1/24 = 1/120, so B alone takes 120 days."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான கழித்தல் கணக்கீடு மூலம் பெறப்பட்ட தவறான விடை.",
+     "en": "This is an incorrect value obtained from wrong arithmetic."
+    },
+    "B": {
+     "ta": "இது மதிப்புகளின் கூடுதலால் வந்த தவறான விடை.",
+     "en": "This is an incorrect value resulting from incorrect calculation."
+    },
+    "D": {
+     "ta": "இது இருவரின் நாட்களின் வித்தியாசத்திற்கு அருகில் உள்ள குழப்பமான எண்.",
+     "en": "This is a distractor value."
+    }
+   },
+   "rule": {
+    "ta": "சேர்ந்து செய்யும் நேரம் கொடுக்கப்பட்டு ஒருவர் மட்டும் எனில், பின்னங்களைக் கழிக்க வேண்டும் (1/B = 1/Total - 1/A).",
+    "en": "When combined time and one person's time are given, subtract their rates."
+   },
+   "eg": {
+    "ta": "A, B சேர்ந்து 10 நாள், A மட்டும் 15 நாள் எனில் B 30 நாட்களில் முடிப்பார்.",
+    "en": "If A and B take 10 days and A takes 15, B takes 30 days."
+   },
+   "tip": {
+    "ta": "மீ.சி.ம முறையைப் பயன்படுத்தினால் பின்னங்களைக் தவிர்த்து எளிதாகக் கணக்கிடலாம்.",
+    "en": "Use the LCM method to avoid fractions and solve quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q112": {
+   "hint": {
+    "ta": "மூன்றாம் எண்ணை 100 என வைத்துக் கொண்டு மற்ற இரு எண்களைக் கண்டறிந்து விகிதம் காணुங்கள்.",
+    "en": "Assume the third number is 100, find the other two numbers and take their ratio."
+   },
+   "explain": {
+    "ta": "மூன்றாம் எண் 100 எனில், முதல் எண் 10% குறைவு என்பதால் 90 ஆகும். இரண்டாம் எண் 15% குறைவு என்பதால் 85 ஆகும். இவற்றுக்கான விகிதம் 90 : 85 ஆகும், இதனைச் சுருக்கினால் 18 : 17 கிடைக்கும்.",
+    "en": "Let the third number be 100. The numbers are 90 and 85, and their simplified ratio is 18:17."
+   },
+   "why": {
+    "A": {
+     "ta": "இது சதவீதக் கணக்கீட்டில் ஏற்பட்ட பிழையால் வந்த தவறான விகிதம்.",
+     "en": "This is an incorrect ratio due to calculation error."
+    },
+    "B": {
+     "ta": "இது கொடுக்கப்பட்ட மதிப்புகளுடன் பொருந்தாத வேறு விகிதம்.",
+     "en": "This is an incorrect ratio."
+    },
+    "C": {
+     "ta": "இது கணக்கின் நிபந்தனைக்கு மாறான தவறான விடை.",
+     "en": "This is an incorrect ratio."
+    }
+   },
+   "rule": {
+    "ta": "அடிப்படைக் கூறდან மூன்றாம் எண்ணை 100 எனக் கொண்டு மற்ற எண்களை சதவீதத்தின்படி மாற்ற வேண்டும்.",
+    "en": "Take the base number as 100 and apply percentage reduction or increase directly."
+   },
+   "eg": {
+    "ta": "இரு எண்கள் 20% மற்றும் 30% குறைவு எனில் 80 : 70 = 8 : 7.",
+    "en": "If numbers are 20% and 30% less, ratio is 80:70 = 8:7."
+   },
+   "tip": {
+    "ta": "விகிதத்தைக் கடை நிலை வரை சுருக்க மறக்காதீர்கள் (5ஆல் வகுக்கவும்).",
+    "en": "Always simplify the ratio to its lowest terms."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q113": {
+   "hint": {
+    "ta": "நட்ட சதவீதம் கொடுக்கப்பட்டால், அடக்க விலையில் (100 - நட்ட%) ஐப் பெருக்கி விற்பனை விலை காண்க.",
+    "en": "Multiply the cost price by (100 - loss percentage) to find the selling price."
+   },
+   "explain": {
+    "ta": "12% நட்டம் என்பதால் விற்பனை விலையானது அடக்க விலையில் 88% ஆகும். எனவே 13,500 இன் 88% ஐக் கணக்கிட்டால் ரூ. 11,880 கிடைக்கும்.",
+    "en": "Since there is a 12% loss, selling price is 88% of cost price, which equals 13500 × 88/100 = 11880."
+   },
+   "why": {
+    "B": {
+     "ta": "இது 12% நட்டத்திற்குப் பதிலாக வேறு தவறான சதவீதத்தால் கணக்கிடப்பட்ட விடை.",
+     "en": "This is an incorrect calculation of the selling price."
+    },
+    "C": {
+     "ta": "இது இயந்திரத்தை வாங்கிய அடக்க விலை மட்டுமே, விற்பனை விலை அல்ல.",
+     "en": "This is the cost price, not the selling price."
+    },
+    "D": {
+     "ta": "இது சிறு கணிதத் பிழையால் வந்த தவறான விடை.",
+     "en": "This is a slightly incorrect value."
+    }
+   },
+   "rule": {
+    "ta": "விற்பனை விலை = அடக்கவிலை × (100 - நட்ட%) / 100.",
+    "en": "Selling Price = Cost Price × (100 - Loss%) / 100."
+   },
+   "eg": {
+    "ta": "ரூ. 1000 பொருள் 10% நட்டத்திற்கு விற்றால் விற்பனை விலை ரூ. 900.",
+    "en": "An article bought for 1000 and sold at 10% loss has an SP of 900."
+   },
+   "tip": {
+    "ta": "கடைசி இலக்க முறையைப் பயன்படுத்தியும் (5 × 8 = 40) சரியான விடையைக் கண்டறியலாம்.",
+    "en": "Use unit digit verification to speed up multiplication."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q114": {
+   "hint": {
+    "ta": "கனசதுரத்தின் மொத்தப் புறப்பரப்பு சூத்திரத்தைப் பயன்படுத்திப் பக்க அளவைக் கண்டறியுங்கள்.",
+    "en": "Use the total surface area formula of a cube to find the side length."
+   },
+   "explain": {
+    "ta": "கனசதுரத்தின் மொத்தப் புறப்பரப்பு 6a² = 384 ஆகும். எனவே a² = 64 எனில் a = 8 செ.மீ ஆகும். அதன் கன அளவு a³ என்பதால் 8³ = 512 செ.மீ³ ஆகும்.",
+    "en": "Total surface area 6a² = 384 gives a = 8 cm, and volume a³ = 8³ = 512 cm³."
+   },
+   "why": {
+    "A": {
+     "ta": "இது கன அளவு கணக்கீட்டில் ஏற்பட்ட பிழையால் வந்த தவறான விடை.",
+     "en": "This is an incorrect volume calculation."
+    },
+    "C": {
+     "ta": "இது பக்க அளவைத் தவறாக எடுத்துக் கொள்வதால் வரும் விடை.",
+     "en": "This is an incorrect value."
+    },
+    "D": {
+     "ta": "இது கனசதுரத்தின் பண்புகளுக்குப் பொருந்தாத தவறான எண்.",
+     "en": "This is an incorrect value."
+    }
+   },
+   "rule": {
+    "ta": "கனசதுரத்தின் கன அளவு = a³, மொத்தப் புறப்பரப்பு = 6a².",
+    "en": "Volume of a cube is a³ and total surface area is 6a²."
+   },
+   "eg": {
+    "ta": "பக்கம் 5 செ.மீ எனில் கனசதுரத்தின் கன அளவு 125 செ.மீ³ ஆகும்.",
+    "en": "If side is 5 cm, the volume of the cube is 125 cm³."
+   },
+   "tip": {
+    "ta": "ஒன்பது முதல் பன்னிரண்டு வரையிலான கன எண்களை (cubes) மனப்பாடம் செய்து வைத்திருப்பது நலம்.",
+    "en": "Memorize cube values up to 10 for quick calculation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q115": {
+   "hint": {
+    "ta": "இரு எண்களின் பெருக்கற்பலன் அவற்றின் மீ.பெ.வ மற்றும் மீ.சி.ம பெருக்கற்பலனுக்குச் சமம் என்பதைப் பயன்படுத்துங்கள்.",
+    "en": "Use the property that the product of two numbers equals the product of their HCF and LCM."
+   },
+   "explain": {
+    "ta": "எண்களின் பெருக்கல் 45 × 3 = 135 மற்றும் கூடுதல் 24. கூடுதல் 24 மற்றும் பெருக்கல் 135 தரும் எண்கள் 15 மற்றும் 9 ஆகும். அவைகளின் வித்தியாசம் 15 - 9 = 6 ஆகும்.",
+    "en": "The numbers whose sum is 24 and product is 135 (45 × 3) are 15 and 9. Their difference is 15 - 9 = 6."
+   },
+   "why": {
+    "A": {
+     "ta": "இது எண்களின் கூடுதல் மற்றும் பெருக்கலுக்குப் பொருந்தாத தவறான விடை.",
+     "en": "This difference does not satisfy the given condition."
+    },
+    "B": {
+     "ta": "இது கணக்கின் நிபந்தனைகளை நிறைவு செய்யாத தவறான எண்.",
+     "en": "This is incorrect."
+    },
+    "D": {
+     "ta": "இது கொடுக்கப்பட்ட எண்களின் வித்தியாசத்திற்கான தவறான கணிப்பு.",
+     "en": "This is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "இரு எண்களின் பெருக்கற்பலன் = மீ.பெ.வ × மீ.சி.ம.",
+    "en": "Product of two numbers = HCF × LCM."
+   },
+   "eg": {
+    "ta": "மீ.பெ.வ 2, மீ.சி.ம 12 மற்றும் கூடுதல் 8 எனில் எண்கள் 6 மற்றும் 4 ஆகும்.",
+    "en": "If HCF is 2, LCM is 12 and sum is 8, the numbers are 6 and 4."
+   },
+   "tip": {
+    "ta": "கூடுதல் மற்றும் பெருக்கற்பலன் தெரிந்தால் ஈருறுப்புக் சமன்பாட்டைப் பயன்படுத்தாமல் மனதிலேயே எண்களை ஊகிக்கலாம்.",
+    "en": "Guess the numbers by looking at factors of the product that add up to the sum."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q172": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொடுக்கப்பட்ட விகிதங்களில் பொதுவான உறுப்பான b-ஐ சமமாக்கி A : B : C-ஐக் கண்டறிந்து பின் C : A-ஐப் பாருங்கள்.",
+    "en": "Equate the common term b in both ratios to find A : B : C, then find C : A."
+   },
+   "explain": {
+    "ta": "A : B = 2 : 3 என்றும் B : C = 4 : 5 என்றும் உள்ளது. B-ன் மதிப்புகளைச் சமமாக்க முதல் விகிதத்தை 4-ஆலும் இரண்டாவது விகிதத்தை 3-ஆலும் பெருக்க A : B : C = 8 : 12 : 15 என்று கிடைக்கும். எனவே C : A இன் மதிப்பு 15 : 8 ஆகும்.",
+    "en": "By equating B, we get A : B : C = 8 : 12 : 15, making C : A equal to 15 : 8."
+   },
+   "why": {
+    "B": {
+     "ta": "இது A : C இன் விகிதத்தைக் குறிக்கிறது, ஆனால் கேள்வியில் C : A கேட்கப்பட்டுள்ளது.",
+     "en": "This represents the ratio of A : C, whereas the question asks for C : A."
+    },
+    "C": {
+     "ta": "இது கொடுக்கப்பட்ட எண்களின் தவறான எளிய வடிவம் ஆகும்.",
+     "en": "This is an incorrect simplification of the given numbers."
+    },
+    "D": {
+     "ta": "இது விகித விதிகளைப் பயன்படுத்தாமல் தவறாகப் பெறப்பட்ட மதிப்பு ஆகும்.",
+     "en": "This is an incorrectly derived value without applying ratio rules."
+    }
+   },
+   "rule": {
+    "ta": "இரண்டு விகிதங்களை இணைக்க பொதுவான உறுப்பின் மதிப்பை மீ.சி.ம கொண்டு சமமாக்க வேண்டும்.",
+    "en": "To combine two ratios, make the common term equal using LCM."
+   },
+   "eg": {
+    "ta": "A : B = 1 : 2 மற்றும் B : C = 3 : 4 எனில் A : B : C = 3 : 6 : 8.",
+    "en": "If A : B = 1 : 2 and B : C = 3 : 4, then A : B : C = 3 : 6 : 8."
+   },
+   "tip": {
+    "ta": "தலைகீழ் விகிதம் கேட்கும்போது இறுதி விகிதத்தை அப்படியே மாற்றி எழுத வேண்டும்.",
+    "en": "Reverse the final combined ratio when asked for the inverse order."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q173": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கூம்பின் கனஅளவு காணும் சூத்திரத்தில் அடிப்பக்கப்பரப்பு மற்றும் உயரப் பிரதியிட்டுப் பாருங்கள்.",
+    "en": "Use the volume of a cone formula with base area and height."
+   },
+   "explain": {
+    "ta": "நேர்வட்டக் கூம்பின் கனஅளவு காண (1/3) × அடிப்பக்கப்பரப்பு × உயரம் என்ற சூத்திரம் பயன்படுகிறது. இதில் அடிப்பக்கப்பரப்பு 48 ச.செ.மீ மற்றும் உயரம் 5 செ.மீ எனப் பிரதியிட்டால் (1/3) × 48 × 5 = 16 × 5 = 80 செ.மீ³ என்று விடை கிடைக்கும்.",
+    "en": "Using the formula (1/3) × base area × height, we get (1/3) × 48 × 5 = 80 cm³."
+   },
+   "why": {
+    "A": {
+     "ta": "இது சூத்திரத்தில் மூன்றால் வகுக்காமல் நேரடியாகப் பெருக்கியதால் வந்த தவறான மதிப்பு ஆகும்.",
+     "en": "This is an incorrect value obtained by multiplying without dividing by 3."
+    },
+    "B": {
+     "ta": "இது அடிப்பக்கப்பரப்பு மற்றும் உயரத்தைத் தவறாகப் பிரதியிட்டதால் வரும் மதிப்பு ஆகும்.",
+     "en": "This is a value from incorrect substitution."
+    },
+    "D": {
+     "ta": "இது உண்மையான மதிப்பை விட மூன்று மடங்கு அதிகமாகக் கணக்கிடப்பட்ட தவறான விடையாகும்.",
+     "en": "This is three times the correct value."
+    }
+   },
+   "rule": {
+    "ta": "கூம்பின் கனஅளவு = (1/3) × அடிப்பக்கப்பரப்பு × உயரம்.",
+    "en": "Volume of a cone = (1/3) × base area × height."
+   },
+   "eg": {
+    "ta": "உயரம் 6 செ.மீ மற்றும் அடிப்பக்கப்பரப்பு 30 ச.செ.மீ கொண்ட கூம்பின் கனஅளவு (1/3) × 30 × 6 = 60 செ.மீ³.",
+    "en": "Volume of cone with height 6 cm and base area 30 sq.cm is 60 cm³."
+   },
+   "tip": {
+    "ta": "கூம்பு என்பது உருளையின் மூன்றில் ஒரு பங்கு கனஅளவு உடையது என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that a cone's volume is one-third of a cylinder's volume."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q174": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு உறுப்பையும் பின்னக் கழித்தலாகச் சுருக்கி எவை வெட்டுப்படுகின்றன என்பதைப் பாருங்கள்.",
+    "en": "Simplify each term as a fraction and observe which terms cancel out."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட தொடரைச் சுருக்கினால் (2/3) × (3/4) × (4/5) × ... × (99/100) என வரும். இதில் அடுத்தடுத்த எண்களின் தொகுதியும் பகுதியும் அடிபட்டுப்போக இறுதியில் முதல் உறுப்பின் பகுதியும் இறுதி உறுப்பின் தொகுதியும் மட்டுமே (2/100) மிஞ்சும். அதனைச் சுருக்கினால் 1/50 என்று விடை கிடைக்கும்.",
+    "en": "Expanding the product gives (2/3) × (3/4) × ... × (99/100), where intermediate terms cancel out leaving 2/100, which simplifies to 1/50."
+   },
+   "why": {
+    "A": {
+     "ta": "இது இறுதிப் பகுதியின் மதிப்பை மட்டும் தொகுதியில் வைத்து எழுதப்பட்ட தவறான விடையாகும்.",
+     "en": "This is incorrect by only taking the denominator."
+    },
+    "C": {
+     "ta": "இது தொடரின் தொடக்க எண்களை மட்டும் கணக்கில் கொண்டதால் வந்த தவறான மதிப்பு ஆகும்.",
+     "en": "This is incorrect by only considering initial terms."
+    },
+    "D": {
+     "ta": "இது இறுதி உறுப்பின் மதிப்பை நேரடியாக எழுதியதால் வந்த தவறான விடையாகும்.",
+     "en": "This is just the last term of the series."
+    }
+   },
+   "rule": {
+    "ta": "தொடர் பெருக்கல் தொடர்களில் குறுக்காக எண்கள் வெட்டுப்படும் அமைப்பைப் பயன்படுத்திச் சுருக்க வேண்டும்.",
+    "en": "Cancel out diagonal terms in telescoping series products to simplify."
+   },
+   "eg": {
+    "ta": "(1 - 1/2)(1 - 1/3)(1 - 1/4) = (1/2) × (2/3) × (3/4) = 1/4.",
+    "en": "Product of (1 - 1/2)(1 - 1/3)(1 - 1/4) equals 1/4."
+   },
+   "tip": {
+    "ta": "இது போன்ற தொடர்களில் எப்போதும் முதல் பகுதியும் கடைசித் தொகுதியும் மட்டுமே மீதமிருக்கும்.",
+    "en": "In such series products, only the first denominator and last numerator always remain."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q175": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் விகிதங்களைச் சமப்படுத்தி a, b, c-ன் மதிப்புகளைக் கண்டறிந்து கொடுக்கப்பட்ட கோவையில் பிரதியிடுங்கள்.",
+    "en": "Equate the ratios to find a, b, c and substitute them into the given expression."
+   },
+   "explain": {
+    "ta": "a : b = 2 : 3 என்பதை 4 : 6 எனவும், b : c = 6 : 5 எனவும் மாற்றி எழுதினால் a : b : c = 4 : 6 : 5 என்று கிடைக்கும். இவற்றுடன் x ஐச் சேர்த்து 4x + 6x + 5x = 30 எனில் 15x = 30 அதாவது x = 2 ஆகும். எனவே a = 8, b = 12, c = 10 எனப் பெற்று 2a + 3b + 4c இன் மதிப்பை 2(8) + 3(12) + 4(10) = 92 எனக் கண்டறியலாம்.",
+    "en": "Ratio is a : b : c = 4 : 6 : 5. Solving 15x = 30 gives x = 2, so a = 8, b = 12, c = 10, yielding 92 for 2a + 3b + 4c."
+   },
+   "why": {
+    "A": {
+     "ta": "இது a + b + c இன் கூடுதலான 30 ஐக் குறிக்கிறதே தவிர கேட்கப்பட்ட கோவையின் மதிப்பு அல்ல.",
+     "en": "This is the sum 30, not the value of the expression."
+    },
+    "C": {
+     "ta": "இது கணக்கீட்டில் எண்களைத் தவруாகப் பெருக்குவதால் வரும் தவறான மதிப்பு ஆகும்.",
+     "en": "This is an incorrect value due to calculation error."
+    },
+    "D": {
+     "ta": "இது அருகில் உள்ள முழு எண்களை வைத்து உத்தேசமாகக் கணக்கிடப்பட்ட தவறான விடையாகும்.",
+     "en": "This is an approximate incorrect value."
+    }
+   },
+   "rule": {
+    "ta": "விகிதங்களைக் கொண்டு தனித்த மதிப்புகளைக் காண பொதுவான மாறி x ஐப் பயன்படுத்த வேண்டும்.",
+    "en": "Use a common variable x to find individual values from ratios."
+   },
+   "eg": {
+    "ta": "a : b = 1 : 2, b : c = 2 : 3 எனில் a : b : c = 1 : 2 : 3.",
+    "en": "If a : b = 1 : 2 and b : c = 2 : 3, then a : b : c = 1 : 2 : 3."
+   },
+   "tip": {
+    "ta": "பொதுவான உறுப்பு b இன் மதிப்பு இரண்டு விகிதங்களிலும் சமமாக இருந்தால் நேரடியாக எழுதலாம்.",
+    "en": "If the common term b is already equal in both ratios, write it directly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q176": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இயற்கணித முற்றொருமையான (a + b)³ சூத்திர வடிவத்தைப் பாருங்கள்.",
+    "en": "Check if the expression matches the algebraic identity (a + b)³."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட கோவை a³ + 3a²b + 3ab² + b³ என்ற கனக் கூடுதற் சூத்திர வடிவில் உள்ளது. இங்கு a = 0.98 மற்றும் b = 0.02 எனப் பிரதியிட்டால் (0.98 + 0.02)³ அதாவது (1)³ என்று வரும். ஒன்னை எங்கு பெருக்கினாலும் மதிப்பு மாறாது என்பதால் இதன் இறுதி விடை 1 ஆகும்.",
+    "en": "The expression is in the form of (a + b)³ where a = 0.98 and b = 0.02, which simplifies to (1)³ = 1."
+   },
+   "why": {
+    "A": {
+     "ta": "இது மதிப்புகளைத் தவறாகக் கூட்டி இரண்டால் பெருக்குவதால் வரும் தவறான விடையாகும்.",
+     "en": "This is an incorrect value from wrong arithmetic."
+    },
+    "C": {
+     "ta": "இது முற்றொருமைச் சூத்திரத்தைப் பயன்படுத்தாமல் சுழி எனத் தவறாகக் கற்பனை செய்த மதிப்பாகும்.",
+     "en": "This is an incorrect zero value."
+    },
+    "D": {
+     "ta": "இது உறுப்புகளின் எண்ணிக்கையைக் கொண்டு தவறாக ஊகிக்கப்பட்ட விடையாகும்.",
+     "en": "This is an incorrectly guessed value."
+    }
+   },
+   "rule": {
+    "ta": "(a + b)³ = a³ + 3a²b + 3ab² + b³ என்ற இயற்கணித முற்றொருமையைப் பயன்படுத்த வேண்டும்.",
+    "en": "Apply the algebraic identity (a + b)³ = a³ + 3a²b + 3ab² + b³."
+   },
+   "eg": {
+    "ta": "(0.7)³ + 3(0.7)²(0.3) + 3(0.7)(0.3)² + (0.3)³ = (0.7 + 0.3)³ = 1³ = 1.",
+    "en": "Using the same identity with 0.7 and 0.3 yields 1."
+   },
+   "tip": {
+    "ta": "தசம எண்கள் குழப்பமாக இருந்தால் அவற்றைக் கூட்டினால் முழு எண் வருமா எனச் சோதிக்கவும்.",
+    "en": "Check if adding the decimal bases results in a clean whole number."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q081": {
+   "hint": {
+    "ta": "ஒலியின் திசைவேகம் மற்றும் மனிதனின் செவி உணர் காலம் ஆகியவற்றைக் கொண்டு குறைந்தபட்ச தொலைவைக் கணக்கிடும் வாய்ப்பாட்டைப் பாருங்கள்.",
+    "en": "Look at the formula using velocity of sound and human persistence of hearing to calculate minimum distance."
+   },
+   "explain": {
+    "ta": "மனிதனின் செவி உணர்திறன் காலம் 0.1 வினாடி ஆகும். ஒலியின் திசைவேகம் வினாடிக்கு 340 மீட்டர் எனில், ஒலி சென்று திரும்பி வரத் தேவையான குறைந்தபட்ச தொலைவு 17 மீட்டர் ஆகும்.",
+    "en": "Human persistence of hearing is 0.1s. With sound velocity at 340 m/s, the minimum distance for hearing an echo is 17 meters."
+   },
+   "why": {
+    "A": {
+     "ta": "34 மீ என்பது ஒலி சென்று திரும்பி வருவதற்கான மொத்தத் தொலைவு ஆகும், குறைந்தபட்ச தொலைவு அல்ல.",
+     "en": "34 m is the total distance for round trip, not the minimum distance."
+    },
+    "C": {
+     "ta": "51 மீ என்பது தவறான கணிப்பீட்டைக் குறிக்கும் எண் ஆகும்.",
+     "en": "51 m is an incorrect calculated value."
+    },
+    "D": {
+     "ta": "10 மீ என்பது எதிரொலி கேட்கத் தேவையான குறைந்தபட்ச தொலைவுக்கும் குறைவான மதிப்பாகும்.",
+     "en": "10 m is less than the required minimum distance for an echo."
+    }
+   },
+   "rule": {
+    "ta": "எதிரொலி கேட்கத் தேவையான குறைந்தபட்ச தொலைவு = (ஒலியின் திசைவேகம் × 0.1) / 2",
+    "en": "Minimum distance for echo = (Velocity of sound × 0.1) / 2"
+   },
+   "eg": {
+    "ta": "ஒலியின் திசைவேகம் 330 மீ/வி எனில் எதிரொலி கேட்கும் குறைந்தபட்ச தொலைவு 16.5 மீட்டர் ஆகும்.",
+    "en": "If sound velocity is 330 m/s, the minimum distance is 16.5 meters."
+   },
+   "tip": {
+    "ta": "திசைவேகத்தை 20-ஆல் வகுத்தால் (340 / 20 = 17) உடனடியாக விடை கிடைக்கும்.",
+    "en": "Divide the velocity by 20 to get the answer instantly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q082": {
+   "hint": {
+    "ta": "உலோகங்கள் நீரவியுடன் வினைபுரியும் போது உருவாகும் உலோக ஆக்சைடு மற்றும் ஹைட்ரஜன் வாயுவைக் கவனியுங்கள்.",
+    "en": "Observe the metal oxide and hydrogen gas formed when metals react with steam."
+   },
+   "explain": {
+    "ta": "செங்குடேற்றப்பட்ட இரும்பின் மீது நீரவியைச் செலுத்தும்போது, இரும்பு நீரிலிருந்து ஆக்ஸிஜனைப் பெற்று காந்த இரும்பு ஆக்ஸைடு (Fe₃O₄) ஆக மாறுகிறது மற்றும் ஹைட்ரஜன் வாயு வெளியேறுகிறது.",
+    "en": "When steam is passed over red hot iron, iron gets oxidized to magnetic iron oxide (Fe3O4) and hydrogen gas is released."
+   },
+   "why": {
+    "A": {
+     "ta": "FeO என்பது இரும்பு(II) ஆக்ஸைடு ஆகும், இது நீரவி வினையின் போது நேரடியாக உருவாகும் முதன்மை விளைபொருள் அல்ல.",
+     "en": "FeO is iron(II) oxide, which is not the primary product of this steam reaction."
+    },
+    "B": {
+     "ta": "Fe₂O₃ என்பது பெரிக் ஆக்ஸைடு ஆகும், இது செங்குடேற்றப்பட்ட இரும்பு நீரவியுடன் வினைபுரியும் போது உருவாவதில்லை.",
+     "en": "Fe2O3 is ferric oxide, which is not formed during this reaction."
+    },
+    "D": {
+     "ta": "Fe மற்றும் H₂O என்பவை வினைபடு பொருட்கள் ஆகும், விளைபொருட்கள் அல்ல.",
+     "en": "Fe and H2O are reactants, not products."
+    }
+   },
+   "rule": {
+    "ta": "3Fe + 4H₂O (நீரவி) -> Fe₃O₄ + 4H₂",
+    "en": "3Fe + 4H2O (steam) -> Fe3O4 + 4H2"
+   },
+   "eg": {
+    "ta": "வெப்பம் ஊட்டப்பட்ட இரும்பு நீருடன் தீவிரமாக வினைபுரிந்து ஹைட்ரஜனைத் தருகிறது.",
+    "en": "Heated iron reacts vigorously with water to yield hydrogen."
+   },
+   "tip": {
+    "ta": "இரும்பின் நீரவி வினை என்றாலே Fe₃O₄ மற்றும் H₂ என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Fe3O4 and H2 whenever iron-steam reaction is asked."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q083": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்டுள்ள வேதிப்பொருட்களில் எதில் நைட்ரஜன் தனிமம் இல்லை என்பதை ஆராயுங்கள்.",
+    "en": "Examine which of the given chemical substances does not contain the nitrogen element."
+   },
+   "explain": {
+    "ta": "ஜிப்சம் என்பது கால்சியம் சல்பேட் டைஹைட்ரேட் (CaSO₄·2H₂O) ஆகும். இதில் கால்சியம், சல்பர் மற்றும் ஆக்ஸிஜன் மட்டுமே உள்ளன, நைட்ரஜன் இல்லை.",
+    "en": "Gypsum is calcium sulphate dihydrate (CaSO4·2H2O). It contains calcium, sulphur, and oxygen, but no nitrogen."
+   },
+   "why": {
+    "A": {
+     "ta": "அம்மோனியம் சல்பேட் என்பது ஒரு முக்கிய நைட்ரஜன் உரமாகும்.",
+     "en": "Ammonium sulphate is an important nitrogen fertilizer."
+    },
+    "B": {
+     "ta": "CAN என்பது கால்சியம் அம்மோனியம் நைட்ரேட் ஆகும், இதுவும் ஒரு நைட்ரஜன் உரமாகும்.",
+     "en": "CAN is calcium ammonium nitrate, which is also a nitrogen fertilizer."
+    },
+    "C": {
+     "ta": "யூரியா என்பது செறிவான நைட்ரஜனைக் கொண்ட உரமாகும்.",
+     "en": "Urea is a fertilizer containing concentrated nitrogen."
+    }
+   },
+   "rule": {
+    "ta": "ஜிப்சம் என்பது மண் மேலாண்மைக்குப் பயன்படும் கால்சியம் மற்றும் சல்பர் கொண்ட உப்பாகும்.",
+    "en": "Gypsum is a calcium and sulphur containing salt used for soil management."
+   },
+   "eg": {
+    "ta": "யூரியாவில் 46 சதவீத நைட்ரஜன் உள்ளது.",
+    "en": "Urea contains 46 percent nitrogen."
+   },
+   "tip": {
+    "ta": "உரங்களின் வேதிப்பெயர்களில் 'அம்மோனியம்' அல்லது 'நைட்ரேட்' அல்லது 'யூரியா' இருந்தால் அது நைட்ரஜன் உரம்.",
+    "en": "If fertilizer names contain 'ammonium', 'nitrate', or 'urea', it is a nitrogen fertilizer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q084": {
+   "hint": {
+    "ta": "உப்புக் களர் நிலங்கள் அல்லது சதுப்பு நிலங்களில் தாவர வேர்கள் எதற்காகச் செயல்படுகின்றன என்பதைக் கவனியுங்கள்.",
+    "en": "Note the function performed by plant roots in saline swamps or marshy lands."
+   },
+   "explain": {
+    "ta": "சதுப்பு நிலத் தாவரங்களில் ஆக்ஸிஜன் பற்றாக்குறை உள்ளதால், வேர்கள் தரைக்கு மேல் செங்குத்தாக வளர்ந்து காற்றை உறிஞ்சுகின்றன. இதனால் இவை சுவாசிக்கும் வேர்கள் அல்லது நிமட்டோஃபோர்கள் எனப்படுகின்றன.",
+    "en": "Due to oxygen deficiency in marshy lands, roots grow vertically upwards above the ground to absorb air, hence called respiratory roots or pneumatophores."
+   },
+   "why": {
+    "B": {
+     "ta": "தூண் வேர்கள் என்பது ஆலமரம் போன்ற பெரிய மரங்களுக்குத் தாங்குவதற்காகத் தரைநோக்கி வளரும் வேர்கள் ஆகும்.",
+     "en": "Prop roots are aerial roots that grow downwards to support large trees like banyan."
+    },
+    "C": {
+     "ta": "ஒட்டுண்ணி வேர்கள் என்பது மற்ற தாவரங்களிலிருந்து உணவை உறிஞ்சும் வேர்கள் ஆகும்.",
+     "en": "Parasitic roots are roots that absorb food from other host plants."
+    },
+    "D": {
+     "ta": "தொற்று வேர்கள் என்பது மரங்களின் மீது வளர்ந்து காற்று மூலமாக ஈரப்பதத்தை உறிஞ்சும் வேர்கள் ஆகும்.",
+     "en": "Epiphytic roots grow on trees and absorb moisture from the air."
+    }
+   },
+   "rule": {
+    "ta": "சதுப்பு நிலத் தாவரங்களின் சுவாச வேர்கள் காற்றோட்டத்திற்காக மேல்நோக்கி வளரும்.",
+    "en": "Respiratory roots of halophytes grow upwards for aeration."
+   },
+   "eg": {
+    "ta": "ரைசஃபோரா (Rhizophora) போன்ற சதுப்பு நிலத் தாவரங்களில் நிமட்டோஃபோர்கள் காணப்படுகின்றன.",
+    "en": "Pneumatophores are found in halophytes like Rhizophora."
+   },
+   "tip": {
+    "ta": "சதுப்பு நிலம் என்றாலே சுவாசிக்கும் வேர்கள் (நிமட்டோஃபோர்) என்பதை நினைவில் கொள்ளவும்.",
+    "en": "Marshy land directly relates to respiratory roots (pneumatophores)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q085": {
+   "hint": {
+    "ta": "சுவாச நிகழ்வின் ஒவ்வொரு படியும் நடைபெறும் இடத்தையும் அதன் சிறப்பையும் ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the location and specific feature of each step in the respiration process."
+   },
+   "explain": {
+    "ta": "கிளைகாளிசிஸ் சைட்டோபிளாசத்தில் நடக்கிறது (4); கிரெப் சுழற்சி பைருவிக் அமில ஆக்ஸிஜனேற்றத்துடன் தொடர்புடையது (3); எலக்ட்ரான் கடத்துச் சங்கிலி மூலம் ATP உருவாகிறது (2); நொதித்தலில் ஆக்ஸிஜன் பயன்படுத்தப்படுவதில்லை (1).",
+    "en": "Glycolysis occurs in cytoplasm (4); Kreb's cycle involves oxidation of pyruvic acid (3); ATP are produced via electron transport chain (2); O2 is not utilized in fermentation (1)."
+   },
+   "why": {
+    "A": {
+     "ta": "தவறான வரிசைப் பொருத்தம் ஆகும்.",
+     "en": "This is an incorrect matching sequence."
+    },
+    "C": {
+     "ta": "தவறான வரிசைப் பொருத்தம் ஆகும்.",
+     "en": "This is an incorrect matching sequence."
+    },
+    "D": {
+     "ta": "தவறான வரிசைப் பொருத்தம் ஆகும்.",
+     "en": "This is an incorrect matching sequence."
+    }
+   },
+   "rule": {
+    "ta": "சுவாசத்தின் முதல் நிலையான கிளைகாளிசிஸ் சைட்டோபிளாசத்தில் காற்றில்லாச் சூழ்நிலையில் நடைபெறுகிறது.",
+    "en": "Glycolysis, the first stage of respiration, occurs in cytoplasm under anaerobic conditions."
+   },
+   "eg": {
+    "ta": "கிளைகாளிசிஸ் இறுதியில் குளுக்கோஸ் இரண்டு மூலக்கூறு பைருவிக் அமிலமாக உடைகிறது.",
+    "en": "At the end of glycolysis, glucose breaks down into two molecules of pyruvic acid."
+   },
+   "tip": {
+    "ta": "கிளைகாளிசிஸ் = சைட்டோபிளாசம் என்பதை மட்டும் உறுதியாகத் தெரிந்தால் சரியான விடையைக் கண்டுபிடிக்கலாம்.",
+    "en": "Knowing that glycolysis occurs in cytoplasm helps eliminate wrong options."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q086": {
+   "hint": {
+    "ta": "மனிதனில் கன்னத்தில் வீக்கத்தை ஏற்படுத்தும் வைரஸ் நோயின் பெயரைக் கவனியுங்கள்.",
+    "en": "Note the name of the viral disease that causes swelling in the cheeks of humans."
+   },
+   "explain": {
+    "ta": "பொன்னுக்கு வீங்கி (Mumps) என்பது ஒரு வைரஸ் நோயாகும். இது முகத்தில் உள்ள மேலண்ணச் சுரப்பி அல்லது உமிழ்நீர்ச் சுரப்பியைப் பாதித்து வீக்கத்தை ஏற்படுத்துகிறது.",
+    "en": "Mumps is a viral disease that affects the parotid gland (salivary gland) in the face causing swelling."
+   },
+   "why": {
+    "A": {
+     "ta": "A(H1N1) வைரஸ் என்பது பன்றிக் காய்ச்சலை ஏற்படுத்தும் சுவாச மண்டல வைரஸ் ஆகும்.",
+     "en": "A(H1N1) virus is a respiratory virus causing swine flu."
+    },
+    "B": {
+     "ta": "ஹெப்பாடைட்டிஸ் B வைரஸ் என்பது கல்லீரலைப் பாதிக்கும் வைரஸ் ஆகும்.",
+     "en": "Hepatitis B virus is a virus that affects the liver."
+    },
+    "C": {
+     "ta": "இளம்பிள்ளை வாத வைரஸ் (Polio) தண்டுவடத்தையும் நரம்பு மண்டலத்தையும் பாதிக்கிறது.",
+     "en": "Polio virus affects the spinal cord and nervous system."
+    }
+   },
+   "rule": {
+    "ta": "பொன்னுக்கு வீங்கி நோய் உமிழ்நீர்ச் சுரப்பியான மேலண்ணச் சுரப்பியைத் தாக்குகிறது.",
+    "en": "Mumps infection attacks the parotid salivary gland."
+   },
+   "eg": {
+    "ta": "பொன்னுக்கு வீங்கி நோயால் பாதிக்கப்பட்டவர்களின் கன்னம் மற்றும் தாடைப் பகுதி வீக்கமடையும்.",
+    "en": "In people affected by mumps, the cheek and jaw region become swollen."
+   },
+   "tip": {
+    "ta": "சுரப்பி பாதிப்பு மற்றும் வீக்கம் என்றாலே அது பொன்னுக்கு வீங்கி நோய் ஆகும்.",
+    "en": "Gland infection and swelling directly point to Mumps."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q146": {
+   "hint": {
+    "ta": "வேதிப்பொருட்களின் பயன்கள் மற்றும் அவற்றின் பொதுப்பெயர்களைச் சரிபாருங்கள்.",
+    "en": "Check the uses and common names of various chemical compounds."
+   },
+   "explain": {
+    "ta": "மெக்னீசியம் ஹைட்ராக்சைடு மில்க் ஆஃப் மக்னீசியா என அழைக்கப்பட்டு வயிற்று அமிலங்களை நடுநிலையாக்கப் பயன்படுகிறது. சோடியம் ஹைட்ராக்சைடு சோப்பு தயாரிக்கவும், கால்சியம் ஹைட்ராக்சைடு வெள்ளை அடிக்கவும், அம்மோனியம் ஹைட்ராக்சைடு கறை நீக்கிகளாகவும் பயன்படுகின்றன.",
+    "en": "Magnesium hydroxide is used as an antacid for stomach troubles, making statement IV correct while others are mismatched."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அமிலங்கள் மற்றும் காரங்களின் பயன்களைத் தனித்தனியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the specific industrial and medical uses of common hydroxides."
+   },
+   "eg": {
+    "ta": "சோடியம் ஹைட்ராக்சைடு காகிதத் தொழிற்சாலைகளில் பயன்படுகிறது.",
+    "en": "Sodium hydroxide is used in paper industries."
+   },
+   "tip": {
+    "ta": "மில்க் ஆஃப் மக்னீசியா என்பது மெக்னீசியம் ஹைட்ராக்சைடு ஆகும்.",
+    "en": "Milk of magnesia is Magnesium hydroxide."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q147": {
+   "hint": {
+    "ta": "கூற்றுக்கும் காரணத்திற்கும் இடையே 'ஏனெனில்' என்ற சொத்தைப் பொருத்திப் பாருங்கள்.",
+    "en": "Check if the reason logically justifies the assertion using the word 'because'."
+   },
+   "explain": {
+    "ta": "மைட்டோகாண்ட்ரியா செல்லின் ஆற்றல் நிலையம் என அழைக்கப்படுகிறது, ஏனெனில் அங்குதான் சுவாசத்தின் மூலம் ஆற்றல் ATP மூலக்கூறுகளாக வெளியிடப்படுகிறது. எனவே காரணமானது கூற்றுக்கான சரியான விளக்கமாகும்.",
+    "en": "Mitochondria are called power houses because they produce ATP through cellular respiration, making the reason a correct explanation."
+   },
+   "why": {},
+   "rule": {
+    "ta": "செல்லின் ஆற்றல் உற்பத்தி மையமாக மைட்டோகாண்ட்ரியா விளங்குகிறது.",
+    "en": "Mitochondria serves as the cellular energy production center."
+   },
+   "eg": {
+    "ta": "ஏடிபி (ATP) என்பது அடினோசின் ட்ரை பாஸ்பேட் ஆகும்.",
+    "en": "ATP stands for Adenosine Triphosphate."
+   },
+   "tip": {
+    "ta": "மைட்டோகாண்ட்ரியா = செல்லின் ஆற்றல் மையம் (Powerhouse).",
+    "en": "Mitochondria equals Powerhouse of the cell."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q148": {
+   "hint": {
+    "ta": "ஆண் இனப்பெருக்க மண்டலத்தில் விந்து செல்களைப் பாதுகாக்கும் செல்களைக் கண்டறியுங்கள்.",
+    "en": "Identify the cells responsible for nourishing sperm cells in the male reproductive system."
+   },
+   "explain": {
+    "ta": "விந்தகக் குழல்களில் உள்ள செர்டோலி செல்கள் முதிர்ச்சியடையும் விந்து செல்களுக்குத் தேவையான ஊட்டச்சத்தை வழங்குகின்றன. இதனால் விந்து செல்கள் ஆரோக்கியமாகப் பாதுகாக்கப்படுகின்றன.",
+    "en": "Sertoli cells provide nutritional support and protection to the developing sperm cells inside the seminiferous tubules."
+   },
+   "why": {},
+   "rule": {
+    "ta": "செர்டோலி செல்கள் விந்து செல்களுக்கு ஊட்டமளிக்கும் பணிகொண்டவை.",
+    "en": "Sertoli cells function as nurse cells for sperm."
+   },
+   "eg": {
+    "ta": "லீடிக் செல்கள் ஆண் ஹார்மோனான டெஸ்டோஸ்டிரோனைச் சுரக்கின்றன.",
+    "en": "Leydig cells secrete testosterone."
+   },
+   "tip": {
+    "ta": "செர்டோலி செல்கள் = ஊட்டமளிக்கும் செல்கள்.",
+    "en": "Sertoli cells = Nourishing cells."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q149": {
+   "hint": {
+    "ta": "மனித உடல் உறுப்புகளின் அமைவிடத்தைக் குறிக்கும் அறிவியல் சொற்களைப் பாருங்கள்.",
+    "en": "Look at the anatomical terms describing the location of organs."
+   },
+   "explain": {
+    "ta": "மார்புக்கூட்டில் இடது மற்றும் வலது நுரையீரல்களுக்கு இடையே உள்ள நடுப்பகுதி மீடியாஸ்டனம் என்று அழைக்கப்படுகிறது. இப்பகுதியில் இதயம் மற்றும் முக்கிய நாளங்கள் அமைந்துள்ளன.",
+    "en": "Mediastinum refers to the central compartment located between the two lungs in the thoracic cavity."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இரு நுரையீரல்களுக்கு இடைப்பட்ட பகுதி மீடியாஸ்டனம் எனப்படும்.",
+    "en": "The space between the lungs is the mediastinum."
+   },
+   "eg": {
+    "ta": "நுரையீரலின் உறை பிலூரா எனப்படுகிறது.",
+    "en": "The membrane covering the lungs is pleura."
+   },
+   "tip": {
+    "ta": "மீடியாஸ்டனம் = இரண்டு நுரையீரல்களுக்கு இடைப்பட்ட இடைவெளி.",
+    "en": "Mediastinum = Space between lungs."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q150": {
+   "hint": {
+    "ta": "மருத்துவமனைகளில் உருவாகும் ஆபத்தான கழிவுகளை எவ்வாறு அழிக்கிறார்கள் என்பதைச் சிந்தியுங்கள்.",
+    "en": "Think about how hazardous hospital wastes are safely destroyed."
+   },
+   "explain": {
+    "ta": "மருத்துவமனைகளில் பயன்படுத்தப்பட்ட ஊசிகள், பஞ்சுகள் மற்றும் கிருமி நிறைந்த உயிரியல் மருத்துவக் கழிவுகள் நோய்த்தொற்று பரவாமல் இருக்க உயர் வெப்பநிலையில் எரித்து சாம்பலாக்கப்படுகின்றன.",
+    "en": "Hazardous bio-medical wastes are disposed of safely by high-temperature incineration to prevent the spread of infections."
+   },
+   "why": {},
+   "rule": {
+    "ta": "உயிரியல் மருத்துவக் கழிவுகள் எரித்து சாம்பலாக்கப்பட்டு அழிக்கப்படுகின்றன.",
+    "en": "Bio-medical waste is managed through incineration."
+   },
+   "eg": {
+    "ta": "மருத்துவக் கழிவு மேலாண்மை விதிகள் தொற்று நோய்களைத் தடுக்க உதவுகின்றன.",
+    "en": "Medical waste management rules prevent epidemics."
+   },
+   "tip": {
+    "ta": "மருத்துவக் கழிவு என்றால் 'எரித்து சாம்பலாக்குதல்' (Incineration) நினைவுக்கு வர வேண்டும்.",
+    "en": "Medical waste equals Incineration."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q163": {
+   "hint": {
+    "ta": "இயற்கை உணவுகளில் காணப்படும் கரிம அமிலங்களை ஒப்பிட்டுப் பொருத்துங்கள்.",
+    "en": "Match the organic acids found in natural food sources."
+   },
+   "explain": {
+    "ta": "எலுமிச்சையில் சிட்ரிக் அமிலமும், திராட்சையில் டார்டாரிக் அமிலமும், தக்காளியில் ஆக்சாலிக் அமிலமும், ஆப்பிளில் மாலிக் அமிலமும் உள்ளன. எனவே சரியான வரிசை 3 4 2 1 ஆகும்.",
+    "en": "Lemon contains citric acid, grapes contain tartaric acid, tomato contains oxalic acid, and apple contains malic acid."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பழங்கள் மற்றும் காய்கறிகளில் உள்ள அமிலங்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the specific organic acids present in fruits and vegetables."
+   },
+   "eg": {
+    "ta": "புளியில் டார்டாரிக் அமிலம் காணப்படுகிறது.",
+    "en": "Tamarind contains tartaric acid."
+   },
+   "tip": {
+    "ta": "எலுமிச்சை = சிட்ரிக், ஆப்பிள் = மாலிக்.",
+    "en": "Lemon = Citric, Apple = Malic."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q187": {
+   "hint": {
+    "ta": "அறிவியலாளர்களின் பெயர்களைப் பொருத்திப் படிக்க வேண்டும். பெருவெடிப்புக் கொள்கையை முதன்முதலில் முன்மொழிந்த வானியலாளரைக் கண்டறியுங்கள்.",
+    "en": "Focus on the scientists associated with cosmological theories and identify who first proposed the Big Bang theory."
+   },
+   "explain": {
+    "ta": "பெருவெடிப்புக் கொள்கையை (Big Bang Theory) முதன்முதலில் 1927 ஆம் ஆண்டில் ஜார்ஜ் லெமெட்ரி என்பவர் விவரித்துக் கூறினார். பின்னர் எட்வின் ஹப்பில் இக்கொள்கையை விரிவுபடுத்தினார்.",
+    "en": "Georges Lemaître first proposed the Big Bang theory in 1927, which was later expanded by Edwin Hubble."
+   },
+   "why": {
+    "A": {
+     "ta": "எட்வின் ஹப்பில் பிரபஞ்சம் விரிவடைந்து செல்வதை நிரூபித்தாரே தவிர, பெருவெடிப்புக் கொள்கையை முதன்முதலில் கூறியவர் அல்ல.",
+     "en": "Edwin Hubble proved the expansion of the universe, but he did not first propose the Big Bang theory."
+    },
+    "C": {
+     "ta": "தாலமி பூமிதான் பிரபஞ்சத்தின் மையம் என்ற நில மையக் கொள்கையை (Geocentric model) கூறியவர் ஆவார்.",
+     "en": "Ptolemy proposed the geocentric model where the Earth is at the center of the universe."
+    },
+    "D": {
+     "ta": "ஆரியப்பட்டர் பண்டைய கால இந்திய வானவியலாளர் மற்றும் கணிதவியலாளர் ஆவார்.",
+     "en": "Aryabhata was an ancient Indian astronomer and mathematician."
+    }
+   },
+   "rule": {
+    "ta": "அறிவியல் கோட்பாடுகளையும் அவற்றை முதன்முதலில் கூறிய விஞ்ஞானிகளையும் சமச்சீர் புத்தகத்திலிருந்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember scientific theories and their original proposers from Samacheer textbooks."
+   },
+   "eg": {
+    "ta": "சூரிய மையக் கொள்கையைக் கூறியவர் நிக்கோலஸ் கோப்பர்நிகஸ் ஆவார்.",
+    "en": "Nicolaus Copernicus proposed the heliocentric theory."
+   },
+   "tip": {
+    "ta": "பெரு வெடிப்பு - லெமெட்ரி (Big Bang - Lemaitre) என்பதை இணைத்து நினைவில் வைக்கவும்.",
+    "en": "Associate Big Bang with Lemaitre for quick recall."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q087": {
+   "hint": {
+    "ta": "குப்தப் பேரரசர்களின் காலத்திலுள்ள கல்வி நிலையங்கள் மற்றும் அவற்றைக் கட்டியவர்கள் குறித்த குறிப்புகளை நினைவுகூருங்கள்.",
+    "en": "Recall the founders of major educational institutions during the Gupta period."
+   },
+   "explain": {
+    "ta": "குமாரகுப்தர் தனது ஆட்சிக்காலத்தில் நாளந்தா பல்கலைக்கழகத்தைத் தோற்றுவித்தார். இது உலகப் புகழ்பெற்ற பௌத்தக் கல்வி மையமாக விளங்கியது.",
+    "en": "Kumara Gupta founded the famous Nalanda University during his reign."
+   },
+   "why": {
+    "A": {
+     "ta": "முதலாம் சந்திரகுப்தர் குப்தப் பேரரசை உருவாக்கியவர் மற்றும் பேரரசைப் பரப்பியவர் ஆவார்.",
+     "en": "Chandra Gupta I was the founder of the Gupta Empire."
+    },
+    "C": {
+     "ta": "ஸ்கந்தகுப்தர் ஹூணர்களின் படையெடுப்பைச் சமாளித்து நாட்டைப் பாதுகாத்த குப்த மன்னர் ஆவார்.",
+     "en": "Skanda Gupta successfully repelled the Huna invasions."
+    },
+    "D": {
+     "ta": "சமுத்திரகுப்தர் இந்தியாவின் நெப்போலியன் என்று அழைக்கப்படும் மாவீரர் ஆவார்.",
+     "en": "Samudra Gupta is known as the Napoleon of India."
+    }
+   },
+   "rule": {
+    "ta": "நாளந்தா பல்கலைக்கழகத்தைத் தோற்றுவித்தவர் முதலாம் குமாரகுப்தர் ஆவார்.",
+    "en": "Kumara Gupta I is the founder of Nalanda University."
+   },
+   "eg": {
+    "ta": "வக்கிரசிலா பல்கலைக்கழகத்தைத் தோற்றுவித்தவர் தர்மபாலர் ஆவார்.",
+    "en": "Vikramashila University was founded by Dharmapala."
+   },
+   "tip": {
+    "ta": "குமாரகுப்தரின் மற்றொரு பெயர் 'மகேந்திராதித்யன்' என்பதாகும்.",
+    "en": "Kumara Gupta is also known as Mahendraditya."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q092": {
+   "hint": {
+    "ta": "இந்திய தேசிய இயக்கத்தின் முக்கிய நிகழ்வுகளையும் அவற்றின் ஆண்டுகளையும் காலவரிசைப்படி பொருத்திப் பாருங்கள்.",
+    "en": "Match the major events of the Indian National Movement with their respective years in chronological order."
+   },
+   "explain": {
+    "ta": "தன்னாட்சி இயக்கம் 1916-ல், ஒத்துழையாமை இயக்கம் 1920-ல், உப்புச் சத்தியாகிரகம் 1930-ல் மற்றும் வெள்ளையனே வெளியேறு இயக்கம் 1942-ல் தொடங்கப்பட்டன. எனவே சரியான வரிசை 3 1 4 2 ஆகும்.",
+    "en": "Home Rule Movement started in 1916, Non-Cooperation in 1920, Salt Satyagraha in 1930, and Quit India in 1942."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்த வரிசை இயக்கங்களின் காலத்திற்கு முரணாகத் தவறாகப் பொருத்தப்பட்டுள்ளது.",
+     "en": "This pairing order is chronologically incorrect."
+    },
+    "C": {
+     "ta": "ஆண்டுகளின் பொருத்தம் மாறியுள்ளதால் இந்த வரிசை தவறானது.",
+     "en": "This sequence is wrong due to incorrect matching of years."
+    },
+    "D": {
+     "ta": "நிகழ்வுகளின் சரியான காலவரிசைக்குப் பொருத்தமில்லாத தவறான வரிசையாகும்.",
+     "en": "This does not match the correct chronological order of the movements."
+    }
+   },
+   "rule": {
+    "ta": "தேசிய இயக்க நிகழ்வுகளின் ஆண்டுகளை நினைவில் கொள்ள அவைகளின் காலவரிசையைப் புரிந்து படிக்க வேண்டும்.",
+    "en": "Understand the timeline of national movement events to match them correctly."
+   },
+   "eg": {
+    "ta": "சுதேசி இயக்கம் தொடங்கப்பட்ட ஆண்டு 1905 ஆகும்.",
+    "en": "The Swadeshi Movement was launched in 1905."
+   },
+   "tip": {
+    "ta": "1916 (தன்னாட்சி), 1920 (ஒத்துழையாமை), 1930 (உப்பு), 1942 (வெள்ளையனே வெளியேறு) ஆகிய ஆண்டுகளைத் தொடராக நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember the sequence of years: 1916, 1920, 1930, 1942."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q093": {
+   "hint": {
+    "ta": "முகலாயர்களுக்கும் மராத்தியர்களுக்கும் இடையே நடைபெற்ற முக்கிய ஒப்பந்தங்கள் மற்றும் போர்களின் ஆண்டுகளைச் சரிபார்க்கவும்.",
+    "en": "Check the years of important treaties and battles between the Mughals and the Marathas."
+   },
+   "explain": {
+    "ta": "முகலாயப் படைத்தளபதி ராஜ்புத் ஜெய் சிங்குக்கும் சிவாிக்கும் இடையே புரந்தர் உடன்படிக்கை கி.பி 1665 ஆம் ஆண்டு ஜூன் 11 ஆம் நாள் கையெழுத்திடப்பட்டது.",
+    "en": "The Treaty of Purandhar was signed on June 11, 1665, between Jai Singh and Shivaji."
+   },
+   "why": {
+    "A": {
+     "ta": "1656 ஆம் ஆண்டு புரந்தர் உடன்படிக்கை கையெழுத்தான ஆண்டு அல்ல.",
+     "en": "1656 is not the year of the Treaty of Purandhar."
+    },
+    "C": {
+     "ta": "1660 ஆம் ஆண்டு சிவாஜி மற்றும் அஃப்சல்கான் மோதல் நடைபெற்ற ஆண்டாகும்.",
+     "en": "1660 is the year of Shivaji's encounter with Afzal Khan."
+    },
+    "D": {
+     "ta": "1670 ஆம் ஆண்டு சிவாஜி இரண்டாவது முறையாக சூரத் நகரைக் சூறையாடிய ஆண்டாகும்.",
+     "en": "1670 is the year Shivaji sacked Surat for the second time."
+    }
+   },
+   "rule": {
+    "ta": "புரந்தர் உடன்படிக்கை கையெழுத்தான ஆண்டு 1665 ஆகும்.",
+    "en": "The Treaty of Purandhar was signed in 1665."
+   },
+   "eg": {
+    "ta": "அகமதாபாத் மற்றும் பீஜப்பூர் ஒப்பந்தங்கள் தொடர்பான ஆண்டுகளையும் ஒப்பிட்டுப் படிக்கவும்.",
+    "en": "Compare with other contemporary medieval treaties."
+   },
+   "tip": {
+    "ta": "சிவாஜிக்கும் ஜெய் சிங்குக்கும் இடையேயான ஒப்பந்தம் 1665 என்பதை நினைவில் கொள்ள '665' என்ற எண்ணை மனதில் வையுங்கள்.",
+    "en": "Remember the year 1665 for the Treaty of Purandhar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q094": {
+   "hint": {
+    "ta": "வங்கப்பிரிவினை எப்போது நடைமுறைக்கு வந்தது மற்றும் அதன் நேரடித் தாக்கத்தால் உருவான இயக்கம் யாது என்பதை யோசித்துப் பாருங்கள்.",
+    "en": "Think about when the partition of Bengal came into force and its direct consequence."
+   },
+   "explain": {
+    "ta": "வங்கப்பிரிவினை அக்டோபர் 16, 1905-ல் நடைமுறைக்கு வந்தது என்பது சரி. இதன் காரணமாகவே வங்காளத்தில் பிரிட்டிஷ் பொருள்களைப் புறக்கணிக்கும் சுதேசி இயக்கம் எழுச்சி பெற்றது; எனவே காரணமும் கூற்றுக்கான சரியான விளக்கமாகும்.",
+    "en": "Both assertion and reason are correct, and the reason correctly explains the assertion as Swadeshi movement arose due to the partition."
+   },
+   "why": {
+    "A": {
+     "ta": "காரணம் தவறானது அல்ல, ஏனெனில் வங்கப்பிரிவினைதான் சுதேசி இயக்கத்திற்குக் நேரடிக் காரணமாக அமைந்தது.",
+     "en": "Reason is not false; Partition directly led to the Swadeshi movement."
+    },
+    "B": {
+     "ta": "காரணம் கூற்றுக்குச் சரியான விளக்கமல்ல என்பது தவறு, ஏனெனில் பிரிவினைதான் சுதேசி இயக்கத்தை உருவாக்கியது.",
+     "en": "This is incorrect because the reason is indeed the direct explanation for the assertion."
+    },
+    "D": {
+     "ta": "கூற்று தவறு என்று கூறுவது தவறு, ஏனெனில் வங்கப்பிரிவினை 1905 அக்டோபர் 16-ல் நடைமுறைக்கு வந்தது உண்மை.",
+     "en": "Assertion is entirely true as Bengal was partitioned on October 16, 1905."
+    }
+   },
+   "rule": {
+    "ta": "வங்கப்பிரிவினையின் நேரடி எதிரொலியே இந்தியாவில் சுதேசி இயக்கத்தின் தொடக்கமாகும்.",
+    "en": "The Swadeshi movement was the direct outcome of the Partition of Bengal."
+   },
+   "eg": {
+    "ta": "சுதேசி இயக்கத்தின் போது வந்தே மாதரம் இயக்கம் நாடெங்கும் பரவியது.",
+    "en": "During the Swadeshi movement, the Vandemataram song spread widely."
+   },
+   "tip": {
+    "ta": "கூற்றும் காரணமும் தேசிய இயக்கத்தில் வரலாற்றுத் தொடர்பை அடிப்படையாகக் கொண்டவை.",
+    "en": "Analyze cause-and-effect relationships in historical events carefully."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q151": {
+   "hint": {
+    "ta": "முகலாயப் பேரரசர்களில் சமய விவகாரங்களில் அனைத்து மதங்களையும் ஒருங்கிணைக்க முயன்ற மற்றும் சட்டங்களை இயற்றிய மன்னரை நினைவுகூருங்கள்.",
+    "en": "Recall the Mughal emperor known for religious liberal policies and issuing administrative decrees."
+   },
+   "explain": {
+    "ta": "முகலாயப் பேரரசர் அக்பர் 1579 ஆம் ஆண்டில் மத விவகாரங்களில் இறுதி முடிவெடுக்கும் அதிகாரத்தைத் தன்வசமாக்கத் தவறுபடாப் பிரகடனத்தை (மஸ்ஹர்) வெளியிட்டார்.",
+    "en": "Mughal Emperor Akbar issued the Infallibility Decree (Mahzar) in 1579 to centralize religious authority."
+   },
+   "why": {
+    "A": {
+     "ta": "பாபர் முகலாயப் பேரரசைத் தோற்றுவித்தவர் ஆவார், இவர் பாபர் நாமா எழுதியவர்.",
+     "en": "Babar was the founder of the Mughal Empire."
+    },
+    "B": {
+     "ta": "ஹூமாயூன் தன் வாழ்நாள் முழுவதும் போர்களில் ஈடுபட்ட முகலாய அரசர் ஆவார்.",
+     "en": "Humayun was Babar's son who struggled to retain his empire."
+    },
+    "C": {
+     "ta": "செர்ஷா சூர் வம்சத்தைச் சேர்ந்தவர் மற்றும் நிர்வாகச் சீர்திருத்தங்களுக்குப் பெயர் பெற்றவர்.",
+     "en": "Sher Shah belonged to the Sur dynasty and was known for administrative reforms."
+    }
+   },
+   "rule": {
+    "ta": "தவறுபடா ஆணையை (Mahzar) பிரகடனப்படுத்திய முகலாய அரசர் அக்பர் ஆவார்.",
+    "en": "Akbar is the Mughal king who issued the infallibility decree."
+   },
+   "eg": {
+    "ta": "அக்பர் அனைத்து மதங்களின் நல்லிணக்கத்துக்காக 'தீன்-இ-இலாஹி' என்ற அமைப்பைத் தொடங்கினார்.",
+    "en": "Akbar founded Din-i Ilahi for religious synthesis."
+   },
+   "tip": {
+    "ta": "அக்பர் வெளியிட்ட மஸ்ஹர் (Mahzar) பிரகடனம் 1579 ஆம் ஆண்டைச் சேர்ந்தது.",
+    "en": "Remember the Mahzar decree issued by Akbar in 1579."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q153": {
+   "hint": {
+    "ta": "சிந்துவெளி நாகரிகத்தின் முதல் தளமான ஹரப்பா எப்போது கண்டுபிடிக்கப்பட்டது என்பதைப் பாருங்கள்.",
+    "en": "Look for the year when Harappa, the first site of the Indus Valley Civilization, was excavated."
+   },
+   "explain": {
+    "ta": "சிந்துவெளி நாகரிகத்தின் முதல் கண்டுபிடிக்கப்பட்ட நகரமான ஹரப்பா 1921 ஆம் ஆண்டு அகழ்வாராய்ச்சி செய்யப்பட்டது. தயா ராம் சகானி இதன் முதல் அகழ்வாராய்ச்சியாளர் ஆவார்.",
+    "en": "Indus Valley civilization excavation officially began with Harappa in 1921 under Daya Ram Sahni."
+   },
+   "why": {
+    "B": {
+     "ta": "1922 ஆம் ஆண்டு மொகஞ்சதாரோ அகழ்வாராய்ச்சி செய்யப்பட்ட ஆண்டாகும்.",
+     "en": "1922 is the year when Mohenjodaro was excavated."
+    },
+    "C": {
+     "ta": "1924 ஆம் ஆண்டு ஜான் மார்ஷல் சிந்துவெளி நாகரிகத்தைக் உலகிற்கு அதிகாரப்பூர்வமாக அறிவித்த ஆண்டாகும்.",
+     "en": "1924 is when John Marshall announced the discovery of the Indus Valley Civilization."
+    },
+    "D": {
+     "ta": "1926 ஆம் ஆண்டு சிந்துவெளி தளங்களின் தொடர் அகழ்வாராய்ச்சி காலத்தைச் சேர்ந்தது.",
+     "en": "1926 is part of the later phase of Indus site excavations."
+    }
+   },
+   "rule": {
+    "ta": "சிந்துவெளி நாகரிகம் முதன்முதலில் 1921 இல் அகழ்வாராய்ச்சி செய்யப்பட்டது.",
+    "en": "The excavation of the Indus Valley Civilization started in 1921."
+   },
+   "eg": {
+    "ta": "மொகஞ்சதாரோ கண்டுபிடிக்கப்பட்ட ஆண்டு 1922 ஆகும்.",
+    "en": "Mohenjodaro was discovered in 1922."
+   },
+   "tip": {
+    "ta": "ஹரப்பா (1921) மற்றும் மொகஞ்சதாரோ (1922) ஆகிய இரண்டு ஆண்டுகளையும் வரிசையாக நினைவில் வையுங்கள்.",
+    "en": "Remember the sequence: Harappa in 1921, Mohenjodaro in 1922."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q154": {
+   "hint": {
+    "ta": "காமராஜர் அவர்களின் வரலாற்றுச் சிறப்புமிக்க நிகழ்வுகள் மற்றும் இடங்களைக் கேட்கும்போது, அவர் எந்த சிறையில் அடைக்கப்பட்டார் மற்றும் எங்குக் கொடியேற்றினார் என்பதைச் சமச்சீர் புத்தகத் தகவல்களின் அடிப்படையில் பார்க்கவும்.",
+    "en": "When asked about historical events involving Kamaraj, look for the specific prison he was sent to and where he hoisted the flag."
+   },
+   "explain": {
+    "ta": "காமராஜர் 1930 ஆம் ஆண்டு உப்புச் சத்தியாகிரகப் போராட்டத்தின் போது அலிப்பூர் சிறையில் அடைக்கப்பட்டார். மேலும் 1947 ஆம் ஆண்டு சுதந்திர தினத்தன்று தனது அரசியல் குருவான சத்தியமூர்த்தியின் இல்லத்தில் தேசியக் கொடியை ஏற்றினார்.",
+    "en": "Kamaraj was imprisoned in Alipore jail in 1930 and hoisted the national flag at Sathyamoorthy's house in 1947."
+   },
+   "why": {
+    "B": {
+     "ta": "டில்லி மற்றும் சென்னை கோட்டை என்பது காமராஜரின் இந்த வரலாற்று நிகழ்வுகளுடன் தொடர்பில்லாத இடங்களாகும்.",
+     "en": "Delhi and Chennai Fort are not related to these specific events in Kamaraj's life."
+    },
+    "C": {
+     "ta": "அந்தமான் மற்றும் டில்லி கோட்டை என்பவை இவற்றுக்குப் பொருத்தமற்ற தவறான தகவலாகும்.",
+     "en": "Andaman and Delhi Fort are incorrect locations for these events."
+    },
+    "D": {
+     "ta": "வேலூர் மற்றும் விருதுநகர் வீடு என்பது இக்கேள்விக்கான சரியான இணை அல்ல.",
+     "en": "Vellore and Virudunagar home do not match the correct historical facts for these years."
+    }
+   },
+   "rule": {
+    "ta": "தலைவர்களின் முக்கிய வரலாற்று நிகழ்வுகள் மற்றும் இடங்களைச் சமச்சீர் புத்தகத்திலிருந்து சரியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember key historical locations and events related to national leaders from textbooks."
+   },
+   "eg": {
+    "ta": "காமராஜர் தமிழ்நாட்டில் மதிய உணவுத் திட்டத்தைக் கொண்டுவந்த பெருщுக்குரியவர் ஆவார்.",
+    "en": "Kamaraj is renowned for introducing the midday meal scheme in Tamil Nadu."
+   },
+   "tip": {
+    "ta": "காமராஜர் சிறை - அலிப்பூர்; கொடியேற்றம் - சத்தியமூர்த்தி வீடு.",
+    "en": "Kamaraj prison was Alipore and flag hoisting was at Sathyamoorthy house."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q156": {
+   "hint": {
+    "ta": "தேசியத் தலைவர்களின் அரசியல் குருக்கள் யார் என்று கேட்கும்போது, காந்திஜியைப் பொதுவாழ்விற்கு வழிகாட்டியாக இருந்த ஆளுமையைத் தேடவும்.",
+    "en": "When asked about the political guru of national leaders, identify the mentor who guided Gandhiji in public life."
+   },
+   "explain": {
+    "ta": "மகாத்மா காந்தி இந்தியா திரும்பியதும் அரசியலில் ஈடுபட வழிகாட்டியாக இருந்தவர் கோபால கிருஷ்ண கோகலே ஆவார். எனவே கோபால கிருஷ்ண கோகலே காந்தியின் அரசியல் குருவாகக் கருதப்படுகிறார்.",
+    "en": "Gopala Krishna Gokhale guided Gandhiji in Indian politics upon his return, making him his political guru."
+   },
+   "why": {
+    "A": {
+     "ta": "G. சுப்பிரமணிய அய்யர் என்பவர் தி இந்து பத்திரிகையைத் தொடங்கிய தேசியத் தலைவர் ஆவார்.",
+     "en": "G. Subramanya Iyyer was a nationalist leader who founded The Hindu newspaper."
+    },
+    "B": {
+     "ta": "சுரேந்திரநாத் பானர்ஜி இந்திய தேசிய இயக்கத்தின் மூத்த தலைவர்களில் ஒருவராவார்.",
+     "en": "Surendranath Banerjee was one of the early leaders of the Indian national movement."
+    },
+    "C": {
+     "ta": "பிரோஷ் ஷா மேத்தா பம்பாய் மாகாணத்தைச் சேர்ந்த முக்கிய காங்கிரஸ் தலைவராவார்.",
+     "en": "Feroz Shah Mehta was a prominent Congress leader from the Bombay Presidency."
+    }
+   },
+   "rule": {
+    "ta": "மகாத்மா காந்தியின் அரசியல் குரு கோபால கிருஷ்ண கோகலே ஆவார்.",
+    "en": "Gopala Krishna Gokhale is the political guru of Mahatma Gandhi."
+   },
+   "eg": {
+    "ta": "கோபால கிருஷ்ண கோகலேவின் அரசியல் குரு எம். ஜி. ரானடே ஆவார்.",
+    "en": "Gopala Krishna Gokhale's political guru was M.G. Ranade."
+   },
+   "tip": {
+    "ta": "காந்தியின் குரு கோகலே; கோகலேவின் குரு ரானடே.",
+    "en": "Gandhiji's guru was Gokhale, and Gokhale's guru was Ranade."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q157": {
+   "hint": {
+    "ta": "இந்திய தேசிய காங்கிரஸின் முக்கிய மாநாடுகள் மற்றும் பூர்ண சுயராஜ்யம் எப்போது முழங்கப்பட்டது என்ற ஆண்டைக் கவனிக்கவும்.",
+    "en": "Look for the year when the Indian National Congress declared complete self-rule or Poornaswaraj."
+   },
+   "explain": {
+    "ta": "1929 ஆம் ஆண்டு லாகூரில் நடைபெற்ற காங்கிரஸ் மாநாட்டிற்குத் தலைமை தாங்கிய ஜவஹர்லால் நேரு, முழு சுதந்திரமே லட்சியம் என்று பூர்ண சுயராஜ்யம் பற்றிப் பேசினார்.",
+    "en": "Jawaharlal Nehru declared 'Poornaswaraj' at the Lahore Congress session held in 1929."
+   },
+   "why": {
+    "A": {
+     "ta": "1926 ஆம் ஆண்டுக்கான காங்கிரஸ் மாநாடு குவகாத்தியில் நடைபெற்றது.",
+     "en": "The 1926 Congress session was held at Guwahati."
+    },
+    "B": {
+     "ta": "1927 ஆம் ஆண்டுக்கான காங்கிரஸ் மாநாடு சென்னையில் நடைபெற்றது.",
+     "en": "The 1927 Congress session was held at Madras."
+    },
+    "C": {
+     "ta": "1928 ஆம் ஆண்டு சமையல் மற்றும் நேரு அறிக்கை தொடர்பான அரசியல் நிகழ்வுகள் நடைபெற்றன.",
+     "en": "The year 1928 was associated with the Nehru Report and related political developments."
+    }
+   },
+   "rule": {
+    "ta": "1929 லாகூர் காங்கிரஸ் மாநாட்டில் பூர்ண சுயராஜ்ய தீர்மானம் நிறைவேற்றப்பட்டது.",
+    "en": "The Poornaswaraj resolution was passed at the 1929 Lahore Congress session."
+   },
+   "eg": {
+    "ta": "1930 ஜனவரி 26 அன்று முதன்முதலில் தேசியக் கொடி ஏற்றப்பட்டு சுதந்திர நாளாகக் கொண்டாடப்பட்டது.",
+    "en": "January 26, 1930 was celebrated as the first Independence Day by hoisting the national flag."
+   },
+   "tip": {
+    "ta": "பூர்ண சுயராஜ்யம் முழங்கிய ஆண்டு 1929 (லாகூர் மாநாடு).",
+    "en": "The year of Poornaswaraj declaration is 1929 (Lahore session)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q167": {
+   "hint": {
+    "ta": "இந்திய அரசியலமைப்பை உருவாக்க அமைக்கப்பட்ட பல்வேறு குழுக்களில், மிகவும் முக்கியமான வரைவுக் குழுவின் (Drafting Committee) தலைவரைத் தேடவும்.",
+    "en": "Look for the chairman of the Drafting Committee among the key committees of the Indian Constitution."
+   },
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்பை வரைவதற்காக உருவாக்கப்பட்ட வரைவுக் குழுவின் தலைவராக டாக்டர் பி. ஆர். அம்பேத்கர் தேர்ந்தெடுக்கப்பட்டு சிறப்பாகச் செயல்பட்டார்.",
+    "en": "Dr. B.R. Ambedkar served as the Chairman of the Constitution Drafting Committee."
+   },
+   "why": {
+    "B": {
+     "ta": "டாக்டர் சச்சிதானந்த சின்கா இந்திய அரசியலமைப்பு நிர்ணய சபையின் தற்காலிகத் தலைவராக இருந்தார்.",
+     "en": "Dr. Sachchidananda Sinha was the temporary chairman of the Constituent Assembly."
+    },
+    "C": {
+     "ta": "டாக்டர் இராஜேந்திர பிரசாத் அரசியலமைப்பு நிர்ணய சபையின் நிரந்தரத் தலைவராகத் தேர்ந்தெடுக்கப்பட்டார்.",
+     "en": "Dr. Rajendra Prasad was the permanent president of the Constituent Assembly."
+    },
+    "D": {
+     "ta": "ஜவகர்லால் நேரு மத்தியக் கொடிக்கூழ் மற்றும் வல்லமைக் குழுக்களுக்குத் தலைமை தாங்கினார்.",
+     "en": "Jawaharlal Nehru headed other major committees like the Union Powers Committee."
+    }
+   },
+   "rule": {
+    "ta": "அரசியலமைப்பு வரைவுக் குழுவின் தலைவர் டாக்டர் பி. ஆர். அம்பேத்கர் ஆவார்.",
+    "en": "The Chairman of the Drafting Committee was Dr. B.R. Ambedkar."
+   },
+   "eg": {
+    "ta": "டாக்டர் பி. ஆர். அம்பேத்கர் இந்திய அரசியலமைப்பின் தந்தை என்று போற்றப்படுகிறார்.",
+    "en": "Dr. B.R. Ambedkar is hailed as the Father of the Indian Constitution."
+   },
+   "tip": {
+    "ta": "வரைவுக் குழு = அம்பேத்கர் (Drafting = Ambedkar).",
+    "en": "Drafting Committee means Dr. B.R. Ambedkar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q088": {
+   "hint": {
+    "ta": "தமிழ்நாட்டில் சமூக நல திட்டங்களின் முன்னோடி அமைப்பைக் கண்டறியவும்.",
+    "en": "Identify the pioneer of social welfare schemes in early Tamil Nadu administration."
+   },
+   "explain": {
+    "ta": "நீதிக்கட்சி ஆட்சிக் காலத்தில் தான் சென்னையில் முதன்முதலில் பள்ளி மாணவர்களின் பசியைப் போக்க இலவச மத்திய உணவுத் திட்டம் கொண்டு வரப்பட்டது. பின்னர் இதுவே காமராசரால் மதிய உணவுத் திட்டமாக விரிவுபடுத்தப்பட்டது.",
+    "en": "The Justice Party first introduced the noon-meal scheme in Chennai to help school children."
+   },
+   "why": {
+    "A": {
+     "ta": "காங்கிரசு கட்சி பின்னர் காமராசர் காலத்தில் மதிய உணவுத் திட்டத்தை விரிவுபடுத்தியது, ஆனால் முதன்முதலில் அறிமுகப்படுத்தியது அல்ல.",
+     "en": "Congress expanded the scheme later under Kamaraj, but did not introduce it first."
+    },
+    "C": {
+     "ta": "சுயராஜ்ய கட்சி என்பது தேசநலனுக்காகத் தேர்தலில் போட்டியிட்ட மற்றொரு கட்சியாகும்.",
+     "en": "Swarajya party was another political group and did not run this welfare scheme."
+    },
+    "D": {
+     "ta": "திராவிட கட்சி என்பது நீதிக்கட்சியின் தொடர்ச்சியாகப் பிற்காலத்தில் உருவான இயக்கமாகும்.",
+     "en": "Dravidian parties evolved later from the Justice Party legacy."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டில் நீதிக்கட்சியின் சாதனைகளில் மிக முக்கியமானது சென்னை மாநகராட்சியில் கொண்டுவரப்பட்ட மதிய உணவுத் திட்டமாகும்.",
+    "en": "Justice Party introduced the first noon meal scheme in Chennai."
+   },
+   "eg": {
+    "ta": "நீதிக்கட்சி நீதிக்கட்சி பிட்டி தியாகராயர் மற்றும் பனகல் அரசர் போன்ற தலைவர்களால் நடத்தப்பட்டது.",
+    "en": "Justice Party was led by leaders like P. Theagaraya Chetty and Panagal Raja."
+   },
+   "tip": {
+    "ta": "மதிய உணவு என்றாலே நீதிக்கட்சி என்பதை நினைவில் கொள்க.",
+    "en": "Remember Justice Party for the first noon-meal scheme."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q089": {
+   "hint": {
+    "ta": "விஜயநகரப் பேரரசின் புகழ்பெற்ற மன்னர் எழுதிய இலக்கிய நூலின் மொழியைக் கண்டறியவும்.",
+    "en": "Identify the language of the literary work written by the famous Vijayanagara emperor."
+   },
+   "explain": {
+    "ta": "விஜயநகரப் பேரரசர் கிருஷ்ணதேவராயர் சிறந்த இலக்கியப் புலமை பெற்றவர். இவர் தெலுங்கு மொழியில் எழுதிய புகழ்பெற்ற நூல் ஆமுக்தமால்யதா ஆகும்.",
+    "en": "Krishnadevaraya wrote the famous literary work Amuktamalyada in Telugu."
+   },
+   "why": {
+    "A": {
+     "ta": "தமிழ் மொழியில் கிருஷ்ணதேவராயர் இந்நூலை எழுதவில்லை.",
+     "en": "Krishnadevaraya did not write this book in Tamil."
+    },
+    "B": {
+     "ta": "கன்னட மொழி கிருஷ்ணதேவராயரின் தாய்மொழியாக இருந்தபோதிலும் இந்நூல் கன்னடத்தில் எழுதப்படவில்லை.",
+     "en": "Though Kannada was his mother tongue, the book was not written in Kannada."
+    },
+    "C": {
+     "ta": "உருது மொழிக்கும் விஜயநகர இலக்கியங்களுக்கும் தொடர்பில்லை.",
+     "en": "Urdu has no connection to this Vijayanagara classic."
+    }
+   },
+   "rule": {
+    "ta": "கிருஷ்ணதேவராயர் எழுதிய ஆமுக்தமால்யதா தெலுங்கு இலக்கியத்தின் ஐம்பெரும் காப்பியங்களில் ஒன்றாகும்.",
+    "en": "Amuktamalyada by Krishnadevaraya is written in Telugu."
+   },
+   "eg": {
+    "ta": "கிருஷ்ணதேவராயர் அஷ்டதிக்கஜங்கள் என்ற எட்டு பேரறிவாளர்களைக் தனது அவையில் ஆதரித்தார்.",
+    "en": "Krishnadevaraya patronized eight scholars known as Ashtadiggajas."
+   },
+   "tip": {
+    "ta": "ஆமுக்தமால்யதா = தெலுங்கு.",
+    "en": "Amuktamalyada means Telugu."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q090": {
+   "hint": {
+    "ta": "தமிழிசை நாடக உலகத்துடன் தொடர்புடைய புகழ்பெற்ற பாடகருக்கு வழங்கப்பட்ட பட்டத்தைக் கவனிக்கவும்.",
+    "en": "Identify the recipient of the title awarded by Dr. S. Dharmambal."
+   },
+   "explain": {
+    "ta": "தமிழிசை மற்றும் நாடகத்துறையில் சிறந்து விளங்கிய எம்.கே. தியாகராஜ பாகவதருக்கு டாக்டர் எஸ். தர்மாம்பாள் 'ஏழிசை மன்னர்' என்ற பட்டத்தை வழங்கிச் சிறப்பித்தார்.",
+    "en": "Dr. S. Dharmambal conferred the title 'Ezhisai Mannar' on M.K. Thiyagaraja Bagavathar."
+   },
+   "why": {
+    "A": {
+     "ta": "டி.கே. பகவதி நாடக மற்றும் திரைப்படத் நடிகர் ஆவார், இவருக்கு இப்பட்டம் வழங்கப்படவில்லை.",
+     "en": "T.K. Bagavathy was an actor, not the recipient of this title."
+    },
+    "B": {
+     "ta": "எம்.கே. ராதா ஒரு முன்னணித் திரைப்பட நடிகர் ஆவார்.",
+     "en": "M.K. Radha was a leading film actor."
+    },
+    "D": {
+     "ta": "என்.எஸ். கிருஷ்ணன் புகழ்பெற்ற நகைச்சுவை நடிகர் மற்றும் கலைவாணர் என்று அழைக்கப்படுகிறார்.",
+     "en": "N.S. Krishnan was a famous comedian known as Kalaivanar."
+    }
+   },
+   "rule": {
+    "ta": "எம்.கே. தியாகராஜ பாகவதர் ஏழிசை மன்னர் என்று அழைக்கப்படுகிறார்.",
+    "en": "M.K. Thiyagaraja Bagavathar is known as Ezhisai Mannar."
+   },
+   "eg": {
+    "ta": "டாக்டர் எஸ். தர்மாம்பாள் தமிழ் ஆசிரியர்களின் நலனுக்காகவும் ஈ.வெ.ரா-விற்கு 'பெரியார்' பட்டம் வழங்கியவராகவும் அறியப்படுகிறார்.",
+    "en": "Dr. S. Dharmambal is also known for conferring the title 'Periyar' on E.V.R."
+   },
+   "tip": {
+    "ta": "தியாகராஜ பாகவதர் = ஏழிசை மன்னர்.",
+    "en": "MKT means Ezhisai Mannar."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q120": {
+   "hint": {
+    "ta": "இந்திய உள்நாட்டு கிரிக்கெட் தொடரான ரஞ்சிக் கோப்பையில் அதிக ரன்கள் குவித்த சாதனையைப் பாருங்கள்.",
+    "en": "Check the record-breaking run scorer in the domestic Ranji Trophy tournament."
+   },
+   "explain": {
+    "ta": "இந்திய உள்நாட்டு கிரிக்கெட் தொடரான ரஞ்சிக் கோப்பையில் நீண்ட காலம் விளையாடி 10,000 ரன்களைக் கடந்த முதல் வீரர் வாசிம் ஜாபர் ஆவார்.",
+    "en": "Wasim Jaffer became the first Indian cricketer to cross 10,000 runs in the Ranji Trophy."
+   },
+   "why": {
+    "A": {
+     "ta": "அபிஷேக் நாயர் ஒரு மும்பை அணியின் வீரர் ஆவார், இத்தகைய சாதனையை அவர் செய்யவில்லை.",
+     "en": "Abishek Nayar is a domestic cricketer who did not hold this record."
+    },
+    "B": {
+     "ta": "பார்த்தீவ் படேல் குஜராத் அணிக்காக விளையாடிய விக்கெட் கீப்பர் ஆவார்.",
+     "en": "Parthiv Patel was a wicketkeeper batsman for Gujarat."
+    },
+    "D": {
+     "ta": "பாபா அபராஜித் தமிழ்நாட்டைச் சேர்ந்த இளம் கிரிக்கெட் வீரர் ஆவார்.",
+     "en": "Baba Aparajith is a Tamil Nadu cricketer."
+    }
+   },
+   "rule": {
+    "ta": "ரஞ்சிக் கோப்பையின் அதிகபட்ச ரன் குவிப்பாளர் வாசிம் ஜாபர் ஆவார்.",
+    "en": "Wasim Jaffer holds the record for most runs in Ranji Trophy."
+   },
+   "eg": {
+    "ta": "ரஞ்சிக் கோப்பை கிரிக்கெட் போட்டி இந்தியாவின் உள்நாட்டு டெஸ்ட் தொடராகும்.",
+    "en": "Ranji Trophy is India's premier domestic first-class cricket championship."
+   },
+   "tip": {
+    "ta": "ரஞ்சிக் கோப்பை சாதனை = வாசிம் ஜாபர்.",
+    "en": "Ranji Trophy 10k runs = Wasim Jaffer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q121": {
+   "hint": {
+    "ta": "மகாகவி பாரதியாரின் படைப்புகளைத் முழுமையாகத் தொகுத்த ஆளுமையைக் கண்டறியவும்.",
+    "en": "Identify the scholar who meticulously compiled Mahakavi Bharathi's works."
+   },
+   "explain": {
+    "ta": "பாரதியாரின் அனைத்துப் படைப்புகளையும் சேகரித்து 16 தொகுதிகளாகவும் 10,000-க்கும் மேற்பட்ட பக்கங்களாகவும் தொகுத்து வெளியிட்ட பெருமை சீனி விஸ்வநாதனைச் சாரும்.",
+    "en": "Seeni Viswanathan compiled Bharathi's works into 16 volumes spanning over 10,000 pages."
+   },
+   "why": {
+    "B": {
+     "ta": "ஸ்ரீ கிருஷ்ணா என்பவர் பாரதி நூல்களைத் தொகுத்தவர் அல்ல.",
+     "en": "Sri Krishna is not the compiler of Bharathi's works."
+    },
+    "C": {
+     "ta": "ரெங்கநாதன் என்பவர் பாரதி ஆய்வோடு தொடர்புடைய முதன்மைத் தொகுப்பாளர் அல்ல.",
+     "en": "Renganathan is not the primary compiler of these volumes."
+    },
+    "D": {
+     "ta": "சத்தியமூர்த்தி இந்திய விடுதலைப் போராட்ட வீரர் ஆவார்.",
+     "en": "Sathyamoorthy was a freedom fighter and politician."
+    }
+   },
+   "rule": {
+    "ta": "பாரதியாரின் படைப்புகளைத் தொகுத்தவர்களில் சீனி விஸ்வநாதன் மிக முக்கியமானவர்.",
+    "en": "Seeni Viswanathan is renowned for compiling Bharathi's complete works."
+   },
+   "eg": {
+    "ta": "பாரதியார் 'யாமறிந்த மொழிகளிலே தமிழ்மொழி போல் இனிதாவது எங்கும் காணோம்' என்றார்.",
+    "en": "Bharathi praised the sweetness of the Tamil language."
+   },
+   "tip": {
+    "ta": "பாரதி படைப்புத் தொகுப்பு = சீனி விஸ்வநாதன்.",
+    "en": "Bharathi works compilation = Seeni Viswanathan."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q125": {
+   "hint": {
+    "ta": "ஞானபீட விருது பெற்ற ரகுவீர் சவுத்ரி எந்த மாநில மொழி எழுத்தாளர் என்பதைப் பாருங்கள்.",
+    "en": "Identify the language of the Jnanpith Award laureate Raghuveer Chaudhary."
+   },
+   "explain": {
+    "ta": "புகழ்பெற்ற ஞானபீட விருதைப் பெற்ற ரகுவீர் சவுத்ரி குஜராத்தி மொழி இலக்கியத்திற்குச் சிறந்த பங்களிப்புச் செய்துள்ளார்.",
+    "en": "Raghuveer Chaudhary, who won the Jnanpith Award, is a prominent Gujarati writer."
+   },
+   "why": {
+    "A": {
+     "ta": "மராத்தி மொழி எழுத்தாளர்களுக்கு ஞானபீட விருது வழங்கப்பட்டுள்ளது, எனினும் ரகுவீர் சவுத்ரி மராத்தி அல்ல.",
+     "en": "Though Marathi writers have won Jnanpith, he is not from Marathi."
+    },
+    "C": {
+     "ta": "ஸிந்தி மொழி இந்தியாவின் பிற குறிப்பிட்ட பிராந்திய மொழிகளில் ஒன்றாகும்.",
+     "en": "Sindhi is another regional language of India."
+    },
+    "D": {
+     "ta": "கொங்கனி மொழி கோவா மற்றும் கான்கன் பகுதியில் பேசப்படும் மொழியாகும்.",
+     "en": "Konkani is spoken in the coastal Konkan region."
+    }
+   },
+   "rule": {
+    "ta": "ரகுவீர் சவுத்ரி குஜராத்தி இலக்கியத்தின் முன்னணி எழுத்தாளர் ஆவார்.",
+    "en": "Raghuveer Chaudhary is a well-known Gujarati author."
+   },
+   "eg": {
+    "ta": "ஞானபீட விருது இந்தியாவின் இலக்கியத்துறையில் வழங்கப்படும் உயரிய விருடாகும்.",
+    "en": "Jnanpith Award is India's highest literary honor."
+   },
+   "tip": {
+    "ta": "ரகுவீர் சவுத்ரி = குஜராத்தி மொழி.",
+    "en": "Raghuveer Chaudhary = Gujarati language."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q152": {
+   "hint": {
+    "ta": "இக்கோவிலின் கோபுரத்தைக் கட்டியவர் அல்லது செப்பனிட்டவர் பற்றிய வரலாற்றுத் தகவலைப் பாருங்கள்.",
+    "en": "Look for the historical information about who completed or repaired the temple tower."
+   },
+   "explain": {
+    "ta": "அருணாச்சலேஸ்வரர் கோயில் கோபுரத்தின் சில பகுதிகளைச் செப்பனிட்டு கட்டி முடித்தவர் அச்சுதப்ப நாயக்கர் ஆவார்.",
+    "en": "Achutappa Nayak completed the construction and renovation of the tower of Arunachaleswara temple."
+   },
+   "why": {
+    "A": {
+     "ta": "திருமலை நாயக்கர் மதுரையை ஆட்சி செய்த நாயக்க மன்னர் ஆவார்.",
+     "en": "Thirumalai Nayak was the Nayak king who ruled Madurai."
+    },
+    "C": {
+     "ta": "விஜயராகவா என்பவர் தஞ்சாவூரை ஆண்ட நாயக்க மன்னராவார்.",
+     "en": "Vijaya Ragava was a Nayak ruler of Thanjavur."
+    },
+    "D": {
+     "ta": "கிருஷ்ண தேவராயர் விஜயநகரப் பேரரசின் புகழ் பெற்ற பேரரசர் ஆவார்.",
+     "en": "Krishnadevaraya was the famous emperor of the Vijayanagara Empire."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டில் உள்ள வரலாற்றுச் சிறப்புமிக்க கோயில்களையும் அவற்றைக் கட்டிய மன்னர்களையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the historical temples in Tamil Nadu and the kings who built or patronized them."
+   },
+   "eg": {
+    "ta": "தஞ்சாவூர் பெரிய கோயிலைக் கட்டியவர் இராஜராஜ சோழன் ஆவார்.",
+    "en": "Thanjavur Big Temple was built by Rajaraja Chola."
+   },
+   "tip": {
+    "ta": "அருணாச்சலேஸ்வரர் கோபுரம் என்றால் அச்சுதப்பர் என்பதை நினைவில் வையுங்கள்.",
+    "en": "Associate Arunachaleswara temple tower with Achutappa."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q155": {
+   "hint": {
+    "ta": "தமிழின் மிகப் பழமையான இலக்கண நூல் சங்க கால சமூக வாழ்க்கையைக் கூறுவதை அறிக.",
+    "en": "Note that the oldest Tamil grammar book describes the social life of the Sangam period."
+   },
+   "explain": {
+    "ta": "தொல்காப்பியம் தமிழ் மொழியின் இலக்கண நூலாக மட்டுமின்றி, சங்க கால மக்களின் சமூக வாழ்க்கை முறைகளையும் விரிவாக விளக்குகிறது.",
+    "en": "Tholkappiam is not only a grammar book but also explains the social life and conditions of Sangam Tamils."
+   },
+   "why": {
+    "A": {
+     "ta": "மணிமேகலை பௌத்த சமயக் கருத்துக்களை விளக்கும் ஐம்பெரும் காப்பியங்களில் ஒன்றாகும்.",
+     "en": "Manimegalai is one of the five great epics emphasizing Buddhist principles."
+    },
+    "C": {
+     "ta": "பத்துப்பாட்டு சங்க கால புலவர்களின் அக மற்றும் புறப்பாடல்களைத் தொகுத்த நூலாகும்.",
+     "en": "Pathupattu is a collection of ten long poems belonging to the Sangam literature."
+    },
+    "D": {
+     "ta": "எட்டுத்தொகை எட்டு அக மற்றும் புற இலக்கியத் தொகுதிகளைக் கொண்ட சங்க நூலாகும்.",
+     "en": "Ettuthogai is an anthology of eight works of Sangam poetry."
+    }
+   },
+   "rule": {
+    "ta": "தொல்காப்பியம் பண்டைத் தமிழர்களின் வாழ்வியல், ஒழுக்கம் மற்றும் சமூக அமைப்பைத் தெளிவாகக் காட்டுகிறது.",
+    "en": "Tholkappiam clearly depicts the lifestyle, ethics, and social structure of ancient Tamils."
+   },
+   "eg": {
+    "ta": "தொல்காப்பியத்தின் ஆசிரியர் தொல்காப்பியர் ஆவார்.",
+    "en": "The author of Tholkappiam is Tholkappiyar."
+   },
+   "tip": {
+    "ta": "சமூக நிலை பற்றிக் கேட்டால் தொல்காப்பியம் என்பதைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Choose Tholkappiam when asked about social conditions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q182": {
+   "hint": {
+    "ta": "குறிப்பிட்ட மாநிலத்தின் மொழி தினம் அனுசரிக்கப்பட்ட சரியான தேதியைக் கண்டறியவும்.",
+    "en": "Find the exact date when the specific state language day was observed."
+   },
+   "explain": {
+    "ta": "தெலுங்கானா மாநிலத்தின் முதல் மொழி தினம் செப்டம்பர் 9, 2015 அன்று அதிகாரப்பூர்வமாக அனுசரிக்கப்பட்டது.",
+    "en": "The first language day of Telangana state was officially observed on September 9, 2015."
+   },
+   "why": {
+    "B": {
+     "ta": "அக்டோபர் 4, 2015 என்பது இத்தினத்திற்கான சரியான நாள் அல்ல.",
+     "en": "October 4, 2015 is not the correct date for this day."
+    },
+    "C": {
+     "ta": "ஜனவரி 1, 2015 என்பது ஆங்கிலப் புத்தாண்டு தினமாகும்.",
+     "en": "January 1, 2015 is the New Year day."
+    },
+    "D": {
+     "ta": "டிசம்பர் 14, 2015 என்பது இத்தினத்தைக் குறிக்காது.",
+     "en": "December 14, 2015 does not mark this event."
+    }
+   },
+   "rule": {
+    "ta": "முக்கியமான மாநில மற்றும் தேசிய தினங்களின் ஆண்டுகளையும் தேதிகளையும் சரியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the exact dates and years of important state and national days."
+   },
+   "eg": {
+    "ta": "செப்டம்பர் 5 ஆசிரியர் தினமாகக் கொண்டாடப்படுகிறது.",
+    "en": "September 5 is celebrated as Teachers' Day."
+   },
+   "tip": {
+    "ta": "தெலுங்கானா மொழி தினம் செப்டம்பர் 9, 2015 என்பதை ஆண்டோடு சேர்த்துப் படிக்கவும்.",
+    "en": "Learn Telangana Language Day as September 9, 2015 with the year."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q091": {
+   "hint": {
+    "ta": "கட்டடக் கலைச் சிறப்புகள் மற்றும் வரலாற்றுச் சின்னங்களின் சிறப்பம்சங்களைக் கேட்கும் போது, குறிப்பிட்ட இடத்தின் ஒலியியல் (Acoustics) சிறப்புகளைக் கவனியுங்கள்.",
+    "en": "Look for acoustic features and architectural wonders of historical monuments when asked about special titles."
+   },
+   "explain": {
+    "ta": "கர்நாடக மாநிலம் பிஜப்பூர் நகரில் உள்ள கோல்கும்பாஸ் அதன் பிரம்மாண்டமான குவிமாடம் மற்றும் முணுமுணுக்கும் அரங்கம் (Whispering Gallery) போன்ற ஒலியியல் அமைப்புக்கு உலகப் புகழ்பெற்றது. இங்கு மிக மெலிதாகப் பேசும் ஒலியும் எதிரொலித்து பல அடி தூரத்தில் கேட்கும்.",
+    "en": "Golgumbaz is famous for its whispering gallery where even a soft whisper can be heard across the dome due to unique acoustics."
+   },
+   "why": {
+    "B": {
+     "ta": "ஜும்மா மசூதி என்பது வழிபாட்டுத் தலங்களுள் ஒன்றாகும், இது முணுமுணுக்கும் அரங்கம் என்ற சிறப்புப் பெயரால் அழைக்கப்படுவதில்லை.",
+     "en": "Jumma Mosque is a place of worship and does not possess this acoustic feature."
+    },
+    "C": {
+     "ta": "கோல்கொண்டா என்பது அதன் அரண்மனை மற்றும் எதிரொலிக்கும் பரந்த தோற்றத்திற்குப் புகழ்பெற்ற கோட்டையாகும்.",
+     "en": "Golconda is a historic fort known for its military architecture, not as a whispering gallery."
+    },
+    "D": {
+     "ta": "மதரஸா என்பது இஸ்லாமியக் கல்வி பயிலும் பள்ளியைக் குறிக்கும் சொல்லாகும்.",
+     "en": "Madarasa refers to an Islamic educational institution."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய வரலாற்றுச் சின்னங்களின் பிரத்யேக சிறப்பம்சங்களைச் சமச்சீர் கல்விப் புத்தகங்களிலிருந்து தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the unique features of Indian historical monuments from textbooks."
+   },
+   "eg": {
+    "ta": "ஆக்ரா தாஜ்மஹால் அதன் வெள்ளைச் பளிங்குக் கற்கள் மற்றும் சமச்சீர் வடிவமைப்புக்குச் பிரபலமானது.",
+    "en": "Agra Taj Mahal is famous for its white marble and symmetrical design."
+   },
+   "tip": {
+    "ta": "கோல்கும்பாஸ் என்றாலே 'முணுமுணுக்கும் அரங்கம்' என்று உடனடியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Associate Golgumbaz instantly with whispering gallery."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q095": {
+   "hint": {
+    "ta": "சதுப்புநிலக் காடுகள் (Mangroves) அதிகம் வளரும் டெல்டா பகுதிகள் மற்றும் அவற்றின் புவியியல் அமைப்பைக் கவனியுங்கள்.",
+    "en": "Focus on delta regions where mangrove forests thrive abundantly."
+   },
+   "explain": {
+    "ta": "சுந்தரி வகை மேங்குரோவ் மரங்கள் கங்கை மற்றும் ஹூக்ளி நதி டெல்டா பகுதிகளில் செழித்து வளர்கின்றன. உலகின் மிகப்பெரிய மேங்குரோவ் காடான சுந்தரவனம் இப்பகுதியில்தான் அமைந்துள்ளது.",
+    "en": "Mangrove (Sundari) trees predominantly grow in the Hooghly and Ganga delta regions forming the Sundarbans."
+   },
+   "why": {
+    "A": {
+     "ta": "நர்மதை நதி அரபிக் கடலில் கலப்பதால், அங்கு கங்கை டெல்டா போன்ற பெரிய சதுப்புநிலக் காடுகள் உருவாவதில்லை.",
+     "en": "Narmada flows into the Arabian Sea and does not form extensive mangrove deltas."
+    },
+    "B": {
+     "ta": "மகாநதி டெல்டாவில் டெல்டா காடுகள் இருப்பினும், குறிப்பிட்ட சுந்தரி மரங்கள் அதிகம் காணப்படும் பிரதான பகுதி ஹூக்ளி கங்கை டெல்டா ஆகும்.",
+     "en": "Mahanadi has deltas, but Sundari trees are primarily found in the Hooghly region."
+    },
+    "D": {
+     "ta": "காவிரி டெல்டா பகுதியில் பிச்சாவரம் சதுப்புநிலக் காடுகள் உள்ளன, ஆனால் சுந்தரி வகை மரங்கள் ஹூக்ளி டெல்டாவின் சிறப்பம்சமாகும்.",
+     "en": "Cauvery delta has Pichavaram mangroves, but Sundari trees belong to the Hooghly region."
+    }
+   },
+   "rule": {
+    "ta": "தாவர வகைகளும் அவை செழிக்கும் புவியியல் பகுதிகளும் புவியியல் பாடத்தின் மிக முக்கியமான பகுதியாகும்.",
+    "en": "Vegetation types and their specific geographic regions are crucial geography facts."
+   },
+   "eg": {
+    "ta": "தமிழ்நாட்டின் பிச்சாவரம் உலகின் இரண்டாவது பெரிய மேங்குரோவ் காடாகும்.",
+    "en": "Pichavaram in Tamil Nadu is the second largest mangrove forest in the world."
+   },
+   "tip": {
+    "ta": "சுந்தரி மரங்கள் = சுந்தரவனம் = ஹூக்ளி / கங்கை டெல்டா.",
+    "en": "Sundari trees equal Sundarbans which is in the Hooghly delta."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q096": {
+   "hint": {
+    "ta": "புதுப்பிக்கத்தக்க ஆற்றல் பயன்பாட்டில் கண்டங்களின் பங்களிப்பைக் குறிக்கும் புள்ளிவிவரங்களைக் கவனியுங்கள்.",
+    "en": "Look at continental contributions to renewable energy usage."
+   },
+   "explain": {
+    "ta": "ஐரோப்பிய நாடுகள் (குறிப்பாக ஜெர்மனி, டென்மார்க் போன்ற நாடுகள்) காற்று ஆற்றலை (Wind Energy) மின் உற்பத்திக்காக அதிகளவில் பயன்படுத்தி உலகளவில் முன்னணியில் உள்ளன.",
+    "en": "European countries lead the world in the extensive utilization of wind energy for power generation."
+   },
+   "why": {
+    "A": {
+     "ta": "ஆசியா கண்டத்தில் சூரிய ஆற்றல் மற்றும் நீர்மின் சக்தி அதிகம் பயன்படுத்தப்பட்டாலும், காற்று ஆற்றலில் ஐரோப்பாவே முன்னிலையில் உள்ளது.",
+     "en": "Asia uses solar and hydro power extensively, but Europe leads specifically in wind energy."
+    },
+    "C": {
+     "ta": "தென் அமெரிக்காவில் நீர்மின் ஆற்றல் பயன்பாடு அதிகமாக உள்ளது.",
+     "en": "South America relies heavily on hydroelectric power."
+    },
+    "D": {
+     "ta": "வட அமெரிக்காவில் புதைபடிவ எரிபொருட்கள் மற்றும் ஷேல் எரிபொருள் பயன்பாடு அதிகம்.",
+     "en": "North America consumes high amounts of fossil fuels and shale energy."
+    }
+   },
+   "rule": {
+    "ta": "ஆற்றல் வளங்களின் பயன்பாட்டில் முதலிடம் வகிக்கும் கண்டங்கள் மற்றும் நாடுகளைப் பட்டியலிட்டுப் படிக்க வேண்டும்.",
+    "en": "Learn the leading continents and countries in various energy resources."
+   },
+   "eg": {
+    "ta": "உலகிலேயே காற்றாலை மின் உற்பத்தியில் டென்மார்க் முக்கிய இடத்தைப் பெற்றுள்ளது.",
+    "en": "Denmark holds a prominent place in wind power generation globally."
+   },
+   "tip": {
+    "ta": "காற்று ஆற்றல் என்றாலே ஐரோப்பியக் கண்டத்தை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Wind energy equals Europe."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q097": {
+   "hint": {
+    "ta": "உலக அளவில் மற்றும் ஆசிய அளவில் நெல் உற்பத்தியில் முதல் இரண்டு இடங்களைப் பிடிக்கும் நாடுகள் எவை என்பதை முதலில் யோசியுங்கள்.",
+    "en": "Think of the top two paddy-producing countries in Asia and the world first to eliminate wrong options."
+   },
+   "explain": {
+    "ta": "ஆசியாவில் நெல் உற்பத்தியில் சீனா முதலிடத்திலும், இந்தியா இரண்டாம் இடத்திலும் உள்ளன. அதனைத் தொடர்ந்து இந்தோனேசியாவும் வங்காளதேசமும் அடுத்தடுத்த இடங்களைப் பெறுகின்றன.",
+    "en": "China and India are the top two paddy producers in Asia, followed by Indonesia and Bangladesh."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்தியா முதலிடம் அல்ல, சீனாவுக்கு அடுத்தபடியாக இரண்டாம் இடத்தில்தான் உள்ளது.",
+     "en": "India is not first; it holds the second position after China."
+    },
+    "B": {
+     "ta": "இந்தோனேசியா மற்றும் வங்காளதேசம் ஆகியவை முதல் இரண்டு இடங்கள் அல்ல.",
+     "en": "Indonesia and Bangladesh are not the top two producers."
+    },
+    "C": {
+     "ta": "வங்காளதேசம் முதலிடத்தில் இல்லை, சீனா மற்றும் இந்தியாவிற்குப் பின்னர்தான் பிற நாடுகள் வருகின்றன.",
+     "en": "Bangladesh is not in the first position."
+    }
+   },
+   "rule": {
+    "ta": "வேளாண் விளைபொருட்களின் உற்பத்தி வரிசையைக் கேட்கும்போது முதல் இரண்டு நாடுகளைத் தெளிவாகத் தெரிந்தால் சரியான விடையைக் கண்டுபிடிக்கலாம்.",
+    "en": "Knowing the top two countries in agricultural production helps easily identify the correct sequence."
+   },
+   "eg": {
+    "ta": "உலக அளவில் கோதுமை உற்பத்தியில் சீனா முதலிடத்தில் உள்ளது.",
+    "en": "China ranks first in wheat production globally."
+   },
+   "tip": {
+    "ta": "நெல் உற்பத்தி வரிசை: சீனா, இந்தியா, இந்தோனேசியா, வங்காளதேசம்.",
+    "en": "Paddy production order: China, India, Indonesia, Bangladesh."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q124": {
+   "hint": {
+    "ta": "சமீபத்திய ஆண்டுகளில் நிகழ்ந்த முக்கியப் புயல்கள் மற்றும் சூறாவளிகள் தாக்கிய நாடுகளைப் பற்றிய நடப்பு நிகழ்வுகளைக் கவனியுங்கள்.",
+    "en": "Recall current affairs regarding major hurricanes and the countries they struck."
+   },
+   "explain": {
+    "ta": "2015 ஆம் ஆண்டு அக்டோபர் மாதம் பதிவான மிக வலிமையான சூறாவளிகளில் ஒன்றான 'பாட்ரிசியா' (Patricia) மெக்ஸிகோ நாட்டைப் பெரிதும் பாதித்தது. இது பசிபிக் பெருங்கடலில் உருவான அதிதீவிர சூறாவளியாகும்.",
+    "en": "Hurricane Patricia severely affected Mexico in October 2015 as an extremely intense Pacific hurricane."
+   },
+   "why": {
+    "A": {
+     "ta": "பிலிப்பைன்ஸ் நாட்டைத் தாக்கிய புகழ்பெற்ற சூறாவளி ஹையான் (Haiyan) ஆகும்.",
+     "en": "The famous typhoon that affected the Philippines was Typhoon Haiyan."
+    },
+    "B": {
+     "ta": "ஜப்பான் நாட்டைப் பெரும்பாலும் தைபூன் எனப்படும் ஆசியப் புயல்கள் தாக்குகின்றன.",
+     "en": "Japan is mostly affected by typhoons originating in the Pacific."
+    },
+    "D": {
+     "ta": "இலங்கை நாட்டைப் புயல்கள் தாக்கினாலும், பாட்ரிசியா சூறாவளியால் பாதிக்கப்பட்டது மெக்ஸிகோ ஆகும்.",
+     "en": "Sri Lanka is affected by tropical cyclones, but Patricia struck Mexico."
+    }
+   },
+   "rule": {
+    "ta": "சர்வதேச அளவில் பெரும் சேதத்தை ஏற்படுத்திய இயற்கைப் பேரிடர்கள் மற்றும் நாடுகளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember major natural disasters and the countries affected globally."
+   },
+   "eg": {
+    "ta": "கத்ரீனா சூறாவளி அமெரிக்காவின் லூசியானா மற்றும் மிசிசிப்பி பகுதிகளைப் பாதித்தது.",
+    "en": "Hurricane Katrina affected Louisiana and Mississippi in the USA."
+   },
+   "tip": {
+    "ta": "பாட்ரிசியா சூறாவளி = மெக்ஸிகோ.",
+    "en": "Hurricane Patricia equals Mexico."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q127": {
+   "hint": {
+    "ta": "இந்தியாவில் நதி நீர் மற்றும் கடல்வாழ் உயிரினப் பாதுகாப்பு மையங்கள் எங்கு தொடங்கப்பட்டன என்பதைக் கண்டறியுங்கள்.",
+    "en": "Identify where river and marine wildlife conservation reserves were first established in India."
+   },
+   "explain": {
+    "ta": "கங்கை நதி டால்பின்களைப் பாதுகாப்பதற்காக இந்தியாவின் முதல் டால்பின் இனக் குழுமம் மேற்கு வங்கம் மாநிலத்தில் அமைக்கப்பட்டது. இது அழிந்துவரும் நதி டால்பின்களைப் பாதுகாக்க எடுக்கப்பட்ட முக்கியமான நடவடிக்கையாகும்.",
+    "en": "India's first dolphin reserve community was established in West Bengal to protect river dolphins."
+   },
+   "why": {
+    "A": {
+     "ta": "கேரளா மாநிலம் அதன் பின்புறக் நீர்வகைகள் மற்றும் வனவிலங்கு காப்பகங்களுக்குப் பெயர் பெற்றது.",
+     "en": "Kerala is famous for backwaters and wildlife sanctuaries."
+    },
+    "B": {
+     "ta": "மகாராஷ்டிரா மாநிலத்தில் கடல்வாழ் உயிரினப் பாதுகாப்புத் திட்டங்கள் இருந்தாலும், இது டால்பின் காப்பகத்துடன் தொடர்புடையதல்ல.",
+     "en": "Maharashtra has marine conservation projects, but not this specific first dolphin reserve."
+    },
+    "C": {
+     "ta": "தமிழ்நாடு மாநிலம் மன்னார் வளைகுடா கடல்வாழ் தேசியப் பூங்காவிற்குக் குறிப்பிடப்படுகிறது.",
+     "en": "Tamil Nadu is noted for the Gulf of Mannar Marine National Park."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவின் முதல் வனவிலங்கு காப்பகங்கள் மற்றும் பாதுகாப்பு மையங்கள் அமைந்த மாநிலங்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the states where India's first wildlife reserves and conservation centers are located."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் முதல் தேசியப் பூங்கா ஜிம் கார்பெட் தேசியப் பூங்கா உத்தரகாண்ட் மாநிலத்தில் உள்ளது.",
+    "en": "India's first national park is Jim Corbett National Park in Uttarakhand."
+   },
+   "tip": {
+    "ta": "முதல் டால்பின் காப்பகம் = மேற்கு வங்கம்.",
+    "en": "First dolphin reserve equals West Bengal."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q129": {
+   "hint": {
+    "ta": "நில அளவை அலகுகள் மற்றும் அளவீட்டு முறைகளைக் கேட்கும்போது, ஒவ்வொரு அலகின் மதிப்பையும் நினைவுகூர்ந்து பார்க்கவும்.",
+    "en": "When measuring units in land surveying are asked, recall the exact metric equivalent of each unit."
+   },
+   "explain": {
+    "ta": "நில அளவையில் ஒரு லிங்க் (link) என்பது 0.20 மீட்டர் அல்லது 7.92 அங்குலம் ஆகும். இது சங்கிலித் தொடர் அளவீடுகளில் பயன்படுத்தப்படும் அடிப்படை அலகாகும்.",
+    "en": "In land surveying, one link is equal to 0.20 metres, which is a standard measurement unit used in chain surveying."
+   },
+   "why": {
+    "B": {
+     "ta": "0.10 மீட்டர் என்பது ஒரு லிங்கிற்கான சரியான அளவீடு அல்ல.",
+     "en": "0.10 metre is not the correct measurement for a link."
+    },
+    "C": {
+     "ta": "20 மீட்டர் என்பது ஒரு குறிப்பிட்ட சிறிய அலகு அல்ல, இது செயின் அளவீட்டின் மொத்த நீளத்தைக் குறிக்கலாம்.",
+     "en": "20 metre is too large to be a single link and usually refers to the total length of a survey chain."
+    },
+    "D": {
+     "ta": "1 மீட்டர் என்பது மிகப் பெரிய அளவாகும், இது ஒரு லிங்கின் மதிப்பு கிடையாது.",
+     "en": "1 metre is much larger than the value of a single link."
+    }
+   },
+   "rule": {
+    "ta": "நில அளவையில் ஒரு லிங்க் என்பதன் மதிப்பு 0.20 மீட்டர் ஆகும்.",
+    "en": "One link in land surveying equals 0.20 metres."
+   },
+   "eg": {
+    "ta": "கெண்டர் சங்கிலியின் (Gunter's Chain) நீளம் 66 அடி அல்லது 100 லிங்க்கள் ஆகும்.",
+    "en": "Gunter's chain is 66 feet long and consists of 100 links."
+   },
+   "tip": {
+    "ta": "லிங்க் என்றாலே 0.20 மீட்டர் என்ற எண்ணை நினைவில் கொள்ளுங்கள்.",
+    "en": "Always associate 'link' with 0.20 metres."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q158": {
+   "hint": {
+    "ta": "புவியியல் நிலப்பரப்பு மற்றும் படிவுகள் தொடர்பான கூற்றுகளைப் பகுப்பாய்வு செய்து ஒவ்வொரு கூற்றின் உண்மையைச் சரிபார்க்கவும்.",
+    "en": "Analyze statements about landforms and depositional features to check the accuracy of each."
+   },
+   "explain": {
+    "ta": "சுண்ணப்பாட்டுக் குகைகளில் ஸ்டாலக்டைட் மற்றும் ஸ்டாலக்சமைட் இரண்டும் வளர்ந்து ஒன்றாக இணையும்போது குகைத் தூண்கள் உருவாகின்றன. மேலும், ஆறுகள் படியவைக்கும் செயலால் மலையடிவாரத்தில் முக்கோண வடிவ டெல்டாக்கள் உருவாகின்றன. எனவே கொடுக்கப்பட்ட இரண்டு கூற்றுகளும் சரியானவை.",
+    "en": "Cave pillars are formed when stalactites and stalagmites meet, and deltas are triangular depositional features at river mouths. Thus both statements are correct."
+   },
+   "why": {
+    "A": {
+     "ta": "இரண்டாவது கூற்றும் சரியானது என்பதால் முதல் கூற்று மட்டும் சரி என்பது தவறாகும்.",
+     "en": "Statement II is also correct, so 'I only' is wrong."
+    },
+    "C": {
+     "ta": "முதல் கூற்றும் சரியானது என்பதால் இரண்டாவது கூற்று மட்டும் சரி என்பது தவறாகும்.",
+     "en": "Statement I is also correct, so 'II only' is wrong."
+    },
+    "D": {
+     "ta": "இரண்டு கூற்றுகளுமே புவியியல் உண்மைகளின்படி சரியானவை என்பதால் இது தவறானது.",
+     "en": "This is incorrect because both statements are factually correct."
+    }
+   },
+   "rule": {
+    "ta": "புவியியல் நிலப்பரப்பு உருவாக்கங்கள் மற்றும் படிவுகள் பற்றிய கூற்றுகளைத் தனித்தனியாக ஆராய்ந்து விடையளிக்க வேண்டும்.",
+    "en": "Evaluate geographical formations and depositional features statement by statement."
+   },
+   "eg": {
+    "ta": "ஆறுகளின் மூலம் உருவாகும் டெல்டாக்கள் மற்றும் படிவு நிலத்தோற்றங்கள் எப்போதும் முக்கோண வடிவப் பண்புகளைப் பெறும்.",
+    "en": "Deltas formed by rivers typically exhibit a triangular depositional shape."
+   },
+   "tip": {
+    "ta": "புவியியல் பாடத்தில் ஸ்டாலக்டைட் குகை மற்றும் டெல்டா உருவாக்கம் இரண்டும் மிக முக்கியமான நேரடி வினாக்களாகும்.",
+    "en": "Remember both cave pillars and deltas as standard geographic features."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q159": {
+   "hint": {
+    "ta": "வளிமண்டல அடுக்குகளில் எந்த அடுக்கில் உயரம் அதிகரிக்கும்போது வெப்பநிலை குறைகிறது என்பதைக் கவனிக்கவும்.",
+    "en": "Identify which atmospheric layer experiences a decrease in temperature as elevation increases."
+   },
+   "explain": {
+    "ta": "ட்ரோப்போஸ்பியர் அடுக்கில் உயரம் அதிகரிக்க அதிகரிக்க வெப்பநிலை குறைகிறது. இந்த நிகழ்வு சாதாரண லாப்ஸ் விகிதம் (Normal Lapse Rate) என்று அழைக்கப்படுகிறது.",
+    "en": "In the troposphere layer, temperature decreases with an increase in elevation, which is known as the normal lapse rate."
+   },
+   "why": {
+    "B": {
+     "ta": "ஸ்ட்ராடோஸ்பியர் அடுக்கில் உயரம் அதிகரிக்க அதிகரிக்க வெப்பநிலை அதிகரிக்கிறது.",
+     "en": "In the stratosphere, temperature increases with increasing elevation due to the ozone layer."
+    },
+    "C": {
+     "ta": "தெர்மோஸ்பியர் அடுக்கிலும் உயரம் அதிகரிக்க அதிகரிக்க வெப்பநிலை மிக அதிகமாக அதிகரிக்கிறது.",
+     "en": "In the thermosphere, temperature increases sharply with altitude."
+    },
+    "D": {
+     "ta": "எக்ஸோஸ்பியர் என்பது வளிமண்டலத்தின் மிக வெளி அடுக்கு ஆகும், அங்கு வளிமண்டலம் விண்வெளியுடன் கலக்கிறது.",
+     "en": "Exosphere is the outermost layer of the atmosphere blending into space."
+    }
+   },
+   "rule": {
+    "ta": "ட்ரோப்போஸ்பியர் அடுக்கில் உயரம் கூடக்கூட வெப்பநிலை குறையும்.",
+    "en": "Temperature decreases with height in the troposphere."
+   },
+   "eg": {
+    "ta": "மலை உச்சிக்குச் செல்லும்போது குளிர்ச்சியாக மாறுவதற்குக் காரணம் ட்ரோப்போஸ்பியர் அடுக்கின் லாப்ஸ் விகிதமாகும்.",
+    "en": "Getting colder as you climb mountains is due to the lapse rate in the troposphere."
+   },
+   "tip": {
+    "ta": "ட்ரோப்போஸ்பியர் = வானிலை மாற்றங்கள் மற்றும் வெப்பநிலை குறைவு.",
+    "en": "Troposphere equals weather phenomena and temperature decrease with height."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q098": {
+   "hint": {
+    "ta": "இந்தியாவில் உள்ள முக்கிய தேசிய அமைப்புகளின் தலைவராகப் பதவி வகிக்கும் உயர்ந்த அரசியல் பதவி எது என்பதைப் பாருங்கள்.",
+    "en": "Check which high political post traditionally heads major national bodies in India."
+   },
+   "explain": {
+    "ta": "இந்தியத் திட்டக்குழுவின் (தற்போது நிதி ஆயோக்) தலைவராக நாட்டின் பிரதம மந்திரி செயல்படுகிறார். இது திட்டமிடல் மற்றும் பொருளாதார மேம்பாட்டுக்கான முக்கிய அமைப்பாகும்.",
+    "en": "The Prime Minister of India serves as the Chairman of the Planning Commission, which is now replaced by NITI Aayog."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்தியக் குடியரசு தலைவர் நாட்டின் பெயரளவிலான தலைவர் ஆவார்.",
+     "en": "The President of India is the nominal head of the country."
+    },
+    "C": {
+     "ta": "இந்திய நிதி அமைச்சர் நாட்டின் நிதிநிலை அறிக்கையைத் தாக்கல் செய்யும் பொறுப்பில் உள்ளார்.",
+     "en": "The Finance Minister is responsible for presenting the national budget."
+    },
+    "D": {
+     "ta": "இந்திய துணை குடியரசு தலைவர் மாநிலங்களவையின் தலைவராகப் பணியாற்றுகிறார்.",
+     "en": "The Vice President of India serves as the Chairman of the Rajya Sabha."
+    }
+   },
+   "rule": {
+    "ta": "திட்டக்குழு மற்றும் நிதி ஆயோக்கின் தலைவர் எப்போதும் இந்தியாவின் பிரதம மந்திரியே ஆவார்.",
+    "en": "The Prime Minister of India is always the Chairman of the Planning Commission and NITI Aayog."
+   },
+   "eg": {
+    "ta": "நிதி ஆயோக் அமைப்பின் தற்போதைய தலைவரும் பிரதம மந்திரியே ஆவார்.",
+    "en": "The current Chairman of NITI Aayog is also the Prime Minister."
+   },
+   "tip": {
+    "ta": "திட்டம் அல்லது பொருளாதார வளர்ச்சி தொடர்பான உயர்மட்டக் குழு என்றால் பிரதமரை நினையுங்கள்.",
+    "en": "Remember the Prime Minister for high-level economic planning bodies."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q099": {
+   "hint": {
+    "ta": "பொருளாதாரத் துறைகளின் வகைகளையும், இயற்கை வளங்களை நேரடியாகப் பயன்படுத்தும் தொழில்கள் எவை என்பதையும் கவனியுங்கள்.",
+    "en": "Look at the classifications of economic sectors and industries that directly use natural resources."
+   },
+   "explain": {
+    "ta": "விவசாயம், கால்நடை வளர்ப்பு, மீன்பிடித்தல் போன்ற இயற்கை வளங்களுடன் நேரடியாகத் தொடர்புடைய தொழில்கள் முதன்மைத் துறையின் கீழ் வருகின்றன.",
+    "en": "Agriculture falls under the primary sector as it is directly dependent on natural resources."
+   },
+   "why": {
+    "A": {
+     "ta": "வணிகம் என்பது பொருட்கள் கைமாறுவதைக் குறிக்கும் மூன்றாம் நிலைத் துறையாகும்.",
+     "en": "Trade is a tertiary sector activity involving the exchange of goods."
+    },
+    "B": {
+     "ta": "கட்டுமானம் என்பது மூலப்பொருட்களைப் பயன்படுத்தி உருமாற்றும் இரண்டாம் நிலைத் துறையாகும்.",
+     "en": "Construction is a secondary sector activity transforming raw materials."
+    },
+    "C": {
+     "ta": "தொலை தொடர்பு என்பது சேவைத் துறையைக் குறிக்கும் மூன்றாம் நிலைச் செயலாகும்.",
+     "en": "Telecommunication is part of the tertiary service sector."
+    }
+   },
+   "rule": {
+    "ta": "இயற்கையிலிருந்து பொருட்களை நேரடியாகப் பெறும் விவசாயம் போன்ற தொழில்கள் முதன்மைத் துறையாகும்.",
+    "en": "Activities directly extracting from nature, like agriculture, form the primary sector."
+   },
+   "eg": {
+    "ta": "காட்டு வளர்ப்பு மற்றும் கனி சுரங்கத் தொழிலும் முதன்மைத் துறையின் கீழ் வரும்.",
+    "en": "Forestry and mining are also examples of the primary sector."
+   },
+   "tip": {
+    "ta": "இயற்கை விவசாயம் முதல் படி (முதன்மைத் துறை) என நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember agriculture as the first step (primary sector) linked to nature."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q100": {
+   "hint": {
+    "ta": "மக்கள் தொகை வளர்ச்சி மற்றும் வறுமை குறித்த ஆரம்பகாலக் கோட்பாடுகளை எழுதிய பொருளாதார அறிஞர் யார் என்பதைப் பாருங்கள்.",
+    "en": "Identify the economist who wrote early theories on population growth and poverty."
+   },
+   "explain": {
+    "ta": "டி.ஆர். மால்தஸ் மக்கள் தொகை பெருக்கம் குறித்த தனது புகழ்பெற்ற கோட்பாட்டை வெளியிட்டதன் மூலம் முதல் மக்கள் தொகை ஆராய்ச்சியாளராகக் கருதப்படுகிறார்.",
+    "en": "T.R. Malthus is recognized as the first demographer for his pioneering theories on population growth."
+   },
+   "why": {
+    "B": {
+     "ta": "ஆதாம் ஸ்மித் நவீனப் பொருளாதாரத்தின் தந்தை என்று அழைக்கப்படுகிறார்.",
+     "en": "Adam Smith is known as the father of modern economics."
+    },
+    "C": {
+     "ta": "ஜே.எஸ். மில் உன்னதப் பொருளாதார அறிஞர்களில் ஒருவராவார்.",
+     "en": "J.S. Mill is a prominent classical economist."
+    },
+    "D": {
+     "ta": "கார்ல் மார்க்ஸ் பொதுவுடைமைச் சித்தாந்தத்தையும் மூலதனக் கோட்பாட்டையும் உருவாக்கியவர்.",
+     "en": "Karl Marx formulated communist ideology and theories on capital."
+    }
+   },
+   "rule": {
+    "ta": "மக்கள் தொகை வளர்ச்சி மற்றும் உணவு உற்பத்தி பற்றிய கோட்பாட்டை வழங்கியவர் டி.ஆர். மால்தஸ் ஆவார்.",
+    "en": "T.R. Malthus propounded the theory relating population growth and food supply."
+   },
+   "eg": {
+    "ta": "மால்தஸின் மக்கள் தொகை கோட்பாடு 1798 ஆம் ஆண்டில் வெளியிடப்பட்டது.",
+    "en": "Malthusian population theory was published in the year 1798."
+   },
+   "tip": {
+    "ta": "மக்கள் தொகை என்றாலே மால்தஸ் நினைவுக்கு வர வேண்டும்.",
+    "en": "Whenever you see population theory, immediately recall Malthus."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q101": {
+   "hint": {
+    "ta": "நகராட்சி நிர்வாகத்தில் மக்களால் தேர்ந்தெடுக்கப்படும் அரசியல் தலைவர் யார் என்பதை யோசித்துப்பாருங்கள்.",
+    "en": "Think of the elected political leader heading municipal corporation administration."
+   },
+   "explain": {
+    "ta": "மாநகராட்சியின் அரசியல் ரீதியான தலைவராக மேயர் தேர்ந்தெடுக்கப்படுகிறார். இவர் நகரின் முதல் குடிமகன் என்றும் அழைக்கப்படுகிறார்.",
+    "en": "The Mayor is elected as the political head of the Municipal Corporation and is considered the first citizen of the city."
+   },
+   "why": {
+    "A": {
+     "ta": "சேர்மன் என்பது பேரூராட்சி அல்லது நகராட்சிகளின் சில பிரிவுகளின் தலைவரைக் குறிக்கும்.",
+     "en": "Chairman usually refers to the head of a town panchayat or municipality."
+    },
+    "B": {
+     "ta": "ஆணையர் என்பவர் அரசுளால் நியமிக்கப்படும் நிர்வாகத்துறை அதிகாரி ஆவார்.",
+     "en": "The Commissioner is an administrative officer appointed by the government."
+    },
+    "C": {
+     "ta": "கவுன்சிலர் என்பவர் வார்டு வாரியாக மக்களால் தேர்ந்தெடுக்கப்படும் உறுப்பினர் ஆவார்.",
+     "en": "A Councilor is an elected member representing a specific ward."
+    }
+   },
+   "rule": {
+    "ta": "மாநகராட்சியின் அரசியல் தலைவர் மேயர் ஆவார், நிர்வாகத் தலைவர் ஆணையர் ஆவார்.",
+    "en": "The Mayor is the political head of the Corporation, while the Commissioner is the administrative head."
+   },
+   "eg": {
+    "ta": "சென்னை மாநகராட்சியின் அரசியல் தலைவர் மேயர் பதவியாகும்.",
+    "en": "The Mayor holds the political leadership of the Chennai Corporation."
+   },
+   "tip": {
+    "ta": "அரசியல் தலைவர் என்றால் மேயர், அதிகாரி என்றால் ஆணையர்.",
+    "en": "Political head equals Mayor, administrative officer equals Commissioner."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q105": {
+   "hint": {
+    "ta": "பத்தாவது ஐந்தாண்டு திட்டத்தின் காலத்தையும் அதன் முக்கிய குறிக்கோள்களையும் கூற்றுகளுடன் ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the period and core objectives of the Tenth Five Year Plan with the statements."
+   },
+   "explain": {
+    "ta": "பத்தாவது ஐந்தாண்டு திட்டம் 2002 முதல் 2007 வரை நடைமுறைப்படுத்தப்பட்டது. இத்திட்டம் வறுமை மற்றும் மக்கள் தொகை வளர்ச்சியை வெற்றிகரமாகக் குறைக்க முன்னுரிமை அளித்தது.",
+    "en": "The Tenth Five Year Plan spanned from 2002 to 2007 and prioritized the reduction of poverty and population growth."
+   },
+   "why": {
+    "A": {
+     "ta": "கூற்று மற்றும் காரணம் இரண்டும் சரியானது என்பதால் இது பொருந்தாது.",
+     "en": "This is incorrect because both the assertion and reason are true."
+    },
+    "B": {
+     "ta": "கூற்றும் சரியானது என்பதால் கூற்று தவறு என்பது தவறாகும்.",
+     "en": "This is incorrect because the assertion is also true."
+    },
+    "D": {
+     "ta": "இரண்டு கூற்றுகளும் உண்மையானவை மற்றும் காரணமும் சரியான விளக்கமே ஆகும்.",
+     "en": "This is incorrect because both statements are true and related."
+    }
+   },
+   "rule": {
+    "ta": "பத்தாவது ஐந்தாண்டு திட்டத்தின் காலம் 2002-2007 மற்றும் வறுமை ஒழிப்பு இதன் முக்கிய நோக்கமாகும்.",
+    "en": "The Tenth Plan period is 2002-2007, focusing on poverty reduction."
+   },
+   "eg": {
+    "ta": "பத்தாவது ஐந்தாண்டு திட்டம் பொருளாதார வளர்ச்சியோடு சமூக நலனுக்கும் முக்கியத்துவம் தந்தது.",
+    "en": "The Tenth Plan emphasized both economic growth and social welfare."
+   },
+   "tip": {
+    "ta": "ஐந்தாண்டு திட்டக் கேள்விகளில் காலக்கட்டம் மற்றும் நோக்கங்கள் சரியாகப் பொருந்துகிறதா எனப் பார்க்கவும்.",
+    "en": "Check if both the time period and objectives match correctly in plan questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q119": {
+   "hint": {
+    "ta": "டிஜிட்டல் பணப் பரிவர்த்தனையை முழுமையாகப் பயன்படுத்தி காகிதப் பணத்தை எவரும் பயன்படுத்தாத நிலையை எட்டியுள்ள ஸ்காண்டிநேவிய நாடு எது என்பதைப் பாருங்கள்.",
+    "en": "Identify the Scandinavian country pioneering digital transactions over physical currency."
+   },
+   "explain": {
+    "ta": "ஸ்வீடன் நாடு தனது பணப் பரிவர்த்தனைகளில் பெரும்பகுதியை டிஜிட்டல் முறைக்கு மாற்றி, காசு இல்லா பரிவர்த்தனையை நோக்கிச் செல்லும் முதல் நாடாக விளங்குகிறது.",
+    "en": "Sweden has transitioned majorly to digital payments, standing out as a pioneer in becoming a cashless country."
+   },
+   "why": {
+    "B": {
+     "ta": "நெதர்லாந்து டிஜிட்டல் வர்த்தகத்தில் முன்னணியில் இருந்தாலும் முதல் நாடாக அறியப்படவில்லை.",
+     "en": "Netherlands is advanced in digital payments but not the first pioneer."
+    },
+    "C": {
+     "ta": "ஜப்பான் அதிக தொழில்நுட்பம் கொண்ட நாடாக இருப்பினும் பாரம்பரிய பணப் பயன்பாடும் உள்ளது.",
+     "en": "Japan is technologically advanced but still uses considerable cash."
+    },
+    "D": {
+     "ta": "சீனா மின் பணப்பரிவர்த்தனையில் பெரிய அளவில் இருந்தாலும் சுவீடனே இதற்கு முன்னோடியாகும்.",
+     "en": "China has massive digital payments, but Sweden is noted as the first cashless society pioneer."
+    }
+   },
+   "rule": {
+    "ta": "உலகில் காசு இல்லா பரிவர்த்தனையை நோக்கிய முதன்மை நாடாக சுவீடன் திகழ்கிறது.",
+    "en": "Sweden is widely recognized as the leading nation moving towards a cashless economy."
+   },
+   "eg": {
+    "ta": "சுவீடனில் பெரும்பாலான கடைகள் மற்றும் பேருந்துகளில் ரொக்கப் பணம் ஏற்படுவதில்லை.",
+    "en": "Most shops and buses in Sweden do not accept physical cash."
+   },
+   "tip": {
+    "ta": "காசு இல்லா நாடு என்றால் சுவீடன் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Sweden whenever you see the cashless country current affairs question."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q123": {
+   "hint": {
+    "ta": "மத்திய அரசின் முக்கிய நலத்திட்டங்கள் மற்றும் அதன் உண்மையான நோக்கத்தைக் கேட்கும் போது, பெயரின் தன்மையைக் கொண்டு குழப்பாமல் திட்டத்தின் உண்மையான துறை அல்லது பயனைப் பாருங்கள்.",
+    "en": "When asked about central government welfare schemes, look at the actual objective or domain of the scheme rather than getting confused by poetic names."
+   },
+   "explain": {
+    "ta": "மிஷன் இந்திரதனுஷ் திட்டம் என்பது குழந்தைகளுக்குத் தேவையான தடுப்பூசிகளை முழுமையாக வழங்குவதற்காக மத்திய அரசால் தொடங்கப்பட்ட ஒரு முக்கிய தடுப்பூசித் திட்டமாகும். எனவே தடுப்பூசித் திட்டம் என்பதே சரியான விடையாகும்.",
+    "en": "Mission Indradhanush is a major health initiative launched by the central government to ensure full immunization of children against vaccine-preventable diseases."
+   },
+   "why": {
+    "A": {
+     "ta": "நதிகள் இணைப்புத் திட்டம் என்பது இந்தியாவில் உள்ள முக்கிய நதிகளை இணைப்பதற்கான திட்டமாகும், இது இந்திரதனுஷ் திட்டத்துடன் தொடர்புடையதல்ல.",
+     "en": "Rivers Link Programme is related to interlinking of rivers, not Indradhanush."
+    },
+    "C": {
+     "ta": "நதிகள் தூய்மைத் திட்டம் என்பது நதிகளில் உள்ள மாசைக் கட்டுப்படுத்துவது தொடர்பான திட்டமாகும்.",
+     "en": "Rivers Cleaning Project is related to cleaning river pollution."
+    },
+    "D": {
+     "ta": "தூய்மை இந்தியா திட்டம் என்பது சுகாதாரம் மற்றும் தூய்மையை மேம்படுத்துவதற்கான தேசிய இயக்கமாகும்.",
+     "en": "Clean India Project is focused on sanitation and cleanliness nationwide."
+    }
+   },
+   "rule": {
+    "ta": "மத்திய அரசின் 'மிஷன் இந்திரதனுஷ்' திட்டம் முழுமையான தடுப்பூசி வழங்குதலை (Immunization) குறிக்கோளாகக் கொண்டது.",
+    "en": "The central government's 'Mission Indradhanush' scheme aims at complete immunization."
+   },
+   "eg": {
+    "ta": "இந்திரதனுஷ் திட்டம் ஏழு தடுப்பூசிகளைக் குறிக்கும் வகையில் ஏழு வண்ணங்களை அடிப்படையாகக் கொண்டு குழந்தைகளுக்குத் தடுப்பூசி போடத் தொடங்கப்பட்டது.",
+    "en": "Indradhanush scheme was started to provide vaccines targeting seven diseases."
+   },
+   "tip": {
+    "ta": "இந்திரதனுஷ் (வானவில்) என்றவுடன் பல வண்ணத் திட்டங்கள் என நினைக்காமல், ஆரோக்கியமான குழந்தைகளுக்கான தடுப்பூசி என நினைவில் கொள்ளுங்கள்.",
+    "en": "Do not confuse Indradhanush with a multi-colored infrastructure project; it is strictly an immunization scheme."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q128": {
+   "hint": {
+    "ta": "இந்தியாவில் முதன்முறையாகச் செயல்படுத்தப்பட்ட நவீன அல்லது சிறப்பு வசதிகள் கொண்ட ரயில் நிலையங்கள் பற்றிக் கேட்கும் போது, மாநிலங்களின் முக்கிய சாதனைகளைக் கவனத்தில் கொள்ளுங்கள்.",
+    "en": "When asked about first-of-its-kind railway station facilities in India, remember the key achievements of southern states."
+   },
+   "explain": {
+    "ta": "கர்நாடக மாநிலத்திலுள்ள மைசூரு இரயில் நிலையம் பார்வையற்ற பயணிகள் எளிமையாகப் பயன்படுத்தும் வகையில் பிரத்யேக வசதிகளை ஏற்படுத்திய இந்தியாவின் முதல் ரயில் நிலையமாகும்.",
+    "en": "Mysuru railway station in Karnataka became the first railway station in India equipped with special facilities to be easily used by the visually challenged."
+   },
+   "why": {
+    "B": {
+     "ta": "பெங்களூரு இரயில் நிலையம் கர்நாடகத்தின் தலைநகர் நிலையமாக இருந்தாலும், பார்வையற்றோருக்கான முதல் சிறப்பு வசதி பெற்ற நிலையமாக அறிவிக்கப்படவில்லை.",
+     "en": "Bengaluru railway station is a major hub, but not the first visually challenged friendly station."
+    },
+    "C": {
+     "ta": "டெல்லி இரயில் நிலையம் நாட்டின் தலைநகர stazione என்றாலும் இச்சாதனைக்கு உரியதல்ல.",
+     "en": "Delhi railway station is the national capital's station, not holding this specific distinction."
+    },
+    "D": {
+     "ta": "பூனா இரயில் நிலையம் மகாராஷ்டிராவில் உள்ள முக்கிய நிலையமாகும்.",
+     "en": "Pune railway station is a major station in Maharashtra."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவின் முதல் பார்வையற்றோர் நட்பு ரயில் நிலையம் மைசூரு ரயில் நிலையமாகும்.",
+    "en": "India's first visually challenged friendly railway station is Mysuru."
+   },
+   "eg": {
+    "ta": "ரயில் நிலையங்களில் செய்யப்பட்டுள்ள பிரெய்லி (Braille) மற்றும் தொட்டுணரக்கூடிய வழிகாட்டிகள் இதற்குப் பயன்படுத்தப்பட்டன.",
+    "en": "Braille maps and tactile paths were introduced at Mysuru station for this purpose."
+   },
+   "tip": {
+    "ta": "மைசூரு அரண்மனை நகரம்; பார்வையற்றோருக்கான முதல் ரயில் நிலையமும் அங்கேதான் அமைக்கப்பட்டது.",
+    "en": "Remember Mysuru as the palace city that also pioneered visually challenged friendly railway facilities."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q130": {
+   "hint": {
+    "ta": "கிராம நிர்வாகச் சீர்திருத்தங்கள் மற்றும் கிராம அலுவலர்கள் முறை மாற்றப்பட்ட காலங்களை வருடங்களுடன் இணைத்துப் படிக்க வேண்டும்.",
+    "en": "Link rural administrative reforms and changes in village officer systems with their respective years."
+   },
+   "explain": {
+    "ta": "தமிழகத்தில் பாரம்பரியமாக இருந்த பகுதிநேர கிராம அலுவலர் முறை ஒழிக்கப்பட்டு, முழுநேர கிராம நிர்வாக அலுவலர் (VAO) முறை கொண்டுவரப்பட்ட சட்டம் 1980 ஆம் ஆண்டு அமுலுக்கு வந்தது.",
+    "en": "The Part-Time Village Officers Abolition Act came into force in the year 1980 in Tamil Nadu, paving the way for full-time Village Administrative Officers."
+   },
+   "why": {
+    "A": {
+     "ta": "1984 என்பது இந்தச் சட்டத்தின் அமுல்படுத்தப்பட்ட ஆண்டல்ல.",
+     "en": "1984 is not the year this act came into force."
+    },
+    "C": {
+     "ta": "1979 என்பது அதற்கு முந்தைய ஆண்டாகும், இச்சட்டம் நடைமுறைக்கு வந்த ஆண்டு அல்ல.",
+     "en": "1979 is the preceding year, not the enactment year."
+    },
+    "D": {
+     "ta": "1985 என்பதும் தவறான ஆண்டாகும்.",
+     "en": "1985 is an incorrect year."
+    }
+   },
+   "rule": {
+    "ta": "பகுதிநேர கிராம அலுவலர்கள் ஒழிப்புச் சட்டம் அமுலுக்கு வந்த ஆண்டு 1980 ஆகும்.",
+    "en": "The Part-Time Village Officers Abolition Act came into force in 1980."
+   },
+   "eg": {
+    "ta": "இதன் தொடர்ச்சியாக தமிழ்நாடு அரசுப் பணியாளர் தேர்வாணையம் (TNPSC) மூலம் கிராம நிர்வாக அலுவலர்கள் (VAO) நியமிக்கப்பட்டனர்.",
+    "en": "Following this, Village Administrative Officers (VAO) were recruited through TNPSC."
+   },
+   "tip": {
+    "ta": "1980-களில் கிராம நிர்வாகத்தில் பெரிய மாற்றம் வந்தது என நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that a major overhaul in village administration happened in the year 1980."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q131": {
+   "hint": {
+    "ta": "வருவாய்த் துறையின் தாலுகா பதிவேடுகள் (Taluk Registers) பற்றிக் கேட்கும் போது, ஒவ்வொரு பதிவேட்டின் எழுத்து குறியீடும் எதைக் குறிக்கிறது என்பதைத் தெளிவாக ஒப்பிட்டுப் பார்க்க வேண்டும்.",
+    "en": "When questions are asked about taluk registers, compare carefully what each register letter code represents."
+   },
+   "explain": {
+    "ta": "தாலுகா 'A' பதிவேட்டில் கிராமத்தின் எண், பெயர் மற்றும் குக்கிராமங்களின் விவரங்கள் பராமரிக்கப்படுகின்றன. மேலும் தாலுகா 'C' பதிவேட்டில் கிராமங்களின் குறுகிய கால மற்றும் நீண்ட கால குத்தகை விவரங்கள் முறையாகப் பராமரிக்கப்படுவதால் இரண்டும் சரியான கூற்றுகளாகும்.",
+    "en": "Taluk A Register maintains village numbers, names, and hamlets, while Taluk C Register records short-term and long-term lease particulars; hence both statements are correct."
+   },
+   "why": {
+    "B": {
+     "ta": "இரண்டாவது கூற்றும் சரியானதே என்பதால் இது தவறானது.",
+     "en": "This is incorrect because the second statement is also correct."
+    },
+    "C": {
+     "ta": "இரண்டு கூற்றுகளும் வருவாய்த்துறை விதிகளின்படி முற்றிலும் சரியானவையே.",
+     "en": "This is incorrect as both statements are factually right according to revenue rules."
+    },
+    "D": {
+     "ta": "முதல் கூற்று தவறானது அல்ல, அதுவும் சரியானதே.",
+     "en": "This is incorrect because the first statement is also right."
+    }
+   },
+   "rule": {
+    "ta": "தாலுகா A பதிவேடு கிராம விவரங்களையும், C பதிவேடு குத்தகை விவரங்களையும் பதிவு செய்கிறது.",
+    "en": "Taluk A Register records village details and C Register records lease particulars."
+   },
+   "eg": {
+    "ta": "வருவாய் நிர்வாகத்தில் தாலுகா அலுவலகங்களில் பல்வேறு வகையான பதிவேடுகள் (A to F) பராமரிக்கப்படுகின்றன.",
+    "en": "Various registers from A to F are maintained in taluk offices for revenue administration."
+   },
+   "tip": {
+    "ta": "அட்டவணைப் பதிவேடுகளில் A என்பது கிராமப் பெயர்களுக்கும், C என்பது குத்தகைக்கும் (Contract/Lease) எனப் பொருத்திப் படியுங்கள்.",
+    "en": "Associate register 'A' with basic village area details and 'C' with contracts or leases."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q132": {
+   "hint": {
+    "ta": "வருவாய்த்துறை நிர்வாகப் படிநிலையை மேலிருந்து கீழாக (Descending order) அல்லது கீழிருந்து மேலாகக் கேட்கும் போது அதிகாரப் பதவிகளின் உயர்வை வரிசைப்படுத்த வேண்டும்.",
+    "en": "When asked about the hierarchy of revenue administration in descending order, arrange from the highest authority to the lowest."
+   },
+   "explain": {
+    "ta": "மாவட்ட வருவாய் நிர்வாகத்தின் உச்ச அதிகாரியாக மாவட்ட ஆட்சியர் (Collector) உள்ளார். அவரைத் தொடர்ந்து மாவட்ட வருவாய் அலுவலர் (DRO), வருவாய் கோட்ட அலுவலர் (RDO), மற்றும் வட்டாட்சியர் (Tahsildar) ஆகியோர் இறங்கு வரிசையில் அமைகின்றனர்.",
+    "en": "The District Collector is at the top of district revenue administration, followed descendingly by the District Revenue Officer, Revenue Divisional Officer, and Tahsildar."
+   },
+   "why": {
+    "B": {
+     "ta": "மாவட்ட வருவாய் அலுவலருக்கு முன் மாவட்ட ஆட்சியர்தான் முதன்மையானவர் என்பதால் இந்த வரிசை தவறு.",
+     "en": "This is incorrect because the Collector comes before the District Revenue Officer."
+    },
+    "C": {
+     "ta": "வருவாய் கோட்ட அலுவலர் மாவட்ட ஆட்சியர் மற்றும் DRO-க்குக் கீழ் வருபவர் என்பதால் இந்த வரிசை தவறானது.",
+     "en": "This is incorrect as RDO ranks below the Collector and DRO."
+    },
+    "D": {
+     "ta": "இது முற்றிலும் கீழிருந்து மேலான ஏறு வரிசையாக (Ascending order) உள்ளது.",
+     "en": "This represents an ascending order from bottom to top, which contradicts the descending order requirement."
+    }
+   },
+   "rule": {
+    "ta": "மாவட்ட வருவாய் நிர்வாகத்தின் சரியான இறங்கு வரிசை: மாவட்ட ஆட்சியர் -> மாவட்ட வருவாய் அலுவலர் -> வருவாய் கோட்ட அலுவலர் -> வட்டாட்சியர்.",
+    "en": "Descending order of revenue hierarchy: Collector -> DRO -> RDO -> Tahsildar."
+   },
+   "eg": {
+    "ta": "ஒரு மாவட்டத்தின் ஒட்டுமொத்த வருவாய் நிர்வாகத்திற்கும் மாவட்ட ஆட்சியரே தலைவராவார்.",
+    "en": "The District Collector is the head of the overall revenue administration of a district."
+   },
+   "tip": {
+    "ta": "கலெக்டர் (Collector) தான் எப்போதும் முதலிடத்தில் இருப்பார் என்பதை நினைவில் கொண்டால் எளிதில் விடையளிக்கலாம்.",
+    "en": "Remember that the Collector is always at the topmost position in district administration."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q133": {
+   "hint": {
+    "ta": "கிராம அளவில் நிலம், சர்வே மற்றும் பதிவேடுகள் தொடர்பான பொறுப்பு யாருடையது எனக் கேட்கும் போது கிராம வருவாய் அலுவலரைக் கவனிக்கவும்.",
+    "en": "When asked about responsibilities regarding land, survey, and records at the village level, look for the village revenue official."
+   },
+   "explain": {
+    "ta": "கிராம அளவில் நில எல்லைகளைக் குறிக்கும் சர்வே கற்களைப் பாதுகாப்பதும், சேதமடைந்தால் அது குறித்து மேலதிகாரிகளுக்கு அறிக்கை அனுப்புவதும் கிராம நிர்வாக அலுவலரின் (VAO) முக்கியப் பணியாகும்.",
+    "en": "Maintaining and reporting on survey stones at the village level is the primary duty of the Village Administrative Officer (VAO)."
+   },
+   "why": {
+    "A": {
+     "ta": "பஞ்சாயத்து செயலர் ஊரக வளர்ச்சி மற்றும் ஊராட்சித்துறையின் கீழ் கிராம ஊராட்சியின் பதிவேடுகளைப் பராமரிப்பவர்.",
+     "en": "Panchayat Secretary manages panchayat administration and records under the rural development department."
+    },
+    "B": {
+     "ta": "மக்கள் நல பணியாளர் அரசின் சமூக நலத்திட்டங்களைச் சென்று சேர்ப்பவராவார்.",
+     "en": "Public Welfare Officer is involved in implementing public welfare schemes."
+    },
+    "C": {
+     "ta": "நில அளவை இயக்குநர் மாநில அல்லது மாவட்ட அளவில் நில அளவைத் துறையை நிர்வகிப்பவர்.",
+     "en": "Director of Survey heads the survey department at a higher administrative level."
+    }
+   },
+   "rule": {
+    "ta": "கிராம அளவில் சர்வே கற்களைப் பாதுகாப்பதும் பராமரிப்பதும் கிராம நிர்வாக அலுவலரின் (VAO) பொறுப்பாகும்.",
+    "en": "Safeguarding and maintaining survey stones at the village level is the responsibility of the VAO."
+   },
+   "eg": {
+    "ta": "நில எல்லை தகராறுகள் மற்றும் சர்வே கல் பராமரிப்புப் பணிகளில் VAO-வின் அறிக்கை அடிப்படையானது.",
+    "en": "The VAO's report is fundamental in resolving land boundary disputes and maintaining survey markers."
+   },
+   "tip": {
+    "ta": "கிராமத்தின் நிலம் சார்ந்த எந்தவொரு பதிவேடு அல்லது கல் பராமரிப்பு என்றாலும் அது கிராம நிர்வாக அலுவலர்தான்.",
+    "en": "For any village-level land record or survey stone maintenance, the answer is always the Village Administrative Officer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q134": {
+   "hint": {
+    "ta": "அரசு சான்றிதழ்களின் செல்லுபடியாகும் கால அளவைக் கேட்கும்போது, அது வருமானமா, சாதியா என்பதைச் சரிபாருங்கள்.",
+    "en": "Check the validity period specified for government certificates like income or community."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, வருமானச் சான்றிதழ் அது வழங்கப்பட்ட நாளிலிருந்து ஆறு மாத காலத்திற்கு மட்டுமே செல்லத்தக்கதாகும். இது அரசின் நலத்திட்டங்களைப் பெறப் பயன்படும் முக்கியமான ஆவணமாகும்.",
+    "en": "According to the official answer, the income certificate is valid for six months from the date of issue."
+   },
+   "why": {},
+   "rule": {
+    "ta": "வருமானச் சான்றிதழ் வழங்கப்பட்ட நாளிலிருந்து ஆறு மாதங்கள் மட்டுமே செல்லுபடியாகும்.",
+    "en": "Income certificate is valid for six months from the date of issue."
+   },
+   "eg": {
+    "ta": "இருப்பிடச் சான்றிதழ் (Nativity Certificate) வாழ்நாள் முழுவதும் செல்லத்தக்கது.",
+    "en": "Nativity certificate is valid for a lifetime."
+   },
+   "tip": {
+    "ta": "வருமானம் ஆறு மாதம், சாதி நிரந்தரம்.",
+    "en": "Income is for six months, community is permanent."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q135": {
+   "hint": {
+    "ta": "கிராம மற்றும் வட்ட அளவில் பல்வேறு சான்றிதழ்களை வழங்கும் அதிகாரம் பெற்ற அலுவலர் யார் என்பதைப் பாருங்கள்.",
+    "en": "Look for the officer empowered to issue certificates at the taluk level."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இதர பிற்படுத்தப்பட்ட வகுப்பினருக்கான (OBC) சான்றிதழ் மற்றும் சாதிச் சான்றிதழ்கள் வட்டாட்சியரால் வழங்கப்படுகின்றன. இவர் தாலுகா அலுவலகத்தின் தலைவர் ஆவார்.",
+    "en": "According to the official answer, OBC certificates are issued by the Tahsildar."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சாதி மற்றும் வருமானச் சான்றிதழ்களை வழங்கும் அதிகாரம் வட்டாட்சியரிடம் உள்ளது.",
+    "en": "The Tahsildar has the authority to issue community and income certificates."
+   },
+   "eg": {
+    "ta": "சமூகப் பாதுகாப்புத் திட்ட உதவித்தொகை ஆணைகளும் வட்டாட்சியரால் வழங்கப்படுகின்றன.",
+    "en": "Social security pension orders are also issued by the Tahsildar."
+   },
+   "tip": {
+    "ta": "தாலுகா சான்றிதழ்களுக்கு வட்டாட்சியரே அதிகாரி.",
+    "en": "Tahsildar is the authority for taluk certificates."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q136": {
+   "hint": {
+    "ta": "பிறப்பு மற்றும் இறப்புப் பதிவு விதிகளில் குறிப்பிடப்பட்டுள்ள படிவங்களின் எண்களை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the specific form numbers mentioned in birth and death registration rules."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இறப்பு அறிக்கை செய்ய படிவம் 2 பயன்படுத்தப்படுகிறது. இது பிறப்பு மற்றும் இறப்புப் பதிவுச் சட்டத்தின் கீழ் பராமரிக்கப்படும் முறையாகும்.",
+    "en": "According to the official answer, Form 2 is used for reporting a death."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இறப்பு அறிக்கை செய்ய படிவம் 2 பயன்படுத்தப்படுகிறது.",
+    "en": "Form 2 is used for reporting deaths."
+   },
+   "eg": {
+    "ta": "பிறப்புப் பதிவு செய்ய படிவம் 1 பயன்படுத்தப்படுகிறது.",
+    "en": "Form 1 is used for reporting births."
+   },
+   "tip": {
+    "ta": "பிறப்பு 1, இறப்பு 2.",
+    "en": "Birth is 1, Death is 2."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q137": {
+   "hint": {
+    "ta": "விவசாயிகளின் வகைப்பாட்டில் குறு விவசாயி என்பதற்கான நில அளவைச் சரியாகக் கவனியுங்கள்.",
+    "en": "Carefully check the land area criteria for classifying a marginal farmer."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, குறு விவசாயி என்பவர் 1.25 ஏக்கர் நஞ்சை அல்லது 2.25 ஏக்கர் புஞ்சை நிலத்திற்கு குறைவாக அல்லது அதற்கு சமமாக வைத்துள்ளவர் ஆவார்.",
+    "en": "According to the official answer, a marginal farmer holds up to 1.25 acres of wetland or 2.25 acres of dry land."
+   },
+   "why": {},
+   "rule": {
+    "ta": "குறு விவசாயிக்கு 1.25 ஏக்கர் நஞ்சை அல்லது 2.25 ஏக்கர் புஞ்சை வரை நிலம் இருக்கலாம்.",
+    "en": "A marginal farmer can own up to 1.25 acres of wetland or 2.25 acres of dry land."
+   },
+   "eg": {
+    "ta": "சிறு விவசாயி என்பவர் 2.5 ஏக்கர் நஞ்சை அல்லது 5 ஏக்கர் புஞ்சை வரை நிலம் வைத்திருப்பவர்.",
+    "en": "A small farmer owns up to 2.5 acres of wetland or 5 acres of dry land."
+   },
+   "tip": {
+    "ta": "குறு விவசாயிக்கு நஞ்சை 1.25 ஏக்கர்.",
+    "en": "Wetland limit for marginal farmer is 1.25 acres."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q138": {
+   "hint": {
+    "ta": "கூற்றுகளில் கொடுக்கப்பட்டுள்ள சான்றிதழ்களை வழங்கும் அதிகாரிகளை ஒப்பிட்டுப் பார்த்துத் தவறானதைக் கண்டறியுங்கள்.",
+    "en": "Compare the authorities issuing the certificates given in the statements to find the incorrect one."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, ஆதரவற்ற விதவைச் சான்று வட்டாட்சியரால் வழங்கப்படுகிறது என்பது தவறான கூற்றாகக் கருதப்பட்டுள்ளது, ஏனெனில் இது பொதுவாக வருவாய் கோட்டாட்சியரின் (RDO) அதிகார வரம்பிற்கு உட்பட்டது.",
+    "en": "According to the official answer, the statement that the destitute widow certificate is issued by the Tahsildar is considered incorrect as it usually falls under the RDO."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சில சிறப்பான சான்றிதழ்கள் வருவாய் கோட்டாட்சியர் (RDO) மூலமாகவே வழங்கப்படும்.",
+    "en": "Certain special certificates are issued through the Revenue Divisional Officer (RDO)."
+   },
+   "eg": {
+    "ta": "வருமானச் சான்று மற்றும் சாதிச் சான்று வட்டாட்சியரால் வழங்கப்படுகின்றன.",
+    "en": "Income and community certificates are issued by the Tahsildar."
+   },
+   "tip": {
+    "ta": "விதவைச் சான்று போன்றவற்றுக்கு RDO ஒப்புதலும் தேவையாகலாம்.",
+    "en": "RDO approval may be needed for widow certificates."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q139": {
+   "hint": {
+    "ta": "நில உடமை மாற்றங்கள் மற்றும் உட்பிரிவு ஆணைகளைப் பிறப்பிக்கும் அதிகாரம் பெற்ற அலுவலர் யார் என்று பாருங்கள்.",
+    "en": "Look for the officer empowered to issue sub-division patta transfer orders."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, உட்பிரிவு பட்டா மாறுதல் உத்தரவு வட்டாட்சியரால் வழங்கப்படுகிறது. இது நில அளவை மற்றும் வருவாய்த் துறையின் முக்கியப் பணியாகும்.",
+    "en": "According to the official answer, the sub-division patta transfer order is issued by the Tahsildar."
+   },
+   "why": {},
+   "rule": {
+    "ta": "உட்பிரிவு பட்டா மாறுதல் உத்தரவு வட்டாட்சியரால் வழங்கப்படுகிறது.",
+    "en": "Sub-division patta transfer orders are issued by the Tahsildar."
+   },
+   "eg": {
+    "ta": "பட்டா மாறுதல் மனுக்கள் மீது இறுதி ஆணை பிறப்பிப்பவர் வட்டாட்சியர் ஆவார்.",
+    "en": "The Tahsildar is the final authority to issue orders on patta transfer petitions."
+   },
+   "tip": {
+    "ta": "பட்டா உத்தரவு தாலுகாவில் வட்டாட்சியரின் பணியாகும்.",
+    "en": "Patta order is the duty of the Tahsildar at the taluk."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q160": {
+   "hint": {
+    "ta": "இயற்கைவாதிகள் பொருளாதாரத்தில் எந்தத் துறைக்கு முதலிடம் அளித்தனர் என்பதைக் கவனியுங்கள்.",
+    "en": "Consider which sector was given top priority by the physiocrats."
+   },
+   "explain": {
+    "ta": "இயற்கைவாதிகள் வேளாண்மையை மட்டுமே உண்மையான உற்பத்தித் துறையாகக் கருதினர். மற்ற துறைகள் மூலம் புதிய மதிப்பு உருவாக்கப்படுவதில்லை என்பது அவர்களின் கொள்கையாகும்.",
+    "en": "Physiocrats considered agriculture as the only productive occupation as it generates surplus."
+   },
+   "why": {
+    "A": {
+     "ta": "உற்பத்தித் தொழில் என்பது இரண்டாம் நிலைத் துறையாகும், இயற்கைவாதிகள் இதனை மலட்டுத் துறை என்றனர்.",
+     "en": "Manufacturing was considered sterile by physiocrats."
+    },
+    "C": {
+     "ta": "சேவைத் துறை என்பது பொருளாதாரத்தின் மூன்றாம் நிலைத் துறையாகும்.",
+     "en": "Service sector is a tertiary sector."
+    },
+    "D": {
+     "ta": "படை வீரர்கள் நாட்டின் பாதுகாப்பிற்காகச் சேவையாற்றுபவர்கள், அவர்கள் உற்பத்தி சார்ந்தவர்கள் அல்ல.",
+     "en": "Soldiers provide security and are not part of material production."
+    }
+   },
+   "rule": {
+    "ta": "இயற்கைவாதிகளின் கோட்பாட்டின்படி வேளாண்மை மட்டுமே முதன்மை உற்பத்தித் துறையாகும்.",
+    "en": "According to physiocrats, agriculture is the primary productive sector."
+   },
+   "eg": {
+    "ta": "பிரான்சு நாட்டுப் பொருளாதார நிபுணர் பிரான்சுவே கியூஸ்னே இயற்கைவாதிகளின் தலைவர் ஆவார்.",
+    "en": "François Quesnay was the leader of the physiocrats."
+   },
+   "tip": {
+    "ta": "இயற்கைவாதிகள் என்றாலே வேளாண்மை என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Physiocrats equal Agriculture."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q161": {
+   "hint": {
+    "ta": "நிகர நாட்டு உற்பத்திக்கும் நிகர உள்நாட்டு உற்பத்திக்கும் உள்ள அடிப்படை வித்தியாசத்தைக் கண்டறியுங்கள்.",
+    "en": "Find the fundamental difference between NNP and NDP."
+   },
+   "explain": {
+    "ta": "உள்நாட்டு உற்பத்தியுடன் (GDP) வெளிநாடுகளிலிருந்து வரும் நிகரக் காரணி வருவாயைச் சேர்த்தால் தேசிய உற்பத்தி கிடைக்கும். எனவே NNP மற்றும் NDP ஆகியவற்றுக்கு இடையேயான வேறுபாடு வெளிநாட்டு வருவாயாகும்.",
+    "en": "The difference between NNP and NDP is Net Factor Income from Abroad (NFIA)."
+   },
+   "why": {
+    "A": {
+     "ta": "தேய்மானம் என்பது மொத்த மதிப்பிலிருந்து நிகர மதிப்பைப் பெறக் கழிக்கப்படுவதாகும்.",
+     "en": "Depreciation is the difference between gross and net values."
+    },
+    "B": {
+     "ta": "உலகின் பிற பகுதிகளிலிருந்து நடப்பு மாற்றம் என்பது தனிப்பட்ட பரிமாற்றங்களைக் குறிக்கும்.",
+     "en": "Current transfers refer to unilateral transfers."
+    },
+    "C": {
+     "ta": "மறைமுக வரி என்பது சந்தை விலைக்கும் காரணிச் செலவுக்கும் உள்ள வித்தியாசமாகும்.",
+     "en": "Indirect tax creates a difference between market price and factor cost."
+    }
+   },
+   "rule": {
+    "ta": "NNP = NDP + வெளிநாடுகளிலிருந்து வரும் நிகரக் காரணி வருவாய்.",
+    "en": "NNP equals NDP plus NFIA."
+   },
+   "eg": {
+    "ta": "GDP மற்றும் GNP இடையேயான வித்தியாசமும் வெளிநாட்டு வருவாயே ஆகும்.",
+    "en": "The difference between GDP and GNP is also NFIA."
+   },
+   "tip": {
+    "ta": "நாட்டு (National) என்ற வார்த்தை வந்தால் வெளிநாட்டு வருவாய் கணக்கில் வரும்.",
+    "en": "National always accounts for foreign factor income."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q164": {
+   "hint": {
+    "ta": "மனித உரிமைகள் சட்டம் எப்போது நிறைவேற்றப்பட்டது மற்றும் தமிழகத்தில் ஆணையம் எப்போது வந்தது என்பதைப் பாருங்கள்.",
+    "en": "Check when the Human Rights Act was passed and when the commission was formed in Tamil Nadu."
+   },
+   "explain": {
+    "ta": "தேசிய மனித உரிமைகள் சட்டம் 1993 இன் அடிப்படையில், தமிழ்நாட்டில் மாநில மனித உரிமைகள் ஆணையம் 1997 ஆம் ஆண்டு ஏப்ரல் 17 அன்று தோற்றுவிக்கப்பட்டது.",
+    "en": "The State Human Rights Commission of Tamil Nadu was constituted on April 17, 1997."
+   },
+   "why": {
+    "B": {
+     "ta": "1998 ஆம் ஆண்டில் தமிழ்நாட்டில் மாநில மனித உரிமைகள் ஆணையம் அமைக்கப்படவில்லை.",
+     "en": "It was not formed in 1998."
+    },
+    "C": {
+     "ta": "1999 ஆம் ஆண்டு தமிழ்நாட்டு ஆணையத்தின் தொடக்க ஆண்டு அல்ல.",
+     "en": "It was not formed in 1999."
+    },
+    "D": {
+     "ta": "2000 ஆம் ஆண்டு என்பது தவறான ஆண்டாகும்.",
+     "en": "2000 is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டில் மாநில மனித உரிமைகள் ஆணையம் 1997 இல் செயல்பாட்டுக்கு வந்தது.",
+    "en": "Tamil Nadu SHRC was established in 1997."
+   },
+   "eg": {
+    "ta": "தேசிய மனித உரிமைகள் ஆணையம் 1993 இல் அமைக்கப்பட்டது.",
+    "en": "National Human Rights Commission was set up in 1993."
+   },
+   "tip": {
+    "ta": "1993 தேசிய சட்டம், 1997 தமிழக ஆணையம்.",
+    "en": "1993 for National, 1997 for Tamil Nadu."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q168": {
+   "hint": {
+    "ta": "பெண்களின் சமூக பொருளாதார முன்னேற்றத்திற்காக சுய உதவிக் குழுக்களை மையமாகக் கொண்ட திட்டத்தைக் கண்டறியுங்கள்.",
+    "en": "Identify the scheme focused on women SHGs for socio-economic development."
+   },
+   "explain": {
+    "ta": "சுயம்சிதா திட்டம் என்பது பெண்கள் சுய உதவிக் குழுக்கள் மூலம் பெண்களின் அதிகாரமளித்தல் மற்றும் சமூக பொருளாதார வளர்ச்சிக்காக உருவாக்கப்பட்ட மத்திய அரசின் திட்டமாகும்.",
+    "en": "Swayamsidha is an integrated scheme for women's empowerment through self-help groups."
+   },
+   "why": {
+    "A": {
+     "ta": "குறுகிய கால இல்லங்கள் என்பது துயரத்திலிருக்கும் பெண்களுக்குத் தற்காலிகத் தங்குமிடம் வழங்கும் திட்டமாகும்.",
+     "en": "Short Stay Homes provide temporary accommodation for women in distress."
+    },
+    "B": {
+     "ta": "குடும்ப ஆலோசனை மையம் குடும்ப வன்முறைகளால் பாதிக்கப்படுவோருக்கு ஆலோசனை வழங்குகிறது.",
+     "en": "Family Counselling Centres offer guidance for family-related issues."
+    },
+    "D": {
+     "ta": "திறன் மேம்பாடு என்பது பொதுவாக இளைஞர்களுக்கும் மக்களுக்கும் வேலைவாய்ப்புத் திறனை வளர்ப்பது.",
+     "en": "Skill development is a general employment training program."
+    }
+   },
+   "rule": {
+    "ta": "சுயம்சிதா திட்டம் பெண்கள் சுய உதவிக் குழுக்களுடன் தொடர்புடையது.",
+    "en": "Swayamsidha scheme is associated with women self-help groups."
+   },
+   "eg": {
+    "ta": "மகிளா சமೃದ್ಧி யோஜனா பெண்களின் சேமிப்பை ஊக்குவிக்கும் மற்றொரு திட்டமாகும்.",
+    "en": "Mahila Samridhi Yojana promotes women's savings."
+   },
+   "tip": {
+    "ta": "சுயம் (Swayam) என்றால் சுய உதவிக் குழுக்களை நினைவில் கொள்க.",
+    "en": "Link Swayamsidha with women self-help groups."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q180": {
+   "hint": {
+    "ta": "2015 இல் M-விசா முறையை அறிமுகப்படுத்திய முன்னணி வங்கி எது என்பதைப் பாருங்கள்.",
+    "en": "Check which leading bank introduced the M-Visa mobile payment solution in 2015."
+   },
+   "explain": {
+    "ta": "ஐ.சி.ஐ.சி.ஐ வங்கி அக்டோபர் 2015 இல் வாடிக்கையாளர்கள் எளி டையாகப் பணம் செலுத்த M-விசா கைப்பேசி கட்டணம் செலுத்தும் முறையை அறிமுகப்படுத்தியது.",
+    "en": "ICICI Bank launched the M-Visa mobile payment solution in October 2015."
+   },
+   "why": {
+    "A": {
+     "ta": "ஐ.டி.பி.ஐ வங்கி இச்சேவையை இந்தப் பெயரில் அறிமுகப்படுத்தவில்லை.",
+     "en": "IDBI did not launch this specific scheme."
+    },
+    "C": {
+     "ta": "ஆக்ஸிஸ் வங்கி இம்முறையை அறிமுகப்படுத்தியதாக அறியப்படவில்லை.",
+     "en": "Axis Bank is not associated with this launch."
+    },
+    "D": {
+     "ta": "எச்.டி.எப்.சி வங்கி இந்தக் குறிப்பிட்ட காலத்தில் இம்முறையை வெளியிடவில்லை.",
+     "en": "HDFC did not launch this solution in October 2015."
+    }
+   },
+   "rule": {
+    "ta": "ஐ.சி.ஐ.சி.ஐ வங்கி டிஜிட்டல் பணப் பரிமாற்றத்தில் புதிய தொழில்நுட்பங்களை முன்னோடியாக அறிமுகப்படுத்தியது.",
+    "en": "ICICI Bank pioneered several digital payment solutions."
+   },
+   "eg": {
+    "ta": "ஐ.சி.ஐ.சி.ஐ வங்கி பாக்கெட்கள் (Pockets) செயலியையும் இந்தியாவில் முதல்முறையாக அறிமுகப்படுத்தியது.",
+    "en": "ICICI also introduced the Pockets digital wallet."
+   },
+   "tip": {
+    "ta": "M-விசா என்றால் ஐ.சி.ஐ.சி.ஐ வங்கி.",
+    "en": "M-Visa equals ICICI Bank."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q184": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் குறிப்பிட்ட அரசு நலத்திட்டங்கள் மற்றும் அறிமுகப்படுத்தப்பட்ட மாநிலங்களைக் கவனியுங்கள்.",
+    "en": "Look for the specific state government associated with welfare schemes."
+   },
+   "explain": {
+    "ta": "தாழ்த்தப்பட்ட மற்றும் பழங்குடி மாணவர்களின் கல்வி மேம்பாட்டிற்காக 'அன்வேசா' திட்டத்தை ஒடிசா மாநில அரசு 2015 ஆம் ஆண்டு டிசம்பரில் தொடங்கியது. இது மாணவர்களுக்கு தரமான இலவச கல்வியை வழங்குவதை நோக்கமாகக் கொண்டது.",
+    "en": "The Anwesha scheme was launched by the Odisha government in December 2015 for SC and ST students."
+   },
+   "why": {
+    "A": {
+     "ta": "ஜார்க்கண்ட் மாநிலம் இத்திட்டத்துடன் தொடர்புடையது அல்ல.",
+     "en": "Jharkhand is not associated with this scheme."
+    },
+    "B": {
+     "ta": "சட்டீஸ்கர் மாநிலம் அன்வேசா திட்டத்தை தொடங்கவில்லை.",
+     "en": "Chhattisgarh did not launch the Anwesha scheme."
+    },
+    "D": {
+     "ta": "மணிப்பூர் மாநில அரசு இந்தத் திட்டத்தை நடைமுறைப்படுத்தவில்லை.",
+     "en": "Manipur did not implement this scheme."
+    }
+   },
+   "rule": {
+    "ta": "முக்கியமான மாநில அரசு நலத்திட்டங்கள் மற்றும் அறிமுகப்படுத்தப்பட்ட ஆண்டுகளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember key state government welfare schemes and their launch years."
+   },
+   "eg": {
+    "ta": "தமிழ்நாட்டின் விலையில்லா மடிக்கணினி திட்டம் போன்ற முக்கிய திட்டங்களை நினைவு கூരவும்.",
+    "en": "Recall major schemes like free laptop distribution in Tamil Nadu."
+   },
+   "tip": {
+    "ta": "திட்டத்தின் பெயரையும் மாநிலத்தையும் சேர்த்து ஒருமுறை மனப்பாடம் செய்யவும்.",
+    "en": "Memorize the scheme name along with its state."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q185": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழகத்தில் உள்ள முக்கிய பூங்காக்கள் மற்றும் சமீபத்திய திறப்பு விழாக்களைப் பாருங்கள்.",
+    "en": "Look for recent wildlife park inaugurations in Tamil Nadu."
+   },
+   "explain": {
+    "ta": "செப்டம்பர் 2015 இல் சென்னை வண்டலூர் அறிஞர் அண்ணா உயிரியல் பூங்காவிற்குள் தமிழக முதலமைச்சரால் வண்ணத்துப்பூச்சி பூங்கா தொடங்கி வைக்கப்பட்டது. இது பொதுமக்களிடையே விழிப்புணர்வை ஏற்படுத்த உருவாக்கப்பட்டது.",
+    "en": "A butterfly park was inaugurated inside the Vandalur Zoo by the Chief Minister of Tamil Nadu in September 2015."
+   },
+   "why": {
+    "B": {
+     "ta": "யானை பூங்கா வண்டலூரில் அப்போது தொடங்கப்படவில்லை.",
+     "en": "Elephant park was not inaugurated there at that time."
+    },
+    "C": {
+     "ta": "புலி பூங்கா இந்த ஆண்டில் வண்டலூரில் புதிதாக திறக்கப்படவில்லை.",
+     "en": "Tiger park was not newly opened in Vandalur then."
+    },
+    "D": {
+     "ta": "பறவை பூங்கா என்பது சரியான விடை அல்ல.",
+     "en": "Bird park is not the correct answer."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டில் உள்ள முக்கிய சூழலியல் மற்றும் வனவிலங்கு சுற்றுலாத் தலங்களை அறிந்து கொள்ள வேண்டும்.",
+    "en": "Know the major ecological and wildlife tourist spots in Tamil Nadu."
+   },
+   "eg": {
+    "ta": "வண்டலூர் பூங்காவில் உள்ள சிங்கார வனவிலங்கு காப்பகங்கள்.",
+    "en": "Lion safari zones inside Vandalur zoo."
+   },
+   "tip": {
+    "ta": "வண்டலூர் பூங்கா என்றாலே வண்ணத்துப்பூச்சி பூங்காவை நினைவில் கொள்ளுங்கள்.",
+    "en": "Associate Vandalur Zoo with the Butterfly Park."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q186": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சர்வதேச அளவில் நாடுகளின் தேசிய சின்னங்கள் மற்றும் அரசியலமைப்பு மாற்றங்களைக் கவனியுங்கள்.",
+    "en": "Look for international news regarding national symbols and constitutional changes."
+   },
+   "explain": {
+    "ta": "நேபாள நாடு தனது புதிய அரசியலமைப்பை ஏற்றுக்கொண்டபோது, பசுவை தனது தேசிய விலங்காக அதிகாரப்பூர்வமாக அறிவித்தது. இந்து மத கலாச்சாரத்தின் அடிப்படையில் இந்த முடிவு எடுக்கப்பட்டது.",
+    "en": "Nepal declared the cow as its national animal in its constitution."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்தோனேசியா பசுவை தேசிய விலங்காக அறிவிக்கவில்லை.",
+     "en": "Indonesia has not declared the cow as its national animal."
+    },
+    "B": {
+     "ta": "மலேசியா நாடும் இத்தகைய அறிவிப்பை வெளியிடவில்லை.",
+     "en": "Malaysia has not made such a declaration."
+    },
+    "D": {
+     "ta": "மொரீஷியஸ் நாடு இதற்கு தொடர்பில்லாதது.",
+     "en": "Mauritius is unrelated to this."
+    }
+   },
+   "rule": {
+    "ta": "அண்டை நாடுகளின் தேசிய சின்னங்கள் மற்றும் முக்கிய அறிவிப்புகளைத் தெரிந்து கொள்ள வேண்டும்.",
+    "en": "Know the national symbols and major declarations of neighboring countries."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் தேசிய விலங்கு புலி என்பது போல அண்டை நாடுகளின் சின்னங்கள்.",
+    "en": "Like India's national animal being the tiger, know neighbor symbols."
+   },
+   "tip": {
+    "ta": "நேபாளம் - பசு (தேசிய விலங்கு) என நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember Nepal and cow as national animal."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q188": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் உலகளாவிய முக்கிய தினங்கள் மற்றும் அவற்றின் ஆண்டுவிழாத் தேதிகளைப் பாருங்கள்.",
+    "en": "Look for important international days and their anniversary dates."
+   },
+   "explain": {
+    "ta": "ஐக்கிய நாடுகள் சபை 1945 ஆம் ஆண்டு அக்டோபர் 24 ஆம் நாள் நிறுவப்பட்டது. இதன் 70 வது ஆண்டு நிறைவு விழா 2015 ஆம் ஆண்டு அக்டோபர் 24 ஆம் நாள் கொண்டாடப்பட்டது.",
+    "en": "The 70th Anniversary of the UN Foundation Day was on October 24, 2015, marking its creation in 1945."
+   },
+   "why": {
+    "B": {
+     "ta": "அக்டோபர் 12 என்பது ஐநா நிறுவன நாள் அல்ல.",
+     "en": "October 12 is not the UN foundation day."
+    },
+    "C": {
+     "ta": "அக்டோபர் 21 ஐநா தினமாகக் கொண்டாடப்படுவதில்லை.",
+     "en": "October 21 is not celebrated as UN day."
+    },
+    "D": {
+     "ta": "அக்டோபர் 15 என்பது முன்னாள் ஜனாதிபதி அப்துல் கலாம் பிறந்த நாளாகும்.",
+     "en": "October 15 is Dr. A.P.J. Abdul Kalam's birth anniversary."
+    }
+   },
+   "rule": {
+    "ta": "ஐக்கிய நாடுகள் சபை உருவாக்கப்பட்ட நாள் அக்டோபர் 24, 1945 ஆகும்.",
+    "en": "The United Nations was founded on October 24, 1945."
+   },
+   "eg": {
+    "ta": "ஐக்கிய நாடுகள் தினம் ஒவ்வொரு ஆண்டும் அக்டோபர் 24 அன்று கொண்டாடப்படுகிறது.",
+    "en": "United Nations Day is celebrated every year on October 24."
+   },
+   "tip": {
+    "ta": "UN Day = அக்டோபர் 24 (1945).",
+    "en": "UN Day = October 24 (1945)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q189": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் வருவாய் நிர்வாகத்தில் உள்ள நீதிமன்றங்களின் அதிகார வரம்பைக் கவனியுங்கள்.",
+    "en": "Look at the jurisdiction of revenue courts in administration."
+   },
+   "explain": {
+    "ta": "மாநிலத்தில் செயல்படும் வருவாய் நீதிமன்றங்கள் விவசாய நிலங்களின் குத்தகை மற்றும் குத்தகைதாரர்களின் உரிமைகள் தொடர்பான வழக்குகளைக் கையாள்கின்றன. இது குடிவார உரிமைச் சட்டம் சார்ந்தது.",
+    "en": "Revenue courts in the state primarily deal with cases related to tenancy laws and landlord-tenant disputes."
+   },
+   "why": {
+    "A": {
+     "ta": "பட்டா மாறுதல் மேல்முறையீட்டு வழக்குகள் வருவாய் கோட்டாட்சியர் அல்லது வட்டாட்சியரால் கவனிக்கப்படுபவை.",
+     "en": "Patta transfer appeals are handled by RDO or Tahsildar."
+    },
+    "C": {
+     "ta": "முத்திரைதாள் கட்டண வழக்குகள் பதிவுத் துறை சார்ந்தவை.",
+     "en": "Stamp duty cases belong to the registration department."
+    },
+    "D": {
+     "ta": "நில உடமை மேம்பாடு திட்டம் என்பது நில ஆவணங்களை சரி செய்யும் முறை.",
+     "en": "UDR correction relates to updating land records."
+    }
+   },
+   "rule": {
+    "ta": "வருவாய் நீதிமன்றங்கள் குடிவார உரிமைச் சட்ட வழக்குகளைத் தீர்க்க அதிகாரப் படைத்தவை.",
+    "en": "Revenue courts have the authority to settle tenancy law disputes."
+   },
+   "eg": {
+    "ta": "நில உரிமையாளர் மற்றும் குத்தகைதாரர் இடையேயான சிக்கல்கள்.",
+    "en": "Disputes between landowners and cultivators."
+   },
+   "tip": {
+    "ta": "வருவாய் நீதிமன்றம் என்றால் குடிவார உரிமைச் சட்டம் எனப் பொருத்துக.",
+    "en": "Revenue court means tenancy laws."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q190": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கிராம நிர்வாக அலுவலகத்தில் பராமரிக்கப்படும் கணக்கு எண்களைப் பாருங்கள்.",
+    "en": "Look at the village administrative office account numbers."
+   },
+   "explain": {
+    "ta": "கிராம நிர்வாக அலுவலகத்தில் பராமரிக்கப்படும் கிராமக் கணக்குகளில், கணக்கு எண் 1 என்பது சாகுபடி கணக்கைக் குறிக்கிறது. இது கிராமத்தில் பயிரிடப்படும் பயிர்களின் விவரங்களை உள்ளடக்கியது.",
+    "en": "Village Account No. 1 deals with the cultivation account containing crop details."
+   },
+   "why": {
+    "B": {
+     "ta": "அடங்கல் என்பது கிராமக் கணக்கு எண் 2 ஆகும்.",
+     "en": "Adangal is Village Account No. 2."
+    },
+    "C": {
+     "ta": "குத்தகை பதிவேடு என்பது வேறுபட்ட கிராமக் கணக்காகும்.",
+     "en": "Lease register is a different village account."
+    },
+    "D": {
+     "ta": "இনাম பதிவேடு என்பது மானிய நிலங்கள் தொடர்பான கணக்காகும்.",
+     "en": "Inam register relates to grant lands."
+    }
+   },
+   "rule": {
+    "ta": "கிராமக் கணக்கு எண் 1 சாகுபடி விவரங்களையும், கணக்கு எண் 2 அடங்கலையும் குறிக்கும்.",
+    "en": "Village Account 1 is cultivation and Account 2 is Adangal."
+   },
+   "eg": {
+    "ta": "கிராம நிர்வாக அலுவலர் (VAO) பராமரிக்கும் கணக்குகளில் இது மிகவும் அடிப்படையானது.",
+    "en": "This is fundamental among accounts maintained by VAO."
+   },
+   "tip": {
+    "ta": "கணக்கு 1 = சாகுபடி, கணக்கு 2 = அடங்கல்.",
+    "en": "Account 1 = Cultivation, Account 2 = Adangal."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q191": {
+   "hint": {
+    "ta": "வருவாய் தீர்நாயகம் அல்லது ஜமாபந்தி நடத்தும் உயமட்ட வருவாய் அலுவலர்கள் யார் என்பதைப் பாருங்கள்.",
+    "en": "Check who holds the high-level revenue rank to conduct Jamabandhi."
+   },
+   "explain": {
+    "ta": "கிராம வருவாய் கணக்குகளைச் சரிபார்க்கும் ஜமாபந்தி எனப்படும் வருவாய் தீர்நாயகம் நடத்தும் அலுவலர்களாக துணை ஆட்சியர், மாவட்ட வருவாய் அலுவலர் அல்லது மாவட்ட ஆட்சியர் ஆகியோர் செயல்படுவர்.",
+    "en": "Deputy Collector, District Revenue Officer or District Collector are the designated officers to conduct Jamabandhi."
+   },
+   "why": {
+    "A": {
+     "ta": "துணை வட்டாட்சியர் மற்றும் வட்டாட்சியர் போன்றோர் ஜமாபந்தி அலுவலர்கள் அல்ல.",
+     "en": "Deputy Tahsildar and Tahsildar do not conduct Jamabandhi."
+    },
+    "B": {
+     "ta": "வட்டாட்சியர் அல்லது வட்டார வளர்ச்சி அலுவலர் ஜமாபந்தி நடத்தும் தகுதி பெற்ற உயர் அலுவலர்கள் அல்ல.",
+     "en": "Tahsildar or BDO are not the designated Jamabandhi officers."
+    },
+    "C": {
+     "ta": "துணை வட்டாட்சியர் மற்றும் தனி வட்டாட்சியர் ஆகியோர் ஜமாபந்தி நடத்தும் அதிகார வரம்பைக் கொண்டவர்கள் அல்ல.",
+     "en": "Deputy and Special Tahsildars do not conduct Jamabandhi."
+    }
+   },
+   "rule": {
+    "ta": "ஜமாபந்தி (வருவாய் தீர்நாயகம்) நடத்தும் அலுவலர்கள் மாவட்ட ஆட்சியர் மற்றும் இதர உயர் வருவாய் அதிகாரிகள் ஆவர்.",
+    "en": "Jamabandhi officers are District Collector and other senior revenue officials."
+   },
+   "eg": {
+    "ta": "ஒவ்வொரு வருடமும் வட்ட வாரியாக ஜமாபந்தி தாசில்தார் அலுவலகத்தில் மாவட்ட ஆட்சியரால் நடத்தப்படுகிறது.",
+    "en": "Jamabandhi is conducted taluk-wise every year by district authorities."
+   },
+   "tip": {
+    "ta": "ஜமாபந்தி என்றாலே மாவட்ட ஆட்சித்தலைவர் மற்றும் துணை ஆட்சியர் போன்ற உயர் அதிகாரிகளை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Jamabandhi is conducted by top district revenue officers."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q192": {
+   "hint": {
+    "ta": "தமிழக வருவாய்த் துறையில் நஞ்சை நிலங்களின் வகைகளின் எண்ணிக்கையைக் கவனியுங்கள்.",
+    "en": "Check the number of categories of wet lands in revenue administration."
+   },
+   "explain": {
+    "ta": "தமிழக நில நிர்வாகத்தில் நஞ்சை நிலங்கள் மூன்று முக்கிய வகைகளாகப் பிரிக்கப்பட்டு பராமரிக்கப்படுகின்றன.",
+    "en": "Wet lands are classified into 3 types in Tamil Nadu revenue administration."
+   },
+   "why": {
+    "B": {
+     "ta": "நான்கு வகையான நஞ்சை நிலங்கள் என்பது தவறான எண்ணிக்கையாகும்.",
+     "en": "Four is an incorrect count for wet lands."
+    },
+    "C": {
+     "ta": "ஐந்து வகையான நஞ்சை நிலங்கள் கிடையாது.",
+     "en": "Five is not the correct count for wet lands."
+    },
+    "D": {
+     "ta": "ஆறு வகையான நஞ்சை நிலங்கள் என்பது தவறாகும்.",
+     "en": "Six is an incorrect count for wet lands."
+    }
+   },
+   "rule": {
+    "ta": "வருவாய் கணக்குகளின்படி நஞ்சை நிலங்கள் 3 வகைகளாகப் பிரிக்கப்பட்டுள்ளன.",
+    "en": "Wet lands are divided into 3 types according to revenue records."
+   },
+   "eg": {
+    "ta": "நஞ்சை நில வகைகள் பாசன வசதி மற்றும் நிலத்தின் தன்மையின் அடிப்படையில் பிரிக்கப்படுகின்றன.",
+    "en": "Wet lands are categorized based on irrigation source and soil nature."
+   },
+   "tip": {
+    "ta": "நஞ்சை நிலங்கள் மூன்று வகை என்பதை நினைவில் கொள்ளவும்.",
+    "en": "Remember that wet lands have 3 types."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q193": {
+   "hint": {
+    "ta": "அரசு புறம்போக்கு நிலங்களில் ஏற்படும் ஆக்கிரமிப்புகளைப் பதிவு செய்யும் நமூனா எது என்பதைப் பாருங்கள்.",
+    "en": "Identify which memo is used to record unauthorized occupations in government poramboke lands."
+   },
+   "explain": {
+    "ta": "அரசு புறம்போக்கு நிலங்களில் செய்யும் அனுமதியற்ற ஆக்கிரமிப்புகள் கிராம நிர்வாக அலுவலரால் 'B' நமூனாவில் பதியப்படும்.",
+    "en": "B memo is used by the Village Administrative Officer to record encroachments on government poramboke lands."
+   },
+   "why": {
+    "B": {
+     "ta": "பட்டா மாறுதல் என்பது நில உரிமை மாற்றத்தை குறிப்பதாகும்.",
+     "en": "Patta transfer refers to change of land ownership."
+    },
+    "C": {
+     "ta": "சிட்டா என்பது நிலத்தின் உரிமையாளர் மற்றும் பரப்பளவைக் காட்டும் வருவாய்க் ஆவணமாகும்.",
+     "en": "Chitta is a revenue document showing land ownership and extent."
+    },
+    "D": {
+     "ta": "2C பட்டா என்பது மரங்களின் உரிமைத் தொடர்பானது.",
+     "en": "2C patta relates to tree ownership rights."
+    }
+   },
+   "rule": {
+    "ta": "அரசு நில ஆக்கிரமிப்புகளுக்கு B நமூனா நோட்டீஸ் வழங்கப்பட்டு பதியப்படுகிறது.",
+    "en": "B memo is issued to record and penalize encroachments on government land."
+   },
+   "eg": {
+    "ta": "அரசு நிலத்தில் உள்ள ஆக்கிரமிப்பாளருக்கு B நமூனா மூலம் அபராதம் விதிக்கப்படுகிறது.",
+    "en": "Penalties for encroaching government lands are levied through B memo."
+   },
+   "tip": {
+    "ta": "B நமூனா என்றாலே ஆக்கிரமிப்பு (Encroachment) என்று நினைவில் கொள்ளுங்கள்.",
+    "en": "B memo equals encroachment on government lands."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q194": {
+   "hint": {
+    "ta": "நில அளவையில் 1 சென்ட் என்பதன் சதுர அடி மதிப்பைக் கண்டறியவும்.",
+    "en": "Look for the square feet equivalent of 1 cent of land."
+   },
+   "explain": {
+    "ta": "நில அளவையியல் கணக்கீட்டின்படி ஒரு சென்ட் நிலம் என்பது சரியாக 435.6 சதுர அடிகளைக் குறிக்கும்.",
+    "en": "One cent of land is precisely equal to 435.6 square feet."
+   },
+   "why": {
+    "B": {
+     "ta": "144 சதுர அடி என்பது ஒரு சதுர அடி குழி அல்லது சிறிய அளவைக் குறிக்கும்.",
+     "en": "144 square feet is not 1 cent."
+    },
+    "C": {
+     "ta": "100 சதுர மீட்டர் என்பது சென்ட் அளவுடன் பொருந்தாது.",
+     "en": "100 square meters does not equal 1 cent."
+    },
+    "D": {
+     "ta": "1089 சதுர அடி என்பது தவறான அளவாகும்.",
+     "en": "1089 square feet is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "1 சென்ட் = 435.6 சதுர அடிகள் மற்றும் 1 ஏக்கர் = 100 சென்ட் ஆகும்.",
+    "en": "1 cent = 435.6 sq ft and 1 acre = 100 cents."
+   },
+   "eg": {
+    "ta": "43560 சதுர அடி என்பது ஒரு ஏக்கர் நிலமாகும்.",
+    "en": "43560 square feet makes 1 acre."
+   },
+   "tip": {
+    "ta": "435.6 என்ற எண்ணை நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember the number 435.6 for 1 cent."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q195": {
+   "hint": {
+    "ta": "எந்த வகையான நிலங்களுக்கு அரசாங்கம் குத்தகை வழங்க தடை விதிக்கவில்லை என்பதைப் பாருங்கள்.",
+    "en": "Find out which land category is permitted for lease by the government."
+   },
+   "explain": {
+    "ta": "பொதுப் பயன்பாட்டு நீர்நிலைகள், மேய்க்கால் மற்றும் மயான புறம்போக்குகளுக்கு குத்தகை தடை செய்யப்பட்டுள்ளது, ஆனால் தீர்வை ஏற்படா புன்செய் தரிசு நிலங்களுக்கு குத்தகை வழங்க தடை செய்யப்படவில்லை.",
+    "en": "Lease is not banned for unassessed dry waste lands, unlike water bodies and burial grounds."
+   },
+   "why": {
+    "A": {
+     "ta": "நீர் நிலைப் புறம்போக்குகளுக்கு குத்தகை வழங்குவது முற்றிலுமாகத் தடை செய்யப்பட்டுள்ளது.",
+     "en": "Leasing water course poramboke is strictly banned."
+    },
+    "B": {
+     "ta": "மேய்க்கால் மற்றும் மந்தவெளி புறம்போக்குகளைக் குத்தகைக்கு விடுவது தடை செய்யப்பட்டுள்ளது.",
+     "en": "Leasing grazing ground poramboke is banned."
+    },
+    "C": {
+     "ta": "மயான நிலங்களை வணிக ரீதியாகவோ பிற தேவைகளுக்கோ குத்தகைக்கு விட தடை உண்டு.",
+     "en": "Burial grounds cannot be leased out."
+    }
+   },
+   "rule": {
+    "ta": "தீர்வை ஏற்படா புன்செய் தரிசு நிலங்களுக்கு குத்தகை வழங்குவது சட்டப்படி அனுமதிக்கப்பட்டுள்ளது.",
+    "en": "Leasing unassessed dry waste land is permitted."
+   },
+   "eg": {
+    "ta": "தரிசு நிலங்களை விவசாயப் பயன்பாட்டிற்காக தற்காலிக குத்தகைக்கு விடலாம்.",
+    "en": "Waste lands can be leased for agricultural purposes."
+   },
+   "tip": {
+    "ta": "தரிசு நிலம் என்றால் குத்தகைக்கு அனுமதி உண்டு என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Unassessed dry waste land is allowed for lease."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q196": {
+   "hint": {
+    "ta": "பல்வேறு வகையான இனாம் பெயர்களை அவற்றுக்குரிய சேவைகள் அல்லது நிறுவனங்களுடன் சரியாகப் பொருத்தவும்.",
+    "en": "Match the types of inams with their corresponding institutional grants."
+   },
+   "explain": {
+    "ta": "தேவதாயம் என்பது மத ஸ்தாபனங்களுக்கும் (3), தர்மதாயம் என்பது சத்திரம் மற்றும் கல்வி நிறுவனங்களுக்கும் (1), தசபந்தம் என்பது பாசன ஆதார பாதுகாப்புக்கும் (4), பிரம்மதாயம் என்பது மதப் பணியாளர்களுக்குமான (2) இனாம்களாகும்.",
+    "en": "Devadayam goes to religious institutions (3), Dharmadayam to charities (1), Dasabandham to irrigation (4), and Brahmadayam to religious personnel (2)."
+   },
+   "why": {
+    "B": {
+     "ta": "தவறான வரிசைப் பொருத்தம் ஆகும்.",
+     "en": "This is an incorrect matching sequence."
+    },
+    "C": {
+     "ta": "வரிசை மாற்றப்பட்ட தவறான இணைப்பாகும்.",
+     "en": "This is an incorrect sequence."
+    },
+    "D": {
+     "ta": "பட்டியல் பொருத்தங்கள் சரியாக வரிசைப்படுத்தப்படவில்லை.",
+     "en": "The option sequence is wrong."
+    }
+   },
+   "rule": {
+    "ta": "பண்டைய கால இனாம் முறைகள் வழங்கப்பட்ட நோக்கத்தின் அடிப்படையில் பெயரிடப்பட்டன.",
+    "en": "Historical inam types were named based on the purpose of the grant."
+   },
+   "eg": {
+    "ta": "கோயில்களுக்கு வழங்கப்பட்ட நிலங்கள் தேவதாயம் என அழைக்கப்பட்டது.",
+    "en": "Lands granted to temples were called Devadayam."
+   },
+   "tip": {
+    "ta": "தேவதாயம் என்றால் கோவில், பிரம்மதாயம் என்றால் வேதியர்கள் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Devadayam relates to temples and Brahmadayam to Brahmins/priests."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q197": {
+   "hint": {
+    "ta": "கிராமப்புற நலத் திட்டங்களில் முதியோர் ஓய்வூதியம் போன்ற சமூகப் பாதுகாப்புத் திட்டங்களை எந்த அதிகாரி கையாளுகிறார் என்பதைப் பாருங்கள்.",
+    "en": "Check which officer handles social security schemes like old age pension in rural areas."
+   },
+   "explain": {
+    "ta": "முதியோர் ஓய்வூதியத் திட்டத்தின் கீழ் ஓய்வூதிய ஆணைகளைப் பிறப்பிக்கும் அதிகாரம் தனி வட்டாட்சியர் (சமூகப் பாதுகாப்புத் திட்டம் - SSS) அவர்களுக்கு மட்டுமே வழங்கப்பட்டுள்ளது.",
+    "en": "The Special Tahsildar (Social Security Scheme) is the authorized officer to sanction old age pension orders."
+   },
+   "why": {
+    "A": {
+     "ta": "மண்டல துணை வட்டாட்சியர் சட்டம்-ஒழுங்கு மற்றும் வருவாய் நிர்வாகப் பணிகளை கவனிப்பவர்.",
+     "en": "Zonal Deputy Tahsildar looks after law and order and revenue administration."
+    },
+    "B": {
+     "ta": "தலைமையிடத்து துணை வட்டாட்சியர் வட்டாட்சியர் அலுவலக நிர்வாகப் பணிகளை மேற்கொள்பவர்.",
+     "en": "Head Quarter Deputy Tahsildar manages administrative works at the Tahsildar office."
+    },
+    "D": {
+     "ta": "வட்டாட்சியர் பொதுவான வருவாய் துறைப் பணிகளை மேற்பார்வையிடுபவர்.",
+     "en": "Tahsildar oversees general revenue department works."
+    }
+   },
+   "rule": {
+    "ta": "சமூகப் பாதுகாப்புத் திட்டங்களின் கீழ் வழங்கப்படும் ஓய்வூதிய ஆணைகளைத் தனி வட்டாட்சியர் (ச.பா.தி) பிறப்பிப்பார்.",
+    "en": "Special Tahsildar (SSS) issues pension orders under social security schemes."
+   },
+   "eg": {
+    "ta": "destitute widow pension போன்ற பிற சமூகப் பாதுகாப்புத் திட்டங்களுக்கும் இவரே அதிகாரி ஆவார்.",
+    "en": "He is also the authority for other social security schemes like destitute widow pension."
+   },
+   "tip": {
+    "ta": "முதியோர் ஓய்வூதியம் என்றாலே 'சமூகப் பாதுகாப்புத் திட்டம்' மற்றும் 'தனி வட்டாட்சியர்' என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember 'Social Security Scheme' and 'Special Tahsildar' for old age pension."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q198": {
+   "hint": {
+    "ta": "வேளாண்மை மூலம் பெறப்படும் விளைபொருட்களை முதன்மையாகக் கொண்டு இயங்கும் தொழிலைக் கண்டறியுங்கள்.",
+    "en": "Identify the industry primarily based on agricultural produce."
+   },
+   "explain": {
+    "ta": "விவசாயிகளால் பயிரிடப்படும் கரும்பைக் கொண்டு சர்க்கரை தயாரிக்கப்படுவதால், சர்க்கரைத் தொழில் மிக முக்கியமான வேளாண் அடிப்படையிலான தொழிலாகக் கருதப்படுகிறது.",
+    "en": "Sugar industry is considered an important agro-based industry as it uses sugarcane cultivated by farmers as raw material."
+   },
+   "why": {
+    "A": {
+     "ta": "இரும்பு எஃகு தொழில் கனிம வளங்களை அடிப்படையாகக் கொண்ட கனிமத் தொழில் ஆகும்.",
+     "en": "Steel industry is a mineral-based industry based on mineral resources."
+    },
+    "B": {
+     "ta": "சிமெண்ட் தயாரிப்புக்கு limestone போன்ற சுண்ணாம்புக்கற்கள் தேவைப்படுவதால் இதுவும் கனிமத் தொழிலாகும்.",
+     "en": "Cement production requires limestone, making it a mineral-based industry."
+    },
+    "D": {
+     "ta": "சணல் தொழிலும் வேளாண் சார்ந்ததே என்றாலும், இந்தியாவில் சர்க்கரைத் தொழியே மிக முக்கியப் பரவலான வேளாண் தொழிலாகும்.",
+     "en": "Though jute is agro-based, sugar industry is the most prominent and widespread agro-industry in India."
+    }
+   },
+   "rule": {
+    "ta": "வேளாண் விளைபொருட்களை மூலப்பொருளாகப் பயன்படுத்தும் தொழில்கள் வேளாண் அடிப்படையிலான தொழில்கள் எனப்படும்.",
+    "en": "Industries using agricultural produce as raw materials are called agro-based industries."
+   },
+   "eg": {
+    "ta": "பருத்தி ஆடைத் தொழில் மற்றும் சர்க்கரைத் தொழில் ஆகியவை சிறந்த வேளாண் அடிப்படையிலான தொழில்கள் ஆகும்.",
+    "en": "Cotton textile industry and sugar industry are prime examples of agro-based industries."
+   },
+   "tip": {
+    "ta": "கரும்பு - சர்க்கரை இணைப்பை எப்போது நினைவில் கொள்ளவும்.",
+    "en": "Always remember the sugarcane-sugar connection."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q199": {
+   "hint": {
+    "ta": "கிராமப் பஞ்சாயத்து அல்லது கிராமப் பகுதிகளில் பிறப்பு மற்றும் இறப்பு நிகழ்ந்தால் சட்டப்படி எத்தனை நாட்களுக்குள் பதிவு செய்ய வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Check within how many days birth and death must be registered legally in rural areas."
+   },
+   "explain": {
+    "ta": "இந்தியப் பிறப்பு மற்றும் இறப்பு பதிவுச் சட்டத்தின்படி, கிராமங்களில் நிகழும் பிறப்பு மற்றும் இறப்புகளை 21 நாட்களுக்குள் சம்பந்தப்பட்ட அதிகாரியிடம் பதிவு செய்ய வேண்டும்.",
+    "en": "According to the Registration of Births and Deaths Act, births and deaths in villages must be registered within 21 days."
+   },
+   "why": {
+    "B": {
+     "ta": "23 நாட்கள் என்பது சட்டப்பூர்வமான கால எல்லை அல்ல.",
+     "en": "23 days is not a legal time limit."
+    },
+    "C": {
+     "ta": "24 நாட்கள் என்பது காலக்கெடுவாகப் பயன்படுத்தப்படுவதில்லை.",
+     "en": "24 days is not used as a deadline."
+    },
+    "D": {
+     "ta": "25 நாட்கள் என்பது தவறான கால அளவாகும்.",
+     "en": "25 days is an incorrect time period."
+    }
+   },
+   "rule": {
+    "ta": "பிறப்பு மற்றும் இறப்பு பதிவுக்கான பொதுவான கால எல்லை 21 நாட்கள் ஆகும்.",
+    "en": "The general time limit for registering birth and death is 21 days."
+   },
+   "eg": {
+    "ta": "நகர்ப்புறங்களிலும் கிராமப்புறங்களிலும் இந்த 21 நாட்கள் விதிமுறைதான் பொருந்தும்.",
+    "en": "The 21-day rule applies to both urban and rural areas."
+   },
+   "tip": {
+    "ta": "பிறப்பு, இறப்பு என்றால் 21 நாட்களை உடனே நினைவுக்குக் கொண்டு வாருங்கள்.",
+    "en": "Immediately recall 21 days for birth and death registration."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q200": {
+   "hint": {
+    "ta": "கிராம வருவாய் பதிவேடுகளில் A, B, C பதிவேடுகள் எதற்காகப் பராமரிக்கப்படுகின்றன என்பதை ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the purposes for which village revenue registers A, B, and C are maintained."
+   },
+   "explain": {
+    "ta": "கிராம நிர்வாகத்தில் அரசு நிலங்கள், பட்டா நிலங்கள் மற்றும் குத்தகை நிலங்கள் தனித்தனியாகப் பராமரிக்கப்படுகின்றன; இதில் குத்தகை நிலங்கள் 'C' பதிவேட்டில் பதிவு செய்யப்படுகின்றன.",
+    "en": "In village administration, lease lands are specifically maintained and recorded in the 'C' Register."
+   },
+   "why": {
+    "A": {
+     "ta": "'A' பதிவேடு என்பது நிலத்தின் விபரங்கள் மற்றும் பட்டாதாரர்களின் பெயர்களைக் கொண்ட நில உரிமைப் பதிவேடு ஆகும்.",
+     "en": "'A' Register is the land ownership register containing land details and patta holders' names."
+    },
+    "B": {
+     "ta": "'B' பதிவேடு என்பது அரசு புறம்போக்கு நிலங்கள் மற்றும் அதன் வகைகளைக் குறிக்கும் பதிவேடாகும்.",
+     "en": "'B' Register is the register that records government poramboke lands and their classifications."
+    },
+    "D": {
+     "ta": "'D' பதிவேடு என்பது பொதுவாக கிராம நிருவாகத்தில் குத்தகை நிலங்களுக்குப் பயன்படுத்தப்படுவதில்லை.",
+     "en": "'D' Register is generally not used for lease lands in village administration."
+    }
+   },
+   "rule": {
+    "ta": "வருவாய் ஆவணங்களில் குத்தகை நிலங்கள் 'C' பதிவேட்டின் மூலம் பராமரிக்கப்படுகின்றன.",
+    "en": "Lease lands are maintained through the 'C' Register in revenue records."
+   },
+   "eg": {
+    "ta": "பட்டா நிலங்களுக்கு 'A' பதிவேடும், புறம்போக்கு நிலங்களுக்கு 'B' பதிவேடும் பயன்படும்.",
+    "en": "'A' Register is used for patta lands and 'B' Register for poramboke lands."
+   },
+   "tip": {
+    "ta": "C என்றால் Lease (குத்தகை) என்று எளிதாக நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Easily remember C for Lease land."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q102": {
+   "hint": {
+    "ta": "இந்தியாவில் உள்ள முக்கிய ஆணையங்கள் அரசியலமைப்பின் மூலம் உருவாக்கப்பட்டவையா அல்லது சட்டத்தின் மூலம் உருவாக்கப்பட்டவையா என்பதைப் பாருங்கள்.",
+    "en": "Check whether major commissions in India are constitutional bodies or statutory bodies."
+   },
+   "explain": {
+    "ta": "இந்திய தேர்தல் ஆணையம் இந்திய அரசியலமைப்புச் சட்டம் பகுதி XV-ல் விவரிக்கப்பட்டுள்ளது. இது எந்தவொரு அரசின் கட்டுப்பாட்டிற்கும் உட்படாமல் சுயமாகச் செயல்படும் ஒரு சுதந்திரமான அரசியலமைப்பு அமைப்பாகும்.",
+    "en": "The Election Commission of India is enshrined in Part XV of the Constitution and functions as an independent constitutional body."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தேர்தல் ஆணையம், யூபிஎஸ்சி மற்றும் CAG போன்ற அமைப்புகள் அரசியலமைப்புச் சட்டத்தால் உருவாக்கப்பட்ட சுதந்திரமான அமைப்புகள் ஆகும்.",
+    "en": "Bodies like Election Commission, UPSC, and CAG are independent constitutional bodies."
+   },
+   "eg": {
+    "ta": "இந்தியத் தேர்தல் ஆணையம் இந்திய அரசியலமைப்புச் சட்டம் 324-வது பிரிவின் கீழ் உருவாக்கப்பட்டுள்ளது.",
+    "en": "The Election Commission of India is established under Article 324 of the Constitution."
+   },
+   "tip": {
+    "ta": "அரசியலமைப்புச் சட்டப் பிரிவு கொண்ட அனைத்து முக்கிய ஆணையங்களும் சுதந்திரமான அமைப்புகளே.",
+    "en": "All major commissions with constitutional article backing are independent bodies."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q103": {
+   "hint": {
+    "ta": "ஜம்மு - காஷ்மீர் மாநிலத்திற்கென தனியாக இருந்த சிறப்புச் சட்டங்கள் மற்றும் அதன் சட்டமன்றத்தின் பதவிக்காலம் எத்தனை ஆண்டுகள் என்பதைப் பாருங்கள்.",
+    "en": "Look at the special laws and the tenure of the legislative assembly specific to Jammu and Kashmir."
+   },
+   "explain": {
+    "ta": "முன்பு ஜம்மு மற்றும் காஷ்மீர் மாநிலத்திற்கு என்று தனியான அரசியலமைப்புச் சட்டம் இருந்தது. அதன்படி அம்மாநில சட்டமன்றத்தின் பதவிக்காலம் 6 ஆண்டுகளாக இருந்தது.",
+    "en": "Previously, Jammu and Kashmir had a separate constitution under which the legislative assembly's term was 6 years."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இந்தியாவின் மற்ற மாநில சட்டமன்றங்கள் 5 ஆண்டுகள் பதவிக்காலம் கொண்டவை, ஆனால் ஜம்மு - காஷ்மீர் முன்னாள் தனிச்சட்டத்தின்படி 6 ஆண்டுகள் இருந்தது.",
+    "en": "Other state assemblies have a 5-year term, while J&K previously had a 6-year term."
+   },
+   "eg": {
+    "ta": "தற்போது ஜம்மு - காஷ்மீர் மறுசீரமைப்புச் சட்டத்தின் கீழ் மற்ற மாநிலங்களைப் போலவே இதன் பதவிக்காலமும் மாற்றப்பட்டுள்ளது.",
+    "en": "Currently, under the J&K Reorganisation Act, its term aligns with other states."
+   },
+   "tip": {
+    "ta": "பழைய வினாக்களில் ஜம்மு - காஷ்மீர் 6 ஆண்டுகள் என்று கேட்டால் அது சரியான பழைய தரவு.",
+    "en": "In older questions, J&K assembly term being 6 years is based on its former special status."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q104": {
+   "hint": {
+    "ta": "அரசியலமைப்புச் சட்டம் 21ஏ பிரிவின் கீழ் கொண்டுவரப்பட்ட கல்வி உரிமைச் சட்டம் எந்த ஆண்டில் அமலுக்கு வந்தது என்பதைப் பாருங்கள்.",
+    "en": "Check the year when the Right to Education Act introduced under Article 21A came into force."
+   },
+   "explain": {
+    "ta": "இந்தியாவில் 6 முதல் 14 வயது வரையிலான குழந்தைகளுக்கு இலவச மற்றும் கட்டாயக் கல்வி வழங்கும் கல்வி உரிமைச் சட்டம் 2010 ஆம் ஆண்டு ஏப்ரல் 1-ஆம் நாள் முதல் நடைமுறைக்கு வந்தது.",
+    "en": "The Right to Education Act providing free and compulsory education for children aged 6 to 14 came into force on April 1, 2010."
+   },
+   "why": {},
+   "rule": {
+    "ta": "கல்வி உரிமைச் சட்டம் (RTE) இயற்றப்பட்ட ஆண்டு 2009, ஆனால் நடைமுறைப்படுத்தப்பட்ட நாள் 1 ஏப்ரல் 2010 ஆகும்.",
+    "en": "The RTE Act was passed in 2009, but implemented on April 1, 2010."
+   },
+   "eg": {
+    "ta": "அரசியலமைப்புச் சட்டம் 86-வது திருத்தத்தின் மூலம் 21ஏ பிரிவில் கல்வி உரிமை அடிப்படை உரிமையாக சேர்க்கப்பட்டது.",
+    "en": "Article 21A was added as a Fundamental Right by the 86th Constitutional Amendment."
+   },
+   "tip": {
+    "ta": "சட்டம் இயற்றப்பட்ட ஆண்டும் (2009) நடைமுறைப்படுத்தப்பட்ட நாளும் (1 ஏப்ரல் 2010) வெнறு வேறானவை.",
+    "en": "Do not confuse the year the act was passed (2009) with the implementation date (1 April 2010)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q107": {
+   "hint": {
+    "ta": "இந்தியாவில் பொதுமக்களுக்கு விரைவான மற்றும் எளிய முறையில் நீதி வழங்கும் லோக அதாலத் சட்டம் கொண்டுவரப்பட்ட ஆண்டைப் பாருங்கள்.",
+    "en": "Look at the year when the Legal Services Authorities Act establishing Lok Adalat was enacted in India."
+   },
+   "explain": {
+    "ta": "இந்தியாவில் ஏழை எளிய மக்களுக்குக் குறைந்த செலவில் விரைவாக நீதி வழங்குவதற்காகச் சட்ட ஆணைக்குழுவின் பரிந்துரைப்படி 1987-ஆம் ஆண்டு லோக அதாலத் (மக்கள் நீதிமன்றம்) சட்டம் உருவாக்கப்பட்டது.",
+    "en": "Lok Adalat was established under the Legal Services Authorities Act passed in 1987 to provide speedy and affordable justice."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சட்டப் பணிகள் அதிகாரச் சட்டம் (Legal Services Authorities Act) இயற்றப்பட்ட ஆண்டு 1987 ஆகும்.",
+    "en": "The Legal Services Authorities Act providing for Lok Adalat was enacted in 1987."
+   },
+   "eg": {
+    "ta": "இந்தியாவில் முதன்முதலில் லோக அதாலத் குஜராத் மாநிலத்தில் நடத்தப்பட்டது.",
+    "en": "The first Lok Adalat in India was held in the state of Gujarat."
+   },
+   "tip": {
+    "ta": "சட்டப் பணிகள் அதிகாரச் சட்டம் என்றால் அதற்குரிய ஆண்டு 1987 என்பதை நினைவில் கொள்க.",
+    "en": "Remember 1987 as the key year for the Legal Services Authorities Act."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q108": {
+   "hint": {
+    "ta": "இந்திய அரசியலமைப்பில் அடிப்படை உரிமைகள் எந்தப் பகுதியில் இடம்பெற்றுள்ளன என்பதைக் கவனியுங்கள்.",
+    "en": "Check which part of the Indian Constitution contains the Fundamental Rights."
+   },
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டத்தின் பகுதி III (பிரிவு 12 முதல் 35 வரை) இந்திய குடிமக்களுக்கு வழங்கப்பட்டுள்ள அடிப்படை உரிமைகளைப் பற்றி விரிவாகக் கூறுகிறது.",
+    "en": "Part III of the Indian Constitution (Articles 12 to 35) deals in detail with the Fundamental Rights guaranteed to citizens."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அடிப்படைக் கடமைகள் பகுதி IVA, அடிப்படை உரிமைகள் பகுதி III, அரசு நெறிமுறை கோட்பாடுகள் பகுதி IV ஆகும்.",
+    "en": "Fundamental Duties are in Part IVA, Fundamental Rights in Part III, and DPSP in Part IV."
+   },
+   "eg": {
+    "ta": "அடிப்படை உரிமைகள் பகுதி III அமெரிக்க ஐக்கிய நாடுகளின் அரசியலமைப்பிலிருந்து பெறப்பட்டது.",
+    "en": "Fundamental Rights in Part III were borrowed from the US Constitution."
+   },
+   "tip": {
+    "ta": "இந்தியாவின் மகாசாசனம் (Magna Carta) என்று அழைக்கப்படும் பகுதி III அடிப்படை உரிமைகளைக் குறிக்கும்.",
+    "en": "Part III, often called the Magna Carta of India, refers to Fundamental Rights."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q140": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சுருக்கக் குறியீடுகளின் (Abbreviations) முழு வடிவத்தை யோசித்துப் பாருங்கள்.",
+    "en": "Think of the full form of the given acronym."
+   },
+   "explain": {
+    "ta": "BLO என்பது Booth Level Officer என்பதைக் குறிக்கும். இது தேர்தல் பணியில் வாக்குச்சாவடி அளவில் நியமிக்கப்படும் அதிகாரியாவார்.",
+    "en": "BLO stands for Booth Level Officer, who is related to election duties."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அரசுத் துறை மற்றும் தேர்தல் தொடர்பான சுருக்கக் குறியீடுகளின் முழு வடிவத்தை அறிந்து வைத்திருக்க வேண்டும்.",
+    "en": "Know the full forms of government and election-related acronyms."
+   },
+   "eg": {
+    "ta": "CEO என்பது தேர்தல் துறையில் மாவட்டத் தேர்தல் அதிகாரியைக் (Chief Electoral Officer) குறிக்கும்.",
+    "en": "CEO in election terms stands for Chief Electoral Officer."
+   },
+   "tip": {
+    "ta": "BLO என்றாலே வாக்குச்சாவடி நிலை அலுவலர் மற்றும் தேர்தல் பணி என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Always associate BLO with election booth level duties."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q141": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கூற்றும் காரணமும் தனித்தனியே உண்மையானவையா என்றும், ஒன்றுக்கொன்று நேரடி விளக்கமா என்றும் சோதிக்கவும்.",
+    "en": "Check if both statements are independently true and if one explains the other."
+   },
+   "explain": {
+    "ta": "தனியார் நில மரங்களை அரசாங்கம் உரிமை கொள்ள முடியாது என்பது பொதுவான விதி. ஆனால் ஊராட்சி மன்ற சட்டம் 1994-ன் கீழ் உள்ள சில பொது நிலங்களில் உள்ள மரங்களை ஊராட்சி சொந்தம் கொண்டாடலாம். இரண்டும் உண்மையான சட்ட உண்மைகள் என்றாலும், காரணம் கூற்றுக்கான நேரடி விளக்கம் அல்ல.",
+    "en": "Both statements are true legal facts, but the reason explains local body land rights, not why the government cannot claim private trees."
+   },
+   "why": {},
+   "rule": {
+    "ta": "கூற்று மற்றும் காரணம் இரண்டும் சரியாய் இருப்பினும், 'ஏனெனில்' என்ற சொல்லைப் போட்டுப் பார்க்கும்போது சரியான விளக்கமாக வராவிட்டால் அது சரியான விளக்கமல்ல.",
+    "en": "Even if both are true, check if the reason logically justifies the assertion."
+   },
+   "eg": {
+    "ta": "தமிழ்நாடு ஊரக உள்ளாட்சி சட்டம் 1994-ன் படி உள்ளாட்சி அமைப்புகளுக்கு பல அதிகாரங்கள் வழங்கப்பட்டுள்ளன.",
+    "en": "The Tamil Nadu Panchayats Act 1994 empowers local bodies with various administrative rights."
+   },
+   "tip": {
+    "ta": "கூற்றுக்கும் காரணத்திற்கும் தொடர்பில்லாத போது 'சரியான விளக்கமல்ல' என்பதைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Choose 'not the correct explanation' when both facts are true but logically disconnected."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q162": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தகவல் அறியும் உரிமைச் சட்டம் இயற்றப்பட்ட தேதியையும் அதன் நோக்கத்தையும் ஒப்பிட்டுப் பார்க்கவும்.",
+    "en": "Verify the enactment date and the fundamental objective of the RTI Act."
+   },
+   "explain": {
+    "ta": "தகவல் அறியும் உரிமைச் சட்டம் 2005 ஆம் ஆண்டு அக்டோபர் 12 அன்று முழுமையாக நடைமுறைக்கு வந்தது. மேலும், பொது அமைப்புகளிடம் இருந்து தகவல்களைப் பெறும் உரிமை மக்களின் அடிப்படை உரிமையை ஒத்த முக்கியமான உரிமையாகும்.",
+    "en": "The RTI Act came into force on 12th October 2005, enabling citizens to access information from public bodies."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தகவல் அறியும் உரிமைச் சட்டம் அக்டோபர் 12, 2005 முதல் நடைமுறைப்படுத்தப்பட்டது.",
+    "en": "The Right to Information Act came into force on October 12, 2005."
+   },
+   "eg": {
+    "ta": "தகவல் அறியும் உரிமைச் சட்டம் மூலம் பொதுமக்கள் அரசு அலுவலகங்களில் पारదర్శகத்தன்மையைக் கோரலாம்.",
+    "en": "The RTI Act ensures transparency in government administration."
+   },
+   "tip": {
+    "ta": "அக்டோபர் 12, 2005 என்ற தேதியை எப்போதும் நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Memorize the exact date: October 12, 2005."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q166": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் உயர்நீதிமன்ற மற்றும் உச்சநீதிமன்ற நீதிபதிகளின் ஓய்வு பெறும் வயது வித்தியாசத்தைக் கவனிக்கவும்.",
+    "en": "Note the difference in retirement ages between High Court and Supreme Court judges."
+   },
+   "explain": {
+    "ta": "இந்தியாவில் உள்ள உயர்நீதிமன்ற நீதிபதிகளின் பணி ஓய்வு பெறும் வயது வரம்பு 62 ஆகும். (உச்சநீதிமன்ற நீதிபதிகளுக்கு இது 65 ஆகும்).",
+    "en": "The retirement age of High Court judges in India is 62 years."
+   },
+   "why": {},
+   "rule": {
+    "ta": "உயர்நீதிமன்ற நீதிபதி ஓய்வு வயது 62, உச்சநீதிமன்ற நீதிபதி ஓய்வு வயது 65.",
+    "en": "High Court judges retire at 62, and Supreme Court judges at 65."
+   },
+   "eg": {
+    "ta": "உச்சநீதிமன்ற நீதிபதிகள் தமது 65வது வயதில் ஓய்வு பெறுகின்றனர்.",
+    "en": "Supreme Court judges retire upon attaining the age of 65."
+   },
+   "tip": {
+    "ta": "உயர்நீதிமன்றம் (62) சிறியது, உச்சநீதிமன்றம் (65) பெரியது என வயது எண்களை நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember: High Court is 62, Supreme Court is 65."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q181": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் நடப்பு நிகழ்வுகளில் (Current Affairs) நியமிக்கப்பட்ட முக்கிய பதவிகளை நினைவுகூறவும்.",
+    "en": "Recall important constitutional appointments from recent current affairs."
+   },
+   "explain": {
+    "ta": "டிசம்பர் 2015 இல் இந்தியாவின் 43வது தலைமை நீதிபதியாக ஜஸ்டிஸ் டி.எஸ். தாகூர் அவர்கள் நியமிக்கப்பட்டார்.",
+    "en": "Justice T.S. Thakur was appointed as the 43rd Chief Justice of India in December 2015."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தேசிய அளவில் முக்கிய உயர் பதவிகளுக்கு நியமிக்கப்படுபவர்களின் பெயர்களைத் தெரிந்து வைத்திருக்க வேண்டும்.",
+    "en": "Keep track of prominent national constitutional appointments."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் தலைமை நீதிபதியை நியமிக்கும் அதிகாரம் குடியரசுத் தலைவருக்கு உண்டு.",
+    "en": "The President of India appoints the Chief Justice of India."
+   },
+   "tip": {
+    "ta": "கேள்வியில் கேட்கப்பட்ட ஆண்டுடன் (2015) தொடர்புடைய நீதிபதி பெயரைப் பொருத்திப் பார்க்கவும்.",
+    "en": "Match the specific year mentioned in the question with the appointee's name."
+   },
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "updated": "2026-11-23"
+}

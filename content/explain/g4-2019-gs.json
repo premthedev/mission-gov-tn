@@ -1460,7 +1460,1285 @@
     "en": "Consumer Protection Act equals Consumer's Magna Carta."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q106": {
+   "hint": {
+    "ta": "உலகப் புகழ்பெற்ற மிகப்பெரிய சூரிய மின் நிலையம் எந்தப் பாலைவனத்தில் அமைந்துள்ளது என்பதைப் பாருங்கள்.",
+    "en": "Look for the desert where the world-famous large solar power complex is located."
+   },
+   "explain": {
+    "ta": "நூர் சூரிய மின் நிலையம் உலகின் மிகப்பெரிய செறிவூட்டப்பட்ட சூரிய வெப்ப மின் நிலையங்களில் ஒன்றாகும். இது ஆப்பிரிக்காவில் உள்ள சஹாரா பாலைவனத்தில் அமைந்துள்ளது.",
+    "en": "Noor solar power station is located in the Sahara Desert."
+   },
+   "why": {},
+   "rule": {
+    "ta": "உலகப் புகழ்பெற்ற புவியியல் இடங்கள் மற்றும் மின் நிலையங்கள் அமைந்துள்ள பகுதிகளைச் சமச்சீர் புத்தகத்திலிருந்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the location of world-famous geographical landmarks and power projects."
+   },
+   "eg": {
+    "ta": "உலகின் மிகப்பெரிய வெப்ப பாலைவனம் சஹாரா பாலைவனம் ஆகும்.",
+    "en": "Sahara is the largest hot desert in the world."
+   },
+   "tip": {
+    "ta": "நூர் என்றால் அரபு மொழியில் ஒளி; ஒளி தரும் சூரியன் சஹாரா பாலைவனத்தில் பிரகாசிக்கிறது.",
+    "en": "Noor means light; the sun shines brightly in the Sahara Desert."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q107": {
+   "hint": {
+    "ta": "உலக சுற்றுச்சூழல் தினத்தின் அந்தந்த ஆண்டுக்கான நடப்பு நிகழ்வுத் தகவல்களைச் சரிபாருங்கள்.",
+    "en": "Verify the current affairs facts related to the specific year's World Environment Day."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 2019 ஆம் ஆண்டு உலக சுற்றுச்சூழல் தினம் சீனாவில் கொண்டாடப்பட்டது என்பது சரி. ஆனால் அதன் மையக்கருத்து காற்று மாசு என்பதும் சரியானதே, இருப்பினும் கொடுக்கப்பட்ட விருப்பங்களின் அடிப்படையில் முதல் கூற்று மட்டுமே சரி எனத் தேர்ந்தெடுக்கப்பட்டுள்ளது.",
+    "en": "According to the official key, statement 1 is correct while statement 2 is considered false in the given option combination."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சுற்றுச்சூழல் தின விழா நடைபெறும் நாடுகள் மற்றும் அதன் கருப்பொருள்களைத் தவறாமல் படிக்க வேண்டும்.",
+    "en": "Always study the host countries and themes of World Environment Day."
+   },
+   "eg": {
+    "ta": "ஜூன் 5 ஆம் நாள் உலக சுற்றுச்சூழல் தினமாகக் கொண்டாடப்படுகிறது.",
+    "en": "June 5 is celebrated as World Environment Day."
+   },
+   "tip": {
+    "ta": "சுற்றுச்சூழல் தினக் கேள்விகளில் நடப்பு நிகழ்வுத் தரவுகள் மிக முக்கியம்.",
+    "en": "Current affairs data on environment days are very important for exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q126": {
+   "hint": {
+    "ta": "இந்தியாவின் கிழக்கு கடற்கரைச் சமவெளிகளின் பிரிவுகள் எந்தெந்த மாநிலங்களில் பரவியுள்ளன என்பதைப் பாருங்கள்.",
+    "en": "Look at the regional divisions of the eastern coastal plains of India and their states."
+   },
+   "explain": {
+    "ta": "மகாநதி டெல்டா பகுதிக்கும் சில்கா ஏரிக்கும் இடைப்பட்ட பகுதி உத்கல் சமவெளி என அழைக்கப்படுகிறது. இது ஒடிசா மாநிலத்தில் அமைந்துள்ளது.",
+    "en": "The Utkal plain forms the coastal plains of Odisha."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இந்தியாவின் கடற்கரைச் சமவெளிகள்: குஜராத் சமவெளி, கொங்கன் சமவெளி, மலபார் சமவெளி, உத்கல் சமவெளி, கோரமண்டல் சமவெளி.",
+    "en": "Coastal plains of India are divided into specific regional names like Utkal, Coromandel, etc."
+   },
+   "eg": {
+    "ta": "ஆந்திரப் பிரதேச கடற்கரைச் சமவெளி ஆந்திராவில் அமைந்துள்ளது.",
+    "en": "The Andhra coastal plain is located in Andhra Pradesh."
+   },
+   "tip": {
+    "ta": "உத்கல் = ஒடிசா (இரண்டும் 'உ' மற்றும் 'ஒ' வரிசை ஒலிகளைக் கொண்டுள்ளன).",
+    "en": "Utkal plain is associated with Odisha."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q127": {
+   "hint": {
+    "ta": "பூமத்திய ரேகை (0° அட்ச ரேகை) மற்றும் கிரீன்விச் ரேகை (0° தீர்க்க ரேகை) எங்கு ஒன்றையொன்று வெட்டுகின்றன என்பதைப் பாருங்கள்.",
+    "en": "Look at where the Equator and Prime Meridian intersect each other."
+   },
+   "explain": {
+    "ta": "பூமத்திய ரேகையும் (0° அட்சம்) முதன்மைத் தீர்க்க ரேகையும் (0° தீர்க்கம்) சந்திக்கும் புள்ளி தென் அட்லாண்டிக் பெருங்கடலில் மேற்கு ஆப்பிரிக்காவிற்கு அருகில் அமைந்துள்ளது.",
+    "en": "The intersection of 0° latitude and 0° longitude is located in the Atlantic Ocean, off the west coast of Africa."
+   },
+   "why": {},
+   "rule": {
+    "ta": "0° அட்ச ரேகையும் 0° தீர்க்க ரேகையும் தென் அட்லாண்டிக் பெருங்கடலில் வெட்டுகின்றன.",
+    "en": "0° latitude and 0° longitude intersect in the South Atlantic Ocean near West Africa."
+   },
+   "eg": {
+    "ta": "பூமத்திய ரேகை ஆப்பிரிக்கா மற்றும் தென் அமெரிக்கா கண்டங்கள் வழியாகச் செல்கிறது.",
+    "en": "The Equator passes through Africa and South America."
+   },
+   "tip": {
+    "ta": "நூல் கோடுகள் சந்திக்கும் புள்ளி கடலுக்கு நடுவே (தென் அட்லாண்டிக்) உள்ளது.",
+    "en": "The zero-degree intersection happens right in the ocean."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q161": {
+   "hint": {
+    "ta": "இந்தியாவின் திட்ட நேரத்தைக் நிர்ணயிக்கும் தீர்க்க ரேகை எந்த நகரின் வழியாகச் செல்கிறது என்பதைப் பாருங்கள்.",
+    "en": "Check through which city India's standard meridian passes."
+   },
+   "explain": {
+    "ta": "இந்தியாவின் திட்ட நேரத்தைக் கணக்கிட உதவும் 82.5° கிழக்கு தீர்க்க ரேகை உத்தரப் பிரதேசத்தில் உள்ள மிர்சாபூர் வழியாகச் செல்கிறது.",
+    "en": "India's central meridian passes through Mirzapur."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இந்தியாவின் திட்ட நேரக் கோடு 82.5° கி தீர்க்க ரேகை மிர்சாபூர் வழியாகச் செல்கிறது.",
+    "en": "India's standard time is based on 82.5° E longitude passing through Mirzapur."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் திட்ட நேரம் கிரீன்விச் நேரத்தை விட 5 மணி 30 நிமிடங்கள் முன்னதாக உள்ளது.",
+    "en": "Indian Standard Time is 5 hours 30 minutes ahead of GMT."
+   },
+   "tip": {
+    "ta": "இந்தியாவின் நேரம் அறிய 'மிர்சாபூர்' செல்ல வேண்டும்.",
+    "en": "Remember Mirzapur for Indian Standard Time."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q175": {
+   "hint": {
+    "ta": "இந்தியாவில் உள்ள முக்கிய இரயில் நிலையங்கள் மற்றும் அவற்றின் மாநிலங்கள் பற்றிய கேள்விகளைக் கேட்டால், வடகிழக்கு மாநிலங்களில் உள்ள ஒரே இரயில் நிலையங்கள் மற்றும் அவற்றின் சிறப்பு நிலைகளை நினைவில் கொள்ளுங்கள்.",
+    "en": "When asked about railway stations in states, focus on unique state railway connections especially in northeastern states."
+   },
+   "explain": {
+    "ta": "மெண்டிபதார் இரயில் நிலையம் மேகாலயா மாநிலத்தில் அமைந்துள்ளது. இது மேகாலயா மாநிலத்திற்கு இரயில் சேவையை இணைக்கும் முதல் மற்றும் ஒரே இரயில் நிலையமாகும்.",
+    "en": "Mendipathar railway station is located in the state of Meghalaya and is the first rail link for the state."
+   },
+   "why": {
+    "A": {
+     "ta": "சிக்கிம் மாநிலத்தில் சங்ஃபோ அல்லது வேறு சில புதிய இரயில் திட்டங்கள் பரிசீலனையில் உள்ளன, ஆனால் மெண்டிபதார் அங்கு இல்லை.",
+     "en": "Sikkim is not the home for Mendipathar railway station."
+    },
+    "C": {
+     "ta": "திரிபுரா மாநிலத்தின் முக்கிய இரயில் நிலையம் அகர்தலா ஆகும்.",
+     "en": "Tripura's major railway station is Agartala."
+    },
+    "D": {
+     "ta": "நாகலாந்து மாநிலத்தின் முக்கிய இரயில் நிலையம் திமாபூர் ஆகும்.",
+     "en": "Nagaland's major railway station is Dimapur."
+    }
+   },
+   "rule": {
+    "ta": "வடகிழக்கு மாநிலங்களின் இரயில் போக்குவரத்து மற்றும் அவற்றின் தலைமையிடங்களைச் சமச்சீர் கல்வி புவியியல் புத்தகத்திலிருந்து படித்துக்கொள்ள வேண்டும்.",
+    "en": "Learn the railway connectivity of northeastern states from Samacheer geography textbooks."
+   },
+   "eg": {
+    "ta": "அசாம் மாநிலத்தின் முக்கிய இரயில் நிலைய தலைமையிடம் குவகாத்தி ஆகும்.",
+    "en": "Guwahati is the major railway hub in Assam."
+   },
+   "tip": {
+    "ta": "மேகாலயா மாநிலத்தில் உள்ள ஒரே இரயில் நிலையம் 'மெண்டிபதார்' என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that Mendipathar is the sole railway station in Meghalaya."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q180": {
+   "hint": {
+    "ta": "இந்திய ரயில்வே மண்டலங்கள் மற்றும் அவற்றின் தலைமையிடங்களைக் கேட்கும்போது, திசைகளின் வாரியாக மத்தியப் பகுதிகளை உற்றுப் பாருங்கள்.",
+    "en": "When questions are asked about railway zones and headquarters, check the central locations based on directions."
+   },
+   "explain": {
+    "ta": "இந்திய ரயில்வேயின் மேற்கு மத்திய ரயில்வே மண்டலத்தின் தலைமையிடம் ஜபல்பூர் ஆகும். இது மத்தியப் பிரதேச மாநிலத்தில் அமைந்துள்ளது.",
+    "en": "The headquarters of the West Central Railway is Jabalpur located in Madhya Pradesh."
+   },
+   "why": {
+    "A": {
+     "ta": "மும்பை மத்திய ரயில்வே மற்றும் மேற்கு ரயில்வேயின் தலைமையிடமாக விளங்குகிறது.",
+     "en": "Mumbai is the headquarters for Central and Western Railways."
+    },
+    "B": {
+     "ta": "ஹூப்ளி தென்மேற்கு ரயில்வேயின் தலைமையிடமாகும்.",
+     "en": "Hubli is the headquarters of South Western Railway."
+    },
+    "C": {
+     "ta": "புது டெல்லி வடக்கு ரயில்வேயின் தலைமையிடமாகும்.",
+     "en": "New Delhi is the headquarters of Northern Railway."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய ரயில்வேயின் அனைத்து மண்டலங்களும் அவைகளின் தலைமையிடங்களும் புவியியல் பகுதியில் மிக முக்கியமானவை.",
+    "en": "All railway zones and their headquarters are very important geography topics."
+   },
+   "eg": {
+    "ta": "தெற்கு ரயில்வேயின் தலைமையிடம் சென்னை ஆகும்.",
+    "en": "The headquarters of Southern Railway is Chennai."
+   },
+   "tip": {
+    "ta": "மேற்கு மத்திய ரயில்வே என்றால் ஜபல்பூர் (மத்தியப் பிரதேசம்) என்று நினைவில் கொள்ளவும்.",
+    "en": "West Central Railway equals Jabalpur in Madhya Pradesh."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q181": {
+   "hint": {
+    "ta": "நதிகள் மற்றும் அவற்றின் உற்பத்தி இடங்களைப் பொருத்துக கேள்விகளைக் கேட்டால், ஒவ்வொரு நதியும் எங்கு பிறக்கிறது என்பதைச் சரிபாருங்கள்.",
+    "en": "When asked to match rivers with their origins, verify the exact place of origin for each river."
+   },
+   "explain": {
+    "ta": "பிரம்மபுத்திரா நதி திபெத்தில் உள்ள மானசரோவர் ஏரிக்கு அருகில் உற்பத்தியாகிறது. எனவே இந்த இணை மட்டும் சரியாகப் பொருத்தப்பட்டுள்ளது.",
+    "en": "Brahmaputra originates near Lake Manasarovar in Tibet, making this pair correctly matched."
+   },
+   "why": {
+    "A": {
+     "ta": "சிந்து நதி திபெத்தில் உள்ள மானசரோவர் ஏரிக்கு அருகில் உற்பத்தியாகிறது, கங்கோத்ரியில் அல்ல.",
+     "en": "Indus originates near Lake Manasarovar, not Gangothri."
+    },
+    "C": {
+     "ta": "கோதாவரி நதி மகாராஷ்டிராவில் உள்ள நாசிக் அருகில் உள்ள தியம்பக்கேஸ்வரில் உற்பத்தியாகிறது, பெட்டுல் அல்ல.",
+     "en": "Godavari originates in Trimbak near Nashik, not Bettul."
+    },
+    "D": {
+     "ta": "மகாநதி சத்தீச்கார் மாநிலத்தில் உள்ள சிஹாபாத் என்னுமிடத்தில் உற்பத்தியாகிறது, அகத்தியர் மலை அல்ல.",
+     "en": "Mahanadi originates in Sihawa in Chhattisgarh, not Agasthiyar Hills."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய நதிகளின் உற்பத்தியிடங்கள் மற்றும் அவற்றின் துணையாறுகளைப் பட்டியலிட்டுப் படிக்க வேண்டும்.",
+    "en": "Study the origins and tributaries of Indian rivers systematically."
+   },
+   "eg": {
+    "ta": "கங்கா நதி உத்தரகாண்ட் மாநிலத்தில் உள்ள கங்கோத்ரி பனிமலையில் உற்பத்தியாகிறது.",
+    "en": "Ganga originates from the Gangotri glacier in Uttarakhand."
+   },
+   "tip": {
+    "ta": "பிரம்மபுத்திரா மற்றும் சிந்து இரண்டும் திபெத்தில் மானசரோவர் அருகில் உற்பத்தியாகின்றன.",
+    "en": "Both Brahmaputra and Indus originate near Lake Manasarovar in Tibet."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q109": {
+   "hint": {
+    "ta": "உலக நாடுகள் மற்றும் அவற்றின் கட்சி முறைகள் (ஒற்றை, இரட்டை, பல கட்சி) பற்றிக் கேட்கும்போது, பிரான்ஸ் போன்ற முக்கிய நாடுகளின் அரசியல் அமைப்பைப் பாருங்கள்.",
+    "en": "When asked about party systems in foreign nations, recall the political structure of countries like France."
+   },
+   "explain": {
+    "ta": "பிரான்ஸ் நாட்டில் பல அரசியல் கட்சிகள் செயல்படுவதற்கான வாய்ப்பு உள்ளது. எனவே அங்கு பல கட்சி முறை நடைமுறையில் உள்ளது.",
+    "en": "France operates under a multi-party system with several political parties active in governance."
+   },
+   "why": {
+    "A": {
+     "ta": "ஒற்றைக்கட்சி முறை என்பது சீனா போன்ற கம்யூனிச நாடுகளில் மட்டுமே நடைமுறையில் உள்ளது.",
+     "en": "Single party system is practiced in communist countries like China."
+    },
+    "C": {
+     "ta": "இரட்டை கட்சி முறை என்பது அமெரிக்கா மற்றும் பிரிட்டன் போன்ற நாடுகளில் பின்பற்றப்படுகிறது.",
+     "en": "Biparty system is followed in countries like USA and Britain."
+    },
+    "D": {
+     "ta": "பிரான்சுக்கு முறையான கட்சி முறை உள்ளதால் இந்த விடை தவறானது.",
+     "en": "This option is incorrect as France clearly has a recognized party system."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவில் பல கட்சி முறை உள்ளதுபோல் பிரான்சிலும் பல கட்சி முறை பின்பற்றப்படுகிறது.",
+    "en": "Like India, France follows a multi-party system."
+   },
+   "eg": {
+    "ta": "இந்தியா மற்றும் பிரான்ஸ் இரண்டும் பல கட்சி முறை கொண்ட ஜனநாயக நாடுகள் ஆகும்.",
+    "en": "Both India and France are democratic nations with multi-party systems."
+   },
+   "tip": {
+    "ta": "பிரான்ஸ் = பல கட்சி முறை என்பதை நினைவில் வையுங்கள்.",
+    "en": "Remember France equals multi-party system."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q114": {
+   "hint": {
+    "ta": "இந்தியாவின் முக்கிய சுதந்திரமான அமைப்புகளின் முதல் தலைவர்கள் அல்லது ஆணையர்கள் பற்றிய கேள்விகளைத் தேடும்போது, சமச்சீர் புத்தகத்தில் உள்ள அரசியலமைப்பு சாரா மற்றும் சட்டப்பூர்வ அமைப்புகள் அட்டவணையைப் பாருங்கள்.",
+    "en": "When looking for the first heads of constitutional or statutory bodies, check the tables in Samacheer civics textbooks."
+   },
+   "explain": {
+    "ta": "நடுவண் விழிப்புணர்வு ஆணையம் (CVC) தோற்றுவிக்கப்பட்ட பிறகு, அதன் முதல் ஆணையராக நீட்டூர் சீனிவாச ராவ் நியமிக்கப்பட்டார்.",
+    "en": "Nittoor Srinivasa Rau was appointed as the first Chief Vigilance Commissioner of India."
+   },
+   "why": {
+    "A": {
+     "ta": "சரத் குமார் பிற்காலத்தில் இடைக்கால நடுவண் விழிப்புணர்வு ஆணையராகப் பணியாற்றினார்.",
+     "en": "Sharad Kumar served as an interim CVC at a later point."
+    },
+    "B": {
+     "ta": "B.K. ஆச்சார்யா இந்தப் பதவியில் முதலாமவராகப் பணியாற்றியவர் அல்ல.",
+     "en": "B.K. Acharya was not the first to hold this position."
+    },
+    "D": {
+     "ta": "R.P. கண்ணா என்பவர் இந்தத் தேர்வுக்குரிய முதல் ஆணையர் அல்ல.",
+     "en": "R.P. Khanna is not the first commissioner for this post."
+    }
+   },
+   "rule": {
+    "ta": "நடுவண் விழிப்புணர்வு ஆணையத்தின் (CVC) முதல் தலைவர் நீட்டூர் சீனிவாச ராவ் ஆவார்.",
+    "en": "The first Chief Vigilance Commissioner of India was Nittoor Srinivasa Rau."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் முதல் தேர்தல் ஆணையர் சுகுமார் சென் ஆவர்.",
+    "en": "Sukumar Sen was the first Chief Election Commissioner of India."
+   },
+   "tip": {
+    "ta": "விழிப்புணர்வு ஆணையத்தின் தொடக்கம் = நீட்டூர் சீனிவாச ராவ்.",
+    "en": "Vigilance Commissioner start = Nittoor Srinivasa Rau."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q116": {
+   "hint": {
+    "ta": "மக்கள் நேரடியாக வாக்களித்துத் தேர்ந்தெடுக்கும் பதவிகளுக்கும், வாக்காளர்கள் மூலம் மறைமுகமாகத் தேர்ந்தெடுக்கப்படும் பதவிகளுக்கும் உள்ள வித்தியாசத்தைப் பாருங்கள்.",
+    "en": "Distinguish between posts elected directly by citizens and those elected indirectly through representatives."
+   },
+   "explain": {
+    "ta": "குடியரசுத் தலைவர், துணைத் தலைவர் மற்றும் மாநிலங்களவை (நாடாளுமன்ற மேலவை) உறுப்பினர்கள் பொதுமக்களால் நேரடியாகத் தேர்ந்தெடுக்கப்படுவதில்லை. அவர்கள் மக்களால் தேர்ந்தெடுக்கப்பட்ட பிரதிநிதிகள் மூலம் மறைமுகமாகத் தேர்ந்தெடுக்கப்படுகிறார்கள்.",
+    "en": "The President, Vice-President, and Rajya Sabha members are not elected directly by citizens; they are chosen through indirect elections."
+   },
+   "why": {
+    "A": {
+     "ta": "இடைத் தேர்தல் என்பது ஒரு பதவி காலத்திற்கு முன்பே காலியாகும்போது நடத்தப்படுவதாகும்.",
+     "en": "By-elections are held when a seat falls vacant prematurely."
+    },
+    "B": {
+     "ta": "நாடாளுமன்ற மக்களவை உறுப்பினர்கள் மற்றும் சட்டமன்ற உறுப்பினர்கள் மட்டுமே நேரடித் தேர்தல் மூலம் தேர்ந்தெடுக்கப்படுகின்றனர்.",
+     "en": "Lok Sabha and Assembly members alone are chosen via direct elections."
+    },
+    "D": {
+     "ta": "இடைப்பருவத் தேர்தல் என்பது சட்டப்பேரவை அல்லது நாடாளுமன்றம் கலைக்கப்படும்போது நடத்தப்படுவதாகும்.",
+     "en": "Mid-term polls occur when the legislature is dissolved prematurely."
+    }
+   },
+   "rule": {
+    "ta": "குடியரசுத் தலைவர், துணைத் தலைவர், மாநிலங்களவை உறுப்பினர்கள் தேர்தல் எப்போதும் மறைமுக முறையே.",
+    "en": "Elections for President, Vice-President, and Rajya Sabha members are always indirect."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் குடியரசுத் தலைவர் தேர்தல் ஒரு மறைமுகத் தேர்தல் முறைக்குச் சிறந்த எடுத்துக்காட்டாகும்.",
+    "en": "The election of the Indian President is a prime example of an indirect election."
+   },
+   "tip": {
+    "ta": "மக்கள் நேரடியாக வாக்களிக்காத உயர்பதவிகள் அனைத்தும் மறைமுகத் தேர்தல் மூலமே தேர்ந்தெடுக்கப்படுகின்றன.",
+    "en": "High posts where public do not vote directly are all indirect elections."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q117": {
+   "hint": {
+    "ta": "மாநில ஆளுநரின் பதவிக்காலம் மற்றும் புதிய ஆளுநர் பொறுப்பேற்கும் வரை தொடர்தல் குறித்த அரசியலமைப்பு விதிகளைச் சரிபாருங்கள்.",
+    "en": "Check constitutional provisions regarding the Governor's tenure and continuation until a successor takes charge."
+   },
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்பின்படி ஆளுநரின் சாதாரண பதவிக்காலம் ஐந்து ஆண்டுகள் ஆகும். எனினும், புதிய ஆளுநர் பதவியேற்கும் வரை அவர் தனது பதவியில் தொடரலாம்.",
+    "en": "According to the Constitution, the normal term of a Governor is five years, and they continue until a successor assumes office."
+   },
+   "why": {
+    "B": {
+     "ta": "இரண்டாவது கூற்றும் சரியானதே என்பதால் இது மட்டும் சரி என்பது பொருந்தாது.",
+     "en": "This is incorrect because the second statement is also correct."
+    },
+    "C": {
+     "ta": "முதல் கூற்றும் சரியானதே என்பதால் இது மட்டும் சரி என்பது தவறாகும்.",
+     "en": "This is incorrect because the first statement is also correct."
+    },
+    "D": {
+     "ta": "கொடுக்கப்பட்டுள்ள இரண்டு கூற்றுகளும் அரசியலமைப்பு விதிகளின்படி முற்றிலும் சரியானவை.",
+     "en": "Both statements are entirely correct according to constitutional provisions."
+    }
+   },
+   "rule": {
+    "ta": "ஆளுநரின் பதவிக்காலம் 5 ஆண்டுகள் மற்றும்successor வரும் வரை தொடர்வது இரண்டும் சரியாகும்.",
+    "en": "Both the 5-year term and continuation until successor takes office are correct for a Governor."
+   },
+   "eg": {
+    "ta": "குடியரசுத் தலைவரின் பதவிக்காலமும் இதேபோன்று ஐந்து ஆண்டுகள் மற்றும் புதியவர் வரும் வரை தொடரும் தன்மைக் கொண்டது.",
+    "en": "The President's term is similarly five years with continuation until a successor takes office."
+   },
+   "tip": {
+    "ta": "ஆளுநர் பதவிக்கு வெற்றிடம் இருக்கக்கூடாது என்பதால்successor வரும் வரை அவர் தொடர்வார்.",
+    "en": "There can be no vacancy in the Governor's office; hence they continue until a successor arrives."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q149": {
+   "hint": {
+    "ta": "அடிப்படை உரிமைகளில் உயிர் மற்றும் தனிப்பட்ட சுதந்திரம் பற்றிப் பேசும் மிக முக்கியமான பிரிவை நினைவு கூருங்கள்.",
+    "en": "Recall the fundamental rights article dealing with life and personal liberty."
+   },
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டம் பிரிவு 21-ன் கீழ் வாழ்வதற்கான உரிமை உத்தரவாதம் அளிக்கப்படுகிறது. உச்ச நீதிமன்றத் தீர்ப்புகளின்படி, சுத்தமான குடிநீர் மற்றும் ஆரோக்கியமான சூழல் பெறுவதும் இந்த வாழ்வதற்கான உரிமையின் ஒரு பகுதியாகும்.",
+    "en": "Article 21 guarantees the right to life, which Supreme Court rulings interpret to include the right to clean water and a healthy environment."
+   },
+   "why": {
+    "A": {
+     "ta": "பிரிவு 12 என்பது அடிப்படை உரிமைகள் பகுதியில் 'அரசு' என்பதற்கான வரையறையைக் கூறுகிறது.",
+     "en": "Article 12 defines the term 'State' for the part on Fundamental Rights."
+    },
+    "C": {
+     "ta": "பிரிவு 31 சொத்துரிமை பற்றிக் கூறியது, பின்னர் அது நீக்கப்பட்டுவிட்டது.",
+     "en": "Article 12/31 dealt with the right to property, which has been removed."
+    },
+    "D": {
+     "ta": "பிரிவு 41 என்பது அரசு நெறிமுறை உறுத்தும் கோட்பாடுகளின் கீழ் வேலை செய்யும் உரிப்பைக் குறிக்கிறது.",
+     "en": "Article 41 falls under DPSP and relates to the right to work."
+    }
+   },
+   "rule": {
+    "ta": "சுத்தமான குடிநீர் மற்றும் சுற்றுச்சூழல் பாதுகாப்பு ஆகியவை பிரிவு 21-ன் கீழ் வாழ்வுரிமையின் கீழ் வரும்.",
+    "en": "Clean water and environmental protection fall under the right to life in Article 21."
+   },
+   "eg": {
+    "ta": "மாசு இல்லாத காற்று மற்றும் குடிநீர் பெறுவது பிரிவு 21-ன் கீழ் அடிப்படை உரிமையாகும்.",
+    "en": "Getting pollution-free air and water is a fundamental right under Article 21."
+   },
+   "tip": {
+    "ta": "வாழ்க்கைக்குத் தேவையான அடிப்படைத் தேவைகள் (தண்ணீர், காற்று) அனைத்தும் பிரிவு 21-ல் அடங்கும்.",
+    "en": "All life-sustaining basic needs (water, air) are covered under Article 21."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q156": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இந்திய அரசியலமைப்புச் சட்டத்தின் நிதி மற்றும் வரிவிதிப்பு தொடர்பான முக்கிய சரத்துக்களைப் பாருங்கள்.",
+    "en": "When asked about financial articles, check the specific provisions regarding taxes collected by the Centre and assigned to States."
+   },
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டம் சரத்து 269 ஆனது மத்திய அரசால் விதிக்கப்பட்டு, வசூலிக்கப்பட்டு ஆனால் மாநிலங்களுக்கு ஒதுக்கப்படும் வரிகளைப் பற்றி விவரிக்கிறது. எனவே, அதிகாரப்பூர்வ விடை சரியாகப் பொருத்தப்பட்டுள்ளது.",
+    "en": "Article 269 of the Constitution deals with taxes levied and collected by the Union but assigned to the States."
+   },
+   "why": {
+    "A": {
+     "ta": "சரத்து 201 என்பது மாநில சட்டமன்றத்தால் நிறைவேற்றப்பட்டு குடியரசுத் தலைவரின் ஒப்புதலுக்காக வைக்கப்பட்ட மசோதாவைப் பற்றியது.",
+     "en": "Article 201 deals with bills reserved by the Governor for consideration by the President."
+    },
+    "C": {
+     "ta": "சரத்து 272 என்பது முந்தைய காலத்தில் மத்திய அரசால் விதிக்கப்பட்டு வசூலிக்கப்பட்ட சில வரிகளை மாநிலங்களுடன் பகிர்ந்து கொள்வது பற்றியதாகும், இது பின்னர் நீக்கப்பட்டது.",
+     "en": "Article 272 previously dealt with taxes which were levied and collected by the Union and distributed between the Union and the States."
+    },
+    "D": {
+     "ta": "சரத்து 268 என்பது மத்திய அரசால் விதிக்கப்பட்டு மாநில அரசுகளால் வசூலிக்கப்பட்டு தக்கவைத்துக் கொள்ளப்படும் வரிகளைப் பற்றியது.",
+     "en": "Article 268 deals with duties levied by the Union but collected and appropriated by the States."
+    }
+   },
+   "rule": {
+    "ta": "மத்திய-மாநில நிதி உறவுகள் மற்றும் வரி பகிர்வு தொடர்பான சரத்துக்களை (268-281) நன்கு நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the constitutional articles related to Centre-State financial relations."
+   },
+   "eg": {
+    "ta": "சரத்து 280 இந்தியாவின் நிதி ஆணையம் (Finance Commission) பற்றி கூறுகிறது.",
+    "en": "Article 280 provides for the establishment of the Finance Commission."
+   },
+   "tip": {
+    "ta": "வரிவிதிப்புச் சரத்துக்களைப் படிக்கும்போது யார் விதிக்கிறார்கள், யார் வசூலிக்கிறார்கள் என்பதை ஒப்பிட்டுப் படிக்கவும்.",
+    "en": "Compare who levies and who collects when studying tax articles."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q166": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இந்தியாவில் ஊழலைத் தடுக்க அமைக்கப்பட்ட முக்கிய குழுக்கள் மற்றும் அவற்றின் பரிந்துரைகளைப் பாருங்கள்.",
+    "en": "When asked about anti-corruption bodies, look for the committee recommended by K. Santhanam."
+   },
+   "explain": {
+    "ta": "மத்திய கண்காணிப்பு ஆணையம் (CVC) கே. சந்தானம் தலைமையிலான ஊழல் தடுப்புக் குழுவின் பரிந்துரையின் அடிப்படையில் 1964 ஆம் ஆண்டு அமைக்கப்பட்டது. எனவே, சந்தானம் ஊழல் தடுப்புக் குழு என்பதே சரியான விடையாகும்.",
+    "en": "The Central Vigilance Commission was established in 1964 based on the recommendations of the Santhanam Committee on Prevention of Corruption."
+   },
+   "why": {
+    "A": {
+     "ta": "நிர்வாக சீர்திருத்த ஆணையம் என்பது பொது நிர்வாகத்தை மேம்படுத்த பரிந்துரைகளை வழங்கிய அமைப்பாகும்.",
+     "en": "The Administrative Reforms Commission deals with public administration reforms."
+    },
+    "B": {
+     "ta": "தேசிய வளர்ச்சிக் குழு ஐந்தாண்டுத் திட்டங்களை அங்கீகரிப்பதற்காக உருவாக்கப்பட்ட அமைப்பாகும்.",
+     "en": "The National Development Council was concerned with the approval of Five-Year Plans."
+    },
+    "D": {
+     "ta": "சட்ட ஆணையம் என்பது சட்டங்களை மறுபரிசீலனை செய்ய மற்றும் புதிய சட்டங்களை பரிந்துரைக்க உருவாக்கப்படுவதாகும்.",
+     "en": "The Law Commission recommends legal reforms and reviews existing laws."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவில் உருவாக்கப்பட்ட முக்கிய கமிட்டிகள் மற்றும் அவற்றின் தலைவர்களின் பெயர்களைப் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Match major committees in India with their respective chairpersons and objectives."
+   },
+   "eg": {
+    "ta": "உள்ளாட்சி அமைப்புகளுக்கு புத்துயிர் ஊட்ட பல்வந்த் ராய் மேத்தா குழு அமைக்கப்பட்டது.",
+    "en": "Balwant Rai Mehta Committee was appointed for community development and local governance."
+   },
+   "tip": {
+    "ta": "ஊழல் தடுப்பு என்ற வார்த்தையைக் கண்டாலே சந்தானம் குழுவை நினைவில் கொள்ளுங்கள்.",
+    "en": "Whenever you see prevention of corruption, immediately recall the Santhanam Committee."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q167": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் நாட்டின் உய பதவிகளில் உள்ளவர்களை நியமனம் செய்பவர் யார் என்பதைச் சிந்தித்துப் பாருங்கள்.",
+    "en": "When asked about the appointment of top constitutional authorities, think of the nominal executive head of the country."
+   },
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டத்தின்படி, உச்ச நீதிமன்றத்தின் தலைமை நீதிபதி மற்றும் பிற நீதிபதிகள் இந்தியக் குடியரசுத் தலைவரால் நியமிக்கப்படுகிறார்கள். எனவே, குடியரசுத் தலைவர் என்பதே சரியான விடையாகும்.",
+    "en": "According to the Indian Constitution, the Chief Justice and other Judges of the Supreme Court are appointed by the President."
+   },
+   "why": {
+    "B": {
+     "ta": "தலைமை வழக்குநரைர் (Attorney General) என்பவர் நாட்டின் உயர்ந்த சட்ட அதிகாரியாவார், அவர் நீதிபதிகளை நியமிப்பதில்லை.",
+     "en": "The Attorney General is the highest law officer and does not appoint judges."
+    },
+    "C": {
+     "ta": "ஆளுநர் என்பவர் மாநில அளவில் உயர் நீதிமன்ற நீதிபதிகள் நியமனத்தின்போது கலந்தாலோசிக்கப்படுவாரே தவிர உச்ச நீதிமன்ற நீதிபதிகளை நியமிப்பதில்லை.",
+     "en": "The Governor is consulted for High Court appointments, not Supreme Court judges."
+    },
+    "D": {
+     "ta": "பிரதமர் அரசாங்கத்தின் தலைவர் ஆவார், உச்ச நீதிமன்ற நீதிபதிகளை அதிகாரப்பூர்வமாக நியமிப்பவர் அல்ல.",
+     "en": "The Prime Minister is the head of government, not the appointing authority for judges."
+    }
+   },
+   "rule": {
+    "ta": "மத்திய அரசின் முக்கிய உயர் பதவிகள் அனைத்தும் குடியரசுத் தலைவராலேயே நியமிக்கப்படுகின்றன.",
+    "en": "All major constitutional appointments at the Union level are made by the President."
+   },
+   "eg": {
+    "ta": "மாநில ஆளுநர் மற்றும் யூனியன் பிரதேச லெப்டினன்ட் கவர்னர்களையும் குடியரசுத் தலைவரே நியமிக்கிறார்.",
+    "en": "The President also appoints State Governors and Lieutenant Governors."
+   },
+   "tip": {
+    "ta": "உச்ச நீதிமன்றம், உயர் நீதிமன்றம் தொடர்பான நியமனங்கள் எப்போது வந்தாலும் குடியரசுத் தலைவரைக் குறிக்கவும்.",
+    "en": "For judicial appointments in apex courts, the answer is always the President."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q168": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கிராம மற்றும் நகர்ப்புற உள்ளாட்சி அமைப்புகளுக்குச் சட்ட அங்கீகாரம் தந்த திருத்தங்களைச் சரிபாருங்கள்.",
+    "en": "When asked about local body amendments, distinguish between rural (Panchayat) and urban (Nagar Palika) acts."
+   },
+   "explain": {
+    "ta": "1992 ஆம் ஆண்டு கொண்டுவரப்பட்ட 74வது அரசியலமைப்புச் சட்டத் திருத்தம் நகராட்சி நிர்வாகம் அல்லது 'நகர் பாலிகா' அமைப்புகளுக்குச் சட்டப்பூர்வ அந்தஸ்தை வழங்கியது. எனவே, 74வது சட்ட திருத்தம் என்பதே சரியான விடையாகும்.",
+    "en": "The 74th Amendment Act of 1992 introduced provisions related to Nagar Palikas (Urban Local Governments)."
+   },
+   "why": {
+    "A": {
+     "ta": "73வது சட்ட திருத்தம் என்பது கிராம ஊராட்சிகள் மற்றும் பஞ்சாயத்து ராஜ் அமைப்புகள் பற்றியதாகும்.",
+     "en": "The 73rd Amendment Act deals with Panchayati Raj institutions (rural local government)."
+    },
+    "B": {
+     "ta": "75வது சட்ட திருத்தம் என்பது மாநிலங்களில் வாடகை தீர்ப்பாயங்கள் (Rent Tribunals) அமைப்பது பற்றியதாகும்.",
+     "en": "The 75th Amendment Act relates to the establishment of State Rent Tribunals."
+    },
+    "D": {
+     "ta": "70வது சட்ட திருத்தம் என்பது குடியரசுத் தலைவர் தேர்தலில் டெல்லி மற்றும் புதுச்சேரி சட்டமன்ற உறுப்பினர்களின் பங்கேற்பது பற்றியது.",
+     "en": "The 70th Amendment Act includes members of Delhi and Puducherry assemblies in the Presidential electoral college."
+    }
+   },
+   "rule": {
+    "ta": "உள்ளாட்சி அமைப்புகளுக்கு 73 (கிராமம்) மற்றும் 74 (நகரம்) ஆகிய இரு சட்டத் திருத்தங்கள் மிக முக்கியமானவை.",
+    "en": "Remember 73rd for rural local bodies and 74th for urban local bodies."
+   },
+   "eg": {
+    "ta": "73வது சட்டத் திருத்தம் மூலம் கிராம பஞ்சாயத்துக்களுக்கு அரசியலமைப்பு அந்தஸ்து வழங்கப்பட்டது.",
+    "en": "The 73rd Amendment granted constitutional status to Panchayats."
+   },
+   "tip": {
+    "ta": "73 கிராமம், 74 நகரம் - இந்த வரிசையை எப்போதும் மாற்றாமல் நினைவில் கொள்ளுங்கள்.",
+    "en": "Link 73 to villages and 74 to towns permanently."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q169": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இந்தியாவில் சட்டமன்றங்களைக் கொண்டுள்ள யூனியன் பிரதேசங்கள் எவை என்பதை யோசித்துப் பாருங்கள்.",
+    "en": "When asked about Union Territories with legislatures, recall the few UTs that enjoy this special status."
+   },
+   "explain": {
+    "ta": "இந்தியாவில் உள்ள யூனியன் பிரதேசங்களில் புதுச்சேரி, தில்லி மற்றும் ஜம்மு காஷ்மீர் ஆகியவை மட்டுமே மக்களால் தேர்ந்தெடுக்கப்பட்ட சொந்த சட்டமன்றத்தைக் கொண்டுள்ளன. எனவே, புதுச்சேரி என்பதே சரியான விடையாகும்.",
+    "en": "Puducherry is one of the Union Territories in India that has its own elected Legislative Assembly."
+   },
+   "why": {
+    "A": {
+     "ta": "சண்டிகர் என்பது பஞ்சாப் மற்றும் ஹரியானா மாநிலங்களின் தலைநகரமாக விளங்கும் சட்டமன்றம் இல்லாத யூனியன் பிரதேசமாகும்.",
+     "en": "Chandigarh is a Union Territory without a legislature, serving as a shared capital."
+    },
+    "B": {
+     "ta": "லட்சத்தீவுகள் என்பது அரபிக்கடலில் அமைந்துள்ள சட்டமன்றம் இல்லாத ஒரு சிறிய தீவுக் கூட்டமாகும்.",
+     "en": "Lakshadweep is an island group Union Territory without a legislature."
+    },
+    "D": {
+     "ta": "டாமன் மற்றும் டியூ (தற்போது தாத்ரா மற்றும் நகர் ஹவேலியுடன் இணைக்கப்பட்டது) சட்டமன்றம் இல்லாத யூனியன் பிரதேசமாகும்.",
+     "en": "Daman and Diu is a Union Territory without a legislative assembly."
+    }
+   },
+   "rule": {
+    "ta": "சட்டமன்றம் கொண்ட யூனியன் பிரதேசங்கள் தில்லி, புதுச்சேரி மற்றும் ஜம்மு காஷ்மீர் மட்டுமே.",
+    "en": "Delhi, Puducherry, and Jammu & Kashmir are the only Union Territories with legislatures."
+   },
+   "eg": {
+    "ta": "புதுச்சேரி யூனியன் பிரதேசம் முதலமைச்சரையும் அமைச்சரவையையும் கொண்டு இயங்குகிறது.",
+    "en": "Puducherry functions with its own Chief Minister and Council of Ministers."
+   },
+   "tip": {
+    "ta": "யூனியன் பிரதேசங்களில் சட்டமன்றம் என்றாலே தில்லி மற்றும் புதுச்சேரியை நினைவுக்குக் கொண்டு வாருங்கள்.",
+    "en": "Whenever UT legislature is asked, immediately think of Delhi and Puducherry."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q172": {
+   "hint": {
+    "ta": "அரசியலமைப்புச் சட்டத் திருத்தங்கள் மற்றும் அடிப்படை உரிமைகளில் ஏற்படும் மாற்றங்கள் பற்றிக் கேட்கும்போது எந்த ஆண்டு மற்றும் எந்தத் திருத்தம் மூலம் எந்த உரிமை மாற்றப்பட்டது என்பதைப் பாருங்கள்.",
+    "en": "Look for the year and amendment number when a specific fundamental right was changed or removed."
+   },
+   "explain": {
+    "ta": "1978ஆம் ஆண்டு கொண்டுவரப்பட்ட 44வது அரசியலமைப்புச் சட்டத் திருத்தத்தின் மூலம் சொத்துரிமையானது அடிப்படை உரிமைகள் பட்டியலிலிருந்து நீக்கப்பட்டு, பகுதி XII இன் கீழ் பிரிவு 300A-ல் ஒரு சட்ட உரிமையாக வைக்கப்பட்டது.",
+    "en": "The Right to Property was removed from fundamental rights by the 44th Amendment Act, 1978 and placed as a legal right under Article 300A."
+   },
+   "why": {
+    "A": {
+     "ta": "சமயச் சுதந்திரத்திற்கான உரிமை என்பது அரசியலமைப்புப் பிரிவு 25 முதல் 28 வரை வழங்கப்பட்டுள்ள தற்போதைய அடிப்படை உரிமையாகும்.",
+     "en": "Right to freedom of religion is a current fundamental right under Articles 25-28."
+    },
+    "B": {
+     "ta": "சுரண்டலை தடுப்பதற்கான உரிமை என்பது பிரிவு 23 மற்றும் 24-ல் கூறப்பட்டுள்ள தற்போதைய அடிப்படை உரிமையாகும்.",
+     "en": "Right against exploitation is a current fundamental right under Articles 23 and 24."
+    },
+    "D": {
+     "ta": "அரசமைப்பு வழி தீர்வுகளுக்கான உரிமை என்பது இந்திய அரசியல்துறையின் இதயம் மற்றும் ஆன்மா எனப்படும் பிரிவு 32-ல் உள்ள அடிப்படை உரிமையாகும்.",
+     "en": "Right to Constitutional remedies is a fundamental right under Article 32."
+    }
+   },
+   "rule": {
+    "ta": "44வது சட்டத் திருத்தம் 1978 மூலம் சொத்துரிமை அடிப்படை உரிமையிலிருந்து நீக்கப்பட்டு சட்ட உரிமையாக்கப்பட்டது.",
+    "en": "The Right to Property was removed from fundamental rights and made a legal right by the 44th Amendment of 1978."
+   },
+   "eg": {
+    "ta": "சொத்துரிமை தற்போது இந்திய அரசியலமைப்புச் சட்டம் பிரிவு 300A-ன் கீழ் சட்ட உரிமையாக உள்ளது.",
+    "en": "The Right to Property is now a legal right under Article 300A of the Indian Constitution."
+   },
+   "tip": {
+    "ta": "44 = 4+4 = 8, எனவே 1978 ஆம் ஆண்டு 44வது திருத்தம் என்று நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember that the 44th amendment took place in 1978."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q176": {
+   "hint": {
+    "ta": "இந்தியாவில் மொழிவாரி மாநிலங்கள் உருவாக்கம் மற்றும் ஃபசல் அலி ஆணையம் பற்றிய கேள்விகளில் முதல் மாநிலம் எது என்பதைக் கவனியுங்கள்.",
+    "en": "When asked about the creation of linguistic states in India, look for the very first state formed on this basis."
+   },
+   "explain": {
+    "ta": "தெலுங்கு பேசும் மக்களின் நீண்ட கோரிக்கையை ஏற்று, பொட்டி ஸ்ரீராமலு அவர்களின் அகிம்சை போராட்டத்திற்குப் பிறகு, 1953 அக்டோபரில் ஆந்திரா முதன்முதலில் மொழிவாரி மாநிலமாக உருவாக்கப்பட்டது.",
+    "en": "Andhra was created as the first linguistic state in October 1953 following the agitation and fast of Potti Sreeramulu."
+   },
+   "why": {
+    "A": {
+     "ta": "காஷ்மீர் சிறப்பு அந்தஸ்து பெற்ற மாநிலமாக இருந்தது, மொழிவாரி அடிப்படையில் உருவாக்கப்பட்ட முதல் மாநிலம் அல்ல.",
+     "en": "Kashmir was a state with special status, not the first linguistic state."
+    },
+    "B": {
+     "ta": "தமிழ்நாடு என்பது மதராஸ் மாகாணம் என்று அழைக்கப்பட்டு, பின்னர் 1969-ல் தமிழ்நாடு எனப் பெயர் மாற்றம் பெற்றது.",
+     "en": "Tamil Nadu was formerly Madras province and was renamed in 1969."
+    },
+    "C": {
+     "ta": "கர்நாடகா மாநிலம் மைசூர் மாகாணம் என அழைக்கப்பட்டு பின்பு கர்நாடகா எனப் பெயர் மாற்றப்பட்டது.",
+     "en": "Karnataka was formerly known as Mysore state before being renamed."
+    }
+   },
+   "rule": {
+    "ta": "சுதந்திரத்திற்குப் பிறகு மொழிவாரி அடிப்படையில் முதன்முதலில் உருவாக்கப்பட்ட மாநிலம் ஆந்திரா ஆகும்.",
+    "en": "Andhra was the first state created on a linguistic basis after independence."
+   },
+   "eg": {
+    "ta": "மொழிவாரி மாநிலங்கள் அமைப்பு ஆணையம் (ஃபசல் அலி ஆணையம்) 1953-ல் அமைக்கப்பட்டு 1955-ல் அறிக்கை சமர்ப்பித்தது.",
+    "en": "The States Reorganisation Commission (Fazal Ali Commission) was appointed in 1953."
+   },
+   "tip": {
+    "ta": "முதல் மொழிவாரி மாநிலம் என்றால் உடனே 'ஆந்திரா' (1953) நினைவுக்கு வர வேண்டும்.",
+    "en": "First linguistic state always means Andhra (1953)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q113": {
+   "hint": {
+    "ta": "1857 ஆம் ஆண்டு பெருங்கட்சியின் தலைவர்கள் மற்றும் அவர்கள் போராடிய இடங்களை சரியாகப் பொருத்த வேண்டும் என்பதைப் பாருங்கள்.",
+    "en": "Look to match the leaders of the 1857 revolt with their respective centers."
+   },
+   "explain": {
+    "ta": "டெல்லிக்கு பகதுர்ஷா II, மத்திய இந்தியாவிற்கு இராணி இலட்சுமி பாய், லக்னோவிற்கு பேகம் ஹஸ்ரத் மெஹல், கான்பூருக்கு தாந்தியா தோப்பே தலைவர்களாக இருந்தனர். எனவே 4 3 1 2 என்ற வரிசை சரியானது.",
+    "en": "Delhi was led by Bahadur Shah II, Central India by Rani Laxmi Bai, Lucknow by Begum Hazrat Mahal, and Kanpur by Tantia Tope."
+   },
+   "why": {},
+   "rule": {
+    "ta": "1857 கிளர்ச்சியின் முக்கியத் தலைவர்கள் மற்றும் அவர்கள் போராடிய பகுதிகளை எப்போதும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Always remember the key leaders of the 1857 revolt and their struggle centers."
+   },
+   "eg": {
+    "ta": "வீரப் பேரரசர் பகதுர்ஷா II டெல்லி புரட்சியின் பெயரளவிலான தலைவராக விளங்கினார்.",
+    "en": "Emperor Bahadur Shah II acted as the nominal leader of the Delhi revolt."
+   },
+   "tip": {
+    "ta": "டெல்லி-பகதுர்ஷா, லக்னோ-பேகம் என முக்கிய ஜோடிகளை மட்டும் முதலில் உறுதி செய்தால் எளிதில் விடை காணலாம்.",
+    "en": "Match the prominent pairs like Delhi-Bahadur Shah first to arrive at the answer quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q120": {
+   "hint": {
+    "ta": "பிரிட்டிஷ் இந்தியாவில் பெண்களுக்கு வாக்குரிமை எப்போது வழங்கப்பட்டது என்ற வரலாற்று ஆண்டைக் கவனியுங்கள்.",
+    "en": "Note the historical year when women were granted voting rights in British India."
+   },
+   "explain": {
+    "ta": "இந்தியாவில் பெண்களுக்கான வாக்குரிமை முதன்முதலில் மதராஸ் மாகாணத்தில் 1921 ஆம் ஆண்டு சட்டமியற்றி வழங்கப்பட்டது. எனவே இந்த ஆண்டு மிக முக்கியமான வரலாற்றுத் தகவலாகும்.",
+    "en": "Voting rights for women in British India were first granted in the Madras Presidency in the year 1921."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மதராஸ் மாகாணமே இந்தியாவில் முதன்முதலில் பெண்களுக்கு வாக்குரிமை வழங்கிய பெருமையைப் பெற்றது (1921).",
+    "en": "Madras Presidency holds the distinction of being the first to grant voting rights to women in 1921."
+   },
+   "eg": {
+    "ta": "டாக்டர் முத்துலட்சுமி ரெட்டி அவர்கள் மதராஸ் சட்டமன்றத்தின் முதல் பெண் உறுப்பினராக 1926 இல் தேர்ந்தெடுக்கப்பட்டார்.",
+    "en": "Dr. Muthulakshmi Reddy was elected as the first female member of the Madras Legislative Council in 1926."
+   },
+   "tip": {
+    "ta": "1921 மக்கள் தொகை கணக்கெடுப்பு மற்றும் பெண்களுக்கு வாக்குரிமை ஆண்டை ஒன்றாக இணைத்து நினைவில் வையுங்கள்.",
+    "en": "Remember the 1921 census and women voting rights year together."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q124": {
+   "hint": {
+    "ta": "முகலாய காலத்தில் ரூபாய் நாணயத்தை அறிமுகப்படுத்திய மன்னர் யார் என்பதைக் கவனியுங்கள்.",
+    "en": "Identify the ruler who introduced the rupee coin during the medieval period."
+   },
+   "explain": {
+    "ta": "ஷெர்ஷா சூரி தனது ஆட்சிக்காலத்தில் 'ரூபியா' என்ற வெள்ளி நாணயத்தை அறிமுகப்படுத்தினார். இவரது நாணய முறை முகலாய மற்றும் பிரிட்டிஷ் காலத்திலும் தொடர்ந்ததால் அவர் 'நவீன நாணய முறையின் தந்தை' என அழைக்கப்படுகிறார்.",
+    "en": "Sher Shah Suri introduced the silver coin 'Rupiya', earning him the title 'father of modern currency'."
+   },
+   "why": {},
+   "rule": {
+    "ta": "ஷெர்ஷா சூரி அறிமுகப்படுத்திய 'ரூபியா' என்ற வெள்ளி நாணயமே இன்றைய 'ரூபாய்' என்ற பெயருக்கு அடிப்படையாகும்.",
+    "en": "The silver coin 'Rupiya' introduced by Sher Shah Suri is the basis for the modern 'Rupee'."
+   },
+   "eg": {
+    "ta": "ஷெர்ஷா சூரி டெல்லியை ஆண்ட சூரி வம்சத்தின் மிகச்சிறந்த அரசர் ஆவார்.",
+    "en": "Sher Shah Suri was the most prominent ruler of the Suri dynasty ruling Delhi."
+   },
+   "tip": {
+    "ta": "நாணயம் என்று கேட்டாலே ஷெர்ஷா சூரி (ரூபியா நாணயம்) என்பதை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Whenever currency is mentioned in medieval history, associate it with Sher Shah Suri."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q163": {
+   "hint": {
+    "ta": "1857 பெரும் புரட்சிக்குக் காரணமான பொருளாதாரக் காரணிகளில் விவசாயிகள் எதை அதிகம் செலுத்தினர் என்பதைப் பாருங்கள்.",
+    "en": "Look at the economic burden faced by peasants just before the 1857 revolt."
+   },
+   "explain": {
+    "ta": "பிரிட்டிஷ் ஆட்சியின் கீழ் அறிமுகப்படுத்தப்பட்ட புதிய நிலவரி முறைகளால் குடியானவர்கள் கடுமையான நில வரியைச் செலுத்த வேண்டிய கட்டாயத்திற்கு ஆளானார்கள். இதுவே 1857 புரட்சிக்கு முக்கிய பொருளாதாரக் காரணமாக அமைந்தது.",
+    "en": "Under British rule, peasants suffered heavily due to oppressive land taxes, which fueled the 1857 revolt."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பிரிட்டிish நில வருவாய் கொள்கைகள் இந்திய விவசாயிகளை வறுமையிலும் கடன் தொல்லையிலும் தள்ளின.",
+    "en": "British land revenue policies pushed Indian peasants into poverty and debt."
+   },
+   "eg": {
+    "ta": "நிரந்தர நிலவரித் திட்டம் மற்றும் ரயத்துவாரி முறை ஆகியவை விவசாயிகளிடம் அதிக வரி வசூலித்தன.",
+    "en": "The Permanent Settlement and Ryotwari systems extracted heavy revenues from peasants."
+   },
+   "tip": {
+    "ta": "விவசாயிகள் என்றாலே 'நில வரி' (Land Revenue / Land Tax) என்பதை உடனடியாகப் பொருத்த வேண்டும்.",
+    "en": "Whenever peasants and 1857 are linked, the answer is always heavy land tax."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q164": {
+   "hint": {
+    "ta": "இந்தியாவில் தன்னாட்சி இயக்கத்தை (Home Rule League) பம்பாயில் தொடங்கியவர் யார் என்பதைக் கண்டறியுங்கள்.",
+    "en": "Identify the leader who started the Home Rule League in Bombay."
+   },
+   "explain": {
+    "ta": "பால கங்காதர திலகர் 1916 ஆம் ஆண்டு ஏப்ரல் மாதம் பம்பாயில் தன்னாட்சி இயக்கத்தைத் தொடங்கினார். அன்னிபெசன்ட் அம்மையார் செப்டம்பர் 1916 இல் மதராஸில் தொடங்கினார்.",
+    "en": "Bal Gangadhar Tilak started the Home Rule League in Bombay in April 1916."
+   },
+   "why": {},
+   "rule": {
+    "ta": "திலகரின் தன்னாட்சி இயக்கம் பம்பாய் மற்றும் மகாராஷ்டிரப் பகுதியில் செல்வாக்கு செலுத்தியது.",
+    "en": "Tilak's Home Rule League had its sphere of influence in Bombay and Maharashtra."
+   },
+   "eg": {
+    "ta": "திலகர் 'சுயராஜ்யம் எனது பிறப்புரிமை அதை நான் அடைந்தே தீருவேன்' என்று முழங்கினார்.",
+    "en": "Tilak declared 'Swaraj is my birthright and I shall have it'."
+   },
+   "tip": {
+    "ta": "பம்பாய் என்றால் திலகர், சென்னை (மதராஸ்) என்றால் அன்னிபெசன்ட் என நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember: Bombay means Tilak, Madras means Annie Besant for the Home Rule movement."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q165": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு சமூக சீர்திருத்தவாதியின் சிறப்புப் பெயர்கள் மற்றும் அவர்கள் தொடர்புடைய இதழ்கள் அல்லது அமைப்புகளைச் சரியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match the social reformers, titles, and journals carefully one by one."
+   },
+   "explain": {
+    "ta": "நவீன இந்தியாவின் விடிவெள்ளி என அழைக்கப்படுபவர் இராஜா ராம்மோகன் ராய் ஆவார். இந்து சமயத்தின் மார்ட்டின் லூதர் என்று சுவாமி தயானந்த சரஸ்வதி அழைக்கப்படுகிறார். அன்னி பெசன்ட் அவர்களின் பத்திரிகை நியூ இந்தியா ஆகும். சூரிய ஒளி மூலம் மின்சாரம் வழங்கும் திட்டம் இராமகிருஷ்ணா மடத்தால் செயல்படுத்தப்பட்டது.",
+    "en": "Raja Rammohan Roy is the herald of modern India, Swami Dayananda Saraswati is the Martin Luther of Hinduism, Annie Besant edited New India, and Ramakrishna Mission implemented photo voltaic lighting."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை முறையான பொருத்தத்தைத் தரவில்லை.",
+     "en": "This order does not match the correct pairs."
+    },
+    "C": {
+     "ta": "இந்த வரிசை அனைத்துப் பொருத்தங்களையும் மாற்றித் தருகிறது.",
+     "en": "This order incorrectly reverses all matches."
+    },
+    "D": {
+     "ta": "இந்த வரிசை சரியான பொருத்தப் பட்டியலைத் தரவில்லை.",
+     "en": "This order fails to provide the correct matching."
+    }
+   },
+   "rule": {
+    "ta": "சமூக சீர்திருத்தவாதிகளின் சிறப்புப் பெயர்கள் மற்றும் அவர்களின் பத்திரிகைகளைச் சமச்சீர் கல்வி நூல்களிலிருந்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the titles of social reformers and their journals from Samacheer textbooks."
+   },
+   "eg": {
+    "ta": "பெரியார் சுயமரியாதை இயக்கத்தைத் தோற்றுவித்தார்.",
+    "en": "Periyar founded the Self-Respect Movement."
+   },
+   "tip": {
+    "ta": "நவீன இந்தியாவின் விடிவெள்ளி இராஜா ராம்மோகன் ராய் என்பதை முதலில் பொருத்தி எளிதில் கண்டறியலாம்.",
+    "en": "Identify Raja Rammohan Roy as the herald of modern India first to easily eliminate wrong options."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q121": {
+   "hint": {
+    "ta": "நீதிக்கட்சி ஆட்சியின் சாதனைகளைக் கேட்கும் போது, பனகல் அமைச்சரவை உருவாக்கிய முக்கிய அமைப்புகளின் ஆண்டுகளை நினைவு கூருங்கள்.",
+    "en": "Recall the major institution-building years of the Panagal Ministry under the Justice Party rule."
+   },
+   "explain": {
+    "ta": "நீதிக்கட்சியைச் சேர்ந்த பனகல் அமைச்சரவை நிர்வாக சீர்திருத்தங்களை மேற்கொள்ள 1924 ஆம் ஆண்டு பணியாளர் தேர்வு வாரியத்தை (Staff Selection Board) தோற்றுவித்தது.",
+    "en": "The Panagal Ministry of the Justice Party established the Staff Selection Board in 1924 to bring administrative reforms."
+   },
+   "why": {
+    "A": {
+     "ta": "1916 ஆம் ஆண்டு தென்னிந்திய நல உரிமைச் சங்கம் (நீதிக்கட்சி) தொடங்கப்பட்ட ஆண்டாகும்.",
+     "en": "1916 is the year the South Indian Liberal Federation (Justice Party) was founded."
+    },
+    "B": {
+     "ta": "1920 ஆம் ஆண்டு நீதிக்கட்சி முதன்முதலில் தேர்தலில் வெற்றி பெற்று ஆட்சியைப் பிடித்த ஆண்டாகும்.",
+     "en": "1920 is the year the Justice Party won the first elections and came to power."
+    },
+    "D": {
+     "ta": "1927 ஆம் ஆண்டு பணியாளர் தேர்வு வாரியம் பின்னர் பொதுப் பணியாளர் தேர்வாணையமாக மாறிய முக்கிய மைல்கல் ஆண்டு அல்ல.",
+     "en": "1927 is not the year associated with the establishment of the Staff Selection Board."
+    }
+   },
+   "rule": {
+    "ta": "பனகல் அரசர் அமைச்சரவை நிர்வாகப் பணிகளில் அனைத்துச் சாதியினரும் பங்குபெற 1924 இல் பணியாளர் தேர்வு வாரியத்தை ஏற்படுத்தியது.",
+    "en": "The Panagal ministry created the Staff Selection Board in 1924 to ensure fair representation in public services."
+   },
+   "eg": {
+    "ta": "நீதிக்கட்சி ஆட்சியின் போது 1926 ஆம் ஆண்டு பணியாளர் தேர்வாணையம் (Public Service Commission) உருவானது.",
+    "en": "The Public Service Commission was formed in 1926 during the Justice Party rule."
+   },
+   "tip": {
+    "ta": "பனகல் = 1924 (பணியாளர் தேர்வு வாரியம்).",
+    "en": "Panagal = 1924 (Staff Selection Board)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q122": {
+   "hint": {
+    "ta": "ஒவ்வொரு சமய நூலையும் அது சார்ந்த மதத்துடன் சரியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match each religious text with its corresponding religion correctly."
+   },
+   "explain": {
+    "ta": "தேம்பாவணி கிறிஸ்தவ சமய நூலாகும் (2), சீறாப்புராணம் இஸ்லாம் சமய நூலாகும் (4), பகவற்கீதை இந்து சமய நூலாகும் (1), திரிபீடகம் புத்த சமய நூலாகும் (3). எனவே சரியான வரிசை 2 4 1 3 ஆகும்.",
+    "en": "Thembavani belongs to Christianity (2), Seerapuranam to Islam (4), Bhagvad Gita to Hinduism (1), and Tripitakas to Buddhism (3)."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை நூல்களையும் சமயங்களையும் தவறாகப் பொருத்துகிறது.",
+     "en": "This order incorrectly matches the texts and religions."
+    },
+    "B": {
+     "ta": "இந்த வரிசையும் நூல்களின் சரியான சமயப் பொருத்தத்தைத் தரவில்லை.",
+     "en": "This order also fails to provide the correct religious matching for the texts."
+    },
+    "C": {
+     "ta": "இந்தத் தெரிவு நூல்களின் உண்மையான சமயப் பிரிவுகளுடன் ஒத்துப்போகவில்லை.",
+     "en": "This option does not align with the actual religious classifications of the texts."
+    }
+   },
+   "rule": {
+    "ta": "பல்வேறு சமயங்களின் காப்பியங்கள் மற்றும் புனித நூல்களை அவற்றின் மதங்களுடன் சரியாக அடையாளம் காண வேண்டும்.",
+    "en": "Epics and sacred texts of various religions must be correctly identified with their respective faiths."
+   },
+   "eg": {
+    "ta": "சீவக சிந்தாமணி சமண சமயக் காப்பியமாகும்.",
+    "en": "Sivaka Chintamani is an epic belonging to Jainism."
+   },
+   "tip": {
+    "ta": "தேம்பாவணி (கிறிஸ்தவம் - 2), சீறாப்புராணம் (இஸ்லாம் - 4) என்பதை முதலில் கண்டறிந்தால் எளிதில் விடையைத் தேர்ந்தெடுக்கலாம்.",
+    "en": "Identify Thembavani (Christianity - 2) and Seerapuranam (Islam - 4) first to easily narrow down the answer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q152": {
+   "hint": {
+    "ta": "காமராஜர் முதலமைச்சராகப் பதவியேற்ற ஆண்டும் அவர் பதவியிலிருந்து விலகிய ஆண்டும் இடைப்பட்ட காலத்தைக் கணக்கிடுங்கள்.",
+    "en": "Calculate the period between Kamaraj taking charge as Chief Minister and stepping down."
+   },
+   "explain": {
+    "ta": "காமராஜர் 1954 ஆம் ஆண்டு தமிழ்நாட்டின் முதலமைச்சரானார் மற்றும் 1963 ஆம் ஆண்டு வரை அப்பதவியில் தொடர்ந்தார்; இதன் மூலம் அவர் சுமார் 9 ஆண்டுகள் ஆட்சி செய்தார்.",
+    "en": "Kamaraj became the Chief Minister of Tamil Nadu in 1954 and continued until 1963, serving for about 9 years."
+   },
+   "why": {
+    "A": {
+     "ta": "7 ஆண்டுகள் என்பது காமராஜரின் ஆட்சிச் காலத்தைக் குறிக்கும் சரியான கணக்கு அல்ல.",
+     "en": "7 years is an incorrect duration for Kamaraj's tenure."
+    },
+    "B": {
+     "ta": "8 ஆண்டுகள் என்பது அவரது பதவிக்காலத்தைக் காட்டிலும் குறைவான மதிப்பீடாகும்.",
+     "en": "8 years is an underestimation of his tenure."
+    },
+    "D": {
+     "ta": "10 ஆண்டுகள் என்பது அவரது உண்மையான ஆட்சிக் காலத்தை விடக் கூடுதலானது.",
+     "en": "10 years is more than his actual term in office."
+    }
+   },
+   "rule": {
+    "ta": "பெருந்தலைவர் காமராஜர் 1954 முதல் 1963 வரை ஒன்பது ஆண்டுகள் தமிழக முதலமைச்சராகத் திறம்படப் பணியாற்றினார்.",
+    "en": "Kamaraj served efficiently as the Chief Minister of Tamil Nadu for nine years from 1954 to 1963."
+   },
+   "eg": {
+    "ta": "காமராஜர் தமிழகத்தில் கல்வி வளர்ச்சிக்கு மதிய உணவுத் திட்டத்தை விரிவுபடுத்தியவர்.",
+    "en": "Kamaraj expanded the midday meal scheme for educational development in Tamil Nadu."
+   },
+   "tip": {
+    "ta": "1963 - 1954 = 9 ஆண்டுகள் என்பதை நினைவில் கொள்க.",
+    "en": "Remember 1963 minus 1954 gives 9 years."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q162": {
+   "hint": {
+    "ta": "பரதநாட்டியக் கலைஞர் மற்றும் இந்தியாவின் மிக உயர்ந்த குடிமை விருதான பத்மஸ்ரீ பெற்ற முதல் திருநங்கை யார் என்று தேடுங்கள்.",
+    "en": "Look for the renowned Bharatanatyam dancer and the first transgender to receive the Padma Shri."
+   },
+   "explain": {
+    "ta": "பிரபல பரதநாட்டியக் கலைஞர் நர்த்தகி நடராஜ் அவர்கள் கலைத் துறைக்காகப் பத்மஸ்ரீ விருது பெற்ற முதல் இந்திய திருநங்கை ஆவார்.",
+    "en": "Renowned Bharatanatyam exponent Narthaki Natraj is the first Indian transgender to receive the Padma Shri award for art."
+   },
+   "why": {
+    "A": {
+     "ta": "சத்யஸ்ரீ ஷர்மிளா தமிழ்நாட்டின் முதல் திருநங்கை வழக்கறிஞர் ஆவார்.",
+     "en": "Satyasree Sharmila is the first transgender lawyer in Tamil Nadu."
+    },
+    "B": {
+     "ta": "பிரீத்திகா யாஷினி தமிழ்நாட்டின் முதல் திருநங்கை காவல் துறை உதவி ஆய்வாளர் (SSI) ஆவார்.",
+     "en": "Prithika Yashini is the first transgender sub-inspector of police in Tamil Nadu."
+    },
+    "D": {
+     "ta": "தமிழ்ச் செல்வி திருநங்கைகளுக்கான சாதனையாளர் வரிசையில் இப்பதத்தைப் பெற்றவர் அல்ல.",
+     "en": "Tamilselvi is not the recipient of this specific national honour among transgenders."
+    }
+   },
+   "rule": {
+    "ta": "நர்த்தகி நடராஜ் கலைத் துறைக்கான இந்தியாவின் உயரிய விருதான பத்மஸ்ரீயைப் பெற்ற முதல் திருநங்கை பெருமையைப் பெற்றவர்.",
+    "en": "Narthaki Natraj holds the distinction of being the first transgender to receive the Padma Shri in the field of art."
+   },
+   "eg": {
+    "ta": "நர்த்தகி நடராஜ் மதுரை மாவட்டத்தைச் சேர்ந்த புகழ்பெற்ற பரதநாட்டியக் கலைஞர் ஆவார்.",
+    "en": "Narthaki Natraj is a famous Bharatanatyam dancer hailing from Madurai district."
+   },
+   "tip": {
+    "ta": "பத்மஸ்ரீ = நர்த்தகி நடராஜ் (கலை/நாட்டியம்).",
+    "en": "Padma Shri = Narthaki Natraj (Art/Dance)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q177": {
+   "hint": {
+    "ta": "பிற்கால சோழ மன்னர்களில் சிதம்பரம் நடராஜர் கோயிலுக்குப் பொற்கூரை வேய்ந்த மன்னர் யார் எனப் பாருங்கள்.",
+    "en": "Identify which Later Chola king covered the roof of the Chidambaram Nataraja temple with gold."
+   },
+   "explain": {
+    "ta": "பிற்கால சோழ மன்னரான முதலாம் பராந்தகன் சிதம்பரம் நடராஜர் கோயிலின் கூரைக்குப் பொன் வேய்ந்து 'பொன்வேய்ந்த சோழன்' எனப் புகழ்பெற்றார்.",
+    "en": "The Later Chola king Parantaka I covered the roof of the Chidambaram Nataraja temple with gold and earned acclaim."
+   },
+   "why": {
+    "A": {
+     "ta": "முதலாம் ராஜராஜன் தஞ்சைப் பெரிய கோயிலைக் கட்டியவர் ஆவார்.",
+     "en": "Raja Rajan I is the builder of the grand Thanjavur Big Temple."
+    },
+    "C": {
+     "ta": "முதலாம் ராஜேந்திரன் கங்கை கொண்ட சோழபுரத்தை நிர்மாணித்தவர் ஆவார்.",
+     "en": "Rajendra I is known for building Gangaikonda Cholapuram."
+    },
+    "D": {
+     "ta": "முதலாம் நரசிம்மவர்மன் மாமல்லபுரத்து மோதிலாக் கோயில்களைக் கட்டிய பல்லவ மன்னர் ஆவார்.",
+     "en": "Narasimhavarman I is a Pallava king known for monolithic rock-cut temples in Mamallapuram."
+    }
+   },
+   "rule": {
+    "ta": "முதலாம் பராந்தகன் சிதம்பரம் நடராஜர் கோவிலின் கூரைக்குத் தங்கம் வேய்ந்த வரலாற்றுச் சிறப்புமிக்க மன்னராவார்.",
+    "en": "Parantaka I is the historical king who provided the golden roof to the Nataraja temple at Chidambaram."
+   },
+   "eg": {
+    "ta": "முதலாம் பராந்தகன் தன் ஆட்சிக் காலத்தில் பல கோயில்களுக்கு நிவந்தங்களும் தங்கக் கூரைகளும் அளித்தான்.",
+    "en": "Parantaka I endowed many temples and golden roofs during his reign."
+   },
+   "tip": {
+    "ta": "சிதம்பரம் நடராஜர் பொற்கூரை = முதலாம் பராந்தகன்.",
+    "en": "Chidambaram golden roof = Parantaka I."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q178": {
+   "hint": {
+    "ta": "மதுரையைக் கைப்பற்றிய சோழ மன்னருக்கு வழங்கப்பட்ட சிறப்புப் பட்டத்தைக் கண்டறிக.",
+    "en": "Identify the special title conferred upon the Chola king who captured Madurai."
+   },
+   "explain": {
+    "ta": "முதலாம் பராந்தகன் பாண்டிய மன்னன் இரண்டாம் ராஜசிம்மனைத் தோற்கடித்து மதுரையைக் கைப்பற்றியதால் 'மதுரை கொண்டான்' என அழைக்கப்படுகிறார்.",
+    "en": "Parantaka I defeated the Pandya king and captured Madurai, earning him the title 'Madurai Kondan'."
+   },
+   "why": {
+    "A": {
+     "ta": "முதலாம் ஆதித்தியா தொண்டை மண்டலத்தைக் கைப்பற்றிய சோழ மன்னராவார்.",
+     "en": "Aditya I is the Chola king who conquered the Tondai mandalam region."
+    },
+    "B": {
+     "ta": "முதலாம் இராஜராஜன் மும்முடி சோழன் மற்றும் ஜெயங்கொண்டான் போன்ற பட்டங்களைப் பெற்றவர்.",
+     "en": "Rajarajan I held titles like Mummudi Chola and Jayamkondan."
+    },
+    "C": {
+     "ta": "இரண்டாம் இராஜராஜன் தாராசுரம் ஐராவதீஸ்வரர் கோயிலைக் கட்டியவர் ஆவார்.",
+     "en": "Raja Raja II built the Airavatesvara temple at Darasuram."
+    }
+   },
+   "rule": {
+    "ta": "மதுரையைக் கைப்பற்றிய பெருமையால் முதலாம் பராந்தகன் 'மதுரை கொண்டான்' மற்றும் 'மதுரையம் கொண்டான்' எனப் போற்றப்பட்டார்.",
+    "en": "Due to his conquest of Madurai, Parantaka I was praised with the title 'Madurai Kondan'."
+   },
+   "eg": {
+    "ta": "முதலாம் பராந்தகன் 'மதுரை கொண்டான்' மற்றும் 'பார்த்திவ சேகரன்' போன்ற பட்டங்களைக் கொண்டிருந்தான்.",
+    "en": "Parantaka I held titles such as 'Madurai Kondan' and 'Parthiva Sekharan'."
+   },
+   "tip": {
+    "ta": "மதுரை = பராந்தகன் (மதுரை கொண்டான்).",
+    "en": "Madurai = Parantaka (Madurai Kondan)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q179": {
+   "hint": {
+    "ta": "பல்லவப் பேரரசர்களின் தந்தை-மகன் வரிசையைக் கேட்கும் போது, வம்சாவளிப் பட்டியலை நினைவு கூர்ந்து விடையைக் கண்டறியுங்கள்.",
+    "en": "Recall the lineage of the Pallava emperors when asked about parent-child relationships."
+   },
+   "explain": {
+    "ta": "பிற்காலப் பல்லவ வம்சத்தை மீட்டெழுப்பிய சிம்மவிஷ்ணுவின் மகன் முதலாம் மகேந்திரவர்மன் ஆவார். இவர் சிறந்த மன்னராகவும், கலைகளின் புரவலராகவும் விளங்கினார்.",
+    "en": "Mahendravarman I was the son of Simhavishnu, who revived the Later Pallava dynasty."
+   },
+   "why": {
+    "A": {
+     "ta": "நரசிம்மவர்மன் என்பவர் முதலாம் மகேந்திரவர்மனின் மகன் ஆவார்.",
+     "en": "Narasimhavarman was the son of Mahendravarman I."
+    },
+    "C": {
+     "ta": "பரமேஸ்வரவர்மன் பல்லவ வம்சத்தின் பிற்கால மன்னர்களில் ஒருவராவார்.",
+     "en": "Parameswaravarman belongs to a later period of the Pallava dynasty."
+    },
+    "D": {
+     "ta": "நந்திவர்மன் பல்லவ வம்சத்தின் மற்றொரு பிரிவைச் சேர்ந்த மன்னராவார்.",
+     "en": "Nandivarman belonged to a different branch of the Pallava dynasty."
+    }
+   },
+   "rule": {
+    "ta": "சிம்மவிஷ்ணுவின் மகன் முதலாம் மகேந்திரவர்மன் ஆவார்.",
+    "en": "The son of Simhavishnu was Mahendravarman I."
+   },
+   "eg": {
+    "ta": "முதலாம் மகேந்திரவர்மனின் மகன் மாமல்லன் என்று அழைக்கப்படும் முதலாம் நரசிம்மவர்மன் ஆவார்.",
+    "en": "The son of Mahendravarman I was Narasimhavarman I, also known as Mamallan."
+   },
+   "tip": {
+    "ta": "சிம்மவிஷ்ணு -> மகேந்திரவர்மன் -> நரசிம்மவர்மன் என்பது பல்லவ வம்சத்தின் முக்கியமான தந்தை-மகன் வரிசையாகும்.",
+    "en": "Simhavishnu to Mahendravarman to Narasimhavarman is a key father-son sequence in the Pallava dynasty."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q150": {
+   "hint": {
+    "ta": "இப்படிக் கேட்கும்போது எந்த நகரம் மோட்டார் வாகன உற்பத்திக்கு பெயர் பெற்றது என்பதைப் பாருங்கள்.",
+    "en": "Check which city is famous for automobile manufacturing."
+   },
+   "explain": {
+    "ta": "தமிழகத்தின் தலைநகரான சென்னையில் ஏராளமான மோட்டார் வாகன தொழிற்சாலைகள் அமைந்துள்ளன. இதனால் சென்னை ஆசியாவின் டெட்ராய்ட் என அழைக்கப்படுகிறது.",
+    "en": "Chennai is called the Detroit of Asia due to the heavy concentration of automobile industries."
+   },
+   "why": {
+    "A": {
+     "ta": "ஹைதராபாத் மருந்து மற்றும் தொழில்நுட்ப துறைக்கு பெயர் பெற்றது.",
+     "en": "Hyderabad is known for its pharmaceutical and IT industries."
+    },
+    "C": {
+     "ta": "மும்பை இந்தியாவின் நிதி தலைநகரம் மற்றும் திரைப்பட துறைக்கு பெயர் பெற்றது.",
+     "en": "Mumbai is the financial capital and known for the film industry."
+    },
+    "D": {
+     "ta": "சூரத் வைரம் மற்றும் ஜவுளி தொழிலுக்கு பெயர் பெற்றது.",
+     "en": "Surat is known for diamond cutting and textile industries."
+    }
+   },
+   "rule": {
+    "ta": "மோட்டார் வாகன உற்பத்தி அதிகம் உள்ளதால் சென்னை ஆசியாவின் டெட்ராய்ட் என அழைக்கப்படுகிறது.",
+    "en": "Chennai is known as the Detroit of Asia due to high automobile production."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் டெட்ராய்ட் என்று அழைக்கப்படும் நகரம் சென்னை ஆகும்.",
+    "en": "Chennai is also called the Detroit of India."
+   },
+   "tip": {
+    "ta": "டெட்ராய்ட் என்றாலே ஆட்டோமொபைல், அதாவது சென்னை என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Detroit always links to automobiles and Chennai in exams."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q151": {
+   "hint": {
+    "ta": "இப்படிக் கல்விமுறை நிலைகளைக் கேட்கும் போது தொடக்கக் கல்வி முதல் உயர்கல்வி வரை எத்தனை பிரிவுகள் என யோசிக்கவும்.",
+    "en": "Think about the total distinct levels in the Indian education system from primary to higher education."
+   },
+   "explain": {
+    "ta": "இந்திய கல்விமுறை தொடக்கக் கல்வி, உயர் தொடக்கக் கல்வி, இடைநிலைக் கல்வி, மேல்நிலைக் கல்வி, இளங்கலை மற்றும் முதுகலை என ஆறு நிலைகளைக் கொண்டுள்ளது.",
+    "en": "The Indian education system primarily consists of six levels ranging from primary to post-graduation."
+   },
+   "why": {
+    "A": {
+     "ta": "எட்டு என்பது தவறான எண்ணிக்கை ஆகும்.",
+     "en": "Eight is an incorrect count for the levels of education."
+    },
+    "C": {
+     "ta": "நான்கு என்பது கல்வி நிலைகளின் சரியான எண்ணிக்கை அல்ல.",
+     "en": "Four is not the correct number of education levels."
+    },
+    "D": {
+     "ta": "இரண்டு என்பது மிகக் குறைவான நிலைகளைக் குறிக்கும்.",
+     "en": "Two represents too few levels for the broad system."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய கல்விமுறை அடிப்படையில் ஆறு நிலைகளைக் கொண்டுள்ளது.",
+    "en": "The Indian education system consists of primarily six levels."
+   },
+   "eg": {
+    "ta": "தொடக்கக் கல்வி மற்றும் உயர் கல்வி ஆகியவை இந்த ஆறு நிலைகளுக்குள் அடங்கும்.",
+    "en": "Primary and higher education fall under these six levels."
+   },
+   "tip": {
+    "ta": "கல்வி முறை என்றால் ஆறு நிலைகள் என்பதை நினைவில் கொள்ளவும்.",
+    "en": "Remember the magic number six for Indian education levels."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q153": {
+   "hint": {
+    "ta": "இப்படிக் கேட்பின் சட்டம் எந்த ஆண்டு மற்றும் மாதத்தில் நடைமுறைக்கு வந்தது என்பதைச் சரிபார்க்கவும்.",
+    "en": "Check the exact date when the indirect tax reform came into force."
+   },
+   "explain": {
+    "ta": "சரக்கு மற்றும் சேவை வரி அதாவது ஜி.எஸ்.டி இந்தியாவில் நாடாளுமன்ற சட்டத்தின்படி 2017 ஆம் ஆண்டு ஜூலை 1 ஆம் நாள் முதல் அமலுக்கு வந்தது.",
+    "en": "Goods and Services Tax came into effect in India on 1st July 2017."
+   },
+   "why": {
+    "A": {
+     "ta": "மார்ச் 2017 என்பது சரியான நடைமுறைக்கு வந்த தேதியல்ல.",
+     "en": "March 2017 is not the correct implementation date."
+    },
+    "C": {
+     "ta": "2016 ஆம் ஆண்டு ஜி.எஸ்.டி நடைமுறைக்கு வரவில்லை.",
+     "en": "GST did not come into effect in 2016."
+    },
+    "D": {
+     "ta": "ஜூலை 2016 என்பது தவறான ஆண்டைக் குறிக்கிறது.",
+     "en": "July 2016 mentions the wrong year."
+    }
+   },
+   "rule": {
+    "ta": "ஜி.எஸ்.டி வரி இந்தியாவில் 2017 ஜூலை 1 முதல் நடைமுறைப்படுத்தப்பட்டது.",
+    "en": "GST was implemented in India on July 1, 2017."
+   },
+   "eg": {
+    "ta": "ஜூலை 1 ஆம் நாள் இந்தியாவில் ஜி.எஸ்.டி நாளாகக் கொண்டாடப்படுகிறது.",
+    "en": "July 1 is celebrated as GST Day in India."
+   },
+   "tip": {
+    "ta": "2017 ஜூலை 1 - இந்தியப் பொருளாதாரத்தில் மிக முக்கியமான திருப்புமுனை தேதி.",
+    "en": "Memorize July 1, 2017 as the landmark GST date."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q158": {
+   "hint": {
+    "ta": "மெட்ரோ இரயில் சேவைக் கொண்ட இந்திய நகரங்களின் வரிசையில் சென்னை எத்தனையாவது இடம் என்பதைப் பார்க்கவும்.",
+    "en": "Check the chronological order of cities in India that introduced metro rail service."
+   },
+   "explain": {
+    "ta": "இந்தியாவில் மெட்ரோ இரயில் சேவையைத் தொடங்கிய நகரங்களின் வரிசையில் சென்னை ஆறாவது இடத்தைப் பெற்றுள்ளது.",
+    "en": "Chennai is the sixth Indian city to introduce metro rail service."
+   },
+   "why": {
+    "A": {
+     "ta": "முதலாவது மெட்ரோ நகரம் கொல்கத்தா ஆகும்.",
+     "en": "Kolkata is the first metro city in India."
+    },
+    "B": {
+     "ta": "ஐந்தாவது நகரம் பெங்களூரு ஆகும்.",
+     "en": "Bengaluru is the fifth metro city."
+    },
+    "D": {
+     "ta": "இரண்டாவது மெட்ரோ நகரம் தில்லி ஆகும்.",
+     "en": "Delhi is the second metro city."
+    }
+   },
+   "rule": {
+    "ta": "சென்னை மெட்ரோ இரயில் சேவை இந்தியாவில் தொடங்கப்பட்ட ஆறாவது மெட்ரோ நகரமாகும்.",
+    "en": "Chennai is the sixth city in India to get metro rail."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் முதல் மெட்ரோ இரயில் சேவை கொல்கத்தாவில் தொடங்கப்பட்டது.",
+    "en": "India's first metro rail service was started in Kolkata."
+   },
+   "tip": {
+    "ta": "சென்னை - ஆறாவது மெட்ரோ நகரம்.",
+    "en": "Chennai equals the sixth metro in India."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q159": {
+   "hint": {
+    "ta": "சுதந்திர தினத்தன்று பிரதமர் அறிவித்த தூய்மை இந்தியா திட்டத்தின் அறிவிப்புத் தேதியைக் கவனிக்கவும்.",
+    "en": "Note the Independence Day speech date when the cleanliness campaign was announced."
+   },
+   "explain": {
+    "ta": "ஸ்வச் பாரத் அபியான் எனப்படும் தூய்மை இந்தியா திட்டம் 2014 ஆம் ஆண்டு ஆகஸ்ட் 15 அன்று சுதந்திர தின உரையின்போது பிரதமர் நரேந்திர மோடியால் அறிவிக்கப்பட்டது.",
+    "en": "Swachh Bharat Abhiyan was announced by PM Narendra Modi on 15 August 2014."
+   },
+   "why": {
+    "A": {
+     "ta": "2013 அக்டோபர் 2 இல் திட்டம் அறிவிக்கப்படவில்லை.",
+     "en": "It was not announced on 2 Oct 2013."
+    },
+    "C": {
+     "ta": "2015 அக்டோபர் 2 என்பது தவறான ஆண்டைக் குறிக்கிறது.",
+     "en": "Oct 2 2015 is the wrong year."
+    },
+    "D": {
+     "ta": "2016 அக்டோபர் 2 என்பது தவறான ஆண்டாகும்.",
+     "en": "Oct 2 2016 is an incorrect year."
+    }
+   },
+   "rule": {
+    "ta": "ஸ்வச் பாரத் அபியான் 2014 ஆகஸ்ட் 15 அன்று அறிவிக்கப்பட்டு, அதே ஆண்டு அக்டோபர் 2 இல் தொடங்கப்பட்டது.",
+    "en": "Swachh Bharat Abhiyan was announced on 15 August 2014."
+   },
+   "eg": {
+    "ta": "தூய்மை இந்தியா திட்டம் மகாத்மா காந்தியின் பிறந்தநாளில் (அக்டோபர் 2, 2014) நடைமுறைக்கு வந்தது.",
+    "en": "Swachh Bharat mission was officially launched on October 2, 2014."
+   },
+   "tip": {
+    "ta": "சுதந்திர தினத்தன்று அறிவிப்பு, காந்தி ஜெயந்தியன்று தொடக்கம்.",
+    "en": "Announced on Independence Day, launched on Gandhi Jayanti."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-22"
+ "updated": "2026-11-23"
 }

@@ -749,7 +749,799 @@
     "en": "HCF is always smaller and LCM is always larger."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q101": {
+   "hint": {
+    "ta": "இரு சக்கர வாகனங்களில் பெட்ரோலுடன் எண்ணெய் சேர்ப்பதன் நோக்கங்கள் மற்றும் அதன் இயற்பியல் விளைவுகளைப் பற்றி யோசிக்கவும்.",
+    "en": "Think about the purposes and physical effects of mixing oil with petrol in two-wheelers."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, பெட்ரோலுடன் எண்ணெய் கலப்பது இயந்திர பாகங்களை உராய்விலிருந்து பாதுகாக்கிறது மற்றும் தீப்பொறிச் செருகில் கரியைப் படிய வைக்க உதவுகிறது.",
+    "en": "According to the official key, mixing oil with petrol protects engine parts from friction and allows carbon deposition on the spark plug."
+   },
+   "why": {
+    "A": {
+     "ta": "அனைத்து கூற்றுகளும் சரியல்ல, ஏனெனில் வெப்பத்தை வெளியேற்றுவது இதன் நேரடி முதன்மைச் செயல்பாடு அல்ல.",
+     "en": "All statements are not correct because removing heat is not its primary direct function."
+    },
+    "B": {
+     "ta": "வெப்பத்தை வெளியேற்றும் என்பது தவறான கூற்று என்பதால் இந்த விடை பொருந்தாது.",
+     "en": "This option is incorrect because removing heat is a wrong statement."
+    },
+    "C": {
+     "ta": "உராய்விலிருந்து பாதுகாக்கும் என்ற முதல் கூற்று விடுபட்டுள்ளது.",
+     "en": "This option misses the first statement about protecting from friction."
+    }
+   },
+   "rule": {
+    "ta": "இரு சக்கர வாகனங்களில் எண்ணெய் கலப்பது உழைப்பைக் குறைக்கவும், இயந்திர பாதுகாப்புக்கும் உதவுகிறது.",
+    "en": "Mixing oil in two-wheelers aids wear reduction and engine protection."
+   },
+   "eg": {
+    "ta": "இரண்டு பக்க மோட்டார் என்ஜின்களில் பெட்ரோல்-எண்ணெய் கலவை பயன்படுத்தப்படுகிறது.",
+    "en": "Petrol-oil mixture is used in two-stroke engines."
+   },
+   "tip": {
+    "ta": "கூற்று கேள்விகளில் ஒவ்வொரு வரியின் அறிவியல் உண்மையைச் சரிபார்க்கவும்.",
+    "en": "Verify the scientific fact of each line in statement questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q102": {
+   "hint": {
+    "ta": "உலோகங்களின் சிறப்புப் பண்புகளான உருகுநிலை, அடர்த்தி மற்றும் மின்கடத்து திறன் ஆகியவற்றை ஒப்பிட்டுப் பார்க்கவும்.",
+    "en": "Compare the special properties of metals like melting point, density, and electrical conductivity."
+   },
+   "explain": {
+    "ta": "ஆஸ்மியம் மிகக் கனமான உலோகம், லித்தியம் மிக இலேசான உலோகம், டங்ஸ்டன் அதிக உருகுநிலை கொண்டது, சில்வர் சிறந்த மின்கடத்தி ஆகும்.",
+    "en": "Osmium is the heaviest metal, lithium is the lightest, tungsten has the highest melting point, and silver is the best conductor."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த இணைப்பில் ஆஸ்மியம் மின்கடத்தி எனக் கொடுக்கப்பட்டுள்ளது தவறு.",
+     "en": "This pair incorrectly matches osmium as a conductor."
+    },
+    "C": {
+     "ta": "பொருத்தப்பட்ட வரிசை இந்த விடைக்கு எதிராக உள்ளது.",
+     "en": "The matched sequence goes against the correct properties."
+    },
+    "D": {
+     "ta": "உலோகங்களின் பண்புகள் தவறாக மாற்றிக் கொடுக்கப்பட்டுள்ளன.",
+     "en": "The properties of the metals are wrongly interchanged."
+    }
+   },
+   "rule": {
+    "ta": "ஒவ்வொரு தனிமத்தின் தனித்துவமான இயற்பியல் பண்புகளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the unique physical properties of each element."
+   },
+   "eg": {
+    "ta": "பாதரசம் ஒரு திரவ உலோகம் ஆகும்.",
+    "en": "Mercury is a liquid metal."
+   },
+   "tip": {
+    "ta": "அதிக உருகுநிலை என்றால் டங்ஸ்டனை உடனடியாகத் தேர்ந்தெடுக்கவும்.",
+    "en": "Instantly pick tungsten for the highest melting point."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q103": {
+   "hint": {
+    "ta": "மனித உடல் திரவங்கள் மற்றும் பொதுவான உணவுப் பொருட்களின் pH மதிப்புகளை நினைவுகூரவும்.",
+    "en": "Recall the pH values of human body fluids and common food items."
+   },
+   "explain": {
+    "ta": "குருதியின் pH மதிப்பு 7.3 முதல் 7.5 வரையிலும், சிறுநீர் 5.5 முதல் 7.5 வரையிலும், வினிகர் 2.4 முதல் 3.4 வரையிலும், பால் 6.5 ஆகவும் இருக்கும்.",
+    "en": "The pH of blood is 7.3-7.5, urine is 5.5-7.5, vinegar is 2.4-3.4, and milk is 6.5."
+   },
+   "why": {
+    "A": {
+     "ta": "மதிப்புகளின் வரிசை மாற்றப்பட்டுள்ளது.",
+     "en": "The sequence of values is altered."
+    },
+    "B": {
+     "ta": "சிறுநீர் மற்றும் வினிகரின் மதிப்புகள் தவறுதலாகப் பொருத்தப்பட்டுள்ளன.",
+     "en": "Urine and vinegar values are incorrectly matched."
+    },
+    "C": {
+     "ta": "பொருத்தப்பட்ட எண்கள் சரியான வரிசையைக் குறிக்கவில்லை.",
+     "en": "The matched numbers do not represent the correct order."
+    }
+   },
+   "rule": {
+    "ta": "அமிலங்கள் மற்றும் காரங்களின் pH அளவுகளைப் பட்டியலிட்டுப் படிக்க வேண்டும்.",
+    "en": "Study the pH ranges of acids and bases by listing them."
+   },
+   "eg": {
+    "ta": "தூய நீரின் pH மதிப்பு 7 ஆகும்.",
+    "en": "The pH of pure water is 7."
+   },
+   "tip": {
+    "ta": "குருதி ஒரு லேசான காரம் என்பதால் அதன் pH 7-க்கு மேல் இருக்கும்.",
+    "en": "Blood is slightly alkaline, so its pH is above 7."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q113": {
+   "hint": {
+    "ta": "விட்டமின்களின் பெயர்களையும் அவற்றின் குறைபாட்டு நோய்களையும் சரியாகப் பொருத்திப் பார்க்கவும்.",
+    "en": "Match the vitamins correctly with their deficiency diseases."
+   },
+   "explain": {
+    "ta": "விட்டமின் A குறைபாட்டால் நிக்டலோபியாவும், B1 குறைபாட்டால் பெரி-பெரியும், B6 குறைபாட்டால் பெல்லக்ராவும், B12 குறைபாட்டால் பெர்னீசியஸ் அனீமியாவும் ஏற்படுகின்றன.",
+    "en": "Vitamin A deficiency causes nictalopia, B1 causes beri-beri, B6 causes pellagra, and B12 causes pernicious anaemia."
+   },
+   "why": {
+    "B": {
+     "ta": "விட்டமின் குறைபாட்டு நோய்களின் வரிசை மாற்றப்பட்டுள்ளது.",
+     "en": "The sequence of vitamin deficiency diseases is changed."
+    },
+    "C": {
+     "ta": "பொருத்தப்பட்ட நோய்களின் வரிசை தவறானது.",
+     "en": "The sequence of matched diseases is incorrect."
+    },
+    "D": {
+     "ta": "தவறான வரிசை எண்கள் கொடுக்கப்பட்டுள்ளன.",
+     "en": "Incorrect sequence numbers are provided."
+    }
+   },
+   "rule": {
+    "ta": "விட்டமின் குறைபாட்டு நோய்களைத் தவறாமல் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember vitamin deficiency diseases without fail."
+   },
+   "eg": {
+    "ta": "விட்டமின் C குறைபாட்டால் ஸ்கார்ப் நோய் ஏற்படுகிறது.",
+    "en": "Vitamin C deficiency causes scurvy."
+   },
+   "tip": {
+    "ta": "விட்டமின் B1 என்றால் பெரி-பெரி என்பதை உடனடியாகக் கண்டறியலாம்.",
+    "en": "Vitamin B1 instantly links to beri-beri."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q114": {
+   "hint": {
+    "ta": "பசுமை இல்ல வாயுக்கள் மற்றும் அவற்றின் மூலங்களைக் கவனமாகப் பரிசீலிக்கவும்.",
+    "en": "Carefully examine greenhouse gases and their sources."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, II மற்றும் III தவறாக இணைக்கப்பட்டுள்ளன; ஏனெனில் மீத்தேன் கால்நடைகளின் செரித்தலிலும், நைட்ரஸ் ஆக்ஸைடு பண்ணை மண்ணை உழுவதிலும் தொடர்புடையவை.",
+    "en": "According to the official key, II and III are incorrectly matched because methane is related to enteric fermentation and nitrous oxide to agricultural soils."
+   },
+   "why": {
+    "A": {
+     "ta": "குளோரோபுளோரோ கார்பன் குளிர்சாதனப் பெட்டியுடன் சரியாகப் பொருத்தப்பட்டுள்ளது.",
+     "en": "Chlorofluorocarbon is correctly matched with refrigerators."
+    },
+    "B": {
+     "ta": "இந்த இணைப்புகள் இரண்டும் தவறாகக் கொடுக்கப்பட்டுள்ளதாகக் குறிப்பிடப்பட்டுள்ளது.",
+     "en": "Both these pairs are stated to be given incorrectly."
+    },
+    "D": {
+     "ta": "கார்பன் டை ஆக்ஸைடு புதை படிவ எரிபொருட்களை எரிப்பதால் உருவாகிறது என்பது சரியான இணைப்பாகும்.",
+     "en": "Carbon dioxide from burning fossil fuels is a correct pair."
+    }
+   },
+   "rule": {
+    "ta": "பசுமை இல்ல வாயுக்களின் உமிழ்வு மூலங்களை சரியாகப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Understand emission sources of greenhouse gases correctly."
+   },
+   "eg": {
+    "ta": "நெல் வயல்களில் இருந்து மீத்தேன் வாயு வெளியேறுகிறது.",
+    "en": "Methane gas is released from paddy fields."
+   },
+   "tip": {
+    "ta": "கூற்று மாற்றப்பட்ட இணைப்புகளை அடையாளம் காண மூலக்கூறு ஆதாரங்களைச் சரிபார்க்கவும்.",
+    "en": "Check source origins to identify swapped statements."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q115": {
+   "hint": {
+    "ta": "சுவாச ஈவு கேள்விகளில், காற்றில்லா சுவாசத்தில் ஆக்ஸிஜன் பயன்பாட்டைப் பற்றி யோசிக்கவும்.",
+    "en": "Think about oxygen usage in anaerobic respiration when calculating respiratory quotient."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, காற்றில்லா சுவாசத்தில் ஆக்ஸிஜன் உட்கொள்ளப்படாமல் கார்பன் டை ஆக்ஸைடு மட்டும் வெளியிடப்படுவதால் சுவாச ஈவு முடிவற்றதாக மாறுகிறது.",
+    "en": "According to the official key, the respiratory quotient is infinity in anaerobic respiration because carbon dioxide is released without oxygen uptake."
+   },
+   "why": {
+    "A": {
+     "ta": "இது காற்றில்லா சுவாசத்திற்குப் பொருந்தாது.",
+     "en": "This does not apply to anaerobic respiration."
+    },
+    "B": {
+     "ta": "இது தவறான விகித மதிப்பைக் குறிக்கிறது.",
+     "en": "This indicates an incorrect ratio value."
+    },
+    "D": {
+     "ta": "இது காற்றில்லா சுவாசத்தின் விகிதத்தைக் குறிக்கவில்லை.",
+     "en": "This does not represent the ratio of anaerobic respiration."
+    }
+   },
+   "rule": {
+    "ta": "காற்றில்லா சுவாசத்தின் சுவாச ஈவு முடிவற்றது ஆகும்.",
+    "en": "The respiratory quotient of anaerobic respiration is infinity."
+   },
+   "eg": {
+    "ta": "காற்றில்லா சுவாசத்தின் போது குளுக்கோஸ் ஆல்கஹாலாக சிதைவடைகிறது.",
+    "en": "Glucose breaks down into alcohol during anaerobic respiration."
+   },
+   "tip": {
+    "ta": "ஆக்ஸிஜன் பூஜ்ஜியமாக இருக்கும்போது சுவாச ஈவு முடிவற்றதாக மாறும்.",
+    "en": "When oxygen is zero, the respiratory quotient becomes infinity."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q129": {
+   "hint": {
+    "ta": "நடப்பு நிகழ்வுகளில் மருத்துவத் திட்டங்களின் ஆங்கிலப் பெயரின் தமிழ் மொழிபெயர்ப்பைக் கவனியுங்கள்.",
+    "en": "Notice the Tamil translation of medical scheme names in current affairs."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, IHMI என்பது இந்திய தேகநிலை மற்றும் நல மேலாண்மை தொடக்கத்தைக் குறிக்கிறது.",
+    "en": "According to the official key, IHMI stands for India Health Management Initiative."
+   },
+   "why": {
+    "A": {
+     "ta": "இது கேள்வியில் கேட்கப்பட்ட அதிகாரப்பூர்வ விடை அல்ல.",
+     "en": "This is not the official answer asked in the question."
+    },
+    "C": {
+     "ta": "இது தவறான கலைச்சொல்லாகும்.",
+     "en": "This is an incorrect terminology."
+    },
+    "D": {
+     "ta": "இது உண்மையான திட்டத்தின் விரிவாக்கம் அல்ல.",
+     "en": "This is not the expansion of the actual scheme."
+    }
+   },
+   "rule": {
+    "ta": "அரசின் புதிய மருத்துவத் திட்டங்களின் பெயர்களைத் தமிழில் சரியாகத் தெரிந்து கொள்ள வேண்டும்.",
+    "en": "Know the exact Tamil terms of new government health initiatives."
+   },
+   "eg": {
+    "ta": "தேசிய நலவாழ்வுத் திட்டம் என்பது National Health Programme ஆகும்.",
+    "en": "National Health Programme is a major government scheme."
+   },
+   "tip": {
+    "ta": "திட்டங்களின் சுருக்க எழுத்துகளுக்குரிய முழுமையான தமிழ் வடிவத்தை நினைவில் கொள்க.",
+    "en": "Remember the complete Tamil form of scheme acronyms."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q146": {
+   "hint": {
+    "ta": "கோண உந்த மாறா விதி மற்றும் சுழலும் நாற்காலி சோதனையைக் கவனியுங்கள்.",
+    "en": "Consider the law of conservation of angular momentum and the revolving chair experiment."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, சுழலும் நாற்காலியில் கைகளை மடிக்கும் போது கோணத் திசைவேகம் சுழியாகும் எனக் குறிப்பிடப்பட்டுள்ளது.",
+    "en": "According to the official key, the angular velocity becomes zero when hands are bent on a revolving chair."
+   },
+   "why": {
+    "A": {
+     "ta": "இது விடைக்குறிப்புக்கு முரணானது.",
+     "en": "This contradicts the official key."
+    },
+    "B": {
+     "ta": "இயற்பியல் விதிகளின்படி இது உண்மையாக இருந்தாலும், கொடுக்கப்பட்ட அதிகாரப்பூர்வ விடை வேறு.",
+     "en": "Though true by physics laws, the given official answer is different."
+    },
+    "D": {
+     "ta": "கைகளை மாற்றும்போது கோணத் திசைவேகம் மாறாமல் இருக்காது.",
+     "en": "Angular velocity does not remain constant when hands are moved."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் சில நேரங்களில் அதிகாரப்பூர்வ விடைக் குறிப்பே இறுதியானது.",
+    "en": "Sometimes TNPSC official key answers are final regardless of standard derivations."
+   },
+   "eg": {
+    "ta": "பனிச்சறுக்கு வீரர் கைகளை மடக்கும் போது சுழற்சி வேகம் அதிகரிக்கிறது.",
+    "en": "A figure skater increases spin speed by pulling in arms."
+   },
+   "tip": {
+    "ta": "இயற்பியல் சோதனைக் கேள்விகளில் அதிகாரப்பூர்வ விடைகளைக் கவனமாகப் பின்பற்றுக.",
+    "en": "Follow official answers carefully in physics experimental questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q147": {
+   "hint": {
+    "ta": "ஒளி ஆண்டு, வானியல் அலகு மற்றும் பார்செக் என்பவை எதைக் குறிக்கும் அளவுகள் என்பதைப் பாருங்கள்.",
+    "en": "Check what quantities light year, astronomical unit and parsec measure."
+   },
+   "explain": {
+    "ta": "ஒளி ஆண்டு என்பது தொலைவை அளவிடும் அலகே தவிர காலத்தை அளவிடும் அலகு அல்ல என்பதால் முதல் கூற்று தவறானது ஆகும்.",
+    "en": "Statement (1) is wrong because a light year is a unit of distance, not time."
+   },
+   "why": {
+    "A": {
+     "ta": "வானியல் அலகு மற்றும் பார்செக் பற்றிய கூற்றுகள் சரியானவை.",
+     "en": "Statements about astronomical unit and parsec are correct."
+    },
+    "B": {
+     "ta": "மூன்றாவது கூற்று நிறையின் அலகு எனக் கூறுவது தவறு, அதுவும் தொலைவின் அலகு.",
+     "en": "Statement 3 calling it a unit of mass is wrong, it is also for distance."
+    },
+    "C": {
+     "ta": "முதல் கூற்றும் தவறாக உள்ளதால் மூன்றாவது மட்டும் சரியாகாது.",
+     "en": "Since the first statement is also wrong, only third is not the answer."
+    }
+   },
+   "rule": {
+    "ta": "ஒளி ஆண்டு மற்றும் பார்செக் இரண்டும் வானியல் தொலைவை அளவிடும் அலகுகள் ஆகும்.",
+    "en": "Both light year and parsec are units of astronomical distance."
+   },
+   "eg": {
+    "ta": "பூமிக்கும் சூரியனுக்கும் இடையே உள்ள தொலைவு வானியல் அலகால் அளவிடப்படுகிறது.",
+    "en": "Distance between Earth and Sun is measured in astronomical units."
+   },
+   "tip": {
+    "ta": "ஆண்டு என்ற வார்த்தை வந்தால் காலத்தைக் குறிக்கும் என குழம்ப வேண்டாம், ஒளி ஆண்டு தொலைவின் அலகு.",
+    "en": "Do not confuse light year as time just because it has the word year."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q148": {
+   "hint": {
+    "ta": "வேதிப் பெயர்கள் மற்றும் வேதி வாய்ப்பாடுகளைச் சரியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match the chemical names and formulae correctly."
+   },
+   "explain": {
+    "ta": "சலவைத் தூளின் சரியான வேதி வாய்ப்பாடு CaOCl2 ஆகும், ஆனால் கொடுக்கப்பட்ட ஜோடியில் CaO எனக் கொடுக்கப்பட்டுள்ளது. எனவே அதுவே தவறான ஜோடியாகும்.",
+    "en": "The correct chemical formula for bleaching powder is CaOCl2, but given as CaO, making it the incorrect pair."
+   },
+   "why": {
+    "A": {
+     "ta": "சலவை சோடா என்பது சோடியம் கார்பனேட் ஆகும், எனவே இது சரியான ஜோடி.",
+     "en": "Washing soda is sodium carbonate, so this is a correct pair."
+    },
+    "B": {
+     "ta": "இது சலவைத் தூளுக்கான தவறான வாய்ப்பாடு என்பதால் இதுவே சரியான தேர்வாகும்.",
+     "en": "This is the incorrect formula for bleaching powder, hence this is the right choice."
+    },
+    "D": {
+     "ta": "சமையல் சோடா என்பது சோடியம் பை கார்பனேட் ஆகும், எனவே இது சரியான ஜோடி.",
+     "en": "Baking soda is sodium bicarbonate, so this is a correct pair."
+    }
+   },
+   "rule": {
+    "ta": "முக்கியமான வேதிப்பொருட்களின் பொதுப் பெயர்களையும் வாய்ப்பாடுகளையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the common names and chemical formulae of important compounds."
+   },
+   "eg": {
+    "ta": "பாரிஸ் சாந்தின் வாய்ப்பாடு கால்சியம் சல்பேட் அரை நீராற்பகுப்பு ஆகும்.",
+    "en": "Plaster of Paris formula is calcium sulphate hemihydrate."
+   },
+   "tip": {
+    "ta": "சலவை சோடாவுக்கும் சலவைத் தூளுக்கும் உள்ள வாய்ப்பாட்டு வித்தியாசத்தை மறக்காதீர்கள்.",
+    "en": "Do not forget the formula difference between washing soda and bleaching powder."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q149": {
+   "hint": {
+    "ta": "தீக்குச்சியின் தலைப்பகுதியில் உள்ள மூன்று முக்கிய வேதிப்பொருட்களை நினைவு கூருங்கள்.",
+    "en": "Recall the three main chemicals present on the head of a matchstick."
+   },
+   "explain": {
+    "ta": "தீக்குச்சியின் தலைப்பகுதியில் ஆண்டிமணி சல்பைடு, பொட்டாசியம் குளோரேட் மற்றும் கந்தகம் ஆகியவை பசை மற்றும் உப்புடன் கலந்து பயன்படுத்தப்படுகின்றன.",
+    "en": "The match head contains antimony sulphide, potassium chlorate and sulphur mixed with glue."
+   },
+   "why": {
+    "A": {
+     "ta": "இதில் ஆண்டிமணி சல்பைடு விடுபட்டுள்ளது.",
+     "en": "This option misses antimony sulphide."
+    },
+    "B": {
+     "ta": "இது தேவையான அனைத்து முக்கியப் பொருட்களையும் சரியாகக் கொண்டுள்ளது.",
+     "en": "This contains all necessary key components correctly."
+    },
+    "C": {
+     "ta": "இதில் கந்தகம் விடுபட்டுள்ளது.",
+     "en": "This option misses sulphur."
+    }
+   },
+   "rule": {
+    "ta": "தீக்குச்சியின் தலையில் ஆண்டிமணி சல்பைடு, கந்தகம் மற்றும் பொட்டாசியம் குளோரேட் உள்ளன.",
+    "en": "Match head contains antimony sulphide, sulphur and potassium chlorate."
+   },
+   "eg": {
+    "ta": "தீப்பெட்டியின் பக்கவாட்டில் சிவப்பு பாஸ்பரஸ் பூசப்பட்டிருக்கும்.",
+    "en": "Red phosphorus is coated on the side of the matchbox."
+   },
+   "tip": {
+    "ta": "தீக்குச்சி தலைக்கும் தீப்பெட்டி侧ப்புறத்திற்கும் உள்ள வேதிப்பொருள் வித்தியாசத்தை அறிக.",
+    "en": "Know the difference between chemicals on match head and matchbox side."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q156": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் அறிவியல் மற்றும் தொழில்நுட்பத் துறையில் பயன்படும் புதிய தொழில்நுட்பச் சொற்களின் நேரடிப் பொருளைப் பாருங்கள்.",
+    "en": "Look for the precise definition of technical terms in science and technology."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கைப்பேசி நுகர்வோருக்கான நெடுக்கங்காட்டி என்பதே சரியான விடை ஆகும்.",
+    "en": "According to the official TNPSC answer key, range finder for cellular consumers is the correct answer."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அறிவியல் மற்றும் தொழில்நுட்பக் கேள்விகளில் கொடுக்கப்பட்டுள்ள அதிகாரப்பூர்வ விடையை அப்படியே நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the given official answer directly for science and technology questions."
+   },
+   "eg": {
+    "ta": "5G தொழில்நுட்பம் என்பது ஐந்தாம் தலைமுறை தொலைத்தொடர்பு வலையமைப்பைக் குறிக்கிறது.",
+    "en": "5G technology refers to the fifth-generation telecommunications network."
+   },
+   "tip": {
+    "ta": "TNPSC தேர்வுகளில் சில அறிவியல் கேள்விகளுக்கு குறிப்புப் புத்தகங்களின் நேரடி விடைகளே இறுதியானது.",
+    "en": "Direct answers from reference books are final for certain science questions in TNPSC exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q159": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பாதுகாப்புத் துறையில் பயன்பாட்டை நிறுத்திய ராணுவ ஊர்திகள் அல்லது ஹெலிகாப்டர்கள் பற்றிய நடப்பு நிகழ்வுகளைப் பாருங்கள்.",
+    "en": "Look for current affairs regarding military vehicles or helicopters decommissioned by the defence sector."
+   },
+   "explain": {
+    "ta": "இந்திய விமானப் படையால் பல தசாப்தங்களாகப் பயன்படுத்தப்பட்ட Mi-8 தாக்குதல் மற்றும் பயன்பாட்டு ஹெலிகாப்டர் டிசம்பர் 17, 2017 அன்று அலுவல் ரீதியாகக் கைவிடப்பட்டது.",
+    "en": "The Mi-8 attack and utility helicopter, used by the Indian Air Force for decades, was officially decommissioned on December 17, 2017."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பாதுகாப்புத் துறை சார்ந்த முக்கிய நிகழ்வுகள் மற்றும் தேதிகளைத் தற்காலப் பொது அறிவுப் பகுதியில் கவனிக்க வேண்டும்.",
+    "en": "Note important defence-related events and dates in current general knowledge."
+   },
+   "eg": {
+    "ta": "மிக்-27 (MiG-27) போர் விமானங்கள் இந்திய விமானப் படையிலிருந்து பின்னர் சேவையிலிருந்து விலக்கிக் கொள்ளப்பட்டன.",
+    "en": "MiG-27 fighter jets were later phased out from service by the Indian Air Force."
+   },
+   "tip": {
+    "ta": "விமானப்படை மற்றும் கடற்படை சார்ந்த முக்கிய வரலாற்றுத் தேதிகள் மற்றும் நிகழ்வுகளை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember key historical dates and events related to the Air Force and Navy."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q161": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தாவர உலகத்தில் உள்ள பல்வேறு பிரிவுகளின் சிற்றினங்களின் எண்ணிக்கையை ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the number of species across different groups in the plant kingdom."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி டெரிடோபைட்டா தாவரங்கள் மிகக் குறைந்த எண்ணிக்கையிலான சிற்றினங்களைக் கொண்டுள்ளதாகக் கருதப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, Pteridophytes are considered to have a lower number of species."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சமச்சீர் தாவரவியல் பாடத்தில் தாவரத் தொகுதிகளின் சிற்றினப் பரவலைப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Understand the species distribution of plant groups in Samacheer botany."
+   },
+   "eg": {
+    "ta": "ஆஞ்சியோஸ்பெர்ம்கள் தாவர உலகில் அதிக சிற்றினங்களைக் கொண்ட தொகுதியாகும்.",
+    "en": "Angiosperms are the group with the highest number of species in the plant kingdom."
+   },
+   "tip": {
+    "ta": "அதிக மற்றும் குறைந்த சிற்றினங்கள் கொண்ட தாவரத் தொகுதிகளைத் தெளிவாக மனப்பாடம் செய்யவும்.",
+    "en": "Clearly memorize plant groups with highest and lowest species counts."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q162": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஆல்கா வகுப்புகளின் பொருளாதாரப் பயன்கள் மற்றும் அவற்றின் பயன்பாடுகளைப் பாருங்கள்.",
+    "en": "Look at the economic uses and applications of algae classes."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கிரைசோபைசி வகுப்பு ஆல்காக்கள் டைனமைட்டு தயாரிக்கப் பயன்படுகின்றன.",
+    "en": "According to the official TNPSC answer key, Chrysophyceae algae are used in dynamite manufacture."
+   },
+   "why": {},
+   "rule": {
+    "ta": "ஆல்கா வகுப்புகளின் பொருளாதார முக்கியத்துவத்தை அறிவியல் பாடத்திலிருந்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the economic importance of algae classes from science."
+   },
+   "eg": {
+    "ta": "டயட்டம்கள் (Diatoms) பூமியின் மேற்பரப்பில் படிந்து டைனமைட்டு தயாரிக்க உதவுகின்றன.",
+    "en": "Diatoms deposit on earth surfaces and help in manufacturing dynamite."
+   },
+   "tip": {
+    "ta": "ஆல்காக்களின் பெயர்களை அவற்றின் பயன்பாடுகளுடன் இணைத்து படிக்கவும்.",
+    "en": "Study the names of algae coupled with their specific uses."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q163": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் உயிரியலில் ஊட்டமுறை மற்றும் ஆற்றல் பெறும் முறைகளின் வகைகளைப் பாருங்கள்.",
+    "en": "Look at the types of nutrition and energy acquisition methods in biology."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி மனிதன் ஒரு வேதி பிற சார்பு உயிரி (Chemosynthetic heterotroph) என்று குறிப்பிடப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, man is classified as a chemosynthetic heterotroph."
+   },
+   "why": {},
+   "rule": {
+    "ta": "உயிரினங்களின் ஊட்டமுறை வகைப்பாட்டைத் தகுந்த எடுத்துக்காட்டுகளுடன் படிக்க வேண்டும்.",
+    "en": "Study the classification of organism nutrition with proper examples."
+   },
+   "eg": {
+    "ta": "பச்சைத் தாவரங்கள் ஒளிச்சேர்க்கை மூலம் தன் சார்பு ஊட்டமுறையைப் பெறுகின்றன.",
+    "en": "Green plants obtain autotrophic nutrition through photosynthesis."
+   },
+   "tip": {
+    "ta": "விலங்குகள் மற்றும் மனிதர்களின் ஊட்டமுறை வகைகளைத் தேர்வில் கவனமாகக் கையாளவும்.",
+    "en": "Carefully handle nutrition categories of animals and humans in exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q186": {
+   "hint": {
+    "ta": "முக்கியமான சுற்றுச்சூழல் நாட்களைக் கேட்கும்போது, மாத வாரியாக உள்ள உலக நாட்களை நினைவுகூர்ந்து விடையைக் கண்டறியுங்கள்.",
+    "en": "When asked about important environmental days, recall the world days month by month to find the answer."
+   },
+   "explain": {
+    "ta": "மார்ச் 21 ஆம் நாள் உலக காடுகள் தினமாகக் கொண்டாடப்படுகிறது. காடுகளின் முக்கியத்துவத்தை உணர்த்தவும், பாதுகாப்பை வலியுறுத்தவும் இந்நாள் கடைபிடிக்கப்படுகிறது.",
+    "en": "March 21 is celebrated as World Forest Day to emphasize the importance and protection of forests."
+   },
+   "why": {
+    "A": {
+     "ta": "மார்ச் 8 ஆம் நாள் சர்வதேச பெண்கள் தினமாகக் கொண்டாடப்படுகிறது.",
+     "en": "March 8 is celebrated as International Women's Day."
+    },
+    "C": {
+     "ta": "மார்ச் 22 ஆம் நாள் உலக நீர் தினமாகக் கொண்டாடப்படுகிறது.",
+     "en": "March 22 is celebrated as World Water Day."
+    },
+    "D": {
+     "ta": "மார்ச் 23 ஆம் நாள் உலக வானிலை நாளாகக் கொண்டாடப்படுகிறது.",
+     "en": "March 23 is celebrated as World Meteorological Day."
+    }
+   },
+   "rule": {
+    "ta": "சுற்றுச்சூழல் தொடர்பான முக்கிய தினங்களை அவற்றின் மாதங்களுடன் தொகுத்துப் படிப்பது தேர்வுக்கு மிக அவசியமாகும்.",
+    "en": "Studying environmentally important days grouped by their months is essential for the exam."
+   },
+   "eg": {
+    "ta": "மார்ச் 22 - உலக நீர் தினம், ஏப்ரல் 22 - உலக பூமி தினம்.",
+    "en": "March 22 - World Water Day, April 22 - World Earth Day."
+   },
+   "tip": {
+    "ta": "மார்ச் 21 காடு, மார்ச் 22 நீர், மார்ச் 23 வானிலை எனத் தொடர்ந்து வரும் நாட்களை வரிசையாக நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember the consecutive days: March 21 Forest, March 22 Water, March 23 Weather."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q104": {
+   "hint": {
+    "ta": "நடப்பு நிகழ்வுகளில் கொடுக்கப்பட்டுள்ள குறிப்பிட்ட ஆண்டு மற்றும் வாரத்தின் கருப்பொருளைக் கேட்கும்போது, அந்தந்த நிகழ்வுத் தேதிகளின் அதிகாரப்பூர்வத் தலைப்பை கவனமாகப் பார்க்கவும்.",
+    "en": "Focus on matching the exact theme with the specified global week and year in current affairs."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 2017 அக்டோபர் 4 முதல் 10 வரை கொண்டாடப்பட்ட உலக விண்வெளி வாரத்தின் கருப்பொருள் 'விண்வெளியில் புது உலகத்தினை தேடல்' என்பதாகும். இது சமைச்சீர் மற்றும் நடப்பு நிகழ்வு குறிப்புகளின் அடிப்படையில் சரியான விடையாகும்.",
+    "en": "According to the official answer key, the theme of the World Space Week celebrated in October 2017 is exploring a new world in space."
+   },
+   "why": {
+    "B": {
+     "ta": "இது பொதுவாக சர்வதேச யோகா தினத்துடன் தொடர்புடைய கருப்பொருளாகும், அக்டோபர் விண்வெளி வாரத்துடன் தொடர்புடையதல்ல.",
+     "en": "This is typically associated with the International Day of Yoga, not the October Space Week."
+    },
+    "C": {
+     "ta": "இது ஐக்கிய நாடுகள் சபையின் நிலைத்த வளர்ச்சி இலக்குகள் அல்லது உலக தண்ணீர் தினத்துடன் தொடர்புடைய கருப்பொருளாகும்.",
+     "en": "This relates to UN sustainable goals or World Water Day themes."
+    },
+    "D": {
+     "ta": "இது பொதுவாக உலக அமைதி நாள் அல்லது வேறு சில மாநாடுகளின் முழக்கமாகப் பயன்படுத்தப்படும் வாசகமாகும்.",
+     "en": "This is a general slogan often used for peace conferences."
+    }
+   },
+   "rule": {
+    "ta": "முக்கியமான உலகளாவிய வார விழாக்கள் மற்றும் அவற்றின் கருப்பொருள்களை ஆண்டின் வாரியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Important global weeks and their respective themes must be remembered year-wise."
+   },
+   "eg": {
+    "ta": "உலக விண்வெளி வாரம் ஒவ்வொரு ஆண்டும் அக்டோபர் 4 முதல் 10 வரை அனுசரிக்கப்படுகிறது.",
+    "en": "World Space Week is observed every year from October 4 to 10."
+   },
+   "tip": {
+    "ta": "விண்வெளி தொடர்பான வார விழா என்றாலே 'விண்வெளி' என்ற சொல் கருப்பொருளில் இடம்பெறும் என்பதை நினைவில் கொள்க.",
+    "en": "Look for the word space in the theme when a space week question is asked."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q105": {
+   "hint": {
+    "ta": "சர்வதேச விளையாட்டுப் போட்டிகளில் இந்திய வீராங்கனைகள் பெற்ற விருதுகள் பற்றிக் கேட்கும்போது அதிகாரப்பூர்வ விடையை மட்டுமே நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the official answer strictly for specific sports awards won by Indian athletes."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 2017-ம் ஆண்டு குவாஹாத்தியில் நடைபெற்ற உலக இளையோர் பெண்கள் குத்துச்சண்டை போட்டியில் சிறந்த வீரராக சார்ஜுபாலா தேவி பாராட்டப்பட்டதாகக் குறிப்பிடப்பட்டுள்ளது. தேர்வாணையத்தின் இறுதி விடிகளின்படி இதுவே சரியானது.",
+    "en": "According to the official TNPSC answer key, Sarjubala Devi was appreciated as the best boxer in the 2017 championship."
+   },
+   "why": {
+    "A": {
+     "ta": "இது இப்போட்டியில் வென்றறிந்த குத்துச்சண்டை வீரர்களின் பெயருடன் பொருந்தாத மற்றொருவரைக் குறிக்கும் பெயராகும்.",
+     "en": "This refers to a different individual not matching this specific award."
+    },
+    "C": {
+     "ta": "இது இப்போட்டியில் கலந்துகொண்ட மற்ற வீராங்கனைகளின் பெயர்களில் ஒன்றாகும், ஆனால் சிறந்த வீரருக்கான விருது இவருக்கு வழங்கப்படவில்லை.",
+     "en": "This is one of the other participants, not the recipient of this specific title."
+    },
+    "D": {
+     "ta": "நடப்பு நிகழ்வு குறிப்புகளில் வேறு பெயர் குறிப்பிடப்பட்டிருந்தாலும், TNPSC விடைக்குறிப்பு இவ்விருப்பத்தையே இறுதி விடிகளாக உறுதிப்படுத்தியுள்ளது.",
+     "en": "Although other notes mention a different name, the official TNPSC key finalizes this option."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் விளையாட்டு விருதுகள் தொடர்பான கேள்விகளுக்கு தேர்வாணையத்தின் அதிகாரப்பூர்வ விடையே இறுதியானது.",
+    "en": "For sports awards questions in TNPSC, the official commission key is final."
+   },
+   "eg": {
+    "ta": "மேரி கோம் போன்ற புகழ்பெற்ற இந்திய குத்துச்சண்டை வீராங்கனைகள் உலக சாம்பியன்ஷிப் போட்டிகளில் பல பதকங்களை வென்றுள்ளனர்.",
+    "en": "Famous Indian boxers like Mary Kom have won multiple medals in World Championships."
+   },
+   "tip": {
+    "ta": "குறிப்பிட்ட விளையாட்டுப் போட்டிகளில் விருது பெற்றவர்களின் பெயர்களை ஒருமுறைக்கு இருமுறை எழுதிப் பார்க்கவும்.",
+    "en": "Practice the names of award winners in specific sports tournaments thoroughly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q112": {
+   "hint": {
+    "ta": "செஸ் விளையாட்டுப் போட்டிகளில் கிராண்ட் மாஸ்டர் பட்டம் வென்ற இந்தியர்களின் பெயர்களைக் கேட்கும்போது சரியான முழுப் பெயரைக் கவனிக்கவும்.",
+    "en": "Pay attention to the full correct name when asked about Indian Grandmasters in chess."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இந்தியாவின் 46-வது கிராண்ட் மாஸ்டர் செஸ் விளையாட்டு சாம்பியன் 2017 பட்டத்தை வென்றவர் ஸ்ரீநாத் நாராயணன் ஆவார். இவரது முழுப்பெயர் மற்றும் பட்டப்பெயர் செஸ் வரலாற்றுடன் தொடர்புடையது.",
+    "en": "According to the official answer, Srinath Narayanan is India's 46th Grandmaster Chess Champion of 2017."
+   },
+   "why": {
+    "A": {
+     "ta": "இது ஸ்ரீநாத் நாராயணன் அவர்களின் பெயருடன் குழப்பத்தை ஏற்படுத்தும் வகையில் உருவாக்கப்பட்ட தவறான மாற்றாகும்.",
+     "en": "This is an incorrect variation created to confuse with the actual name."
+    },
+    "C": {
+     "ta": "இது செஸ் வீரர்களின் பெயர்களில் இல்லாத கற்பனையான அல்லது வேறு ஒருவரைக் குறிக்கும் தவறான பெயராகும்.",
+     "en": "This is an incorrect name not associated with this chess title."
+    },
+    "D": {
+     "ta": "இது ஸ்ரீநாத் நாராயணன் அவர்களின் பெயருக்கு மாற்றாகத் கொடுக்கப்பட்ட மற்றொரு தவறான தேர்வு ஆகும்.",
+     "en": "This is another incorrect alternative given for Srinath Narayanan's name."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவின் முக்கிய செஸ் கிராண்ட் மாஸ்டர்களின் வரிசை எண்களைப் பெயருடன் சேர்த்து நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the serial numbers of India's major chess grandmasters along with their names."
+   },
+   "eg": {
+    "ta": "விஸ்வநாதன் ஆனந்த் இந்தியாவின் முதல் கிராண்ட் மாஸ்டர் ஆவர்.",
+    "en": "Viswanathan Anand is India's first Grandmaster."
+   },
+   "tip": {
+    "ta": "கிராண்ட் மாஸ்டர் பெயர்களைப் படிக்கும்போது அவர்களின் குடும்பப் பெயரையும் சேர்த்து முழுமையாகப் படிக்கவும்.",
+    "en": "Read the full name including the surname while studying grandmaster titles."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q138": {
+   "hint": {
+    "ta": "மொழிகளுக்கிடையேயான உறவைக் கூறும் பழங்கால கல்வெட்டுகள் বা நூல்கள் பற்றிக் கேட்கும் போது அவற்றின் பெயர்களைச் சரியாகப் பொருத்த வேண்டும்.",
+    "en": "Match the correct ancient monument or inscription name when asked about linguistic similarities."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, பிராகூய் மொழிகளுக்கும் திராவிட மொழிகளுக்கும் இடையே உள்ள ஒற்றுமையை விளக்கும் கல்வெட்டு காஸ்பியர் (Caspiar) கல்வெட்டு ஆகும். இது திராவிட மொழிகளின் தொன்மையை வெளிப்படுத்துகிறது.",
+    "en": "According to the official answer key, the Caspiar monument depicts the similarity between Prakoy and Dravidian languages."
+   },
+   "why": {
+    "A": {
+     "ta": "இது ஒரு மொழியைக் குறிக்குமே தவிர, பிராகூய் மற்றும் திராவிட மொழிகளுக்கிடையேயான ஒற்றுமையைக் கூறும் கல்வெட்டு அல்ல.",
+     "en": "This refers to a language rather than the inscription showing Dravidian affinity."
+    },
+    "B": {
+     "ta": "இது குறிப்புகளில் வேறு ஒரு தொடர்பைக் குறிக்கப் பயன்படுத்தப்படும் சொல்லாகும், காஸ்பியர் கல்வெட்டே சரியான விடையாகும்.",
+     "en": "This is used for a different context in notes, while Caspiar is the correct answer."
+    },
+    "D": {
+     "ta": "தெலுங்கு என்பது ஒரு திராவிட மொழியாகும், கல்வெட்டின் பெயரைக் குறிப்பது அல்ல.",
+     "en": "Telugu is a Dravidian language, not the name of the monument."
+    }
+   },
+   "rule": {
+    "ta": "திராவிட மொழிகளின் வேர்களைக் கூறும் கல்வெட்டு மற்றும் வரலாற்றுச் சான்றுகளைத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Clearly remember inscriptions and historical evidence depicting Dravidian language roots."
+   },
+   "eg": {
+    "ta": "பிராகூய் மொழி பாகிஸ்தான் பகுதியில் பேசப்படும் திராவிடக் குடும்பத்தைச் சேர்ந்த மொழியாகும்.",
+    "en": "Prakui is a Dravidian family language spoken in the Pakistan region."
+   },
+   "tip": {
+    "ta": "கல்வெட்டு பெயர்களைத் திராவிட மொழிகளின் சிறப்புக் குறிப்புகளுடன் இணைத்துப் படிக்கவும்.",
+    "en": "Link inscription names with special notes on Dravidian languages."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q158": {
+   "hint": {
+    "ta": "உலகத் தமிழர் பொருளாதார மாநாடு எந்தெந்த நகரங்களில் நடைபெற்றது என்பதைக் கேட்கும் போது மாநாட்டின் வரிசை எண்ணையும் இடத்தையும் கவனிக்கவும்.",
+    "en": "Note the sequence number and location when asked about World Tamil Economic Conferences."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, நான்காவது உலகத் தமிழர் பொருளாதார மாநாடு சிங்கப்பூர் நகரில் நடைபெற்றது. இது உலகெங்கிலുമുള്ള தமிழர்களின் பொருளாதார வளர்ச்சியை ஆராய நடத்தப்பட்ட மாநாடாகும்.",
+    "en": "According to the official answer key, the Fourth World Tamil Economic Conference was held in Singapore."
+   },
+   "why": {
+    "A": {
+     "ta": "கோயம்புத்தூரில் முதல் அல்லது வேறு சில மாநாடுகள் நடைபெற்றிருக்கலாம், ஆனால் நான்காவது மாநாடு இங்கு நடைபெறவில்லை.",
+     "en": "Coimbatore might have hosted other conferences, but not the fourth one."
+    },
+    "B": {
+     "ta": "கோலாலம்பூர் மலேசியாவில் உள்ள ஒரு முக்கிய நகரமாகும், ஆனால் இது நான்காவது மாநாடு நடைபெற்ற இடம் அல்ல.",
+     "en": "Kuala Lumpur is a major city in Malaysia, but not the venue of the fourth conference."
+    },
+    "D": {
+     "ta": "டர்பன் என்பது தென்னாப்பிரிக்காவில் உள்ள நகரமாகும், இது குறிப்புகளில் வேறு மாநாட்டுடன் தொடர்புடையதாக இருக்கலாம்.",
+     "en": "Durban is a South African city which might be related to another conference in notes."
+    }
+   },
+   "rule": {
+    "ta": "உலகத் தமிழர் பொருளாதார மாநாடுகளின் வரிசை எண்களையும் நடைபெற்ற இடங்களையும் சரியாகப் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Match the sequence numbers and venues of World Tamil Economic Conferences correctly."
+   },
+   "eg": {
+    "ta": "உலகத் தமிழர் மாநாடுகள் தமிழ் மொழி மற்றும் கலாச்சாரத்தை வளர்க்க உலகளவில் நடத்தப்படுகின்றன.",
+    "en": "World Tamil Conferences are held globally to promote Tamil language and culture."
+   },
+   "tip": {
+    "ta": "மாநாடுகளின் வரிசை எண்களையும் நகரங்களையும் சுருக்கமாக எழுதி நினைவில் வைத்துக் கொள்ளவும்.",
+    "en": "Write down conference numbers and cities briefly to remember them easily."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q160": {
+   "hint": {
+    "ta": "குறிப்பிட்ட புத்தகங்கள் மற்றும் நாடகங்களை எழுதிய அல்லது வெளியிட்ட ஆசிரியர்களின் பெயர்களைக் கேட்கும்போது அவர்களின் தற்போதைய நடப்பு நிகழ்வுத் தொடர்புகளைப் பார்க்கவும்.",
+    "en": "Check current affairs connections when asked about authors of specific books or plays."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 'Dark horse and other plays' என்ற நாடகத்தை வெளியிட்டவர் கௌரி லங்கேஷ் ஆவார். இவரின் மறைவுக்குப் பின் இந்நூல் வெளியிடப்பட்டது குறிப்பிடத்தக்கது.",
+    "en": "According to the official answer key, Gauri Lankesh published the work 'Dark horse and other plays'."
+   },
+   "why": {
+    "A": {
+     "ta": "கௌரி ராம்நாராயண் இந்நூலை வெளியிடுவதில் உதவியாக இருந்திருக்கலாம், ஆனால் அதிகாரப்பூர்வ விடையின்படி கௌரி லங்கேஷ் ஆவார்.",
+     "en": "Gauri Ramnarayan might have been associated, but the official answer is Gauri Lankesh."
+    },
+    "C": {
+     "ta": "அருண் கொலாத்கர் ஆங்கில மற்றும் மராத்தி கவிஞர் ஆவார், இந்நூலுக்கும் இவருக்கும் நேரடித் தொடர்பில்லை.",
+     "en": "Arun Kolatkar is an English and Marathi poet, not directly related to this work."
+    },
+    "D": {
+     "ta": "மகேஷ் தத்தாணி இந்திய நாடக ஆசிரியராக இருந்தாலும், குறிப்பிட்ட இந்நூலை வெளியிட்டவர் இவர் அல்ல.",
+     "en": "Mahesh Dattani is a playwright, but not the one who published this specific work."
+    }
+   },
+   "rule": {
+    "ta": "புகழ்பெற்ற ஆளுதிகளின் நூல்கள் மற்றும் நாடகங்கள் தொடர்பான நடப்பு நிகழ்வுத் தகவல்களைத் தவறாமல் குறிப்பெடுத்துக் கொள்ள வேண்டும்.",
+    "en": "Note down current affairs information regarding books and plays of prominent personalities."
+   },
+   "eg": {
+    "ta": "சமூக செயற்பாட்டாளர்கள் எழுதிய நூல்கள் போட்டித் தேர்வுகளில் அடிக்கடி கேட்கப்படுகின்றன.",
+    "en": "Books written by social activists are frequently asked in competitive exams."
+   },
+   "tip": {
+    "ta": "நூல்களின் பெயர்களை ஆசிரியர்களின் பெயர்களுடன் சேர்த்து மனப்பாடம் செய்ய வேண்டும்.",
+    "en": "Memorize book names along with the authors' names."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-22"
+ "updated": "2026-11-23"
 }
