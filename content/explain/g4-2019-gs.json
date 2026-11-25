@@ -2738,7 +2738,155 @@
     "en": "Announced on Independence Day, launched on Gandhi Jayanti."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q111": {
+   "hint": {
+    "ta": "இந்தியாவின் கிழக்கு மற்றும் மேற்கு கடற்கரைகளில் அமைந்துள்ள முக்கிய துறைமுகங்களின் மாநிலங்களை நினைவில் கொள்ளுங்கள்.",
+    "en": "Recall the states where the major ports of India's east and west coasts are located."
+   },
+   "explain": {
+    "ta": "கண்ட்லா துறைமுகம் இந்தியாவின் மேற்கு கடற்கரையில் குஜராத் மாநிலத்தில் அமைந்துள்ள ஒரு முக்கிய துறைமுகம் ஆகும். எனவே மேற்கு கடற்கரை துறைமுகம் என்ற கேள்விக்கு இதுவே சரியான விடை.",
+    "en": "Kandla port is a major port located on the west coast of India in Gujarat."
+   },
+   "why": {
+    "B": {
+     "ta": "சென்னை துறைமுகம் இந்தியாவின் கிழக்கு கடற்கரையில் அமைந்துள்ள ஒரு முக்கிய செயற்கைத் துறைமுகம் ஆகும்.",
+     "en": "Chennai port is a major artificial port located on the east coast of India."
+    },
+    "C": {
+     "ta": "பாரதீப் துறைமுகம் ஒடிசா மாநிலத்தில் கிழக்கு கடற்கரையில் அமைந்துள்ளது.",
+     "en": "Paradip port is located on the east coast in the state of Odisha."
+    },
+    "D": {
+     "ta": "கொல்கத்தா துறைமுகம் கிழக்கு கடற்கரையில் ஹூக்லி நதிக்கரையில் அமைந்துள்ள ஒரு ஆற்றுத் துறைமுகம் ஆகும்.",
+     "en": "Kolkata port is a riverine port located on the east coast along the Hooghly River."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவின் மேற்கு கடற்கரை துறைமுகங்கள்: கண்ட்லா, மும்பை, ஜவஹர்லால் நேரு (நவாஷேவா), மோர்முகगाव், மங்களூரு மற்றும் கொச்சி.",
+    "en": "West coast ports of India include Kandla, Mumbai, JNPT, Mormugao, Mangalore, and Kochi."
+   },
+   "eg": {
+    "ta": "மும்பை துறைமுகம் இந்தியாவின் மேற்கு கடற்கரையில் உள்ள மிகப்பெரிய இயற்கை துறைமுகம் ஆகும்.",
+    "en": "Mumbai port is the largest natural port on the west coast of India."
+   },
+   "tip": {
+    "ta": "மேற்கு கடற்கரைக்கு குஜராத் (கண்ட்லா) முதல் கேரளா (கொச்சி) வரை உள்ள துறைமுகங்களை வரிசையாகப் படியுங்கள்.",
+    "en": "Memorize the west coast ports in order from Gujarat (Kandla) to Kerala (Kochi)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q119": {
+   "hint": {
+    "ta": "அடிப்படைக் உரிமைகள் எந்தெந்த விதிகளின் கீழ் வருகின்றன என்பதைச் சமத்துவ உரிமை, சுதந்திர உரிமை என்ற வரிசையில் ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Match each fundamental right with its corresponding articles in the constitution."
+   },
+   "explain": {
+    "ta": "சமத்துவ உரிமை விதிகள் 14-18 வரையும், சுதந்திர உரிமை விதிகள் 19-22 வரையும், அரசியலமைப்பிற்குட்பட்டு தீர்வு காணும் உரிமை விதி 32-ம், சமய சுதந்திர உரிமை விதிகள் 25-28 வரையும் குறிப்பிடப்பட்டுள்ளன.",
+    "en": "Right to equality corresponds to Articles 14-18, freedom to Articles 19-22, constitutional remedies to Article 32, and freedom of religion to Articles 25-28."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்த வரிசை முறையானது அடிப்படை உரிமைகளின் சரியான விதி எண்களுடன் பொருந்தவில்லை.",
+     "en": "This order does not match the correct article numbers of the fundamental rights."
+    },
+    "C": {
+     "ta": "கொடுக்கப்பட்டுள்ள உரிமைகளுக்கும் விதிகளுக்கும் இடையில் தவறான இணைbs முறை கொடுக்கப்பட்டுள்ளது.",
+     "en": "The matching sequence provided here is incorrect."
+    },
+    "D": {
+     "ta": "இந்த வரிசையும் அடிப்படை உரிமைகளின் சரியான விதிகளைத் সঠিকভাবে சுட்டவில்லை.",
+     "en": "This sequence also fails to correctly point out the right articles for the fundamental rights."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய அரசியலமைப்பின் பகுதி III-ல் உள்ள அடிப்படை உரிமைகள் மற்றும் அவற்றுக்கான விதிகளை வரிசையாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the fundamental rights under Part III of the Indian Constitution and their respective articles."
+   },
+   "eg": {
+    "ta": "சுரண்டலுக்கெதிரான உரிமை விதிகள் 23 மற்றும் 24-ல் கூறப்பட்டுள்ளது.",
+    "en": "Right against exploitation is mentioned under Articles 23 and 24."
+   },
+   "tip": {
+    "ta": "சமத்துவம் 14-18, சுதந்திரம் 19-22, தீர்வு 32 எனத் தனித்தனியாகப் பிரித்து மனப்பாடம் செய்யவும்.",
+    "en": "Memorize the articles group by group like equality 14-18, freedom 19-22."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q170": {
+   "hint": {
+    "ta": "இந்திய நாடாளுமன்றத்தின் கீழ் அவையான மக்களவைக்கு மக்களால் நேரடியாகத் தேர்ந்தெடுக்கப்படும் உறுப்பினர்களின் எண்ணிக்கையைக் கண்டறியவும்.",
+    "en": "Find the number of members directly elected by the people to the Lok Sabha, the lower house of the Indian Parliament."
+   },
+   "explain": {
+    "ta": "இந்திய மக்களவையின் மொத்த பலம் முன்பு 545 ஆக இருந்தது. தற்போது மக்களால் நேரடியாகத் தேர்ந்தெடுக்கப்படும் உறுப்பினர்களின் எண்ணிக்கை 543 ஆக உள்ளது.",
+    "en": "The total strength of the Lok Sabha was previously 545, and currently 543 members are directly elected by the people."
+   },
+   "why": {
+    "A": {
+     "ta": "453 என்பது மக்களவை உறுப்பினர் எண்ணிக்கையைக் குறிக்காத தவறான எண் ஆகும்.",
+     "en": "453 is an incorrect number and does not represent the Lok Sabha member count."
+    },
+    "B": {
+     "ta": "354 என்பது மக்களவை உறுப்பினர் எண்ணிக்கையுடன் எந்த வகையிலும் பொருந்தாத எண் ஆகும்.",
+     "en": "354 is an incorrect figure not related to Lok Sabha strength."
+    },
+    "D": {
+     "ta": "545 என்பது நியமன உறுப்பினர்கள் மற்றும் மொத்த உறுப்பினர்களின் பழைய எண்ணிக்கையைக் குறிக்கும், தற்போதைய நேரடித் தேர்தல் எண்ணிக்கை அல்ல.",
+     "en": "545 represents the old total strength including nominated members, not the current directly elected count."
+    }
+   },
+   "rule": {
+    "ta": "மக்களவை உறுப்பினர்களின் நேரடித் தேர்தல் எண்ணிக்கை 543 ஆகும்.",
+    "en": "The number of directly elected members to the Lok Sabha is 543."
+   },
+   "eg": {
+    "ta": "மாநிலங்களவைக்கு மறைமுகமாகத் தேர்ந்தெடுக்கப்படும் அதிகபட்ச உறுப்பினர்களின் எண்ணிக்கை 238 ஆகும்.",
+    "en": "The maximum number of indirectly elected members to the Rajya Sabha is 238."
+   },
+   "tip": {
+    "ta": "543 மற்றும் 545 ஆகிய எண்களின் மாற்றத்தை அரசியலமைப்புத் திருத்தங்களின்படி நினைவில் கொள்ளவும்.",
+    "en": "Remember the shift between 543 and 545 members according to constitutional changes."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2019-GS-q123": {
+   "hint": {
+    "ta": "சிந்து சமவெளி நாகரிகத்தின் முக்கிய நகரங்கள் கண்டுபிடிக்கப்பட்ட ஆண்டுகள் மற்றும் அவற்றை கண்டறிந்த தொல்லியல் அறிஞர்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the discovery years and archaeologists of major Indus Valley Civilization sites."
+   },
+   "explain": {
+    "ta": "ஆர்.டி. பானர்ஜி அவர்கள் 1922 ஆம் ஆண்டு மொஹஞ்சதாரோ நகரத்தை கண்டறிந்தார்கள். இது சிந்து சமவெளி நாகரிகத்தின் மிகப்பெரிய நகரங்களில் ஒன்றாகும்.",
+    "en": "R.D. Bannerji discovered Mohenjadaro in 1922, which is one of the largest cities of the Indus Valley Civilization."
+   },
+   "why": {
+    "B": {
+     "ta": "ஹரப்பா நகரம் 1921 ஆம் ஆண்டு தயாராம் சாகனி என்பவரால் கண்டறியப்பட்டது.",
+     "en": "Harappa was discovered by Daya Ram Sahni in 1921."
+    },
+    "C": {
+     "ta": "லோத்தல் நகரம் எஸ்.ஆர். ராவ் என்பவரால் குஜராத்தில் கண்டறியப்பட்ட துறைமுகமாகும்.",
+     "en": "Lothal was discovered by S.R. Rao in Gujarat as a port city."
+    },
+    "D": {
+     "ta": "கலிபங்கன் நகரம் ராஜஸ்தானில் ககார் ஆற்றின் கரையில் அமலானந்த் கோஷ் என்பவரால் கண்டறியப்பட்டது.",
+     "en": "Kalibangan was discovered in Rajasthan by Amalanand Ghosh."
+    }
+   },
+   "rule": {
+    "ta": "ஹரப்பா 1921 (தயாராம் சாகனி) மற்றும் மொஹஞ்சதாரோ 1922 (ஆர்.டி. பானர்ஜி) என்பதை எப்போதும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Always remember Harappa in 1921 (Daya Ram Sahni) and Mohenjadaro in 1922 (R.D. Bannerji)."
+   },
+   "eg": {
+    "ta": "தயாராம் சாகனி அவர்களால் 1921 இல் கண்டறியப்பட்ட நகரம் ஹரப்பா ஆகும்.",
+    "en": "Harappa was discovered in 1921 by Daya Ram Sahni."
+   },
+   "tip": {
+    "ta": "ஹ(1921) ர(1921) - மொ(1922) பா(1922) என வரிசைப்படுத்தி படிக்கலாம்.",
+    "en": "Memorize chronologically: Harappa in 1921 and Mohenjadaro in 1922."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-23"
+ "updated": "2026-11-25"
 }

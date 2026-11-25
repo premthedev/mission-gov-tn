@@ -3250,7 +3250,343 @@
     "en": "Words with prefixes like thadu or thal usually indicate urichol thodar."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q017": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மொழிக் குடும்பங்களின் பெயர்களையும், அதன்கீழ் வரும் மொழிகளையும் சரியாக அடையாளம் காண வேண்டும்.",
+    "en": "Check the classification of regional Dravidian language families."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி குரூக், மால்தோ, பிராகுயி என்பன மேலை நாட்டு மொழிகள் எனக் குறிப்பிடப்பட்டுள்ளது. ஆனால் உண்மையில் இவை வடதிராவிட மொழிகள் ஆகும்.",
+    "en": "According to the official answer key, these are classified under Western languages."
+   },
+   "why": {
+    "A": {
+     "ta": "தமிழ், மலையாளம் போன்ற மொழிகள் தென் திராவிட மொழிகள் ஆகும்.",
+     "en": "Tamil and Malayalam belong to South Dravidian."
+    },
+    "B": {
+     "ta": "தெலுங்கு போன்ற மொழிகள் நடுத்திராவிட மொழிகள் ஆகும்.",
+     "en": "Telugu belongs to Central Dravidian."
+    },
+    "C": {
+     "ta": "குரூக், மால்தோ, பிராகுயி ஆகியன வடதிராவிட மொழிகள் ஆகும்.",
+     "en": "Kurukh, Malto, and Brahui are actually North Dravidian languages."
+    }
+   },
+   "rule": {
+    "ta": "திராவிட மொழிகள் தென், நடு, வட திராவிட என மூன்று பிரிவுகளாகப் பிரிக்கப்பட்டுள்ளன.",
+    "en": "Dravidian languages are divided into South, Central, and North branches."
+   },
+   "eg": {
+    "ta": "தென் திராவிட மொழிக்கு எடுத்துக்காட்டு தமிழ், மலையாளம்.",
+    "en": "Tamil and Malayalam are examples of South Dravidian."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடை எதுவோ அதையே தேர்வுக்கு நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the official key for exam purposes."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q018": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சமூக நீதி மற்றும் சமத்துவம் பற்றிய தலைவர்களின் புகழ்பெற்ற வரிகளை கவனிக்க வேண்டும்.",
+    "en": "Identify the social reformer who made this famous statement on democracy and society."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இக்கூற்றைக் கூறியவர் திரு.வி.க. எனக் குறிப்பிடப்பட்டுள்ளது. ஆனால் இக்கூற்று அண்ணல் அம்பேத்கருடையது ஆகும்.",
+    "en": "According to the official key, Thiru.Vi.Ka. is given, though it is Ambedkar's quote."
+   },
+   "why": {
+    "A": {
+     "ta": "பெரியார் சுயமரியாதை மற்றும் பெண் விடுதலைக்காகப் பாடுபட்டவர்.",
+     "en": "Periyar fought for self-respect and women's liberation."
+    },
+    "B": {
+     "ta": "சுதந்திரம், சமத்துவம், சகோதரத்துவம் ஆகியவை அண்ணல் அம்பேத்கரின் புகழ்பெற்ற கருத்து ஆகும்.",
+     "en": "Liberty, equality, and fraternity is actually Ambedkar's core principle."
+    },
+    "C": {
+     "ta": "காந்தியடிகள் கிராம சுயாட்சி மற்றும் அகிம்சையைப் போற்றியவர்.",
+     "en": "Gandhi advocated village swaraj and non-violence."
+    }
+   },
+   "rule": {
+    "ta": "அண்ணல் அம்பேத்கர் இந்திய அரசியலமைப்புச் சட்டத்தின் தந்தை மற்றும் சமூக நீதிப் போராளி ஆவார்.",
+    "en": "Dr. B.R. Ambedkar is the architect of the Indian Constitution."
+   },
+   "eg": {
+    "ta": "சமத்துவம் மற்றும் சுதந்திரம் பற்றிய மேற்கோள்கள் பெரும்பாலும் அம்பேத்கரைக் குறிக்கும்.",
+    "en": "Quotes on liberty and equality are typically associated with Ambedkar."
+   },
+   "tip": {
+    "ta": "தேர்வு ஆணைய விடைப்படி திரு.வி.க. என்பதை நினைவில் கொள்ளவும்.",
+    "en": "Stick to the official key for this specific question."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q038": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சங்க இலக்கியங்களில் வெளிநாட்டு வணிகர்களைக் குறிக்கும் சொற்களைப் பாருங்கள்.",
+    "en": "Look for the ancient Tamil term used for foreign traders."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'யவனர்' என்போர் பிரெஞ்சுக்காரர், அமெரிக்கர் எனக் குறிப்பிடப்பட்டுள்ளது. ஆனால் சங்க இலக்கியத்தில் கிரேக்கர்களும் உரோமானியர்களும் யவனர் என அழைக்கப்பட்டனர்.",
+    "en": "The official key lists French and Americans, whereas historically they were Greeks and Romans."
+   },
+   "why": {
+    "A": {
+     "ta": "ஆங்கிலேயரும் போர்ச்சுக்கீசியரும் பிற்காலத்தில் வணிகத்திற்காக இந்தியா வந்தவர்கள்.",
+     "en": "British and Portuguese came to India later."
+    },
+    "B": {
+     "ta": "கிரேக்க மற்றும் உரோமானிய வணிகர்களே பழந்தமிழர்களால் யவனர் என அழைக்கப்பட்டனர்.",
+     "en": "Greeks and Romans were historically known as Yavanas."
+    }
+   },
+   "rule": {
+    "ta": "பழந்தமிழ் இலக்கியங்களில் மேற்கு நாடுகளிலிருந்து வந்த வணிகர்கள் யவனர் என அழைக்கப்பட்டனர்.",
+    "en": "Traders from Western countries were called Yavanas in ancient Tamil literature."
+   },
+   "eg": {
+    "ta": "முசிறி துறைமுகத்திற்கு யவனர்களின் கப்பல்கள் வந்ததாக அகநானூறு கூறுகிறது.",
+    "en": "Akananuru mentions Yavana ships coming to Muziri."
+   },
+   "tip": {
+    "ta": "தேர்வு விடைக்குறிப்புத் தவறுதலாக இருப்பினும், மதிப்பெண் பெற அதிகாரப்பூர்வ விடையைப் பின்பற்றுக.",
+    "en": "Follow the official key for scoring purposes."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q040": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தேசியத் தலைவர்களுக்கு பாரத ரத்னா வழங்கப்பட்ட ஆண்டுகளை நினைவுகூருங்கள்.",
+    "en": "Identify the year Bharat Ratna was awarded to Dr. B.R. Ambedkar."
+   },
+   "explain": {
+    "ta": "அண்ணல் அம்பேத்கருக்கு இந்திய அரசு நாட்டின் உயரிய விருதான 'பாரத ரத்னா' (இந்திய மாமணி) விருதை 1990 ஆம் ஆண்டில் வழங்கியது.",
+    "en": "The Government of India awarded the Bharat Ratna to Ambedkar in 1990."
+   },
+   "why": {
+    "A": {
+     "ta": "1991 ஆம் ஆண்டு ராஜீவ் காந்தி மற்றும் வல்லபாய் படேல் ஆகியோருக்கு பாரத ரத்னா வழங்கப்பட்டது.",
+     "en": "Bharat Ratna was awarded to others in 1991."
+    },
+    "C": {
+     "ta": "1993 ஆம் ஆண்டில் பாரத ரத்னா விருது யாருக்கும் வழங்கப்படவில்லை.",
+     "en": "No Bharat Ratna was awarded in 1993."
+    },
+    "D": {
+     "ta": "1992 ஆம் ஆண்டு ஜே.ஆர்.டி. டாட்டா, மௌலானா ஆசாத் ஆகியோருக்கு வழங்கப்பட்டது.",
+     "en": "Bharat Ratna was given to J.R.D. Tata and others in 1992."
+    }
+   },
+   "rule": {
+    "ta": "பாரத ரத்னா இந்தியாவின் மிக உயர்ந்த உளவு மற்றும் குடிமை விருதாகும்.",
+    "en": "Bharat Ratna is India's highest civilian honor."
+   },
+   "eg": {
+    "ta": "அம்பேத்கரின் நூற்றாண்டு விழாவையொட்டி 1990 இல் இவ்விருது வழங்கப்பட்டது.",
+    "en": "It was awarded in 1990 during his birth centenary year."
+   },
+   "tip": {
+    "ta": "1990 - அம்பேத்கர் பாரத ரத்னா பெற்ற ஆண்டு.",
+    "en": "1990 is the year of Ambedkar's Bharat Ratna."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q046": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ்நாட்டின் முக்கிய அகழ்வாராய்ச்சித் தலங்களையும் அங்கு கிடைத்த தொல்பொருட்களையும் பாருங்கள்.",
+    "en": "Identify the excavation site famous for urn burials."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி பெரணம்மல்லூரில் முதுமக்கள் தாழிகள் கண்டுபிடிக்கப்பட்டதாகக் குறிப்பிடப்பட்டுள்ளது. ஆனால் ஆதிச்சநல்லூர் அகழ்வாய்வில் தான் முதுமக்கள் தாழிகள் பெருமளவில் கண்டெடுக்கப்பட்டன.",
+    "en": "The official key points to Peranamallur, while Adichanallur is famous for urn burials."
+   },
+   "why": {
+    "A": {
+     "ta": "தச்சநல்லூர் திருநெல்வேலிப் பகுதியில் உள்ள மற்றொரு தொல்லியல் தளம் ஆகும்.",
+     "en": "Thachanallur is another archaeological site."
+    },
+    "B": {
+     "ta": "ஆதிச்சநல்லூர் முதுமக்கள் தாழிகள் மற்றும் தொல்பொருட்கள் கண்டெடுக்கப்பட்ட புகழ்பெற்ற இடமாகும்.",
+     "en": "Adichanallur is the most famous site for urn burials."
+    },
+    "C": {
+     "ta": "பெரவள்ளூர் என்பது சென்னைக்கு அருகில் உள்ள பகுதியாகும்.",
+     "en": "Peravallur is a locality in Chennai."
+    }
+   },
+   "rule": {
+    "ta": "முதுமக்கள் தாழிகள் என்பது இறந்தவர்களைப் புதைக்கப் பயன்படுத்தப்பட்ட பெரிய மண்பாண்டங்கள் ஆகும்.",
+    "en": "Urn burials were large earthenware pots used for burying the dead."
+   },
+   "eg": {
+    "ta": "ஆதிச்சநல்லூர் தூத்துக்குடி மாவட்டத்தில் தாமிரபரணி ஆற்றங்கரையில் அமைந்துள்ளது.",
+    "en": "Adichanallur is located on the banks of the Tamirabarani river."
+   },
+   "tip": {
+    "ta": "தேர்வு ஆணைக்குழுவின் அதிகாரப்பூர்வ விடையையே கருத்தில் கொள்ள வேண்டும்.",
+    "en": "Follow the official key for exam evaluation."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q091": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் காந்தியடிகள் எழுதிய நூல்களையும் அதில் அவர் பாராட்டிய தலைவர்களையும் கவனியுங்கள்.",
+    "en": "Identify the book where Gandhi praised Valliammai."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 'டிஸ்கவரி ஆப் இந்தியா' நூலில் வள்ளியம்மையின் பெயர் நிலைத்து நிற்கும் என காந்தியடிகள் கூறியதாகத் தரப்பட்டுள்ளது. ஆனால் இந்நூல் ஜவஹர்லால் நேருவால் எழுதப்பட்டது.",
+    "en": "The official key cites Discovery of India, which was actually written by Nehru."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்தியன் ஒப்பியினியன் என்பது காந்தியடிகள் தென்னாப்பிரிக்காவில் நடத்திய இதழாகும்.",
+     "en": "Indian Opinion was a journal run by Gandhi in South Africa."
+    },
+    "C": {
+     "ta": "காந்தியடிகள் எழுதிய 'தென்னாப்பிரிக்கச் சத்தியாக்கிரகம்' நூலில்தான் வள்ளியம்மையின் தியாகத்தைப் புகழ்ந்து எழுதியுள்ளார்.",
+     "en": "Gandhi praised Valliammai in his book 'Satyagraha in South Africa'."
+    },
+    "D": {
+     "ta": "யங் இந்தியா என்பது காந்தியடிகள் வெளியிட்ட ஆங்கில வார இதழாகும்.",
+     "en": "Young India was an English weekly published by Gandhi."
+    }
+   },
+   "rule": {
+    "ta": "காந்தியடிகள் தென்னாப்பிரிக்கத் தமிழ்ப் பெண் வள்ளியம்மையின் வீரத்தைப் பாராட்டியுள்ளார்.",
+    "en": "Mahatma Gandhi praised the bravery of South African Tamil woman Valliammai."
+   },
+   "eg": {
+    "ta": "வள்ளியம்மை தென்னாப்பிரிக்காவில் காந்தியடிகளின் சத்தியாக்கிரகப் போராட்டத்தில் கலந்துகொண்டவர்.",
+    "en": "Valliammai participated in Gandhi's Satyagraha in South Africa."
+   },
+   "tip": {
+    "ta": "தேர்வு விடைக்குறிப்பில் உள்ளவாறே நினைவில் கொள்ளவும்.",
+    "en": "Remember the official key for the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q096": {
+   "hint": {
+    "ta": "இக்கேள்வியில் குறிப்பிடப்படும் சிறப்புப் பெயருக்குரிய ஆளுமையைச் சமச்சீர் கல்வித் தரவுகளின் அடிப்படையில் கவனிக்கவும்.",
+    "en": "Consider the personality referred to by this honorific title based on Samacheer Kalvi data."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இக்கேள்விக்கு அம்பேத்கர் என்பதே சரியான விடையாகக் கொள்ளப்பட்டுள்ளது. தென்னிந்தியச் சமூக சீர்திருத்தத்தின் தந்தை என்ற குறிப்பு இவரை மையப்படுத்தியே இத்தேர்வில் கேட்கப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC key, Ambedkar is considered the correct answer for this question."
+   },
+   "why": {
+    "A": {
+     "ta": "பெரியார் சுயமரியாதை இயக்கத்தைத் தோற்றுவித்தவர் மற்றும் தந்தை பெரியார் என்று அழைக்கப்படுபவர்.",
+     "en": "Periyar is the founder of the Self-Respect Movement and known as Thanthai Periyar."
+    },
+    "C": {
+     "ta": "அயோத்திதாசப் பண்டிதர் சாதிভেদ மற்றும் Untouchability-க்கு எதிராகப் போராடிய திராவிட இயக்கத்தின் முன்னோடி ஆவார்.",
+     "en": "Ayothee Thassar is a pioneer of the Dravidian movement who fought against caste discrimination."
+    },
+    "D": {
+     "ta": "இராமலிங்க அடிகள் (வள்ளலார்) சமரச சுத்த சன்மார்க்க சத்திய சங்கத்தை நிறுவிய ஆன்மீகச் சீர்திருத்தவாதி ஆவார்.",
+     "en": "Ramalinga Adigal is a spiritual reformer who founded the Samarasa Suddha Sanmarga Satya Sangam."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் சில நேரங்களில் அதிகாரப்பூர்வ விடைக்குறிப்புக்கேற்ப சிறப்புப் பெயர்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Memorize the honorific titles according to the official key in TNPSC exams."
+   },
+   "eg": {
+    "ta": "இந்தியச் சமூக சீர்திருத்தத்தின் தந்தை என ராஜாராம் மோகன்ராய் அழைக்கப்படுகிறார்.",
+    "en": "Raja Ram Mohan Roy is called the father of Indian social reform."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பு மாறுபட்டாலும் தேர்வில் மதிப்பெண் பெற அப்பட்டியலை அப்படியே நினைவில் வையுங்கள்.",
+    "en": "Memorize the official answer list as given to secure marks in the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q097": {
+   "hint": {
+    "ta": "தமிழ் நாடக உலகின் முன்னோடியான பம்பல் சம்பந்த முதலியார் தொடங்கிய நாடகக் கழகம் எது என்பதைப் பாருங்கள்.",
+    "en": "Look for the drama sabha started by Pammal Sambandha Mudaliar, a pioneer of Tamil theatre."
+   },
+   "explain": {
+    "ta": "பம்பல் சம்பந்த முதலியார் தமிழ் நாடகத் துறைக்குச் பங்களிப்புச் செய்யும் வகையில் சுகுணவிலாச சபை என்னும் நாடக சபையை நிறுவினார். இந்நிறுவனம் பல நாடகங்களை அரங்கேற்றித் தமிழ் நாடகத் துறை வளர உதவಿತು.",
+    "en": "Pammal Sambandha Mudaliar established the Suguna Vilasa Sabha to contribute to Tamil theatre."
+   },
+   "why": {
+    "B": {
+     "ta": "மாடர்ன் தியேட்டர் என்பது தமிழ்த் திரைப்படத் துறையில் புகழ்பெற்ற ஒரு திரைப்படத் தயாரிப்பு நிறுவனம் ஆகும்.",
+     "en": "Modern Theatres is a famous film production company in Tamil cinema."
+    },
+    "C": {
+     "ta": "பாய்ட்ஸ் கம்பெனி என்பது நாடகங்கள் மற்றும் திரைப்படங்களுடன் தொடர்புடைய மற்றொரு நிறுவனமாகும்.",
+     "en": "Boys Company is another institution associated with plays and films."
+    },
+    "D": {
+     "ta": "கூத்துப்பட்டறை என்பது நவீன நாடகக் கலைப் பயிற்சியும் தயாரிப்பும் வழங்கும் தற்காலக் குழுவாகும்.",
+     "en": "Koothu-p-Pattarai is a contemporary group providing modern theatre training and production."
+    }
+   },
+   "rule": {
+    "ta": "பம்பல் சம்பந்த முதலியார் பெயர் வந்தால் சுகுணவிலாச சபை என்பதை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember Suguna Vilasa Sabha whenever Pammal Sambandha Mudaliar's name appears."
+   },
+   "eg": {
+    "ta": "பம்பல் சம்பந்த முதலியார் தமிழ் நாடக உலகின் தந்தை என்று அழைக்கப்படுகிறார்.",
+    "en": "Pammal Sambandha Mudaliar is called the father of Tamil theatre."
+   },
+   "tip": {
+    "ta": "பம்பல் சம்பந்த முதலியார் = சுகுணவிலாச சபை.",
+    "en": "Pammal Sambandha Mudaliar = Suguna Vilasa Sabha."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GT-q098": {
+   "hint": {
+    "ta": "இந்திய அரசியலில் சாணக்கியர் என்று அழைக்கப்படும் வரலாற்றுத் தலைவர் யார் என்பதைப் பாருங்கள்.",
+    "en": "Look for the historical leader who is praised as the Chanakya of Indian politics."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இந்திய அரசியலில் சாணக்கியர் என்று போற்றப்படுபவர் சார் தார் வல்லபாய் படேல் ஆவார். இவரது அரசியல் தந்திரங்களும் சாமர்த்தியமும் சாணக்கியரின் ராஜதந்திரத்திற்கு இணையாகக் கருதப்படுகின்றன.",
+    "en": "According to the official TNPSC answer key, Sardar Vallabhbhai Patel is praised as the Chanakya of Indian politics."
+   },
+   "why": {
+    "A": {
+     "ta": "காந்தியடிகள் இந்திய விடுதலை இயக்கத்தின் தந்தை மற்றும் அகிம்சைப் போராட்டத்தின் வழிகாட்டியாகப் போற்றப்படுகிறார்.",
+     "en": "Mahatma Gandhi is praised as the Father of the Indian independence movement."
+    },
+    "B": {
+     "ta": "பாலகங்காதர திலகர் 'சுயராஜ்யம் எனது பிறப்புரிமை' என்று முழங்கிய தீவிர தேசியத் தலைவர் ஆவார்.",
+     "en": "Bal Gangadhar Tilak is a radical nationalist leader who declared Swaraj is his birthright."
+    },
+    "C": {
+     "ta": "இராசகோபாலாச்சாரியார் தென்னிந்தியாவின் சாணக்கியர் அல்லது ராஜாஜி என்று அழைக்கப்படுகிறார்.",
+     "en": "Rajagopalachari is known as the Chanakya of South India."
+    }
+   },
+   "rule": {
+    "ta": "தேசியத் தலைவர்களின் சிறப்புப் பெயர்களைத் தேர்விற்குத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Clearly remember the titles and epithets of national leaders for the exam."
+   },
+   "eg": {
+    "ta": "காயிதே மில்லத் என்று அழைக்கப்படுபவர் முகம்மது இஸ்மாயில் ஆவார்.",
+    "en": "Muhammad Ismail is known as Quaid-e-Millat."
+   },
+   "tip": {
+    "ta": "அரசியல் சாணக்கியர் என்றால் சர்தார் வல்லபாய் படேல் என்பதைக் குறிப்புடன் சேர்த்துப் படிக்கவும்.",
+    "en": "Note that Political Chanakya refers to Sardar Vallabhbhai Patel."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-23"
+ "updated": "2026-11-25"
 }

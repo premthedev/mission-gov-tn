@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T08:15:55.382Z",
+ "generatedAt": "2026-11-25T09:32:56.225Z",
  "files": [
   {
    "path": "cheats/a1-letters.json",
@@ -67,15 +67,15 @@
   },
   {
    "path": "explain/g4-2016-gs.json",
-   "sha": "6d02587e5a40"
+   "sha": "f03b7a95e5a5"
   },
   {
    "path": "explain/g4-2016-gt.json",
-   "sha": "fbe9540ab634"
+   "sha": "fe0b4ec8dabd"
   },
   {
    "path": "explain/g4-2018-gs.json",
-   "sha": "d8e1989760aa"
+   "sha": "06998d291cb1"
   },
   {
    "path": "explain/g4-2018-gt.json",
@@ -83,7 +83,7 @@
   },
   {
    "path": "explain/g4-2019-gs.json",
-   "sha": "eb05766bf598"
+   "sha": "4349785d1a3f"
   },
   {
    "path": "explain/g4-2019-gt.json",
@@ -107,7 +107,11 @@
   },
   {
    "path": "explain/vao-2016-gs.json",
-   "sha": "2f9265f0051a"
+   "sha": "30d77dcc7c31"
+  },
+  {
+   "path": "explain/vao-2016-gt.json",
+   "sha": "74deef9e6d9f"
   },
   {
    "path": "feed/ca-2026-11-16.json",
@@ -128,6 +132,10 @@
   {
    "path": "feed/ca-2026-11-23.json",
    "sha": "c568fa766c19"
+  },
+  {
+   "path": "feed/ca-2026-11-25.json",
+   "sha": "f02b26534ab7"
   },
   {
    "path": "kural20.json",
@@ -208,6 +216,10 @@
   {
    "path": "questions/pyq-vao-2016-gs.json",
    "sha": "8a9228dd17d6"
+  },
+  {
+   "path": "questions/pyq-vao-2016-gt.json",
+   "sha": "27f8f631772b"
   }
  ]
 }

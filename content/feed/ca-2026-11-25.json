@@ -1,0 +1,346 @@
+{
+ "date": "2026-11-25",
+ "model": "gemini-3.5-flash-lite",
+ "questions": [
+  {
+   "id": "2026-11-25-1",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாட்டில் உயர் ஆபத்துள்ள பணிகளில் ஈடுபட்டுள்ள துப்புரவு பணியாளர்கள் மற்றும் விலங்கு கையாளுபவர்களுக்கு ரேபிஸ் தடுப்பூசி செலுத்த எந்த தொகையை அரசு ஒதுக்கியுள்ளது?",
+    "en": "What amount has been sanctioned by the Tamil Nadu government for administering anti-rabies shots to sanitation workers and animal handlers in high-risk jobs?"
+   },
+   "options": [
+    {
+     "ta": "₹1.11 கோடி",
+     "en": "₹1.11 crore"
+    },
+    {
+     "ta": "₹2.22 கோடி",
+     "en": "₹2.22 crore"
+    },
+    {
+     "ta": "₹5.50 கோடி",
+     "en": "₹5.50 crore"
+    },
+    {
+     "ta": "₹10.00 கோடி",
+     "en": "₹10.00 crore"
+    }
+   ],
+   "answer": "B",
+   "explain": {
+    "ta": "தமிழ்நாட்டில் ரேபிஸ் தடுப்பூசி முகாமிற்கு அரசு ரூ. 2.22 கோடியை ஒதுக்கியுள்ளது.",
+    "en": "The government sanctioned ₹2.22 crore for the rabies vaccination drive in Tamil Nadu."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/workers-in-high-risk-jobs-to-receive-shots-against-rabies-in-tamil-nadu/article71738738.ece",
+   "headline": "Workers in high-risk jobs to receive shots against rabies in Tamil Nadu"
+  },
+  {
+   "id": "2026-11-25-2",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "வெள்ளூரில் உள்ள சி.எம்.சி (CMC) மருத்துவமனையில் திறக்கப்பட்ட 'மனித வளர்சிதை மாற்ற அறை' (Human Metabolic Chamber) எத்தகைய கருவியாகும்?",
+    "en": "What type of facility is the 'Human Metabolic Chamber' inaugurated at CMC in Vellore?"
+   },
+   "options": [
+    {
+     "ta": "ஒரு அறை அளவிலான கலோரிமீட்டர்",
+     "en": "A room-sized calorimeter"
+    },
+    {
+     "ta": "ஒரு இரத்த பரிசோதனை கூடம்",
+     "en": "A blood testing laboratory"
+    },
+    {
+     "ta": "ஒரு அதிநவீன எக்ஸ்-ரே அறை",
+     "en": "An advanced X-ray room"
+    },
+    {
+     "ta": "ஒரு நரம்பியல் ஆய்வு மையம்",
+     "en": "A neurological research center"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "வெள்ளூர் சிஎம்சி-யில் திறக்கப்பட்ட மனித வளர்சிதை மாற்ற அறை ஒரு அறை அளவிலான கலோரிமீட்டர் ஆகும்.",
+    "en": "The Human Metabolic Chamber inaugurated at CMC in Vellore is a room-sized calorimeter."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/human-metabolic-chamber-inaugurated-at-cmc-in-vellore/article71738645.ece",
+   "headline": "Human Metabolic Chamber inaugurated at CMC in Vellore"
+  },
+  {
+   "id": "2026-11-25-3",
+   "unit": "B4",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "காவிரி தொழில்நுட்ப பிரிவு-கும்-கட்டணத் மாநில நீர் பிரிவின் (Cauvery Technical Cell-cum-Inter-State Waters Wing) துணைத் தலைவராக நியமிக்கப்பட்டவர் யார்?",
+    "en": "Who has been named as the vice-chairperson of the Cauvery Technical Cell-cum-Inter-State Waters Wing?"
+   },
+   "options": [
+    {
+     "ta": "Tamizhselvi",
+     "en": "Tamizhselvi"
+    },
+    {
+     "ta": "Shristi Singh",
+     "en": "Shristi Singh"
+    },
+    {
+     "ta": "N. Kamini",
+     "en": "N. Kamini"
+    },
+    {
+     "ta": "P.T. Usha",
+     "en": "P.T. Usha"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "காவிரி தொழில்நுட்ப பிரிவு-கும்-இன்டர்-ஸ்டேட் வாட்டர்ஸ் விங்கின் துணைத் தலைவராக தமிழ்ச்செல்வி நியமிக்கப்பட்டுள்ளார்.",
+    "en": "Tamizhselvi was named vice-chairperson of the Cauvery Technical Cell-cum-Inter-State Waters Wing."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tamizhselvi-named-vice-chairperson-of-cauvery-technical-cell-cum-inter-state-waters-wing/article71738591.ece",
+   "headline": "Tamizhselvi named vice-chairperson of Cauvery Technical Cell-cum-Inter-State Waters Wing"
+  },
+  {
+   "id": "2026-11-25-4",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாடு அரசு நிலுவையில் உள்ள எவ்வளவு வீட்டு கடன் dues (நிலுவைத் தொகையை) தள்ளுபடி செய்ய உள்ளது?",
+    "en": "How much pending house loan dues is the Tamil Nadu government set to waive?"
+   },
+   "options": [
+    {
+     "ta": "₹1.2 ஆயிரம் கோடி",
+     "en": "₹1.2 thousand crore"
+    },
+    {
+     "ta": "₹2.4 ஆயிரம் கோடி",
+     "en": "₹2.4 thousand crore"
+    },
+    {
+     "ta": "₹5.0 ஆயிரம் கோடி",
+     "en": "₹5.0 thousand crore"
+    },
+    {
+     "ta": "₹10.0 ஆயிரம் கோடி",
+     "en": "₹10.0 thousand crore"
+    }
+   ],
+   "answer": "B",
+   "explain": {
+    "ta": "தமிழ்நாடு அரசு ரூ. 2.4 ஆயிரம் கோடி நிலுவையில் உள்ள வீட்டு கடன் நிலுவைத் தொகையை தள்ளுபடி செய்யவுள்ளது.",
+    "en": "Tamil Nadu is set to waive Rs 2.4K crore pending house loan dues."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVVLVE04SkR6djV4Q2hEdzNjSGlxaXllQ3BTR3JVVkp0d0x4QXdxdTBqZFhkb3hPblJZUTJUcTBnVWdNeTM2N1dyMHdJUlZhbFBHVzV1OENtdm9CQ3N4NGtwaHJiSjIyMlE0VzJIZjZFU1pua1o5NWdLUXdsaWlGckNFNXpDWTR3VHd6VkdERzFORVpqWk04T2p5Yk80bHV4c3I5SzdMbEJucTNidHVheXRHTmtqZEhIZWtj0gHIAUFVX3lxTE5pSGc4cXpVOFRpaTY5TDBxeEZJN3ZqN3Z5NHFwV3ZWU29RX2c4bW9hZXdfZy14V0IwTW5Kb0s1WVpIWlFLV203YmRuSnpFbWZNT2ZsbzFJU2lEM2hYYXljbUFIa1VoTU1CR1E3Z2ZhcDVPekhNTkREM2tPV0pNRjZMc0JncFNnTVcxSjZwM0ZlOWtoaHI3dFFPY2ZEQWNmcnUzVnkwZV9uUjVQejRJaGR0VDFZNW93MzZVUTljaUZxRFVKX0xiVDEy?oc=5",
+   "headline": "Tamil Nadu to waive Rs 2.4K crore pending house loan dues - The New Indian Express"
+  },
+  {
+   "id": "2026-11-25-5",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாட்டில் எந்த தேதிக்குள் பயிர்க்கடனை செலுത്തിയാல் பூஜ்ஜிய வட்டி (zero interest) பெறலாம் என்று அறிவிக்கப்பட்டுள்ளது?",
+    "en": "By which date should farmers pay their crop loan to get zero interest, as announced by the Tamil Nadu government?"
+   },
+   "options": [
+    {
+     "ta": "நவம்பர் 30",
+     "en": "November 30"
+    },
+    {
+     "ta": "டிசம்பர் 31",
+     "en": "December 31"
+    },
+    {
+     "ta": "ஜனவரி 15",
+     "en": "January 15"
+    },
+    {
+     "ta": "மார்ச் 31",
+     "en": "March 31"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "நவம்பர் 30-க்குள் பயிர்க்கடனை செலுത്തിയാல் பூஜ்ஜிய வட்டி பெறலாம் என தமிழ்நாடு அரசு அறிவித்துள்ளது.",
+    "en": "The Tamil Nadu government announced that crop loans must be paid by November 30 to get zero interest."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWWIyMGpQY0J6TTlSOVlVRUoyWW9qMG9VYTNLcGo4RklMbjM3aXRPSVNLamZoLVdLWFZycXZqaC1SRlZWYXl1MUkyWVpaTXlwODF6Szg3UUxNYVRDeTBfSmF4NlIwQ0E1TEtKLTJaSnNtQU1GREJyd1NaNzBWczZWdkZ1QW0wODNHTHIwWUVyNVdFTDJTRmFmZnp1SjJBUGk3X2g1T1pORUrSAbYBQVVfeXFMTXNVbGI1bmVRd3NwWW0ySjRHMmEyUkw1TnQ4MnQ5UVRpMEJ0VXBybTBpbnZnOE5uS3B5QUhOTkFwMXVsd1BpSVk4eEVYNE5IZmdiZVg2X0x5eWJkSjd0T0g3NjYtWTJZLTdJOW4tOURmRmhzMkIwbHZqd3FGdTduOEx4TmtBMHRRWGFiRzR0UG1HSTVpNFVyeG95a0F0NnRZU3pOc21rVU1JR1Nubmhjb3pYYjVfV2c?oc=5",
+   "headline": "Pay crop loan by November 30, get zero interest: Tamil Nadu government - DT Next"
+  },
+  {
+   "id": "2026-11-25-6",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாடு அரசுடன் புரிந்துணர்வு ஒப்பந்தம் (MoU) மேற்கொண்டுள்ள டிவிஎஸ் மோட்டார் (TVS Motor) நிறுவனம் செய்யவுள்ள முதலீடு எவ்வளவு?",
+    "en": "How much investment has TVS Motor committed in an MoU with the Tamil Nadu Government?"
+   },
+   "options": [
+    {
+     "ta": "₹1,000 கோடி",
+     "en": "Rs. 1000 Cr"
+    },
+    {
+     "ta": "₹2,000 கோடி",
+     "en": "Rs. 2000 Cr"
+    },
+    {
+     "ta": "₹5,000 கோடி",
+     "en": "Rs. 5000 Cr"
+    },
+    {
+     "ta": "₹10,000 கோடி",
+     "en": "Rs. 10000 Cr"
+    }
+   ],
+   "answer": "B",
+   "explain": {
+    "ta": "டிவிஎஸ் மோட்டார் நிறுவனம் தமிழ்நாடு அரசுடன் ரூ. 2000 கோடி முதலீட்டுக்கான புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளது.",
+    "en": "TVS Motor committed Rs. 2000 Cr investment in an MoU with the Tamil Nadu Government."
+   },
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGcySUtCaUVzM0d2Zko1ME9DUHRiT3BqeXNhWDF3ckdERnIzaElMNGtldktVNGV4eHdfY1VMOGhsd2JESEk3RUxfRVhMcjBEOUVhLWliWFZlcVJGSWQtTHRObHNRbEJTZ09wWWk5dzktbTFFdzE5M3o4dkxocVJSVXFSLS1XR2ZadjNsdlRRVVBwTzZ0M3BveVh2UzEzTk9kSFVwRTNHYUVMRTZUQTVF?oc=5",
+   "headline": "TVS Motor commits Rs. 2000 Cr investment in MoU with Tamil Nadu Government - Business Upturn"
+  },
+  {
+   "id": "2026-11-25-7",
+   "unit": "B4",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்திய ஒலிம்பிக் சங்கத்தை வழிநடத்திய முதல் பெண்மணியும், மீண்டும் தேர்தலில் போட்டியிட போவதில்லை என்று அறிவித்தவருமான புகழ்பெற்ற விளையாட்டு வீரர் யார்?",
+    "en": "Who is the first woman to lead the Indian Olympic body who announced she will not seek re-election?"
+   },
+   "options": [
+    {
+     "ta": "P.T. Usha",
+     "en": "P.T. Usha"
+    },
+    {
+     "ta": "Tamizhselvi",
+     "en": "Tamizhselvi"
+    },
+    {
+     "ta": "Shristi Singh",
+     "en": "Shristi Singh"
+    },
+    {
+     "ta": "N. Kamini",
+     "en": "N. Kamini"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "இந்திய ஒலிம்பிக் சங்கத்தின் முதல் பெண் தலைவரான பி.டி. உஷா மீண்டும் தேர்தலில் போட்டியிடப் போவதில்லை.",
+    "en": "P.T. Usha, the first woman to lead the Indian Olympic body, won't seek re-election."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OMnUwbG5TRmM2dXNFVFJSejJLQ0psV3lCTVlJb1U5WDA4YW1qWU1LdkRTaTFpXzNJcmxnQUo2OTIxY1VTOGJXcjZ3aw?oc=5",
+   "headline": "P.T. Usha, first woman to lead Indian Olympic body, won't seek re-election - AFP.com"
+  },
+  {
+   "id": "2026-11-25-8",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியாவின் முதல் தொழில்துறை கட்டப்பட்ட (industry-built) பி.எஸ்.எல்.வி (PSLV) ராக்கெட்டை எந்த ஆண்டில் ஏவ ISRO திட்டமிட்டுள்ளது?",
+    "en": "In which quarter and year is ISRO targeting to launch India's first industry-built PSLV?"
+   },
+   "options": [
+    {
+     "ta": "Q1 2027",
+     "en": "Q1 2027"
+    },
+    {
+     "ta": "Q2 2027",
+     "en": "Q2 2027"
+    },
+    {
+     "ta": "Q3 2026",
+     "en": "Q3 2026"
+    },
+    {
+     "ta": "Q4 2026",
+     "en": "Q4 2026"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "இந்தியாவின் முதல் தொழில்துறை கட்டப்பட்ட பிஎஸ்எல்வி ராக்கெட் 2027 ஆம் ஆண்டின் முதல் காலாண்டில் ஏவப்படவுள்ளது.",
+    "en": "India's first industry-built PSLV is set for Q1 2027 launch by ISRO."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2lGUnFydjdSQXJfTE5jaUxVaTczeklsclNVaE5mdVNuejhPVlhZSEtrelZVVVFFaUgzcnJCRzhrMFpHQVNwN0dsU2x2Qzh4NE9qSVBFcDc1SVM2SzB3WFFzbUdmV0VQOGVGRDB6b2hKWDlKYllLS0NPRHRyU004RllzQmhNUTBk?oc=5",
+   "headline": "India's First Industry-Built PSLV Set For Q1 2027 Launch: ISRO - Sarkaritel.com"
+  },
+  {
+   "id": "2026-11-25-9",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "கண்ணாடிப் பெட்டியுடன் (locket) கூடிய இந்தியாவின் முதல் கைக்கடிகாரத்தை அறிமுகப்படுத்திய நிறுவனம் எது?",
+    "en": "Which company introduced India's first wristwatch with a locket?"
+   },
+   "options": [
+    {
+     "ta": "Bangalore Watch Company",
+     "en": "Bangalore Watch Company"
+    },
+    {
+     "ta": "Titan Company",
+     "en": "Titan Company"
+    },
+    {
+     "ta": "Fastrack",
+     "en": "Fastrack"
+    },
+    {
+     "ta": "HMT Watches",
+     "en": "HMT Watches"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "பெங்களூரு வாட்ச் கம்பெனி (Bangalore Watch Company) கைகடிகாரத்துடன் கூடிய லாக்கெட்டை அறிமுகப்படுத்தியுள்ளது.",
+    "en": "Bangalore Watch Company introduced India's first wristwatch with a locket."
+   },
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbl9RaFUyMGRFeW9EY3M1U1NVLWtlOXlWUG1kdUd3S2pSVXNTcm1tU0xRZFNmMnlmb3owRktYcEJRN1JkZURWMTUzSFdjN1hOeVdyLTJXeEFFeGxfb2tOSnpNZW5aWWVEcjUzTGR2YjNvT2dJUjRyRnYwdFQtYmhQQm9IVHEtSXF5eUdnMFR3SWxrdzV0MmZvUS1vZGFGNDh4c0RSSkhsWXVXUDBLZHRLedIBtgFBVV95cUxOOW5CNzRnSF9xUnBiSDZTbEh4VzFERkIwcmk2QmNfOHpHd0hMMWxhRnpWWE1qTHRKdUFvQ3p5ZUdWX0E0aENLdy1HNUFwNWVYWnZBcE55UkNXRDlDRklLVkVrem5tN09GZEttQUdIazczUWFJTTVEcGpXZGI3eDE1YkVpaU9XM2NWRjdtS1NrazRBYjhDajJVNjU4Q2ZtOWJDUG5LRERMS21lSkFYcFFxUk5Hazg0dw?oc=5",
+   "headline": "Bangalore Watch Company Introduces Indias First Wristwatch with a Locket - TheWire.in"
+  },
+  {
+   "id": "2026-11-25-10",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியாவில் வெளியிடப்பட்ட 'மோட்டோரோலா எட்ஜ் 70 நியோ' (motorola edge 70 neo) கைப்பேசியில் உள்ள பேட்டரி திறன் (battery capacity) எவ்வளவு?",
+    "en": "What is the battery capacity of the newly launched 'motorola edge 70 neo' smartphone in India?"
+   },
+   "options": [
+    {
+     "ta": "5000mAh",
+     "en": "5000mAh"
+    },
+    {
+     "ta": "6000mAh",
+     "en": "6000mAh"
+    },
+    {
+     "ta": "7000mAh",
+     "en": "7000mAh"
+    },
+    {
+     "ta": "8000mAh",
+     "en": "8000mAh"
+    }
+   ],
+   "answer": "C",
+   "explain": {
+    "ta": "மோட்டோரோலா எட்ஜ் 70 நியோ கைப்பேசி 7000mAh பேட்டரி திறனுடன் இந்தியாவில் அறிமுகப்படுத்தப்பட்டுள்ளது.",
+    "en": "The motorola edge 70 neo was launched in India with a 7000mAh battery."
+   },
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE95YVBINFkxeUxuMlVSN3NySmhfTTBXalJUR3dNalJhV084T01qdjRlUTc2dFNUVS1WZzhRWXZncThfODZsdTVIOHYyTUpPQXd1TTEwWUJoemhtalp0VHFBd2VR?oc=5",
+   "headline": "motorola edge 70 neo launched in India at ₹40,999 with 7000mAh battery, 144Hz quad-curved AMOLED, and 50MP Sony LYTIA 710 - MobiGyaan"
+  }
+ ]
+}

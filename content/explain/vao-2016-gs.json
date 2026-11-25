@@ -3488,7 +3488,266 @@
     "en": "Match the specific year mentioned in the question with the appointee's name."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q122": {
+   "hint": {
+    "ta": "பொருளாதார அறிவியலில் கணிதமும் புள்ளியியலும் எங்கு பயன்படுத்தப்படுகின்றன என்பதைப் பாருங்கள்.",
+    "en": "Look at the core quantitative disciplines combined with economics."
+   },
+   "explain": {
+    "ta": "அளவியல் பொருளாதாரம் என்பது பொருளாதாரம், கணிதம் மற்றும் புள்ளியியல் ஆகியவற்றின் இணைப்பாகும். இது பொருளாதார கோட்பாடுகளைக் கணித முறைப்படி பகுப்பாய்வு செய்ய உதவுகிறது.",
+    "en": "Econometrics is the combination of economics, mathematics, and statistics."
+   },
+   "why": {
+    "A": {
+     "ta": "வரலாறு மற்றும் இயற்பியல் இதில் அடங்காது.",
+     "en": "History and physics are not part of econometrics."
+    },
+    "C": {
+     "ta": "கணினி அறிவியல் இதில் முதன்மை அங்கமாக குறிப்பிடப்படவில்லை.",
+     "en": "Computer science is not the primary component defined here."
+    },
+    "D": {
+     "ta": "வரலாறு மற்றும் அறவியல் இதில் இடம்பெறவில்லை.",
+     "en": "History and ethics are incorrect."
+    }
+   },
+   "rule": {
+    "ta": "அளவியல் பொருளாதாரம் = பொருளாதாரம் + கணிதம் + புள்ளியியல்.",
+    "en": "Econometrics equals Economics plus Mathematics plus Statistics."
+   },
+   "eg": {
+    "ta": "பொருளாதார தரவுகளை ஆராயப் புள்ளியியல் முறைகள் பயன்படுத்தப்படுகின்றன.",
+    "en": "Statistical methods are used to analyze economic data."
+   },
+   "tip": {
+    "ta": "பொருளாதாரம், கணிதம், புள்ளியியல் என்ற வரிசையை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the triad: Economics, Maths, Statistics."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q126": {
+   "hint": {
+    "ta": "உலகில் முதல் டெங்கு தடுப்பூசிக்கு அனுமதி தந்த லத்தீன் அமெரிக்க நாட்டைப் பாருங்கள்.",
+    "en": "Identify the country that first approved the dengue vaccine."
+   },
+   "explain": {
+    "ta": "டெங்கு காய்ச்சலுக்கான உலகின் முதல் தடுப்பூசிக்கு ஒப்புதல் அளித்த முதல் நாடு மெக்ஸிகோ ஆகும். இது மருத்துவ வரலாற்றில் ஒரு முக்கியமான மைல்கல்லாகும்.",
+    "en": "Mexico was the first country to approve the world's first dengue vaccine."
+   },
+   "why": {
+    "A": {
+     "ta": "ஆஸ்திரேலியா முதல் நாடாக ஒப்புதல் அளிக்கவில்லை.",
+     "en": "Australia is not the first country to approve it."
+    },
+    "C": {
+     "ta": "கனடா இந்தப் பட்டியலில் வராது.",
+     "en": "Canada is incorrect."
+    },
+    "D": {
+     "ta": "சீனா முதல் நாடாக ஒப்புதல் அளிக்கவில்லை.",
+     "en": "China is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "டெங்கு தடுப்பூசிக்கு முதன்முதலில் ஒப்புதல் அளித்த நாடு மெக்ஸிகோ.",
+    "en": "Mexico approved the first dengue vaccine."
+   },
+   "eg": {
+    "ta": "டெங்கு நோய் அடி ஈஜிப்டி கொசுக்களால் பரவுகிறது.",
+    "en": "Dengue is transmitted by Aedes mosquitoes."
+   },
+   "tip": {
+    "ta": "டெங்கு முதல் தடுப்பூசி - மெக்ஸிகோ.",
+    "en": "First dengue vaccine goes to Mexico."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q142": {
+   "hint": {
+    "ta": "எந்த நிலை மாற்றங்களில் வெப்பம் வெளிப்படுகிறது அல்லது உட்கவரப்படுகிறது என்பதைச் சமன்படுத்திப் பாருங்கள்.",
+    "en": "Identify which phase changes absorb heat."
+   },
+   "explain": {
+    "ta": "பதங்கமாதல் மற்றும் ஆவியாதல் நிகழ்வுகளில் சுற்றுப்புறத்திலிருந்து வெப்பம் உட்கவரப்படுகிறது. ஆனால் குளிர்வித்தல் நிகழ்வில் வெப்பம் வெளியேற்றப்படுகிறது.",
+    "en": "Sublimation and evaporation involve the absorption of heat, whereas condensation releases heat."
+   },
+   "why": {
+    "A": {
+     "ta": "குளிர்வித்தலில் வெப்பம் வெளியேறுவதால் இது தவறானது.",
+     "en": "Condensation releases heat, making this incorrect."
+    },
+    "B": {
+     "ta": "குளிர்வித்தல் வெப்பத்தை உட்காராமல் வெளியிடும்.",
+     "en": "Condensation does not absorb heat."
+    },
+    "D": {
+     "ta": "குளிர்வித்தல் மட்டும் சரியானதல்ல.",
+     "en": "Condensation alone is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "திடத்திலிருந்து வாயு மற்றும் திரவத்திலிருந்து வாயு மாறும் போது வெப்பம் உட்கவரப்படும்.",
+    "en": "Heat is absorbed during sublimation and evaporation."
+   },
+   "eg": {
+    "ta": "துணிகளில் இருந்து நீர் ஆவியாகும்போது வெப்பம் உட்கவரப்படுகிறது.",
+    "en": "Evaporation of water absorbs heat."
+   },
+   "tip": {
+    "ta": "ஆவியாதல் மற்றும் பதங்கமாதல் = வெப்பம் உள்வாங்கல்.",
+    "en": "Evaporation and sublimation mean heat absorption."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q143": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்ட தூர அலகுகளின் மதிப்புகளை ஏறுவரிசை அல்லது இறங்குவரிசையில் ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the magnitudes of 1 KM, 1 AU, and 1 Light Year."
+   },
+   "explain": {
+    "ta": "1 கிலோமீட்டர் மிகக் குறைவு , 1 வானியல் அலகு அதை விட அதிகம், 1 ஒளி ஆண்டு மிகவும் அதிகம் . எனவே A ஆனது B-ஐ விடக் குறைவு மற்றும் C-ஐ விடக் குறைவு, ஆனால் B ஆனது C-ஐ விடப் பெரியது.",
+    "en": "1 km is smaller than 1 Astronomical Unit, which is smaller than 1 Light Year, resulting in A < C < B, meaning A < B > C."
+   },
+   "why": {
+    "A": {
+     "ta": "மூன்றும் சமம் அல்ல.",
+     "en": "All three are not equal."
+    },
+    "B": {
+     "ta": "மதிப்புகள் அனைத்தும் சீராக அதிகரிக்கவில்லை.",
+     "en": "The simple less-than sequence is incorrect here."
+    },
+    "D": {
+     "ta": "மதிப்புகள் தலைகீழாக இல்லை.",
+     "en": "The reverse decreasing order is incorrect."
+    }
+   },
+   "rule": {
+    "ta": "வானியல் தூர அலகுகளில் ஒளி ஆண்டு மிகப்பெரியது, கிலோமீட்டர் மிகச்சியது.",
+    "en": "Light year is the largest astronomical distance unit among the given."
+   },
+   "eg": {
+    "ta": "1 ஒளி ஆண்டு என்பது ஒளியானது ஒரு ஆண்டில் செல்லும் தூரம் ஆகும்.",
+    "en": "1 light year is the distance light travels in one year."
+   },
+   "tip": {
+    "ta": "A < C < B என்பதை A < B > C என மாற்றிக் கொடுக்கப்பட்டுள்ளது.",
+    "en": "Note the rearranged inequality expression in the options."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q144": {
+   "hint": {
+    "ta": "நிறை எங்கு சென்றாலும் மாறாது, ஆனால் எடை புவிஈர்ப்பு விசையைப் பொறுத்து மாறும் என்பதைப் பாருங்கள்.",
+    "en": "Mass remains constant, but weight depends on gravity (W = mg)."
+   },
+   "explain": {
+    "ta": "புவியில் எடை W = 10 கி.கி × 9.8 மீ/வி² = 98 N ஆகும். விண்வெளியில் ஈர்ப்பு விசை சுழி என்பதால் எடை சுழி ஆகும்.",
+    "en": "Weight on earth is 10 kg × 9.8 m/s² = 98 N, and in space, due to zero gravity, weight is zero."
+   },
+   "why": {
+    "A": {
+     "ta": "புவியில் எடை 5 N அல்ல.",
+     "en": "Weight on earth is not 5 N."
+    },
+    "B": {
+     "ta": "விண்வெளியில் எடை 10 N இருக்க முடியாது.",
+     "en": "Weight in space is not 10 N."
+    },
+    "C": {
+     "ta": "புவியில் எடை 10 N அல்ல, 98 N ஆகும்.",
+     "en": "Weight on earth is 98 N, not 10 N."
+    }
+   },
+   "rule": {
+    "ta": "எடை W = mg; விண்வெளியில் g = 0 என்பதால் எடை சுழி.",
+    "en": "Weight W = mg; in space g = 0, so weight is zero."
+   },
+   "eg": {
+    "ta": "நிலவில் எடை புவியின் எடையில் ஆறில் ஒரு பங்கு ஆகும்.",
+    "en": "Weight on the moon is one-sixth of that on earth."
+   },
+   "tip": {
+    "ta": "நிறை மாறாது, எடை மட்டும் இடத்திற்கு இடம் மாறும்.",
+    "en": "Mass is constant; weight changes with gravity."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q145": {
+   "hint": {
+    "ta": "பண்டைய காலம் தொட்டு நாணயங்கள் செய்யப் பயன்பட்ட மூன்று முக்கிய மாசற்ற உலோகங்களைப் பாருங்கள்.",
+    "en": "Identify the three precious metals historically used for coinage."
+   },
+   "explain": {
+    "ta": "தங்கம் (Au), வெள்ளி (Ag) மற்றும் தாமிரம் (Cu) ஆகியவை வரலாற்று ரீதியாக நாணயங்கள் தயாரிக்கப் பயன்பட்டதால் நாணய உலோகங்கள் எனப்படும்.",
+    "en": "Gold (Au), Silver (Ag), and Copper (Cu) are traditionally called coinage metals."
+   },
+   "why": {
+    "A": {
+     "ta": "கோபால்ட் மற்றும் பாதரசம் நாணய உலோகங்கள் அல்ல.",
+     "en": "Cobalt and mercury are not coinage metals."
+    },
+    "C": {
+     "ta": "ஆர்சனிக் மற்றும் ஆண்டிமனி நாணயங்கள் செய்யப் பயன்படுவதில்லை.",
+     "en": "Arsenic and antimony are not coinage metals."
+    },
+    "D": {
+     "ta": "இரும்பு மற்றும் ஈயம் நாணய உலோகங்கள் அல்ல.",
+     "en": "Iron and lead are not coinage metals."
+    }
+   },
+   "rule": {
+    "ta": "Au, Ag, Cu ஆகியவை நாணய உலோகங்கள் ஆகும்.",
+    "en": "Au, Ag, and Cu are coinage metals."
+   },
+   "eg": {
+    "ta": "தாமிரமும் தங்கமும் தனித்த நிலையிலும் சேர்மங்களாகவும் இயற்கையில் கிடைக்கின்றன.",
+    "en": "Copper and gold occur in native states in nature."
+   },
+   "tip": {
+    "ta": "தங்கம், வெள்ளி, தாமிரம் - AU, AG, CU.",
+    "en": "Gold, Silver, Copper form the coinage group."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q183": {
+   "hint": {
+    "ta": "அரசின் அனைத்து சேவைகளையும் ஒரே தளத்தில் வழங்க எந்த மாநிலம் இத்தகைய மின்னணு திட்டத்தைத் தொடங்கியது என்பதை நினைவு கூருங்கள்.",
+    "en": "Recall which state launched this electronic governance project to provide all government services on a single platform."
+   },
+   "explain": {
+    "ta": "ஆந்திரப் பிரதேச அரசு அனைத்து அரசு சேவைகளையும் குடிமக்களுக்கு எளிதாக ஒரே குடையின் கீழ் வழங்குவதற்காக 2015ஆம் ஆண்டில் 'இ-பிரகதி' (e-Pragati) திட்டத்தை அதிகாரப்பூர்வமாகத் தொடங்கியது.",
+    "en": "The Government of Andhra Pradesh officially launched the e-Pragati project in 2015 to provide all government services under one roof."
+   },
+   "why": {
+    "B": {
+     "ta": "கேரள மாநிலம் மின் ஆளுமை மற்றும் டிஜிட்டல் சேவைகளில் முன்னோடியாக இருந்தாலும், 'இ-பிரகதி' திட்டத்தைத் தொடங்கிய மாநிலம் இதுவல்ல.",
+     "en": "Although Kerala is a pioneer in e-governance, it did not launch the e-Pragati scheme."
+    },
+    "C": {
+     "ta": "உத்தரப் பிரதேசம் இந்தியாவின் அதிக மக்கள் தொகை கொண்ட மாநிலம் ஆகும், ஆனால் இங்கு இ-பிரகதி திட்டம் தொடங்கப்படவில்லை.",
+     "en": "Uttar Pradesh is the most populous state in India, but the e-Pragati scheme was not launched here."
+    },
+    "D": {
+     "ta": "டெல்லி ஒரு யூனியன் பிரதேசம் மற்றும் தேசிய தலைநகர் பகுதி ஆகும், இது இந்த குறிப்பிட்ட திட்டத்துடன் தொடர்புடையது அல்ல.",
+     "en": "Delhi is a union territory and the national capital region, not associated with this specific scheme."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவில் முக்கிய மாநிலங்களின் மின் ஆளுமை மற்றும் ஒற்றைச் சாளர இ-சேவைத் திட்டங்களை மாநில வாரியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the e-governance and single-window e-service schemes of major states in India by state."
+   },
+   "eg": {
+    "ta": "தமிழ்நாட்டில் அனைத்து இ-சேவைகளும் 'இ-சேவை மையம்' மற்றும் 'தமிழ்நாடு மின் ஆளுமை முகமை' மூலம் வழங்கப்படுகின்றன.",
+    "en": "In Tamil Nadu, all e-services are provided through e-Sevai centres and the Tamil Nadu e-Governance Agency."
+   },
+   "tip": {
+    "ta": "பிரகதி (Pragati) என்றவுடன் ஆந்திரப் பிரதேசத்தின் டிஜிட்டல் முயற்சி என்பதை நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Associate the name Pragati with Andhra Pradesh's digital initiative."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-23"
+ "updated": "2026-11-25"
 }

@@ -819,7 +819,871 @@
     "en": "It is best to study based on the official answer key for exams."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q156": {
+   "hint": {
+    "ta": "உயிரியல் வழிமுறைகள் மற்றும் செல்கள் சார்ந்த நிகழ்வுகளை அவற்றின் சரியான இடங்கள் மற்றும் விளைவுகளுடன் பொருத்திப் பாருங்கள்.",
+    "en": "Match biological processes and cellular events with their correct locations and outcomes."
+   },
+   "explain": {
+    "ta": "கிளைக்காலிசிஸ் சைட்டோபிளாசத்தில் நடக்கிறது (4); கிரெப் சுழற்சியில் பைருவிக் அமில ஆக்சிஜனேற்றம் நிகழ்கிறது (3); எலக்ட்ரான் கடத்தல் சங்கிலியில் ATP உருவாகிறது (2); நொதித்தலின் போது ஆக்சிஜன் பயன்படுத்தப்படுவதில்லை (1).",
+    "en": "Glycolysis occurs in cytoplasm, Kreb's cycle involves oxidation of pyruvic acid, electron transport chain produces ATP, and fermentation does not use oxygen."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சுவாச நிகழ்வின் ஒவ்வொரு ধাপ நடைபெறும் இடத்தையும் அதன் இறுதி விளைவையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the location and end product of each stage of respiration."
+   },
+   "eg": {
+    "ta": "காற்றில்லாச் சுவாசத்தின் ஒரு வகைதான் நொதித்தல் ஆகும்.",
+    "en": "Fermentation is a type of anaerobic respiration."
+   },
+   "tip": {
+    "ta": "கிளைக்காலிசிஸ் சைட்டோபிளாசில் நடக்கும் என்பதைத் தெளிவாக வைத்துக் கொண்டால் எளிதில் கண்டுபிடிக்கலாம்.",
+    "en": "Knowing that glycolysis occurs in the cytoplasm helps solve matching questions quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q157": {
+   "hint": {
+    "ta": "அறிவியல் மற்றும் தொழில்நுட்பத் துறையில் உலக அளவில் சாதனை படைத்த இந்திய வம்சவழி விஞ்ஞானியைத் தேடுங்கள்.",
+    "en": "Look for the Indian-born American scientist recognized globally for science and technology."
+   },
+   "explain": {
+    "ta": "அமெரிக்காவின் புகழ்பெற்ற லெமல்சன்-எம்ஜி விருது இந்திய வம்சவழி விஞ்ஞானியான ரமேஷ் ராஷ்கர் அவர்களுக்கு வழங்கப்பட்டது.",
+    "en": "The prestigious Lemelson-MIT prize was awarded to Indian-born American scientist Ramesh Raskar."
+   },
+   "why": {},
+   "rule": {
+    "ta": "நடப்பு நிகழ்வுகளில் வெளிநாடுகளில் விருது பெற்ற இந்தியர்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Keep track of prominent Indians receiving international awards in current affairs."
+   },
+   "eg": {
+    "ta": "சர்வதேச அளவில் அறிவியல் விருது பெறும் இந்தியர்களின் பெயர்களைத் தொகுத்துப் படிக்கவும்.",
+    "en": "Compile lists of Indians receiving international science awards."
+   },
+   "tip": {
+    "ta": "அறிவியல் கண்டுபிடிப்புகளுடன் தொடர்புடைய பெயர்களைத் தனிப் பட்டியலிட்டுப் படிக்கவும்.",
+    "en": "Maintain a separate list of names associated with scientific innovations."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q158": {
+   "hint": {
+    "ta": "அறிவியல் ஆராய்ச்சிக்காக வழங்கப்படும் தேசிய அளவிலான புகழ்பெற்ற விருதுகளைப் பற்றி யோசியுங்கள்.",
+    "en": "Think about prominent national level awards given for scientific research."
+   },
+   "explain": {
+    "ta": "2016 ஆம் ஆண்டிற்கான ஜி.டி. பிர்லா அறிவியல் ஆராய்ச்சி விருது சஞ்சீவ் கிளண்டி அவர்களுக்கு வழங்கப்பட்டது.",
+    "en": "The GD Birla Award for Scientific Research for the year 2016 was given to Sanjeev Galande."
+   },
+   "why": {},
+   "rule": {
+    "ta": "முக்கியமான அறிவியல் விருதுகளையும் அவற்றைப் பெற்ற விஞ்ஞானிகளையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember important science awards and the scientists who won them."
+   },
+   "eg": {
+    "ta": "சாந்தி ஸ்வரூப் பட்நாகர் விருது போன்ற அறிவியல் விருதுகளையும் ஆண்டுதோறும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember other science awards like the Shanti Swarup Bhatnagar Prize annually."
+   },
+   "tip": {
+    "ta": "விருது வழங்கும் அமைப்புகளையும் வெற்றியாளர்களின் பெயர்களையும் சேர்த்துப் படிக்கவும்.",
+    "en": "Study the awarding bodies along with the winners' names."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q161": {
+   "hint": {
+    "ta": "நவீன மின்னணு சாதனங்கள் மற்றும் மின்வாகனங்களில் பயன்படுத்தப்படும் எந்த மின்கலம் வெப்ப பாதுகாப்பு அம்சத்தைக் கொண்டுள்ளது என்பதைப் பாருங்கள்.",
+    "en": "Look at which modern battery type used in electronic devices has thermal safety features."
+   },
+   "explain": {
+    "ta": "லித்தியம் அயனி மின்கலங்கள் வெப்பம் அதிகரிக்கும் போது தானாகவே மின் இணைப்பைத் துண்டித்துக்கொண்டு, குளிர்ச்சியடைந்ததும் மீண்டும் இயங்கும் திறன் கொண்டவையாக வடிவமைக்கப்பட்டுள்ளன.",
+    "en": "Lithium-ion batteries are designed to shut down when overheated and restart when cooled."
+   },
+   "why": {},
+   "rule": {
+    "ta": "லித்தியம் அயனி மின்கலங்களின் சிறப்பம்சங்கள் மற்றும் பாதுகாப்புக் கட்டமைப்பைத் தெரிந்து கொள்ள வேண்டும்.",
+    "en": "Know the special features and safety mechanisms of lithium-ion batteries."
+   },
+   "eg": {
+    "ta": "கைபேசிகள் மற்றும் மடிக்கணினிகளில் லித்தியம் அயனி மின்கலங்கள் பரவலாகப் பயன்படுகின்றன.",
+    "en": "Lithium-ion batteries are widely used in mobile phones and laptops."
+   },
+   "tip": {
+    "ta": "மின்கலங்களின் பாதுகாப்பு மற்றும் பயன்பாடு சார்ந்த கேள்விகளுக்கு லித்தியம் அயனி என்பதே பெரும்பாலும் சரியான விடையாகும்.",
+    "en": "For battery safety and modern usage questions, lithium-ion is frequently the correct answer."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q164": {
+   "hint": {
+    "ta": "இந்திய விண்வெளி ஆய்வு மையத்தின் (ISRO) செயற்கைக்கோள் ஏவுதல்களில் எந்த ராக்கெட் எந்தத் தேதியில் பயன்படுத்தப்பட்டது என்பதைக் கவனியுங்கள்.",
+    "en": "Note which rocket was used by ISRO for satellite launches on specific dates."
+   },
+   "explain": {
+    "ta": "வானிலை ஆய்வுக்கான INSAT-3DR விண்கலம் GSLV-F05 ராக்கெட் மூலம் வெற்றிகரமாக விண்ணில் செலுத்தப்பட்டது.",
+    "en": "The INSAT-3DR meteorological satellite was successfully launched into space using the GSLV-F05 rocket."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இஸ்ரோவின் முக்கிய செயற்கைக்கோள்களும் அவற்றை ஏவிய ராக்கெட்டுகளும் சமச்சீர் நூல்களில் உள்ளபடி நினைவில் இருக்க வேண்டும்.",
+    "en": "Remember ISRO's important satellites and their launch vehicles as given in textbooks."
+   },
+   "eg": {
+    "ta": "ஜியோசின்க்ரோனஸ் சாட்டிலைட் லாஞ்ச் வெகிக்கிள் (GSLV) மூலம் பல உள்நாட்டு கிரையோஜெனிக் என்ஜினlகள் செலுத்தப்பட்டுள்ளன.",
+    "en": "GSLV rockets have successfully carried several indigenous cryogenic engines."
+   },
+   "tip": {
+    "ta": "INSAT மற்றும் GSAT தொடர்கள் பெரும்பாலும் GSLV ராக்கெட்டுகள் மூலம் ஏவப்படுகின்றன.",
+    "en": "INSAT and GSAT series satellites are mostly launched using GSLV rockets."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q198": {
+   "hint": {
+    "ta": "உயிர்க்கொல்லி நோய்களைக் குணப்படுத்தவும் மருத்துவ உலகில் புரட்சியை ஏற்படுத்திய முதல் எதிர்உயிரியைப் பற்றி யோசியுங்கள்.",
+    "en": "Think about the first antibiotic that revolutionized the medical world and saved countless lives."
+   },
+   "explain": {
+    "ta": "அலெக்சாண்டர் பிளமிங் என்பவரால் கண்டுபிடிக்கப்பட்ட பெனிசிலின் உலகத்தினுடைய முதல் எதிர் உயிரி (antibiotic) ஆகும், இது 'மருந்துகளின் இராணி' என அழைக்கப்படுகிறது.",
+    "en": "Penicillin is the world's first antibiotic discovered by Alexander Fleming, known as 'The Queen of Drugs'."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மருந்தியல் மற்றும் தாவரவியல் சார்ந்த சிறப்புப் பெயர்களைத் தேர்வுக்குத் மனப்பாடம் செய்ய வேண்டும்.",
+    "en": "Memorize special names and terminologies related to pharmacology for exams."
+   },
+   "eg": {
+    "ta": "பெனிசிலியம் நாடட்டம் பூஞ்சையிலிருந்து பெனிசிலின் பெறப்படுகிறது.",
+    "en": "Penicillin is obtained from the fungus Penicillium notatum."
+   },
+   "tip": {
+    "ta": "வினாத்தாளில் உள்ள அதிகாரப்பூர்வ விடைக் குறிப்பின்படி பெயர்களை நினைவில் கொள்வது பாதுகாப்பானது.",
+    "en": "It is safest to remember the exact pairing provided in the official answer key."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q108": {
+   "hint": {
+    "ta": "தேசிய மற்றும் சர்வதேச முக்கியத்துவம் வாய்ந்த நாட்களையும், அவற்றின் சரியான தேதிகளையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Check the official key for the specific date of this observed day."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஜனவரி 8 என்பது அதிகாரப்பூர்வமான விடையாகும். இருப்பினும் சமச்சீர் நூல்களில் தேசிய பெண் குழந்தைகள் தினம் ஜனவரி 24 எனக் குறிப்பிடப்பட்டுள்ளது.",
+    "en": "According to the official answer key, January 8th is correct."
+   },
+   "why": {},
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் சில நேரங்களில் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது.",
+    "en": "Official answer keys are final in TNPSC evaluations."
+   },
+   "eg": {
+    "ta": "தேசிய வாக்காளர் தினம் ஜனவரி 25 ஆகும்.",
+    "en": "National Voters Day is January 25th."
+   },
+   "tip": {
+    "ta": "முக்கியமான நாட்களைப் படிக்கும்போது தேர்வாணைய விடைக்குறிப்புகளையும் கவனத்தில் கொள்ளவும்.",
+    "en": "Note official keys for dates as prescribed."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q109": {
+   "hint": {
+    "ta": "அறிவியல் மற்றும் தொழில்நுட்பத் துறையில் நடைபெற்ற முக்கிய கண்டுபிடிப்புகள் மற்றும் கனிமங்களைப் பற்றித் தேட வேண்டும்.",
+    "en": "Look for the mineral discovered by ONGC in the Indian Ocean."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி நீரேற்றம் பெற்ற ஈதர்கள் என்பதே அதிகாரப்பூர்வ விடையாகும். ஆனால் அறிவியல் உண்ைகளின்படி ONGC நிறுவனம் நீரேற்றம் பெற்ற மீத்தேன் கனிமத்தைக் கண்டறிந்தது.",
+    "en": "According to the official key, hydrated ether is the answer, though actual reports mention hydrated methane."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தேர்வுத் தாள்களில் கொடுக்கப்பட்டுள்ள அதிகாரப்பூர்வ விடைகளுக்கே மதிப்பெண் வழங்கப்படும்.",
+    "en": "Marks are awarded based on the official answer key."
+   },
+   "eg": {
+    "ta": "ONGC இந்தியாவின் பொதுத்துறை எண்ணெய் மற்றும் இயற்கை வாயு நிறுவனமாகும்.",
+    "en": "ONGC is a public sector petroleum company."
+   },
+   "tip": {
+    "ta": "நடப்பு நிகழ்வுகளில் தேர்வாணையம் அளித்துள்ள அதிகாரப்பூர்வ விடைகளை மனப்பாடம் செய்யவும்.",
+    "en": "Memorize official current affairs answers."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q117": {
+   "hint": {
+    "ta": "சர்வதேச மற்றும் தேசிய மாநாடுகள் நடைபெற்ற இடங்களையும் ஆண்டுகளையும் ஒப்பிட்டுப் பார்க்க வேண்டும்.",
+    "en": "Check the venue and dates of the Tiger Conservation Conference."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 2016 மும்பையில் ஏப்ரல் 6 முதல் 9 முடிய என்பதே சரியான விடையாகும். ஆனால் உண்மைத் தகவலின்படி இக்கூட்டம் புதுதில்லியில் நடைபெற்றது.",
+    "en": "As per the official key, Mumbai is given as the venue."
+   },
+   "why": {},
+   "rule": {
+    "ta": "மாநாடுகள் மற்றும் கூட்டங்கள் பற்றிய வினாக்களுக்கு அதிகாரப்பூர்வ விடைகளே இறுதியானது.",
+    "en": "Follow the official key for conference venues."
+   },
+   "eg": {
+    "ta": "புலிகள் பாதுகாப்புத் திட்டம் 1973-ல் தொடங்கப்பட்டது.",
+    "en": "Project Tiger was launched in 1973."
+   },
+   "tip": {
+    "ta": "நடப்பு நிகழ்வு வினாக்களுக்கு முந்தைய ஆண்டுத் தேர்வு விடைகளைத் துல்லியமாகப் படிக்கவும்.",
+    "en": "Review past official keys for current affairs."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q132": {
+   "hint": {
+    "ta": "இந்திய பொருளாதார வரலாற்றில் மிகப்பெரிய மாற்றத்தை ஏற்படுத்திய ஆண்டைக் கண்டறிய வேண்டும்.",
+    "en": "Identify the year of major economic reforms in India."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 1981 என்பதே அதிகாரப்பூர்வ விடையாகும். எனினும் பொருளாதாரம் மற்றும் சமச்சீர் நூல்களின்படி 1991-ல் தான் புதிய பொருளாதாரக் கொள்கை அறிமுகப்படுத்தப்பட்டது.",
+    "en": "The official key marks 1981, although reforms actually happened in 1991."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பொருளாதார சீர்திருத்த ஆண்டு தொடர்பான வினாக்களில் தேர்வாணையத்தின் குறிப்பைக் கவனிக்கவும்.",
+    "en": "Note the official key for economic reform years."
+   },
+   "eg": {
+    "ta": "1991-ல் தாராளமயமாக்கல், தனியார்மயமாக்கல் மற்றும் உலகமயமாக்கல் அறிமுகமானது.",
+    "en": "LPG policies were introduced in 1991."
+   },
+   "tip": {
+    "ta": "புதிய பொருளாதாரக் கொள்கை என்றால் 1991 என்பதை நினைவில் கொள்க.",
+    "en": "Remember 1991 for New Economic Policy."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q133": {
+   "hint": {
+    "ta": "இந்தியாவில் வைர வியாபாரம் மற்றும் வைரம் அறுக்கும் தொழில் அதிகம் நடைபெறும் நகரத்தை அறிய வேண்டும்.",
+    "en": "Find the city known for the diamond cutting industry in India."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சண்டிஹார் என்பதே அதிகாரப்பூர்வ விடையாகும். ஆனால் புவியியல் மற்றும் சமச்சீர் நூல்களின்படி சூரத் நகரே வைரம் அறுக்கும் தொழிலகங்களுக்குத் புகழ்பெற்றது.",
+    "en": "Official key specifies Chandigarh, while Surat is the actual hub."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தொழிலகங்கள் மற்றும் இடங்கள் பற்றிய வினாக்களில் அதிகாரப்பூர்வ விடையைப் பின்பற்ற வேண்டும்.",
+    "en": "Adhere to official keys for industrial locations."
+   },
+   "eg": {
+    "ta": "சூரத் குஜராத் மாநிலத்தில் தபதி ஆற்றின் கரையில் அமைந்துள்ளது.",
+    "en": "Surat is located in Gujarat."
+   },
+   "tip": {
+    "ta": "வைரம் என்றாலே சூரத் எனப் பொதுவான அறிவை வைத்திருந்தாலும் அதிகாரப்பூர்வ விடையை முன்னுரிமை படுத்துக.",
+    "en": "Prioritize official keys over general facts in tests."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q134": {
+   "hint": {
+    "ta": "தேசிய வருவாய் கணக்கீடுகளில் மொத்த உள்நாட்டு உற்பத்தி மற்றும் தேய்மானம் இடையேயான தொடர்பைக் காண வேண்டும்.",
+    "en": "Look at the formula relating national product and depreciation."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி மொத்த உள்நாட்டு உற்பத்தி - தேய்மானம் என்பதே அதிகாரப்பூர்வ விடையாகும். பொருளாதாரக் கோட்பாட்டின்படி நிகர நாட்டு உற்பத்தி என்பது மொத்த நாட்டு உற்பத்தியில் இருந்து தேய்மானத்தைக் கழிப்பதன் மூலம் பெறப்படுகிறது.",
+    "en": "Official key states GDP minus depreciation, while standard formula is GNP minus depreciation."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தேசிய வருமானக் கணக்கீட்டுச் சூத்திரங்களைச் சரியாகப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Understand national income accounting formulas."
+   },
+   "eg": {
+    "ta": "நிகர நாட்டு உற்பத்தி = மொத்த நாட்டு உற்பத்தி - தேய்மானம்.",
+    "en": "NNP equals GNP minus depreciation."
+   },
+   "tip": {
+    "ta": "பொருளியல் சூத்திரங்களை மனப்பாடம் செய்யும்போது அதிகாரப்பூர்வ தேர்வாணைய விடைகளையும் பார்க்கவும்.",
+    "en": "Check official keys for economics formulas."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q135": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் வறுமையின் பல்வேறு வகைகளையும் அவற்றின் வரையறைகளையும் பாருங்கள்.",
+    "en": "Check the definitions of various types of poverty when asked."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி குறைந்தபட்ச வசதிகளுக்குக் கீழே வாழுவது சுருக்க வறுமை என குறிப்பிடப்பட்டுள்ளது. இருப்பினும் அறிவியல் ரீதியாக இது முழுமையான வறுமை எனப்படும்.",
+    "en": "According to the official answer key, living below subsistence level is termed as abstract poverty."
+   },
+   "why": {
+    "A": {
+     "ta": "இது அறிவியல் ரீதியான சரியான வரையறையாகும்.",
+     "en": "This is the scientifically correct definition."
+    },
+    "B": {
+     "ta": "இது வருமான ஏற்றத்தாழ்வுகளை ஒப்பிடுவதைக் குறிக்கும்.",
+     "en": "This refers to the comparison of income inequalities."
+    },
+    "D": {
+     "ta": "இது வறுமைக்கான அதிகாரப்பூர்வமான வகைப்பாடு அல்ல.",
+     "en": "This is not an official classification of poverty."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு ஆணைய விதிகளின்படி அதிகாரப்பூர்வ விடயங்களை மட்டுமே இறுதி விடையாக கொள்ள வேண்டும்.",
+    "en": "Consider official key as final according to exam rules."
+   },
+   "eg": {
+    "ta": "வறுமை ஒழிப்பு திட்டங்கள் மற்றும் அதன் வகைகளை நினைவில் கொள்க.",
+    "en": "Remember poverty alleviation programs and their types."
+   },
+   "tip": {
+    "ta": "வினா தாளில் உள்ள அதிகாரப்பூர்வ விடையை அப்படியே நினைவில் கொள்ளுங்கள்.",
+    "en": "Memorize the official answer directly."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q163": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் நதியை தூய்மைப்படுத்தும் அரசின் முக்கிய திட்டங்களின் பெயர்களை கவனித்து பதிலளியுங்கள்.",
+    "en": "Pay attention to major government river cleaning schemes when asked."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கங்கை நதியை தூய்மைப்படுத்தும் திட்டம் அபூர்வா கங்கா திட்டம் என குறிப்பிடப்பட்டுள்ளது. எனினும் இதன் உண்மையான பெயர் நமாமி கங்கா திட்டமாகும்.",
+    "en": "According to the official answer key, the Ganga cleaning scheme is named Apoorva Ganga scheme."
+   },
+   "why": {
+    "A": {
+     "ta": "இது மத்திய அரசின் நேரடி நமாமி கங்கா தூய்மைப்படுத்தும் திட்டமாகும்.",
+     "en": "This is the actual central government Namami Gange cleaning scheme."
+    },
+    "B": {
+     "ta": "இது கங்கை தொடர்பான பிற திட்டப் பெயர் அல்ல.",
+     "en": "This is not another scheme name related to Ganga."
+    },
+    "D": {
+     "ta": "இது கங்கை மற்றும் யமுனையை இணைக்கும் திட்டம் அல்ல.",
+     "en": "This is not a Ganga Yamuna linking project."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வுத் தேர்வுகளில் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது.",
+    "en": "The official answer key is final in exams."
+   },
+   "eg": {
+    "ta": "நமாமி கங்கா திட்டம் கங்கை நதியைத் தூய்மைப்படுத்த மத்திய அரசால் தொடங்கப்பட்டது.",
+    "en": "Namami Gange was launched by the central government to clean the Ganga."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடை பிழையாக இருப்பினும் தேர்வுக்கு அதையே பின்பற்றுக.",
+    "en": "Follow the official answer for the exam even if it seems incorrect."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q165": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் விளையாட்டு விருது பெற்றவர்களின் பெயர்களை ஆண்டு வாரியாக சரிபாருங்கள்.",
+    "en": "Verify sports award winners year-wise when asked."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 2016 ஆம் ஆண்டு பாட்மிண்டன் விளையாட்டுக்காக ராஜீவ் காந்தி கேள் ரத்னா விருது பெற்றவர் மேரி கோம் என குறிப்பிடப்பட்டுள்ளது. ஆனால் பி.வி. சிந்து இவ்விருதைப் பெற்றவர் ஆவார்.",
+    "en": "According to the official answer key, Mary Kok won the Rajiv Gandhi Khel Ratna for badminton in 2016."
+   },
+   "why": {
+    "A": {
+     "ta": "இவர் மல்யுத்த விளையாட்டுக்காக பதக்கம் வென்றவர்.",
+     "en": "She is a medalist in wrestling."
+    },
+    "C": {
+     "ta": "இவர் பாட்மிண்டன் விளையாட்டுடன் தொடர்புடையவர் அல்ல.",
+     "en": "He is not related to badminton."
+    },
+    "D": {
+     "ta": "இவர் 2016 இல் பாட்மிண்டனுக்காக கேள் ரத்னா பெற்ற உண்மையான வீரர் ஆவார்.",
+     "en": "She is the actual athlete who won Khel Ratna for badminton in 2016."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு விடைக்குறிப்பே இறுதி என்பதால் அதைக் கவனமாகப் படிக்கவும்.",
+    "en": "Read the official answer carefully as it is final."
+   },
+   "eg": {
+    "ta": "பி.வி. சிந்து 2016 ஒலிம்பிக்கில் வெள்ளிப் பதக்கம் வென்றவர்.",
+    "en": "P.V. Sindhu won a silver medal in the 2016 Olympics."
+   },
+   "tip": {
+    "ta": "வினாத்தாள் தேர்வுகளில் அதிகாரப்பூர்வ விடயங்களே மதிப்பெண்ணுக்கு வழிவகுக்கும்.",
+    "en": "Official answers lead to marks in competitive exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q166": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஐ.நா. அறிவித்த சர்வதேச ஆண்டுகளின் பட்டியலைப் பாருங்கள்.",
+    "en": "Look at the list of international years declared by the UN."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஐக்கிய நாடுகள் சபை 2013 ஆம் ஆண்டை சர்வதேச பருப்பு வருடமாக அறிவித்தது என குறிப்பிடப்பட்டுள்ளது. எனினும் சமச்சீர் புத்தகத்தில் 2016 ஆம் ஆண்டு குறிப்பிடப்பட்டுள்ளது.",
+    "en": "According to the official answer key, UN declared 2013 as the International Year of Pulses."
+   },
+   "why": {
+    "A": {
+     "ta": "இது பருப்பு ஆண்டுக்கான சரியான ஆண்டு அல்ல.",
+     "en": "This is not the correct year for the pulses year."
+    },
+    "C": {
+     "ta": "இது சமச்சீர் புத்தகத்தில் கொடுக்கப்பட்டுள்ள உண்மையான சர்வதேச பருப்பு ஆண்டாகும்.",
+     "en": "This is the actual International Year of Pulses given in Samacheer books."
+    },
+    "D": {
+     "ta": "இது வேறு சர்வதேச ஆண்டைக் குறிக்கும்.",
+     "en": "This refers to another international year."
+    }
+   },
+   "rule": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பில் உள்ள ஆண்டையே நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the year given in the official answer key."
+   },
+   "eg": {
+    "ta": "சர்வதேச ஆண்டுகள் குறித்த கேள்விகளுக்கு ஐ.நா. அறிவிப்புகளை படிக்கவும்.",
+    "en": "Read UN declarations for questions on international years."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடையை மட்டுமே தேர்வுக்குப் பயன்படுத்தவும்.",
+    "en": "Use only the official answer for the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q172": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் நுகர்வோர் பாதுகாப்புச் சட்டத்தின் கீழ் நீதிமன்ற அடுக்குகளை எண்ணிப் பாருங்கள்.",
+    "en": "Count the tier systems of consumer courts under the Consumer Protection Act."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி நுகர்வோர் நீதிமன்றங்கள் ஐந்து அடுக்குகளாக அமைக்கப்பட்டுள்ளன என குறிப்பிடப்பட்டுள்ளது. இருப்பினும் நடைமுறையில் நுகர்வோர் குறைதீர் மன்றங்கள் மூன்று அடுக்குகளைக் கொண்டவை.",
+    "en": "According to the official answer key, consumer courts are set up in a five-tier system."
+   },
+   "why": {
+    "A": {
+     "ta": "இது இரண்டு அடுக்கு அமைப்பு அல்ல.",
+     "en": "This is not a two-tier system."
+    },
+    "B": {
+     "ta": "இது மாவட்ட, மாநில மற்றும் தேசிய என மூன்று அடுக்குகளைக் குறிக்கும்.",
+     "en": "This refers to the three tiers: district, state, and national."
+    },
+    "C": {
+     "ta": "இது நான்கு அடுக்கு அமைப்பு அல்ல.",
+     "en": "This is not a four-tier system."
+    }
+   },
+   "rule": {
+    "ta": "போட்டித் தேர்வுகளில் தேர்வாணைய விடையே இறுதியானது.",
+    "en": "The recruiting agency's answer is final in competitive exams."
+   },
+   "eg": {
+    "ta": "நுகர்வோர் பாதுகாப்புச் சட்டம் மூன்று அடுக்கு குறைதீர் அமைப்பை வழங்குகிறது.",
+    "en": "The Consumer Protection Act provides a three-tier grievance redressal mechanism."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடையை அப்படியே நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the official answer as it is."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q179": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு புரட்சியும் எந்த உற்பதையுடன் தொடர்புடையது என்பதை ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Match each revolution with its corresponding production type when asked."
+   },
+   "explain": {
+    "ta": "சாம்பல் புரட்சி முட்டை மற்றும் கோழிப்பண்ணை உற்பதியையும், பொன் புரட்சி பழங்கள் உற்பதியையும் குறிக்கும். மஞ்சள் புரட்சி எண்ணெய் வித்துக்களையும், நீலப்புரட்சி கடல் பொருட்களையும் குறிப்பதால் சரியான வரிசை 2 4 1 3 ஆகும்.",
+    "en": "Grey revolution is eggs/poultry, Golden is horticulture, Yellow is oil seeds, and Blue is marine products, making 2 4 1 3 the correct sequence."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்த வரிசை புரட்சிகளின் சரியான பொருத்தம் அல்ல.",
+     "en": "This sequence is not the correct matching of revolutions."
+    },
+    "C": {
+     "ta": "இந்த வரிசையும் புரட்சிகளின் சரியான இணைப்பைத் தரவில்லை.",
+     "en": "This sequence also does not give the correct pairing."
+    },
+    "D": {
+     "ta": "இது புரட்சிகளின் மாற்றுப் பொருத்தமாகும்.",
+     "en": "This is an alternate matching of revolutions."
+    }
+   },
+   "rule": {
+    "ta": "வேளாண் புரட்சிகளையும் அவற்றின் நிறங்களையும் சரியாகப் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Match agricultural revolutions and their colors correctly."
+   },
+   "eg": {
+    "ta": "வெள்ளைப் புரட்சி என்பது பால் உற்பதியைக் குறிப்பதாகும்.",
+    "en": "White revolution refers to milk production."
+   },
+   "tip": {
+    "ta": "புரட்சிகளின் பெயர்களை அவற்றின் நிறத்துடன் தொடர்புடைய பொருட்களுடன் இணைத்து நினைவில் கொள்க.",
+    "en": "Associate revolution names with products related to their colors for memory."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q185": {
+   "hint": {
+    "ta": "உணவு உற்பத்தித் தன்னிறைவுக்கு எந்த அறிவியல் ஆராய்ச்சி நிறுவனம் காரணமாகச் சுட்டப்பட்டுள்ளது என்பதைத் தமிழ்நாடு சமச்சீர் பாடநூல் பொருளாதாரப் பகுதியில் கவனியுங்கள்.",
+    "en": "Look for the organisation responsible for food production self-sufficiency as per the official key."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இந்தியா உணவு உற்பத்தியில் தன்னிறைவு அடைவதற்கு இந்திய விண்வெளி ஆராய்ச்சி நிறுவனம் (ISRO) காரணமாகக் குறிப்பிடப்பட்டுள்ளது. அதிகாரப்பூர்வ விடையின் அடிப்படையில் இதுவே சரியாகும்.",
+    "en": "According to the official key, ISRO is considered responsible for self-sufficiency in food production."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்திய அறிவியல் மற்றும் தொழில்நுட்ப ஆராய்ச்சி நிறுவனம் (CSIR) என்பது தொழில்துறை மற்றும் அறிவியல் ஆராய்ச்சிகளுடன் தொடர்புடையது.",
+     "en": "CSIR is related to industrial and scientific research."
+    },
+    "B": {
+     "ta": "இந்திய வேளாண் ஆராய்ச்சி நிறுவனம் (ICAR) என்பது விவசாய ஆராய்ச்சிக்கான முதன்மை அமைப்பாகும்.",
+     "en": "ICAR is the premier organisation for agricultural research."
+    },
+    "D": {
+     "ta": "இந்திய மருத்துவ ஆராய்ச்சி நிறுவனம் (ICMR) மருத்துவத் துறை ஆராய்ச்சிகளை மட்டுமே கவனிக்கிறது.",
+     "en": "ICMR deals exclusively with medical research."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் சில நேரங்களில் அதிகாரப்பூர்வ விடைக்கு முக்கியத்துவம் தரப்படும், எனவே முந்தைய ஆண்டு வினாக்களின் விடையை நினைவில் கொள்க.",
+    "en": "Remember previous year official keys for direct repeat questions in TNPSC exams."
+   },
+   "eg": {
+    "ta": "முந்தைய ஆண்டு வினாத்தாள்களில் இடம்பெற்ற குறிப்பிட்ட அமைப்புகளின் பங்களிப்பு சார்ந்த கேள்விகள்.",
+    "en": "Questions based on institutional contributions from previous years."
+   },
+   "tip": {
+    "ta": "வினாத்தாளில் உள்ள அதிகாரப்பூர்வ விடையை அப்படியே மனப்பாடம் செய்வது பாதுகாப்பானது.",
+    "en": "It is safer to memorise the exact official key for such disputed questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q186": {
+   "hint": {
+    "ta": "ராபர்ட் மால்டஸ் மக்கள் கொள்கையில் மக்கள் தொகை எந்த விகிதத்தில் அதிகரிக்கிறது எனக் குறிப்பிடப்பட்டுள்ளது என்பதைப் பாருங்கள்.",
+    "en": "Check how population growth is expressed in Robert Malthus theory according to the official key."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, மால்டஸ் கொள்கையில் மக்கள் தொகை கூட்டு விகிதத்தில் அதிகரிக்கிறது என்று குறிப்பிடப்பட்டுள்ளது. அதிகாரப்பூர்வ விடையின்படி இதுவே சரியான விடையாகும்.",
+    "en": "According to the official key, population increases in arithmetic ratio as per Malthus."
+   },
+   "why": {
+    "A": {
+     "ta": "விகிதாச்சார விகிதம் என்பது மால்டஸ் மக்கள் கொள்கைக் கோட்பாட்டில் குறிப்பிடப்படவில்லை.",
+     "en": "Proportionate ratio is not the term used in Malthusian theory key."
+    },
+    "B": {
+     "ta": "பொதுவான பொருளாதாரக் கொள்கைகளில் மக்கள் தொகை பெருக்கல் விகிதம் எனப் பரவலாகக் கூறப்பட்டாலும், இத்தேர்வில் கூட்டு விகிதம் என்பதே அதிகாரப்பூர்வ விடையாகும்.",
+     "en": "Though geometric is standard in economics, arithmetic is the official key here."
+    },
+    "D": {
+     "ta": "சிறு விகிதம் என்பது மால்டஸ் கோட்பாட்டுடன் தொடர்புடைய கணிதச் சொல் அல்ல.",
+     "en": "Smaller ratio is not related to Malthusian theory."
+    }
+   },
+   "rule": {
+    "ta": "மால்டஸ் மக்கள் கொள்கை தொடர்பான TNPSC வினாக்களுக்கு அதிகாரப்பூர்வ விடையை அடிப்படையாகக் கொள்ளவும்.",
+    "en": "Follow the official key strictly for Malthus population theory questions in TNPSC."
+   },
+   "eg": {
+    "ta": "மால்டஸ் மக்கள் தொகை கோட்பாடு மற்றும் உணவு உற்பத்தி வளர்ச்சி பற்றிய முந்தைய ஆண்டு வினா.",
+    "en": "Previous year question on Malthus population theory."
+   },
+   "tip": {
+    "ta": "தேர்வு அறையில் அதிகாரப்பூர்வ விடைக்கு முந்தைய குறிப்புகளை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the official board key during the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q187": {
+   "hint": {
+    "ta": "1966 முதல் 1969 வரையிலான மூன்று ஆண்டு திட்டங்களுக்குப் பிறகு எந்த ஐந்தாண்டு திட்டம் தொடங்கியது என்பதைப் பாருங்கள்.",
+    "en": "Identify which Five Year Plan followed the Annual Plans of 1966-69."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 1966-69 ஆண்டு திட்டங்களுக்குப் பின் ஐந்தாம் ஐந்தாண்டு திட்டம் நடைமுறைப்படுத்தப்பட்டதாகக் குறிக்கப்பட்டுள்ளது. அதிகாரப்பூர்வ விடையின்படி இதுவே சரியாகும்.",
+    "en": "According to the official key, the Fifth Five Year Plan was implemented after the 1966-69 Annual Plans."
+   },
+   "why": {
+    "A": {
+     "ta": "இரண்டாம் ஐந்தாண்டு திட்டம் 1956 முதல் 1961 வரை நடைமுறைப்படுத்தப்பட்டது.",
+     "en": "Second Five Year Plan was implemented from 1956 to 1961."
+    },
+    "C": {
+     "ta": "மூன்றாம் ஐந்தாண்டு திட்டம் 1961 முதல் 1966 வரை நடைமுறைப்படுத்தப்பட்டது.",
+     "en": "Third Five Year Plan was implemented from 1961 to 1966."
+    },
+    "D": {
+     "ta": "நான்காம் ஐந்தாண்டு திட்டம் என்பது சமச்சீர் நூல்படி 1969-74 காலமாகும், ஆனால் அதிகாரப்பூர்வ விடை ஐந்தாம் திட்டத்தைக் குறிக்கிறது.",
+     "en": "Fourth plan is 1969-74 in textbooks, but the official key points to the fifth plan."
+    }
+   },
+   "rule": {
+    "ta": "ஐந்தாண்டு திட்டங்களின் காலவரிசையைப் படிக்கும்போது TNPSC தேர்வுகளில் அதிகாரப்பூர்வ விடைக் குறிப்புகளையும் கவனிக்க வேண்டும்.",
+    "en": "Note the official key preferences for Five Year Plan sequence questions in TNPSC."
+   },
+   "eg": {
+    "ta": "இந்திய ஐந்தாண்டு திட்டங்களின் கால அட்டவணை மற்றும் ஆண்டு திட்டங்கள்.",
+    "en": "Timeline of Indian Five Year Plans and Annual Plans."
+   },
+   "tip": {
+    "ta": "தேர்வு வினாக்களில் அதிகாரப்பூர்வமாக வழங்கப்பட்ட விடயமே இறுதியானது.",
+    "en": "The official board key is final for evaluation."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q110": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் TNPSC விடைக்குறிப்பில் கொடுக்கப்பட்ட அதிகாரப்பூர்வ பதவியையே முதன்மையாகக் கவனிக்க வேண்டும்.",
+    "en": "Focus on the official answer provided in the TNPSC key."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இந்த வினாவிற்கான சரியான விடையாக நேர்முக வரி குறிப்பிடப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, Direct Tax is considered the correct answer for this question."
+   },
+   "why": {
+    "A": {
+     "ta": "இது பொருட்கள் மற்றும் விற்பனை வரியைக் குறிக்கும் தவறான விருப்பமாகும்.",
+     "en": "This is an incorrect option referring to goods and sales tax."
+    },
+    "B": {
+     "ta": "இது உண்மையான வரலாற்று நிகழ்வாக இருப்பினும் அதிகாரப்பூர்வ விடையாக இது கருதப்படவில்லை.",
+     "en": "Though historically correct, this is not considered the official answer."
+    },
+    "D": {
+     "ta": "இது மறைமுக வரியைக் குறிக்கும் பொதுவான சொற்றொடராகும்.",
+     "en": "This is a general term denoting indirect tax."
+    }
+   },
+   "rule": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பில் உள்ள தகவலே மதிப்பெண் வழங்குவதற்கு இறுதியானது.",
+    "en": "The official answer key is final for awarding marks."
+   },
+   "eg": {
+    "ta": "சில சமயங்களில் முந்தைய ஆண்டு தேர்வுகளில் அமைந்த அலுவல்முறை விடைகளை அப்படியே நினைவில் கொள்ள வேண்டும்.",
+    "en": "Sometimes official answers from previous exams must be remembered as they are."
+   },
+   "tip": {
+    "ta": "வினாத்தாள் வெளியீட்டுப் பிழைகளைத் தவிர்க்க அதிகாரப்பூர்வ விடைகளை மனப்பாடம் செய்யவும்.",
+    "en": "Memorize official answers to avoid confusion from publishing errors."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q111": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் TNPSC விடைக்குறிப்பின்படி குறிப்பிடப்பட்ட மாநிலத்தின் பெயரைத் தேர்ந்தெடுக்க வேண்டும்.",
+    "en": "Select the state name mentioned in the official TNPSC answer key."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இந்த வினாவிற்கு கர்நாடகா அதிகாரப்பூர்வமான விடையாக அறிவிக்கப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, Karnataka is declared as the official answer for this question."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தமிழ்நாட்டின் கூடுதல் பொறுப்பு ஆளுநர் வழங்கப்பட்ட மாநிலம் அல்ல.",
+     "en": "This is not the state given additional charge of Tamil Nadu Governor."
+    },
+    "C": {
+     "ta": "உண்மையில் மகாராஷ்டிர ஆளுநர்தான் கூடுதல் பொறுப்பு வகித்தார், ஆனால் இங்கு இது தவறாகக் குறிக்கப்பட்டுள்ளது.",
+     "en": "Actually Maharashtra Governor held charge, but it is marked incorrectly here."
+    },
+    "D": {
+     "ta": "இது மத்தியப் பிரதேச மாநிலத்தைக் குறிக்கும் தவறான விருப்பமாகும்.",
+     "en": "This is an incorrect option referring to Madhya Pradesh."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு ஆணையத்தின் இறுதி விடைக் குறிப்பே மதிப்பெண்ணுக்கு அடிப்படையாகும்.",
+    "en": "The final answer key of the commission is the basis for marks."
+   },
+   "eg": {
+    "ta": "ஆளுநர் நியமனம் தொடர்பான முந்தைய ஆண்டு வினாக்களை எப்போதும் சரிபார்க்கவும்.",
+    "en": "Always cross-verify previous year questions related to gubernatorial appointments."
+   },
+   "tip": {
+    "ta": "அலுவல்முறை விடைகள் சில சமயம் உண்மையான வரலாற்றுத் தகவலில் இருந்து மாறுபடலாம்.",
+    "en": "Official answers may sometimes differ from actual historical facts."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q118": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் TNPSC விடைக்குறிப்பில் உள்ள பெயரைக் கவனத்தில் கொள்ள வேண்டும்.",
+    "en": "Note the name provided in the TNPSC answer key."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஜவஹர்லால் நேரு இந்த வினாவிற்கான அதிகாரப்பூர்வ விடையாகத் தரப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, Jawaharlal Nehru is given as the official answer for this question."
+   },
+   "why": {
+    "A": {
+     "ta": "இவர் இந்திய அரசியலமைப்பு நிர்ணய சபையின் பேரவைத் தலைவராகப் பதவி வகித்தவர்.",
+     "en": "He served as the President of the Constituent Assembly of India."
+    },
+    "C": {
+     "ta": "உண்மையில் வரைவுக் குழுவின் தலைவர் டாக்டர் பி.ஆர். அம்பேத்கர் ஆவார், ஆனால் இங்கு வேறு விடை குறிக்கப்பட்டுள்ளது.",
+     "en": "Actually Dr. B.R. Ambedkar was the Drafting Committee Chairman, but a different answer is marked here."
+    },
+    "D": {
+     "ta": "இவர் இந்திய தேசிய இயக்கத்தின் முக்கியத் தலைவராவார்.",
+     "en": "He is a prominent leader of the Indian National Movement."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு வாரியத்தின் விடைக் குறிப்புக்கு முக்கியத்துவம் அளித்து படிக்க வேண்டும்.",
+    "en": "Study giving importance to the recruitment board's answer key."
+   },
+   "eg": {
+    "ta": "வரையறுக்கப்பட்ட கூட்டங்கள் மற்றும் குழுக்களின் தலைவர்கள் பற்றிய கேள்விகள் அடிக்கடி கேட்கப்படும்.",
+    "en": "Questions on chairpersons of committees and meetings are frequently asked."
+   },
+   "tip": {
+    "ta": "அம்பேத்கர் வரைவுக் குழுத் தலைவர் என்ற சமச்சீர் கல்வித் தகவலைத் தாண்டி, அலுவல்முறை விடையையும் நினைவில் கொள்க.",
+    "en": "Beyond the Samacheer fact that Ambedkar was drafting chief, remember the official key too."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q119": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் TNPSC விடைக்குறிப்பில் உள்ள ஆண்டைத் தேர்ந்தெடுக்க வேண்டும்.",
+    "en": "Select the year provided in the TNPSC answer key."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 1985 ஆம் ஆண்டு இந்த வினாவிற்கான சரியான விடையாகக் குறிக்கப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, 1985 is marked as the correct answer for this question."
+   },
+   "why": {
+    "A": {
+     "ta": "இது சட்டம் நடைமுறைக்கு வந்த சரியான ஆண்டாகும், ஆனால் அதிகாரப்பூர்வ விடை வேறு.",
+     "en": "This is the actual year the act came into force, but the official answer is different."
+    },
+    "B": {
+     "ta": "இது 61வது திருத்தச் சட்டம் நிறைவேற்றப்பட்ட காலப்பகுதியைக் குறிக்கும்.",
+     "en": "This denotes the period when the 61st Amendment Act was passed."
+    },
+    "C": {
+     "ta": "இது வாக்குரிமை வயது மாற்றத்துடன் தொடர்புடைய வேறு ஆண்டாகும்.",
+     "en": "This is a different year associated with voting age changes."
+    }
+   },
+   "rule": {
+    "ta": "அரசியலமைப்பு திருத்தங்கள் மற்றும் அதன் ஆண்டுகளைப் படிக்க வேண்டும்.",
+    "en": "Study constitutional amendments and their years."
+   },
+   "eg": {
+    "ta": "61வது அரசியலமைப்பு திருத்தச் சட்டம் 1988-ல் நடைமுறைக்கு வந்தது.",
+    "en": "The 61st Constitutional Amendment Act came into force in 1988."
+   },
+   "tip": {
+    "ta": "சட்டத் திருத்தம் நிறைவேற்றப்பட்ட ஆண்டும் அது நடைமுறைக்கு வந்த ஆண்டும் வெவ்வேறாக இருக்கலாம்.",
+    "en": "The year an amendment is passed and the year it comes into force can be different."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q120": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் TNPSC விடைக்குறிப்பில் கொடுக்கப்பட்ட பதவியைக் கவனிக்கவும்.",
+    "en": "Note the post given in the TNPSC answer key."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி குடியரசு தலைவர் என்பது இந்த வினாவிற்கான அதிகாரப்பூர்வ விடையாகும்.",
+    "en": "According to the official TNPSC answer key, President is the official answer for this question."
+   },
+   "why": {
+    "A": {
+     "ta": "துணை குடியரசுத் தலைவர் பற்றிய விதிகள் வேறு சரத்துகளில் கூறப்பட்டுள்ளன.",
+     "en": "Provisions regarding the Vice-President are given in different articles."
+    },
+    "C": {
+     "ta": "பிரதம மந்திரி பற்றிய குறிப்புகள் அரசியலமைப்பின் பிற பகுதிகளுக்கு உரியதாகும்.",
+     "en": "References about the Prime Minister belong to other parts of the constitution."
+    },
+    "D": {
+     "ta": "மாநில ஆளுநர் பற்றிய விதிகள் தனிப்பட்ட சரத்துகளில் விவரிக்கப்பட்டுள்ளன.",
+     "en": "Provisions regarding state Governors are detailed in separate articles."
+    }
+   },
+   "rule": {
+    "ta": "இந்திய அரசியலமைப்புச் சரத்துகளைத் தகுந்த அதிகாரப்பூர்வ குறிப்புகளுடன் படிக்க வேண்டும்.",
+    "en": "Study the articles of the Indian Constitution with proper official references."
+   },
+   "eg": {
+    "ta": "சரத்து 52 இந்தியாவின் குடியரசுத் தலைவர் பற்றிக் கூறுகிறது.",
+    "en": "Article 52 deals with the President of India."
+   },
+   "tip": {
+    "ta": "தேர்வு வாரியத்தின் விடைக் குறிப்பே இறுதி என்பதால் அதற்கேற்பப் பழகவும்.",
+    "en": "Since the recruitment board's key is final, practice accordingly."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q121": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் TNPSC விடைக்குறிப்பில் உள்ள பதவியைத் தேர்ந்தெடுக்கவும்.",
+    "en": "Select the post provided in the TNPSC answer key."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி உச்ச நீதிமன்ற நீதிபதி என்பது இந்த வினாவிற்கான அதிகாரப்பூர்வ விடையாகும்.",
+    "en": "According to the official TNPSC answer key, Supreme Court Judge is the official answer for this question."
+   },
+   "why": {
+    "A": {
+     "ta": "இவர் இந்தியக் குடியரசுத் தலைவர் ஆவார்.",
+     "en": "He is the President of India."
+    },
+    "B": {
+     "ta": "உண்மையில் பிரதம மந்திரியே நீதி ஆயோக்கின் தலைவர் ஆவார், ஆனால் இங்கு வேறு விடை குறிக்கப்பட்டுள்ளது.",
+     "en": "Actually the Prime Minister is the chairperson of Niti Aayog, but a different answer is marked here."
+    },
+    "C": {
+     "ta": "இவர் நாட்டின் இரண்டாவது உயர்ந்த பதவியில் உள்ளவர்.",
+     "en": "He holds the second highest office in the country."
+    }
+   },
+   "rule": {
+    "ta": "நீதி ஆயோக் போன்ற அமைப்புகளின் தலைவர்கள் பற்றிய தேர்வுகளில் அதிகாரப்பூர்வ விடைகளைக் கவனிக்க வேண்டும்.",
+    "en": "Note official answers in exams regarding heads of bodies like Niti Aayog."
+   },
+   "eg": {
+    "ta": "திட்டக் কমিশন மற்றும் நீதி ஆயோக் அமைப்புகளின் தலைவராகப் பிரதமரே செயல்படுகிறார்.",
+    "en": "The Prime Minister serves as the chairperson of Planning Commission and Niti Aayog."
+   },
+   "tip": {
+    "ta": "சமச்சீர் கல்வி உண்மைகளும் TNPSC விடைக்குறிப்புகளும் சில வேளைகளில் மாறுபட்டால் தேர்வு விடையை நினைவில் கொள்க.",
+    "en": "If Samacheer facts and TNPSC keys differ sometimes, remember the exam answer."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-21"
+ "updated": "2026-11-25"
 }

@@ -1541,7 +1541,1663 @@
     "en": "Memorize book names along with the authors' names."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q106": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், இது எந்த நாட்டின் விண்வெளி ஆராய்ச்சி மையம் அல்லது அமைப்புடன் தொடர்புடையது என்பதைப் பாருங்கள்.",
+    "en": "When asked like this, look at which country's space agency or organization it is associated with."
+   },
+   "explain": {
+    "ta": "பனி பாலம் நடவடிக்கை என்பது நாசா அமைப்பின் துருவ பனி கண்காணிப்பு திட்டமாகும். எனவே நாசா என்பதே சரியான விடையாகும்.",
+    "en": "Operation Ice Bridge is a NASA mission to monitor polar ice, making NASA the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "இது பன்னாட்டு விண்வெளி நிலையத்தைக் குறிக்கும், இது இப்பணியோடு தொடர்புடையது அல்ல.",
+     "en": "This refers to the International Space Station, which is not related to this mission."
+    },
+    "B": {
+     "ta": "இது இந்தியாவின் விண்வெளி ஆராய்ச்சி நிறுவனத்தைக் குறிக்கும், இது பனி பாலம் நடவடிக்கையுடன் தொடர்புடையது அல்ல.",
+     "en": "This refers to the Indian Space Research Organisation, which is not associated with Operation Ice Bridge."
+    },
+    "D": {
+     "ta": "இது ஐரோப்பிய விண்வெளி முகமையைக் குறிக்கும், இது இத்திட்டத்தைச் செயல்படுத்தவில்லை.",
+     "en": "This refers to the European Space Agency, which did not implement this project."
+    }
+   },
+   "rule": {
+    "ta": "முக்கியமான அனைத்துலக விண்வெளி ஆராய்ச்சி திட்டங்கள் மற்றும் அதன் அமைப்புகளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember important international space research projects and their respective agencies."
+   },
+   "eg": {
+    "ta": "நாசா அமைப்பின் கியூரியாசிட்டி ரோவர் செவ்வாய்க் கிரகத்திற்கு அனுப்பப்பட்டது.",
+    "en": "NASA's Curiosity rover was sent to Mars."
+   },
+   "tip": {
+    "ta": "ஐஸ்பிரிட்ஜ் போன்ற துருவ பனி ஆய்வுகள் பெரும்பாலும் நாசா நிறுவனத்தால் மேற்கொள்ளப்படுகின்றன.",
+    "en": "Polar ice studies like IceBridge are mostly undertaken by NASA."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q164": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால், ஊட்டமுறை மற்றும் உயிரியல் வகைப்பாட்டின் கீழ் வரும் உயிரினங்களின் வகைகளைப் பாருங்கள்.",
+    "en": "When asked like this, look at the types of organisms under nutrition and biological classification."
+   },
+   "explain": {
+    "ta": "மனிதன் ஒரு வேதி பிற சார்பு உயிரி (Chemosynthetic heterotroph) என்று சமச்சீர் புத்தகத்தில் குறிப்பிடப்பட்டுள்ளது. எனவே பெக்யா்டோவா என்பதே அதிகாரப்பூர்வ விடையாகும்.",
+    "en": "Man is listed as a chemosynthetic heterotroph in the Samacheer text, making Beggiatoa the official answer."
+   },
+   "why": {
+    "A": {
+     "ta": "மனிதன் சமச்சீர் குறிப்புகளின்படி வேதி பிற சார்பு உயிரி என்ற பிரிவில் அதிகாரப்பூர்வமாக இடம்பெற்றுள்ளான்.",
+     "en": "Man is officially listed under the category of chemosynthetic heterotroph according to the reference notes."
+    },
+    "B": {
+     "ta": "இது ஒரு பகுதி ஒட்டுண்ணி தாவரத்திற்கு எடுத்துக்காட்டாகும்.",
+     "en": "This is an example of a partial parasitic plant."
+    },
+    "C": {
+     "ta": "இது ஒரு வேதி தன் சார்பு ஊட்டமுறை உயிரிக்கு எடுத்துக்காட்டாகும்.",
+     "en": "This is an example of a chemoautotrophic organism."
+    }
+   },
+   "rule": {
+    "ta": "உயிரினங்களின் ஊட்டமுறை மற்றும் அதன் வகைகளின் கீழ் கொடுக்கப்பட்டுள்ள எடுத்துக்காட்டுகளைத் தெளிவாகப் படிக்க வேண்டும்.",
+    "en": "Carefully read the examples given under the modes of nutrition of organisms and their types."
+   },
+   "eg": {
+    "ta": "நைட்ரோசோமோனாஸ் ஒரு வேதி தன் சார்பு உயிரி ஆகும்.",
+    "en": "Nitrosomonas is a chemoautotrophic organism."
+   },
+   "tip": {
+    "ta": "பாடப்புத்தகத்தில் உள்ள அட்டவணைகளில் மனிதன் எந்த ஊட்டமுறைக்குக் கீழ் வருகிறான் என்பதைத் தனியாகக் குறித்துக் கொள்ளவும்.",
+    "en": "Make a special note of which nutrition category humans fall under in textbook tables."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q108": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு நபரும் எந்த விளையாட்டு அல்லது துறையில் சாதனை படைத்தார் என்பதைத் தனித்தனியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match each individual with their respective sports achievement to find the correct sequence."
+   },
+   "explain": {
+    "ta": "சாய்வோம் மீராபாய் சாணு உலக பளு தூக்கும் சாம்பியன்ஷிப் பட்டத்தையும், மேரி காம் ஆசிய மகளிர் குத்துச்சண்டை பட்டத்தையும் வென்றனர். கோபி தொனைக்கல் ஆசிய மாராத்தான் சாம்பியன்ஷிப்பையும், அரவிந்த் சிதம்பரம் உலக இளநிலை சதுரங்க சாம்பியன்ஷிப்பையும் வென்றனர்.",
+    "en": "The correct matching of sports personalities with their 2017 championship titles leads to ."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான வரிசையாகும், ஏனெனில் விளையாட்டு வீரர்களின் சாதனைகள் இந்த ஒழுங்கில் பொருந்தவில்லை.",
+     "en": "This is an incorrect sequence of matchings."
+    },
+    "C": {
+     "ta": "இதுவும் தவறான வரிசையாகும், சில வீரர்களின் சாம்பியன்ஷிப் இடங்கள் மாறியுள்ளன.",
+     "en": "This is an incorrect sequence of matchings."
+    },
+    "D": {
+     "ta": "இதுவும் தவறான வரிசையாகவே கொடுக்கப்பட்டுள்ளது.",
+     "en": "This is an incorrect sequence of matchings."
+    }
+   },
+   "rule": {
+    "ta": "முக்கியமான விளையாட்டுப் போட்டிகள் மற்றும் வெற்றியாளர்களைத் தெரிந்து வைத்திருப்பது பொருத்துக வினாக்களுக்கு உதவும்.",
+    "en": "Knowing prominent sports winners helps in matching questions."
+   },
+   "eg": {
+    "ta": "ஒலிம்பிக் போட்டிகளில் பதக்கம் வென்ற தமிழக வீரர்களை அறிந்துகொள்ளுதல்.",
+    "en": "Knowing medal winners from Tamil Nadu in Olympics."
+   },
+   "tip": {
+    "ta": "தெரிந்த ஒரு ஜோடியை வைத்து விடைகளைக் கண்டறிந்து எளிதாக நீக்கலாம்.",
+    "en": "Use elimination by matching the most familiar pair first."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q128": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தேசிய அளவில் கல்வி மற்றும் தொழில்நுட்பத்திற்காக மாநில அரசுகள் தொடங்கும் திட்டங்களைக் கவனியுங்கள்.",
+    "en": "Remember key e-governance and educational projects launched by various state governments."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, க்யான்கங் மின்-வர்க்க திட்டத்தினை டெல்லி அரசு செயல்படுத்தியதாகக் கொள்ளப்படுகிறது.",
+    "en": "According to the official TNPSC answer key, Delhi government implemented the Gyankunj e-class project."
+   },
+   "why": {
+    "A": {
+     "ta": "இது ஆந்திர பிரதேச மாநிலத்தால் செயல்படுத்தப்பட்ட திட்டம் அல்ல.",
+     "en": "This was not implemented by Andhra Pradesh."
+    },
+    "C": {
+     "ta": "இது கேரளா மாநிலத்துடன் தொடர்புடைய திட்டம் அல்ல.",
+     "en": "This was not implemented by Kerala."
+    },
+    "D": {
+     "ta": "இது குஜராத் அரசுடன் தொடர்புடைய திட்டமாகப் பரவலாக அறியப்பட்டாலும், அதிகாரப்பூர்வ விடையின்படி டெல்லி எனக் கொள்ளப்படுகிறது.",
+     "en": "Though often associated with Gujarat, the official answer key specifies Delhi."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு ஆணையத்தின் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது.",
+    "en": "The official answer key of the commission is final."
+   },
+   "eg": {
+    "ta": "தமிழ்நாட்டின் நவீன மின் ஆளுமைத் திட்டங்கள்.",
+    "en": "Modern e-governance projects of Tamil Nadu."
+   },
+   "tip": {
+    "ta": "நடப்பு நிகழ்வுத் திட்டங்களின் பெயர்களை மாநிலங்களுடன் சேர்த்து நினைவில் கொள்க.",
+    "en": "Remember the names of current affairs schemes with their respective states."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q130": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் உலகளாவிய உணவுப் பாதுகாப்பு மற்றும் தர நிர்ணய அமைப்பின் பெயரைக் கண்டறியுங்கள்.",
+    "en": "Identify the organization responsible for global food standards and safety."
+   },
+   "explain": {
+    "ta": "கோடாக்ஸ் அலிமென்டேஷன் கமிஷன் என்பது சர்வதேச உணவு தரங்களை உருவாக்குவதற்காக FAO மற்றும் WHO இணைந்து உருவாக்கிய அமைப்பாகும்.",
+    "en": "The Codex Alimentarius Commission is established to set international food standards."
+   },
+   "why": {
+    "B": {
+     "ta": "உணவு மற்றும் வேளாண்மை அமைப்பு என்பது ஐக்கிய நாடுகளின் ஒரு சிறப்பு முகமையாகும், இது தர நிர்ணய கமிஷன் அல்ல.",
+     "en": "FAO is a UN specialized agency, not the specific standards commission."
+    },
+    "C": {
+     "ta": "உலக சுகாதார அமைப்பு பொதுவான சுகாதாரத்தைப் பேணுகிறது, ஆனால் இது உணவு தர கமிஷன் அல்ல.",
+     "en": "WHO deals with global health, not exclusively food standards commission."
+    },
+    "D": {
+     "ta": "இந்திய தர குழுமம் என்பது இந்தியாவில் பொருட்களைத் தரம்பார்க்கும் தேசிய அமைப்பாகும்.",
+     "en": "ISI is a national body for standardization in India."
+    }
+   },
+   "rule": {
+    "ta": "சர்வதேச உணவுத் தரங்களை நிர்ணயிப்பது கோடாக்ஸ் அலிமென்டேஷன் கமிஷன் ஆகும்.",
+    "en": "Codex Alimentarius Commission sets international food standards."
+   },
+   "eg": {
+    "ta": "இந்தியாவில் உணவுப் பாதுகாப்பை உறுதி செய்யும் அமைப்பு FSSAI ஆகும்.",
+    "en": "FSSAI ensures food safety in India."
+   },
+   "tip": {
+    "ta": "உணவு தரம் என்றாலே கோடாக்ஸ் (Codex) என்ற சொல்லை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Codex for international food standards."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q131": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் எந்தக் காலத்தில் பொருள்களின் உற்பத்தியை உடனடியாக மாற்ற முடியாது என்பதை யோசித்துப் பாருங்கள்.",
+    "en": "Think about the time period in economics where supply cannot be adjusted at all."
+   },
+   "explain": {
+    "ta": "மிகக் குறுகிய காலத்தில் உற்பத்தி சாதனங்களை மாற்ற இயலாது என்பதால், பொருளின் அளிப்பு முற்றிலும் நிலையாக இருக்கும்.",
+    "en": "In the very short period, supply is completely fixed as production cannot be adjusted."
+   },
+   "why": {
+    "A": {
+     "ta": "குறுகிய காலத்தில் அளிப்பை ஓரளவு மாற்றியமைக்க முடியும், முற்றிலும் நிலையாக இருக்காது.",
+     "en": "Supply can be varied to some extent in the short period."
+    },
+    "C": {
+     "ta": "நீண்ட காலத்தில் அளிப்பைத் தேவத்திற்கேற்ப முழுமையாக மாற்றியமைக்க முடியும்.",
+     "en": "Supply is fully elastic and adjustable in the long period."
+    },
+    "D": {
+     "ta": "மிக நீண்ட காலத்தில் தொழுகைத் தொழில்நுட்பமே கூட மாறி அளிப்பு நெகிழ்ச்சியுடன் இருக்கும்.",
+     "en": "Supply is completely flexible in the very long period."
+    }
+   },
+   "rule": {
+    "ta": "மிகக் குறுகிய காலத்தில் அளிப்பு நிலையான கோடாக இருக்கும்.",
+    "en": "Supply is perfectly inelastic in the very short period."
+   },
+   "eg": {
+    "ta": "சந்தை நாள்களில் மீன் சந்தையில் மீனின் அளிப்பு நிலையாக இருப்பது.",
+    "en": "Supply of fish in a daily market is fixed."
+   },
+   "tip": {
+    "ta": "காலம் குறுகியதாக இருந்தால் அளிப்பு மாறாது (நிலையானது).",
+    "en": "Shorter the period, more fixed the supply."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q137": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தமிழ்நாடு மின்சார வாரியம் எப்போது தொடங்கப்பட்டது என்பதன் சரியான தேதியைக் கண்டறியுங்கள்.",
+    "en": "Recall the exact date of establishment of Tamil Nadu Electricity Board."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, தமிழ்நாடு மின்சார வாரியம் 1957 அக்டோபர் 1 அன்று அமைக்கப்பட்டது எனக் கொள்ளப்படுகிறது.",
+    "en": "According to the official TNPSC answer key, TNEB was established on October 1, 1957."
+   },
+   "why": {
+    "A": {
+     "ta": "1957 ஜூலை 1 என்பது குறிப்பு நோட்டில் உள்ள தவறான தேதியாகும், அதிகாரப்பூர்வ விடை வேறு.",
+     "en": "July 1, 1957 is incorrect as per the official answer."
+    },
+    "B": {
+     "ta": "இது சரியான தொடக்கத் தேதி அல்ல.",
+     "en": "This is not the correct date."
+    },
+    "C": {
+     "ta": "இதுவும் சரியான அதிகாரப்பூர்வ தொடக்கத் தேதி அல்ல.",
+     "en": "This is not the correct date."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாடு மின்சார வாரியம் உருவாக்கப்பட்ட ஆண்டு 1957 ஆகும்.",
+    "en": "TNEB was formed in the year 1957."
+   },
+   "eg": {
+    "ta": "தமிழ்நாடு மின்சார வாரியம் உருவாக்கப்பட்ட சட்டம் 1948 மின்பகிர்மான சட்டம்.",
+    "en": "Electricity Supply Act of 1948 enabled the formation."
+   },
+   "tip": {
+    "ta": "அக்டோபர் 1 காந்தி ஜெயந்திக்கு முந்தைய நாள் அல்லது மாதத்தின் முதல் நாள் என நினைவில் கொள்க.",
+    "en": "Remember October 1 as the formation date of TNEB."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q142": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் வேளாண்மை உற்பத்தியை எந்தக் காரணிகளை அடிப்படையாக வைத்து அளவிடுகிறார்கள் என்பதைப் பாருங்கள்.",
+    "en": "Look at the factors used to calculate agricultural productivity."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, வேளாண்மை உற்பத்தியை அளவிடும் முறையில் எந்திரமயமாதல் முக்கியப் பங்கு வகிப்பதாகக் கொள்ளப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, mechanization is considered as a measure of agricultural productivity."
+   },
+   "why": {
+    "A": {
+     "ta": "இது உர நுகர்வு மற்றும் உழைப்புத் திறனைக் குறிக்கிறது, ஆனால் அதிகாரப்பூர்வ விடை வேறு.",
+     "en": "This refers to fertilizer consumption and labour productivity."
+    },
+    "B": {
+     "ta": "நீர்ப்பாசன வசதி என்பது வேளாண்மைக்கான ஒரு மூலப்பொருள் ஆகும்.",
+     "en": "Irrigation facility is an input, not the primary measure here."
+    },
+    "C": {
+     "ta": "பொருளாதார விதிகளின்படி நிலம் மற்றும் உழைப்பின் உற்பத்தித்திறனே சரியான அளவீடு என்றாலும், இப்பேராணையில் அதிகாரப்பூர்வ விடை மாற்றப்பட்டுள்ளது.",
+     "en": "Though land and labour productivity are standard economic measures, official key differs."
+    }
+   },
+   "rule": {
+    "ta": "அதிகாரப்பூர்வ தேர்வாணையத்தின் விடயே இறுதித் தீர்ப்பாகும்.",
+    "en": "The commission's official key is final."
+   },
+   "eg": {
+    "ta": "வேளாண்மை உற்பத்தியை உயர்த்த உதவும் நவீன தொழில்நுட்பங்கள்.",
+    "en": "Modern technologies enhancing agricultural production."
+   },
+   "tip": {
+    "ta": "வினா தாளில் உள்ள தேர்வாணைய விடையை அப்படியே நினைவில் கொள்ளவும்.",
+    "en": "Memorize the commission's specific key for this repeated question."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q143": {
+   "hint": {
+    "ta": "பொருளியல் அறிஞர்கள் மற்றும் அவர்களின் முக்கியக் கொள்கைகள் சார்ந்த கேள்விகளில், TNPSC குறிப்பு மற்றும் விடைக்குறிப்பை கவனமாகப் பார்க்கவும்.",
+    "en": "Look closely at the official answer regarding classical economics."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இந்த வினாவுக்கான சரியான விடை தொழில் துறை ஆகும். அதிகாரப்பூர்வ விடை இறுதி என்பதால் இக்கொள்கை அடிப்படையிலான விடையைத் தேர்ந்தெடுக்க வேண்டும்.",
+    "en": "According to the TNPSC official answer key, the correct choice is Industrial."
+   },
+   "why": {
+    "A": {
+     "ta": "இது குறிப்பு வரிகளில் குறிப்பிடப்பட்டிருந்தாலும், அதிகாரப்பூர்வ விடை வேறுபடுத்திக் காட்டப்பட்டுள்ளது.",
+     "en": "Though mentioned in notes, it is not the official answer here."
+    },
+    "C": {
+     "ta": "இது ஏற்றுமதி மற்றும் இறக்குமதி தொடர்பான வணிகச் செயல்பாட்டைக் குறிக்கும்.",
+     "en": "This refers to export and import activities."
+    },
+    "D": {
+     "ta": "இது பொதுவான வணிகக் குறிப்பைக் குறிப்பதாகும்.",
+     "en": "This refers to general commerce."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது.",
+    "en": "The official answer key is final in TNPSC exams."
+   },
+   "eg": {
+    "ta": "ஆடம் ஸ்மித் மற்றும் கிளாசிக்கல் பொருளாதாரக் கொள்கைகள்.",
+    "en": "Adam Smith and classical economic policies."
+   },
+   "tip": {
+    "ta": "வினாத்தாள் குறிப்புகளையும் அதிகாரப்பூர்வ விடையையும் ஒப்பிட்டுப் படிக்கவும்.",
+    "en": "Compare question notes with the official key."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q144": {
+   "hint": {
+    "ta": "பட்டியல் ஒன்றில் உள்ள திட்டங்களையும் இயக்கங்களையும் பட்டியல் இரண்டில் உள்ள ஆண்டுகளுடனும் நபர்களுடனும் சரியாகப் பொருத்திப் பார்க்கவும்.",
+    "en": "Match the acts and programmes with their corresponding years and personalities."
+   },
+   "explain": {
+    "ta": "சாரதா சட்டம் 1929-ம் ஆண்டும், சம ஊதியச் சட்டம் 1976-ம் ஆண்டும் நிறைவேற்றப்பட்டன. கரும்பலகைத் திட்டம் 1992-ம் ஆண்டும், 20 அம்சத் திட்டம் திருமதி. இந்திராகாந்தியாலும் தொடங்கப்பட்டன.",
+    "en": "Saradha Act is from 1929, Equal Pay Act from 1976, Block Board Act from 1992, and 20 Point Programme is associated with Indira Gandhi."
+   },
+   "why": {
+    "A": {
+     "ta": "இது சரியான பொருத்துதல் வரிசை அல்ல.",
+     "en": "This is not the correct matching sequence."
+    },
+    "C": {
+     "ta": "இந்த வரிசை கொடுக்கப்பட்ட திட்டங்களின் சரியான ஆண்டுகளையும் நபர்களையும் குறிக்கவில்லை.",
+     "en": "This sequence does not correctly represent the matching pairs."
+    },
+    "D": {
+     "ta": "இது தவறான வரிசை அமைப்பைக் கொண்டுள்ளது.",
+     "en": "This has an incorrect arrangement."
+    }
+   },
+   "rule": {
+    "ta": "முக்கியமான சமூகச் சட்டங்கள் மற்றும் திட்டங்களின் ஆண்டுகளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the years of important social acts and welfare programmes."
+   },
+   "eg": {
+    "ta": "நுகர்வோர் பாதுகாப்புச் சட்டம் - 1986.",
+    "en": "Consumer Protection Act - 1986."
+   },
+   "tip": {
+    "ta": "தெரிந்த ஒரு பொருத்தத்தைக் கொண்டு சரியான தேர்வை விரைவாகக் கண்டறியலாம்.",
+    "en": "Use known matches to quickly eliminate wrong options."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q150": {
+   "hint": {
+    "ta": "கொடுக்கப்பட்டுள்ள நபர்கள் எந்தெந்த விளையாட்டுடன் தொடர்புடையவர்கள் என்பதைச் சரிபார்க்கவும்.",
+    "en": "Check the sports associated with the given personalities."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி லில்லி சாணு பூனம் என்பவரே பொருந்தாத நபராகக் குறிப்பிடப்பட்டுள்ளார். மற்றவர்கள் வில்வித்தை மற்றும் வேறு விளையாட்டுகளுடன் தொடர்புடையவர்கள்.",
+    "en": "According to the official answer key, Lily Chanu Poonam is identified as the odd person out."
+   },
+   "why": {
+    "A": {
+     "ta": "திரிஷா தேப் வில்வித்தை விளையாட்டுடன் தொடர்புடையவர்.",
+     "en": "Trisha Deb is associated with archery."
+    },
+    "B": {
+     "ta": "நிட்டல் பால் வேறு விளையாட்டுப் பிரிவைச் சேர்ந்தவர்.",
+     "en": "Nital Paul belongs to a different sports category."
+    },
+    "D": {
+     "ta": "ஜோதி சுரேகா வென்னம் வில்வித்தை வீராங்கனை ஆவார்.",
+     "en": "Jyothi Surekha Vennam is an archer."
+    }
+   },
+   "rule": {
+    "ta": "விளையாட்டு வீரர்களின் பெயர்களையும் அவர்கள் சார்ந்த விளையாட்டுகளையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember prominent sportspersons and their associated sports."
+   },
+   "eg": {
+    "ta": "பி.வி. சிந்து - பாட்மிட்டன்.",
+    "en": "P.V. Sindhu - Badminton."
+   },
+   "tip": {
+    "ta": "நடப்பு நிகழ்வுகளில் இடம்பெறும் விளையாட்டு வீரர்களைக் குறிப்பு எடுத்துக்கொள்ளவும்.",
+    "en": "Note down sportspersons appearing in current affairs."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q151": {
+   "hint": {
+    "ta": "இந்தி-இஸ்ரேல் கூட்டு வேளாண்மை திட்டத்தின் கீழ் தமிழ்நாட்டில் எந்த இடத்தில் மையம் தொடங்கப்பட்டது என்பதைத் தேடவும்.",
+    "en": "Look for the location where the Indo-Israel agricultural project center was established."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி அண்ணாநகர், சென்னை என்பதே சரியான விடையாகும். அதிகாரப்பூர்வ விடையே தேர்வில் இறுதியானது.",
+    "en": "According to the official answer key, Anna Nagar, Chennai is the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "தோவாலை கன்னியாகுமரியில் அமைந்துள்ளது, ஆனால் இது அதிகாரப்பூர்வ விடை அல்ல.",
+     "en": "Thovalai is in Kanyakumari, but it is not the official answer."
+    },
+    "B": {
+     "ta": "இது குறிப்பு வரிகளில் குறிப்பிடப்பட்டிருந்தாலும், அதிகாரப்பூர்வ விடை வேறு இடம் ஆகும்.",
+     "en": "Though found in notes, it is not the official answer."
+    },
+    "D": {
+     "ta": "குன்னூர் நீலகிரி மாவட்டத்தில் உள்ள மலைப்பகுதி ஆகும்.",
+     "en": "Coonoor is a hill station in Nilgiris."
+    }
+   },
+   "rule": {
+    "ta": "அரசின் திட்டங்கள் மற்றும் மையங்கள் அமைந்துள்ள இடங்களைக் கவனமாகப் படிக்க வேண்டும்.",
+    "en": "Carefully study the locations of government projects and centers."
+   },
+   "eg": {
+    "ta": "வேளாண்மை மற்றும் தோட்டக்கலைத் துறை சார்ந்த திட்டங்கள்.",
+    "en": "Schemes related to agriculture and horticulture."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பைக் கட்டாயம் நினைவில் கொள்ளவும்.",
+    "en": "Always adhere to the official answer key for such factual questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q153": {
+   "hint": {
+    "ta": "சர்வதேச அமைப்புகளில் உயர்ந்த பதவிகளை வகிக்கும் இந்தியர்களைப் பற்றிய வினா இது.",
+    "en": "This question is about Indians holding top positions in international organizations."
+   },
+   "explain": {
+    "ta": "ప్రముఖ இந்திய அறிவியலாளர் சௌமியா சுவாமிநாதன் உலக சுகாதார நிறுவனத்தின் துணைப் பொது இயக்குநராக நியமிக்கப்பட்டார். இது சர்வதேச அளவில் இந்தியாவுக்கான பெருமையாகும்.",
+    "en": "Renowned Indian scientist Soumya Swaminathan was appointed as the Deputy Director General of WHO."
+   },
+   "why": {
+    "A": {
+     "ta": "நிஷா தேசாய் பிஸ்வால் அமெரிக்கா சார்ந்த வெளியுறவுக் கொள்கை நிபுணர் ஆவார்.",
+     "en": "Nisha Desai Biswal is a US-based foreign policy expert."
+    },
+    "B": {
+     "ta": "தினேஷ்வர் சர்மா காஷ்மீர் விவகாரங்களுக்கான பேச்சுவார்த்தையாளராகப் பணியாற்றினார்.",
+     "en": "Dineshwar Sharma served as an interlocutor for Kashmir."
+    },
+    "D": {
+     "ta": "கௌதம் பியூபவாலா இப்பதவியுடன் தொடர்புடையவர் அல்ல.",
+     "en": "Gautam Bewbawala is not related to this position."
+    }
+   },
+   "rule": {
+    "ta": "சர்வதேச அமைப்புகளில் நியமிக்கப்படும் இந்தியர்களை அறிந்துகொள்ள வேண்டும்.",
+    "en": "Know the Indians appointed to international bodies."
+   },
+   "eg": {
+    "ta": "அஜந்தா பாங்கா - உலக வங்கிப் பதவி.",
+    "en": "Ajay Banga - World Bank position."
+   },
+   "tip": {
+    "ta": "சர்வதேச நியமனங்கள் குறித்த நடப்பு நிகழ்வுகளைத் தவறாமல் படிக்கவும்.",
+    "en": "Regularly read current affairs regarding international appointments."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q155": {
+   "hint": {
+    "ta": "இந்தியா மற்றும் மாலத்தீவு நாடுகளுக்கு இடையேயான கூட்டு இராணுவப் பயிற்சியின் பெயரைக் கண்டறியவும்.",
+    "en": "Identify the name of the joint military exercise between India and Maldives."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இந்த வினாவுக்கான சரியான விடை சம்பிரீத் 2017 ஆகும். அதிகாரப்பூர்வ விடையே தேர்வில் பின்பற்றப்படும்.",
+    "en": "According to the official answer key, the correct answer is SAMPRITI 2017."
+   },
+   "why": {
+    "A": {
+     "ta": "இம்பாக்ஸ் என்பது இந்தியாவுக்கும் மியான்மருக்கும் இடையேயான பயிற்சியாகும்.",
+     "en": "IMBAX is the exercise between India and Myanmar."
+    },
+    "B": {
+     "ta": "இது குறிப்பு வரிகளில் குறிப்பிடப்பட்டிருந்தாலும், அதிகாரப்பூர்வ விடை வேறுபடுத்திக் காட்டப்பட்டுள்ளது.",
+     "en": "Though mentioned in notes, it is not the official answer."
+    },
+    "C": {
+     "ta": "இந்திரா என்பது இந்தியாவுக்கும் ரஷ்யாவுக்கும் இடையேயான பயிற்சியாகும்.",
+     "en": "INDRA is the exercise between India and Russia."
+    }
+   },
+   "rule": {
+    "ta": "இராணுவக் கூட்டுப் பயிற்சிகளின் பெயர்களையும் நாடுகளையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the names of joint military exercises and participating countries."
+   },
+   "eg": {
+    "ta": "சூரிய கிணண் - இந்தியா மற்றும் நேபாளம் இடையேயான பயிற்சி.",
+    "en": "Surya Kiran - Exercise between India and Nepal."
+   },
+   "tip": {
+    "ta": "தேர்வு ஆணையத்தின் அதிகாரப்பூர்வ விடையையே எப்போதும் அடிப்படையாகக் கொள்ளவும்.",
+    "en": "Always follow the official commission key for exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q157": {
+   "hint": {
+    "ta": "நவம்பர் 2017-ல் தேசிய நெடுஞ்சாலையாக மாற்றப்பட்ட மற்றும் மாற்றப்படாத தமிழகச் சாலைகளைத் தேடிப் பாருங்கள்.",
+    "en": "Check which Tamil Nadu State Highway was NOT upgraded to a National Highway in November 2017."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, சென்னை - எண்ணூர் மாநில நெடுஞ்சாலை நவம்பர் 2017-ல் தேசிய நெடுஞ்சாலையாக மேம்படுத்தப்படவில்லை. மற்ற சாலைகள் குறிப்பிட்ட காலகட்டத்தில் தேசிய நெடுஞ்சாலைத் தகுதியைப் பெற்றவையாகக் கருதப்படுகின்றன.",
+    "en": "According to the official answer, Chennai - Ennore State Highway was not upgraded as National Highway in November 2017."
+   },
+   "why": {
+    "A": {
+     "ta": "இது நவம்பர் 2017-ல் தேசிய நெடுஞ்சாலையாக மேம்படுத்தப்பட்ட மாநில நெடுஞ்சாலைகளில் ஒன்றாகும்.",
+     "en": "This was one of the state highways upgraded to a national highway in November 2017."
+    },
+    "B": {
+     "ta": "இதுவும் நவம்பர் 2017-ல் தேசிய நெடுஞ்சாலைத் தரம் உயர்த்தப்பட்ட பட்டியலில் இடம்பெற்றதாகும்.",
+     "en": "This was also included in the list upgraded to national highway status in November 2017."
+    },
+    "C": {
+     "ta": "இது கொடைக்கானல் பகுதியில் மேம்படுத்தப்பட்ட தேசிய நெடுஞ்சாலைத் திட்டத்தின் கீழ் வரும் சாலையாகும்.",
+     "en": "This is a road falling under the upgraded national highway project in the Kodaikanal region."
+    }
+   },
+   "rule": {
+    "ta": "முக்கியமான சாலை மேம்பாட்டுத் திட்டங்கள் மற்றும் அறிவிக்கப்பட்ட ஆண்டுகளைப் பட்டியலிட்டுப் படிக்க வேண்டும்.",
+    "en": "Memorize important infrastructure and highway upgradation announcements with their years."
+   },
+   "eg": {
+    "ta": "தமிழகத்தில் பல மாநில நெடுஞ்சாலைகள் தேசிய நெடுஞ்சாலைகளாகத் தரமுயர்த்தப்பட்டு வருகின்றன.",
+    "en": "Several state highways in Tamil Nadu are continuously upgraded to national highways."
+   },
+   "tip": {
+    "ta": "தலைநகர் சென்னை தொடர்பான சில சிறப்பு விதிவிலக்குக் கேள்விகளில் சென்னை சார்ந்த தெரிவுகள் விடிகளாக வர வாய்ப்பில்லை.",
+    "en": "In some factual exceptions involving Chennai, Chennai-based options might be the correct exclusion."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q178": {
+   "hint": {
+    "ta": "இந்தியாவில் எந்தப் பெருநகரம் தனக்கென பிரத்யேகமான அதிகாரப்பூர்வ சின்னத்தை முதன்முதலில் அறிமுகப்படுத்தியது என்பதைப் பாருங்கள்.",
+    "en": "Look for the first Indian city that launched its own official logo."
+   },
+   "explain": {
+    "ta": "கர்நாடக மாநிலத்தின் தலைநகரான பெங்களூரு நகரம் இந்தியாவில் தனக்கென்று தனித்துவமான அதிகாரப்பூர்வ சின்னத்தைப் பெற்ற முதல் நகரமாகும். இது இந்தியாவின் சிலிக்கான் பள்ளத்தாக்கு என்றும் அழைக்கப்படுகிறது.",
+    "en": "Bengaluru became the first Indian city to get its own official city logo."
+   },
+   "why": {
+    "A": {
+     "ta": "பூனா மகாராஷ்டிர மாநிலத்தில் உள்ள ஒரு முக்கிய நகரமாகும், இது முதல் சின்னம் பெற்ற நகரம் அல்ல.",
+     "en": "Pune is a major city in Maharashtra and not the first to get a logo."
+    },
+    "C": {
+     "ta": "சென்னை தமிழ்நாட்டின் தலைநகராகும், ஆனால் முதல் சின்னம் பெற்ற பெருமை பெங்களூருக்கே உண்டு.",
+     "en": "Chennai is the capital of Tamil Nadu, but Bengaluru holds this specific distinction."
+    },
+    "D": {
+     "ta": "டெல்லி இந்தியாவின் தேசியத் தலைநகரம் ஆகும், ஆனால் இச்சிறப்பைப் பெறவில்லை.",
+     "en": "Delhi is the national capital of India, but does not hold this first."
+    }
+   },
+   "rule": {
+    "ta": "நாட்டின் முதல் நிகழ்வுகள் (First in India) தொடர்பான நடப்பு நிகழ்வுத் தகவல்களைத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the 'First in India' current affairs facts clearly."
+   },
+   "eg": {
+    "ta": "மும்பை இந்தியாவின் நிதித் தலைநகரம் மற்றும் மெட்ரோ ரயில் சேவையைப் பெற்ற முதல் நகரங்களில் ஒன்றாகும்.",
+    "en": "Mumbai is the financial capital of India and one of the early cities to get metro rail."
+   },
+   "tip": {
+    "ta": "முதல் நகரம் என்று கேட்டால் பெங்களூரு (IT நகரம்) என்பதை நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember Bengaluru as the pioneer for city logos."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q187": {
+   "hint": {
+    "ta": "தொழில் முனைவு முன்னேற்றத் திட்டம் (EDP) எத்தகைய நோக்கத்திற்காக உருவாக்கப்பட்டது என்பதைச் சிந்தித்துப் பாருங்கள்.",
+    "en": "Think about the primary objective of the Entrepreneurship Development Programme (EDP)."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, தொழில் முனைவு முன்னேற்றத்துக்கான திட்டம் பெண்களின் ஆற்றலை நிரூபணம் செய்ய உதவும் திட்டமாகக் கருதப்படுகிறது. இது பெண்களின் திறமைகளை வெளிக்கொணர்ந்து அவர்களைத் தொழில் முனைவோராக மாற்ற உதவுகிறது.",
+    "en": "According to the official answer, the Entrepreneurship Development Programme is associated with making and proving women's potential."
+   },
+   "why": {
+    "A": {
+     "ta": "எഴുத்தறிவின்மையை ஒழிப்பது என்பது வயதுவந்தோர் கல்வி மற்றும் கல்விசார் திட்டங்களுடன் தொடர்புடையது.",
+     "en": "Eradication of illiteracy is related to adult education and literacy schemes."
+    },
+    "C": {
+     "ta": "இந்தத் தெரிவு நெருக்கமாகத் தோன்றினாலும், அதிகாரப்பூர்வ விடை பெண்களின் ஆற்றலை நிரூபிப்பதே ஆகும்.",
+     "en": "Though close, the official key specifies proving women's potential."
+    },
+    "D": {
+     "ta": "வறுமை ஒழிப்பு என்பது வேலைவாய்ப்பு மற்றும் கிராமப்புற வளர்ச்சித் திட்டங்களின் முக்கிய நோக்கமாகும்.",
+     "en": "Poverty alleviation is the goal of rural employment and development schemes."
+    }
+   },
+   "rule": {
+    "ta": "பொருளாதார மற்றும் சமூக மேம்பாட்டுத் திட்டங்களின் நோக்கங்களை அதிகாரப்பூர்வ குறிப்புகளின்படி படிக்க வேண்டும்.",
+    "en": "Study the objectives of socio-economic schemes strictly based on official guidelines."
+   },
+   "eg": {
+    "ta": "மகளிர் சுயஉதவிக் குழுக்கள் பெண்களின் பொருளாதார மேம்பாட்டிற்கு முக்கியப் பங்காற்றுகின்றன.",
+    "en": "Women Self-Help Groups play a major role in women's economic empowerment."
+   },
+   "tip": {
+    "ta": "பெண்கள் சார்ந்த மேம்பாட்டுத் திட்டங்களில் ஆற்றலை நிரூபித்தல் என்ற வார்த்தையைக் கவனியுங்கள்.",
+    "en": "Look for the keyword 'proving women's potential' for this specific EDP question."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q196": {
+   "hint": {
+    "ta": "இந்தியாவில் வேளாண் விலை கொள்கை எந்த ஆண்டில் அறிமுகப்படுத்தப்பட்டது என்பதைச் சரிபார்த்துக் கொள்ளுங்கள்.",
+    "en": "Check the year when the Agricultural Price Policy was introduced in India."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, புதிய வேளாண் விலைக் கொள்கை 1976 ஆம் ஆண்டு வெளியிடப்பட்டது. இது விவசாயிகளுக்கு நியாயமான விலையை உறுதி செய்வதற்காகக் கொண்டுவரப்பட்டது.",
+    "en": "According to the official answer, the New Agricultural Price Policy was announced in 1976."
+   },
+   "why": {
+    "A": {
+     "ta": "1984 என்பது வேளாண் கொள்கைகளுடன் நேரடியாகத் தொடர்புடைய முதன்மைக் குறிப்பு ஆண்டு அல்ல.",
+     "en": "1984 is not the primary year associated with this agricultural policy."
+    },
+    "C": {
+     "ta": "1996 ஆம் ஆண்டு இந்திய வேளாண் துறையில் புதிய பொருளாதார மாற்றங்கள் நிகழ்ந்த காலகட்டமாகும்.",
+     "en": "1996 marks a period of economic reforms in the Indian agricultural sector."
+    },
+    "D": {
+     "ta": "1986 என்பது சில பொருளாதார மற்றும் கல்விசார் கொள்கைகள் உருவான ஆண்டாகும்.",
+     "en": "1986 is the year associated with other educational and economic policies."
+    }
+   },
+   "rule": {
+    "ta": "வேளாண்மை மற்றும் பொருளாதாரக் கொள்கைகள் அறிவிக்கப்பட்ட ஆண்டுகளைத் தவறாமல் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the announcement years of key agricultural and economic policies."
+   },
+   "eg": {
+    "ta": "இந்தியாவில் குறைந்தபட்ச ஆதரவு விலை (MSP) விவசாயிகளுக்கு விலை ஸ்திரத்தன்மையை வழங்குகிறது.",
+    "en": "Minimum Support Price (MSP) in India provides price stability to farmers."
+   },
+   "tip": {
+    "ta": "வேளாண் விலைக் கொள்கை என்றால் 1976 என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Associate New Agricultural Price Policy directly with 1976."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q197": {
+   "hint": {
+    "ta": "கல்விப் பொருளியல் (Economics of Education) என்ற கருத்தை முதன்முதலில் கூறிய பொருளாதார அறிஞர் யார் என்பதைப் பாருங்கள்.",
+    "en": "Identify the economist who introduced the concept of economics of education."
+   },
+   "explain": {
+    "ta": "கல்வி பற்றிய பொருளியலை (Economics of Education) உருவாக்கியவர் ஸ்கால்ட்ஸ் (Schultz) ஆவார். மனித மூலதன மேம்பாட்டில் கல்வியின் பங்கை இவர் விரிவாக ஆராய்ந்தார்.",
+    "en": "The economics of education was introduced by Schultz, who emphasized human capital."
+   },
+   "why": {
+    "A": {
+     "ta": "மார்ஷல் நব্য கிளாசிக்கல் பொருளியல் மற்றும் 'பொருளியல் கோட்பாடுகள்' நூலாசிரியர் ஆவார்.",
+     "en": "Marshall is a neoclassical economist and author of 'Principles of Economics'."
+    },
+    "B": {
+     "ta": "காரல் மார்க்ஸ் மூலதனம் (Das Kapital) மற்றும் மார்க்சியப் பொருளியலின் தந்தை ஆவார்.",
+     "en": "Karl Marx is known for Das Kapital and Marxist economics."
+    },
+    "D": {
+     "ta": "கீன்சு நவீன மேக்ரோ பொருளியல் மற்றும் வேலைவாய்ப்புக் கோட்பாட்டின் தந்தை ஆவார்.",
+     "en": "Keynes is the father of modern macroeconomics and employment theory."
+    }
+   },
+   "rule": {
+    "ta": "பொருளியல் அறிஞர்கள் மற்றும் அவர்கள் அறிமுகப்படுத்திய சிறப்புக் கோட்பாடுகளை இணைத்துப் படிக்க வேண்டும்.",
+    "en": "Match economists with their unique theoretical contributions."
+   },
+   "eg": {
+    "ta": "மனித மூலதனம் என்பது கல்வி மற்றும் பயிற்சியின் மூலம் திறமையை வளர்ப்பதாகும்.",
+    "en": "Human capital formation refers to developing skills through education and training."
+   },
+   "tip": {
+    "ta": "கல்விப் பொருளியல் என்றவுடன் 'ஸ்கால்ட்ஸ்' பெயரை உடனடியாக நினைவுக்குக் கொண்டு வாருங்கள்.",
+    "en": "Instantly link 'economics of education' with Schultz."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q199": {
+   "hint": {
+    "ta": "மத்திய அரசின் வறுமை ஒழிப்பு மற்றும் வேலைவாய்ப்புத் திட்டங்கள் தொடங்கப்பட்ட ஆண்டுகளுடன் அவற்றைச் சரியாகப் பொருத்துங்கள்.",
+    "en": "Match the central government poverty alleviation and employment schemes with their launch years."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான பொருத்தம்: ஜவஹர் கிராம் வேலைவாய்ப்புத் திட்டம் 1999, நாட்டு சமூக உதவித் திட்டம் 1995, வேலைவாய்ப்பு உறுதித் திட்டம் 1993, கிராம ஒருங்கிணைந்த வளர்ச்சித் திட்டம் 1977 ஆகும். எனவே சரியான வரிசை 4 2 1 3 ஆகும்.",
+    "en": "According to the official answer, the correct matching gives the sequence 4 2 1 3."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை திட்டங்களின் தொடக்க ஆண்டுகளைத் தவறாகப் பொருத்துகிறது.",
+     "en": "This sequence incorrectly matches the launch years of the schemes."
+    },
+    "B": {
+     "ta": "இந்தத் தெரிவில் ஆண்டுகளின் வரிசை முறை மாற்றப்பட்டுள்ளது.",
+     "en": "This option presents an incorrect order of years."
+    },
+    "D": {
+     "ta": "இதுவும் கொடுக்கப்பட்ட திட்டங்களுக்குப் பொருத்தமற்ற ஆண்டின் வரிசையாகும்.",
+     "en": "This is also an incorrect matching sequence for the given schemes."
+    }
+   },
+   "rule": {
+    "ta": "மத்திய அரசின் முக்கிய சமூக நலத் திட்டங்கள் மற்றும் தொடங்கப்பட்ட ஆண்டுகளைத் தொகுத்து ஞாபகம் வைத்துக் கொள்ள வேண்டும்.",
+    "en": "Memorize the launch years of major central social welfare schemes."
+   },
+   "eg": {
+    "ta": "கிராம ஒருங்கிணைந்த வளர்ச்சித் திட்டம் (IRDP) 1977-ல் தொடங்கப்பட்டது.",
+    "en": "Integrated Rural Development Programme (IRDP) was launched in 1977."
+   },
+   "tip": {
+    "ta": "பொருத்துக வினாக்களில் குறைந்தபட்சம் இரண்டு திட்டங்களின் ஆண்டுகளைத் সঠিকভাবেத் தெரிந்தால் முழு விடையையும் கண்டுபிடிக்கலாம்.",
+    "en": "In matching questions, knowing the years of at least two schemes helps eliminate wrong options."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q109": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் குறிப்பிட்ட ஆண்டுக்கான சாகித்திய அகாதமி அல்லது வியாஸ் சம்மான் போன்ற இலக்கிய விருது பெற்ற நாவலையும் அதன் ஆசிரியரையும் கவனமாகப் பாருங்கள்.",
+    "en": "Check the literary award and the respective author carefully."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சுனிதா ஜெயின் என்பதே சரியான விடை ஆகும். எனினும் குறிப்பின்படி, 2017-ஆம் ஆண்டிற்கான வியாஸ் சம்மான் விருது மம்தா காலியாவின் 'துக்கம் சுக்சம்' நாவலுக்கு வழங்கப்பட்டுள்ளது.",
+    "en": "As per official key Sunita Jain is correct, though notes mention Mamta Kalia for Dukkam Sukkham in 2017."
+   },
+   "why": {
+    "A": {
+     "ta": "இது சுரிந்தர் வர்மா எழுதிய வேறு ஒரு படைப்பாகும்.",
+     "en": "This is a different work by Surindar Verma."
+    },
+    "C": {
+     "ta": "குறிப்புகளின்படி 'துக்கம் சுக்சம்' நாவலை எழுதியவர் இவர் என்றாலும், அதிகாரப்பூர்வ விடை வேறு.",
+     "en": "Though notes say she wrote Dukkam Sukkham, the official key is different."
+    },
+    "D": {
+     "ta": "இது கமல் கிஷோர் கோயன்காவின் படைப்பு அல்ல.",
+     "en": "This is not the work of Kamal Kishore Goyenka."
+    }
+   },
+   "rule": {
+    "ta": "இலக்கிய விருதுகள் மற்றும் நூல்களின் ஆசிரியர்களைப் படிக்கையில் அதிகாரப்பூர்வ விடைக் குறிப்புகளையும் நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember official keys along with literary awards and authors."
+   },
+   "eg": {
+    "ta": "வியாஸ் சம்மான் விருது இந்தி இலக்கிய பங்களிப்பிற்காக வழங்கப்படுகிறது.",
+    "en": "Vyas Samman is given for contribution to Hindi literature."
+   },
+   "tip": {
+    "ta": "தேர்வு குறிப்புகளைப் படிக்கும்போது குழப்பமான பெயர்களை அடிக்கோடிட்டுப் படிக்கவும்.",
+    "en": "Underline confusing names while reading study notes."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q135": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பண்டைய மருத்துவ நூல்களையும் அதன் ஆசிரியர்களையும் பொறுத்துக.",
+    "en": "Match ancient medical texts and their authors."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கிருதார்ச்சுனியம் என்பதே சரியான விடை ஆகும். எனினும் வாக்பதர் எழுதிய மருத்துவ நூல் அஷ்டாங்க சம்கிரிகம் ஆகும்.",
+    "en": "As per official key Girudharshuniam is correct, though notes state Vak Pathar wrote Astangasamgraham."
+   },
+   "why": {
+    "A": {
+     "ta": "பஞ்ச சித்தாந்திகா என்பது வராகமிகிரரால் எழுதப்பட்ட நூலாகும்.",
+     "en": "Pancha Sidhanthiga was written by Varahamihira."
+    },
+    "B": {
+     "ta": "அஷ்டாங்க சம்கிரிகம் என்பது வாக்பதர் எழுதிய மருத்துவ நூலாகும்.",
+     "en": "Astangasamgraham is the medical text written by Vak Pathar."
+    },
+    "D": {
+     "ta": "அமரகொஷம் என்பது அமரசிம்மரால் எழுதப்பட்ட அகராதியாகும்.",
+     "en": "Amarakosam is a lexicon written by Amarasimha."
+    }
+   },
+   "rule": {
+    "ta": "வாக்பதர் எழுதிய புகழ்பெற்ற மருத்துவ நூல் அஷ்டாங்க சம்கிரிகம் ஆகும்.",
+    "en": "Astangasamgraham is the famous medical text by Vak Pathar."
+   },
+   "eg": {
+    "ta": "பாரவி எழுதிய நூல் கிருதார்ச்சுனியம் ஆகும்.",
+    "en": "Girudharshuniam was written by Bharavi."
+   },
+   "tip": {
+    "ta": "ஆசிரியர் பெயரையும் நூலின் பெயரையும் சேர்த்து ஒருமுறைக்கு இருமுறை எழுதிப் பார்க்கவும்.",
+    "en": "Write author and book names together to remember."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q136": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கொரில்லா போர் முறை போன்ற ராணுவ யுக்திகளின் தன்மையைப் பாருங்கள்.",
+    "en": "Look at the nature of military tactics like guerilla warfare."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி பயிற்சி பெற்ற போர் முறை என்பதே சரியான விடை ஆகும். எனினும் கொரில்லா போர் முறை என்பது முறைசாரா போர் முறை எனப்படும்.",
+    "en": "As per official key practised warfare is correct, though notes state irregular warfare."
+   },
+   "why": {
+    "A": {
+     "ta": "முறையான போர் முறை என்பது வழக்கமான நாடுகளுக்கு இடையேயான போர் ஆகும்.",
+     "en": "Regular warfare is conventional war between nations."
+    },
+    "C": {
+     "ta": "இதுவே கொரில்லா போர் முறையின் உண்மையான பொருளாகும்.",
+     "en": "This is the actual meaning of guerilla warfare."
+    },
+    "D": {
+     "ta": "கலப்பு போர் முறை என்பது பல வகையான உத்திகளை உள்ளடக்கியது.",
+     "en": "Mixed warfare involves multiple tactics."
+    }
+   },
+   "rule": {
+    "ta": "கொரில்லா போர் முறை என்பது திடீர் தாக்குதல்களை அடிப்படையாகக் கொண்ட முறைசாரா போர் முறையாகும்.",
+    "en": "Guerilla warfare is an irregular warfare based on surprise attacks."
+   },
+   "eg": {
+    "ta": "சிவாஜி போன்ற மாவீரர்கள் கொரில்லா போர் முறையைக் கையாண்டனர்.",
+    "en": "Warriors like Shivaji employed guerilla tactics."
+   },
+   "tip": {
+    "ta": "முறைசாரா போர் முறை என்ற ஆங்கில வார்த்தையான Irregular warfare நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the English term Irregular warfare."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q139": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் வேத காலத்தில் அரச குமாரர்களுக்குக் கற்பிக்கப்பட்ட கலைகளைப் பாருங்கள்.",
+    "en": "Look at the arts taught to princes in the Vedic period."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சாம வேதம் என்பதே சரியான விடை ஆகும். எனினும் ரிக்வேத காலத்தில் தனுர் வேதம் என்பது வில்வித்தை மற்றும் போர்க்கலைகளைக் குறிக்கிறது.",
+    "en": "As per official key Sama Vedam is correct, though Danur Vedam refers to archery in Rigvedic period."
+   },
+   "why": {
+    "B": {
+     "ta": "இதுவே அரச குமாரர்களுக்குக் கற்பிக்கப்பட்ட போர்க்கலையாகும்.",
+     "en": "This is the actual warrior art taught to princes."
+    },
+    "C": {
+     "ta": "இது மந்திரங்கள் மற்றும் மருத்துவ குறிப்புகளைக் கொண்ட வேதமாகும்.",
+     "en": "This is the Veda containing spells and medical notes."
+    },
+    "D": {
+     "ta": "வருண வேதம் என்று தனி வேதம் கிடையாது.",
+     "en": "There is no separate Veda called Varuna Veda."
+    }
+   },
+   "rule": {
+    "ta": "ரிக்வேத காலத்தில் தனுர் வேதம் என்பது வில்வித்தை மற்றும் போர்க்கலையைக் குறிக்கும்.",
+    "en": "Danur Vedam in Rigvedic period refers to archery and warrior art."
+   },
+   "eg": {
+    "ta": "நான்கு வேதங்கள் ரிக், யசுர், சாம, அதர்வணம் ஆகும்.",
+    "en": "The four Vedas are Rig, Yajur, Sama, and Atharva."
+   },
+   "tip": {
+    "ta": "போர்க்கலை என்றால் தனுர் வேதம் என்பதை நினைவில் கொள்ளவும்.",
+    "en": "Remember Danur Vedam relates to archery and warfare."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q140": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் வரலாற்று நிகழ்வுகள் மற்றும் சட்டங்களின் ஆண்டுகளைத் தனித்தனியாகச் சரிபார்த்துப் பொருத்துக.",
+    "en": "Verify and match the years of historical events and acts."
+   },
+   "explain": {
+    "ta": "பொதுப்பணி தேர்வாணையம் 1924-லும், இந்து அறநிலைய சட்டம் 1929-லும், ஆந்திரா பல்கலைக்கழகம் 1926-லும், பணியாளர் தேர்வு வாரியம் 1925-லும் தொடங்கப்பட்டன. எனவே 4 2 3 1 என்ற வரிசை சரியாகும்.",
+    "en": "Public Service Commission (1924), Hindu Religious Endowment Act (1929), Andhra University (1926), and Staff Selection Board (1925) match correctly."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை மேற்கண்ட நிகழ்வுகளின் சரியான ஆண்டுகளுடன் பொருந்தவில்லை.",
+     "en": "This order does not match the correct years of the events."
+    },
+    "B": {
+     "ta": "ஆண்டுகளின் பொருத்தம் இங்கு மாற்றமாக அமைந்துள்ளது.",
+     "en": "The matching of years is shuffled here."
+    },
+    "D": {
+     "ta": "இந்த வரிசை முறையான காலவரிசைப் பொருத்தத்தைத் தரவில்லை.",
+     "en": "This sequence does not give the correct chronological match."
+    }
+   },
+   "rule": {
+    "ta": "நிர்வாகச் சீர்திருத்தங்கள் மற்றும் சட்டங்களின் உருவாக்க ஆண்டுகளைத் தொகுத்துப் படிக்க வேண்டும்.",
+    "en": "Study the formation years of administrative reforms and acts together."
+   },
+   "eg": {
+    "ta": "நீதிக்கட்சி ஆட்சியின் காலத்தில் பல முக்கியமான நிர்வாகச் சட்டங்கள் இயற்றப்பட்டன.",
+    "en": "Many important administrative acts were passed during the Justice Party rule."
+   },
+   "tip": {
+    "ta": "பொருத்துக வினாக்களில் உறுதியாகத் தெரிந்த ஒரு ஜோடியைக் கொண்டு விடையைக் கண்டறியலாம்.",
+    "en": "Use a known pair to eliminate options in matching questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q141": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பாபர் காலத்தில் நடைபெற்ற முக்கிய போர்களின் ஆண்டுகளை வரிசையாகப் பொருத்துக.",
+    "en": "Match the years of important battles fought during Babur's reign."
+   },
+   "explain": {
+    "ta": "பானிபட் போர் 1526-லும், காக்ரா போர் 1529-லும், கான்வார் போர் 1527-லும், சந்தேரி போர் 1528-லும் நடைபெற்றன. எனவே 3 4 2 1 என்ற வரிசை சரியாகும்.",
+    "en": "Panipat (1526), Gaghra (1529), Khanwa (1527), and Chanderi (1528) match correctly to ."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை போர்களின் உண்மையான ஆண்டுகளுடன் பொருந்தவில்லை.",
+     "en": "This order does not match the actual years of the battles."
+    },
+    "B": {
+     "ta": "ஆண்டுகளின் பொருத்தம் இங்கு தவறாக கொடுக்கப்பட்டுள்ளது.",
+     "en": "The matching of years is incorrect here."
+    },
+    "D": {
+     "ta": "இந்த வரிசை பாபர் போர்களின் காலவரிசைக்கு மாறாக உள்ளது.",
+     "en": "This sequence contradicts the chronology of Babur's battles."
+    }
+   },
+   "rule": {
+    "ta": "பாபரின் போர்கள்: 1526 பானிபட், 1527 கான்வார், 1528 சந்தேரி, 1529 காக்ரா.",
+    "en": "Babur's wars: 1526 Panipat, 1527 Khanwa, 1528 Chanderi, 1529 Gaghra."
+   },
+   "eg": {
+    "ta": "பாபர் முகலாயப் பேர அரசை 1526-ல் பானிபட் போருக்குப் பிறகு நிறுவினார்.",
+    "en": "Babur established the Mughal Empire after the Battle of Panipat in 1526."
+   },
+   "tip": {
+    "ta": "ப-கா-ச-கா (பானிபட், கான்வார், சந்தேரி, காக்ரா) மற்றும் 1526-1529 ஆண்டுகளை வரிசையாக நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the sequence Pa-Ka-Sa-Ga and years 1526-1529."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q190": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இலக்கியங்களின் மொழியையும் வரலாற்றுச் சின்னங்கள் அமைந்துள்ள இடங்களையும் தனித்தனியாகப் பொருத்திப் பாருங்கள்.",
+    "en": "Match literature with their languages and monuments with their locations."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இந்த வரிசைப் பொருத்துதலில் கொடுக்கப்பட்டுள்ள சரியான விடை கொடுக்கப்பட்டுள்ளது. ஆமுக்தமால்யதா தெலுங்கு மொழியிலும், ஜும்மா மசூதி குல்பர்காவிலும், கோல்கும்பா பீஜப்பூரிலும், ஜாம்பவதி கல்யாணம் சமஸ்கிருதத்திலும் அமைந்துள்ளன.",
+    "en": "According to the official answer key, the matching pairs are correctly identified."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்த வரிசை முறை கொடுக்கப்பட்டுள்ள நூல்களுக்கும் இடங்களுக்கும் தவறான முறையில் அமைந்துள்ளது.",
+     "en": "This sequence incorrectly matches the given items."
+    },
+    "C": {
+     "ta": "இந்த வரிசை முறை நூல்கள் மற்றும் சின்னங்களின் சரியான இணைப்புகளுடன் பொருந்தவில்லை.",
+     "en": "This sequence does not match the correct pairings of books and monuments."
+    },
+    "D": {
+     "ta": "இந்த வரிசை முறை பொருத்துதலுக்கான சரியான குறியீடுகளைத் தரவில்லை.",
+     "en": "This sequence fails to provide the correct codes for matching."
+    }
+   },
+   "rule": {
+    "ta": "வரலாற்று நூல்களின் ஆசிரியர்கள், மொழிகள் மற்றும் கட்டடங்களின் இடங்களை எப்போதும் சரியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Always remember the authors, languages, and locations of historical texts and monuments."
+   },
+   "eg": {
+    "ta": "கிருஷ்ணதேவராயர் எழுதிய ஆமுக்தமால்யதா தெலுங்கு நூல் ஆகும்.",
+    "en": "Amuktamalyada written by Krishnadevaraya is a Telugu work."
+   },
+   "tip": {
+    "ta": "பொருத்துக வினாக்களில் தெரிந்த ஒன்றைக் கொண்டு விடையைக் கண்டறிய முயலுங்கள்.",
+    "en": "Try to eliminate options using known pairs in matching questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q191": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் பௌத்த ஸ்தூபிகளையும் அவற்றை மீட்டமைக்க உதவிய அரசர்களையும் கவனியுங்கள்.",
+    "en": "Look at the Buddhist stupas and the rulers who helped restore them."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, உமாயூன் கல்லறைக்கு போபால் பேகங்கள் நிதி உதவி வழங்கியதாகக் குறிக்கப்பட்டுள்ளது. எனினும் சமற்கீரப் புத்தகங்களின்படி சாஞ்சி ஸ்தூபியைப் பாதுகாக்கவே போபால் பேகங்கள் உதவினர்.",
+    "en": "According to the official answer key, Humayun tomb is the given answer, though textbooks state Sanchi Stupa."
+   },
+   "why": {
+    "A": {
+     "ta": "சாரநாத் தூண் என்பது அசோகர் காலத்துச் சின்னம் ஆகும்.",
+     "en": "Sarnath pillar is a monument from the Ashoka period."
+    },
+    "B": {
+     "ta": "சாஞ்சி ஸ்தூபியைப் பாதுகாக்கவே போபால் பேகங்கள் நிதி உதவி அளித்தனர்.",
+     "en": "Bhopal Begums actually funded the preservation of Sanchi Stupa."
+    },
+    "D": {
+     "ta": "ஷெர்ஷாவின் நினைவிடம் சசாராம் பகுதியில் அமைந்துள்ளது.",
+     "en": "Shersha's tomb is located in Sasaram."
+    }
+   },
+   "rule": {
+    "ta": "அரசாங்கத் தேர்வுகளில் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது.",
+    "en": "Official answer keys are final in competitive exams."
+   },
+   "eg": {
+    "ta": "ஷாஜகான் பேகம் சாஞ்சி ஸ்தூபி பாதுகாப்பிற்குப் பண உதவி செய்தார்.",
+    "en": "Shahjahan Begum provided monetary support for Sanchi Stupa."
+   },
+   "tip": {
+    "ta": "தேர்வு விடைக்குறிப்பு என்ன சொல்கிறதோ அதையே நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the official key's expected answer for the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q192": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இடைக்கால இந்திய அரசர்களின் இயற்பெயர்களைத் தேடிப் பாருங்கள்.",
+    "en": "Look for the original names of medieval Indian rulers."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இப்ராஹிம் லோடி என்பது சரியான விடையாகக் குறிக்கப்பட்டுள்ளது. ஆனால் சமற்கீரப் புத்தகங்களின்படி ஷெர்ஷாவின் இயற்பெயரே ஃபரீத் ஆகும்.",
+    "en": "According to the official answer key, Ibrahim Lodi is given, though Farid is Sher Shah's original name."
+   },
+   "why": {
+    "A": {
+     "ta": "ஷெர்ஷாவின் இயற்பெயர் ஃபரீத் என்பது வரலாற்று உண்மை.",
+     "en": "Farid is historically the original name of Sher Shah."
+    },
+    "C": {
+     "ta": "சிக்கந்தர் லோடி லோடி வம்சத்தின் முக்கியமான மன்னர் ஆவார்.",
+     "en": "Sikandar Lodi is an important ruler of the Lodi dynasty."
+    },
+    "D": {
+     "ta": "அலாவுதீன் கில்ஜி வம்சத்தைச் சேர்ந்தவர் ஆவார்.",
+     "en": "Ala-ud-din belongs to the Khilji dynasty."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு வாரியத்தின் அதிகாரப்பூர்வ விடைக் குறிப்பே மதிப்பெண்ணுக்கு வழிவகுக்கும்.",
+    "en": "The official board answer key determines the score."
+   },
+   "eg": {
+    "ta": "ஷெர்ஷாவின் சிறுவயதுப் பெயர் ஃபரீத் ஆகும்.",
+    "en": "Sher Shah's childhood name was Farid."
+   },
+   "tip": {
+    "ta": "வினா தாளில் உள்ள அதிகாரப்பூர்வ விடையை மட்டும் பின்பற்றுங்கள்.",
+    "en": "Follow the official answer strictly for exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q193": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஐரோப்பியர்களின் வருகையின் போது புதுச்சேரியை அளித்த உள்ளூர் தலைவரைப் பாருங்கள்.",
+    "en": "Look at the local ruler who granted Pondicherry to Europeans."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இப்ராஹிம் லோடி என்று குறிப்பிடப்பட்டுள்ளது. ஆனால் வரலாற்று உண்மையாக ஷெர்கான் லோடியே புதுச்சேரியை பிரெஞ்சுக்காரர்களுக்கு வழங்கினார்.",
+    "en": "According to the official answer key, Ibrahim Lodi is given, though Sherkhan Lodi granted Pondicherry."
+   },
+   "why": {
+    "A": {
+     "ta": "பஹலுல் கான் லோடி லோடி வம்சத்தைத் தோற்றுவித்தவர் ஆவார்.",
+     "en": "Bahlul Khan Lodi founded the Lodi dynasty."
+    },
+    "D": {
+     "ta": "இல்துமிஷ் டெல்லி சுல்தானகத்தின் முக்கிய அரசர் ஆவார்.",
+     "en": "Iltutmish is a prominent Sultan of Delhi."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு முடிவுகளுக்கு அதிகாரப்பூர்வ விடையே இறுதியானது.",
+    "en": "Official answers govern the evaluation."
+   },
+   "eg": {
+    "ta": "ஷா கன் லோடி என்பவரிடமிருந்து பிரெஞ்சுக்காரர்கள் புதுச்சேரியைப் பெற்றனர்.",
+    "en": "French acquired Pondicherry from Sherkhan Lodi."
+   },
+   "tip": {
+    "ta": "தேர்வு குறிப்பு தரும் விடைகளையே மனதில் கொள்ளவும்.",
+    "en": "Keep the exam key answers in mind."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q194": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மராட்டிய மன்னர் சிவாஜியின் வரலாற்றைத் நினைவு கூருங்கள்.",
+    "en": "Recall the history of Maratha king Shivaji."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி தோர்னா கோட்டை என்று கொடுக்கப்பட்டுள்ளது. எனினும் மராட்டிய வரலாற்று நூல்களின்படி சிவாஜி தனது முடிசூட்டு விழாவை ரெய்கார் கோட்டையிலேயே நடத்தினார்.",
+    "en": "According to the official answer key, Torna is given, though Raigarh is the actual coronation site."
+   },
+   "why": {
+    "B": {
+     "ta": "ரெய்கார் கோட்டையில்தான் சிவாஜியின் அதிகாரப்பூர்வ முடிசூட்டு விழா நடைபெற்றது.",
+     "en": "Raigarh fort is where Shivaji's actual coronation took place."
+    },
+    "C": {
+     "ta": "கல்யாண் என்பது சிவாஜி கைப்பற்றிய முக்கியமான பகுதிகளில் ஒன்றாகும்.",
+     "en": "Kalyan is one of the important regions captured by Shivaji."
+    },
+    "D": {
+     "ta": "புரந்தர் கோட்டை சிவாஜி வரலாற்றில் தொடர்புடைய மற்றொரு கோட்டையாகும்.",
+     "en": "Purandhar fort is another fort related to Shivaji's history."
+    }
+   },
+   "rule": {
+    "ta": "போட்டித் தேர்வுகளில் விடைக்குறிப்பு என்ன சொல்கிறதோ அதற்கேற்பப் பதிலளிக்க வேண்டும்.",
+    "en": "Answer according to the official key in competitive exams."
+   },
+   "eg": {
+    "ta": "சிவாஜி சத்ரபதி என்ற பட்டத்துடன் ரெய்காரில் முடிசூட்டிக் கொண்டார்.",
+    "en": "Shivaji was crowned as Chhatrapati at Raigarh."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடையை மட்டுமே தேர்வுக்குப் பயன்படுத்தவும்.",
+    "en": "Use the official key for exam preparation."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q195": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் குதுப்மினார் கட்டுமானத்தைத் தொடங்கிய சுல்தானைப் பாருங்கள்.",
+    "en": "Look at the Sultan who started the construction of Qutb Minar."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஆரம் ஷா என்று குறிப்பிடப்பட்டுள்ளது. ஆனால் வரலாற்று ரீதியாகக் குதுப்மினார் கட்டுமானப் பணிகளைத் தொடங்கியவர் குத்புதீன் ஐபெக் ஆவார்.",
+    "en": "According to the official answer key, Aram Shah is given, though Qutb-ud-din Aibak started it."
+   },
+   "why": {
+    "A": {
+     "ta": "இல்துமிஷ் குதுப்மினார் பணிகளை நிறைவு செய்தார்.",
+     "en": "Iltutmish completed the construction of Qutb Minar."
+    },
+    "C": {
+     "ta": "குத்புதீன் ஐபெக் குதுப்மினார் கட்டடப் பணியைத் தொடங்கி வைத்தார்.",
+     "en": "Qutb-ud-din Aibak actually initiated the Qutb Minar construction."
+    },
+    "D": {
+     "ta": "பிரோஸ் ஷா துக்லக் குதுப்மினாரின் உச்சி மாடத்தைச் சீரமைத்தார்.",
+     "en": "Firoz Shah Tughlaq repaired the top storey of Qutb Minar."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு ஆணையத்தின் இறுதி விடைக் குறிப்பே இறுதியானது.",
+    "en": "The commission's final answer key is authoritative."
+   },
+   "eg": {
+    "ta": "குத்புதீன் ஐபெக் சூஃபி துறவி குதுப் உத்-தின் பக்தியார் காகி நினைவாக இதத் தொடங்கினார்.",
+    "en": "Qutb-ud-din Aibak started it in memory of Sufi saint Qutbuddin Bakhtiyar Kaki."
+   },
+   "tip": {
+    "ta": "வினா தாளின் அதிகாரப்பூர்வ விடையை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the official key answer for the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q200": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சமதர்மக் கோட்பாடுகள் மற்றும் பொருளாதார அறிஞர்களின் பங்களிப்பை நினைவில் கூர்ந்து பாருங்கள்.",
+    "en": "When asked about economic or social doctrines, recall the foundational thinkers and their theories."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இவற்றுள் ஆல்பிரட் மார்ஷல் சரியான விடையாகக் கொள்ளப்பட்டுள்ளது. இருப்பினும், பொதுவான சமச்சீர் கல்வி மற்றும் வரலாற்று நூல்களின்படி அறிவியல் சமதர்மத்தின் தந்தை காரல் மார்க்ஸ் ஆவார்.",
+    "en": "According to the official TNPSC key, Alfred Marshall is considered the answer here, although standard historical facts attribute scientific socialism to Karl Marx."
+   },
+   "why": {
+    "B": {
+     "ta": "காரல் மார்க்ஸ் அறிவியல் சமதர்மத்தின் தந்தை என பொதுவாக அறியப்படுகிறார்.",
+     "en": "Karl Marx is generally known as the father of scientific socialism."
+    },
+    "C": {
+     "ta": "J.A. சும்பீட்டர் பொருளாதார வளர்ச்சியின் புதுமையான கோட்பாட்டை உருவாக்கியவர்.",
+     "en": "J.A. Schumpeter formulated the innovation theory of economic development."
+    },
+    "D": {
+     "ta": "J.M. கீன்சு நவீன மேக்ரோ பொருளாதாரக் கோட்பாட்டின் தந்தை ஆவார்.",
+     "en": "J.M. Keynes is the father of modern macroeconomic theory."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் அதிகாரப்பூர்வ விடைக் குறிப்பே இறுதியானது.",
+    "en": "The official answer key of TNPSC is final for the exam."
+   },
+   "eg": {
+    "ta": "பொருளாதார அறிஞர்கள் மற்றும் அவர்களின் புத்தகங்களை நன்கு நினைவில் கொள்ள வேண்டும்.",
+    "en": "Always remember key economists and their contributions."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடை மாறுபட்டிருந்தாலும் தேர்வில் அதையே பின்பற்ற வேண்டும்.",
+    "en": "Follow the official key in the exam even if standard facts differ."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q110": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் நிதிக்குழுவின் காலக்கட்டம் மற்றும் அதன் பரிந்துரைகள் அமலுக்கு வரும் ஆண்டைக் கவனிக்கவும்.",
+    "en": "Check the period and implementation date of the Finance Commission."
+   },
+   "explain": {
+    "ta": "15-வது நிதிக்குழுவின் காலம் 2020 முதல் 2025 வரை ஆகும். எனவே இதன் பரிந்துரைகள் ஏப்ரல் 1, 2020 முதல் நடைமுறைக்கு வந்தன.",
+    "en": "The 15th Finance Commission recommendations came into effect from April 1, 2020."
+   },
+   "why": {
+    "A": {
+     "ta": "ஜனவரி 1, 2018 என்பது தவறான காலக்கடு ஆகும்.",
+     "en": "January 1, 2018 is an incorrect date."
+    },
+    "B": {
+     "ta": "ஏப்ரல் 1, 2018 என்பது தவறான ஆண்டைக் குறிக்கிறது.",
+     "en": "April 1, 2018 refers to an incorrect year."
+    },
+    "D": {
+     "ta": "ஜனவரி 1, 2020 என்பது தவறான மாதத்தைக் குறிக்கிறது.",
+     "en": "January 1, 2020 refers to an incorrect month."
+    }
+   },
+   "rule": {
+    "ta": "நிதிக்குழுவின் பரிந்துரைகள் பொதுவாக ஏப்ரல் 1 முதல் நடைமுறைக்கு வரும்.",
+    "en": "Finance commission recommendations generally come into effect from April 1."
+   },
+   "eg": {
+    "ta": "14-வது நிதிக்குழுவின் காலம் 2015 முதல் 2020 வரை ஆகும்.",
+    "en": "The 14th Finance Commission period was from 2015 to 2020."
+   },
+   "tip": {
+    "ta": "நிதிக்குழு கேள்விகளுக்கு ஏப்ரல் 1 ஆம் தேதியை நினைவில் கொள்ளவும்.",
+    "en": "Remember April 1st for Finance Commission questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q132": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மாநில நிர்வாகம் மற்றும் சட்டமன்றம் தொடர்பான விதிகளை வரிசையாகப் பொருத்திப் பார்க்கவும்.",
+    "en": "Match the state administration and legislature articles sequentially."
+   },
+   "explain": {
+    "ta": "ஆளுநர் பற்றி விதி 153-ம், முதலமைச்சர் பற்றி விதி 163-ம், மேலவை பற்றி விதி 171-ம், சட்டசபை பற்றி விதி 170-ம் தெளிவாகக் கூறுகின்றன.",
+    "en": "Governor is under Article 153, CM under 163, Legislative Council under 171, and Legislative Assembly under 170."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை தவறான பொருத்துதலைத் தருகிறது.",
+     "en": "This order gives an incorrect matching."
+    },
+    "C": {
+     "ta": "இந்த வரிசை விதிகளை மாற்றிப் பொருத்துகிறது.",
+     "en": "This order mixes up the articles."
+    },
+    "D": {
+     "ta": "இந்த வரிசை அதிகாரப் பிரிவுகளைத் தவறாக இணைக்கிறது.",
+     "en": "This order incorrectly connects the divisions."
+    }
+   },
+   "rule": {
+    "ta": "மாநில அரசாங்க விதிகள் இந்திய அரசியலமைப்பின் 6-வது பகுதியில் கூறப்பட்டுள்ளன.",
+    "en": "State government articles are detailed in Part 6 of the Constitution."
+   },
+   "eg": {
+    "ta": "மாநில ஆளுநர் பதவிக்கான விதி 153 ஆகும்.",
+    "en": "Article for State Governor is 153."
+   },
+   "tip": {
+    "ta": "விதி 153 முதல் 167 வரை மாநிலச் செயலாட்சியர் மற்றும் ஆளுநரைக் குறிக்கும்.",
+    "en": "Articles 153 to 167 relate to state executive and governor."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q152": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் திட்டக்குழுவிற்குப் பதிலாக உருவாக்கப்பட்ட புதிய அமைப்பின் பெயரைக் கண்டறியவும்.",
+    "en": "Identify the new body created in place of the Planning Commission."
+   },
+   "explain": {
+    "ta": "இந்தியாவின் பழமையான திட்டக்குழு கலைக்கப்பட்டு, அதற்குப் பதிலாக 2015 ஜனவரி 1 அன்று நிதி ஆயோக் (NITI Aayog) அமைக்கப்பட்டது.",
+    "en": "The Planning Commission was replaced by NITI Aayog on January 1, 2015."
+   },
+   "why": {
+    "A": {
+     "ta": "திட்டக்குழு என்பது பழைய அமைப்பின் பெயரே தவிர தற்போதைய பெயர் அல்ல.",
+     "en": "Planning Council is not the current name."
+    },
+    "C": {
+     "ta": "நிதி சஞ்ஜோக் என்பது அதிகாரப்பூர்வமற்ற தவறான பெயராகும்.",
+     "en": "NITI Sanjog is an incorrect unofficial name."
+    },
+    "D": {
+     "ta": "பாரதிய ஆயோக் மண்டல் என்பது கற்பனையான சொல்லாகும்.",
+     "en": "Bharatiya Aayog Mandal is a fabricated term."
+    }
+   },
+   "rule": {
+    "ta": "திட்டக்குழு மாற்றப்பட்டு நிதி ஆயோக் எனப் பெயர் மாற்றம் பெற்றது.",
+    "en": "Planning Commission was renamed/replaced as NITI Aayog."
+   },
+   "eg": {
+    "ta": "நிதி ஆயோக்கின் தலைவர் இந்தியாவின் பிரதமர் ஆவார்.",
+    "en": "The Chairperson of NITI Aayog is the Prime Minister of India."
+   },
+   "tip": {
+    "ta": "NITI என்பதன் விரிவாக்கம் National Institution for Transforming India.",
+    "en": "NITI stands for National Institution for Transforming India."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q179": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மத்திய அரசின் தலைமை வழக்குறிஞர் (Attorney General) பற்றிய அரசியலமைப்பு விதியைக் கவனிக்கவும்.",
+    "en": "Look for the constitutional article regarding the Attorney General of India."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இந்தியக் குடியரசு தலைவர் மத்திய அரசு தலைமை வழக்குஞரை நியமிக்கும் விதி எனக் குறிப்பிடப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC key, this article relates to the appointment of the Attorney General by the President."
+   },
+   "why": {
+    "A": {
+     "ta": "விதி 66 என்பது குடியரசு துணைத் தலைவர் தேர்தல் பற்றிக் கூறுகிறது.",
+     "en": "Article 66 deals with the election of the Vice President."
+    },
+    "C": {
+     "ta": "உண்மையில் இந்தியாவின் தலைமை வழக்குறிஞர் பற்றி விவரிக்கும் விதி 76 ஆகும்.",
+     "en": "Actually, Article 76 deals with the Attorney General of India."
+    },
+    "D": {
+     "ta": "விதி 96 என்பது மக்களவைத் தலைவர் நீக்கம் குறித்த நடைமுறைகளைக் கூறுகிறது.",
+     "en": "Article 96 deals with procedures regarding removal of Speaker."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியத் தலைமை வழக்குறிஞர் இந்தியாவின் உயரிய சட்ட அலுவலர் ஆவார்.",
+    "en": "The Attorney General of India is the highest law officer."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் முதல் சட்ட அதிகாரி அட்டர்னி ஜெனரல் ஆவார்.",
+    "en": "Attorney General is the first law officer of India."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடை விதி 67 எனக்கொடுக்கப்பட்டிருந்தாலும், மூலவிதி 76 என்பதை நினைவில் கொள்க.",
+    "en": "Though official answer is Article 67, remember the actual article is 76."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q180": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் கல்வி உரிமைச் சட்டம் (RTE) எப்போது நடைமுறைக்கு வந்தது என்பதைப் பாருங்கள்.",
+    "en": "Check when the Right to Education Act came into effect."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இப்பதிவு கொடுக்கப்பட்டுள்ளது; எனினும் கல்வி உரிமைச் சட்டம் ஏப்ரல் 1, 2010 அன்று நடைமுறைக்கு வந்தது.",
+    "en": "According to the official key this option is chosen, though RTE came into effect on April 1, 2010."
+   },
+   "why": {
+    "B": {
+     "ta": "26 ஜனவரி 1950 என்பது இந்தியக் குடியரசு நாள் ஆகும்.",
+     "en": "January 26, 1950 is Republic Day."
+    },
+    "C": {
+     "ta": "இதுவே கல்வி உரிமைச் சட்டம் நடைமுறைக்கு வந்த உண்மையான தேதியாகும்.",
+     "en": "This is the actual date when RTE came into force."
+    },
+    "D": {
+     "ta": "2 அக்டோபர் 2012 என்பது கல்வி உரிமைச் சட்டத்திற்கான தேதி அல்ல.",
+     "en": "October 2, 2012 is not the RTE date."
+    }
+   },
+   "rule": {
+    "ta": "கல்வி உரிமைச் சட்டம் 2009-ல் இயற்றப்பட்டு 2010 ஏப்ரல் 1-ல் அமலுக்கு வந்தது.",
+    "en": "RTE Act was passed in 2009 and came into force on April 1, 2010."
+   },
+   "eg": {
+    "ta": "அடிப்படைக் உரிமையாக 21A பிரிவின் கீழ் கல்வி சேர்க்கப்பட்டுள்ளது.",
+    "en": "Education is added as a fundamental right under Article 21A."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடையை அடிப்படையாகக் கொண்டு தேர்வில் பதிலளிக்கவும்.",
+    "en": "Answer based on the official key in exams."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q181": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் லோக அதாலத் மற்றும் சட்டப் பணிகள் அதிகாரச் சட்டம் இயற்றப்பட்ட ஆண்டைப் பார்க்கவும்.",
+    "en": "Check the year when the Legal Services Authorities Act was enacted."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி உரிமை பணிச் சட்டம் நிறைவேற்றப்பட்ட ஆண்டாகக் குறிப்பிடப்பட்டுள்ளது; ஆனால் இது 1987-ல் நிறைவேற்றப்பட்டது.",
+    "en": "According to the official key this year is given, though the Act was passed in 1987."
+   },
+   "why": {
+    "A": {
+     "ta": "1985 என்பது லோக அதாலத் சட்டத்திற்கான ஆண்டு அல்ல.",
+     "en": "1985 is not the year for this Act."
+    },
+    "B": {
+     "ta": "சட்டப் பணிகள் அதிகாரச் சட்டம் உண்மையில் நிறைவேற்றப்பட்ட ஆண்டு 1987 ஆகும்.",
+     "en": "1987 is the actual year the Legal Services Authorities Act was passed."
+    },
+    "D": {
+     "ta": "1988 என்பது தவறான ஆண்டைக் குறிக்கிறது.",
+     "en": "1988 refers to an incorrect year."
+    }
+   },
+   "rule": {
+    "ta": "சட்டப் பணிகள் அதிகாரச் சட்டம் 1987-ல் நாடாளுமன்றத்தால் நிறைவேற்றப்பட்டது.",
+    "en": "The Legal Services Authorities Act was passed by Parliament in 1987."
+   },
+   "eg": {
+    "ta": "லோக அதாலத் மூலம் மக்கள் எளிதில் நீதி பெறுகின்றனர்.",
+    "en": "People get easy justice through Lok Adalat."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடைக்கு முன்னுரிமை அளித்து சமச்சீர் குறிப்புகளை நினைவில் கொள்க.",
+    "en": "Prioritize the official answer while remembering Samacheer notes."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q182": {
+   "hint": {
+    "ta": "தேசியக் கொடியைப் பறக்கவிடும் விதிமுறைகளில் வலது மற்றும் இடது பக்க இடமாற்றங்களைக் கவனமாகக் கவனியுங்கள்.",
+    "en": "Pay careful attention to the left and right placement rules regarding the hoisting of the national flag."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, வேறு எந்த ஒரு கொடியையும் நமது தேசியக் கொடியின் இடது புறமோ அல்லது கொடியை விட உயர்வாகவோ பறக்கவிடக் கூடாது என்பது தவறான விதியாகும். கொடியின் வலதுபுறத்தில்தான் வேறு எந்தக் கொடியும் இருக்கக்கூடாது.",
+    "en": "According to the official answer, the statement about the left side is the wrong rule; no other flag should be placed to the right of the national flag."
+   },
+   "why": {
+    "A": {
+     "ta": "தேசியக் கொடியை ஏற்றும் போதும் இறக்கும் போதும் கவனமாக செயல்பட வேண்டும் என்பது சரியான விதியாகும்.",
+     "en": "The national flag should be raised and lowered carefully is a correct rule."
+    },
+    "B": {
+     "ta": "சூரியன் மறையும் முன் தேசியக் கொடியை இறக்கி விட வேண்டும் என்பது சரியான விதியாகும்.",
+     "en": "We must lower it before sunset is a correct rule."
+    },
+    "D": {
+     "ta": "கொடியை கம்பத்தில் ஏத்தும் போது நாம் நேராக நிற்க வேண்டும் என்பது சரியான விதியாகும்.",
+     "en": "We must stand in attention when the flag is hoisted is a correct rule."
+    }
+   },
+   "rule": {
+    "ta": "தேசியக் கொடிக்கு வலதுபுறம் வேறு எந்தக் கொடியும் பறக்கவிடக் கூடாது.",
+    "en": "No other flag should be placed to the right of the national flag."
+   },
+   "eg": {
+    "ta": "தேசியக் கொடியின் விகிதம் 3:2 ஆகும்.",
+    "en": "The ratio of the national flag is 3:2."
+   },
+   "tip": {
+    "ta": "கொடி விதிகளில் இடது மற்றும் வலது மாற்றங்களை நன்கு நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the distinction between left and right in flag rules."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q183": {
+   "hint": {
+    "ta": "அரசியலமைப்பு வழிகாட்டு நெறிமுறை உறுப்புகளில் வேலை மற்றும் கல்விக்கான உரிமைகளைத் தரும் விதி எதுவென்று பாருங்கள்.",
+    "en": "Check which Directive Principle article grants the right to work and education."
+   },
+   "explain": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டம் பகுதி IV-ல் உள்ள விதி 41, வேலை செய்வதற்கான உரிமை, கல்வி மற்றும் குறிப்பிட்ட சில சந்தர்ப்பங்களில் பொது உதவி பெறும் உரிமை பற்றி கூறுகிறது.",
+    "en": "Article 41 in Part IV of the Indian Constitution provides for the right to work, to education, and to public assistance in certain cases."
+   },
+   "why": {
+    "B": {
+     "ta": "சொத்துக்கு உரிமை என்பது தற்போது அடிப்படை உரிமையல்ல, அது சட்ட உரிமையாகும்.",
+     "en": "Right to property is no longer a fundamental right, it is a legal right."
+    },
+    "C": {
+     "ta": "வாழ்வுக்கு உரிமை என்பது அடிப்படை உரிப்பான 21-வது விதியைக் குறிப்பதாகும்.",
+     "en": "Right to live refers to Article 21 of the fundamental rights."
+    },
+    "D": {
+     "ta": "சுரண்டலுக்கு எதிரான உரிமை என்பது அடிப்படை உரிமைகளுள் ஒன்றாகும் (விதி 23-24).",
+     "en": "Right against exploitation is one of the fundamental rights (Articles 23-24)."
+    }
+   },
+   "rule": {
+    "ta": "விதி 41 வேலைக்கு உரிமை மற்றும் கல்வி பெறும் உரிமையை வழங்குகிறது.",
+    "en": "Article 41 guarantees the right to work and education."
+   },
+   "eg": {
+    "ta": "விதி 45 குழந்தைகளுக்கான இலவச மற்றும் கட்டாயக் கல்வி பற்றிக் கூறுகிறது.",
+    "en": "Article 45 deals with early childhood care and education for children."
+   },
+   "tip": {
+    "ta": "விதி 41-ஐ 'வேலை மற்றும் உதவி பெறும் விதி' என நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Article 41 as the 'Right to work and assistance' article."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q111": {
+   "hint": {
+    "ta": "சர்வதேச அளவில் புகழ்பெற்ற யுனெஸ்கோ பாரம்பரிய நகரங்களாக அறிவிக்கப்பட்ட இந்திய நகரங்கள் பற்றி கேட்கும்போது கவனமாக இருக்கவும்.",
+    "en": "Pay attention to Indian cities declared as UNESCO World Heritage cities."
+   },
+   "explain": {
+    "ta": "குஜராத் மாநிலத்தின் அகமதாபாத் நகரம் செப்டம்பர் 2017-ல் இந்தியாவின் முதல் யுனெஸ்கோ பாரம்பரிய நகர சான்றிதழைப் பெற்றது. சபர்மதி ஆற்றின் கரையில் அமைந்துள்ள வரலாற்றுச் சிறப்புமிக்க நகரம் இதுவாகும்.",
+    "en": "Ahmedabad in Gujarat received India's first UNESCO Heritage City certificate in September 2017."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இந்தியாவின் முதல் யுனெஸ்கோ பாரம்பரிய நகர அந்ததியைப் பெற்ற பெருமை அகமதாபாத் நகருக்கு உண்டு.",
+    "en": "Ahmedabad holds the distinction of being India's first UNESCO heritage city."
+   },
+   "eg": {
+    "ta": "ஜெய்ப்பூர் நகரம் இந்தியாவின் இரண்டாவது யுனெஸ்கோ பாரம்பரிய நகரமாக 2019-ல் அறிவிக்கப்பட்டது.",
+    "en": "Jaipur was declared India's second UNESCO heritage city in 2019."
+   },
+   "tip": {
+    "ta": "அகமதாபாத் = இந்தியாவின் முதல் யுனெஸ்கோ பாரம்பரிய நகரம் (2017).",
+    "en": "Ahmedabad equals India's first UNESCO heritage city (2017)."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q133": {
+   "hint": {
+    "ta": "உலக அளவில் வீசும் உள்ளூர் காற்று வகைகளையும் அவை வீசும் இடங்களையும் பொருத்துக.",
+    "en": "Match the local winds around the world with their respective regions."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சின்னூர்க் அமெரிக்க ஐக்கிய நாடுகளிலும், ஃபோன் ஆல்ப்ஸ் மலைப்பகுதியிலும், மிஸ்ட்ரல் வடக்கு இத்தாலியிலும், நார்ட் மெக்சிகோ வளைகுடாவிலும் வீசும் உள்ளூர் காற்றுகளாகப் பொருத்தப்பட்டுள்ளன.",
+    "en": "According to the official answer key, the local winds are correctly matched with their regions."
+   },
+   "why": {},
+   "rule": {
+    "ta": "புவியியல் பாடத்தில் உள்ளூர் காற்று வகைகளையும் அவற்றின் பிரதேசங்களையும் சரியாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Local winds and their respective regions in geography must be memorized accurately."
+   },
+   "eg": {
+    "ta": "சின்னூர்க் காற்று ராக்கி மலைப்பகுதியில் வீசும் தலக் காற்று ஆகும்.",
+    "en": "Chinook is a local wind blowing in the Rockies."
+   },
+   "tip": {
+    "ta": "புவியியல் பொருத்துக கேள்விகளில் நன்கு தெரிந்த ஒரு ஜோடியை வைத்து சரியான விருப்பத்தைத் தேர்ந்தெடுக்கலாம்.",
+    "en": "Use elimination based on the best-known pair in matching questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q134": {
+   "hint": {
+    "ta": "உலக மற்றும் இந்திய அளவில் நிகழ்ந்த முக்கிய வெள்ளப் பேரழிவுகளையும் அந்த இடங்களையும் பொருத்துக.",
+    "en": "Match major flood disasters around the world and India with their locations."
+   },
+   "explain": {
+    "ta": "சீனா ஹாவாங் ஹோ வெள்ளப் பெருக்குக்கும், பென்சில்வேனியா ஜோன்ஸ்டான் பேரிடருக்கும், லாஸ் ஏஞ்சல்ஸ் செயின்ட் பிரான்சிஸ் அணை உடைப்புக்கும், இந்தியா அஸ்ஸாம் வெள்ளத்திற்கும் உரியவை என்பதால் சரியான வரிசை 2, 1, 3, 4 ஆகும்.",
+    "en": "China matches Hwang Ho, Pennsylvania matches Johnstown, Los Angeles matches St. Francis, and India matches Assam."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பேரிடர் மேலாண்மை பாடத்தில் குறிப்பிடப்பட்டுள்ள முக்கிய வெள்ளப் பேரழிவுகளை நாடுகளுடன் இணைத்துப் படிக்க வேண்டும்.",
+    "en": "Major flood disasters from disaster management must be learned with their places."
+   },
+   "eg": {
+    "ta": "ஹாவாங் ஹோ நதி சீனாவின் துயரம் என்று அழைக்கப்படுகிறது.",
+    "en": "Hwang Ho is known as the Sorrow of China."
+   },
+   "tip": {
+    "ta": "சீனா - ஹாவாங் ஹோ மற்றும் இந்தியா - அஸ்ஸாம் போன்ற எளிதான ஜோடிகளை முதலில் பொருத்தவும்.",
+    "en": "Match easy pairs like China-Hwang Ho and India-Assam first."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q185": {
+   "hint": {
+    "ta": "பூமியின் இயக்கங்களான தற்சுழற்சி மற்றும் சுற்றுப்பயணம் பற்றிய வாக்கியங்களை ஆராய்க.",
+    "en": "Analyze the statements regarding Earth's movements: rotation and revolution."
+   },
+   "explain": {
+    "ta": "பூமி தன்னைத்தானே சுழல்வது தற்சுழற்சி என்பது சரி. ஆனால் தற்சுழற்சியால் பகல் இரவு ஏற்படுகிறது, பருவக்காலங்கள் பூமியின் சுற்றுப்பயணம் மற்றும் அச்சுச் சாய்வினால் மட்டுமே உருவாகின்றன. எனினும் TNPSC விடைக்குறிப்பின்படி கூற்று மற்றும் காரணம் இரண்டும் சரி மேலும் காரணம் கூற்றுக்கான சரியான விளக்கம் ஆகும்.",
+    "en": "Rotation causes day and night, while revolution causes seasons. However, as per the official answer, both statements are considered correct with proper explanation."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பூமியின் தற்சுழற்சியால் பகல் மற்றும் இரவும், சுற்றுப்பயணத்தால் பருவக்காலங்களும் ஏற்படுகின்றன.",
+    "en": "Rotation causes day and night, and revolution causes seasons."
+   },
+   "eg": {
+    "ta": "பூமி தன் அச்சில் 23.5 டிகிரி சாய்ந்துள்ளது.",
+    "en": "The Earth is tilted at 23.5 degrees on its axis."
+   },
+   "tip": {
+    "ta": "பருவகாலம் = சுற்றுப்பயணம்; பகல்/இரவு = தற்சுழற்சி.",
+    "en": "Seasons = Revolution; Day/Night = Rotation."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2018-GS-q188": {
+   "hint": {
+    "ta": "இந்தியாவில் இடப்பெயர்ச்சி விவசாயத்திற்கு বিভিন্ন மாநிலங்களில் வழங்கும் பெயர்களைப் பொருத்துக.",
+    "en": "Match the local names of shifting cultivation across different states in India."
+   },
+   "explain": {
+    "ta": "அஸ்ஸாமில் ஜூம், ஆந்திரப் பிரதேசத்தில் பொடு, மத்திய பிரதேசத்தில் மாசன், கேரளாவில் பொன்னம் என இடப்பெயர்ச்சி விவசாயப் பெயர்கள் சரியாகப் பொருத்தப்பட்டுள்ளன. இதன்படி சரியான வரிசை 3 1 2 4 ஆகும்.",
+    "en": "Shifting cultivations are correctly matched: Assam - Jhum, Andhra Pradesh - Podu, Madhya Pradesh - Mashan, Kerala - Ponam."
+   },
+   "why": {},
+   "rule": {
+    "ta": "வெவ்வேறு மாநிலங்களில் இடப்பெயர்ச்சி விவசாயத்திற்கு வழங்கும் பிராந்தியப் பெயர்களைத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Regional names of shifting agriculture in various states must be remembered clearly."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் வடகிழக்கு மாநிலங்களில் இடப்பெயர்ச்சி விவசாயம் ஜூம் என அழைக்கப்படுகிறது.",
+    "en": "Shifting cultivation is known as Jhum in North-East India."
+   },
+   "tip": {
+    "ta": "அஸ்ஸாம் - ஜூம் என்பது மிகவும் முக்கியமான மற்றும் அடிக்கடி கேட்கப்படும் பொருத்துக கேள்வியாகும்.",
+    "en": "Assam-Jhum is a very important and frequently asked matching pair."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-23"
+ "updated": "2026-11-25"
 }
