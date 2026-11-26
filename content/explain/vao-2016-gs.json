@@ -3747,7 +3747,303 @@
     "en": "Associate the name Pragati with Andhra Pradesh's digital initiative."
    },
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q116": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் தொடர் எண்களின் வர்க்கக் கூட்டலில் குறியீட்டு முறையைப் (signs) பாருங்கள்.",
+    "en": "Look at the alternating signs in the sum of squares."
+   },
+   "explain": {
+    "ta": "இத்தொடரை இரண்டு எண்களாக இணைத்து கழித்தால் -1, -2, -3 என 20 ஜோடிகளுக்கு -41 கிடைக்கும். அல்லது முதல் n உறுப்புகளின் கூடுதல் சூத்திரமான -n(n + 1)/2 ஐப் பயன்படுத்தி -40(41)/2 = -820 எனக் கண்டறியலாம். இதுவே இதன் சரியான தீர்வாகும்.",
+    "en": "Using the formula for alternating squares sum, -n(n+1)/2 gives -820 for 40 terms."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான குறி கொண்ட நேர்மதிப்பு விடை ஆகும்.",
+     "en": "This is incorrect due to a positive sign."
+    },
+    "C": {
+     "ta": "இது கணக்கீட்டு முறையில் வராத தவறான எண் மதிப்பாகும்.",
+     "en": "This is an incorrect numerical value."
+    },
+    "D": {
+     "ta": "இது தவறான உறுப்புகளின் எண்ணிக்கை மூலம் பெறப்பட்ட தவறான விடை ஆகும்.",
+     "en": "This is an incorrect value resulting from wrong term count."
+    }
+   },
+   "rule": {
+    "ta": "ஒன்று முதல் n வரையிலான ஒற்றை-இரட்டை வர்க்கத் தொடரின் கூடுதல் -n(n + 1) / 2 ஆகும்.",
+    "en": "The sum of the alternating square series is -n(n + 1) / 2."
+   },
+   "eg": {
+    "ta": "1² - 2² + 3² - 4² என்ற முதல் 4 உறுப்புகளின் கூடுதல் -4(5)/2 = -10 ஆகும்.",
+    "en": "Sum of first 4 terms of 1² - 2² + 3² - 4² is -10."
+   },
+   "tip": {
+    "ta": "ஒன்று விட்டுக் குறி வரும் தொடர்களில் கடைசி எண்ணை n ஆக வைத்து -n(n+1)/2 ஐப் பயன்படுத்துங்கள்.",
+    "en": "Use -n(n+1)/2 with the last term for alternating square series."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q117": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மாணவர்களின் எண்ணிக்கையை மாற்றுவதால் ஏற்படும் தொகையின் வித்தியாச சமன்பாட்டைப் பாருங்கள்.",
+    "en": "Set up an equation based on the difference in distribution per student."
+   },
+   "explain": {
+    "ta": "மொத்தத் தொகையை x என்க. x/14 - x/18 = 80 என்ற சமன்பாட்டைத் தீர்த்தால் x இன் மதிப்பு ரூ. 5040 கிடைக்கும். இதுவே மாணவர்களுக்குப் பிரித்துக் கொடுக்கப்பட்ட மொத்தத் தொகையாகும்.",
+    "en": "Solving x/14 - x/18 = 80 gives the total amount as Rs. 5040."
+   },
+   "why": {
+    "B": {
+     "ta": "இது சரியான சமன்பாட்டைத் தீர்க்காமல் கிடைக்கும் தவறான மதிப்பாகும்.",
+     "en": "This is an incorrect value from wrong calculation."
+    },
+    "C": {
+     "ta": "இது கொடுக்கப்பட்ட வித்தியாசத்திற்குப் பொருந்தாத பாதியளவு மதிப்பாகும்.",
+     "en": "This is half the correct value."
+    },
+    "D": {
+     "ta": "இது தவོறான மீப்பெரு பொது மடங்கு மூலம் வந்த தவறான விடை ஆகும்.",
+     "en": "This is an incorrect value from wrong LCM."
+    }
+   },
+   "rule": {
+    "ta": "தொகை x எனில் x/a - x/b = வித்தியாசம் என்ற முறையில் தீர்க்க வேண்டும்.",
+    "en": "If amount is x, solve using x/a - x/b = difference."
+   },
+   "eg": {
+    "ta": "x/10 - x/15 = 10 எனில் x = 300 ஆகும்.",
+    "en": "If x/10 - x/15 = 10, then x = 300."
+   },
+   "tip": {
+    "ta": "x(b - a) / (ab) = வித்தியாசம் என்ற குறுக்கு வழியைப் பயன்படுத்துங்கள்.",
+    "en": "Use the shortcut x(b - a) / (ab) = difference."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q118": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் 1 முதல் 20 வரை வர்க்கங்களின் கூடுதலைக் கண்டு 1-ஐக் கழிக்க வேண்டியதைப் பாருங்கள்.",
+    "en": "Find sum of squares from 1 to 20 and subtract 1."
+   },
+   "explain": {
+    "ta": "கொடுக்கப்பட்ட தொடர் 2² முதல் தொடங்குவதால், 1² முதல் 20 வரையிலான கூடுதல் [20 × 21 × 41] / 6 = 2870 ஆகும். இதிலிருந்து விடுபட்ட 1² ஐக் கழித்தால் 2870 - 1 = 2869 கிடைக்கும்.",
+    "en": "Sum from 1 to 20 squared is 2870. Subtracting 1² gives 2869."
+   },
+   "why": {
+    "A": {
+     "ta": "இது முதல் உறுப்பைக் கழிக்காமல் அல்லது தவறாகக் கழித்ததால் வரும் விடை ஆகும்.",
+     "en": "This is incorrect due to wrong subtraction."
+    },
+    "B": {
+     "ta": "இது சூத்திரக் கணக்கீட்டில் ஏற்பட்ட சிறிய பிழையால் வரும் எண் ஆகும்.",
+     "en": "This is a calculation error."
+    },
+    "D": {
+     "ta": "இது 1² ஐக் கழிக்காத முழுமையான 20 வர்க்கங்களின் கூடுதலாகும்.",
+     "en": "This is the sum including 1²."
+    }
+   },
+   "rule": {
+    "ta": "முதல் n இயல் எண்களின் வர்க்கங்களின் கூடுதல் n(n + 1)(2n + 1) / 6 ஆகும்.",
+    "en": "Sum of squares of first n natural numbers is n(n + 1)(2n + 1) / 6."
+   },
+   "eg": {
+    "ta": "1² + 2² + 3² = (3 × 4 × 7) / 6 = 14 ஆகும்.",
+    "en": "Sum of squares up to 3 is 14."
+   },
+   "tip": {
+    "ta": "இடைப்பட்ட எண்களிலிருந்து தொடர் தொடங்கினால் மொத்தக் கூடுதலில் விடுபட்ட பகுதியைக் கழிக்கவும்.",
+    "en": "Subtract the missing part from the total sum if series starts from a middle number."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q169": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் மாதச் செலவுகளையும் சேமிப்பையும் கூட்டி ஆண்டு வருமானம் கண்டு பின் மாத வருமானம் காண்பதைப் பாருங்கள்.",
+    "en": "Calculate total annual expenses and add savings to find annual income, then divide by 12."
+   },
+   "explain": {
+    "ta": "முதல் 8 மாத செலவு 8 × 2500 = ரூ. 20000 மற்றும் அடுத்த 4 மாத செலவு 4 × 1500 = ரூ. 6000 ஆகும். மொத்தச் செலவு ரூ. 26000 மற்றும் சேமிப்பு ரூ. 10000 சேர்த்து ஆண்டு வருமானம் ரூ. 36000 ஆகும், எனவே மாத ஊதியம் 36000 / 12 = ரூ. 3000.",
+    "en": "Total expense is 26000, savings 10000, total income 36000, monthly income is 3000."
+   },
+   "why": {
+    "A": {
+     "ta": "இது முதல் எட்டு மாதங்களின் சராசரிச் செலவு மட்டுமே ஆகும்.",
+     "en": "This is just the average expense of the first 8 months."
+    },
+    "C": {
+     "ta": "இது தவறான மாதப் பகிர்வு கணக்கீட்டால் வந்த விடை ஆகும்.",
+     "en": "This is an incorrect calculation value."
+    },
+    "D": {
+     "ta": "இது மொத்தத் தொகையைத் தவறாக வகுப்பதால் வரும் விடை ஆகும்.",
+     "en": "This is from incorrect division."
+    }
+   },
+   "rule": {
+    "ta": "ஆண்டு வருமானம் = மொத்தச் செலவு + சேமிப்பு; மாத வருமானம் = ஆண்டு வருமானம் ÷ 12.",
+    "en": "Annual income = Total expense + Savings; Monthly income = Annual income ÷ 12."
+   },
+   "eg": {
+    "ta": "மாதச் செலவு சராசரி 2000 எனில் 12 மாத செலவு 24000 ஆகும்.",
+    "en": "If average monthly expense is 2000, annual expense is 24000."
+   },
+   "tip": {
+    "ta": "மாதச் செலவுகளைத் தனித்தனியாகப் பெருக்கி மொத்தத்தைக் கண்டறியவும்.",
+    "en": "Multiply monthly expenses separately to find the total."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q170": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் வயது வித்தியாசத்தை x என வைத்து 4 ஆண்டுகளுக்கு முந்தைய விகிதச் சமன்பாட்டைப் பாருங்கள்.",
+    "en": "Set up the equation using ages 4 years ago."
+   },
+   "explain": {
+    "ta": "மகளின் தற்போதைய வயது x என்க, தாயின் வயது x + 20. நான்கு ஆண்டுகளுக்கு முன்பு அவர்களின் வயது முறையே x - 4 மற்றும் x + 16 ஆகும். x + 16 = 5(x - 4) எனத் தீர்த்தால் x = 9 கிடைக்கும், இதுவே மகளின் தற்போதைய வயதாகும்.",
+    "en": "Let daughter's age be x. Four years ago x + 16 = 5(x - 4), which gives x = 9."
+   },
+   "why": {
+    "B": {
+     "ta": "இது நான்கு வருடங்களுக்குப் பிந்தைய வயதைக் குறிக்கும் தவறான விடை ஆகும்.",
+     "en": "This is incorrect as it represents a future age."
+    },
+    "C": {
+     "ta": "இது விகிதத்தை மாற்றிப் பிரதியிடுவதால் வரும் தவறான எண் ஆகும்.",
+     "en": "This is from incorrect substitution."
+    },
+    "D": {
+     "ta": "இது தாயின் வயதைக் கணக்கிடும்போது ஏற்படும் குழப்பத்தால் வரும் விடை ஆகும்.",
+     "en": "This is from confusion with mother's age."
+    }
+   },
+   "rule": {
+    "ta": "வயதுக் கணக்குகளில் கொடுக்கப்பட்ட காலத்திற்கு முந்தைய அல்லது பிந்தைய வயதைக் கொண்டு சமன்பாடு அமைக்க வேண்டும்.",
+    "en": "Form equations based on ages before or after the given period in age problems."
+   },
+   "eg": {
+    "ta": "தாய் மகளை விட 10 வயது அதிகம் மற்றும் 2 ஆண்டுகளுக்கு முன் 3 மடங்கு எனில் மகள் வயது 6 ஆகும்.",
+    "en": "If mother is 10 years older and was 3 times 2 years ago, daughter's age is 6."
+   },
+   "tip": {
+    "ta": "விடைகளில் இருந்து x மதிப்பைச் சரிபார்த்துப் பார்ப்பது மிக விரைவான வழியாகும்.",
+    "en": "Verifying the value of x from the options is the fastest method."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q171": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் 2 ஆண்டுகளுக்குத் தனிவட்டிக்கும் கூட்டுவட்டிக்கும் உள்ள வித்தியாசச் சூத்திரத்தைப் பாருங்கள்.",
+    "en": "Use the difference formula for CI and SI for 2 years."
+   },
+   "explain": {
+    "ta": "இரண்டு ஆண்டுகளுக்குக் கூட்டு வட்டிக்கும் தனி வட்டிக்கும் உள்ள வித்தியாசத்தைக் காண D = P(r / 100)² என்ற சூத்திரத்தைப் பயன்படுத்த வேண்டும். P = 8000 மற்றும் r = 10% எனப் பிரதியிட்டால் 8000 × (10 / 100)² = ரூ. 80 கிடைக்கும்.",
+    "en": "Using D = P(r / 100)² with P = 8000 and r = 10% gives Rs. 80."
+   },
+   "why": {
+    "A": {
+     "ta": "இது தவறான வட்டி வீதம் அல்லது கணக்கீட்டால் வரும் மதிப்பாகும்.",
+     "en": "This is an incorrect calculation value."
+    },
+    "B": {
+     "ta": "இது வேறு ஏதேனும் ஆண்டு வட்டிக்கு வரக்கூடிய மதிப்பாகும்.",
+     "en": "This is for a different interest rate."
+    },
+    "D": {
+     "ta": "இது அசலின் மதிப்பைத் தவறாகப் பிரதியிடுவதால் வரும் விடை ஆகும்.",
+     "en": "This is from incorrect principal substitution."
+    }
+   },
+   "rule": {
+    "ta": "இரண்டு ஆண்டுகளுக்குக் கூட்டுவட்டிக்கும் தனிவட்டிக்கும் உள்ள வித்தியாசம் D = P(r / 100)² ஆகும்.",
+    "en": "Difference between CI and SI for 2 years is D = P(r / 100)²."
+   },
+   "eg": {
+    "ta": "ரூ. 10000-க்கு 10% வட்டி வீதம் 2 ஆண்டு வித்தியாசம் 10000 × (1 / 100) = ரூ. 100 ஆகும்.",
+    "en": "For Rs. 10000 at 10% for 2 years, difference is Rs. 100."
+   },
+   "tip": {
+    "ta": "10% வட்டி எனில் 2 ஆண்டுகளுக்கு வட்டி வீதத்தின் வர்க்கத்தைக் கொண்டு எளிதாகக் கணக்கிடலாம்.",
+    "en": "For 10% interest, easily calculate using square of the rate."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q106": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் அரசியலமைப்பு மற்றும் அரசியல் அறிவியலில் சுதந்திரம் பற்றிய அறிஞர்களின் கூற்றுகளையும் அவற்றின் காரணங்களையும் தனித்தனியாக ஆராய்ந்து பார்க்க வேண்டும்.",
+    "en": "Analyze the assertion and reason regarding political liberty and thinkers separately to check their validity."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, கட்டுப்பாடில்லாமையையே சுதந்திரம் என்று பேராசிரியர் சீலி கூறுகிறார் என்பதும், சுதந்திரம் குறித்த காரணம் என்பதும் சரியான கூற்றுகளாகும். இவை அரசியல் அறிவியல் பாடப்புத்தகத்தில் உள்ள முக்கியமான வரிகளாகும்.",
+    "en": "According to the official answer, both the assertion regarding Prof. Seely's definition of liberty and the given reason are correct statements from the political science textbook."
+   },
+   "why": {
+    "B": {
+     "ta": "கூற்று மட்டும் சரியானது என்று கூறுவது தவறு, ஏனெனில் கொடுக்கப்பட்ட காரணமும் சுதந்திரம் பற்றிய சரியான விளக்கத்தையே தருகிறது.",
+     "en": "Saying only the assertion is true is incorrect because the given reason is also factually correct."
+    },
+    "C": {
+     "ta": "காரணம் மட்டும் சரியானது என்று கூறுவது தவறு, ஏனெனில் கூற்றும் அரசியல் அறிவியலில் ஏற்கப்பட்ட சரியான கருத்தாகும்.",
+     "en": "Saying only the reason is true is incorrect because the assertion is also a valid accepted statement."
+    },
+    "D": {
+     "ta": "இரண்டும் தவறானவை என்று கூறுவது தவறு, ஏனெனில் அரசியல் அறிவியல் பாட நூலின்படி இரண்டும் சரியான கூற்றுகளாகும்.",
+     "en": "Saying both are false is incorrect as both statements are factually correct according to the textbook."
+    }
+   },
+   "rule": {
+    "ta": "அரசியல் அறிவியல் கோட்பாடுகள் மற்றும் அறிஞர்களின் வரிகளைப் படிக்கும்போது கூற்று மற்றும் காரணங்களை முழுமையாகப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Understand political science theories and thinkers' quotes thoroughly by analyzing both assertion and reason."
+   },
+   "eg": {
+    "ta": "பேராசிரியர் லாஸ்கி மற்றும் ஜான் லாக் போன்ற அறிஞர்களின் சுதந்திரம் பற்றிய கருத்துக்களும் இதேபோல் தேர்வுகளில் கேட்கப்படலாம்.",
+    "en": "Views on liberty by thinkers like Harold Laski or John Locke may also be asked similarly in exams."
+   },
+   "tip": {
+    "ta": "அரசியல் அறிவியல் கூற்றுகளில் அறிஞர்களின் பெயர்கள் மற்றும் வரையறைகளைத் தெளிவாக நினைவில் கொள்ளுங்கள்.",
+    "en": "Clearly remember the names of political thinkers and their specific definitions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-VAO-2016-GS-q165": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஒவ்வொரு அரசியல் அமைப்பு அல்லது தேர்தல் தொடர்பான சொல்லை அதனுடன் தொடர்புடைய சரியான எண்ணுடன் அல்லது அமைப்போடு பொருத்திப் பார்க்க வேண்டும்.",
+    "en": "Match each political or electoral term with its correct corresponding institution, age, amendment, or method."
+   },
+   "explain": {
+    "ta": "வாக்களிக்கும் வயது 18 ஆண்டுகள் என்றும், தேர்தல் சின்னங்கள் ஒதுக்குவது தேர்தல் ஆணையத்தின் பணி என்றும், வெளிப்படையான வாக்குப்பதிவு என்பது கைகளை உயர்த்துதல் என்றும், அடிப்படைக் கடமைகள் 42வது திருத்தச் சட்டம் மூலம் சேர்க்கப்பட்டன என்றும் சரியாகப் பொருத்தப்பட்டுள்ளது.",
+    "en": "The correct matches are voting age is 18 years, symbol allocation is done by the Election Commission, open ballot is raising hands, and fundamental duties were added by the 42nd Amendment."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை அனைத்துப் பொருத்தங்களையும் நேரလகாகக் காட்டுகிறது, இது தவறான பொருத்துதலாகும்.",
+     "en": "This order shows a straight one-to-one match which is incorrect for the given items."
+    },
+    "C": {
+     "ta": "இந்த வரிசையில் உள்ள எண்கள் கொடுக்கப்பட்ட பட்டியலின் சரியான விடையோடு ஒத்துப்போகவில்லை.",
+     "en": "The numbers in this arrangement do not match the correct pairs of the given list."
+    },
+    "D": {
+     "ta": "இந்த வரிசை தலைப்புகளையும் விடைகளையும் மாற்றிப் பொருத்துவதால் தவறாகிறது.",
+     "en": "This order is wrong as it incorrectly permutes the matching pairs."
+    }
+   },
+   "rule": {
+    "ta": "பொருத்துக வினாக்களில் எளிرز அறிந்த ஒரு ஜோடியைக் கண்டுபிடித்தால் (எ.கா: வாக்களிக்கும் வயது 18) விடையைக் எளிதில் கண்டறியலாம்.",
+    "en": "In matching questions, finding one known pair (e.g., voting age is 18) can quickly lead to the correct option."
+   },
+   "eg": {
+    "ta": "இந்திய அரசியலமைப்புச் சட்டத்தின் முகப்புரை மற்றும் அடிப்படை உரிமைகள் தொடர்பான பொருத்தக் கேள்விகள் அடிக்கடி கேட்கப்படுகின்றன.",
+    "en": "Matching questions regarding the Preamble and Fundamental Rights are frequently asked in TNPSC exams."
+   },
+   "tip": {
+    "ta": "தெரிந்த ஒரு ஜோடியை வைத்து குறிப்புகளை (Options) நீக்கும் முறையைப் (Elimination method) பயன்படுத்தவும்.",
+    "en": "Use the elimination method based on the pairs you are 100% sure of."
+   },
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-25"
+ "updated": "2026-11-26"
 }

@@ -1,0 +1,346 @@
+{
+ "date": "2026-11-26",
+ "model": "gemini-3.5-flash-lite",
+ "questions": [
+  {
+   "id": "2026-11-26-1",
+   "unit": "B2",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "கோயம்புத்தூர் மாவட்டம் பெதிக்கொட்டையில் அமைக்கப்பட உள்ள நடமாடும் வனவிலங்கு தடயவியல் ஆய்வகம் எது?",
+    "en": "Where is the mobile wildlife forensic lab to be stationed in Coimbatore district?"
+   },
+   "options": [
+    {
+     "ta": "பெதிக்கொட்டை",
+     "en": "Pethikuttai"
+    },
+    {
+     "ta": "பொள்ளாச்சி",
+     "en": "Pollachi"
+    },
+    {
+     "ta": "வால்பாறை",
+     "en": "Valparai"
+    },
+    {
+     "ta": "மேட்டுப்பாளையம்",
+     "en": "Mettupalayam"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "கோயம்புத்தூர் மாவட்டத்தின் பெதிக்கொட்டையில் நடமாடும் வனவிலங்கு தடயவியல் ஆய்வகம் அமைக்கப்படும்.",
+    "en": "A mobile wildlife forensic lab is to be stationed at Pethikuttai in Coimbatore district."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/mobile-wildlife-forensic-lab-to-be-stationed-at-pethikuttai-in-coimbatore-district/article71743286.ece",
+   "headline": "Mobile wildlife forensic lab to be stationed at Pethikuttai in Coimbatore district"
+  },
+  {
+   "id": "2026-11-26-2",
+   "unit": "B6",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "பிருந்தா ரமணன் மற்றும் ஜே. ரமணன் எழுதிய மேற்குத் தொடர்ச்சி மலைகள் பற்றிய பயண நூலின் தலைப்பு என்ன?",
+    "en": "What is the title of the book on the Western Ghats authored by Vrinda Ramanan and J. Ramanan?"
+   },
+   "options": [
+    {
+     "ta": "Mountains of Our Destiny: The Western Ghats",
+     "en": "Mountains of Our Destiny: The Western Ghats"
+    },
+    {
+     "ta": "The Southern Monsoon Mountains",
+     "en": "The Southern Monsoon Mountains"
+    },
+    {
+     "ta": "Western Ghats Expedition",
+     "en": "Western Ghats Expedition"
+    },
+    {
+     "ta": "Monsoon Peaks of India",
+     "en": "Monsoon Peaks of India"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "மேற்குத் தொடர்ச்சி மலைகள் பற்றிய நூலின் தலைப்பு 'Mountains of Our Destiny: The Western Ghats' ஆகும்.",
+    "en": "The book on the Western Ghats is titled 'Mountains of Our Destiny: The Western Ghats'."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/the-hindus-coffee-table-book-on-exploration-of-the-western-ghats-released/article71741421.ece",
+   "headline": "The Hindu’s coffee table book on exploration of the Western Ghats released"
+  },
+  {
+   "id": "2026-11-26-3",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாட்டில் அம்பர் என்டர்பிரைசஸ் நிறுவனம் எவ்வளவு மதிப்புள்ள PCB புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளது?",
+    "en": "Amber Enterprises has signed a Tamil Nadu PCB MoU worth how much amount?"
+   },
+   "options": [
+    {
+     "ta": "₹100 கோடி",
+     "en": "₹100 Crore"
+    },
+    {
+     "ta": "₹500 கோடி",
+     "en": "₹500 Crore"
+    },
+    {
+     "ta": "₹1000 கோடி",
+     "en": "₹1000 Crore"
+    },
+    {
+     "ta": "₹2000 கோடி",
+     "en": "₹2000 Crore"
+    }
+   ],
+   "answer": "B",
+   "explain": {
+    "ta": "அம்பர் என்டர்பிரைசஸ் நிறுவனம் ₹500 கோடி மதிப்பில் தமிழ்நாடு PCB புரிந்துணர்வு ஒப்பந்தத்தில் கையெழுத்திட்டுள்ளது.",
+    "en": "Amber Enterprises signed a ₹500 Crore Tamil Nadu PCB MoU."
+   },
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaUtkMG9vR1JDa0ZHZXpablYzWU9iTkpXOVpKYXFkTXB2MnRzSWt0ak1zb3k3QmhHNV9TWndwenpyWjFPQjhaY3ZONm5qc2dvcmJrQlZwRzdLZmtobUFhSVlNV1dGMEFVZ0RBZjdmdjZCZlhWbnFnSzVjSUdCLUt3X1dseWVEUVJ0UGlWTVhOem9ianpfLXl5eEtvSHBZZw?oc=5",
+   "headline": "Amber Enterprises Signs ₹500 Crore Tamil Nadu PCB MoU - Multibagg AI"
+  },
+  {
+   "id": "2026-11-26-4",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "உத்தரகண்ட் மாநிலத்தின் பைனி-புலி யோஜனா திட்டத்தின் கீழ் எத்தனை பெண்களுக்கு நிதி உதவி வழங்கப்படுகிறது?",
+    "en": "Under Uttarakhand's Baini-Bhuli Yojana, how many women receive financial support?"
+   },
+   "options": [
+    {
+     "ta": "1.23 லட்சம்",
+     "en": "1.23 Lakh"
+    },
+    {
+     "ta": "3.15 லட்சம்",
+     "en": "3.15 Lakh"
+    },
+    {
+     "ta": "5.23 லட்சம்",
+     "en": "5.23 Lakh"
+    },
+    {
+     "ta": "8.40 லட்சம்",
+     "en": "8.40 Lakh"
+    }
+   ],
+   "answer": "C",
+   "explain": {
+    "ta": "உத்தரகண்ட் மாநிலத்தின் பைனி-புலி யோஜனா மூலம் 5.23 லட்சம் பெண்களுக்கு நிதி உதவி வழங்கப்படுகிறது.",
+    "en": "Under Uttarakhand's Baini-Bhuli Yojana, 5.23 lakh women get financial support."
+   },
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZmpWUjhiSVFiTTdRQ215S0VhcGVVak1OMTB2RXpTSXJMbnpkc2tPQTdQbV9zOVh3ODJCV3ZjMWVseGl1cmhWUE0xVTh4Z0Z6YzRYMVpXekhSd2NoSEtlT0wtM3JRY3gydUtaZjBobDJ1NWMyU0M2eVNYRVIyTGdldDZlcGJ3NUQtNU5JRkhPcllSa1V2cHNCcmY0NUJsN0FRb0lMZ2REd1RZbHBZTGxJYl9vb2p1QzRxQ3c0WGpRbFVhMzJPRllNcUdER2lGcTZweUdPazFsMENSM2ZiZFRSd0RYTHVQT2lWZThXNWxEMG80VjRNRGRuQjJuV1Q?oc=5",
+   "headline": "Uttarakhand's Baini-Bhuli Yojana: 5.23 Lakh Women to Get ₹20,000 Financial Support - Utkarsh Classes"
+  },
+  {
+   "id": "2026-11-26-5",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியாவின் எதைச் சக்தியூட்ட ‘চैरियट-1’ (Chariot-1) பவுண்டேஷன் மாடல்கள் தொடங்கப்பட்டுள்ளன?",
+    "en": "'Chariot-1' foundation models have been launched to empower India's what?"
+   },
+   "options": [
+    {
+     "ta": "விண்வெளித் தொழில்நுட்பம்",
+     "en": "Space Technology"
+    },
+    {
+     "ta": "சுயதேசி ஏஐ திறன்கள்",
+     "en": "Indigenous AI capabilities"
+    },
+    {
+     "ta": "மின் வாகன உற்பத்தி",
+     "en": "Electric vehicle manufacturing"
+    },
+    {
+     "ta": "கிராமப்புற டிஜிட்டல் வலைப்பின்னல்",
+     "en": "Rural digital network"
+    }
+   ],
+   "answer": "B",
+   "explain": {
+    "ta": "இந்தியாவின் சுதேசி ஏஐ திறன்களைச் சக்தியூட்ட ‘চैरियट-1’ பவுண்டேஷன் மாடல்கள் தொடங்கப்பட்டன.",
+    "en": "'Chariot-1' foundation models were launched to empower India's indigenous AI capabilities."
+   },
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341790",
+   "headline": "भारत की स्वदेशी एआई क्षमताओं को सशक्त बनाने की दिशा में इंडिया एआई मिशन समर्थित ‘चैरियट-1’ फाउंडेशन मॉडल्स का शुभारंभ"
+  },
+  {
+   "id": "2026-11-26-6",
+   "unit": "B3",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "61வது வெனிஸ் கலை பியெனாலேவில் சிறந்த தேசிய பங்களிப்புக்கான விருதை வென்ற நாடு எது?",
+    "en": "Which country won the 'Visitors Lion' award for best national participation at the 61st Venice Art Biennale?"
+   },
+   "options": [
+    {
+     "ta": "இந்தியா",
+     "en": "India"
+    },
+    {
+     "ta": "பிரான்ஸ்",
+     "en": "France"
+    },
+    {
+     "ta": "ஜப்பான்",
+     "en": "Japan"
+    },
+    {
+     "ta": "இத்தாலி",
+     "en": "Italy"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "இந்தியா 61வது வெனிஸ் கலை பியெனாலேவில் சிறந்த தேசிய பங்களிப்புக்கான விருதை வென்றது.",
+    "en": "India won the 'Visitors Lion' award for best national participation at the 61st Venice Art Biennale."
+   },
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2341692",
+   "headline": "भारत ने 61वें वेनिस आर्ट बिएनाले में सर्वश्रेष्ठ राष्ट्रीय भागीदारी के लिए 'विज़िटर्स लायन' पुरस्कार जीता"
+  },
+  {
+   "id": "2026-11-26-7",
+   "unit": "B4",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தீக்காய உயிர் பிழைத்தவர்களுக்கான இந்தியாவின் முதல் விரிவான பராமரிப்பு மற்றும் மறுவாழ்வு கொள்கையை உருவாக்கிய மாநிலம் எது?",
+    "en": "Which state charted India's first comprehensive care and rehabilitation policy for burns survivors?"
+   },
+   "options": [
+    {
+     "ta": "தமிழ்நாடு",
+     "en": "Tamil Nadu"
+    },
+    {
+     "ta": "கர்நாடகா",
+     "en": "Karnataka"
+    },
+    {
+     "ta": "கேரளா",
+     "en": "Kerala"
+    },
+    {
+     "ta": "மகாராஷ்டிரா",
+     "en": "Maharashtra"
+    }
+   ],
+   "answer": "B",
+   "explain": {
+    "ta": "",
+    "en": "Karnataka charted India's first comprehensive care and rehabilitation policy for burns survivors."
+   },
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQOWk3WHlQMi1aRDk1VnFaQVZ5UzVHVHNkWDNEb0wtTVNVaG5BUHQ0RDdDS2RBTVpKVDNMRzQzQ0N3MTl3bWhYX2VZenhmUDh3X09lazRWSWdIN1MwNVFIY213dEhxaWxKcXUxc0NTMnhFNWk4bkw1YzRSLU9pbXFpaUs5OTdObWdkSms0VmRJcFpicTBITWpYZF9WZWdrZGR6MF9mMzRFdlFPVEZINFRzeThVRi1lZm1QTFBtdVhyNWhHMzctcG5obUpwdkJBQ3JUYkl3U3JUMmJKZi1WUW5JWGpJbDRTNkFpaUlFZFF4RFRVNHk1WmfSAfwBQVVfeXFMUGdBT1JKcXhTWGMySTEweXVpWXJzV2JOZWVYUktBUHl1d21UTUY5VldOTHVZOTE1ZWliSEFoREJJRVd6ZzJoVENaYlFic0VCMVZKWEdKV0lHdktvQzZZbFFDNUZIUktETGVjUm5Ndjc0Wk5SX2pRNmI1eWpVNzV5Smx4c084M3VNTWxieEhRaEhvNzVXNmRpUkdQa2NQVmhnWUVBVVF4ZzRNWnFaN2l3LThIbE5mYzRkYmxpRjczcGdiLXNCbk5BTTlmeDFXT3lsaFdXZU02dkl4ZTNMX05JVmpTcFpodmFEYVYzdHFjUXh3WGFLblcwMnljT3dl?oc=5",
+   "headline": "Karnataka charts India’s first comprehensive care and rehabilitation policy for burns survivors - The Hindu"
+  },
+  {
+   "id": "2026-11-26-8",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "ஆப்பிள் நிறுவனம் தனது சில்லறை விற்பனை வலையமைப்பை விரிவுபடுத்தும் புதிய கடையை எந்த நகரில் திறக்கிறது?",
+    "en": "In which city is Apple expanding its retail network with a new store?"
+   },
+   "options": [
+    {
+     "ta": "ஹைதராபாத்",
+     "en": "Hyderabad"
+    },
+    {
+     "ta": "பெங்களூரு",
+     "en": "Bengaluru"
+    },
+    {
+     "ta": "சென்னை",
+     "en": "Chennai"
+    },
+    {
+     "ta": "புனே",
+     "en": "Pune"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "ஆப்பிள் நிறுவனம் ஹைதராபாத்தில் புதிய கடை மூலம் தனது சில்லறை விற்பனை வலையமைப்பை விரிவுபடுத்துகிறது.",
+    "en": "Apple is expanding its India retail network with a new store in Hyderabad."
+   },
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFNZamxkbXFUeUlVZjFEZVBCS2pKdEF1MW53ZjQzaUpPSVVwcDVpel9QRGVWM0ZZTmM3ZDQ2RE9RRTVnc2UxYUhmajVBYkV6TmwwMks2OGhIcXBvTkZzOEVuaV9wanNIU1doM3h6Xy1CSDF4ZkZSb1FMNVBjc3Q2cjJsVGw3eVJ1X19ibVluNXlvVFlOQkFUaEo4OEU0WU1TOTNvRDNnbFdueG56VTBwTFFLZlNHUQ?oc=5",
+   "headline": "Apple to Expand India Retail Network With New Store in Hyderabad - Bloomberg.com"
+  },
+  {
+   "id": "2026-11-26-9",
+   "unit": "B1",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "புதிதாக அறிமுகப்படுத்தப்பட்ட டொயோட்டா இன்னோவா ஹைக்ராஸ் எந்த எத்தனால் கலவை வரை இயங்கக்கூடியது?",
+    "en": "The newly launched Toyota Innova Hycross Flex Hybrid is compliant up to which ethanol blend?"
+   },
+   "options": [
+    {
+     "ta": "E10-E50",
+     "en": "E10-E50"
+    },
+    {
+     "ta": "E20-E85",
+     "en": "E20-E85"
+    },
+    {
+     "ta": "E30-E90",
+     "en": "E30-E90"
+    },
+    {
+     "ta": "E50-E100",
+     "en": "E50-E100"
+    }
+   ],
+   "answer": "B",
+   "explain": {
+    "ta": "புதிதாக அறிமுகப்படுத்தப்பட்ட டொயோட்டா இன்னோவா ஹைக்ராஸ் E20-E85 கலவை வரை இயங்கக்கூடிய வலுவான கலப்பினமாகும்.",
+    "en": "The Toyota Innova Hycross Flex Hybrid is E20-E85 compliant."
+   },
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWnQ1cXdEYXBrUk1tQy1fa3BseUZ3cGVxVUUxbnVWaGlhVnFPSzlwVjRBTjl5aXQ4YjhJVEpfWl9WWEdmaVdHa1pLZ21EenlhaHByTkVMZVk2bzBXVjYzbzQzV2tLUUdHUHZKazEwM25KUlpHMUM2QXA2eXVLbWUySUkwcHJMcWNEYXhVM0hVMUVqaDZRVkN0NzkxUW5xelhhbFZWVWhEQlZDVjR3VEFuMUVRRXU0cV9aRUlwWU9qaThIMXVhTTg3ZUdCLV9td28?oc=5",
+   "headline": "Toyota Innova Hycross Flex Hybrid Electric Launched in India at ₹19.99 Lakh: E20-E85 Compliant Strong Hybrid - ACKO Drive"
+  },
+  {
+   "id": "2026-11-26-10",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "நடப்பு நிதியாண்டின் முதல் ஏழு மாதங்களில் இந்தியாவின் மின்னணு பொருட்கள் ஏற்றுமதி எவ்வளவு மதிப்பைத் தாண்டியுள்ளது?",
+    "en": "India's electronics exports crossed what value in the first seven months of the financial year?"
+   },
+   "options": [
+    {
+     "ta": "$10.2 பில்லியன்",
+     "en": "$10.2 billion"
+    },
+    {
+     "ta": "$22.5 பில்லியன்",
+     "en": "$22.5 billion"
+    },
+    {
+     "ta": "$38.4 பில்லியன்",
+     "en": "$38.4 billion"
+    },
+    {
+     "ta": "$50.1 பில்லியன்",
+     "en": "$50.1 billion"
+    }
+   ],
+   "answer": "C",
+   "explain": {
+    "ta": "நடப்பு நிதியாண்டின் முதல் ஏழு மாதங்களில் இந்தியாவின் மின்னணு பொருட்கள் ஏற்றுமதி $38.4 பில்லியனைத் தாண்டியுள்ளது.",
+    "en": "India's electronics exports crossed $38.4 billion in the first seven months of the fiscal year."
+   },
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDdONGVJaHVjbU5vMWRJQ2dyZFgwck0tSmdDbnRidFU1RjBEbFQ0REU3TkhPUjY1clIyaVRQM3E1QkhWUWdWS29XN2huNzRlSjU5YTBTQjVjeGJieTBYOENVM1B1ZHlaTnNob0lMZ2tDanVOLWNkSkY3V3Btdm5POTk5WDJtZXE2RXFWLXJyd0dYZFF2cFFmaTdRbjBMZ3Rrc0U3aWRKSGN5aFd4MGF4eWJ1alJkQTFNWktrWjVTX3hPUkpYcGVrVFJ6cXpWV2c?oc=5",
+   "headline": "India's electronics exports cross $38.4 billion in first seven months of FY27, as per MeitY - Indian Infrastructure Magazine"
+  }
+ ]
+}

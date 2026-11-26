@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T09:32:56.225Z",
+ "generatedAt": "2026-11-26T08:50:55.343Z",
  "files": [
   {
    "path": "cheats/a1-letters.json",
@@ -67,7 +67,7 @@
   },
   {
    "path": "explain/g4-2016-gs.json",
-   "sha": "f03b7a95e5a5"
+   "sha": "25b16ce4a43d"
   },
   {
    "path": "explain/g4-2016-gt.json",
@@ -107,11 +107,11 @@
   },
   {
    "path": "explain/vao-2016-gs.json",
-   "sha": "30d77dcc7c31"
+   "sha": "a8128dd33edf"
   },
   {
    "path": "explain/vao-2016-gt.json",
-   "sha": "74deef9e6d9f"
+   "sha": "94fd07c31b32"
   },
   {
    "path": "feed/ca-2026-11-16.json",
@@ -136,6 +136,10 @@
   {
    "path": "feed/ca-2026-11-25.json",
    "sha": "f02b26534ab7"
+  },
+  {
+   "path": "feed/ca-2026-11-26.json",
+   "sha": "f6fe97e28ccd"
   },
   {
    "path": "kural20.json",
@@ -219,7 +223,7 @@
   },
   {
    "path": "questions/pyq-vao-2016-gt.json",
-   "sha": "27f8f631772b"
+   "sha": "2b67ab4faf7e"
   }
  ]
 }

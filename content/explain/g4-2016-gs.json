@@ -1683,7 +1683,1503 @@
    },
    "doubt": true,
    "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q101": {
+   "hint": {
+    "ta": "மின்னூட்டத்திற்கும் எலக்ட்ரான்களின் எண்ணிக்கைக்கும் உள்ள கணக்கீட்டு மதிப்பைப் பாருங்கள்.",
+    "en": "Check the calculated value relating electric charge to the number of electrons."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கொடுக்கப்பட்ட விடை சரியானது எனக் கொள்ளப்படுகிறது. எனினும் சமச்சீர் புத்தகத்தின்படி 1 கூலும் மின்னூட்டத்தில் 6.25 × 10¹⁸ எலக்ட்ரான்கள் உள்ளன.",
+    "en": "As per the official key this answer is taken as correct, though Samacheer textbook states 6.25 × 10¹⁸ electrons."
+   },
+   "why": {
+    "A": {
+     "ta": "இது ஒரு எலக்ட்ரானின் மின்னூட்ட மதிப்பு ஆகும்.",
+     "en": "This is the charge of a single electron."
+    },
+    "B": {
+     "ta": "இதுவே அறிவியல் ரீதியாக 1 கூலும் மின்னூட்டத்தில் உள்ள உண்மையான எலக்ட்ரான்களின் எண்ணிக்கை ஆகும்.",
+     "en": "This is scientifically the actual number of electrons in one coulomb of charge."
+    },
+    "C": {
+     "ta": "இது தவறான அடுக்கு குறியீட்டைக் கொண்ட மதிப்பாகும்.",
+     "en": "This value has an incorrect exponent notation."
+    }
+   },
+   "rule": {
+    "ta": "1 கூலும் மின்னூட்டம் என்பது 6.25 × 10¹⁸ எலக்ட்ரான்களின் மின்னூட்டமாகும்.",
+    "en": "One coulomb of charge is equal to the charge of 6.25 × 10¹⁸ electrons."
+   },
+   "eg": {
+    "ta": "மின்னூட்டம் q = ne என்ற சூத்திரத்தின் மூலம் எலக்ட்ரான்களின் எண்ணிக்கையைக் காணலாம்.",
+    "en": "The number of electrons can be found using the formula q = ne."
+   },
+   "tip": {
+    "ta": "மதிப்பு மற்றும் அடுக்கை குழப்பிக்கொள்ளாமல் நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the numerical value and power without confusion."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q102": {
+   "hint": {
+    "ta": "சுடுவதற்கு முன்பு அமைப்பின் ஆரம்ப நிலை திசைவேகத்தைக் கவனியுங்கள்.",
+    "en": "Observe the initial velocity of the system before firing."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கொடுக்கப்பட்ட விடை சரியானது எனக் கொள்ளப்படுகிறது. எனினும் சுடுவதற்கு முன்பு துப்பாக்கியும் குண்டும் ஓய்வு நிலையில் இருப்பதால் தொடக்க உந்தம் சுழி ஆகும்.",
+    "en": "As per the official key this answer is taken as correct, though the initial momentum is zero as both are at rest before firing."
+   },
+   "why": {
+    "A": {
+     "ta": "இதுவே இயற்பியல் விதிகளின்படி சுடுவதற்கு முந்தைய சரியான மொத்த உந்தமாகும்.",
+     "en": "This is the actual correct total momentum before firing according to physics laws."
+    },
+    "C": {
+     "ta": "இது தவறான எண்கணிதக் கணக்கீட்டின் மூலம் பெறப்பட்ட மதிப்பாகும்.",
+     "en": "This value is obtained through incorrect arithmetic calculation."
+    },
+    "D": {
+     "ta": "இது நிறை மற்றும் திசைவேகத்தை மட்டும் தவறாக பெருக்கி வரும் மதிப்பாகும்.",
+     "en": "This is a value obtained by improperly multiplying mass and velocity."
+    }
+   },
+   "rule": {
+    "ta": "சுடுவதற்கு முன்பு அமைப்பில் உள்ள அனைத்துப் பொருட்களும் ஓய்வு நிலையில் உள்ளதால் தொடக்க உந்தம் சுழி.",
+    "en": "Initial momentum is zero since all objects in the system are at rest before firing."
+   },
+   "eg": {
+    "ta": "வெடிமருந்து வெடிப்பதற்கு முன் துப்பாக்கியும் குண்டும் ஓய்வில் இருக்கும்போது உந்தம் சுழி.",
+    "en": "Momentum is zero when a gun and bullet are at rest before firing."
+   },
+   "tip": {
+    "ta": "ஓய்வு நிலை என்றாலே திசைவேகம் சுழி, எனவே உந்தமும் சுழி.",
+    "en": "Rest means velocity is zero, hence momentum is also zero."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q103": {
+   "hint": {
+    "ta": "DDT என்ற பூச்சிக்கொல்லியின் முழு வேதியியல் பெயரைக் கவனியுங்கள்.",
+    "en": "Look at the full chemical name of the pesticide DDT."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கொடுக்கப்பட்ட விடை சரியானது எனக் கொள்ளப்படுகிறது. எனினும் DDT-யின் சரியான வேதிப்பெயர் டைகுளோரோ டைபீனைல் டிரைகுளோரோ ஈத்தேன் ஆகும்.",
+    "en": "As per the official key this answer is taken as correct, though the correct chemical name of DDT is Dichloro diphenyl trichloro ethane."
+   },
+   "why": {
+    "A": {
+     "ta": "இதுவே சாமச்சீர் புத்தகத்தில் கொடுக்கப்பட்டுள்ள DDT-யின் உண்மையான வேதிப்பெயராகும்.",
+     "en": "This is the actual chemical name of DDT given in the Samacheer textbook."
+    },
+    "B": {
+     "ta": "இதில் புரோமின் இடம்பெற்றுள்ளது, ஆனால் DDT-யில் குளோரின் மட்டுமே உள்ளது.",
+     "en": "This contains bromine, whereas DDT contains only chlorine."
+    },
+    "C": {
+     "ta": "இதில் சொற்களின் வரிசை மாற்றப்பட்டுள்ளது.",
+     "en": "The order of the words is altered here."
+    }
+   },
+   "rule": {
+    "ta": "DDT என்பதன் விரிவாக்கம் Dichloro Diphenyl Trichloroethane ஆகும்.",
+    "en": "DDT stands for Dichloro Diphenyl Trichloroethane."
+   },
+   "eg": {
+    "ta": "DDT என்பது ஒரு வீரியமிக்க பூச்சிக்கொல்லி மருந்து ஆகும்.",
+    "en": "DDT is a potent chemical pesticide."
+   },
+   "tip": {
+    "ta": "டைகுளோரோ, டைபீனைல், டிரைகுளோரோ, ஈத்தேன் என்ற வரிசையை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember the sequence Dichloro, Diphenyl, Trichloro, Ethane."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q104": {
+   "hint": {
+    "ta": "மைக்ரோஸ்போரம் மற்றும் எபிடெர்மோப்பைட்டான் எத்தகைய நுண்ணுயிரிகள் என்பதைப் பாருங்கள்.",
+    "en": "Check what kind of microorganisms Microsporum and Epidermophyton are."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கொடுக்கப்பட்ட விடை சரியானது எனக் கொள்ளப்படுகிறது. எனினும் இவை மனிதனில் தற்காப்புத் தோல் நோய்களை (Ringworm) ஏற்படுத்தும் பூஞ்சைகள் ஆகும்.",
+    "en": "As per the official key this answer is taken as correct, though they are actually fungi causing ringworm in humans."
+   },
+   "why": {
+    "A": {
+     "ta": "இவை பாக்டீரியாக்கள் அல்ல, பூஞ்சை வகையைச் சார்ந்தவை.",
+     "en": "These are not bacteria, they belong to the fungus category."
+    },
+    "B": {
+     "ta": "இதுவே மனிதனில் படர்தாமரை போன்ற நோய்களை ஏற்படுத்தும் சரியான பூஞ்சை வகையாகும்.",
+     "en": "This is the actual correct fungi type causing diseases like ringworm in humans."
+    },
+    "C": {
+     "ta": "இவை வைரஸ் தொற்றுகளை ஏற்படுத்தும் நுண்ணுயிரிகள் அல்ல.",
+     "en": "These are not microorganisms causing viral infections."
+    }
+   },
+   "rule": {
+    "ta": "மைக்ரோஸ்போரம் மற்றும் எபிடெர்மோப்பைட்டான் ஆகியவை பூஞ்சைகள் ஆகும்.",
+    "en": "Microsporum and Epidermophyton are fungi."
+   },
+   "eg": {
+    "ta": "டிரைக்கோபைட்டான் என்பதும் மனிதனில் தோல் நோய் ஏற்படுத்தும் பூஞ்சையே.",
+    "en": "Trichophyton is also a fungus causing skin disease in humans."
+   },
+   "tip": {
+    "ta": "ஸ்போரம் என்ற வார்த்தை பொதுவாக பூஞ்சைகளைக் குறிக்கப் பயன்படுகிறது.",
+    "en": "The word sporum is generally used to denote fungi."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q105": {
+   "hint": {
+    "ta": "பிட்யூட்டரி சுரப்பியிலிருந்து சுரக்கும் இனப்பெருக்க ஹார்மோன்களைக் கவனியுங்கள்.",
+    "en": "Look at the reproductive hormones secreted by the pituitary gland."
+   },
+   "explain": {
+    "ta": "லூட்டினைசிங் ஹார்மோன் (LH) பெண்களில் அண்டம் விடுபடுதலைத் (Ovulation) தூண்டுகிறது. இது பிட்யூட்டரி சுரப்பியால் சுரக்கப்படும் முக்கிய ஹார்மோன் ஆகும்.",
+    "en": "Luteinizing hormone (LH) stimulates ovulation in females and is a key hormone secreted by the pituitary gland."
+   },
+   "why": {
+    "B": {
+     "ta": "LTH என்பது பாலூட்டும்போது பாலைச் சுரக்கத் தூண்டும் புரோக்டின் ஹார்மோனைக் குறிக்கும்.",
+     "en": "LTH refers to prolactin hormone which stimulates milk secretion during lactation."
+    },
+    "C": {
+     "ta": "ரெனின் என்பது சிறுநீரகத்தால் சுரக்கப்பட்டு இரத்த அழுத்தத்தைக் கட்டுப்படுத்தும் நொதியாகும்.",
+     "en": "Renin is an enzyme secreted by the kidney that regulates blood pressure."
+    },
+    "D": {
+     "ta": "அட்ரினலின் என்பது அவசரகால ஹார்மோன் ஆகும், இது அண்ணீரகச் சுரப்பியால் சுரக்கப்படுகிறது.",
+     "en": "Adrenalin is an emergency hormone secreted by the adrenal gland."
+    }
+   },
+   "rule": {
+    "ta": "பெண்களில் அண்டம் விடுபடுதலுக்கு LH ஹார்மோன் அவசியமாகும்.",
+    "en": "LH hormone is essential for ovulation in females."
+   },
+   "eg": {
+    "ta": "FSH மற்றும் LH இரண்டும் இனப்பெருக்க மண்டலத்தை ஒழுங்குபடுத்துகின்றன.",
+    "en": "Both FSH and LH regulate the reproductive system."
+   },
+   "tip": {
+    "ta": "LH என்றால் Luteinizing Hormone - அண்டம் விடுபடுதல்.",
+    "en": "LH stands for Luteinizing Hormone - Ovulation."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q106": {
+   "hint": {
+    "ta": "முடக்குவாதத்திற்கு மருந்தாகும் ஜிம்னோஸ்பெர்ம் தாவரம் எது என்பதைப் பாருங்கள்.",
+    "en": "Check which gymnospermic plant is used as a medicine for rheumatism."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கொடுக்கப்பட்ட விடை சரியானது எனக் கொள்ளப்படுகிறது. எனினும் சமச்சீர் புத்தகத்தின்படி நீட்டம் தாவரம் முடக்கு வாதத்திற்கு மருந்தாகப் பயன்படுகிறது.",
+    "en": "As per the official key this answer is taken as correct, though Samacheer textbook states Gnetum is used for rheumatism."
+   },
+   "why": {
+    "A": {
+     "ta": "அரக்கேரியா என்பது ஒரு அலங்கார ஜிம்னோஸ்பெர்ம் தாவரமாகும்.",
+     "en": "Araucaria is an ornamental gymnosperm plant."
+    },
+    "C": {
+     "ta": "இதுவே சமச்சீர் புத்தகத்தில் முடக்கு வாதத்திற்கு மருந்தாகக் கூறப்பட்டுள்ள தாவரமாகும்.",
+     "en": "This is the plant stated in the Samacheer textbook as a cure for rheumatism."
+    },
+    "D": {
+     "ta": "பைனஸ் தாவரம் மரப்பிசின் மற்றும் ரெசின் தயாரிக்கப் பயன்படுகிறது.",
+     "en": "Pinus plant is used for producing resin and turpentine."
+    }
+   },
+   "rule": {
+    "ta": "எபிட்ரா தாவரம் ஆஸ்துமா நோய்க்கு மருந்தாகும், நீட்டம் முடக்கு வாதத்திற்கு மருந்தாகும்.",
+    "en": "Ephedra cures asthma, while Gnetum cures rheumatism."
+   },
+   "eg": {
+    "ta": "எபிட்ரா தாவரத்திலிருந்து எபிடிரின் மருந்து பெறப்படுகிறது.",
+    "en": "The drug ephedrine is obtained from the Ephedra plant."
+   },
+   "tip": {
+    "ta": "எபிட்ரா - ஆஸ்துமா, நீட்டம் - முடக்கு வாதம் என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Ephedra for asthma and Gnetum for rheumatism."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q107": {
+   "hint": {
+    "ta": "ஒட்டுண்ணித் தாவரங்கள் পোষணித் தாவரத்திலிருந்து உணவை உறிஞ்சும் சிறப்பு உறுப்புகளைப் பற்றி யோசியுங்கள்.",
+    "en": "Think about the special organs used by parasitic plants to absorb nutrients from the host."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி கஸ்க்கூட்டா, விஸ்கம் போன்ற ஒட்டுண்ணித் தாவரங்களின் உறிஞ்சு வேர்கள் ஹைப்பாக்கள் எனக் குறிப்பிடப்பட்டுள்ளது. எனினும், தாவரவியல் சமச்சீர் நூல்களின்படி ஒட்டுண்ணித் தாவரங்களில் உணவை உறிஞ்ச ஹாஸ்டோரியாக்கள் காணப்படுகின்றன என்பதை கவனத்தில் கொள்ள வேண்டும்.",
+    "en": "According to the official TNPSC answer key, the absorbing roots are called hyphae, though standard botany textbooks refer to them as haustoria."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பில் கொடுக்கப்பட்ட தகவலைத் தேர்வுக்கு நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the specific terminology given in the official answer key for the exam."
+   },
+   "eg": {
+    "ta": "கஸ்க்கூட்டா ஒரு முழு ஒட்டுண்ணித் தாவரமாகும்.",
+    "en": "Cuscuta is a total parasitic plant."
+   },
+   "tip": {
+    "ta": "TNPSC தேர்வுகளில் சில நேரங்களில் முந்தைய விடைக்குறிப்பே இறுதியானது.",
+    "en": "Sometimes official previous year answers override standard textbook terms."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q150": {
+   "hint": {
+    "ta": "இரு அடுத்தடுத்த சுவர்கள் சந்திக்கும் கோணம் மற்றும் சமதள கண்ணாடிகளின் பிம்பங்களின் எண்ணிக்கைக் சூத்திரத்தைப் பயன்படுத்துங்கள்.",
+    "en": "Consider the angle between adjacent walls and apply the mirror image formula."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடை 1 ஆகும். எனினும் சமச்சீர் கணிதத்தின்படி 90 டிகிரி கோணத்தில் 360 ஐ வகுத்து 1 ஐ கழித்தால் 3 பிம்பங்கள் கிடைக்கும்.",
+    "en": "According to the official answer key, the answer is 1, although the standard optical formula gives 3 images for 90 degrees."
+   },
+   "why": {},
+   "rule": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பைக் கவனமாகக் கருத்தில் கொண்டு தேர்வை எதிர்கொள்ளுங்கள்.",
+    "en": "Note the official answer choice for this specific question."
+   },
+   "tip": {
+    "ta": "முந்தைய ஆண்டு வினாக்களின் அதிகாரப்பூர்வ விடைகளை மனப்பாடம் செய்வது நல்லது.",
+    "en": "Memorize official answers for repeated previous year questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q152": {
+   "hint": {
+    "ta": "காய்கறிகள் மற்றும் பழங்கள் காற்றில் படும்போது அதில் நடக்கும் வேதி மாற்றத்தைக் கண்டறியுங்கள்.",
+    "en": "Identify the chemical change that occurs when fruits and vegetables are exposed to air."
+   },
+   "explain": {
+    "ta": "பழங்கள் மற்றும் காய்கறிகளில் இயற்கையாக உள்ள பீனாலிக் சேர்மங்கள் வளிமண்டலத்திலுள்ள ஆக்ஸிஜனுடன் சேர்ந்து ஆக்சிஜனேற்றம் அடைவதால் பழுப்பு நிறமாக மாறுகின்றன.",
+    "en": "Phenolic compounds present in fruits and vegetables react with atmospheric oxygen to turn brown."
+   },
+   "why": {},
+   "rule": {
+    "ta": "பீனாலிக் சேர்மங்கள் ஆக்ஸிஜனுடன் வினைபுரிவதால் காய்கறிகள் பழுப்பு நிறமாகின்றன.",
+    "en": "Phenolic compounds turn brown upon reacting with oxygen."
+   },
+   "eg": {
+    "ta": "வெட்டப்பட்ட கத்தரிக்காய் மற்றும் வாழைக்காய் கருமை நிறமாக மாறுவது இதற்கு எடுத்துக்காட்டாகும்.",
+    "en": "Cut brinjals and raw bananas turning dark is an example of this."
+   },
+   "tip": {
+    "ta": "பழுப்பு நிறமாதல் என்பது ஆக்சிஜனேற்ற வினை ஆகும்.",
+    "en": "Browning is an oxidation reaction."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q153": {
+   "hint": {
+    "ta": "உயிரினங்களைக் கொண்டு மண்ணின் வளத்தை அதிகரிக்கும் உரங்கள் எவை, நச்சு ரசாயனம் எது எனப் பாருங்கள்.",
+    "en": "Distinguish between biofertilizers that enrich soil and chemical pesticides."
+   },
+   "explain": {
+    "ta": "லின்டேன் என்பது ஒரு வேதியியல் பூச்சிக்கொல்லி ஆகும்; இது உயிரி-உரம் அல்ல. அனபீனா, நாஸ்டாக் மற்றும் ரைசோபியம் ஆகியவை மண்ணின் வளத்தை உயர்த்தும் உயிரி-உரங்களாகும்.",
+    "en": "Lindane is a chemical pesticide, not a biofertilizer, whereas the others are nitrogen-fixing biofertilizers."
+   },
+   "why": {},
+   "rule": {
+    "ta": "நுண்ணுயிரிகளை உரங்களாகப் பயன்படுத்துவது உயிரி-உரம் எனப்படும்.",
+    "en": "Microorganisms used to enrich soil fertility are called biofertilizers."
+   },
+   "eg": {
+    "ta": "அசோஸ்பைரில்லம் மற்றும் பாஸ்போব্যাক்டீரியா ஆகியவை மற்ற உயிரி-உரங்களாகும்.",
+    "en": "Azospirillum and phosphobacteria are other biofertilizers."
+   },
+   "tip": {
+    "ta": "உரங்களுக்கும் பூச்சிக்கொல்லிகளுக்கும் உள்ள வேறுநாட்டைப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Clearly distinguish between fertilizers and chemical pesticides."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q154": {
+   "hint": {
+    "ta": "ஒவ்வொரு வைட்டமின் குறைபாட்டினால் ஏற்படும் நோய்களை வரிசைப்படுத்திச் சரிபாருங்கள்.",
+    "en": "Check the deficiency diseases associated with each vitamin carefully."
+   },
+   "explain": {
+    "ta": "இனப்பெருக்கக் குறைபாடு வைட்டமின் ஈ குறைவினால் ஏற்படுகிறது, வைட்டமின் கே அல்ல. மாலைக்கண் நோய் வைட்டமின் ஏ குறைவினால் ஏற்படுகிறது, வைட்டமின் டி குறைவினால் அல்ல. எனவே கொடுக்கப்பட்ட இரண்டு கூற்றுகளும் தவறானவை.",
+    "en": "Sterility is due to Vitamin E deficiency and night blindness is due to Vitamin A deficiency, making both statements false."
+   },
+   "why": {},
+   "rule": {
+    "ta": "வைட்டமின் ஏ-மாலைக்கண் நோய்; வைட்டமின் இ-மலட்டுத்தன்மை.",
+    "en": "Vitamin A deficiency causes night blindness; Vitamin E deficiency causes sterility."
+   },
+   "eg": {
+    "ta": "வைட்டமின் டி குறைவினால் எலும்புருக்கி நோய் (ரிக்கெட்ஸ்) ஏற்படுகிறது.",
+    "en": "Vitamin D deficiency causes rickets."
+   },
+   "tip": {
+    "ta": "வைட்டமின் பெயர்களையும் அதன் குறைபாடுகளையும் பட்டியலிட்டுப் படிக்கவும்.",
+    "en": "Learn vitamins and their deficiency diseases as a table."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q155": {
+   "hint": {
+    "ta": "இதயத்தின் வலது கீழறையிலிருந்து நுரையீரலுக்குச் செல்லும் இரத்தக் குழாயின் வாயிலில் உள்ள அடைப்பானைப் பாருங்கள்.",
+    "en": "Look at the valve located at the exit of the right ventricle towards the lungs."
+   },
+   "explain": {
+    "ta": "வலது வெண்ட்ரிக்களிலிருந்து நுரையீரல் தமனிக்குச் செல்லும் இரத்த ஓட்டத்தை ஒரு திசையில் மட்டும் அனுமதிக்க பிறைசந்திர வால்வு உதவுகிறது.",
+    "en": "The semi-lunar valve regulates the one-way blood flow from the right ventricle to the pulmonary artery."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இதயத்திலிருந்து தமனிகளுக்குச் செல்லும் இரத்தத்தை ஒழுங்குபடுத்துவது பிறைசந்திர வால்வு ஆகும்.",
+    "en": "Semi-lunar valves regulate blood flow from ventricles into arteries."
+   },
+   "eg": {
+    "ta": "பெருநாடி மற்றும் நுரையீரல் தமனியின் தொடக்கத்தில் பிறைசந்திர வால்வுகள் உள்ளன.",
+    "en": "Semi-lunar valves are present at the base of aorta and pulmonary artery."
+   },
+   "tip": {
+    "ta": "வலது வெண்ட்ரிக்கில் - நுரையீரல் தமனி என்றால் பிறைசந்திர வால்வு என நினைவில் கொள்ளுங்கள்.",
+    "en": "Right ventricle to pulmonary artery always connects via semi-lunar valves."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q112": {
+   "hint": {
+    "ta": "சர்வதேச அளவில் இந்தியாவுக்குப் பெருமை சேர்த்த இசைக்கலைஞர்கள் மற்றும் ஐநா சபையின் சிறப்பு நிகழ்வுகளைப் பற்றி வினவினால் எம்.எஸ். சுப்புலட்சுமி தொடர்பான செய்திகளைப் பாருங்கள்.",
+    "en": "Look for legendary musicians honoured globally by the UN."
+   },
+   "explain": {
+    "ta": "2016 ஆம் ஆண்டு ஆகஸ்ட் மாதம் எம்.எஸ். சுப்புலட்சுமியின் நூற்றாண்டு விழாவைச் சிறப்பிக்கும் வகையில் ஐக்கிய நாடுகள் சபை அஞ்சல் தலை வெளியிட்டது. இதன் மூலம் ஐநா சபையில் கௌரவிக்கப்பட்ட பெருமை இவரைக் சாரும்.",
+    "en": "M.S. Subbulakshmi was honoured by the UN in August 2016 during her birth centenary."
+   },
+   "why": {
+    "B": {
+     "ta": "ஆஷா போஸ்லே இந்தியாவின் பிரபல பின்னணிப் பாடகி ஆவார், ஆனால் இவuக்கு ஐநா சபையில் குறிப்பிட்ட இந்த ஆண்டு கௌரவம் வழங்கப்படவில்லை.",
+     "en": "Asha Bhosle is a famous playback singer, not the one honoured by the UN in August 2016."
+    },
+    "C": {
+     "ta": "லதா மங்கேஷ்கர் பாரத ரத்னா விருது பெற்ற இந்தியாவின் புகழ்பெற்ற பாடகி ஆவார், ஆனால் இந்த வினாவுக்கான சரியான நபர் இவர் அல்ல.",
+     "en": "Lata Mangeshkar is a legendary singer, but she is not the correct answer for this specific UN event."
+    },
+    "D": {
+     "ta": "எம்.எஸ். இராஜலட்சுமி தமிழ் திரைப்படத் துறையில் தொடர்புடைய பழைய நடிகை மற்றும் பாடகி ஆவார்.",
+     "en": "M.S. Rajalakshmi is an early Tamil film actress and singer."
+    }
+   },
+   "rule": {
+    "ta": "சர்வதேச அமைப்புகளால் கௌரவிக்கப்பட்ட இந்திய ஆளுமைகள் மற்றும் தற்போதைய நடப்பு நிகழ்வுகளைத் தெளிவாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember prominent Indian personalities honoured by international organizations."
+   },
+   "eg": {
+    "ta": "எம்.எஸ். சுப்புலட்சுமி ஐநா சபையில் பாடிய முதல் இந்தியக் கலைஞர் ஆவார்.",
+    "en": "M.S. Subbulakshmi was the first Indian musician to perform at the UN."
+   },
+   "tip": {
+    "ta": "ஐநா சபை மற்றும் இசை என்றால் சட்டென எம்.எஸ். சுப்புலட்சுமி நினைவுக்கு வர வேண்டும்.",
+    "en": "UN and music directly point to M.S. Subbulakshmi."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q113": {
+   "hint": {
+    "ta": "தேசிய விளையாட்டு விருதுகள் மற்றும் துரோணாச்சார்யா விருது பெற்ற பயிற்சியாளர்களைப் பற்றிய வினாக்களுக்கு விடை காணச் சமச்சீர் நடப்பு நிகழ்வுகளைப் பார்க்கவும்.",
+    "en": "Check sports awards and Dronacharya awardees for trainers."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி பிஸ்வேஷ்வர் நந்திக்கு 2016-ல் துரோணாச்சார்யா விருது வழங்கப்பட்டது என்பது அதிகாரப்பூர்வ விடLயாகும். இவர் புகழ்பெற்ற ஜிம்னாஸ்டிக் வீராங்கனை தீபா கர்மாகரின் பயிற்சியாளர் ஆவார்.",
+    "en": "According to the official key, Bishweshwar Nandi received the Dronacharya Award in 2016."
+   },
+   "why": {
+    "A": {
+     "ta": "பிஸ்வேஷ்வர் நந்தி தீபா கர்மாகரின் பயிற்சியாளர் ஆவார், இவரே 2016 துரோணாச்சார்யா விருது பெற்றவர்.",
+     "en": "Bishweshwar Nandi is Dipa Karmakar's coach who won the 2016 Dronacharya Award."
+    },
+    "C": {
+     "ta": "இராணி ராம்பால் இந்தியாவின் புகழ்பெற்ற ஹாக்கி வீராங்கனை ஆவார்.",
+     "en": "Rani Rampal is a famous Indian hockey player."
+    },
+    "D": {
+     "ta": "பி.வி. சிந்து ஒலிம்பிக் பதக்கம் வென்ற புகழ்பெற்ற பாட்மின்டன் வீராங்கனை ஆவார்.",
+     "en": "P.V. Sindhu is a renowned Olympic badminton player."
+    }
+   },
+   "rule": {
+    "ta": "விளையாட்டுப் பயிற்சியாளர்களுக்கு வழங்கப்படும் உயரிய விருது துரோணாச்சார்யா விருது ஆகும்.",
+    "en": "Dronacharya Award is presented to sports coaches."
+   },
+   "eg": {
+    "ta": "துரோணாச்சார்யா விருது சிறந்த விளையாட்டுப் பயிற்சியாளர்களுக்கு இந்திய அரசால் வழங்கப்படுகிறது.",
+    "en": "The Dronacharya Award is given by the Indian government to outstanding sports coaches."
+   },
+   "tip": {
+    "ta": "பயிற்சியாளர் (Coach) என்றாலே துரோணாச்சார்யா விருது நினைவுக்கு வர வேண்டும்.",
+    "en": "Coach means Dronacharya Award."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q114": {
+   "hint": {
+    "ta": "சர்வதேச மற்றும் தேசிய அளவிலான விளையாட்டுப் போட்டிகள் நடைபெற்ற இடங்களைக் கேட்கும்போது இடங்களைச் சரியாக நினைவுகூறுக.",
+    "en": "Identify the venues of national and international sports tournaments."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 2016 ஆம் ஆண்டிற்கான ஆசிய ஜூனியர் செஸ் சாம்பியன்ஷிப் போட்டி நடைபெற்ற இடம் சென்னை ஆகும். இது அதிகாரப்பூர்வ தேர்வாகும்.",
+    "en": "According to the official key, the Asian Junior Chess Championship 2016 was held in Chennai."
+   },
+   "why": {
+    "B": {
+     "ta": "மும்பை இந்தியாவின் நிதித் தலைநகரம் ஆகும், ஆனால் குறிப்பிட்ட இந்தச் செஸ் போட்டி இங்கு நடைபெறவில்லை.",
+     "en": "Mumbai is the financial capital, but this specific chess event was not held here."
+    },
+    "C": {
+     "ta": "கொல்கத்தா மேற்கு வங்கத்தின் தலைநகரம் ஆகும், இது இப்போட்டியின் மையமாக இருக்கவில்லை.",
+     "en": "Kolkata is the capital of West Bengal, not the venue for this championship."
+    },
+    "D": {
+     "ta": "புது டெல்லி நாட்டின் தலைநகரம் ஆகும், பல தேசிய நிகழ்வுகள் இங்கு நடந்தாலும் இப்பொருத்தம் தவறானது.",
+     "en": "New Delhi is the national capital, but incorrect for this specific tournament."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டில் நடைபெற்ற முக்கிய சர்வதேச விளையாட்டுப் போட்டிகளைத் தொகுத்துப் படிக்க வேண்டும்.",
+    "en": "Study major international sports events held in Tamil Nadu."
+   },
+   "eg": {
+    "ta": "சென்னையில் செஸ் ஒலிம்பியாட் போட்டி வெற்றிகரமாக நடத்தப்பட்டது குறிப்பிடத்தக்கது.",
+    "en": "Chess Olympiad was successfully hosted in Chennai."
+   },
+   "tip": {
+    "ta": "செஸ் என்றாலே தமிழ்நாடும் சென்னையும் தான் நினைவுக்கு வரும்.",
+    "en": "Chess often links with Chennai in Tamil Nadu GK."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q115": {
+   "hint": {
+    "ta": "ஒலிம்பிக் போட்டிகளில் இந்திய வீரர்களின் சாதனைகள் மற்றும் அவர்கள் எந்த நாட்டை எதிர்த்து விளையாடினர் என்பதைப் பார்க்கவும்.",
+    "en": "Look at the countries faced by Indian players in Olympic matches."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 2016 ரியோ ஒலிம்பிக் அரையிறுதியில் பி.வி. சிந்து அமெரிக்க வீராங்கனையைத் தோற்கடித்ததாகக் குறிப்பிடப்பட்டுள்ளது.",
+    "en": "According to the official key, P.V. Sindhu defeated an American player in the semi-finals."
+   },
+   "why": {
+    "A": {
+     "ta": "ஸ்பெயின் நாட்டைச் சேர்ந்த கரோலினா மரின் இறுதிப் போட்டியில் பி.வி. சிந்துவை எதிர்த்து விளையாடினார்.",
+     "en": "Spain's Carolina Marin played against P.V. Sindhu in the finals."
+    },
+    "C": {
+     "ta": "ஆப்பிரிக்கா என்பது ஒரு கண்டம் ஆகும், அது பாட்மின்டன் போட்டியில் குறிப்பிட்ட நாடாக வராது.",
+     "en": "Africa is a continent, not a specific badminton playing nation here."
+    },
+    "D": {
+     "ta": "ஜப்பான் வீராங்கனை நोज़ோமி ஒகுஹாராவை சிந்து அரையிறுதியில் வென்றதாக உண்மையான குறிப்புகள் கூறினாலும், அதிகாரப்பூர்வ விடை அமெரிக்கா ஆகும்.",
+     "en": "Though actual facts point to Japan, the official TNPSC key considers America."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு வினாத்தாள்களில் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது என்பதால் அதைப் பின்பற்றுதல் வேண்டும்.",
+    "en": "Official answer keys are final in competitive exams."
+   },
+   "eg": {
+    "ta": "பி.வி. சிந்து ரியோ ஒலிம்பிக்கில் வெள்ளிப் பதக்கம் வென்று வரலாறு படைத்தார்.",
+    "en": "P.V. Sindhu made history by winning a silver medal at the Rio Olympics."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடைக்குறிப்பு என்னவோ அதையே மனத்தில் கொள்ள வேண்டும்.",
+    "en": "Always stick to the official answer key for exam purposes."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q116": {
+   "hint": {
+    "ta": "உலக நாடுகளின் பெண் தலைவர்கள் மற்றும் அவர்களின் பதவிக் காலம் தொடர்பான நடப்பு நிகழ்வுகளைப் கவனிக்கவும்.",
+    "en": "Note world female leaders and their appointment details."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஜூலை 2016-ல் தெரசா மேய் பிரிட்டனின் பத்தாவது பெண் பிரதமராக நியமிக்கப்பட்டார் என்பது அதிகாரப்பூர்வமான சரியாகும்.",
+    "en": "According to the official key, Theresa May was appointed as the tenth woman Prime Minister of the UK."
+   },
+   "why": {
+    "A": {
+     "ta": "மார்கரெட் தட்சர் பிரிட்டனின் முதல் பெண் பிரதமர் ஆவார்.",
+     "en": "Margaret Thatcher was the first female Prime Minister of the UK."
+    },
+    "B": {
+     "ta": "தெரசா மேய் மார்கரெட் தட்சருக்குப் பிறகு பிரிட்டனின் இரண்டாவது பெண் பிரதமர் என்றாலும், அதிகாரப்பூர்வ விடை பத்தாவது என்பதாகும்.",
+     "en": "Theresa May is the second female PM after Margaret Thatcher, but the key says tenth."
+    },
+    "D": {
+     "ta": "ஆறாவது என்பது இப்பதவிக்குப் பொருந்தாத எண்ணாகும்.",
+     "en": "Sixth is an incorrect numerical position for this post."
+    }
+   },
+   "rule": {
+    "ta": "சர்வதேச அரசியல் தலைவர்களின் வரிசை எண்களைத் துல்லியமாகப் படிக்க வேண்டும்.",
+    "en": "Read the sequence numbers of international political leaders accurately."
+   },
+   "eg": {
+    "ta": "பிரிட்டனின் நீண்டகால பெண் பிரதமர்களில் மார்கரெட் தட்சரும் குறிப்பிடத்தக்கவர்.",
+    "en": "Margaret Thatcher is notable among long-serving UK female PMs."
+   },
+   "tip": {
+    "ta": "பிரிட்டன் பிரதமர் வரிசை எண்ணைக் கேட்கும்போது பத்தாவது என்பதை நினைவில் கொள்க.",
+    "en": "Remember the tenth position for Theresa May as per the official key."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q123": {
+   "hint": {
+    "ta": "சமூக சீர்திருத்தவாதிகள் மற்றும் அவர்களின் சிந்தனைகள் தொடர்பான வாக்கியங்களைச் சரியான பொருத்தம் கொண்டு இணைக்க வேண்டும்.",
+    "en": "Match social reformers and their thoughts correctly."
+   },
+   "explain": {
+    "ta": "சமூக ஏற்ற தாழ்வுகளை நீக்குவதே சமூக நீதி ஆகும். பெண் ஆடவரை சார்ந்தே வாழ்பவர் என்பது காலங்காலமாக பதிந்த எண்ணம் ஆகும். குழந்தை திருமணத்தை தடுத்து நிறுத்துவது தடை சட்டம் ஆகும். அடையாறு புற்றுநோய் மருத்துவமனை Dr. முத்துலட்சுமியின் புகழைப் பரப்புகிறது.",
+    "en": "Social inequality removal means social justice, and matching pairs follow accordingly."
+   },
+   "why": {
+    "B": {
+     "ta": "இந்த வரிசை மாற்றப்பட்டுள்ளது, எனவே இது தவறான பொருத்தம் ஆகும்.",
+     "en": "This sequence is jumbled and therefore incorrect."
+    },
+    "C": {
+     "ta": "பொருத்தங்கள் தவறாக வரிசைப்படுத்தப்பட்டிருப்பதால் இது ஏற்கத்தக்கதல்ல.",
+     "en": "The matching pairs are wrongly ordered here."
+    },
+    "D": {
+     "ta": "இட மற்றும் வலது பக்கக் கருத்துகள் சரியாகப் பொருந்தாத வரிசை இதுவாகும்.",
+     "en": "This combination fails to align the correct concepts."
+    }
+   },
+   "rule": {
+    "ta": "பொருத்துக வினாக்களில் ஒரு சரியான பொருத்தத்தைக் கண்டறிந்தால் மற்றவற்றைக் எளிதாகக் கண்டுபிடிக்கலாம்.",
+    "en": "Find one definite match to eliminate wrong options in matching questions."
+   },
+   "eg": {
+    "ta": "Dr. முத்துலட்சுமி ரெட்டி அடையாறு புற்றுநோய் மருத்துவமனையைத் தொடங்கினார்.",
+    "en": "Dr. Muthulakshmi Reddy founded the Adyar Cancer Institute."
+   },
+   "tip": {
+    "ta": "தெரிந்த ஒரு பொருத்தத்தைக் கொண்டு (எ.கா: அடையாறு புற்றுநோய் மருத்துவமனை - முத்துலட்சுமி) விடையைக் கண்டறியலாம்.",
+    "en": "Use known facts like Adyar Cancer Institute to solve quickly."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q126": {
+   "hint": {
+    "ta": "பண்டைய பல்லவ கல்வெட்டுகளில் இசை பற்றிய குறிப்புகள் எந்த இடத்தில் காணப்படுகின்றன என்பதைப் பாருங்கள்.",
+    "en": "Look for the Pallava inscription known for its musical notes and historical facts."
+   },
+   "explain": {
+    "ta": "புதுக்கோட்டை மாவட்டத்திலுள்ள குடுமியான்மலை கல்வெட்டு இசைக் கலைஞர் உருத்திரசாரியார் பற்றிக் குறிப்பிடுகிறது. இக்கல்வெட்டு பல்லவ மன்னன் மகேந்திரவர்மன் காலத்தது.",
+    "en": "The Kudumiyanmalai inscription refers to the musician Rudracharya and dates back to the Pallava period."
+   },
+   "why": {
+    "B": {
+     "ta": "மாமண்டூர் கல்வெட்டு மகேந்திரவர்மனின் சமஸ்கிருத நாடகக் குறிப்புகளைத் தருகிறது.",
+     "en": "Mamandur inscription contains Sanskrit drama inscriptions of Mahendravarman."
+    },
+    "C": {
+     "ta": "உத்திரமேரூர் கல்வெட்டு பல்லவர்கால கிராம நிர்வாக முறையை விளக்குகிறது.",
+     "en": "Uthiramerur inscription details Pallava village administration."
+    },
+    "D": {
+     "ta": "மகேந்திரவாடி கல்வெட்டு மகேந்திரவர்மனால் உருவாக்கப்பட்ட விஷ்ணு கோயில் பற்றியது.",
+     "en": "Mahendravadi inscription relates to the Vishnu temple built by Mahendravarman."
+    }
+   },
+   "rule": {
+    "ta": "பல்லவர் கால இசை மற்றும் கல்வெட்டுச் செய்திகளைத் தகுந்த இடங்களுடன் பொருத்திப் படிக்க வேண்டும்.",
+    "en": "Remember the historical significance of ancient Tamil Nadu inscriptions."
+   },
+   "eg": {
+    "ta": "உருத்திரசாரியார் பற்றிய குறிப்பு குடுமியான்மலை இசைக்கல்வெட்டில் உள்ளது.",
+    "en": "Reference to Rudracharya is found in the Kudumiyanmalai musical inscription."
+   },
+   "tip": {
+    "ta": "இசை என்றாலே குடுமியான்மலை கல்வெட்டு என்பதை நினைவில் கொள்ளுங்கள்.",
+    "en": "Associate music inscriptions directly with Kudumiyanmalai."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q127": {
+   "hint": {
+    "ta": "களப்பிரர் காலத்தில் மதுரையில் சமண சமயம் சார்ந்த சங்கத்தை யார் நிறுவினார் என்பதைப் பாருங்கள்.",
+    "en": "Look for the Jain monk who established the Dravida Sangha in Madurai."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சரியான விடையாக மகாவீரர் குறிப்பிடப்பட்டுள்ளது. எனினும் சமணத் துறவி வஜ்ஜிரநந்திதான் கி.பி. 5 ஆம் நூற்றாண்டில் மதுரையில் திராவிட சங்கத்தை நிறுவினார் என்பது சமச்சீர் புத்தகத் தகவல் ஆகும்.",
+    "en": "Although the official key gives Mahavir, historical texts state that Vajranandhi established the Dravida Sangha in Madurai."
+   },
+   "why": {
+    "A": {
+     "ta": "வஜ்ஜிரநந்திதான் மதுரையில் திராவிட சங்கத்தை கி.பி. ஐந்தாம் நூற்றாண்டில் ஏற்படுத்தியவர் ஆவார்.",
+     "en": "Vajranandhi actually established the Dravida Sangha in Madurai."
+    },
+    "B": {
+     "ta": "பார்சுவ முனிவர் இருப, துஆவது சமண தீர்த்தங்கரர் ஆவார்.",
+     "en": "Parsava Munivar is the 20th Jain Tirthankara."
+    },
+    "D": {
+     "ta": "மகா கசபர் என்பவர் பௌத்த மதத்துடன் தொடர்புடையவர் ஆவார்.",
+     "en": "Maha Kasabar is associated with Buddhism."
+    }
+   },
+   "rule": {
+    "ta": "சில தேர்வுகளில் அதிகாரப்பூர்வ விடை குறிப்பு மாறுபட்டிருக்கலாம்; இருப்பினும் TNPSC தேர்வில் இறுதி விடைக்குறிப்பே இறுதியானது.",
+    "en": "Follow the official answer key for scoring purposes in competitive exams."
+   },
+   "eg": {
+    "ta": "வஜ்ரநந்தி கி.பி. 5 ஆம் நூற்றாண்டில் மதுரையில் திராவிட சங்கத்தை நிறுவினார்.",
+    "en": "Vajranandhi founded the Dravida Sangha in Madurai during the 5th century CE."
+   },
+   "tip": {
+    "ta": "திராவிட சங்கம் என்றவுடன் வஜ்ரநந்தி அல்லது கொடுக்கப்பட்ட அதிகாரப்பூர்வ விடையை நினைவில் கொள்க.",
+    "en": "Remember the official key while noting the actual textbook fact."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q131": {
+   "hint": {
+    "ta": "சமூக சீர்திருத்தவாதிகளையும் அவர்கள் தொடங்கிய அமைப்புகளையும் சரியாகப் பொருத்துவதைப் பாருங்கள்.",
+    "en": "Match the social reformers correctly with their respective movements and teachings."
+   },
+   "explain": {
+    "ta": "சத்ய சோதக் சமாஜம் ஜோதிபா பூலே அவர்களாலும், ஜீவ காருண்யம் இராமலிங்க அடிகளாலும், தர்ம பரிபாலனம் ஸ்ரீ நாராயண குருவாலும், ஜீவாவே சிவா சுவாமி விவேகானந்தராலும் குறிக்கப்படுகின்றன. இதனால் 2 4 3 1 என்ற வரிசை சரியாக அமைகிறது.",
+    "en": "Sathya Sodhak Samaj was founded by Jyotiba Phule, Jeeva Karunyam by Ramalinga Adigal, Dharma Paribalanam by Sri Narayana Guru, and Jeeva is Siva by Swami Vivekanandha."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை அமைப்புகளின் முறையான பொருத்தத்துடன் ஒத்துப்போகவில்லை.",
+     "en": "This sequence does not match the correct pairs."
+    },
+    "C": {
+     "ta": "பொருத்தங்கள் மாறி அமைந்துள்ளதால் இது தவறான வரி콛யாகும்.",
+     "en": "The matching order is incorrect here."
+    },
+    "D": {
+     "ta": "இது சீர்திருத்தவாதிகளின் சரியான இணைப்புகளுக்கு முரணாக உள்ளது.",
+     "en": "This does not match the reformer pairs."
+    }
+   },
+   "rule": {
+    "ta": "சமூக சீர்திருத்த இயக்கங்களையும் அவற்றைத் தொடங்கிய தலைவர்களையும் மனப்பாடம் செய்து கொள்ள வேண்டும்.",
+    "en": "Learn social reform movements and their founders accurately."
+   },
+   "eg": {
+    "ta": "ஜோதிபா பூலே 1873 இல் சத்ய சோதக் சமாஜத்தை நிறுவினார்.",
+    "en": "Jyotiba Phule founded Satyashodhak Samaj in 1873."
+   },
+   "tip": {
+    "ta": "பொருத்துக வினாக்களில் உறுதியான ஒரு ஜோதியைக் கொண்டு சரியான விடையைக் கண்டறியலாம்.",
+    "en": "Use known pairs to eliminate wrong options in matching questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q180": {
+   "hint": {
+    "ta": "தமிழ்நாட்டில் சமஸ்கிருத அரசுக் குறிக்கோளைத் தமிழில் மாற்றிய முதலமைச்சர் யார் என்பதைப் பாருங்கள்.",
+    "en": "Look for the Chief Minister who changed the national motto into Tamil."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி காமராசர் என்று கொடுக்கப்பட்டுள்ளது. எனினும் 'சத்யமேவ ஜெயதே' என்பதை 'வாய்மையே வெல்லும்' என மாற்றியவர் பேரறிஞர் அண்ணாதுரை ஆவார்.",
+    "en": "Although the official key mentions Kamaraj, C.N. Annadurai actually changed the motto to Tamil during his tenure as Chief Minister."
+   },
+   "why": {
+    "A": {
+     "ta": "அரவிந்த் கோஷ் சுதந்திரப் போராட்ட காலத் தீவிர தேசியவாதி ஆவார்.",
+     "en": "Arabind Ghosh was an extremist nationalist leader."
+    },
+    "B": {
+     "ta": "பெரியார் சுயமரியாதை இயக்கத்தைத் தோற்றுவித்த சமூக சீர்திருத்தவாதி ஆவார்.",
+     "en": "Periyar founded the Self-Respect Movement."
+    },
+    "D": {
+     "ta": "அண்ணாதுரை அவர்கள் முதலமைச்சராக இருந்தபோதுதான் இம்மாற்றம் செய்யப்பட்டது.",
+     "en": "Annadurai was the Chief Minister who implemented this change."
+    }
+   },
+   "rule": {
+    "ta": "தமிழ்நாட்டில் முக்கிய ஆட்சி மாற்றங்கள் மற்றும் அறிவிப்புகளைச் செய்த தலைவர்களைத் தெரிந்து கொள்ள வேண்டும்.",
+    "en": "Remember key governmental policy changes made by Tamil Nadu leaders."
+   },
+   "eg": {
+    "ta": "அண்ணாதுரை ஆட்சிக் காலத்தில் மாநில அரசு முத்திரைகளில் தமிழ் மொழிக்கு முக்கியத்துவம் தரப்பட்டது.",
+    "en": "Tamil was given prominence in state symbols during Annadurai's administration."
+   },
+   "tip": {
+    "ta": "அதிகாரப்பூர்வ விடைக்கேற்ப படித்துக் கொள்ளவும், உண்மையான வரலாற்றையும் நினைவில் கொள்க.",
+    "en": "Note the official key while remembering the factual history."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q188": {
+   "hint": {
+    "ta": "கைலாஷ் சார்த்தியார்களால் தொடங்கப்பட்ட அமைப்பு எதற்காகப் போராடுகிறது என்பதைப் பாருங்கள்.",
+    "en": "Look at the primary cause for which Bachpan Bachao Andolan fights."
+   },
+   "explain": {
+    "ta": "பாச்பான் பச்சோவ் அந்தோலன் (குழந்தைகளைக் காப்போம் இயக்கம்) என்பது குழந்தை தொழிலாளர் முறைக்கு எதிரான மற்றும் குழந்தைகளின் உரிமைகளுக்காகப் போராடும் அமைப்பாகும்.",
+    "en": "Bachpan Bachao Andolan is an organization that campaigns against child labour and for child rights."
+   },
+   "why": {
+    "B": {
+     "ta": "கொத்தடிமை முறைக்கு எதிராகப் பணியாற்றும் அமைப்புகள் வேறுபட்டவை.",
+     "en": "Different organizations work against bonded labour."
+    },
+    "C": {
+     "ta": "பாலிய விவாகத்திற்கு எதிரான சட்டங்கள் மற்றும் விழிப்புணர்வு இயக்கங்கள் தனித்தனியாகச் செயல்படுகின்றன.",
+     "en": "Child marriage is addressed by separate social welfare laws."
+    },
+    "D": {
+     "ta": "வறுமை ஒழிப்பு என்பது பொதுவான பொருளாதார மற்றும் சமூக நலத் திட்டங்களோடு தொடர்புடையது.",
+     "en": "Poverty alleviation is handled through general economic welfare policies."
+    }
+   },
+   "rule": {
+    "ta": "அமைப்புகளின் பெயர்களையும் அவை எதிர்த்துப் போராடும் சமூகப் தீமைகளையும் இணைத்துப் படிக்க வேண்டும்.",
+    "en": "Associate social organizations with the specific causes they fight for."
+   },
+   "eg": {
+    "ta": "கைலாஷ் சார்த்தியாருக்கு குழந்தை தொழிலாளர் முறைக்கு எதிரான பணிக்காக நோபல் பரிசு வழங்கப்பட்டது.",
+    "en": "Kailash Satyarthi won the Nobel Peace Prize for his work against child labour."
+   },
+   "tip": {
+    "ta": "பாச்பான் பச்சோவ் என்றால் குழந்தை தொழிலாளர் ஒழிப்பு என்று நினைவில் கொள்க.",
+    "en": "Link Bachpan Bachao Andolan directly with child labour eradication."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q122": {
+   "hint": {
+    "ta": "நீதிப் பேராணைகளின் பெயர்களையும் அவற்றின் விளக்கங்களையும் தெளிவாக ஒப்பிட்டுப் பாருங்கள்.",
+    "en": "Compare the names of the writs and their exact meanings."
+   },
+   "explain": {
+    "ta": "ஆட்கொணர் நீதி பேராணை என்பது சட்டத்திற்குப் புறம்பாக ஒருவரைத் தடுத்து வைப்பதில் இருந்து பாதுகாப்பதாகும். இது தனிநபர் சுதந்திரத்தை உறுதி செய்யும் மிக முக்கியமான நீதிப் பேராணையாகும்.",
+    "en": "Habeas Corpus safeguards people from illegal arrest by ensuring a detained person is brought before the court."
+   },
+   "why": {
+    "B": {
+     "ta": "இது பொது அதிகாரிகளைப் பணி செய்யச் கோரும் மேண்டமஸ் அல்லது சட்ட உதவி தொடர்பான பிற செயல்முறைகளைக் குறிக்கும்.",
+     "en": "This describes mandamus or other legal assistance procedures."
+    },
+    "C": {
+     "ta": "இது கீழ் நீதிமன்றங்களின் வரம்பு மீறலைத் தடை செய்யும் தடையுறுத்து நீதிப் பேராணை (Prohibition) ஆகும்.",
+     "en": "This refers to the writ of Prohibition."
+    },
+    "D": {
+     "ta": "இது பொது அலுவலகத்தை முறைகேடாக ஆக்கிரமிப்பதைத் தடுத்து விசாரிக்கும் கோ வார்ராண்டோ (Quo-Warranto) நீதிப் பேராணை ஆகும்.",
+     "en": "This refers to the writ of Quo-Warranto."
+    }
+   },
+   "rule": {
+    "ta": "ஐந்து வகையான நீதிப் பேராணைகளின் சரியான பொருள் மற்றும் பயன்பாட்டை அறிந்து கொள்ள வேண்டும்.",
+    "en": "Understand the exact definitions and applications of the five types of writs."
+   },
+   "eg": {
+    "ta": "உச்சநீதிமன்றம் மற்றும் உயர்நீதிமன்றங்கள் அரசியலமைப்பு சட்டப்பிரிவு 32 மற்றும் 226-ன் படி நீதிப் பேராணைகளை வழங்குகின்றன.",
+    "en": "Supreme Court and High Courts issue writs under Articles 32 and 226 respectively."
+   },
+   "tip": {
+    "ta": "ஆட்கொணர் என்றால் உடலைக் கொண்டு வா என்று பொருள்; அதாவது சட்டவிரோதக் காவலில் இருந்து விடுவிப்பது.",
+    "en": "Habeas Corpus literally means to have the body, protecting personal liberty."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q159": {
+   "hint": {
+    "ta": "நடப்பு நிகழ்வுகளில் கேட்கப்படும் முக்கியமான ஆணையர்கள் மற்றும் பதவிகளைத் தேர்விற்குப் படிக்க வேண்டும்.",
+    "en": "Note that TNPSC tests current holders of constitutional and statutory posts."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, 2016 ஆம் ஆண்டு செப்டம்பர் மாதத்தில் இந்திய தலைமை தகவல் ஆணையராக இருந்தவர் ஆர்.கே. நாராயணன் ஆவார்.",
+    "en": "According to the official TNPSC answer key, R.K. Narayanan held the post in September 2016."
+   },
+   "why": {
+    "A": {
+     "ta": "பி.கே. சின்ஹா அப்போதைய அமைச்சரவையின் செயலாளராகப் பணியாற்றினார்.",
+     "en": "P.K. Sinha was the Cabinet Secretary at that time."
+    },
+    "C": {
+     "ta": "ஆர்.கே. மாத்தூர் மற்றொரு காலகட்டத்தில் தலைமை தகவல் ஆணையராகப் பணியாற்றினார்.",
+     "en": "R.K. Mathoor served as Chief Information Commissioner at a different time."
+    },
+    "D": {
+     "ta": "ஆர்.கே. கௌல் இந்த உயர் பதவியில் இல்லை.",
+     "en": "R.K. Koul did not hold this high office."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு நடக்கும் காலகட்டத்தில் உள்ள முக்கிய அரசுப் பதவிகளைத் தெரிந்து கொள்ள வேண்டும்.",
+    "en": "Keep track of important current office bearers around the exam period."
+   },
+   "eg": {
+    "ta": "தற்போதைய தலைமை தகவல் ஆணையர் மற்றும் முக்கிய ஆணையர்களைத் தொடர்ந்து கவனிக்கவும்.",
+    "en": "Stay updated on the current Chief Information Commissioner."
+   },
+   "tip": {
+    "ta": "நடப்பு நிகழ்வு வினாக்களுக்கு முந்தைய ஆண்டு குறிப்புகளை நன்கு நினைவில் கொள்ளவும்.",
+    "en": "Memorize current affairs facts from the relevant year of the exam."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q160": {
+   "hint": {
+    "ta": "பாதுகாப்புப் படைகள் மற்றும் காவல்துறை மேற்கொள்ளும் சிறப்பு நடவடிக்கைகளின் பெயர்களைக் கவனியுங்கள்.",
+    "en": "Look out for special operations conducted by security forces."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி ஆபரேஷன் காம் டவுன் தொடர்பான கேள்விக்கு ஆந்திர பிரதேசம் என்று பதில் அளிக்கப்பட்டுள்ளது.",
+    "en": "According to the official TNPSC answer key, Andhra Pradesh is marked as the correct state for this operation."
+   },
+   "why": {
+    "A": {
+     "ta": "தமிழ்நாடு மாநிலத்துடன் இத்தகைய சிறப்புப் பெயரிடப்பட்ட பாதுகாப்பு நடவடிக்கை தொடர்புடையது அல்ல.",
+     "en": "Not associated with Tamil Nadu."
+    },
+    "C": {
+     "ta": "பொதுவாக இதுபோன்ற பெயர்கள் ஜம்மு காஷ்மீர் போன்ற பகுதிகளில் ராணுவ நடவடிக்கைகளுக்கு வைக்கப்படும்.",
+     "en": "Such names are typically used for military operations in regions like Jammu and Kashmir."
+    },
+    "D": {
+     "ta": "பீகார் மாநிலப் பாதுகாப்பு நடவடிக்கைகளுடன் தொடர்புடையது அல்ல.",
+     "en": "Not related to security operations in Bihar."
+    }
+   },
+   "rule": {
+    "ta": "தேர்வு நாளுக்கு முந்தைய காலக்கட்டத்தின் முக்கியமான ராணுவ மற்றும் பாதுகாப்பு நடவடிக்கைகளை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember significant security and military operations mentioned in current affairs."
+   },
+   "eg": {
+    "ta": "பல்வேறு மாநிலங்களில் சட்டம் ஒழுங்கை நிலைநாட்ட மேற்கொள்ளப்படும் நடவடிக்கைகள் முக்கியமானது.",
+    "en": "Operations conducted by forces for maintaining law and order are important."
+   },
+   "tip": {
+    "ta": "பாதுகாப்புத்துறை சார்ந்த ஆபரேஷன் பெயர்களைத் தொகுத்துப் படிக்கவும்.",
+    "en": "Compile a list of operation names related to defense and security."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q162": {
+   "hint": {
+    "ta": "சர்வதேச அமைப்புகளில் நியமிக்கப்படும் இந்தியப் பிரமுகர்களைப் பற்றித் தேட வேண்டும்.",
+    "en": "Look for Indian personalities appointed to international organizations."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி 2016 ஆம் ஆண்டில் ஐ.நா.வின் பெண் சம உரிமைக்கான இந்தியாவின் தூதராக ஐஸ்வர்யா இராய் குறிப்பிடப்பட்டுள்ளார்.",
+    "en": "According to the official TNPSC answer key, Aishwarya Rai is given as the ambassador."
+   },
+   "why": {
+    "B": {
+     "ta": "பிரியங்கா சோப்ரா ஐ.நா.வின் நல்லெண்ணத் தூதராக வேறு காலகட்டத்தில் பணியாற்றினார்.",
+     "en": "Priyanka Chopra served as a UN Goodwill Ambassador at a different time."
+    },
+    "C": {
+     "ta": "சமூக வலைத்தளங்கள் மற்றும் செய்திகளில் ஐஸ்வர்யா தனுஷ் நியமிக்கப்பட்டதாகச் செய்திகள் வந்தாலும், அதிகாரப்பூர்வ விடையாக இது கருதப்படவில்லை.",
+     "en": "Though media reports mentioned Aishwarya Dhanush, it is not the official key."
+    },
+    "D": {
+     "ta": "சானியா மிர்ஸா விளையாட்டுத் துறையுடன் தொடர்புடையவர்.",
+     "en": "Sania Mirza is associated with sports."
+    }
+   },
+   "rule": {
+    "ta": "சர்வதேச தூதர்களாக நியமிக்கப்படும் திரைத்துறை மற்றும் பிரபல நபர்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember celebrities appointed as international ambassadors."
+   },
+   "eg": {
+    "ta": "ஐநா மற்றும் பிற உலகளாவிய அமைப்புகளின் தூதர்களை அறிந்துகொள்ளுங்கள்.",
+    "en": "Know the ambassadors of the UN and other global bodies."
+   },
+   "tip": {
+    "ta": "சர்வதேச அமைப்புகளில் இந்தியா சார்பில் நியமிக்கப்படுவோரைத் தவறாமல் குறிப்பு எடுத்துக்கொள்ளுங்கள்.",
+    "en": "Note down Indian appointments in international bodies carefully."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q167": {
+   "hint": {
+    "ta": "ஒவ்வொரு உறுப்புக்கும் பொருத்தமான சரியான பதவியையோ அல்லது கருத்தையோ வரிசையாகப் பொருத்துங்கள்.",
+    "en": "Match each item on the left with its correct corresponding term on the right."
+   },
+   "explain": {
+    "ta": "ராஜ் பவன் என்பது ஆளுநரின் அதிகாரப்பூர்வ இல்லமாகும் (2). ராஷ்டிரபதி பவன் என்பது ஜனாதிபதியின் இல்லமாகும் (1). இராஜதுரோக விசாரணை என்பது அரசியலமைப்பு மீறலைக் குறிக்கிறது (4). துணைநிலை ஆளுநர் யூனியன் பிரதேசங்களை நிர்வகிக்கிறார் (3). எனவே சரியான வரிசை 2, 1, 4, 3 ஆகும்.",
+    "en": "Raj Bhavan matches Governor (2), Rashtrapathy Bhavan matches President (1), Impeachment matches Violation of Constitution (4), and Lt. Governor matches Union Territories (3), giving the sequence 2 1 4 3."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை சரியான பொருத்தங்களைக் கொண்டுள்ள வரிசை அல்ல.",
+     "en": "This sequence does not match the correct pairs."
+    },
+    "B": {
+     "ta": "இது அனைத்துப் பொருத்தங்களையும் சரியாக வரிசைப்படுத்தவில்லை.",
+     "en": "This does not arrange all matches correctly."
+    },
+    "C": {
+     "ta": "இதுவும் தவறான வரிசை முறையாகும்.",
+     "en": "This is also an incorrect sequence."
+    }
+   },
+   "rule": {
+    "ta": "அரசியலமைப்புச் சொற்கள் மற்றும் அதிகாரப்பூர்வ இல்லங்களைச் சரியானவற்றுடன் பொருத்த வேண்டும்.",
+    "en": "Match constitutional terms and official residences correctly."
+   },
+   "eg": {
+    "ta": "இந்தியக் குடியரசுத் தலைவரின் அதிகாரப்பூர்வ இல்லம் ராஷ்டிரபதி பவன் ஆகும்.",
+    "en": "The official residence of the President of India is Rashtrapati Bhavan."
+   },
+   "tip": {
+    "ta": "பொருத்துக வினாக்களில் எளிதாகத் தெரிந்த ஒன்றை முதலில் பொருத்தி விடையைக் கண்டுபிடிக்கவும்.",
+    "en": "In matching questions, find the most obvious pair first to eliminate wrong options."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q168": {
+   "hint": {
+    "ta": "மாநில அளவில் தேர்தல்களை நடத்தும் மற்றும் மேற்பார்வையிடும் முக்கிய அதிகாரியைத் தேடுங்கள்.",
+    "en": "Identify the key official who supervises elections at the state level."
+   },
+   "explain": {
+    "ta": "இந்தியாவில் மாநில அளவில் தேர்தல் நடைமுறைகளைத் தலைமை தேர்தல் அதிகாரி (Chief Electoral Officer) மேற்பார்வையிடுகிறார். இவர் தேர்தல் ஆணையத்தின் வழிகாட்டுதலின்படி மாநிலத்தின் தேர்தல்களை நிர்வகிக்கிறார்.",
+    "en": "The Chief Electoral Officer supervises the election process at the state level under the guidance of the Election Commission."
+   },
+   "why": {
+    "A": {
+     "ta": "தலைமை தேர்தல் ஆணையர் இந்திய அளவில் ஒட்டுமொத்த தேர்தல் ஆணையத்திற்கும் தலைமை தாங்குபவர் ஆவார்.",
+     "en": "The Chief Election Commissioner heads the national Election Commission."
+    },
+    "B": {
+     "ta": "உச்சநீதிமன்ற நீதிபதி தேர்தல் நடைமுறைகளை மேற்பார்வையிடுவது இல்லை.",
+     "en": "A Supreme Court judge does not supervise election processes."
+    },
+    "D": {
+     "ta": "உயர்நீதிமன்ற நீதிபதி தேர்தல் நிர்வாகப் பணிகளைச் செய்வதில்லை.",
+     "en": "A High Court judge is not involved in election administration."
+    }
+   },
+   "rule": {
+    "ta": "தேர்தல் ஆணையத்தின் கீழ் மாநில அளவில் தலைமை தேர்தல் அதிகாரி செயல்படுகிறார் என்பதை நினைவில் கொள்ளவும்.",
+    "en": "Remember that the Chief Electoral Officer functions at the state level under the Election Commission."
+   },
+   "eg": {
+    "ta": "ஒவ்வொரு மாநிலத்திலும் சட்டமன்றத் தேர்தல்கள் தலைமை தேர்தல் அதிகாரியின் மேற்பார்வையில் நடத்தப்படுகின்றன.",
+    "en": "Assembly elections in each state are conducted under the supervision of the Chief Electoral Officer."
+   },
+   "tip": {
+    "ta": "தேசிய அளவில் தலைமை தேர்தல் ஆணையர், மாநில அளவில் தலைமை தேர்தல் அதிகாரி.",
+    "en": "Chief Election Commissioner at the national level, Chief Electoral Officer at the state level."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q169": {
+   "hint": {
+    "ta": "இந்திய அரசியலமைப்பின் ஆரம்பகால அல்லது குறிப்பிட்ட அதிகாரப்பூர்வ திருத்தப்பட்ட எண்ணிக்கைகளின் பாகங்கள் மற்றும் சரத்துகளைக் கேட்கும்போது கொடுக்கப்பட்ட தேர்வுகளில் உள்ள மதிப்புகளை கவனமாகப் பாருங்கள்.",
+    "en": "When asked about the parts and articles of the Indian Constitution, carefully examine the numbers given in the options."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, இந்திய அரசியலமைப்பு XXIII பாகங்கள், 469 சரத்துகள் மற்றும் 21 அட்டவணைகளைக் கொண்டுள்ளது என்ற கூற்று சரியானதாகக் கொள்ளப்படுகிறது. சமச்சீர் புத்தகத் தரவுகளின்படி சில தேர்வுகள் மாறுபட்டாலும், தேர்வாணையத்தின் அதிகாரப்பூர்வ விடயத்தை நினைவில் கொள்ள வேண்டும்.",
+    "en": "According to the official TNPSC answer key, the statement that the Indian Constitution contains XXIII parts, 469 Articles and 21 Schedules is considered correct."
+   },
+   "why": {
+    "A": {
+     "ta": "இது அரசியலமைப்பின் பொதுவான மூலக் கட்டமைப்பைக் கூறுகிறது, ஆனால் இந்த வினாவுக்கு TNPSC அளித்துள்ள அதிகாரப்பூர்வ விடை இதுவல்ல.",
+     "en": "This describes the general original structure, but this is not the official answer given by TNPSC for this question."
+    },
+    "B": {
+     "ta": "இது அரசியலமைப்பின் ஆரம்ப காலக் கணக்கீட்டைக் குறிக்கிறது, ஆனால் இந்த வினாவுக்கு இது சரியான விடையாக ஏற்றுக்கொள்ளப்படவில்லை.",
+     "en": "This refers to an early calculation, but it is not accepted as the correct answer for this question."
+    },
+    "D": {
+     "ta": "இந்த எண்ணிக்கைகள் இந்திய அரசியலமைப்புச் சட்டத்தின் உண்மையான பாகங்கள் மற்றும் சரத்துகளின் எண்ணிக்கையுடன் பொருந்தவில்லை.",
+     "en": "These numbers do not match the actual parts and articles of the Indian Constitution."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் அரசியலமைப்பு குறித்த வினாக்களுக்கு அதிகாரப்பூர்வ விடைக்குறிப்பில் கொடுக்கப்பட்டுள்ள குறிப்பிட்ட தரவுகளையே எப்போதும் இறுதி விடையாகப் பின்பற்ற வேண்டும்.",
+    "en": "Always follow the specific data given in the official answer key for questions regarding the Constitution in TNPSC exams."
+   },
+   "eg": {
+    "ta": "இந்திய அரசியலமைப்பு ஆரம்பத்தில் 395 சரத்துகள், 22 பாகங்கள் மற்றும் 8 அட்டவணைகளைக் கொண்டிருந்தது.",
+    "en": "The Indian Constitution originally had 395 Articles, 22 Parts and 8 Schedules."
+   },
+   "tip": {
+    "ta": "அரசியலமைப்புப் பாகங்கள் மற்றும் சரத்துகள் பற்றிய கேள்விகளில் தேர்வாணையத்தின் முந்தைய ஆண்டு விடைகளை அடிப்படையாகக் கொண்டு படிக்கவும்.",
+    "en": "Study questions on constitution parts and articles based on previous year TNPSC answers."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q171": {
+   "hint": {
+    "ta": "பொருத்தமான இணையைத் தேடும்போது அரசியலமைப்புச் சட்ட விதிகள் மற்றும் அதிகாரங்களைப் பற்றி கவனமாகப் படிக்கவும்.",
+    "en": "Carefully read about constitutional provisions and powers when searching for the correct match."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, குடியரசுத் தலைவர் அரசியலமைப்பின் பாதுகாவலர் என்பது சரியான இணையாகக் கொள்ளப்பட்டுள்ளது. சமச்சீர் புத்தகத்தில் உச்சநீதிமன்றம் அரசியலமைப்பின் பாதுகாவலர் என்று குறிப்பிடப்பட்டிருந்தாலும், இந்த வினாவுக்கான அதிகாரப்பூர்வ விடை இதுவே.",
+    "en": "According to the official TNPSC answer key, the President as the Guardian of our Constitution is considered the correct match."
+   },
+   "why": {
+    "B": {
+     "ta": "முதலமைச்சர் ஆளுநரால் நியமிக்கப்படுகிறார் என்பது உண்மையான கூற்று என்றாலும், இந்த வினாவுக்கான TNPSC அதிகாரப்பூர்வ விடை வேறு தேர்வாகும்.",
+     "en": "Although the Chief Minister is appointed by the Governor is a true statement, this is not the official answer for this question."
+    },
+    "C": {
+     "ta": "உச்சநீதிமன்றம் என்பது இந்தியாவின் மிகஉயர்ந்த நீதிமன்றமாகும், இது கொடுக்கப்பட்ட பொருத்தத்திற்குப் பொருந்தாது.",
+     "en": "The Supreme Court is the highest court of India, which does not match the given pairing."
+    },
+    "D": {
+     "ta": "தேசிய கீதம் இரவீந்திரநாத் தாகூரால் எழுதப்பட்டது, பக்கிம் சந்திர சட்டர்ஜி தேசியப் பாடலை எழுதினார்.",
+     "en": "The National Anthem was written by Rabindranath Tagore, while Bankim Chandra Chatterjee wrote the National Song."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் சில நேரங்களில் முந்தைய விடைக்குறிப்புகள் மற்றும் சிறப்புக் குறிப்புகளின் அடிப்படையில் விடைகள் அமையும் என்பதால் அதிகாரப்பூர்வ விடையை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the official answer as TNPSC answers are sometimes based on specific previous keys and notes."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் முதல் குடிமகன் குடியரசுத் தலைவர் ஆவார்.",
+    "en": "The President is the first citizen of India."
+   },
+   "tip": {
+    "ta": "சரியான கூற்று அல்லது பொருத்துக வினாக்களில் அனைத்துத் தேர்வுகளையும் முழுமையாகப் படித்து தேர்வாணையத்தின் முறையைப் புரிந்து கொள்ள வேண்டும்.",
+    "en": "Read all options thoroughly in match questions to understand the commission's pattern."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q124": {
+   "hint": {
+    "ta": "கட்டடக் கலை மற்றும் அவற்றின் சிறப்புப் பெயர்கள் பற்றிக் கேட்கும்போது, ஒலியியல் சிறப்புகளைக் கொண்ட நினைவுச்சின்னங்களைக் கவனியுங்கள்.",
+    "en": "When asked about architectural monuments and their special features, look for structures known for unique acoustic properties."
+   },
+   "explain": {
+    "ta": "கர்நாடக மாநிலம் பிஜாப்பூரில் அமைந்துள்ள கோல்கும்பாஸ் கட்டடமானது அதன் தனித்துவமான ஒலியியல் வடிவமைப்பிற்காகப் புகழ்பெற்றது. இங்கு குறைந்த ஒலியும் பலமுறை எதிரொலிப்பதால் இது 'முணுமுணுக்கும் அரங்கம்' என்று அழைக்கப்படுகிறது.",
+    "en": "Golumbas in Bijapur, Karnataka, is famous for its unique acoustic design where even a whisper echoes multiple times, earning it the name Murmuring Auditorium."
+   },
+   "why": {},
+   "rule": {
+    "ta": "வரலாற்றுச் சின்னங்களின் சிறப்புப் பெயர்கள் மற்றும் இடங்களை நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the special names and locations of historical monuments."
+   },
+   "eg": {
+    "ta": "தாஜ்மஹால் காதலின் சின்னம் மற்றும் வெள்ளைச் பளிங்குக் கல்லால் ஆனது.",
+    "en": "Taj Mahal is the symbol of love and made of white marble."
+   },
+   "tip": {
+    "ta": "குழும்பாஸ் என்றாலே குமிழ் போன்ற வளைவு மற்றும் எதிரொலிக்கும் ஒலி என்று நினைவில் வைத்துக் கொள்ளுங்கள்.",
+    "en": "Remember Golkumbas for dome architecture and echo effect."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q125": {
+   "hint": {
+    "ta": "முகலாய மன்னர்களின் காலத்தில் நடைபெற்ற முக்கிய மத நிகழ்வுகள் மற்றும் குருமார்களின் படுகொலை பற்றிக் கேட்கும்போது காலவரிசையைப் பாருங்கள்.",
+    "en": "When asked about major religious events and executions of gurus during the Mughal era, check the chronology."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி அக்பர் என்று கொடுக்கப்பட்டுள்ளது. சமச்சீர் பாடநூல் குறிப்புகளின்படி சீக்கிய குரு தேஜ் பகதூரை மரண தண்டனை விதித்துக் கொன்றவர் ஔரங்கசீப் ஆவார்.",
+    "en": "According to the TNPSC answer key, Akbar is given, though historically Aurangazeb executed Guru Tegh Bahadur."
+   },
+   "why": {},
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் சில சமயங்களில் அதிகாரப்பூர்வ விடைக்கே முக்கியத்துவம் தரப்படும்.",
+    "en": "In TNPSC exams, sometimes the official answer key must be followed as final."
+   },
+   "eg": {
+    "ta": "ஒன்பதாவது சீக்கிய குரு தேஜ் பகதூர் ஆவார்.",
+    "en": "Guru Tegh Bahadur was the ninth Sikh Guru."
+   },
+   "tip": {
+    "ta": "அக்பர் அனைத்து மதங்களையும் மதித்தவர், எனினும் முந்தைய தேர்வுகளில் உள்ள அதிகாரப்பூர்வ விடையை நினைவில் கொள்ளவும்.",
+    "en": "Akbar respected all religions, yet remember this specific official answer for this PYQ."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q170": {
+   "hint": {
+    "ta": "தேசிய நிகழ்வுகள் மற்றும் வரலாற்றுத் தேதிகள் சரியாகப் பொருந்தியுள்ளனவா என்பதைச் சரிபார்க்கவும்.",
+    "en": "Check if national events and historical dates are correctly matched."
+   },
+   "explain": {
+    "ta": "காந்தியடிகள் ஜனவரி 30, 1948 அன்று சுடப்பட்டார் என்பது சரியான தேதியாகும். ஆனால் இந்த வினாத்தாள் அமைப்பின்படி இப்பொருத்தம் தவறானது எனக் குறிக்கப்பட்டுள்ளது.",
+    "en": "Mahatma Gandhi was assassinated on January 30, 1948, which is historically correct, though designated as the answer here."
+   },
+   "why": {},
+   "rule": {
+    "ta": "இந்திய வரலாற்றின் முக்கிய தேசிய நாட்களின் தேதிகளைத் துல்லியமாக நினைவில் கொள்ள வேண்டும்.",
+    "en": "Remember the exact dates of important national days in Indian history."
+   },
+   "eg": {
+    "ta": "ஜனவரி 30 தியாகிகள் நாளாக அனுசரிக்கப்படுகிறது.",
+    "en": "January 30 is observed as Martyrs' Day."
+   },
+   "tip": {
+    "ta": "தேதிகள் தொடர்பான கேள்விகளில் மாதமும் ஆண்டும் மிக முக்கியம்.",
+    "en": "Month and year are crucial in date-related questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q174": {
+   "hint": {
+    "ta": "பண்டைய இந்தியப் பேரரசர்களின் கல்வெட்டுகள் மற்றும் அவற்றின் வரலாற்றுச் சிறப்புகளைக் கவனியுங்கள்.",
+    "en": "Look at the inscriptions of ancient Indian emperors and their historical significance."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி உத்திரமேரூர் கல்வெட்டு என்று கொடுக்கப்பட்டுள்ளது. வரலாற்று உண்மையாக சமுத்திரகுப்தரின் வெற்றிகளை விவரிப்பது ஹரிசேணரால் எழுதப்பட்ட அலகாபாத் தூண் கல்வெட்டாகும்.",
+    "en": "According to the TNPSC key, Uthiramerur inscription is given, though historically Allahabad Pillar inscription describes Samudragupta."
+   },
+   "why": {},
+   "rule": {
+    "ta": "சமுத்திரகுப்தரின் புகழைப் பாடும் பிரயாக் மெய்க்கீர்த்தி அலகாபாத் தூணில் பொறிக்கப்பட்டுள்ளது.",
+    "en": "Prayag Prashasti praising Samudragupta is engraved on the Allahabad Pillar."
+   },
+   "eg": {
+    "ta": "அலகாபாத் தூண் கல்வெட்டை எழுதியவர் ஹரிசேணர் ஆவார்.",
+    "en": "The Allahabad Pillar inscription was composed by Harisena."
+   },
+   "tip": {
+    "ta": "சமுத்திரகுப்தர் என்றாலே அலகாபாத் தூண் கல்வெட்டு என்பதைத் தேர்வுக்கு நினைவில் கொள்ளுங்கள்.",
+    "en": "Remember Samudragupta always links to the Allahabad Pillar inscription."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q175": {
+   "hint": {
+    "ta": "டெல்லி சுல்தானியத்தின் கடைசி வம்சம் மற்றும் அதன் கடைசி ஆட்சியாளர் பற்றிக் கேட்கும்போது லோடி வம்சத்தைக் கவனியுங்கள்.",
+    "en": "When asked about the last dynasty and ruler of the Delhi Sultanate, look at the Lodi dynasty."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சிக்கந்தர் லோடி என்று கொடுக்கப்பட்டுள்ளது. வரலாற்று உண்மையாக டெல்லி சுல்தானியத்தின் கடைசி சுல்தான் இப்ராஹிம் லோடி ஆவார்.",
+    "en": "According to the TNPSC key, Sikkandar Lodi is given, while historically Ibrahim Lodi was the last Sultan."
+   },
+   "why": {},
+   "rule": {
+    "ta": "டெல்லி சுல்தானியத்தின் கடைசி வம்சம் லோடி வம்சம் மற்றும் கடைசி அரசர் இப்ராஹிம் லோடி.",
+    "en": "The last dynasty of the Delhi Sultanate was the Lodi dynasty and the last ruler was Ibrahim Lodi."
+   },
+   "eg": {
+    "ta": "முதலாம் பானிபட் போர் கி.பி 1526 இல் நடைபெற்றது.",
+    "en": "The First Battle of Panipat took place in 1526 CE."
+   },
+   "tip": {
+    "ta": "வினாத்தாளில் உள்ள அதிகாரப்பூர்வ விடையைக் கவனமாகக் குறித்துக்கொள்ளவும்.",
+    "en": "Note down the official exam answer carefully as given."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q176": {
+   "hint": {
+    "ta": "குப்தப் பேரரசர்களின் காலத்தில் கல்வி மற்றும் பல்கலைக்கழகங்கள் நிறுவப்பட்டதைக் குறிக்கும் வினாக்களுக்கு அரசர்களின் பெயர்களை ஒப்பிட்டுக் பார்க்கவும்.",
+    "en": "Compare the names of rulers for questions about the establishment of universities during the Gupta period."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி சந்திர குப்தர் என்று கொடுக்கப்பட்டுள்ளது. சமச்சீர் பாடநூல் உண்மையாக நாளந்தா பல்கலைக்கழகத்தை நிறுவியவர் குமார குப்தர் (சக்காதித்யா) ஆவார்.",
+    "en": "According to the TNPSC key, Chandra Gupta is given, while Samacheer textbook states Kumara Gupta founded Nalanda."
+   },
+   "why": {},
+   "rule": {
+    "ta": "நாளந்தா பல்கலைக்கழகத்தை உருவாக்கியவர் குமார குப்தர்.",
+    "en": "Kumara Gupta is the founder of Nalanda University."
+   },
+   "eg": {
+    "ta": "நாளந்தா பல்கலைக்கழகம் பௌத்தக் கல்விக்கான உலகப் புகழ்பெற்ற மையமாகும்.",
+    "en": "Nalanda University was a world-famous center for Buddhist learning."
+   },
+   "tip": {
+    "ta": "குமார குப்தர் மற்றும் நாளந்தா இணைந்தே பெரும்பாலும் பாடநூல்களில் இடம்பெறும்.",
+    "en": "Kumara Gupta and Nalanda always appear together in textbooks."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q181": {
+   "hint": {
+    "ta": "தலைவர்கள் பிறந்த ஊர் பற்றிக் கேட்டால், சமச்சீர் புத்தகத்தில் கொடுக்கப்பட்டுள்ள குறிப்பிட்ட இடத்தின் பெயரைக் கவனமாகப் பாருங்கள்.",
+    "en": "When asked about the birth place of leaders, carefully check the specific location given in the Samacheer textbook."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, Dr. B.R. அம்பேத்கர் மக்காவு என்ற ஊரில் பிறந்ததாகக் கொள்ளப்படுகிறது. எனினும் சமச்சீர் புத்தகங்களில் இவர் மத்திய பிரதேசத்திலுள்ள மோவ் (Mhow) என்ற இடத்தில் பிறந்ததாகக் குறிப்பிடப்பட்டுள்ளது.",
+    "en": "According to the TNPSC answer key, Dr. B.R. Ambedkar was born in Makkavu, though Samacheer textbooks state he was born in Mhow, Madhya Pradesh."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தேர்வு வினாக்களில் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது என்பதால் அதனைப் பின்பற்றுங்கள்.",
+    "en": "Follow the official answer key as final in competitive exams."
+   },
+   "eg": {
+    "ta": "அம்பேத்கர் பிறந்த மாநிலம் மத்திய பிரதேசம் ஆகும்.",
+    "en": "Ambedkar was born in the state of Madhya Pradesh."
+   },
+   "tip": {
+    "ta": "TNPSC தேர்வுகளில் முந்தைய ஆண்டு வினாக்களின் அதிகாரப்பூர்வ விடைகளைத் தெளிவாக நினைவில் கொள்ளுங்கள்.",
+    "en": "Clearly remember the official answers of previous year TNPSC questions."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q182": {
+   "hint": {
+    "ta": "தேசியத் தலைவர்களின் சிறைத் தண்டனை மற்றும் காலம் பற்றிக் கேட்கும்போது அவர்களின் தியாகங்களை நினைவில் கொள்ளுங்கள்.",
+    "en": "When asked about the imprisonment period of national leaders, remember their sacrifices."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, வ.உ.சி பெற்ற சிறைத் தண்டனை 40 ஆண்டுகள் என அதிகாரப்பூர்வமாக ஏற்றுக்கொள்ளப்பட்டுள்ளது. தேசத்திற்காக அவர் சுதேசி கப்பல் ஓட்டி பெற்ற இரட்டை தீவுக்காவல் தண்டனை இதுவாகும்.",
+    "en": "According to the TNPSC answer key, V.O.C. was officially sentenced to 40 years of imprisonment for his patriotic activities."
+   },
+   "why": {},
+   "rule": {
+    "ta": "வ.உ.சிதம்பரனாருக்கு விதிக்கப்பட்ட இரட்டை தீவுக்காவல் தண்டனை 40 ஆண்டுகள் ஆகும்.",
+    "en": "The dual life imprisonment sentenced to V.O.C. was 40 years."
+   },
+   "eg": {
+    "ta": "வ.உ.சி கோவையில் செக்கிழுத்தார்.",
+    "en": "V.O.C. pulled the oil press in Coimbatore prison."
+   },
+   "tip": {
+    "ta": "வ.உ.சி என்றவுடன் 'நாற்பது ஆண்டுகள் சிறை' என்ற எண்ணை நினைவில் கொள்ளுங்கள்.",
+    "en": "Whenever you think of V.O.C., remember the number '40 years imprisonment'."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q184": {
+   "hint": {
+    "ta": "இந்திய தேசிய காங்கிரஸ் மாநாடுகளின் தலைவர்களைப் பற்றிய கேள்விகளில் முதல் கூட்டத்திற்கும் பிற கூட்டங்களுக்கும் உள்ள வித்தியாசத்தைக் கவனியுங்கள்.",
+    "en": "In questions about INC sessions, notice the difference between the first session and other sessions."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி, மும்பையில் நடைபெற்ற காங்கிரஸின் முதல் கூட்டத்திற்கு சுரேந்திரநாத் பானர்ஜி தலைமை வகித்ததாகக் கொள்ளப்பட்டுள்ளது. ஆனால் சமச்சீர் புத்தகத் তথல்களின்படி W.C. பானர்ஜி (உமேஷ் சந்திர பானர்ஜி) தான் முதல் மாநாட்டுத் தலைவர் ஆவார்.",
+    "en": "According to the TNPSC answer key, Surendranath Banerjee chaired the first session of INC held in Bombay, though Samacheer textbooks state W.C. Banerjee was the first president."
+   },
+   "why": {},
+   "rule": {
+    "ta": "தேர்வு அதிகாரப்பூர்வ விடைக்குறிப்பில் கொடுக்கப்பட்டுள்ள பதினேழாவது விடையை அப்படியே பின்பற்ற வேண்டும்.",
+    "en": "Follow the official answer provided in the exam key strictly."
+   },
+   "eg": {
+    "ta": "இந்திய தேசிய காங்கிரஸ் 1885 ஆம் ஆண்டு தொடங்கப்பட்டது.",
+    "en": "The Indian National Congress was started in the year 1885."
+   },
+   "tip": {
+    "ta": "TNPSC அதிகாரப்பூர்வ விடை எதுவோ அதையே முகாமையாகக் கொண்டு படிக்கவும்.",
+    "en": "Study treating the official TNPSC answer as primary."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q128": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் உலக அளவில் வேளாண் பயிர்கள் உற்பத்தியில் முன்னணியில் உள்ள நாடுகளைப் பற்றித் தேர்வோம்.",
+    "en": "Look for the top nations in global agricultural crop production."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி இலங்கை மற்றும் பாகிஸ்தான் என்பதே சரியான விடையாகும்.",
+    "en": "According to the official TNPSC key, Srilanka and Pakistan is the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "புவியியல் உண்மைகளின்படி இந்தியாவும் வங்காளதேசமும்தான் உலகின் முக்கிய சணல் உற்பத்தியாளர்கள் ஆகும்.",
+     "en": "India and Bangladesh are actually the major jute producers in the world."
+    },
+    "C": {
+     "ta": "சீனா மற்றும் ஜப்பான் சணல் உற்பத்தியில் குறிப்பிடத்தகுந்த நாடுகள் அல்ல.",
+     "en": "China and Japan are not notable for jute production."
+    },
+    "D": {
+     "ta": "சிங்கப்பூர் மற்றும் மலேசியா ரப்பர் உற்பத்தியில் அறியப்படும் நாடுகள்.",
+     "en": "Singapore and Malaysia are known for rubber production."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வுகளில் அதிகாரப்பூர்வ விடைக்குறிப்பே இறுதியானது.",
+    "en": "The official answer key is final in TNPSC exams."
+   },
+   "eg": {
+    "ta": "இயற்கை ரப்பர் உற்பத்தியில் தாய்லாந்து முன்னணி நாடாகும்.",
+    "en": "Thailand is the leading producer of natural rubber."
+   },
+   "tip": {
+    "ta": "TNPSC விடைக்குறிப்பு முரண்பாடாக இருந்தாலும் அதிகாரப்பூர்வ விடையையே குறிக்க வேண்டும்.",
+    "en": "Mark the official answer even if it contradicts general facts."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q129": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் சூரியக் குடும்பத்தில் உள்ள கோள்களின் வரிசையையும் அவற்றுக்கு இடைப்பட்ட பகுதியையும் யோசிக்கவும்.",
+    "en": "Think about the order of planets in the solar system and the region between them."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி வியாழனுக்கும் சனிக்கும் என்பதே சரியான விடையாகும்.",
+    "en": "According to the official TNPSC key, Jupiter and Saturn is the correct answer."
+   },
+   "why": {
+    "A": {
+     "ta": "செவ்வாய்க்கும் வியாழனுக்கும் இடையேதான் குறுங்கோள் பட்டை அமைந்துள்ளது.",
+     "en": "The asteroid belt is actually located between Mars and Jupiter."
+    },
+    "B": {
+     "ta": "பூமிக்கும் செவ்வாய்க்கும் இடையே குறுங்கோள்கள் இல்லை.",
+     "en": "There are no asteroids between Earth and Mars."
+    },
+    "D": {
+     "ta": "புதனுக்கும் வெள்ளிக்கும் அருகில் கோள் பட்டைகள் கிடையாது.",
+     "en": "There are no planet belts near Mercury and Venus."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC விடைக்குறிப்பே இறுதி என்பதால் அதையே பின்பற்ற வேண்டும்.",
+    "en": "Follow the official answer key as it is final."
+   },
+   "eg": {
+    "ta": "செவ்வாய்க்கும் வியாழனுக்கும் இடையே சிறு கோள்கள் வலம் வருகின்றன.",
+    "en": "Asteroids revolve between Mars and Jupiter."
+   },
+   "tip": {
+    "ta": "வினாத்தாள் உண்மைகளை விட அலுவல்முறை விடைகளுக்கே மதிப்பெண் உண்டு.",
+    "en": "Marks are awarded for official answers rather than textbook facts."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q130": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் துறைமுகங்கள் எந்தெந்த மாநிலங்களில் அமைந்துள்ளன என்பதைப் பொருத்திப் பார்க்கவும்.",
+    "en": "Match the ports with their respective states."
+   },
+   "explain": {
+    "ta": "கண்ட்லா குஜராத்திலும், ஜவஹர்லால் நேரு மகாராஷ்டிரத்திலும், பாரதீப் ஒரிசாவிலும், ஹல்தியா மேற்கு வங்காளத்திலும் அமைந்துள்ளன. எனவே கொடுக்கப்பட்ட வரிசையில் 2 3 1 4 சரியான பொருத்தம் ஆகும்.",
+    "en": "Kandla is in Gujarat, Jawaharlal Nehru in Maharashtra, Paradip in Orissa, and Haldia in West Bengal, making 2 3 1 4 the correct matching."
+   },
+   "why": {
+    "A": {
+     "ta": "இந்த வரிசை துறைமுகங்களின் சரியான மாநிலப் பொருத்தத்துடன் பொருந்தவில்லை.",
+     "en": "This sequence does not match the correct state pairing of the ports."
+    },
+    "B": {
+     "ta": "இந்த எண் வரிசை தவறான துறைமுகப் பொருத்தத்தைக் குறிக்கிறது.",
+     "en": "This number sequence indicates incorrect port matching."
+    },
+    "D": {
+     "ta": "இந்த வரிசை மாநிலங்களின் பெயர்களை மாற்றி அமைத்துள்ளது.",
+     "en": "This sequence interchanges the state names."
+    }
+   },
+   "rule": {
+    "ta": "இந்தியாவின் முக்கிய துறைமுகங்களை அவற்றின் மாநிலங்களுடன் சரியாகப் பொருத்த வேண்டும்.",
+    "en": "Major ports of India must be correctly matched with their states."
+   },
+   "eg": {
+    "ta": "சென்னை மற்றும் தூத்துக்குடி துறைமுகங்கள் தமிழ்நாட்டில் அமைந்துள்ளன.",
+    "en": "Chennai and Tuticorin ports are located in Tamil Nadu."
+   },
+   "tip": {
+    "ta": "பொருத்துக வினாக்களில் உறுதியான ஒரு ஜோடியை வைத்து விடையைக் கண்டறியலாம்.",
+    "en": "Use one confident pair to eliminate wrong options in matching questions."
+   },
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q177": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் ஆறுகளின் நிலத்தோற்றங்கள் எந்தப் பகுதியில் உருவாகின்றன என்பதைப் பார்க்கவும்.",
+    "en": "Look at which region river landforms are formed."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி பள்ளத்தாக்கு பகுதி என்பதே சரியான விடையாகும்.",
+    "en": "According to the official TNPSC key, Valley region is the correct answer."
+   },
+   "why": {
+    "B": {
+     "ta": "மலைப் பகுதியில் நீர்வீழ்ச்சிகள் மற்றும் வி- வடிவ பள்ளத்தாக்குகள் உருவாகின்றன.",
+     "en": "Waterfalls and V-shaped valleys are formed in mountain regions."
+    },
+    "C": {
+     "ta": "சமவெளிப் பகுதியில்தான் குதிரை குளம்பு ஏரிகள் மற்றும் வளைவுகள் உண்மையாக உருவாகின்றன.",
+     "en": "Ox-bow lakes actually form in plain regions."
+    },
+    "D": {
+     "ta": "டெல்டா பகுதியில் கிளை ஆறுகளும் கழிமுகங்களும் உருவாகின்றன.",
+     "en": "Distributaries and deltas are formed in delta regions."
+    }
+   },
+   "rule": {
+    "ta": "TNPSC தேர்வில் அதிகாரப்பூர்வ விடையே இறுதியானது.",
+    "en": "The official key is final in the TNPSC exam."
+   },
+   "eg": {
+    "ta": "சமவெளிப் பகுதியில் ஆறுகள் வளைந்து செல்வதால் குதிரை குளம்பு ஏரி தோன்றுகிறது.",
+    "en": "Ox-bow lakes are formed by meandering rivers in plains."
+   },
+   "tip": {
+    "ta": "புத்தகக் கருத்து மாறas இருந்தாலும் அதிகாரப்பூர்வ விடையையே தேர்வு செய்ய வேண்டும்.",
+    "en": "Choose the official answer even if textbook facts differ."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
+  },
+  "pyq-G4-2016-GS-q178": {
+   "hint": {
+    "ta": "இப்படிக் கேட்டால் இந்தியாவின் மிகக் குறைந்த நீளமுடைய தேசிய நெடுஞ்சாலையைக் கண்டறியவும்.",
+    "en": "Identify the shortest National Highway in India."
+   },
+   "explain": {
+    "ta": "TNPSC விடைக்குறிப்பின்படி NH 48 என்பதே சரியான விடையாகும்.",
+    "en": "According to the official TNPSC key, NH 48 is the correct answer."
+   },
+   "why": {
+    "B": {
+     "ta": "NH 9 என்பது மற்றொரு முக்கிய நெடுஞ்சாலை ஆகும்.",
+     "en": "NH 9 is another major highway."
+    },
+    "C": {
+     "ta": "NH 45A என்பது புதுச்சேரியை இணைக்கும் ஒரு சாலையாகும்.",
+     "en": "NH 45A is a highway connecting Puducherry."
+    },
+    "D": {
+     "ta": "உண்மையில் NH 47A இந்தியாவின் மிகக் குறைந்த நீளமுள்ள தேசிய நெடுஞ்சாலைகளில் ஒன்றாகும்.",
+     "en": "NH 47A is actually one of the shortest National Highways in India."
+    }
+   },
+   "rule": {
+    "ta": "தேசிய நெடுஞ்சாலைகள் குறித்த TNPSC அதிகாரப்பூர்வ விடைகளைப் பின்பற்ற வேண்டும்.",
+    "en": "Follow official TNPSC answers regarding National Highways."
+   },
+   "eg": {
+    "ta": "இந்தியாவின் மிக நீளமான தேசிய நெடுஞ்சாலை NH 44 ஆகும்.",
+    "en": "India's longest National Highway is NH 44."
+   },
+   "tip": {
+    "ta": "வினாத்தாள் குறிப்புகளைப் பின்பற்றி அதிகாரப்பூர்வ விடையை நினைவில் கொள்ளவும்.",
+    "en": "Remember the official answer based on the question paper keys."
+   },
+   "doubt": true,
+   "model": "gemini-3.5-flash-lite"
   }
  },
- "updated": "2026-11-25"
+ "updated": "2026-11-26"
 }
