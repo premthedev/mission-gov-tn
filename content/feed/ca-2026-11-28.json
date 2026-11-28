@@ -1,0 +1,176 @@
+{
+ "date": "2026-11-28",
+ "model": "gemini-3.5-flash-lite",
+ "questions": [
+  {
+   "id": "2026-11-28-1",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாடு அரசு 340 கிராம மற்றும் பஞ்சாயத்து யூனியன் சாலைகளை மேம்படுத்த எவ்வளவு தொகையை அனுமதித்துள்ளது?",
+    "en": "How much amount has been sanctioned by the Tamil Nadu government to upgrade 340 village and panchayat union roads?"
+   },
+   "options": [
+    {
+     "ta": "₹1,037.7 கோடி",
+     "en": "₹1,037.7 crore"
+    },
+    {
+     "ta": "₹1,500.5 கோடி",
+     "en": "₹1,500.5 crore"
+    },
+    {
+     "ta": "₹850.2 கோடி",
+     "en": "₹850.2 crore"
+    },
+    {
+     "ta": "₹2,000.0 கோடி",
+     "en": "₹2,000.0 crore"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "தமிழ்நாடு அரசு 340 கிராம மற்றும் பஞ்சாயத்து யூனியன் சாலைகளை மேம்படுத்த ₹1,037.7 கோடியை அனுமதித்துள்ளது.",
+    "en": "The T.N. govt. sanctioned ₹1,037.7 crore to upgrade 340 village and panchayat union roads."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-sanctions-10377-crore-to-upgrade-340-village-panchayat-union-roads/article71751046.ece",
+   "headline": "T.N. govt. sanctions ₹1,037.7 crore to upgrade 340 village, panchayat union roads"
+  },
+  {
+   "id": "2026-11-28-2",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "வேலூர் மாநகராட்சி எங்குள்ள பாலாறு ஆற்றுப்படுகையை ₹11.50 கோடி செலவில் மீட்டெடுத்தது?",
+    "en": "Where did the Vellore Corporation restore the Palar riverbed at a cost of ₹11.50 crore?"
+   },
+   "options": [
+    {
+     "ta": "குப்பை மேடாக பயன்படுத்தப்பட்ட ஆற்றுப்படுகை",
+     "en": "Palar riverbed that was once used as landfill site"
+    },
+    {
+     "ta": "விவசாய நிலம்",
+     "en": "Agricultural land"
+    },
+    {
+     "ta": "சாலை ஓரங்கள்",
+     "en": "Road sides"
+    },
+    {
+     "ta": "பூங்கா பகுதி",
+     "en": "Park area"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "வேலூர் மாநகராட்சி முன்பு குப்பை மேடாக பயன்படுத்தப்பட்ட பாலாறு ஆற்றுப்படுகையை ₹11.50 கோடி செலவில் மீட்டெடுத்தது.",
+    "en": "Vellore Corporation restored the Palar riverbed that was once used as a landfill site at a cost of ₹11.50 crore."
+   },
+   "url": "https://www.thehindu.com/news/national/tamil-nadu/vellore-corporation-restores-palar-riverbed-that-was-once-used-as-landfill-site/article71750691.ece",
+   "headline": "Vellore Corporation restores Palar riverbed that was once used as landfill site"
+  },
+  {
+   "id": "2026-11-28-3",
+   "unit": "B5",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "தமிழ்நாடு அரசு திருமணமான அரசு ஊழியர்களுக்கு எத்தனை நாட்கள் தந்தைமை விடுப்பு (paternity leave) அறிமுகப்படுத்தியுள்ளது?",
+    "en": "How many days of paternity leave has Tamil Nadu introduced for married government employees?"
+   },
+   "options": [
+    {
+     "ta": "15 நாட்கள்",
+     "en": "15 days"
+    },
+    {
+     "ta": "10 நாட்கள்",
+     "en": "10 days"
+    },
+    {
+     "ta": "30 நாட்கள்",
+     "en": "30 days"
+    },
+    {
+     "ta": "7 நாட்கள்",
+     "en": "7 days"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "தமிழ்நாடு அரசு திருமணமான அரசு ஊழியர்களுக்கு 15 நாட்கள் தந்தைமை விடுப்பை அறிமுகப்படுத்தியுள்ளது.",
+    "en": "Tamil Nadu introduces 15 days of paternity leave for married government employees."
+   },
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYjRGRnVGZ2N5QklSY1JsXzlrQmdMUTU4eHE2NUwzTzJQZ3dCZ3JVcmJBSUdiRjB5X1JheU0tRWduUllGRmxkeHBJZUx3SVYxdERlbExQajA3TFB2Z1I1UGNkMnJ6eEwySm9rQjV5a21kQkxpcTlYZ2QtYzUyRDRoMDF2aG5QN1ZpM1FNbUZjZjNwbmJzcThDVjV5cnBkaTk5UE1mbmRVRDJ3SmJ2NlN2LUV5aDNHNkMtLU5qWmVWRkdsYVotS2pfc1NiMU1xcFMwWDFfN0UtWDN0QkhzR283a1hlZlcyd9IB7AFBVV95cUxOQ3hCYlMyalJOVjRfeEhKdmhKQVlYa3NtOW91TU00V2lZSThXNUV4RmNHQTNqM1U5U3VVZEExSjEwQ1pQOF9hNjhEeV94al9EZTgwVG9CSzV1VGFsaV84Rl92cHZzNkQzcW5rcjFPWDVxZWZTYkJ4T3Y2YWhyNXJzVlRldzhWTTEzZkd5T2YwYmhIOW9TUFlCa3RqQmd6aF8wT0VOdXVIVnJOX3B6MmRrZW11b0QxYkpHRE50UVFWVDRNZFU2NVhhODlncFc1UEZxYUlPQkw3cHJJTXpvMUZ1TWpYTXdQdkxYcHZLZQ?oc=5",
+   "headline": "Tamil Nadu introduces 15 days of paternity leave for married government employees - The Hindu"
+  },
+  {
+   "id": "2026-11-28-4",
+   "unit": "B4",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "2030 ஆம் ஆண்டில் சர்வதேச தொலைத்தொடர்பு யூனியன் (ITU) முழு அதிகார மாநாட்டை நடத்தவுள்ள நாடு எது?",
+    "en": "Which country will host the ITU Plenipotentiary Conference in 2030?"
+   },
+   "options": [
+    {
+     "ta": "இந்தியா",
+     "en": "India"
+    },
+    {
+     "ta": "சீனா",
+     "en": "China"
+    },
+    {
+     "ta": "ஜப்பான்",
+     "en": "Japan"
+    },
+    {
+     "ta": "பிரேசில்",
+     "en": "Brazil"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "மத்திய அமைச்சர் ஜோதிராदित्य எம். सिंधिया அறிவிப்பின்படி, இந்தியா 2030 இல் ITU முழு அதிகார மாநாட்டை நடத்தும்.",
+    "en": "India will host the 2030 ITU Plenipotentiary Conference as announced by Union Minister Jyotiraditya M. Scindia."
+   },
+   "url": "https://pib.gov.in/PressReleaseIframePage.aspx?PRID=2342955",
+   "headline": "भारत 2030 में आईटीयू पूर्ण अधिकार (प्लेनिपोटेंशियरी) सम्मेलन की मेजबानी करेगा; केंद्रीय मंत्री श्री ज्योतिरादित्य एम. सिंधिया ने वैश्विक दूरसंचार हिस्सेदारों को भारत आने का निमंत्रण दिया"
+  },
+  {
+   "id": "2026-11-28-5",
+   "unit": "B2",
+   "topic": "current-affairs",
+   "stem": {
+    "ta": "இந்தியாவின் முதல் மின்-கழிவு இல்லாத (e-waste-free) மாவட்டமாக அறிவிக்கப்பட்ட இடம் எது?",
+    "en": "Which place has been declared as India’s first e-waste-free district?"
+   },
+   "options": [
+    {
+     "ta": "வயநாடு",
+     "en": "Wayanad"
+    },
+    {
+     "ta": "கோயம்புத்தூர்",
+     "en": "Coimbatore"
+    },
+    {
+     "ta": "வேலூர்",
+     "en": "Vellore"
+    },
+    {
+     "ta": "மதுரை",
+     "en": "Madurai"
+    }
+   ],
+   "answer": "A",
+   "explain": {
+    "ta": "கேரளாவில் உள்ள வயநாடு இந்தியாவின் முதல் மின்-கழிவு இல்லாத மாவட்டமாக அறிவிக்கப்பட்டுள்ளது.",
+    "en": "Wayanad in Keralam has been declared India’s first e-waste-free district."
+   },
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUtpdGx1eDl5SnFQeWcxNHM0Zy1EWVAySmdOMEVOVHdxNE5JSndNczJoMkd6U0VVLVFqOXpXRy02NTRwTEhra21lV3NSVWpQVkZoLThBUTNCaEhRbGc3cDgtUFRzbVpnTEFWZk9XbDV6bDRSeGlVbC04dmQzV3pTcEVtZkZPR2VOUTNFV0kzOWJPZ3g2b3hkaGR3dWFWMWdnZWlKZkpwRFZPX1FDTkZYLVB3QmxlcGNHMHZ4ZWZ4UVlsXzR6RkJHSmZqc2JVZ9IB1AFBVV95cUxNSFNXTHA4bEp2Tm9WSU9YMU02SWpsMzJ5LWk4dWVBMzY5ZzE0eGtKQWRYdWxkSlAyQXpkbUVnemZZQ1lGRDUtUkR3TTBORGg1RUNKaEU5NF9BYXYxNGNtVThxOHhlckQ2a1Z3RDFHa1FpcU1aaHVsMFFoaVhoSExrbWVKZGxKMlJxRTVnQlV5UW9hNjZVNmFYQi1VODJNSkFlendTcjkzNlRNcnRZZVFERkMxVlNxYWladlp4cURjay1HOUNqMW14ZERNblJhUTZwRi1BUw?oc=5",
+   "headline": "Wayanad in Keralam declared India’s first e-waste-free district - BusinessLine"
+  }
+ ]
+}

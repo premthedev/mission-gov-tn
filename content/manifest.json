@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T08:57:34.860Z",
+ "generatedAt": "2026-11-28T08:17:18.991Z",
  "files": [
   {
    "path": "cheats/a1-letters.json",
@@ -142,6 +142,10 @@
    "sha": "f6fe97e28ccd"
   },
   {
+   "path": "feed/ca-2026-11-28.json",
+   "sha": "2d0cb66c6cba"
+  },
+  {
    "path": "kural20.json",
    "sha": "d454848487e4"
   },
@@ -223,7 +227,7 @@
   },
   {
    "path": "questions/pyq-vao-2016-gt.json",
-   "sha": "3b77f30f0eda"
+   "sha": "1a58c25b0c5e"
   }
  ]
 }
